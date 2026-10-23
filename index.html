@@ -132,6 +132,30 @@
   </div>
 </section>
 
+<!-- ================= MÜHLBERGER DIGITAL ================= -->
+<section class="md-sec" id="muehlberger-digital">
+  <div class="wrap">
+    <div class="md-card">
+      <div class="md-l">
+        <div class="md-logo fx"><img class="z" src="img/md-zeichen.png" alt=""><img class="w" src="img/md-schrift.png" alt="Mühlberger Digital"></div>
+        <h2 class="split">Ihr Unternehmen. Digital weitergedacht.</h2>
+        <p class="big fx">Ein Ansprechpartner. Passende digitale Lösungen. Zusammenarbeit mit Spezialisten.</p>
+        <p class="fx">Unternehmen stehen vor der Herausforderung, online sichtbar zu sein, Kundenanfragen effizient zu bearbeiten und wiederkehrende Aufgaben einfacher zu gestalten. Mühlberger Digital begleitet Unternehmen bei der Auswahl passender digitaler Lösungen – gemeinsam mit unserem Partner <a class="tl" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener">Pipeline AI Solutions</a>.</p>
+        <div class="fuer fx"><b>Für wen?</b><p>Für kleine und mittlere Unternehmen, Dienstleister, Handwerksbetriebe und Teams, die ihre digitale Präsenz verbessern, Kommunikation strukturieren oder Prozesse mit moderner Software und KI unterstützen möchten.</p></div>
+        <div class="acts fx"><button class="btn lg" data-book><span class="t"><span>Erstgespräch buchen</span><span>Erstgespräch buchen</span></span></button><a class="btn lg white" href="ueber-uns.html">Mehr über uns</a></div>
+      </div>
+      <div class="mlist">
+        <div class="ml fx"><span class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="13" rx="2"/><path d="M8 21h8M12 17v4"/></svg></span><b>Professionelle Websites</b><small>Moderner Auftritt, klar dargestellte Leistungen und Kontaktmöglichkeiten – optimiert für Smartphone, Tablet und Computer.</small></div>
+        <div class="ml fx"><span class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="2" width="10" height="20" rx="2.5"/><path d="M11 18h2"/></svg></span><b>Mobile Apps im App Store</b><small>Digitale Services für Kunden oder Mitarbeiter – Informationen, Inhalte und Funktionen an einem Ort.</small></div>
+        <a class="ml fx" href="https://pipeflow.at/" target="_blank" rel="noopener"><span class="ic"><img src="img/i-pipeflow.png" alt=""></span><b>Pipeflow ↗</b><small>KI-gestützte Social-Media-Automatisierung: Beiträge vorbereiten, planen und veröffentlichen.</small></a>
+        <a class="ml fx" href="https://noteit.at/" target="_blank" rel="noopener"><span class="ic"><img src="img/i-noteit.png" alt=""></span><b>noteit ↗</b><small>KI-Berichte zu Gesprächen – wichtige Punkte strukturiert festgehalten, weniger Nacharbeit.</small></a>
+        <a class="ml fx" href="https://pipebot.at/" target="_blank" rel="noopener"><span class="ic"><img src="img/i-pipebot.png" alt=""></span><b>Pipebot ↗</b><small>Chatbot für Ihre Website: beantwortet Fragen und führt Besucher zu den passenden Informationen.</small></a>
+        <div class="ml fx"><span class="ic"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14M5 12h14"/></svg></span><b>Weitere KI- und IT-Lösungen</b><small>Automatisierung, individuelle Software und digitale Werkzeuge – wir klären, was zu Ihnen passt.</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- ================= PROJEKTE ================= -->
 <section class="projects" id="projekte">
   <div class="wrap sec-head">
@@ -490,6 +514,9 @@ function onScroll(y) {
 function menu(o) { mm.classList.toggle("on", o); burger.classList.toggle("on", o); burger.setAttribute("aria-expanded", o); onScroll(lastY); o ? lenis?.stop() : lenis?.start(); }
 burger.addEventListener("click", () => menu(!mm.classList.contains("on")));
 mm.addEventListener("click", e => { if (e.target.closest("a, [data-book]")) menu(false); });
+
+// Navigation verschwindet im dunklen Fuß
+new IntersectionObserver(([e]) => nav.classList.toggle("imfuss", e.isIntersecting), { rootMargin: "0px 0px -60% 0px" }).observe($("footer"));
 
 /* Weiches Scrollen & Anker */
 if (HAS_GSAP && window.Lenis && !REDUCED && !STATIC) {

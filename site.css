@@ -75,7 +75,7 @@ html.no-intro .intro { display: none; }
 
 /* Navigation: schwebende Leiste */
 .nav { position: fixed; top: 12px; left: 0; right: 0; z-index: 90; padding: 0 var(--pad); transition: transform .5s var(--swap); pointer-events: none; }
-.nav.hide { transform: translateY(-120%); }
+.nav.hide, .nav.imfuss { transform: translateY(-120%); }
 .nav .bar { pointer-events: auto; max-width: calc(var(--max) - 2 * var(--pad) + 32px); margin: 0 auto; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; height: 60px; padding: 0 8px 0 18px; border-radius: 999px; transition: background .4s, box-shadow .4s; }
 .nav.solid .bar { background: rgba(255,255,255,.82); backdrop-filter: saturate(1.6) blur(18px); -webkit-backdrop-filter: saturate(1.6) blur(18px); box-shadow: 0 0 0 1px rgba(0,0,0,.05), 0 10px 30px -12px rgba(0,0,0,.18); }
 .brand { display: flex; align-items: center; gap: 10px; }
@@ -281,6 +281,38 @@ a.lk:hover { filter: brightness(.85); }
 .sig img { width: 48px; height: 48px; border-radius: 50%; object-fit: cover; object-position: 50% 15%; }
 .sig b { display: block; }
 .sig small { color: var(--mute); }
+
+/* Mühlberger Digital */
+.md-sec { padding: 130px 0 0; }
+.md-card { background: var(--off); border-radius: var(--r-xl); padding: 52px; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 52px; align-items: start; }
+.md-logo { display: flex; align-items: center; gap: 14px; margin-bottom: 30px; }
+.md-logo .z { height: 62px; width: auto; }
+.md-logo .w { height: 44px; width: auto; }
+.md-card h2 { font-size: clamp(34px, 3.6vw, 52px); }
+.md-card p { color: var(--text); font-size: 16px; line-height: 25px; margin-top: 16px; }
+.md-card p.big { font: 650 21px/1.35 var(--display); letter-spacing: -.02em; color: var(--ink); margin-top: 18px; }
+.fuer { margin-top: 22px; padding: 18px 20px; background: #fff; border-radius: var(--r-md); }
+.fuer b { font-weight: 650; }
+.fuer p { margin-top: 6px; font-size: 15px; line-height: 23px; }
+.md-card .acts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+.mlist { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.ml { background: #fff; border-radius: var(--r-lg); padding: 22px; display: flex; flex-direction: column; gap: 8px; transition: transform .4s var(--ease), box-shadow .4s; }
+a.ml:hover { transform: translateY(-3px); box-shadow: 0 20px 40px -24px rgba(0,0,0,.25); }
+.ml .ic { width: 46px; height: 46px; border-radius: 13px; background: var(--off); display: grid; place-items: center; margin-bottom: 6px; }
+.ml .ic img { width: 28px; height: 28px; object-fit: contain; border-radius: 7px; }
+.ml b { font: 650 17px/1.25 var(--display); letter-spacing: -.01em; }
+.ml small { color: var(--mute); font-size: 14px; line-height: 21px; }
+@media (max-width: 991px) {
+  .md-card { grid-template-columns: 1fr; padding: 36px; gap: 36px; }
+}
+@media (max-width: 640px) {
+  .md-sec { padding-top: 100px; }
+  .md-card { padding: 28px 20px; border-radius: var(--r-lg); }
+  .md-logo .z { height: 48px; }
+  .md-logo .w { height: 34px; }
+  .mlist { grid-template-columns: 1fr; }
+  .md-card .acts .btn { flex: 1 1 auto; }
+}
 
 /* Preise */
 .pricing { background: var(--off); padding: 140px 0; }
@@ -566,6 +598,17 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .qi button { padding: 18px; font-size: 16px; }
   .qi .a p { padding: 0 18px 20px; }
   footer { padding-top: 100px; border-radius: var(--r-lg) var(--r-lg) 0 0; }
+}
+@media (max-width: 640px) {
+  .nav .bar { height: 54px; padding: 0 6px 0 14px; }
+  .brand img.m { width: 30px; }
+  .brand img.w { width: 106px; }
+  .burger { width: 42px; height: 42px; padding: 14px 12px; }
+  .fcols { grid-template-columns: 1fr 1fr; gap: 34px 20px; margin-top: 64px; padding-top: 36px; }
+  .fcols > div:nth-child(3) { grid-column: 1 / -1; }
+  .fcols .news h4 { font-size: 22px; }
+  .fbase { flex-direction: column; align-items: center; text-align: center; gap: 12px; margin-top: 48px; }
+  .lock .sub { font-size: 15px; line-height: 23px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; transition: none !important; }
