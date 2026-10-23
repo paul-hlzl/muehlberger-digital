@@ -586,8 +586,8 @@ function heroAnimation() {
     .from(".h2vis .laptop", { y: 90, opacity: 0, duration: 1.3, ease: "power3.out" }, .3)
     .from(".h2vis .phone2", { y: 120, opacity: 0, duration: 1.3, ease: "power3.out" }, .5)
     .from(".h2vis .snote", { x: 30, opacity: 0, duration: .8, ease: "back.out(1.6)" }, 1.4)
-    .from(".hc", { y: 40, opacity: 0, duration: .9, stagger: .08, ease: "power3.out" }, .7)
-    .from(".h2partner", { y: 30, opacity: 0, duration: .9, ease: "power3.out" }, 1)
+    .from(".hc", { opacity: 0, duration: .9, stagger: .08, ease: "power2.out", clearProps: "opacity" }, .7)
+    .from(".h2partner", { opacity: 0, duration: .9, ease: "power2.out", clearProps: "opacity" }, 1)
     .from(".hero .fx", { opacity: 0, y: 24, duration: 1, stagger: .08, ease: "power3.out" }, .5);
 }
 function animationen() {
