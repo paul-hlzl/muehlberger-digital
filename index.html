@@ -82,17 +82,15 @@
 <!-- ================= HERO ================= -->
 <section class="hero">
   <div class="wrap">
-    <span class="kicker fx"><span class="lang">Websites · Apps · Künstliche Intelligenz · Automatisierung</span><span class="kurz">Websites · Apps · KI · Automatisierung</span></span>
-    <h1 id="h1"><span class="line">Ihr Unternehmen.</span><span class="line">Digital</span><span class="line">weitergedacht.</span></h1>
-    <p class="sub fx">Wir begleiten Unternehmen bei Websites, Apps und KI-Lösungen – mit festem Ansprechpartner und einem Entwicklerteam, das liefert.</p>
+    <h1 id="h1"><span class="line">Hallo, ich bin</span><span class="line">Jonas Mühlberger</span><span class="line">Ihr Digital-Partner</span></h1>
     <div class="ctas fx">
       <button class="btn lg" data-book><span class="t"><span>Kostenloses Erstgespräch</span><span>Kostenloses Erstgespräch</span></span></button>
       <a class="btn lg white" href="#projekte">Projekte ansehen</a>
     </div>
     <div class="gallery">
-      <figure class="side l" style="--sb:#ffffff"><img src="img/m-pipebot.webp" alt="Pipebot auf dem Smartphone" width="600" height="1298"></figure>
-      <figure class="main"><div class="top"><i></i><i></i><i></i><span>noteit.at</span></div><img id="hero-img" src="img/p-noteit.webp" alt="Website von noteit" width="1440" height="900"></figure>
-      <figure class="side r" style="--sb:#8dc8f6"><img src="img/m-sightup.webp" alt="SightUp auf dem Smartphone" width="600" height="1298"></figure>
+      <figure class="side l"><img src="img/jonas-nadelstreif.webp" alt="" width="640" height="640" style="object-position:50% 20%"></figure>
+      <figure class="main"><img id="hero-img" src="img/jonas-anzug-foto.webp" alt="Jonas Mühlberger, Gründer von Mühlberger Digital" width="1024" height="1536"></figure>
+      <figure class="side r"><img src="img/jonas-lounge.webp" alt="" width="640" height="640" style="object-position:62% 50%"></figure>
     </div>
     <a class="partner fx" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener"><img src="img/pipeline-p.png" alt="">In Partnerschaft mit Pipeline AI Solutions</a>
   </div>
@@ -106,6 +104,31 @@
     <p class="cap fx">Produkte &amp; Projekte aus der Partnerschaft mit Pipeline AI Solutions</p>
     <div class="mq" aria-hidden="true"><div class="t" id="mq1"></div><div class="t" id="mq1b"></div></div>
     <div class="mq rev" aria-hidden="true"><div class="t" id="mq2"></div><div class="t" id="mq2b"></div></div>
+  </div>
+</section>
+
+<!-- ================= ÜBER MICH ================= -->
+<section class="about first" id="ueber-mich">
+  <div class="wrap grid">
+    <div class="txt">
+      <span class="eyebrow fx">Über mich</span>
+      <h2 class="split">Jonas Mühlberger</h2>
+      <p class="big fx">Digital. Innovativ. Mit Blick nach vorne – und mit beiden Beinen im Waldviertel.</p>
+      <p class="fx">Ich bin Gründer von Mühlberger Digital und komme aus Ottenschlag. Ich erlebe immer wieder Betriebe, die genau wissen, dass sie digital mehr machen sollten – aber keine Zeit haben, sich durch Agenturen, Tools und Fachbegriffe zu kämpfen.</p>
+      <p class="fx">Genau da setze ich an: Ich höre zu, verstehe Ihren Ablauf und zeige Ihnen Lösungen, die schon laufen – live und mit Ihren eigenen Daten. Was Sie nicht brauchen, empfehle ich Ihnen nicht.</p>
+      <div class="values fx">
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"/></svg><span><b>Persönlich</b><small>Vor Ort, am Telefon oder per Video-Call – Sie sprechen immer mit mir.</small></span></div>
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round"><path d="M5 12l4 4L19 6"/></svg><span><b>Ehrlich</b><small>Keine Versprechen, die Technik nicht halten kann. Klare Preise vorab.</small></span></div>
+        <div><svg viewBox="0 0 24 24" fill="none" stroke="#0c0407" stroke-width="1.8" stroke-linecap="round"><path d="M3 12h4l3 8 4-16 3 8h4"/></svg><span><b>Dranbleiben</b><small>Auch nach dem Start bin ich Ihr Ansprechpartner.</small></span></div>
+      </div>
+      <div class="sig fx"><img src="img/jonas-polo-foto.webp" alt=""><span><b>Jonas Mühlberger</b><small>Gründer, Mühlberger Digital</small></span></div>
+    </div>
+    <div class="mosaic fx">
+      <figure class="a"><img src="img/jonas-pulli-foto.webp" alt="Jonas Mühlberger" loading="lazy" style="object-position:50% 20%"></figure>
+      <figure><img src="img/jonas-nacht.webp" alt="" loading="lazy" style="object-position:40% 50%"></figure>
+      <figure class="d"><img src="img/jonas-stiege.webp" alt="" loading="lazy" style="object-position:50% 30%"></figure>
+      <figure><img src="img/jonas-telefon.webp" alt="" loading="lazy"></figure>
+    </div>
   </div>
 </section>
 
@@ -518,8 +541,8 @@ function animationen() {
   // Fuß: beide Marken fahren aufeinander zu, das × dreht sich ein
   const quer = matchMedia("(min-width: 992px)").matches;
   gsap.timeline({ scrollTrigger: { trigger: "#lock", start: "top 75%" } })
-    .from(".lk.pl", quer ? { x: -160, opacity: 0, duration: 1.2, ease: "power4.out" } : { y: 40, opacity: 0, duration: 1, ease: "power3.out" })
-    .from(".lk.md", quer ? { x: 160, opacity: 0, duration: 1.2, ease: "power4.out" } : { y: 40, opacity: 0, duration: 1, ease: "power3.out" }, "<.05")
+    .from(".lk.pl", quer ? { x: -120, duration: 1.2, ease: "power4.out" } : { y: 30, duration: 1, ease: "power3.out" })
+    .from(".lk.md", quer ? { x: 120, duration: 1.2, ease: "power4.out" } : { y: 30, duration: 1, ease: "power3.out" }, "<.05")
     .from(".cross", { scale: 0, rotate: -180, duration: 1, ease: "back.out(1.6)" }, "<.25")
     .from(".lock .eyebrow, .lock .sub", { opacity: 0, y: 20, duration: .8, stagger: .1 }, "<.2");
 }

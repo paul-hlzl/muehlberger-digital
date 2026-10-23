@@ -191,8 +191,8 @@ if (window.gsap && window.Lenis && !REDUCED && !STATIC) {
   $$(".fx").forEach(el => gsap.from(el, { opacity: 0, y: 40, duration: 1, ease: "power3.out", scrollTrigger: { trigger: el, start: "top 92%" } }));
   const quer = matchMedia("(min-width: 701px)").matches;
   gsap.timeline({ scrollTrigger: { trigger: "#lock", start: "top 75%" } })
-    .from(".lk.pl", quer ? { x: -160, opacity: 0, duration: 1.2, ease: "power4.out" } : { y: 40, opacity: 0, duration: 1, ease: "power3.out" })
-    .from(".lk.md", quer ? { x: 160, opacity: 0, duration: 1.2, ease: "power4.out" } : { y: 40, opacity: 0, duration: 1, ease: "power3.out" }, "<.05")
+    .from(".lk.pl", quer ? { x: -120, duration: 1.2, ease: "power4.out" } : { y: 30, duration: 1, ease: "power3.out" })
+    .from(".lk.md", quer ? { x: 120, duration: 1.2, ease: "power4.out" } : { y: 30, duration: 1, ease: "power3.out" }, "<.05")
     .from(".cross", { scale: 0, rotate: -180, duration: 1, ease: "back.out(1.6)" }, "<.25");
 } else addEventListener("scroll", () => onScroll(scrollY), { passive: true });
 </script>
