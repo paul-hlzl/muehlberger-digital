@@ -154,26 +154,54 @@ html.no-intro .intro { display: none; }
 .logo-box { width: 220px; height: 120px; border-radius: var(--r-lg); background: var(--off); display: flex; align-items: center; justify-content: center; gap: 12px; flex: none; font: 700 21px/1.05 var(--display); letter-spacing: -.03em; }
 .logo-box img { width: 34px; height: 34px; object-fit: contain; border-radius: 9px; }
 
-/* Projekte: läuft beim Scrollen seitlich durch */
-.projects { padding: 120px 0 0; overflow: hidden; }
-.projects .pin { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; padding: 40px 0; }
-.projects .sec-head { margin-bottom: 36px; }
-.projects .sec-head h2 { font-size: clamp(36px, 4.2vw, 60px); }
-.rail { display: flex; gap: 24px; width: max-content; padding: 0 max(var(--pad), calc((100vw - var(--max)) / 2 + var(--pad))); will-change: transform; }
-html.no-hscroll .rail { width: auto; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
-.pc { flex: none; width: min(1120px, 82vw); height: min(560px, calc(100vh - 290px)); min-height: 460px; border-radius: var(--r-xl); scroll-snap-align: start; position: relative; overflow: hidden; display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); align-items: center; background: var(--tint, var(--off)); }
-.pc .copy { padding: 44px 0 44px 44px; height: 100%; display: flex; flex-direction: column; }
+/* Projekte: Desktop zeigt Liste + Vorschau, am Handy wischt man durch Karten */
+.projects { padding: 150px 0 40px; overflow: hidden; }
+.show { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: 32px; align-items: center; }
+.plist { display: grid; gap: 6px; }
+.pi { position: relative; border-radius: var(--r-lg); padding: 18px 22px; transition: background .4s, padding .4s; }
+.pi:hover { background: #fafafb; }
+.pi.on { background: var(--off); padding-bottom: 30px; }
+.pi .hd { display: flex; align-items: center; gap: 12px; width: 100%; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; font: 650 19px/1.1 var(--display); letter-spacing: -.02em; }
+.pi.on .hd { cursor: default; }
+.pi .hd img { width: 38px; height: 38px; border-radius: 10px; object-fit: contain; background: #fff; padding: 5px; box-shadow: 0 0 0 1px rgba(0,0,0,.05); }
+.pi .hd small { margin-left: auto; font: 500 13px/1 var(--body); color: var(--mute); letter-spacing: 0; }
+.pi .bd { display: grid; grid-template-rows: 0fr; transition: grid-template-rows .55s var(--ease); }
+.pi.on .bd { grid-template-rows: 1fr; }
+.pi .bd > div { overflow: hidden; }
+.pi .bd p { padding-top: 14px; color: var(--text); font-size: 15px; line-height: 23px; }
+.pi .bd p b { display: block; font: 650 20px/1.2 var(--display); letter-spacing: -.02em; color: var(--ink); margin-bottom: 6px; }
+.pi .acts { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 16px; }
+.pi .acts .btn { height: 38px; padding: 0 14px; font-size: 14px; }
+.pi .acts small { flex-basis: 100%; color: var(--mute); font-size: 13px; }
+.pi .bar { position: absolute; left: 22px; right: 22px; bottom: 12px; height: 3px; border-radius: 3px; background: rgba(0,0,0,.07); overflow: hidden; opacity: 0; transition: opacity .3s; }
+.pi.on .bar { opacity: 1; }
+.pi .bar i { display: block; height: 100%; background: var(--ink); transform-origin: left; transform: scaleX(0); }
+.pi.on .bar i { animation: fuell 6s linear forwards; }
+.show.halt .pi.on .bar i, .show.aus .pi.on .bar i { animation-play-state: paused; }
+@keyframes fuell { to { transform: scaleX(1); } }
+.stage { border-radius: var(--r-xl); background: var(--tint, var(--off)); padding: 44px 44px 22px; transition: background .7s; }
+.stage .browser { display: block; border-radius: 14px; overflow: hidden; background: #fff; box-shadow: 0 30px 60px -24px rgba(0,0,0,.28), 0 0 0 1px rgba(0,0,0,.06); transition: transform .5s var(--ease); }
+.stage .browser:hover { transform: translateY(-4px); }
+.shots { position: relative; aspect-ratio: 16 / 10; overflow: hidden; background: #fff; }
+.shots img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 0; opacity: 0; transform: scale(1.04); transition: opacity .6s, transform 1.2s var(--ease); }
+.shots img.on { opacity: 1; transform: none; }
+.stage .hint { display: flex; justify-content: space-between; align-items: center; margin-top: 18px; font-size: 14px; color: var(--mute); font-variant-numeric: tabular-nums; }
+.stage .hint a { font-weight: 600; color: var(--ink); }
+.stage .hint a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.rail { display: flex; gap: 12px; padding: 4px var(--pad); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding: 0 var(--pad); scrollbar-width: none; overscroll-behavior-x: contain; }
+.rail::-webkit-scrollbar { display: none; }
+.pc { flex: none; border-radius: var(--r-xl); scroll-snap-align: start; position: relative; overflow: hidden; display: grid; background: var(--tint, var(--off)); }
+.pc .copy { display: flex; flex-direction: column; }
 .pc .name { display: flex; align-items: center; gap: 10px; font: 650 17px/1 var(--display); letter-spacing: -.01em; }
 .pc .name img { width: 34px; height: 34px; border-radius: 9px; object-fit: contain; background: #fff; padding: 4px; }
-.pc h3 { font-size: clamp(30px, 3vw, 44px); margin: 24px 0 14px; max-width: 420px; }
+.pc h3 { font-size: clamp(28px, 4vw, 40px); max-width: 420px; }
 .pc p { color: var(--text); font-size: 16px; line-height: 24px; max-width: 400px; }
 .pc .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 18px; }
 .pc .tags span { background: rgba(255,255,255,.75); border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 600; }
-.pc .acts { margin-top: auto; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.pc .acts { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
 .pc .acts small { flex-basis: 100%; color: var(--mute); font-size: 13px; }
-.pc .vis { padding: 36px 40px 36px 28px; }
-.pc .browser { display: block; border-radius: 14px; overflow: hidden; background: #fff; box-shadow: 0 30px 60px -24px rgba(0,0,0,.28), 0 0 0 1px rgba(0,0,0,.06); }
-.pc .phone { display: none; }
+.pc .acts .btn { height: 40px; padding: 0 16px; font-size: 14px; }
+.pc .browser { display: none; }
 .top { height: 30px; display: flex; align-items: center; gap: 6px; padding: 0 12px; background: #f1f1f3; border-bottom: 1px solid #e5e5e8; }
 .top i { width: 10px; height: 10px; border-radius: 50%; background: #d4d4d8; }
 .top span { margin-left: 14px; height: 18px; flex: 0 1 260px; border-radius: 6px; background: #fff; font: 500 11px/18px var(--body); color: var(--mute); padding: 0 10px; }
@@ -181,20 +209,11 @@ html.no-hscroll .rail { width: auto; overflow-x: auto; scroll-snap-type: x manda
 .phone { position: absolute; width: 210px; aspect-ratio: 300 / 620; border-radius: 38px; background: #0d0d0f; padding: 8px; box-shadow: 0 30px 60px -20px rgba(0,0,0,.35); }
 .phone img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 0; border-radius: 30px; }
 .phone::before { content: ""; position: absolute; top: 15px; left: 50%; width: 64px; height: 18px; margin-left: -32px; border-radius: 12px; background: #0d0d0f; z-index: 2; }
-.rail-ui { width: 100%; display: flex; align-items: center; gap: 18px; margin-top: 28px; }
+.rail-ui { width: 100%; display: flex; align-items: center; gap: 18px; margin-top: 18px; }
 .prog { flex: 1; max-width: 360px; height: 4px; border-radius: 4px; background: var(--grey); overflow: hidden; }
 .prog i { display: block; height: 100%; width: 100%; border-radius: 4px; background: var(--ink); transform-origin: left; transform: scaleX(0); }
 .count { font: 600 14px/1 var(--body); color: var(--mute); font-variant-numeric: tabular-nums; }
-.pc .acts .btn { height: 40px; padding: 0 16px; font-size: 14px; }
-@media (min-width: 992px) and (max-height: 820px) {
-  .projects .sec-head p, .pc .tags { display: none; }
-  .projects .sec-head { margin-bottom: 24px; }
-  .pc { height: calc(100vh - 210px); min-height: 360px; }
-  .pc .copy { padding: 32px 0 32px 34px; }
-  .pc h3 { margin: 16px 0 10px; font-size: clamp(26px, 2.6vw, 38px); }
-  .pc .vis { padding: 24px 30px 24px 20px; }
-  .rail-ui { margin-top: 18px; }
-}
+@media (min-width: 992px) { .rail, .rail-ui { display: none; } }
 
 /* Leistungen: Kacheln */
 .services { padding: 130px 0 150px; }
@@ -441,17 +460,15 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .gallery .side.r { margin-bottom: 90px; }
   .gallery figure { border-radius: var(--r-lg); }
   .arc { margin-top: -160px; padding-top: 220px; border-radius: 50% 50% 0 0 / 110px 110px 0 0; }
-  .projects .pin { min-height: 0; padding: 0; }
-  .rail, html.no-hscroll .rail { width: auto; gap: 12px; padding: 4px var(--pad); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding: 0 var(--pad); scrollbar-width: none; overscroll-behavior-x: contain; }
-  .rail::-webkit-scrollbar { display: none; }
-  .pc { width: min(640px, 84vw); height: auto; min-height: 0; grid-template-columns: 1fr 240px; align-items: stretch; }
+  .projects { padding: 110px 0 20px; }
+  .show { display: none; }
+  .pc { width: min(640px, 84vw); grid-template-columns: 1fr 240px; align-items: stretch; }
   .pc .copy { padding: 28px 0 28px 26px; }
+  .pc h3 { margin: 18px 0 12px; }
   .pc .tags { display: none; }
   .pc .acts { margin-top: 20px; }
   .pc .vis { position: relative; padding: 0; min-height: 340px; }
-  .pc .browser { display: none; }
-  .pc .phone { display: block; left: 50%; top: 28px; width: 180px; margin-left: -90px; }
-  .rail-ui { margin-top: 18px; }
+  .pc .phone { left: 50%; top: 28px; width: 180px; margin-left: -90px; }
   .bento { grid-template-columns: 1fr 1fr; }
   .tile.auto { grid-column: span 2; grid-template-columns: 1fr; }
   .chipset { justify-content: flex-start; }
@@ -472,7 +489,6 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .gallery .side { display: none; }
   .gallery .main { max-width: 360px; width: 100%; justify-self: center; }
   .logo-box { width: 160px; height: 96px; font-size: 17px; border-radius: var(--r-md); }
-  .projects { padding: 100px 0 0; }
   .pc { width: 84vw; grid-template-columns: 1fr; border-radius: var(--r-lg); }
   .pc .copy { padding: 22px 20px 0; }
   .pc h3 { margin: 14px 0 10px; font-size: 28px; }
@@ -589,15 +605,20 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
 
 <!-- ================= PROJEKTE ================= -->
 <section class="projects" id="projekte">
-  <div class="pin">
-    <div class="wrap sec-head">
-      <span class="eyebrow fx">Projekte</span>
-      <h2 class="split">Ausgewählte Projekte</h2>
-      <p class="fx">Echte Produkte, die heute schon für Unternehmen arbeiten – entwickelt von Pipeline AI Solutions, vermittelt und betreut von mir.</p>
-    </div>
-    <div class="rail" id="rail"></div>
-    <div class="wrap rail-ui"><div class="prog" aria-hidden="true"><i id="prog"></i></div><span class="count" id="count">01 / 06</span></div>
+  <div class="wrap sec-head">
+    <span class="eyebrow fx">Projekte</span>
+    <h2 class="split">Ausgewählte Projekte</h2>
+    <p class="fx">Echte Produkte, die heute schon für Unternehmen arbeiten – entwickelt von Pipeline AI Solutions, vermittelt und betreut von mir.</p>
   </div>
+  <div class="wrap show" id="show">
+    <div class="plist" id="plist" role="tablist" aria-label="Projekte"></div>
+    <div class="stage" id="stage">
+      <a class="browser" id="sbrowser" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener"><div class="top"><i></i><i></i><i></i><span id="shost"></span></div><div class="shots" id="shots"></div></a>
+      <div class="hint"><span id="scount">01 / 06</span><a id="sopen" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener">Website öffnen ↗</a></div>
+    </div>
+  </div>
+  <div class="rail" id="rail" aria-label="Projekte, seitlich wischen"></div>
+  <div class="wrap rail-ui"><div class="prog" aria-hidden="true"><i id="prog"></i></div><span class="count" id="count">01 / 06</span></div>
 </section>
 
 <!-- ================= LEISTUNGEN ================= -->
@@ -900,7 +921,33 @@ $("#qa").addEventListener("click", e => {
   setTimeout(() => window.ScrollTrigger?.refresh(), 600);
 });
 
-/* Projekte: Fortschritt (die Seitwärtsbewegung steuert ScrollTrigger in animationen()) */
+/* Projekte am Desktop: Liste links, Vorschau rechts – wechselt von selbst, hält beim Drüberfahren an */
+const show = $("#show");
+$("#plist").innerHTML = PROJEKTE.map((p, i) => `<div class="pi" data-i="${i}">
+  <button class="hd" role="tab" aria-selected="false"><img src="img/${p.icon}" alt="">${esc(p.name)}<small>${p.tags[0]}</small></button>
+  <div class="bd"><div><p><b>${esc(p.h)}</b>${esc(p.text)}</p><div class="acts"><a class="btn" href="${p.test}" target="_blank" rel="noopener">Gratis testen ${OUT}</a><a class="btn white" href="${p.url}" target="_blank" rel="noopener">Website ansehen</a><small>${esc(p.note)}</small></div></div></div>
+  <span class="bar" aria-hidden="true"><i></i></span>
+</div>`).join("");
+$("#shots").innerHTML = PROJEKTE.map(p => `<img src="img/p-${p.k}.webp" alt="Startseite von ${esc(p.name)}" width="1440" height="900">`).join("");
+let akt = 0;
+function zeige(i) {
+  akt = i; const p = PROJEKTE[i];
+  $$(".pi").forEach((el, j) => { el.classList.toggle("on", j === i); el.firstElementChild.setAttribute("aria-selected", j === i); });
+  $$("#shots img").forEach((im, j) => im.classList.toggle("on", j === i));
+  $("#stage").style.setProperty("--tint", p.tint);
+  $("#shost").textContent = p.host; $("#sbrowser").href = p.url; $("#sopen").href = p.url;
+  $("#scount").textContent = `${String(i + 1).padStart(2, "0")} / ${String(PROJEKTE.length).padStart(2, "0")}`;
+  const bar = $$(".pi .bar i")[i]; bar.style.animation = "none"; bar.offsetWidth; bar.style.animation = "";
+}
+$("#plist").addEventListener("click", e => { const it = e.target.closest(".pi"); if (it && !e.target.closest("a")) zeige(+it.dataset.i); });
+$("#plist").addEventListener("animationend", e => { if (e.animationName === "fuell" && !REDUCED) zeige((akt + 1) % PROJEKTE.length); });
+show.addEventListener("mouseenter", () => show.classList.add("halt"));
+show.addEventListener("mouseleave", () => show.classList.remove("halt"));
+show.classList.add("aus");
+if (!STATIC) new IntersectionObserver(([e]) => show.classList.toggle("aus", !e.isIntersecting), { threshold: .35 }).observe(show);
+zeige(0);
+
+/* Projekte am Handy: Fortschritt beim Wischen */
 const rail = $("#rail");
 rail.addEventListener("scroll", () => { const m = rail.scrollWidth - rail.clientWidth; if (m > 0) railUi(rail.scrollLeft / m); }, { passive: true });
 function railUi(t) {
@@ -938,7 +985,7 @@ document.addEventListener("click", e => {
 
 /* ================= Animationen ================= */
 function animationen() {
-  if (!HAS_GSAP || REDUCED || STATIC) { document.documentElement.classList.add("no-hscroll"); return; }
+  if (!HAS_GSAP || REDUCED || STATIC) return;
   // Hero: Buchstaben blenden nacheinander ein, Fotos steigen auf
   const h1 = SplitText.create("#h1", { type: "chars" });
   gsap.from(h1.chars, { opacity: 0, duration: .5, stagger: .035, ease: "power1.out" });
@@ -958,12 +1005,11 @@ function animationen() {
   });
   // Weiche Einblendungen
   $$(".fx").filter(el => !el.closest(".hero")).forEach(el => gsap.from(el, { opacity: 0, y: 40, duration: 1, ease: "power3.out", scrollTrigger: { trigger: el, start: "top 90%" } }));
-  // Projekte: Bereich bleibt stehen, die Karten laufen beim Scrollen seitlich durch
+  // Projekte: Liste und Vorschau gleiten herein (Desktop), Karten von rechts (Handy)
   const mm2 = gsap.matchMedia();
   mm2.add("(min-width: 992px)", () => {
-    const weg = () => rail.scrollWidth - innerWidth;
-    const lauf = gsap.to(rail, { x: () => -weg(), ease: "none", scrollTrigger: { trigger: ".projects .pin", start: "top top", end: () => "+=" + weg(), pin: true, scrub: .8, invalidateOnRefresh: true, onUpdate: s => railUi(s.progress) } });
-    $$(".pc").forEach(c => gsap.fromTo(c.querySelector(".browser"), { scale: .9, rotate: 1.5 }, { scale: 1, rotate: 0, ease: "none", scrollTrigger: { trigger: c, containerAnimation: lauf, start: "left right", end: "center center", scrub: true } }));
+    gsap.from(".pi", { x: -30, opacity: 0, duration: .8, stagger: .07, ease: "power3.out", scrollTrigger: { trigger: "#show", start: "top 80%" } });
+    gsap.from("#stage", { y: 70, opacity: 0, duration: 1.1, ease: "power3.out", scrollTrigger: { trigger: "#show", start: "top 80%" } });
   });
   mm2.add("(max-width: 991px)", () => {
     gsap.from(".pc", { x: 80, opacity: 0, duration: 1, stagger: .08, ease: "power3.out", scrollTrigger: { trigger: "#rail", start: "top 85%" } });
