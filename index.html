@@ -392,9 +392,9 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
 .hp { position: absolute; left: -9999px; }
 
 /* Assistent */
-.chat-btn { position: fixed; right: 20px; bottom: 20px; z-index: 80; display: flex; align-items: center; gap: 10px; height: 52px; padding: 0 20px 0 6px; border: 0; border-radius: 999px; background: var(--ink); color: #fff; cursor: pointer; font-weight: 600; box-shadow: 0 12px 30px -10px rgba(0,0,0,.4); transition: transform .4s var(--ease); }
+.chat-btn { position: fixed; right: 24px; bottom: 24px; z-index: 80; display: flex; align-items: center; gap: 12px; height: 64px; padding: 0 26px 0 7px; font-size: 16px; border: 0; border-radius: 999px; background: var(--ink); color: #fff; cursor: pointer; font-weight: 600; box-shadow: 0 12px 30px -10px rgba(0,0,0,.4); transition: transform .4s var(--ease); }
 .chat-btn:hover { transform: translateY(-3px); }
-.chat-btn .av { width: 40px; height: 40px; border-radius: 50%; overflow: hidden; background: #333; }
+.chat-btn .av { width: 50px; height: 50px; border-radius: 50%; overflow: hidden; background: #333; }
 .chat-btn .av img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 10%; }
 .chat { position: fixed; right: 20px; bottom: 20px; z-index: 81; width: min(400px, calc(100vw - 24px)); height: min(620px, calc(100vh - 40px)); background: #fff; border-radius: 28px; overflow: hidden; box-shadow: 0 30px 80px -20px rgba(0,0,0,.35), 0 0 0 1px rgba(0,0,0,.05); display: flex; flex-direction: column; transform: translateY(20px) scale(.97); transform-origin: bottom right; opacity: 0; pointer-events: none; transition: transform .5s var(--ease), opacity .3s; }
 .chat.on { transform: none; opacity: 1; pointer-events: auto; }
@@ -442,14 +442,16 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .gallery figure { border-radius: var(--r-lg); }
   .arc { margin-top: -160px; padding-top: 220px; border-radius: 50% 50% 0 0 / 110px 110px 0 0; }
   .projects .pin { min-height: 0; padding: 0; }
-  .rail, html.no-hscroll .rail { flex-direction: column; width: auto; gap: 16px; padding: 0 var(--pad); overflow: visible; }
-  .pc { width: 100%; height: auto; min-height: 0; grid-template-columns: 1fr 280px; align-items: stretch; }
-  .pc .copy { padding: 30px 0 30px 28px; }
-  .pc .acts { margin-top: 22px; }
-  .pc .vis { position: relative; padding: 0; min-height: 380px; }
+  .rail, html.no-hscroll .rail { width: auto; gap: 12px; padding: 4px var(--pad); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding: 0 var(--pad); scrollbar-width: none; overscroll-behavior-x: contain; }
+  .rail::-webkit-scrollbar { display: none; }
+  .pc { width: min(640px, 84vw); height: auto; min-height: 0; grid-template-columns: 1fr 240px; align-items: stretch; }
+  .pc .copy { padding: 28px 0 28px 26px; }
+  .pc .tags { display: none; }
+  .pc .acts { margin-top: 20px; }
+  .pc .vis { position: relative; padding: 0; min-height: 340px; }
   .pc .browser { display: none; }
-  .pc .phone { display: block; left: 50%; top: 30px; width: 200px; margin-left: -100px; }
-  .rail-ui { display: none; }
+  .pc .phone { display: block; left: 50%; top: 28px; width: 180px; margin-left: -90px; }
+  .rail-ui { margin-top: 18px; }
   .bento { grid-template-columns: 1fr 1fr; }
   .tile.auto { grid-column: span 2; grid-template-columns: 1fr; }
   .chipset { justify-content: flex-start; }
@@ -471,10 +473,15 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .gallery .main { max-width: 360px; width: 100%; justify-self: center; }
   .logo-box { width: 160px; height: 96px; font-size: 17px; border-radius: var(--r-md); }
   .projects { padding: 100px 0 0; }
-  .pc { grid-template-columns: 1fr; border-radius: var(--r-lg); }
-  .pc .copy { padding: 26px 22px 0; }
-  .pc h3 { margin: 18px 0 12px; }
-  .pc .vis { min-height: 330px; }
+  .pc { width: 84vw; grid-template-columns: 1fr; border-radius: var(--r-lg); }
+  .pc .copy { padding: 22px 20px 0; }
+  .pc h3 { margin: 14px 0 10px; font-size: 28px; }
+  .pc p { font-size: 15px; line-height: 22px; }
+  .pc .acts small { display: none; }
+  .pc .acts { gap: 8px; }
+  .pc .acts .btn { height: 38px; padding: 0 12px; font-size: 13.5px; }
+  .pc .vis { min-height: 250px; }
+  .pc .phone { width: 160px; margin-left: -80px; top: 22px; }
   .bento { grid-template-columns: 1fr; gap: 14px; }
   .tile { padding: 28px 24px; min-height: 0; border-radius: var(--r-lg); }
   .tile.web, .tile.auto { grid-column: auto; }
@@ -495,8 +502,8 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
   .book .ph { padding: 18px 20px; }
   .tabs { margin: 4px 20px 0; }
   .bbody { padding: 22px 20px 30px; }
-  .chat-btn span:last-child { display: none; }
-  .chat-btn { padding: 0 6px; }
+  .chat-btn { right: 16px; bottom: 16px; height: 60px; padding: 0 20px 0 6px; font-size: 15px; gap: 10px; }
+  .chat-btn .av { width: 48px; height: 48px; }
   .pside .lg .pw { font-size: 20px; }
   .partner-sec { padding: 110px 0; }
   .qi button { padding: 18px; font-size: 16px; }
@@ -616,7 +623,7 @@ footer { background: #000; color: #fff; padding: 130px 0 30px; overflow: hidden;
         <h3>Ihre eigene App – im App Store.</h3>
         <p>Digitale Services für Kunden oder Mitarbeiter, alles an einem Ort. Funktionen, Plattformen und Veröffentlichung klären wir vorab.</p>
         <button class="btn white go" data-book data-topic="App">App besprechen</button>
-        <div class="phone"><img src="img/m-sightup.webp" alt="" loading="lazy"></div>
+        <div class="phone"><img src="img/m-noteit.webp" alt="" loading="lazy"></div>
       </article>
       <article class="tile fx">
         <span class="eyebrow">KI-Software</span>
@@ -895,6 +902,7 @@ $("#qa").addEventListener("click", e => {
 
 /* Projekte: Fortschritt (die Seitwärtsbewegung steuert ScrollTrigger in animationen()) */
 const rail = $("#rail");
+rail.addEventListener("scroll", () => { const m = rail.scrollWidth - rail.clientWidth; if (m > 0) railUi(rail.scrollLeft / m); }, { passive: true });
 function railUi(t) {
   $("#prog").style.transform = `scaleX(${t})`;
   $("#count").textContent = `${String(Math.min(PROJEKTE.length, Math.round(t * (PROJEKTE.length - 1)) + 1)).padStart(2, "0")} / ${String(PROJEKTE.length).padStart(2, "0")}`;
@@ -958,7 +966,7 @@ function animationen() {
     $$(".pc").forEach(c => gsap.fromTo(c.querySelector(".browser"), { scale: .9, rotate: 1.5 }, { scale: 1, rotate: 0, ease: "none", scrollTrigger: { trigger: c, containerAnimation: lauf, start: "left right", end: "center center", scrub: true } }));
   });
   mm2.add("(max-width: 991px)", () => {
-    $$(".pc").forEach(c => gsap.from(c, { y: 60, opacity: 0, duration: 1, ease: "power3.out", scrollTrigger: { trigger: c, start: "top 88%" } }));
+    gsap.from(".pc", { x: 80, opacity: 0, duration: 1, stagger: .08, ease: "power3.out", scrollTrigger: { trigger: "#rail", start: "top 85%" } });
   });
   // Geräte in den Kacheln heben sich beim Scrollen
   $$(".tile .browser, .tile .phone").forEach(d => gsap.fromTo(d, { y: 60 }, { y: 0, ease: "none", scrollTrigger: { trigger: d.closest(".tile"), start: "top bottom", end: "center 55%", scrub: true } }));
