@@ -256,7 +256,7 @@ a.lk:hover { filter: brightness(.85); }
 .page-hero h1 { font-size: clamp(44px, 6.4vw, 92px); margin-top: 16px; }
 .page-hero p { max-width: 620px; margin: 24px auto 0; font-size: 18px; line-height: 28px; color: var(--mute); }
 .about.page { padding: 130px 0 40px; }
-.about.first { padding: 150px 0 0; }
+.about.first { padding: 140px 0 0; }
 .cta-end { padding: 40px 0 150px; text-align: center; }
 .cta-end h2 { font-size: clamp(38px, 4.8vw, 64px); }
 .cta-end p { max-width: 520px; margin: 18px auto 30px; color: var(--mute); font-size: 17px; line-height: 26px; }
