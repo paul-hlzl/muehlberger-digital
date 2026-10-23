@@ -401,7 +401,7 @@
         <div class="bstep"><b><i>01</i>Worum geht es?</b><div class="chips" id="topics"></div></div>
         <div class="bstep" data-only="termin"><b><i>02</i>Wunschtermin</b>
           <div class="cal" id="cal"></div>
-          <div class="slots" id="slots"><p class="hint">Bitte zuerst einen Tag wählen.</p></div>
+          <div class="slots" id="slots"><p class="hint">Termine Montag bis Freitag, 18:00–21:30 Uhr. Bitte zuerst einen Tag wählen.</p></div>
         </div>
         <div class="bstep" data-only="termin"><b><i>03</i>Wie sprechen wir?</b><div class="chips mode" id="mode"></div></div>
         <div class="bstep"><b><i id="nr-k">04</i>Ihre Kontaktdaten</b>
@@ -687,7 +687,8 @@ const WT = ["So", "Mo", "Di", "Mi", "Do", "Fr", "Sa"];
 const heute = new Date(); heute.setHours(0, 0, 0, 0);
 const ersterMonat = new Date(heute.getFullYear(), heute.getMonth(), 1);
 let monat = ersterMonat, tag = null, zeit = null;
-const ZEITEN = ["09:00", "10:00", "11:00", "13:00", "14:00", "15:00", "16:00", "17:00"];
+// Erstgespräche: Montag bis Freitag, 18:00–21:30 Uhr (Start spätestens 21:00, Gespräch ca. 30 Minuten)
+const ZEITEN = ["18:00", "18:30", "19:00", "19:30", "20:00", "20:30", "21:00"];
 function kalender() {
   const y = monat.getFullYear(), m = monat.getMonth(), erst = (new Date(y, m, 1).getDay() + 6) % 7, n = new Date(y, m + 1, 0).getDate();
   let d = ""; for (let i = 0; i < erst; i++) d += "<span></span>";
@@ -791,7 +792,7 @@ const norm = s => s.toLowerCase().replace(/ä/g, "ae").replace(/ö/g, "oe").repl
 function antwort(t) {
   if (AKTION[t]) return { a: AKTION[t]() };
   const n = norm(t);
-  if (/termin|buchen|gespraech|treffen|beratung/.test(n)) return { a: "Sehr gerne – wählen Sie Tag und Uhrzeit, wir bestätigen persönlich.", c: ["Erstgespräch buchen"] };
+  if (/termin|buchen|gespraech|treffen|beratung|wann|uhrzeit|zeit/.test(n)) return { a: "Sehr gerne – Erstgespräche gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Wählen Sie Tag und Uhrzeit, wir bestätigen persönlich.", c: ["Erstgespräch buchen"] };
   let best = null, sc = 0;
   for (const w of WISSEN) { const s = w.k.reduce((x, k) => x + (n.includes(norm(k)) ? k.length + 4 : 0), 0); if (s > sc) { sc = s; best = w; } }
   return best ? { a: best.a, c: best.c } : { a: "Das beantworten wir am besten persönlich. Soll ich ein Erstgespräch für Sie öffnen?", c: ["Erstgespräch buchen", "Welche Produkte gibt es?", "Was kostet das?"] };
