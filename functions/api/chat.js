@@ -87,7 +87,14 @@ export async function onRequestPost({ request, env }) {
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.AI_API_KEY}` },
         body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 450, temperature: 0.4, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
       });
-      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) }, 503);
+      if (!r.ok) {
+        const info = { fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) };
+        // Bei falschem Modellnamen die verfügbaren Modell-IDs mitgeben (nur Namen, zur Einrichtung)
+        if (r.status === 400 || r.status === 404) {
+          try { const m = await fetch(endpunkt(env, "openai").replace(/\/chat\/completions$/, "/models"), { headers: { Authorization: `Bearer ${env.AI_API_KEY}` } }); info.modelle = ((await m.json()).data || []).map(x => x.id).slice(0, 40); } catch {}
+        }
+        return antwort(info, 503);
+      }
       text = (await r.json()).choices?.[0]?.message?.content || "";
     } else {
       const r = await fetch(endpunkt(env, "anthropic"), {
