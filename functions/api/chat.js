@@ -79,38 +79,65 @@ export async function onRequestPost({ request, env }) {
   while (verlauf.length && verlauf[0].role !== "user") verlauf.shift();
 
   const anbieter = (env.AI_PROVIDER || "anthropic").toLowerCase();
+  const strom = body.stream === true;
   try {
-    let text = "";
+    let r;
     if (anbieter === "openai") {
-      const r = await fetch(endpunkt(env, "openai"), {
+      r = await fetch(endpunkt(env, "openai"), {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.AI_API_KEY}` },
-        body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 500, temperature: 0.4, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
+        body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 400, temperature: 0.4, stream: strom, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
       });
-      if (!r.ok) {
-        const info = { fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) };
-        // Bei falschem Modellnamen die verfügbaren Modell-IDs mitgeben (nur Namen, zur Einrichtung)
-        if (r.status === 400 || r.status === 404) {
-          try { const m = await fetch(endpunkt(env, "openai").replace(/\/chat\/completions$/, "/models"), { headers: { Authorization: `Bearer ${env.AI_API_KEY}` } }); info.modelle = ((await m.json()).data || []).map(x => x.id).slice(0, 40); } catch {}
-        }
-        return antwort(info, 503);
-      }
-      text = (await r.json()).choices?.[0]?.message?.content || "";
     } else {
-      const r = await fetch(endpunkt(env, "anthropic"), {
+      r = await fetch(endpunkt(env, "anthropic"), {
         method: "POST",
         headers: { "Content-Type": "application/json", "x-api-key": env.AI_API_KEY, "anthropic-version": "2023-06-01" },
-        body: JSON.stringify({ model: env.AI_MODEL || "claude-haiku-5-5", max_tokens: 500, system: SYSTEM, messages: verlauf })
+        body: JSON.stringify({ model: env.AI_MODEL || "claude-haiku-5-5", max_tokens: 400, stream: strom, system: SYSTEM, messages: verlauf })
       });
-      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) }, 503);
-      text = ((await r.json()).content || []).filter(b => b.type === "text").map(b => b.text).join("\n");
     }
-    text = text.trim();
+    if (!r.ok) {
+      const info = { fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) };
+      // Bei falschem Modellnamen die verfügbaren Modell-IDs mitgeben (nur Namen, zur Einrichtung)
+      if (anbieter === "openai" && (r.status === 400 || r.status === 404)) {
+        try { const m = await fetch(endpunkt(env, "openai").replace(/\/chat\/completions$/, "/models"), { headers: { Authorization: `Bearer ${env.AI_API_KEY}` } }); info.modelle = ((await m.json()).data || []).map(x => x.id).slice(0, 40); } catch {}
+      }
+      return antwort(info, 503);
+    }
+    // Streaming: Textteile sofort an den Browser weiterreichen
+    if (strom && (r.headers.get("content-type") || "").includes("text/event-stream") && r.body) {
+      return new Response(textStrom(r.body, anbieter), { headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "no-store", "X-Accel-Buffering": "no" } });
+    }
+    const j = await r.json();
+    const text = (anbieter === "openai"
+      ? j.choices?.[0]?.message?.content || ""
+      : (j.content || []).filter(b => b.type === "text").map(b => b.text).join("\n")).trim();
     if (!text) return antwort({ fehler: "leer" }, 503);
-    return antwort({ reply: text });
+    return strom ? new Response(text, { headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "no-store" } }) : antwort({ reply: text });
   } catch {
     return antwort({ fehler: "KI nicht erreichbar" }, 503);
   }
+}
+
+// Wandelt den Ereignisstrom des Anbieters (SSE) in reinen Text um
+function textStrom(quelle, anbieter) {
+  const dec = new TextDecoder(), enc = new TextEncoder();
+  let puffer = "";
+  return quelle.pipeThrough(new TransformStream({
+    transform(stueck, ctrl) {
+      puffer += dec.decode(stueck, { stream: true });
+      const zeilen = puffer.split("\n"); puffer = zeilen.pop();
+      for (const z of zeilen) {
+        if (!z.startsWith("data:")) continue;
+        const d = z.slice(5).trim();
+        if (!d || d === "[DONE]") continue;
+        try {
+          const j = JSON.parse(d);
+          const t = anbieter === "openai" ? j.choices?.[0]?.delta?.content : (j.type === "content_block_delta" ? j.delta?.text : "");
+          if (t) ctrl.enqueue(enc.encode(t));
+        } catch {}
+      }
+    }
+  }));
 }
 
 // Alle anderen Methoden: abgelehnt (onRequestPost hat für POST Vorrang)

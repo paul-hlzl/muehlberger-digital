@@ -851,20 +851,35 @@ async function frage(t) {
   // Chip-Aktionen (Buchung öffnen, Gratis-Checks) laufen lokal
   if (AKTION[t]) { const r = antwort(t); setTimeout(() => { ty.remove(); bub(r.a, "bot"); chips(["Was kostet das?", "Welche Produkte gibt es?"]); }, 400); return; }
   wartet = true; verlauf.push({ role: "user", content: t });
-  const ende = (html, c, speichern) => { ty.remove(); bub(html, "bot"); chips(c); if (speichern) verlauf.push({ role: "assistant", content: speichern }); wartet = false; };
+  const chipsNach = txt => /termin|buchen|erstgespr|beratung/i.test(txt + t) ? ["Erstgespräch buchen", "Was kostet das?"] : ["Erstgespräch buchen", "Welche Produkte gibt es?"];
+  let blase = null, text = "";
+  const ctl = new AbortController();
+  let frist = setTimeout(() => ctl.abort(), 30000);   // bis zum ersten Textstück
   try {
-    const ctl = new AbortController(), frist = setTimeout(() => ctl.abort(), 20000);
-    const r = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: verlauf }), signal: ctl.signal });
+    const r = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: verlauf, stream: true }), signal: ctl.signal });
+    if (!r.ok || !r.body) throw new Error(r.status);
+    const leser = r.body.getReader(), dec = new TextDecoder();
+    for (;;) {
+      const { done, value } = await leser.read();
+      if (done) break;
+      clearTimeout(frist); frist = setTimeout(() => ctl.abort(), 20000);   // zwischen den Stücken
+      text += dec.decode(value, { stream: true });
+      if (!blase) { ty.remove(); blase = document.createElement("div"); blase.className = "msg bot"; log.appendChild(blase); }
+      blase.innerHTML = ki(text); log.scrollTop = log.scrollHeight;
+    }
     clearTimeout(frist);
-    if (!r.ok) throw new Error(r.status);
-    const { reply } = await r.json();
-    if (!reply) throw new Error("leer");
-    ende(ki(reply), /termin|buchen|erstgespr|beratung/i.test(reply + t) ? ["Erstgespräch buchen", "Was kostet das?"] : ["Erstgespräch buchen", "Welche Produkte gibt es?"], reply);
+    if (!text.trim()) throw new Error("leer");
+    blase.innerHTML = ki(text.trim());
+    verlauf.push({ role: "assistant", content: text.trim() }); chips(chipsNach(text)); wartet = false;
   } catch {
+    clearTimeout(frist);
+    if (blase && text.trim().length > 40) {   // Antwort kam zum größten Teil an: behalten
+      verlauf.push({ role: "assistant", content: text.trim() }); chips(chipsNach(text)); wartet = false; return;
+    }
     // Ohne KI-Verbindung antwortet der eingebaute Wissensstand weiter
-    verlauf.pop();
+    verlauf.pop(); ty.remove(); blase?.remove();
     const lokal = antwort(t);
-    setTimeout(() => ende(lokal.a, lokal.c), 450 + Math.min(800, lokal.a.length * 2.5));
+    setTimeout(() => { bub(lokal.a, "bot"); chips(lokal.c); wartet = false; }, 300);
   }
 }
 let gestartet = false;
