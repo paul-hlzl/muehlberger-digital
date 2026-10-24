@@ -43,6 +43,11 @@ function endpunkt(env, anbieter) {
   return basis ? basis.replace(/\/v1$/, "") + "/v1/messages" : "https://api.anthropic.com/v1/messages";
 }
 
+// Nur Fehlertyp/-code des Anbieters (kurz, ohne Anfrageinhalt) zur Diagnose zurückgeben
+async function kurz(r) {
+  try { const j = await r.clone().json(); const e = j.error || j; return String(e.type || e.code || e.message || "").slice(0, 80); } catch { return ""; }
+}
+
 const antwort = (obj, status = 200, extra = {}) =>
   new Response(JSON.stringify(obj), { status, headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "no-store", ...extra } });
 
@@ -81,7 +86,7 @@ export async function onRequestPost({ request, env }) {
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.AI_API_KEY}` },
         body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 450, temperature: 0.4, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
       });
-      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar" }, 502);
+      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) }, 502);
       text = (await r.json()).choices?.[0]?.message?.content || "";
     } else {
       const r = await fetch(endpunkt(env, "anthropic"), {
@@ -89,7 +94,7 @@ export async function onRequestPost({ request, env }) {
         headers: { "Content-Type": "application/json", "x-api-key": env.AI_API_KEY, "anthropic-version": "2023-06-01" },
         body: JSON.stringify({ model: env.AI_MODEL || "claude-haiku-5-5", max_tokens: 450, system: SYSTEM, messages: verlauf })
       });
-      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar" }, 502);
+      if (!r.ok) return antwort({ fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) }, 502);
       text = ((await r.json()).content || []).filter(b => b.type === "text").map(b => b.text).join("\n");
     }
     text = text.trim();
