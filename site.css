@@ -756,3 +756,6 @@ a.ml:hover { box-shadow: 0 20px 40px -24px rgba(31,99,239,.35), 0 0 0 1px rgba(3
 .md-facts b { display: block; font-weight: 650; font-size: 14px; }
 .md-facts span { font-size: 13px; color: var(--mute); line-height: 1.35; }
 @media (max-width: 640px) { .md-facts { grid-template-columns: 1fr; } }
+
+.typing.lang::after { content: "Einen Moment, ich suche die passende Antwort …"; margin-left: 10px; font-size: 13px; color: var(--mute); white-space: nowrap; }
+.typing.lang { width: auto; padding-right: 16px; align-items: center; }

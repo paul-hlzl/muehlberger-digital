@@ -844,6 +844,7 @@ function ki(text) {
 }
 const verlauf = [];
 let wartet = false;
+const STREAM = false;   // auf true stellen, sobald der KI-Zugang Streaming unterstützt (Neokens hängt dabei)
 async function frage(t) {
   t = t.trim(); if (!t || wartet) return;
   bub(esc(t), "me"); chips([]);
@@ -854,10 +855,18 @@ async function frage(t) {
   const chipsNach = txt => /termin|buchen|erstgespr|beratung/i.test(txt + t) ? ["Erstgespräch buchen", "Was kostet das?"] : ["Erstgespräch buchen", "Welche Produkte gibt es?"];
   let blase = null, text = "";
   const ctl = new AbortController();
-  let frist = setTimeout(() => ctl.abort(), 30000);   // bis zum ersten Textstück
+  let frist = setTimeout(() => ctl.abort(), 55000);   // bis zur Antwort (manche KI-Zugänge brauchen länger)
+  const hinweis = setTimeout(() => { if (!blase) ty.classList.add("lang"); }, 7000);
   try {
-    const r = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: verlauf, stream: true }), signal: ctl.signal });
+    const r = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: verlauf, stream: STREAM }), signal: ctl.signal });
     if (!r.ok || !r.body) throw new Error(r.status);
+    if (!STREAM || (r.headers.get("content-type") || "").includes("json")) {
+      // Ohne Streaming: komplette Antwort auf einmal
+      const { reply } = await r.json(); if (!reply) throw new Error("leer");
+      clearTimeout(frist); clearTimeout(hinweis); ty.remove();
+      blase = document.createElement("div"); blase.className = "msg bot"; blase.innerHTML = ki(reply.trim()); log.appendChild(blase); log.scrollTop = log.scrollHeight;
+      verlauf.push({ role: "assistant", content: reply.trim() }); chips(chipsNach(reply)); wartet = false; return;
+    }
     const leser = r.body.getReader(), dec = new TextDecoder();
     for (;;) {
       const { done, value } = await leser.read();
@@ -867,12 +876,12 @@ async function frage(t) {
       if (!blase) { ty.remove(); blase = document.createElement("div"); blase.className = "msg bot"; log.appendChild(blase); }
       blase.innerHTML = ki(text); log.scrollTop = log.scrollHeight;
     }
-    clearTimeout(frist);
+    clearTimeout(frist); clearTimeout(hinweis);
     if (!text.trim()) throw new Error("leer");
     blase.innerHTML = ki(text.trim());
     verlauf.push({ role: "assistant", content: text.trim() }); chips(chipsNach(text)); wartet = false;
   } catch {
-    clearTimeout(frist);
+    clearTimeout(frist); clearTimeout(hinweis);
     if (blase && text.trim().length > 40) {   // Antwort kam zum größten Teil an: behalten
       verlauf.push({ role: "assistant", content: text.trim() }); chips(chipsNach(text)); wartet = false; return;
     }
