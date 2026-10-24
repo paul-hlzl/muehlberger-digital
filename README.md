@@ -1,10 +1,8 @@
 # Mühlberger Digital – Website
 
-Vertriebsseite für **Mühlberger Digital** (Jonas Mühlberger), Vertriebspartner von **Pipeline AI Solutions**.
+Live: https://muehlberger-digital.at · Hosting: Cloudflare Pages (Projekt `muehlberger-digital`, Deploy automatisch bei jedem Push auf `main`).
 
-Vorschau: https://paul-hlzl.github.io/muehlberger-digital/
-
-Statische Seite ohne Build-Schritt: `index.html`, `impressum.html`, `img/` und `fonts/`.
+Statische One-Page ohne Build-Schritt: `index.html`, `site.css`, `impressum.html`, `img/`, `fonts/` plus eine Server-Funktion `functions/api/chat.js` für den KI-Assistenten.
 
 ## Lokal ansehen
 
@@ -12,19 +10,21 @@ Statische Seite ohne Build-Schritt: `index.html`, `impressum.html`, `img/` und `
 python -m http.server 8000
 ```
 
-Dann `http://localhost:8000` öffnen.
+Der KI-Assistent braucht Cloudflare. Lokal fällt er automatisch auf seinen eingebauten Wissensstand zurück.
 
-## Inhalt
+## KI-Assistent einrichten (einmalig)
 
-- Intro mit Zähler, Startbereich mit Fotos von Jonas
-- Laufband der Produkte, Projekte (Desktop: Liste mit Vorschau, Handy: zum Wischen)
-- Leistungen als Kacheln, Über mich, Preise (unverbindliche Richtpreise), Partnerschaft, FAQ
-- Erstgespräch buchen (Thema, Kalender, Uhrzeit, Gesprächsform) und Rückruf – Versand über FormSubmit an Jonas, Kopie an Pipeline AI Solutions
-- Assistent (Chatbot), läuft komplett im Browser
+Der API-Key kommt **nie** in den Code. Er liegt als Secret im Cloudflare-Projekt:
 
-## Vor dem Livegang
+1. Cloudflare → Workers & Pages → `muehlberger-digital` → Settings → Variables and secrets → Add
+2. `AI_API_KEY` (Typ **Secret**) = Schlüssel des KI-Anbieters
+3. Optional als Text: `AI_PROVIDER` = `anthropic` (Standard) oder `openai`, `AI_MODEL` = Modellname
+4. Deployments → letzten Deploy „Retry deployment“ (Secrets gelten erst für neue Deploys)
 
-- `<meta name="robots" content="noindex">` in `index.html` entfernen (nur für die Vorschau gesetzt)
-- Erste Formular-Anfrage abschicken und die Bestätigungsmail von FormSubmit anklicken
-- Impressumsangaben mit Jonas abstimmen
+Die Funktion erlaubt nur Anfragen von muehlberger-digital.at, begrenzt Verlauf, Länge und Anfragen pro Person und kennt nur die Fakten aus dem System-Prompt in `functions/api/chat.js`. Preise oder Öffnungszeiten ändern sich dort und in `index.html`.
+
+## Pflege
+
+- Erstgespräch-Zeiten: Mo–Fr 18:00–21:30 (`ZEITEN` in `index.html` und System-Prompt)
+- Formular-Versand: FormSubmit an office@muehlberger-digital.at mit Kopie an office@pipeline-solutions.at
 - Google Fonts lokal einbinden (DSGVO)

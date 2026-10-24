@@ -5,13 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mühlberger Digital – Websites, Apps &amp; KI-Lösungen für Unternehmen</title>
 <meta name="description" content="Mühlberger Digital – Websites, Apps, KI-Lösungen und Automatisierung für Unternehmen. In Partnerschaft mit Pipeline AI Solutions. Jetzt kostenloses Erstgespräch buchen.">
-<meta name="robots" content="noindex">
+<link rel="canonical" href="https://muehlberger-digital.at/">
+<script>if (location.hostname.indexOf("www.") === 0) location.replace("https://muehlberger-digital.at" + location.pathname + location.search + location.hash);</script>
 <meta name="theme-color" content="#f5f5f7">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="de_AT">
 <meta property="og:title" content="Mühlberger Digital – Ihr Unternehmen. Digital weitergedacht.">
 <meta property="og:description" content="Websites, Apps und KI-Lösungen – ein Ansprechpartner, ein Team, das liefert.">
-<meta property="og:image" content="img/og.jpg">
+<meta property="og:url" content="https://muehlberger-digital.at/">
+<meta property="og:image" content="https://muehlberger-digital.at/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="img/md-zeichen.png" type="image/png">
 <link rel="preload" href="fonts/Aspekta-700.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,6 +28,8 @@
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "name": "Mühlberger Digital",
+  "url": "https://muehlberger-digital.at/",
+  "logo": "https://muehlberger-digital.at/img/md-zeichen.png",
   "description": "Beratung und Vermittlung von Websites, Apps und KI-Lösungen. Umsetzung durch Pipeline AI Solutions.",
   "founder": { "@type": "Person", "name": "Jonas Mühlberger" },
   "telephone": "+43 677 6219 2776",
@@ -527,7 +534,12 @@ const MAUS = matchMedia("(hover: hover)").matches;
 $("#plist").addEventListener("click", e => {
   const it = e.target.closest(".pi"); if (!it) return;
   const i = +it.dataset.i, link = e.target.closest("a");
-  if (!MAUS && i !== akt) { e.preventDefault(); zeige(i); return; }
+  if (!MAUS && i !== akt) {
+    e.preventDefault(); zeige(i);
+    // Das vorherige Projekt klappt zu und verschiebt alles: Eintrag danach sauber an den oberen Rand holen
+    setTimeout(() => { const y = it.getBoundingClientRect().top + scrollY - 84; lenis ? lenis.scrollTo(y, { duration: .7 }) : scrollTo({ top: y, behavior: "smooth" }); }, 620);
+    return;
+  }
   if (!link) open(PROJEKTE[i].url, "_blank", "noopener");
 });
 $("#plist").addEventListener("focusin", e => { const it = e.target.closest(".pi"); if (it && +it.dataset.i !== akt) zeige(+it.dataset.i); });
@@ -621,29 +633,41 @@ function animationen() {
     .from(".lock .eyebrow, .lock .sub", { opacity: 0, y: 20, duration: .8, stagger: .1 }, "<.2");
 }
 
-/* Intro: Zähler 0–100, dann gleitet die Fläche nach oben. Startet sofort, nicht erst wenn alle Bilder geladen sind */
+/* Intro: Zähler 0–100, danach gleitet die Fläche nach oben und der Startbereich baut sich auf.
+   Robust: wartet (max. 3 s) auf Schriften und Hero-Bild, hat eine Notbremse und kann nie hängen bleiben. */
+const bereit = (() => {
+  const schriften = ["700 1em Aspekta", "650 1em Aspekta", "500 1em Aspekta", "500 1em Inter", "600 1em Inter"].map(f => document.fonts?.load(f).catch(() => {}));
+  const bild = new Promise(r => { const im = $("#hero-img"); if (!im) return r(); (im.decode ? im.decode() : Promise.resolve()).then(r, r); });
+  return Promise.race([Promise.all([...schriften, bild, document.fonts?.ready]), new Promise(r => setTimeout(r, 3000))]);
+})();
+function introWeg() { const b = $("#intro"); if (b) b.remove(); document.documentElement.classList.add("no-intro"); lenis?.start(); }
 async function intro() {
   const box = $("#intro");
   let gesehen = false; try { gesehen = !!sessionStorage.getItem("md-intro"); sessionStorage.setItem("md-intro", "1"); } catch {}
   if (location.hash === "#termin") gesehen = true;
-  if (!HAS_GSAP || REDUCED || STATIC || gesehen) {
+  const ohne = !HAS_GSAP || REDUCED || STATIC;
+  if (ohne || gesehen) {
     document.documentElement.classList.add("no-intro");
-    if (HAS_GSAP && !REDUCED && !STATIC) heroAnimation().play();
-    animationen(); return;
+    if (!ohne) { await bereit; heroAnimation().play(); animationen(); }
+    return;
   }
   if ("scrollRestoration" in history) history.scrollRestoration = "manual";
   scrollTo(0, 0); lenis?.scrollTo(0, { immediate: true, force: true }); lenis?.stop();
-  // Schrift abwarten (max. 1,2 s), damit die Überschrift richtig zerlegt wird
-  await Promise.race([document.fonts?.ready, new Promise(r => setTimeout(r, 1200))]);
-  const hero = heroAnimation();
-  const z = { v: 0 };
-  gsap.timeline({ onComplete: () => { box.remove(); lenis?.start(); } })
-    .add(() => { scrollTo(0, 0); lenis?.scrollTo(0, { immediate: true, force: true }); })
-    .from(".intro .logo img", { opacity: 0, y: 30, stagger: .12, duration: .8, ease: "power3.out" })
-    .to(z, { v: 100, duration: 1.6, ease: "power2.inOut", onUpdate: () => { $("#num").textContent = Math.round(z.v); $("#bar").style.transform = `scaleX(${z.v / 100})`; } }, "<")
-    .to(".intro .logo, .intro .num, .intro .lbl, .intro .bar", { opacity: 0, y: -20, duration: .4, stagger: .04 })
-    .fromTo(box, { clipPath: "inset(0% 0% 0% 0% round 0px 0px 0px 0px)" }, { clipPath: "inset(0% 0% 100% 0% round 0px 0px 40px 40px)", duration: 1, ease: "power4.inOut" })
-    .add(() => { hero.play(); animationen(); }, "-=.6");
+  const notbremse = setTimeout(introWeg, 9000);
+  try {
+    const z = { v: 0 };
+    // Zähler läuft bis 99 und wartet dort, bis alles geladen ist – nie ein leerer Bildschirm
+    const zaehler = gsap.to(z, { v: 99, duration: 1.5, ease: "power2.inOut", onUpdate: () => { $("#num").textContent = Math.round(z.v); $("#bar").style.transform = `scaleX(${z.v / 100})`; } });
+    gsap.from(".intro .logo img", { opacity: 0, y: 24, stagger: .1, duration: .7, ease: "power3.out" });
+    await Promise.all([bereit, new Promise(r => zaehler.eventCallback("onComplete", r))]);
+    $("#num").textContent = "100"; $("#bar").style.transform = "scaleX(1)";
+    const hero = heroAnimation();
+    gsap.timeline({ onComplete: () => { clearTimeout(notbremse); introWeg(); } })
+      .to({}, { duration: .2 })
+      .to(".intro .logo, .intro .num, .intro .lbl, .intro .bar", { opacity: 0, duration: .25 })
+      .fromTo(box, { clipPath: "inset(0% 0% 0% 0% round 0px 0px 0px 0px)" }, { clipPath: "inset(0% 0% 100% 0% round 0px 0px 40px 40px)", duration: .95, ease: "power4.inOut" }, "<")
+      .add(() => { hero.play(); animationen(); }, "<.15");
+  } catch (e) { clearTimeout(notbremse); introWeg(); try { heroAnimation().play(); animationen(); } catch {} }
 }
 intro();
 
@@ -799,11 +823,49 @@ function antwort(t) {
 }
 const bub = (h, w) => { const d = document.createElement("div"); d.className = "msg " + w; d.innerHTML = h; log.appendChild(d); log.scrollTop = log.scrollHeight; };
 const chips = l => $("#qchips").innerHTML = (l || ["Welche Produkte gibt es?", "Was kostet eine Website?", "Gratis testen", "Erstgespräch buchen"]).map(c => `<button type="button">${esc(c)}</button>`).join("");
-function frage(t) {
-  if (!t.trim()) return; bub(esc(t), "me"); chips([]);
+// Antworten der KI sicher darstellen: HTML entschärfen, **fett**, Zeilenumbrüche, Aufzählungen, Links zu den eigenen Produkten
+const KI_LINKS = ["pipeline-solutions.at", "pipebot.at", "noteit.at", "sightup.at", "pipeflow.at", "hittaro.com", "app.pipeflow.at", "muehlberger-digital.at"];
+function ki(text) {
+  const NL = String.fromCharCode(10);
+  const zeilen = esc(text).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>").split(NL);
+  let html = "", liste = false;
+  for (const z of zeilen) {
+    const punkt = z.match(/^\s*[-•]\s+(.+)/);
+    if (punkt) { if (!liste) { html += "<ul>"; liste = true; } html += "<li>" + punkt[1] + "</li>"; }
+    else { if (liste) { html += "</ul>"; liste = false; } html += z.trim() ? z + "<br>" : ""; }
+  }
+  if (liste) html += "</ul>";
+  html = html.replace(/(<br>)+$/, "");
+  // Nur Links zu eigenen Seiten werden klickbar
+  return html.replace(/\b((?:https?:\/\/)?(?:www\.|app\.)?[a-z0-9-]+\.(?:at|com)(?:\/[^\s<),]*[^\s<),.])?)/gi, (m, voll) => {
+    const ohne = voll.replace(/^https?:\/\//, "");
+    return KI_LINKS.some(d => ohne.replace(/^www\./, "").startsWith(d)) ? '<a href="https://' + ohne + '" target="_blank" rel="noopener">' + ohne + "</a>" : m;
+  });
+}
+const verlauf = [];
+let wartet = false;
+async function frage(t) {
+  t = t.trim(); if (!t || wartet) return;
+  bub(esc(t), "me"); chips([]);
   const ty = document.createElement("div"); ty.className = "typing"; ty.innerHTML = "<i></i><i></i><i></i>"; log.appendChild(ty); log.scrollTop = log.scrollHeight;
-  const r = antwort(t);
-  setTimeout(() => { ty.remove(); bub(r.a, "bot"); chips(r.c); }, 450 + Math.min(800, r.a.length * 2.5));
+  // Chip-Aktionen (Buchung öffnen, Gratis-Checks) laufen lokal
+  if (AKTION[t]) { const r = antwort(t); setTimeout(() => { ty.remove(); bub(r.a, "bot"); chips(["Was kostet das?", "Welche Produkte gibt es?"]); }, 400); return; }
+  wartet = true; verlauf.push({ role: "user", content: t });
+  const ende = (html, c, speichern) => { ty.remove(); bub(html, "bot"); chips(c); if (speichern) verlauf.push({ role: "assistant", content: speichern }); wartet = false; };
+  try {
+    const ctl = new AbortController(), frist = setTimeout(() => ctl.abort(), 20000);
+    const r = await fetch("/api/chat", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: verlauf }), signal: ctl.signal });
+    clearTimeout(frist);
+    if (!r.ok) throw new Error(r.status);
+    const { reply } = await r.json();
+    if (!reply) throw new Error("leer");
+    ende(ki(reply), /termin|buchen|erstgespr|beratung/i.test(reply + t) ? ["Erstgespräch buchen", "Was kostet das?"] : ["Erstgespräch buchen", "Welche Produkte gibt es?"], reply);
+  } catch {
+    // Ohne KI-Verbindung antwortet der eingebaute Wissensstand weiter
+    verlauf.pop();
+    const lokal = antwort(t);
+    setTimeout(() => ende(lokal.a, lokal.c), 450 + Math.min(800, lokal.a.length * 2.5));
+  }
 }
 let gestartet = false;
 function oeffneChat() {
@@ -816,7 +878,7 @@ $("#chat-btn").addEventListener("click", oeffneChat);
 new IntersectionObserver(([e]) => $("#chat-btn").classList.toggle("weg", e.isIntersecting), { rootMargin: "0px 0px -120px 0px" }).observe($("footer"));
 $("#chat-x").addEventListener("click", schliesseChat);
 $("#qchips").addEventListener("click", e => { const b = e.target.closest("button"); if (b) frage(b.textContent); });
-$("#cin").addEventListener("submit", e => { e.preventDefault(); frage($("#cin-i").value); $("#cin-i").value = ""; });
+$("#cin").addEventListener("submit", e => { e.preventDefault(); const v = $("#cin-i").value; if (v.trim() && !wartet) { frage(v); $("#cin-i").value = ""; } });
 </script>
 </body>
 </html>
