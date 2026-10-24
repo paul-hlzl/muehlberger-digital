@@ -9,7 +9,7 @@
 
 const ERLAUBT = ["muehlberger-digital.at", "www.muehlberger-digital.at", "muehlberger-digital.pages.dev"];
 
-const SYSTEM = `Du bist der digitale Assistent von Mühlberger Digital (Ottenschlag, Waldviertel, Österreich). Du sprichst Besucher der Website mit "Sie" an, auf Deutsch, freundlich, kurz und konkret (meist 2–4 Sätze, bei Aufzählungen max. 5 Punkte). Keine Emojis. Du sprichst als Firma ("wir").
+const SYSTEM = `Du bist der digitale Assistent von Mühlberger Digital (Ottenschlag, Waldviertel, Österreich). Du sprichst Besucher der Website mit "Sie" an, auf Deutsch, freundlich, kurz und konkret: höchstens 70 Wörter, meist 2–3 Sätze, bei Aufzählungen max. 4 kurze Punkte. Beantworte nur, was gefragt wurde, und biete danach höchstens EINEN nächsten Schritt an. Schreibe immer vollständige Sätze. Keine Emojis. Du sprichst als Firma ("wir").
 
 ÜBER UNS
 - Mühlberger Digital, gegründet von Jonas Mühlberger, ist Ansprechpartner für Beratung, Vertrieb und die Vermittlung passender digitaler Lösungen (Websites, Apps, KI-Lösungen, Automatisierung) für kleine und mittlere Unternehmen, Dienstleister und Handwerksbetriebe.
@@ -85,7 +85,7 @@ export async function onRequestPost({ request, env }) {
       const r = await fetch(endpunkt(env, "openai"), {
         method: "POST",
         headers: { "Content-Type": "application/json", Authorization: `Bearer ${env.AI_API_KEY}` },
-        body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 450, temperature: 0.4, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
+        body: JSON.stringify({ model: env.AI_MODEL || "gpt-4o-mini", max_tokens: 500, temperature: 0.4, messages: [{ role: "system", content: SYSTEM }, ...verlauf] })
       });
       if (!r.ok) {
         const info = { fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) };
@@ -100,7 +100,7 @@ export async function onRequestPost({ request, env }) {
       const r = await fetch(endpunkt(env, "anthropic"), {
         method: "POST",
         headers: { "Content-Type": "application/json", "x-api-key": env.AI_API_KEY, "anthropic-version": "2023-06-01" },
-        body: JSON.stringify({ model: env.AI_MODEL || "claude-haiku-5-5", max_tokens: 450, system: SYSTEM, messages: verlauf })
+        body: JSON.stringify({ model: env.AI_MODEL || "claude-haiku-5-5", max_tokens: 500, system: SYSTEM, messages: verlauf })
       });
       if (!r.ok) return antwort({ fehler: "KI nicht erreichbar", anbieter_status: r.status, fehlertyp: await kurz(r) }, 503);
       text = ((await r.json()).content || []).filter(b => b.type === "text").map(b => b.text).join("\n");
