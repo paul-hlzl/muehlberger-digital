@@ -762,3 +762,7 @@ a.ml:hover { box-shadow: 0 20px 40px -24px rgba(31,99,239,.35), 0 0 0 1px rgba(3
 
 /* Performance: eigene Ebenen für Parallax-Bilder */
 #hero-img, .tile .browser, .tile .phones, #stage { will-change: transform; }
+
+@media (max-width: 991px) {
+  .mq { -webkit-mask-image: none; mask-image: none; }
+}

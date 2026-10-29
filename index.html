@@ -460,6 +460,8 @@ const $$ = (s, el = document) => [...el.querySelectorAll(s)];
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const STATIC = location.search.includes("static");
 const REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
+// Handy/Tablet/Touch: keine Scroll-Glättung und keine Animationen – die Seite bleibt flüssig und lädt sofort
+const MOBIL = matchMedia("(max-width: 991px), (pointer: coarse)").matches;
 const HAS_GSAP = !!window.gsap;
 $("#jahr").textContent = new Date().getFullYear();
 const OUT = '<svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M4 12L12 4M5 4h7v7"/></svg>';
@@ -577,7 +579,7 @@ mm.addEventListener("click", e => { if (e.target.closest("a, [data-book]")) menu
 new IntersectionObserver(([e]) => nav.classList.toggle("imfuss", e.isIntersecting), { rootMargin: "0px 0px -60% 0px" }).observe($("footer"));
 
 /* Weiches Scrollen & Anker */
-if (HAS_GSAP && window.Lenis && !REDUCED && !STATIC) {
+if (HAS_GSAP && window.Lenis && !REDUCED && !STATIC && !MOBIL) {
   gsap.registerPlugin(ScrollTrigger);
   lenis = new Lenis({ lerp: .09, smoothWheel: true });
   lenis.on("scroll", ({ scroll }) => { ScrollTrigger.update(); onScroll(scroll); });
@@ -612,17 +614,14 @@ function heroAnimation() {
     .from(".hero .fx", { opacity: 0, y: 24, duration: 1, stagger: .08, ease: "power3.out" }, .5);
 }
 function animationen() {
-  if (!HAS_GSAP || REDUCED || STATIC) return;
+  if (!HAS_GSAP || REDUCED || STATIC || MOBIL) return;
   // Seitenfotos steigen beim Scrollen gemeinsam leicht nach oben
   gsap.to("#hero-img", { yPercent: 8, ease: "none", scrollTrigger: { trigger: ".hero", start: "top top", end: "bottom top", scrub: true } });
   // Statement färbt sich beim Scrollen Wort für Wort ein
   const st = SplitText.create("#statement", { type: "words" });
   gsap.fromTo(st.words, { color: "#d2d2d7" }, { color: "#0c0407", stagger: .1, ease: "none", scrollTrigger: { trigger: "#statement", start: "top 80%", end: "bottom 45%", scrub: true } });
-  // Überschriften: Buchstaben-Fade wie im Hero
-  $$(".split").forEach(el => {
-    const s = SplitText.create(el, { type: "chars,words" });
-    gsap.from(s.chars, { opacity: 0, duration: .4, stagger: .025, ease: "power1.out", scrollTrigger: { trigger: el, start: "top 85%" } });
-  });
+  // Überschriften: ein weiches Einblenden pro Überschrift (statt hunderter Einzelbuchstaben – deutlich leichter)
+  $$(".split").forEach(el => gsap.from(el, { opacity: 0, y: 28, duration: .8, ease: "power3.out", scrollTrigger: { trigger: el, start: "top 88%" } }));
   // Weiche Einblendungen
   $$(".fx").filter(el => !el.closest(".hero")).forEach(el => gsap.from(el, { opacity: 0, y: 40, duration: 1, ease: "power3.out", scrollTrigger: { trigger: el, start: "top 90%" } }));
   // Projekte: Liste und Vorschau gleiten herein (Desktop), Karten von rechts (Handy)
@@ -654,7 +653,7 @@ async function intro() {
   const box = $("#intro");
   let gesehen = false; try { gesehen = !!sessionStorage.getItem("md-intro"); sessionStorage.setItem("md-intro", "1"); } catch {}
   if (location.hash === "#termin") gesehen = true;
-  const ohne = !HAS_GSAP || REDUCED || STATIC;
+  const ohne = !HAS_GSAP || REDUCED || STATIC || MOBIL;
   if (ohne || gesehen) {
     document.documentElement.classList.add("no-intro");
     if (!ohne) { await bereit; heroAnimation().play(); animationen(); }
