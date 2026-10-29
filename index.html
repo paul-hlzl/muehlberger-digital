@@ -91,7 +91,7 @@
 
 <!-- ================= HERO ================= -->
 <section class="hero hero2">
-  <div class="h2bg" aria-hidden="true"><img id="hero-img" src="img/lux-interieur.webp" alt="" width="1800" height="1018"></div>
+  <div class="h2bg" aria-hidden="true"><img id="hero-img" src="img/lux-interieur.webp" fetchpriority="high" decoding="async" alt="" width="1800" height="1018"></div>
   <div class="wrap h2grid">
     <div class="h2txt">
       <span class="kick fx">Websites · Apps · KI-Lösungen</span>
@@ -590,6 +590,12 @@ document.addEventListener("click", e => {
   e.preventDefault();
   lenis ? lenis.scrollTo(t, { offset: t === "#start" ? -200 : -80, duration: 1.4 }) : document.querySelector(t)?.scrollIntoView({ behavior: "smooth" });
 });
+
+/* Laufbänder pausieren, solange sie nicht im Bild sind (spart Rechenleistung beim Scrollen) */
+if ("IntersectionObserver" in window) {
+  const io = new IntersectionObserver(es => es.forEach(e => e.target.querySelectorAll(".t").forEach(t => { t.style.animationPlayState = e.isIntersecting ? "" : "paused"; })), { rootMargin: "100px" });
+  $$(".mq").forEach(m => io.observe(m));
+}
 
 /* ================= Animationen ================= */
 // Hero: Buchstaben blenden nacheinander ein, Fotos steigen auf (pausiert angelegt, damit nichts aufblitzt)
