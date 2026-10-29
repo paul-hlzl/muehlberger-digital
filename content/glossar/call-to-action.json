@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/call-to-action/",
+  "title": "Call-to-Action: Handlungsaufforderung erklärt",
+  "description": "Call-to-Action einfach erklärt: Was eine Handlungsaufforderung auf der Website ist, wie gute Beispiele klingen und warum sie über Anfragen entscheidet.",
+  "h1": "Call-to-Action (CTA)",
+  "kicker": "Glossar · Marketing",
+  "lead": "Ein Call-to-Action (CTA) ist eine Handlungsaufforderung auf einer Website, meist als Schaltfläche oder Link, die Besuchern den nächsten Schritt zeigt, etwa „Jetzt anrufen“ oder „Termin anfragen“. Er macht aus Lesern Anfragende.",
+  "fakten": [
+    "Konkretes Verb statt „Hier klicken“ oder „Mehr“",
+    "Sichtbar platziert, am Smartphone ohne Suchen erreichbar",
+    "Pro Seite ein Hauptziel, höchstens ein Nebenziel"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Gute und schwache Beispiele",
+      "html": "<p>Ein Fliesenleger hat auf jeder Seite unten den Link „Kontakt“. Besucher müssen dann selbst überlegen, ob sie anrufen, mailen oder ein Formular ausfüllen. Besser ist eine klare Schaltfläche wie „Kostenlosen Besichtigungstermin anfragen“ unter den Referenzbildern, dazu am Handy die Telefonnummer als „Jetzt anrufen“.</p><ul><li>Schwach: „Absenden“, „Mehr erfahren“, „Hier“</li><li>Besser: „Angebot für mein Bad anfordern“, „Tisch für heute reservieren“</li></ul>"
+    },
+    {
+      "h2": "Warum der CTA für KMU so wichtig ist",
+      "html": "<p>Viele Websites kleiner Betriebe informieren gut, sagen aber nie, was der Besucher jetzt tun soll. Ein klarer CTA senkt die Hemmschwelle und erhöht die Zahl der Anfragen, ohne dass mehr Besucher kommen müssen. Er ist damit einer der einfachsten Hebel für mehr <a href=\"/glossar/conversion/\">Conversions</a>.</p><p>Formulierungen und Platzierung behandelt der Ratgeber <a href=\"/wissen/call-to-action/\">Call-to-Action richtig einsetzen</a>. Welche Variante besser wirkt, lässt sich mit einem <a href=\"/glossar/a-b-test/\">A/B-Test</a> prüfen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Call-to-Actions sollte eine Seite haben?",
+      "a": "Eine Seite sollte ein klares Hauptziel haben, etwa eine Anfrage. Dieser CTA darf mehrmals vorkommen, zum Beispiel oben und am Ende der Seite. Zusätzlich ist ein weicherer Nebenschritt möglich, etwa „Referenzen ansehen“. Zu viele verschiedene Aufforderungen nebeneinander verwirren dagegen und führen dazu, dass Besucher gar nichts tun."
+    },
+    {
+      "q": "Ist eine Telefonnummer auch ein Call-to-Action?",
+      "a": "Ja, besonders für Handwerk, Praxen und Gastronomie. Am Smartphone sollte die Nummer als antippbarer Link eingebaut sein, damit der Anruf mit einem Fingertipp startet. Ergänzen Sie sie mit einem kurzen Hinweis, wann Sie erreichbar sind. Wer außerhalb dieser Zeiten anruft, braucht eine Alternative wie Rückrufbitte, Formular oder Chat."
+    }
+  ],
+  "verwandt": [
+    "/wissen/call-to-action/",
+    "/glossar/conversion/",
+    "/glossar/landingpage/",
+    "/wissen/conversion-verbessern/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

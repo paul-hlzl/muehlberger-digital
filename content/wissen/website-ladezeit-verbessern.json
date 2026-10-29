@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/website-ladezeit-verbessern/",
+  "title": "Website-Ladezeit verbessern: Ursachen und Lösungen",
+  "description": "Website-Ladezeit verbessern: richtig messen, Bilder verkleinern, Skripte reduzieren, Hosting und Caching prüfen – mit Checkliste für kleine Betriebe.",
+  "h1": "Website-Ladezeit verbessern",
+  "kicker": "Ratgeber · Technik",
+  "lead": "Die Ladezeit verbessern Sie vor allem, indem Sie Bilder verkleinern und in modernen Formaten ausliefern, unnötige Skripte und Erweiterungen entfernen, ein schnelles Hosting mit Caching nutzen und externe Inhalte wie Videos oder Karten erst bei Bedarf laden. Messen Sie zuerst, zum Beispiel mit Google PageSpeed Insights, und beginnen Sie mit der größten Bremse.",
+  "fakten": [
+    "Zu große Bilder sind die häufigste Ursache für langsame Seiten",
+    "Immer die Werte für das Smartphone ansehen, nicht nur für den Computer",
+    "Jedes externe Skript, Widget und Plugin kostet Zeit",
+    "Gutes Hosting mit Caching ist die Basis für alles andere"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum die Ladezeit so wichtig ist",
+      "html": "<p>Viele Menschen suchen am Handy nach einem Betrieb, oft unterwegs und mit wechselndem Empfang. Wenn die Seite dann lange weiß bleibt, wird zurückgetippt und der nächste Anbieter angeklickt. Eine schnelle Website ist deshalb vor allem eine Frage der Höflichkeit gegenüber Ihren Besuchern.</p><p>Auch Google berücksichtigt die Nutzererfahrung, unter anderem über die sogenannten <a href=\"/glossar/core-web-vitals/\">Core Web Vitals</a>. Ladezeit allein bringt Sie nicht nach oben, aber eine sehr langsame Seite kann Ihnen schaden. Mehr zum Thema Handy lesen Sie unter <a href=\"/wissen/mobile-optimierung/\">Mobile Optimierung</a>.</p>"
+    },
+    {
+      "h2": "Zuerst messen: So finden Sie die Bremsen",
+      "html": "<p>Geben Sie Ihre Adresse in Google PageSpeed Insights ein. Das kostenlose Werkzeug zeigt Werte für Mobilgeräte und Computer und listet konkrete Verbesserungsvorschläge. Achten Sie vor allem auf die mobile Ansicht.</p><ul><li><strong>LCP</strong> (Largest Contentful Paint): Wie schnell ist das größte sichtbare Element, oft ein Titelbild, geladen?</li><li><strong>INP</strong> (Interaction to Next Paint): Wie schnell reagiert die Seite, wenn jemand tippt oder klickt?</li><li><strong>CLS</strong> (Cumulative Layout Shift): Springt der Inhalt beim Laden herum?</li></ul><p>Messen Sie mehrmals und zu verschiedenen Zeiten. Einzelne Werte schwanken, die Tendenz ist entscheidend.</p>"
+    },
+    {
+      "h2": "Die größte Bremse: Bilder",
+      "html": "<p>Ein Foto direkt aus der Kamera oder vom Handy ist oft mehrere Megabyte groß. Auf der Website wird es dann klein angezeigt, aber trotzdem vollständig geladen. Das ist bei vielen kleinen Websites der Hauptgrund für lange Ladezeiten.</p><ul><li>Bilder auf die tatsächlich benötigte Breite verkleinern.</li><li>Moderne Formate wie WebP oder AVIF verwenden.</li><li>Bilder weiter unten auf der Seite erst laden, wenn sie ins Bild scrollen.</li><li>Galerien mit Dutzenden Fotos auf eigene Unterseiten verteilen.</li></ul><p>Wie Sie Bilder zugleich für Google beschreiben, erklärt der Ratgeber <a href=\"/wissen/bilder-seo/\">Bilder-SEO und Alt-Texte</a>.</p>"
+    },
+    {
+      "h2": "Skripte, Plugins und eingebundene Dienste",
+      "html": "<p>Jedes Chat-Fenster, jede Social-Media-Einbindung, jedes Analyse-Tool und jede Schriftart von einem fremden Server lädt zusätzlichen Code. Einzeln ist das wenig, zusammen kann es die Seite deutlich verlangsamen.</p><p>Gehen Sie die Liste durch: Was nutzen Sie wirklich? Eingebettete Videos und Karten können durch ein Vorschaubild ersetzt werden, das erst beim Anklicken den Dienst lädt. Schriften lassen sich oft vom eigenen Server ausliefern, was zugleich beim Datenschutz hilft, siehe <a href=\"/wissen/google-fonts-lokal/\">Google Fonts lokal einbinden</a>. Bei WordPress gilt zusätzlich: weniger Plugins, schnellere Seite.</p>"
+    },
+    {
+      "h2": "Hosting und Caching",
+      "html": "<p>Die beste Optimierung hilft wenig, wenn der Server langsam antwortet. Billigstes Hosting teilt sich oft Ressourcen mit sehr vielen anderen Seiten. Ein Serverstandort in Europa verkürzt außerdem die Wege für Besucher aus Österreich.</p><p>Caching bedeutet, dass fertige Seiten zwischengespeichert und nicht bei jedem Aufruf neu zusammengebaut werden. Bei vielen Systemen lässt sich das mit wenigen Einstellungen aktivieren. Fragen Sie Ihren Hoster, welche Möglichkeiten es gibt.</p>"
+    },
+    {
+      "h2": "Schnelle Verbesserungen auf einen Blick",
+      "html": "<ul><li>Die zehn größten Bilder der Website verkleinern und komprimieren.</li><li>Nicht genutzte Plugins, Widgets und Tracking-Codes entfernen.</li><li>Automatisch startende Videos und Slider mit vielen großen Bildern ersetzen.</li><li>Caching beim Hoster oder im System aktivieren.</li><li>Schriftarten auf zwei Familien mit wenigen Schnitten beschränken.</li><li>Nach jeder Änderung neu messen.</li></ul>"
+    },
+    {
+      "h2": "Wann ein Neubau die bessere Lösung ist",
+      "html": "<p>Manche Seiten lassen sich nur begrenzt beschleunigen, etwa wenn ein Baukasten oder ein überladenes Theme viel Code mitbringt, den Sie nicht beeinflussen können. Dann ist ein <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a> mit schlanker Technik oft wirtschaftlicher als langes Nachbessern.</p><p>Ehrlich gesagt: Wenn Ihre Seite schon gut lädt, bringt das letzte Zehntel einer Sekunde kaum etwas. Den Stand Ihrer Website zeigt der kostenlose <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>. Im <a href=\"/erstgespraech/\">Erstgespräch</a> besprechen wir, welche Maßnahmen sich für Sie lohnen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie schnell sollte eine Website laden?",
+      "a": "So schnell, dass Besucher am Handy nicht warten müssen. Google nennt für den wichtigsten Wert, den Largest Contentful Paint, eine Zielmarke von höchstens 2,5 Sekunden als gut. Wichtiger als eine exakte Zahl ist der Vergleich: Lädt Ihre Seite am Smartphone deutlich langsamer als die von Mitbewerbern, lohnt sich eine Optimierung, vor allem bei Bildern und Skripten."
+    },
+    {
+      "q": "Wie messe ich die Ladezeit meiner Website?",
+      "a": "Am einfachsten mit Google PageSpeed Insights: Adresse eingeben, Analyse starten, Werte für Mobilgeräte ansehen. Das Werkzeug zeigt Kennzahlen wie LCP, INP und CLS und konkrete Vorschläge, etwa zu große Bilder. Messen Sie mehrmals und vergleichen Sie die Startseite mit wichtigen Unterseiten, da diese oft unterschiedlich schnell laden."
+    },
+    {
+      "q": "Verbessert eine schnellere Website mein Google-Ranking?",
+      "a": "Die Ladezeit ist einer von vielen Faktoren. Eine schnelle Seite allein bringt Sie nicht auf die vorderen Plätze, wenn Inhalte und Relevanz fehlen. Eine sehr langsame Seite kann aber Nachteile bringen, weil Besucher abspringen und die Nutzererfahrung schlechter bewertet wird. Am meisten profitieren Sie indirekt: Wer schnell lädt, wird eher gelesen und kontaktiert."
+    },
+    {
+      "q": "Warum ist meine Website am Handy langsamer als am Computer?",
+      "a": "Smartphones haben oft eine langsamere Internetverbindung und weniger Rechenleistung als ein Computer. Große Bilder, viele Skripte und aufwendige Animationen wirken sich deshalb mobil stärker aus. Außerdem simuliert PageSpeed Insights für Mobilgeräte bewusst schwächere Bedingungen. Optimieren Sie deshalb immer zuerst für das Handy, dann profitiert auch die Computer-Ansicht."
+    },
+    {
+      "q": "Kann ich die Ladezeit ohne Programmierkenntnisse verbessern?",
+      "a": "Teilweise ja. Bilder vor dem Hochladen verkleinern, ungenutzte Plugins und Einbindungen entfernen und das Caching beim Hoster aktivieren schaffen auch Laien. Tiefere Eingriffe wie das Aufräumen von Code, das Verzögern von Skripten oder ein Theme-Wechsel brauchen dagegen technisches Wissen. Lassen Sie sich vorher zeigen, welche Bremse bei Ihnen die größte ist."
+    }
+  ],
+  "verwandt": [
+    "/glossar/core-web-vitals/",
+    "/wissen/mobile-optimierung/",
+    "/wissen/bilder-seo/",
+    "/leistungen/website-relaunch/",
+    "/gratis-check/seo-check/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

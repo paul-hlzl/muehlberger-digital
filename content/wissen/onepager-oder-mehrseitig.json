@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/onepager-oder-mehrseitig/",
+  "title": "Onepager oder mehrere Unterseiten? Vor- und Nachteile",
+  "description": "Onepager oder Website mit Unterseiten? Vor- und Nachteile, was das für Google bedeutet, wann welche Lösung passt, plus kurze Entscheidungshilfe.",
+  "h1": "Onepager oder mehrere Unterseiten?",
+  "kicker": "Ratgeber · Website",
+  "lead": "Ein Onepager, also eine Website mit allen Inhalten auf einer einzigen langen Seite, passt zu Betrieben mit einem klaren, überschaubaren Angebot. Mehrere Unterseiten sind besser, wenn Sie verschiedene Leistungen anbieten, in mehreren Orten gefunden werden wollen oder viele Fragen beantworten müssen, denn jede Unterseite kann bei Google für eigene Suchbegriffe erscheinen.",
+  "fakten": [
+    "Onepager: schnell erfasst, gut fürs Handy, wenig Pflege",
+    "Unterseiten: mehr Chancen, bei Google gefunden zu werden",
+    "Mischform: Startseite als Überblick, Details auf Unterseiten",
+    "Entscheidend sind Zahl der Leistungen und Suchverhalten der Kunden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was ein Onepager ist",
+      "html": "<p>Bei einem Onepager stehen alle Inhalte untereinander auf einer einzigen Seite: Einleitung, Leistungen, Über uns, Referenzen, Kontakt. Das Menü springt nicht auf andere Seiten, sondern scrollt zum jeweiligen Abschnitt. Nur Impressum und Datenschutzerklärung liegen meist auf eigenen Seiten.</p><p>Eine mehrseitige Website verteilt die Inhalte auf mehrere Unterseiten, etwa eine pro Leistung, eine für das Team, eine für Kontakt. Die Startseite gibt einen Überblick und verlinkt weiter.</p>"
+    },
+    {
+      "h2": "Die Stärken eines Onepagers",
+      "html": "<ul><li><strong>Schnell erfasst:</strong> Besucher scrollen einmal durch und haben alles gesehen.</li><li><strong>Gut am Handy:</strong> Wischen nach unten ist am Smartphone natürlich.</li><li><strong>Wenig Pflege:</strong> Alles ist an einem Ort, Änderungen sind schnell gemacht.</li><li><strong>Klare Geschichte:</strong> Die Seite kann Besucher in einer festen Reihenfolge zur Anfrage führen.</li></ul><p>Für eine Masseurin mit einem Angebot, einen Fotografen mit einem Schwerpunkt oder einen kleinen Verein ist das oft eine gute Lösung.</p>"
+    },
+    {
+      "h2": "Die Grenzen eines Onepagers",
+      "html": "<p>Die größte Grenze betrifft Suchmaschinen. Eine Seite hat einen Seitentitel und ein Hauptthema. Wer gleichzeitig für „Dachsanierung“, „Spenglerarbeiten“ und „Flachdach abdichten“ gefunden werden will, hat mit einer einzigen Seite schlechtere Karten als mit drei eigenen Seiten, die jeweils ein Thema gründlich behandeln.</p><p>Dazu kommt: Lange Onepager werden unübersichtlich, wenn das Angebot wächst. Und Sie können Kunden keinen Link schicken, der direkt zur Information über eine bestimmte Leistung führt, ohne dass sie die ganze Seite laden. Wie Unterseiten sinnvoll miteinander verbunden werden, erklärt der Ratgeber <a href=\"/wissen/interne-verlinkung/\">Interne Verlinkung sinnvoll aufbauen</a>.</p>"
+    },
+    {
+      "h2": "Wann mehrere Unterseiten besser sind",
+      "html": "<ul><li>Sie bieten drei oder mehr klar unterschiedliche Leistungen an.</li><li>Kunden suchen bei Google nach einzelnen Leistungen, nicht nach Ihrem Namen.</li><li>Sie wollen in mehreren Orten oder Bezirken gefunden werden, siehe <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages</a>.</li><li>Es gibt viele Fragen, die ausführlich beantwortet werden müssen.</li><li>Sie suchen Mitarbeiter und brauchen eine eigene Karriereseite.</li><li>Sie wollen regelmäßig neue Inhalte wie Referenzen oder Ratgeber ergänzen.</li></ul>"
+    },
+    {
+      "h2": "Die Mischform: das Beste aus beiden",
+      "html": "<p>Viele gute Firmenwebsites kombinieren beides. Die Startseite ist wie ein Onepager aufgebaut: Sie erzählt in Abschnitten, was Sie tun, wer Sie sind und wie man Kontakt aufnimmt. Jede Leistung hat dort einen kurzen Absatz mit Link zur eigenen Unterseite, auf der alles ausführlich steht.</p><p>So bekommen eilige Besucher den schnellen Überblick, gründliche Leser die Details, und Google findet für jede Leistung eine passende Seite. Wie die Startseite dabei aufgebaut wird, beschreibt <a href=\"/wissen/startseite-aufbauen/\">So bauen Sie eine gute Startseite auf</a>.</p>"
+    },
+    {
+      "h2": "Entscheidungshilfe in fünf Fragen",
+      "html": "<ol><li>Wie viele unterschiedliche Leistungen bieten Sie an? Eine oder zwei sprechen für einen Onepager.</li><li>Wie finden Kunden Sie heute? Vor allem über Empfehlung und Ihren Namen spricht für einen Onepager, über Suche nach Leistungen für Unterseiten.</li><li>Wollen Sie in mehreren Orten gefunden werden? Dann eher Unterseiten.</li><li>Wie viel Text brauchen Ihre Kunden für eine Entscheidung? Viel spricht für Unterseiten.</li><li>Wird Ihr Angebot in den nächsten Jahren wachsen? Dann von Anfang an mehrseitig planen.</li></ol>"
+    },
+    {
+      "h2": "Drei Beispiele und der nächste Schritt",
+      "html": "<p><strong>Die Masseurin:</strong> Ein Angebot, ein Ort, Kunden kommen über Empfehlung. Ein Onepager mit Behandlungen, Preisen, Foto und Online-Termin reicht.</p><p><strong>Der Baumeister:</strong> Neubau, Sanierung, Zubau, Planung, dazu mehrere Bezirke und laufende Mitarbeitersuche. Klar mehrseitig.</p><p><strong>Das Gasthaus:</strong> Mischform mit einer Startseite, die Küche, Öffnungszeiten und Reservierung zeigt, und eigenen Seiten für Speisekarte, Feiern und Zimmer.</p><p>Die Starter-Website von Mühlberger Digital mit bis zu fünf Seiten ab 2.500 € einmalig ohne USt. deckt viele dieser Fälle ab. Welche Variante zu Ihnen passt, klären wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>; Details unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Onepager schlecht für SEO?",
+      "a": "Nicht grundsätzlich, aber er hat Grenzen. Eine einzelne Seite kann gut für den Firmennamen und ein Hauptthema gefunden werden. Wer jedoch für mehrere unterschiedliche Leistungen oder Orte bei Google erscheinen will, hat mit eigenen Unterseiten bessere Chancen, weil jede Seite ein Thema ausführlich behandeln und einen eigenen Seitentitel bekommen kann."
+    },
+    {
+      "q": "Für wen eignet sich ein Onepager?",
+      "a": "Ein Onepager eignet sich für Betriebe mit einem klaren, überschaubaren Angebot, etwa eine Masseurin, eine Fotografin mit einem Schwerpunkt, einen kleinen Verein oder ein Gründungsprojekt. Voraussetzung ist, dass Kunden mit wenig Text eine Entscheidung treffen können und Sie nicht für viele verschiedene Suchbegriffe gefunden werden müssen."
+    },
+    {
+      "q": "Kann ich einen Onepager später erweitern?",
+      "a": "Ja, wenn die technische Basis das zulässt. Typischerweise werden einzelne Abschnitte zu eigenen Unterseiten ausgebaut, während die Startseite als Überblick erhalten bleibt. Wichtig ist, dass Gestaltung und Navigation von Anfang an flexibel genug sind. Sprechen Sie mögliche Erweiterungen deshalb schon beim ersten Angebot an."
+    },
+    {
+      "q": "Wie viele Unterseiten braucht eine kleine Firmenwebsite?",
+      "a": "Viele kleine Betriebe kommen mit vier bis sechs Seiten gut aus: Startseite, eine Seite pro Hauptleistung oder eine gemeinsame Leistungsseite, Über uns und Kontakt, dazu Impressum und Datenschutzerklärung. Mehr Seiten lohnen sich, wenn Sie viele Leistungen, mehrere Standorte oder eine Karriereseite brauchen. Entscheidend ist, dass jede Seite einen klaren Zweck hat."
+    },
+    {
+      "q": "Was ist besser fürs Handy: Onepager oder Unterseiten?",
+      "a": "Beides kann am Handy gut funktionieren. Ein Onepager ist bequem, weil man einfach nach unten wischt, wird aber bei viel Inhalt lang und unübersichtlich. Mehrere Unterseiten brauchen ein gut bedienbares Menü, bieten dafür kürzere, fokussierte Seiten. Entscheidend sind kurze Ladezeiten, eine klare Gliederung und eine Kontaktmöglichkeit, die auf jeder Seite schnell erreichbar ist."
+    }
+  ],
+  "verwandt": [
+    "/wissen/landingpage-oder-website/",
+    "/wissen/startseite-aufbauen/",
+    "/wissen/interne-verlinkung/",
+    "/wissen/lokale-landingpages/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "seo-check"
+  ]
+}

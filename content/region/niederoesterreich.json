@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/niederoesterreich/",
+  "title": "Digitalagentur Niederösterreich: persönlich vor Ort",
+  "description": "Website, KI-Chatbot und Google-Sichtbarkeit für Betriebe in Niederösterreich – persönlich beraten aus Ottenschlag, mit klaren Preisen vorab.",
+  "h1": "Digitalagentur für Niederösterreich – Beratung aus dem Waldviertel",
+  "kicker": "Region · Bundesland",
+  "lead": "Mühlberger Digital berät Betriebe in ganz Niederösterreich persönlich zu Website, Google-Sichtbarkeit, KI-Chatbots und Automatisierung. Der Sitz ist in Ottenschlag im Waldviertel; Termine gibt es vor Ort, am Telefon oder per Video-Call, und das Erstgespräch ist kostenlos.",
+  "fakten": [
+    "Sitz: Neuhof 26, 3631 Ottenschlag (Bezirk Zwettl, Waldviertel)",
+    "Persönliche Termine in allen vier Vierteln nach Absprache",
+    "Starter-Website ab 2.500 € einmalig, Pipebot ab 19 € pro Monat",
+    "Kostenloses Erstgespräch Montag bis Freitag, 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Bundesland, vier sehr verschiedene Viertel",
+      "html": "<p>Niederösterreich ist das flächengrößte Bundesland Österreichs und umschließt Wien. Wer hier einen Betrieb führt, erlebt sehr unterschiedliche Ausgangslagen: Im <a href=\"/regionen/waldviertel/\">Waldviertel</a> sind die Wege weit und die Stammkundschaft treu, im <a href=\"/regionen/weinviertel/\">Weinviertel</a> prägen Weinbau und Heurige den Kalender, im <a href=\"/regionen/mostviertel/\">Mostviertel</a> treffen Landwirtschaft und Industrie aufeinander, und das <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> südlich von Wien ist dicht besiedelt und stark umkämpft.</p><p>Dazu kommt die Landeshauptstadt <a href=\"/regionen/st-poelten/\">St. Pölten</a> mit Verwaltung, Handel und vielen Dienstleistern. Ein Einheitspaket für „Niederösterreich“ gibt es deshalb nicht. Am Anfang steht die Frage, woher Ihre Kundschaft kommt und wie sie Sie heute findet.</p>"
+    },
+    {
+      "h2": "Was Betriebe in Niederösterreich typischerweise brauchen",
+      "html": "<p>Die meisten Anfragen drehen sich um drei Punkte: gefunden werden, erreichbar sein und weniger Zeit mit Büroarbeit verbringen. Drei typische Situationen:</p><ul><li>Ein Tischler mit drei Mitarbeitern hat eine alte Website, die am Handy kaum lesbar ist. Eine <a href=\"/leistungen/website-erstellen/\">neue Website</a> mit klaren Leistungen, Fotos und Kontaktformular reicht oft schon.</li><li>Eine Praxis in einer Bezirkshauptstadt bekommt abends viele gleiche Fragen zu Terminen und Anfahrt. Ein KI-Chatbot beantwortet sie mit den Inhalten der Praxis und verweist bei Unklarem an das Team.</li><li>Ein Gemeindeamt möchte besser informieren, ohne zusätzliches Personal. Eine übersichtliche Website mit den häufigsten Anliegen entlastet das Telefon.</li></ul>"
+    },
+    {
+      "h2": "Persönlich vor Ort – und wann online besser ist",
+      "html": "<p>Jonas Mühlberger kommt in Ihren Betrieb, wenn das sinnvoll ist, vor allem im Waldviertel und in den angrenzenden Bezirken. Für weiter entfernte Orte, etwa im Süden des Industrieviertels, ist ein Video-Call oft praktischer. Sie sparen sich die Anfahrt, und die Lösungen werden trotzdem live mit Ihren eigenen Daten gezeigt.</p><p>Die Termine liegen bewusst am Abend, Montag bis Freitag von 18:00 bis 21:30 Uhr. So müssen Sie den laufenden Betrieb nicht unterbrechen.</p>"
+    },
+    {
+      "h2": "Wer berät und wer umsetzt",
+      "html": "<p>Mühlberger Digital berät und vermittelt. Die technische Umsetzung und der Vertrag laufen über <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a> aus Kleinzell im Mühlkreis in Oberösterreich. Sie haben also einen Ansprechpartner in Niederösterreich, der die Region kennt, und ein Team, das Websites, Apps und KI-Lösungen technisch baut.</p><p>Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig. Größere Projekte gibt es nach dem Erstgespräch mit schriftlichem Angebot. Alle Richtpreise stehen unter <a href=\"/preise/\">Preise</a>.</p>"
+    },
+    {
+      "h2": "Warum lokale Sichtbarkeit in Niederösterreich zählt",
+      "html": "<p>Viele Betriebe leben von Kundschaft aus einem Umkreis von wenigen Orten. Wer dort sucht, sieht zuerst Betriebe mit gepflegtem Google-Unternehmensprofil, aktuellen Öffnungszeiten und einer Website, die klar sagt, was angeboten wird. Immer öfter fragen Menschen auch ChatGPT oder Gemini nach einer Empfehlung. Ob Ihr Betrieb dort vorkommt, lässt sich messen, und meist mit überschaubarem Aufwand verbessern.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt Mühlberger Digital in ganz Niederösterreich vor Ort?",
+      "a": "Ja, nach Absprache. Am einfachsten sind persönliche Termine im Waldviertel und in den Nachbarbezirken, weil der Sitz in Ottenschlag liegt. Für Betriebe im Weinviertel, Mostviertel oder Industrieviertel wird gemeinsam entschieden, ob ein Termin vor Ort oder ein Video-Call sinnvoller ist. Inhaltlich macht das keinen Unterschied: Die Lösungen werden in beiden Fällen live und mit Ihren eigenen Daten gezeigt."
+    },
+    {
+      "q": "Was kostet eine Website für einen Betrieb in Niederösterreich?",
+      "a": "Die Starter-Website kostet ab 2.500 € einmalig, ohne USt., da Kleinunternehmer. Enthalten sind bis zu fünf Seiten, die Darstellung auf Smartphone, Tablet und Computer, Optimierung für Google und KI-Suchen, Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Für größere Websites, Onlineshops oder Apps gibt es nach dem kostenlosen Erstgespräch ein schriftliches Angebot."
+    },
+    {
+      "q": "Muss ich für das Erstgespräch etwas vorbereiten?",
+      "a": "Nein, aber ein paar Gedanken helfen. Wenn Sie wissen, welche Anfragen Sie heute bekommen, woher Ihre Kundschaft kommt und was Sie im Alltag am meisten Zeit kostet, wird das Gespräch gezielter. Die Adresse Ihrer bestehenden Website oder Ihres Google-Profils reicht als Ausgangspunkt. Das Erstgespräch dauert etwa 30 Minuten und ist kostenlos."
+    }
+  ],
+  "verwandt": [
+    "/regionen/waldviertel/",
+    "/regionen/st-poelten/",
+    "/regionen/ottenschlag/",
+    "/erstgespraech/",
+    "/ablauf/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "ki-sichtbarkeit"
+  ]
+}

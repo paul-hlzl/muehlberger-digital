@@ -1,0 +1,60 @@
+{
+  "pfad": "/regionen/sallingberg/",
+  "title": "Digitalagentur Sallingberg: weniger Büroarbeit",
+  "description": "Für Betriebe in Sallingberg im Bezirk Zwettl: Besprechungen per KI protokollieren, Angebote schneller erstellen und abends weniger Büro. Beratung vor Ort.",
+  "h1": "Digitalagentur für Sallingberg",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "In vielen kleinen Betrieben in Sallingberg wird die Büroarbeit am Abend erledigt: Gesprächsnotizen ausarbeiten, Angebote schreiben, E-Mails beantworten. Mühlberger Digital zeigt, welche KI-Werkzeuge davon realistisch etwas abnehmen, etwa noteit für Besprechungsprotokolle, und wo sich der Aufwand nicht lohnt. Beraten wird persönlich aus Ottenschlag.",
+  "fakten": [
+    "Sallingberg liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Büroarbeit mit KI vereinfachen",
+    "noteit: Starter 0 €, Pro 14 € im Monat, 7 Tage gratis testen",
+    "Erstgespräch kostenlos, abends Montag bis Freitag"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo die Zeit am Abend hingeht",
+      "html": "<p>Ein Installateur, der tagsüber drei Kundentermine hat, notiert sich Maße und Wünsche auf Zetteln. Am Abend wird daraus ein Angebot, und oft fehlt dann ein Detail. Ähnlich geht es Beraterinnen, Planern oder Versicherungsmaklern, die viele Besprechungen per Video führen und danach alles festhalten müssen.</p><p>Wer weiß, welche Aufgaben am meisten Zeit kosten, kann gezielt ansetzen. Der Ratgeber <a href=\"/wissen/ki-im-buero/\">KI im Büro</a> gibt einen Überblick, was heute schon gut funktioniert.</p>"
+    },
+    {
+      "h2": "Online-Besprechungen mitschreiben lassen",
+      "html": "<p><a href=\"https://noteit.at/\">noteit</a> erstellt Gesprächsnotizen und Protokolle für Besprechungen in Teams, Zoom, Google Meet, Webex und anderen Programmen. Es kommt ohne Bot im Call aus, die Daten werden in Frankfurt gespeichert, und das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig. Für Termine beim Kunden vor Ort passt eher ein gut aufgebautes Formular am Handy.</p><p>Der Tarif Starter ist kostenlos und umfasst drei Stunden im Monat, Pro kostet 14 € und Team 24 € pro Person im Monat. Sieben Tage lässt sich noteit gratis testen, die Registrierung läuft über <a href=\"https://noteit.at/registrieren\">noteit.at</a>. Worauf Sie beim Mitschreiben achten sollten, beschreibt der Ratgeber zur <a href=\"/wissen/gespraechsaufzeichnung/\">Gesprächsaufzeichnung</a>.</p>"
+    },
+    {
+      "h2": "Angebote und E-Mails schneller erledigen",
+      "html": "<p>Auch beim Schreiben hilft KI: Aus Stichworten wird ein Angebotstext, aus einer langen Kundenmail eine kurze Zusammenfassung mit den offenen Fragen. Wichtig ist, dass die Ergebnisse geprüft werden, bevor sie hinausgehen, weil KI auch Fehler macht.</p><p>Für wiederkehrende Abläufe, etwa vom Anfrageformular bis zum fertigen Angebotsentwurf, gibt es individuelle Automatisierungen, Preis auf Anfrage. Wie so etwas aussieht, zeigt die Seite <a href=\"/leistungen/ki-automatisierung/zwettl/\">KI-Automatisierung im Bezirk Zwettl</a>.</p>"
+    },
+    {
+      "h2": "Persönlich im Bezirk Zwettl",
+      "html": "<p>Sallingberg liegt im Bezirk Zwettl, wie Ottenschlag. Jonas Mühlberger kommt für das kostenlose Erstgespräch zu Ihnen und zeigt live, wie ein Protokoll oder ein Angebotsentwurf mit Ihren eigenen Unterlagen aussehen würde. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr.</p><p>Mehr zur Region: <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist noteit datenschutzkonform?",
+      "a": "noteit speichert die Daten in Frankfurt, also in der EU, und arbeitet ohne Bot, der in den Call eintritt. Ob der Einsatz in Ihrem Fall datenschutzrechtlich passt, hängt aber auch davon ab, wie Sie Ihre Gesprächspartner informieren. Allgemeine Orientierung gibt die Datenschutzbehörde, im Einzelfall eine Rechtsberatung. Grundsätzlich gilt: Teilnehmende vorab offen über die Mitschrift informieren."
+    },
+    {
+      "q": "Lohnt sich noteit, wenn ich nur wenige Besprechungen habe?",
+      "a": "Wenn Sie nur gelegentlich Online-Besprechungen führen, reicht oft der kostenlose Starter-Tarif mit drei Stunden im Monat. Pro um 14 € im Monat lohnt sich, wenn Sie regelmäßig Gespräche protokollieren müssen. Führen Sie fast nur Gespräche vor Ort beim Kunden, ist noteit weniger passend, und dann empfehlen wir es auch nicht."
+    },
+    {
+      "q": "Kann KI meine Angebote komplett selbst schreiben?",
+      "a": "KI kann einen guten Entwurf liefern, etwa aus Ihren Stichworten, früheren Angeboten und Preislisten. Die Verantwortung für Preise, Mengen und Bedingungen bleibt aber bei Ihnen, deshalb sollte jedes Angebot vor dem Versand geprüft werden. Wie weit sich der Ablauf automatisieren lässt, hängt von Ihren Unterlagen ab und wird im Erstgespräch eingeschätzt."
+    },
+    {
+      "q": "Was kostet eine individuelle Automatisierung?",
+      "a": "Individuelle Automatisierungen werden über Pipeline AI Solutions umgesetzt, der Preis richtet sich nach dem Ablauf und wird nach dem Erstgespräch genannt. Kleine Schritte, etwa eine automatische Eingangsbestätigung, sind deutlich weniger aufwendig als die Verbindung mehrerer Programme. Sie bekommen in jedem Fall ein schriftliches Angebot, bevor Kosten entstehen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/produkte/noteit/",
+    "/wissen/kundengespraeche-dokumentieren/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

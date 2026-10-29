@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/api/",
+  "title": "API einfach erklärt: Schnittstelle zwischen Programmen",
+  "description": "API einfach erklärt: Wie Programmierschnittstellen Software miteinander verbinden, etwa Website, Kalender und Buchhaltung, und was das Betrieben bringt.",
+  "h1": "API – Programmierschnittstelle",
+  "kicker": "Glossar · Technik",
+  "lead": "Eine API (Application Programming Interface) ist eine Schnittstelle, über die zwei Programme nach festen Regeln Daten austauschen oder Funktionen voneinander nutzen. Sie ist die Grundlage dafür, dass Website, Kalender, Shop und Buchhaltung zusammenarbeiten.",
+  "fakten": [
+    "Programme sprechen über APIs miteinander, ohne dass jemand tippt",
+    "Viele Online-Dienste bieten APIs für Anbindungen an",
+    "Zugriff ist meist über einen geheimen Schlüssel geschützt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus dem Betrieb",
+      "html": "<p>Ein Tennis- und Padelcenter nimmt Platzbuchungen über die Website an. Über eine API schreibt das Buchungssystem jede Reservierung in den Kalender der Anlage, schickt die Rechnungsdaten an das Buchhaltungsprogramm und löst eine Bestätigungs-SMS beim Kunden aus. Niemand muss Daten von einem Programm ins andere abtippen.</p><p>Auch KI-Dienste werden meist über APIs angebunden: Die eigene Software schickt einen Text an das <a href=\"/glossar/large-language-model/\">Sprachmodell</a> und bekommt die Antwort zurück, abgerechnet nach <a href=\"/glossar/token/\">Tokens</a>.</p>"
+    },
+    {
+      "h2": "Warum APIs für KMU wichtig sind",
+      "html": "<p>Ob sich Abläufe automatisieren lassen, hängt oft daran, ob die genutzten Programme eine API haben. Achten Sie bei der Auswahl neuer Software darauf, sonst entstehen Insellösungen, zwischen denen weiter händisch kopiert wird. APIs sind die technische Basis für <a href=\"/glossar/automatisierung/\">Automatisierung</a> und <a href=\"/glossar/webhook/\">Webhooks</a>.</p><p>Beispiele zeigt der Ratgeber <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele</a>. Verbindungen zwischen bestehenden Programmen setzt Pipeline AI Solutions im Bereich <a href=\"/leistungen/individuelle-software/\">individuelle Software</a> um.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich Programmierkenntnisse, um eine API zu nutzen?",
+      "a": "Für eigene Anbindungen in der Regel ja oder zumindest technisches Verständnis. Es gibt aber Werkzeuge wie Zapier, Make oder n8n, mit denen sich viele APIs per Mausklick verbinden lassen. Für einfache Abläufe reicht das oft. Bei komplexeren Verbindungen, sensiblen Daten oder fehlenden fertigen Bausteinen ist ein Dienstleister die sicherere Wahl."
+    },
+    {
+      "q": "Ist eine API ein Sicherheitsrisiko?",
+      "a": "Eine gut gebaute API ist durch Schlüssel, Berechtigungen und verschlüsselte Verbindungen geschützt. Riskant wird es, wenn Zugangsschlüssel offen weitergegeben, in E-Mails verschickt oder nie geändert werden. Geben Sie jeder Anbindung nur die Rechte, die sie braucht, und entfernen Sie Zugänge, die nicht mehr genutzt werden. So bleibt das Risiko überschaubar."
+    }
+  ],
+  "verwandt": [
+    "/glossar/webhook/",
+    "/glossar/automatisierung/",
+    "/vergleiche/zapier-make-n8n/",
+    "/leistungen/individuelle-software/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

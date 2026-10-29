@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/fliesenleger/",
+  "title": "Digitale Lösungen für Fliesenleger: Bad & Vorher-Nachher",
+  "description": "Badsanierung, bodenebene Dusche, Großformat-Fliesen: Wie Fliesenleger ihre Arbeit online zeigen, Gewerke abstimmen und passende Anfragen bekommen.",
+  "h1": "Digitale Lösungen für Fliesenleger",
+  "kicker": "Branche · Fliesen, Platten, Mosaik",
+  "lead": "Fliesenleger verkaufen eine Arbeit, deren wichtigster Teil später unsichtbar ist: Untergrund, Gefälle, Abdichtung. Online überzeugen deshalb Vorher-Nachher-Bilder, klare Erklärungen zu Abdichtung und Ablauf und eine Anfrage, die Raummaße und Fotos gleich mitliefert.",
+  "fakten": [
+    "Vorher-Nachher-Fotos sind im Fliesenhandwerk das stärkste Argument",
+    "Abdichtung und Untergrund erklären – das unterscheidet Profis",
+    "Bad-Sanierung braucht Abstimmung mit Installateur und Elektriker",
+    "Pipeflow erstellt aus Website-Projekten Social-Media-Beiträge, in der Pilotphase kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das unsichtbare Qualitätsmerkmal sichtbar machen",
+      "html": "<p>Ein frisch verfliestes Bad sieht auf dem Foto bei fast jedem Betrieb gut aus. Ob die Abdichtung unter der Dusche fachgerecht gemacht wurde, sieht man erst Jahre später, wenn es hinter der Wand feucht wird. Genau das ist Ihre Chance, sich abzuheben.</p><p>Fotografieren Sie Zwischenschritte: Dichtband in den Ecken, Gefälleestrich, Ausgleichsmasse. Ein, zwei Sätze dazu, warum dieser Schritt wichtig ist, machen aus einer Galerie eine Erklärung. Wie man solche Texte verständlich schreibt, zeigt der Ratgeber <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p>"
+    },
+    {
+      "h2": "Bodenebene Dusche und Großformat: Fragen, die oft kommen",
+      "html": "<p>Viele Anfragen drehen sich um dieselben Themen, die Kunden in Wohnzeitschriften gesehen haben:</p><ul><li><strong>Bodenebene Dusche:</strong> Geht das in meinem Altbau? Reicht die Aufbauhöhe für den Abfluss?</li><li><strong>Großformatige Fliesen:</strong> Warum ist das Verlegen aufwendiger und teurer als bei kleinen Formaten?</li><li><strong>Fliesen auf Fliesen:</strong> Muss der alte Belag wirklich herunter?</li></ul><p>Eine kurze Antwort auf jede dieser Fragen auf der Website erspart Ihnen Erklärungen am Telefon und zeigt Fachwissen. Ehrliche Formulierungen wie „Das klären wir bei der Besichtigung, weil es vom Unterbau abhängt“ sind besser als eine pauschale Zusage.</p>"
+    },
+    {
+      "h2": "Gewerke abstimmen: Bad mit Installateur und Elektriker",
+      "html": "<p>Bei einer Badsanierung ist der Fliesenleger selten allein. Installateur, Elektriker und manchmal Trockenbauer müssen in der richtigen Reihenfolge kommen, sonst stehen Sie vor einer Wand, in der noch die Leitung fehlt. Kunden wünschen sich oft einen Ansprechpartner für alles.</p><p>Wenn Sie mit festen Partnerbetrieben arbeiten, schreiben Sie das auf die Website, zum Beispiel „Komplettbad mit unseren Partnern aus der Region“. Das ist für Kunden ein echter Grund, Sie anzurufen, und es erspart ihnen, drei Betriebe selbst zu koordinieren. Sagen Sie dazu auch, wie lange ein Bad bei Ihnen typischerweise nicht benutzbar ist, denn das ist für Familien oft die wichtigste Frage. Werden Abstimmungen online gemacht, kann ein Werkzeug wie noteit die Protokolle übernehmen. Für die Partnerbetriebe gibt es eigene Seiten, etwa für <a href=\"/branchen/installateur/\">Installateure</a>.</p>"
+    },
+    {
+      "h2": "Vorher-Nachher als Social-Media-Material",
+      "html": "<p>Kaum ein Handwerk eignet sich so gut für Vorher-Nachher-Bilder wie das Fliesenlegen: das Bad aus den Siebzigern mit braunen Fliesen und das fertige Ergebnis. Das Problem ist die Zeit, regelmäßig zu posten.</p><p><a href=\"/produkte/pipeflow/\">Pipeflow</a> macht aus den Projekten auf Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, die Sie nur freigeben. In der Pilotphase ist das kostenlos. Ideen, was man außerdem zeigen kann, sammelt der Ratgeber <a href=\"/wissen/social-media-ideen-handwerk/\">Social-Media-Ideen für das Handwerk</a>.</p>"
+    },
+    {
+      "h2": "Im Google-Profil mit Bildern überzeugen",
+      "html": "<p>Wer „Fliesenleger“ und den Ort sucht, sieht zuerst die Kartenergebnisse. Ein Profil mit aktuellen Projektbildern, echten Bewertungen und klaren Leistungen wie Bad, Terrasse, Stiege oder Küchenrückwand hebt sich deutlich ab.</p><p>Laden Sie nach jedem Projekt zwei, drei Bilder hoch und bitten Sie zufriedene Kunden um eine kurze Bewertung. Wie man das Profil Schritt für Schritt verbessert, beschreibt der Ratgeber <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>.</p>"
+    },
+    {
+      "h2": "Womit anfangen, und was Sie sich sparen können",
+      "html": "<p>Für die meisten Fliesenleger reicht eine schlanke Website mit Projektgalerie, ein gepflegtes Google-Profil und ein Anfrageformular mit Foto-Upload. Ein Chatbot oder Telefonassistent ist selten nötig, weil Ihre Kunden nicht nachts im Notfall anrufen.</p><p>Wie Ihre Startseite aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">kostenlose Website-Entwurf</a>. Im Erstgespräch besprechen wir, welche Kunden Sie gewinnen wollen, und Sie bekommen danach ein schriftliches Angebot mit klarem Preis.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sollte ein Anfrageformular für Fliesenarbeiten abfragen?",
+      "a": "Wichtig sind Raumart (Bad, Küche, Terrasse, Stiege), ungefähre Fläche in Quadratmetern, ob der alte Belag entfernt werden muss, ob die Fliesen schon ausgesucht sind und gewünschter Zeitraum. Dazu zwei, drei Fotos vom Ist-Zustand. Mit diesen Angaben können Sie einschätzen, ob eine Besichtigung nötig ist. Mehr Pflichtfelder sollten es nicht sein, sonst brechen Interessenten ab."
+    },
+    {
+      "q": "Soll ich auf der Website erklären, wie ich abdichte?",
+      "a": "Ja, in einfachen Worten und mit Fotos. Viele Kunden wissen nicht, dass unter den Fliesen eine eigene Abdichtung liegt, und vergleichen nur Quadratmeterpreise. Wenn Sie zeigen, wie sorgfältig Sie dabei arbeiten, verstehen sie, warum Ihr Angebot so aussieht, wie es aussieht. Technische Normen müssen Sie dabei nicht zitieren, eine verständliche Erklärung reicht völlig aus."
+    },
+    {
+      "q": "Lohnt sich Instagram für einen Fliesenleger?",
+      "a": "Wenn Sie Privatkunden ansprechen, kann es sich lohnen, weil Bad-Ergebnisse stark visuell sind und gern angesehen werden. Entscheidend ist Regelmäßigkeit, nicht Perfektion. Wer dafür keine Zeit hat, kann Pipeflow nutzen: Es erstellt aus Website-Inhalten wöchentliche Beiträge, die Sie nur freigeben. In der Pilotphase ist Pipeflow kostenlos. Wer fast nur für Bauträger arbeitet, kann sich Instagram sparen."
+    },
+    {
+      "q": "Was kostet eine Website für einen Fliesenleger?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. Enthalten sind Kontaktformular, Impressum, Datenschutz, Hosting und die Optimierung für Smartphone, Google und KI-Suchen. Eine typische Aufteilung wäre Startseite, Bad, weitere Leistungen, Projekte und Kontakt. Erweiterungen wie ein Formular mit Foto-Upload werden nach dem Erstgespräch mit klarem Preis angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/social-media-ideen-handwerk/", "/wissen/google-unternehmensprofil-optimieren/", "/produkte/pipeflow/", "/wissen/website-fotos/", "/branchen/installateur/", "/branchen/bodenleger/"],
+  "checks": ["website-entwurf", "social-media-test"]
+}

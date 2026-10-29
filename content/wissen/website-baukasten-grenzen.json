@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/website-baukasten-grenzen/",
+  "title": "Website-Baukästen: Grenzen und wann der Umstieg lohnt",
+  "description": "Wo Website-Baukästen an Grenzen stoßen – Anbieterbindung, Gestaltung, Ladezeit, Datenschutz, Funktionen – und woran Sie merken, dass ein Umstieg sinnvoll ist.",
+  "h1": "Website-Baukästen: Wo sie an Grenzen stoßen",
+  "kicker": "Ratgeber · Website",
+  "lead": "Website-Baukästen stoßen vor allem bei der Anbieterbindung, individueller Struktur, technischen Feinheiten für Ladezeit und Suchmaschinen, Datenschutz-Einstellungen und Sonderfunktionen an Grenzen. Für eine einfache Online-Visitenkarte reichen sie oft völlig aus. Sobald die Website wachsen, gezielt Anfragen bringen oder mit anderen Systemen zusammenarbeiten soll, lohnt sich ein genauer Blick.",
+  "fakten": [
+    "Baukästen sind stark beim schnellen, günstigen Einstieg",
+    "Der Umzug zu einem anderen Anbieter ist oft aufwendig",
+    "Technische Feinheiten für Ladezeit und SEO sind eingeschränkt",
+    "Sonderfunktionen kosten häufig extra oder sind gar nicht möglich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür Baukästen gut geeignet sind",
+      "html": "<p>Fair gesagt: Baukästen haben vielen kleinen Betrieben überhaupt erst eine Website ermöglicht. Sie sind schnell eingerichtet, brauchen kein technisches Wissen und kosten anfangs wenig. Hosting, Sicherheitsupdates und Vorlagen sind in der Regel inklusive.</p><p>Für eine Gründerin, die zuerst testen will, oder für einen Verein mit überschaubarem Informationsbedarf ist das ein vernünftiger Start. Die Grenzen zeigen sich meist erst, wenn die Ansprüche wachsen. Eine Gegenüberstellung finden Sie im Vergleich <a href=\"/vergleiche/wix-oder-eigene-website/\">Wix oder eigene Website</a>.</p>"
+    },
+    {
+      "h2": "Grenze 1: Anbieterbindung und Umzug",
+      "html": "<p>Bei einem Baukasten wohnt Ihre Website in einem fremden System. Wollen Sie wechseln, können Sie Texte und Bilder meist mitnehmen, Gestaltung und Aufbau aber nicht. Die Seite muss neu gebaut werden.</p><p>Dazu kommt: Preise, Funktionen und Bedingungen bestimmt der Anbieter. Steigen die Gebühren oder fällt eine Funktion weg, haben Sie wenig Spielraum. Achten Sie deshalb mindestens darauf, dass die Domain auf Sie registriert ist und nicht nur über den Baukasten läuft.</p>"
+    },
+    {
+      "h2": "Grenze 2: Gestaltung und Struktur",
+      "html": "<p>Vorlagen sehen auf den ersten Blick professionell aus. Weil viele Betriebe dieselben Vorlagen verwenden, wirken die Seiten aber oft austauschbar. Wer Inhalte anders anordnen möchte, als die Vorlage es vorsieht, stößt schnell an Grenzen.</p><p>Schwieriger wird es bei der Struktur: Eigene Unterseiten pro Leistung und Region, eine durchdachte interne Verlinkung oder spezielle Seitentypen lassen sich nicht in jedem Baukasten sauber abbilden. Gerade das ist aber wichtig, um bei Google für verschiedene Suchbegriffe gefunden zu werden.</p>"
+    },
+    {
+      "h2": "Grenze 3: Ladezeit und technische Suchmaschinenoptimierung",
+      "html": "<p>Baukästen laden oft viel Code mit, den Ihre Seite gar nicht braucht. Das kann die Ladezeit vor allem am Smartphone verlängern. Auf Server, Bildformate oder das Laden von Skripten haben Sie kaum Einfluss. Was Sie trotzdem tun können, beschreibt der Ratgeber <a href=\"/wissen/website-ladezeit-verbessern/\">Website-Ladezeit verbessern</a>.</p><p>Ähnlich ist es bei technischen Details für Suchmaschinen und KI-Suchen: strukturierte Daten, saubere Weiterleitungen, individuelle Steuerung für Crawler. Manches geht, vieles nur eingeschränkt. Für einfache Seiten reicht das, für umkämpfte Suchbegriffe oft nicht.</p>"
+    },
+    {
+      "h2": "Grenze 4: Datenschutz und Serverstandort",
+      "html": "<p>Viele Baukästen sind internationale Anbieter. Wo die Daten Ihrer Besucher verarbeitet werden, welche Drittanbieter eingebunden sind und welche Cookies gesetzt werden, können Sie oft nur begrenzt steuern. Das ist kein Verbot, aber Sie müssen es in der Datenschutzerklärung korrekt abbilden.</p><p>Wer Wert auf Hosting in der EU und volle Kontrolle legt, findet im Ratgeber <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa und Datenschutz</a> eine Orientierung. Für rechtliche Detailfragen ist die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> eine offizielle Anlaufstelle; im Einzelfall hilft ein Anwalt.</p>"
+    },
+    {
+      "h2": "Grenze 5: Funktionen und Kosten über die Zeit",
+      "html": "<p>Terminbuchung, Mehrsprachigkeit, Mitgliederbereich, Shop oder eine Anbindung an Ihre Warenwirtschaft: Manche dieser Funktionen bietet der Baukasten gegen Aufpreis, manche nur über Erweiterungen von Drittanbietern, manche gar nicht. So steigen die monatlichen Kosten schrittweise, ohne dass es auffällt.</p><p>Rechnen Sie deshalb über mehrere Jahre: Grundgebühr, Zusatzpakete, Erweiterungen. Erst dann sehen Sie, ob der Baukasten tatsächlich günstiger ist als eine eigene Website.</p>"
+    },
+    {
+      "h2": "Woran Sie merken, dass es Zeit für mehr ist",
+      "html": "<ul><li>Sie möchten etwas einbauen, und der Baukasten lässt es nicht zu.</li><li>Ihre Website lädt am Handy spürbar langsam.</li><li>Bei Google werden Sie für Ihre wichtigsten Leistungen kaum gefunden.</li><li>Die monatlichen Kosten sind über die Jahre deutlich gestiegen.</li><li>Die Seite sieht aus wie viele andere in Ihrer Branche.</li></ul><p>Treffen mehrere Punkte zu, ist ein <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a> oft der nächste sinnvolle Schritt. Wie Ihre aktuelle Seite technisch dasteht, zeigt der kostenlose <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>. Wir sagen Ihnen auch ehrlich, wenn Ihr Baukasten für Ihre Zwecke weiterhin reicht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind Website-Baukästen schlecht für Google?",
+      "a": "Nein, grundsätzlich können auch Baukasten-Seiten gut gefunden werden. Die Einschränkungen liegen eher im Detail: weniger Einfluss auf Ladezeit, Struktur und technische Einstellungen. Für einfache Websites mit wenig Konkurrenz reicht das oft. In Branchen mit vielen Mitbewerbern oder bei vielen Leistungen und Regionen kann eine eigene Website mehr Spielraum bieten."
+    },
+    {
+      "q": "Kann ich meine Baukasten-Website zu einem anderen Anbieter umziehen?",
+      "a": "In der Regel nur teilweise. Texte und Bilder lassen sich übernehmen, die Gestaltung und der technische Aufbau aber meist nicht, weil sie an das System des Anbieters gebunden sind. Die Website muss also neu gebaut werden. Wichtig ist, dass Ihre Domain übertragbar ist und alte Adressen auf die neuen Seiten weitergeleitet werden."
+    },
+    {
+      "q": "Wann ist ein Baukasten die richtige Wahl?",
+      "a": "Ein Baukasten passt, wenn Sie eine einfache Online-Präsenz mit wenigen Seiten brauchen, das Budget knapp ist und Sie gern selbst gestalten. Typisch sind Gründungsphase, kleine Vereine oder Betriebe, die fast nur über Empfehlungen arbeiten. Sobald die Website gezielt Anfragen bringen oder mit anderen Systemen verbunden werden soll, stößt er eher an Grenzen."
+    },
+    {
+      "q": "Was kostet der Umstieg von einem Baukasten?",
+      "a": "Der Umstieg ist im Grunde eine neue Website. Bei Mühlberger Digital beginnt eine Starter-Website mit bis zu fünf Seiten ab 2.500 € einmalig ohne USt., inklusive Hosting, Kontaktformular, Impressum und Datenschutzerklärung. Bestehende Texte und Fotos können oft weiterverwendet werden. Größere Projekte werden nach dem Erstgespräch schriftlich angeboten."
+    },
+    {
+      "q": "Verliere ich beim Wechsel vom Baukasten meine Google-Platzierungen?",
+      "a": "Nicht zwingend, wenn der Wechsel sorgfältig geplant wird. Entscheidend ist, dass jede alte Adresse per Weiterleitung auf die passende neue Seite zeigt, dass wichtige Inhalte erhalten bleiben und Seitentitel nicht ersatzlos verschwinden. Kurzfristige Schwankungen sind möglich. Wer ohne Weiterleitungen umzieht, riskiert dagegen, dass Google bestehende Seiten als verschwunden einstuft."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/wix-oder-eigene-website/",
+    "/vergleiche/baukasten-oder-agentur/",
+    "/wissen/website-selbst-oder-machen-lassen/",
+    "/leistungen/website-relaunch/",
+    "/wissen/hosting-in-europa/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

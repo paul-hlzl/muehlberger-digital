@@ -1,0 +1,43 @@
+{
+  "pfad": "/glossar/crawler/",
+  "title": "Crawler einfach erklärt: Bots von Google und KI",
+  "description": "Crawler einfach erklärt: Wie Googlebot und KI-Bots wie GPTBot Websites lesen, was sie für Ihre Sichtbarkeit bedeuten und wie Sie sie steuern können.",
+  "h1": "Crawler – Programme, die Websites lesen",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Ein Crawler ist ein Programm, das automatisch Webseiten aufruft, ihre Inhalte liest und Links folgt, um weitere Seiten zu finden. Suchmaschinen wie Google und KI-Anbieter wie OpenAI oder Anthropic nutzen Crawler, um ihre Datenbestände aufzubauen.",
+  "fakten": [
+    "Bekannte Crawler: Googlebot, Bingbot, GPTBot, ClaudeBot, PerplexityBot",
+    "Folgen Links von Seite zu Seite",
+    "Lassen sich über die robots.txt steuern"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Crawler eine Website erfassen",
+      "html": "<p>Eine Hausverwaltung veröffentlicht eine neue Seite zu freien Wohnungen. Der Googlebot findet sie über den Link auf der Startseite und über die <a href=\"/glossar/xml-sitemap/\">XML-Sitemap</a>, ruft sie ab und gibt den Inhalt zur Auswertung weiter. Erst danach kann die Seite in den Index kommen (<a href=\"/glossar/indexierung/\">Indexierung</a>).</p><p>KI-Crawler arbeiten ähnlich, sammeln Inhalte aber für das Training von Sprachmodellen oder für Live-Suchen in KI-Assistenten. Inhalte, die erst nach langem Laden per JavaScript erscheinen, können für manche Crawler schwer lesbar sein.</p>"
+    },
+    {
+      "h2": "Warum Crawler für KMU wichtig sind",
+      "html": "<p>Was ein Crawler nicht lesen kann, kann weder bei Google noch in KI-Antworten auftauchen. Für kleine Betriebe heißt das: Wichtige Informationen wie Leistungen, Orte und Öffnungszeiten gehören als Text auf die Seite, nicht nur in ein Bild oder ein PDF.</p><p>Über die <a href=\"/glossar/robots-txt/\">robots.txt</a> legen Sie fest, welche Crawler zugreifen dürfen. Welche KI-Bots es gibt und wie man mit ihnen umgeht, erklärt der Ratgeber <a href=\"/wissen/ki-crawler/\">KI-Crawler</a>; wie sichtbar Ihr Betrieb in KI-Suchen ist, zeigt der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Belasten Crawler meine Website?",
+      "a": "In der Regel kaum. Seriöse Crawler rufen Seiten in vernünftigen Abständen ab und richten sich nach der Leistungsfähigkeit des Servers. Bei sehr kleinen Hosting-Paketen oder aggressiven, unseriösen Bots kann es selten zu spürbarer Last kommen. Dann hilft der Hosting-Anbieter, auffällige Zugriffe zu begrenzen. Für die normale Firmenwebsite ist das kein Thema."
+    },
+    {
+      "q": "Woran erkenne ich, ob Google meine Seite gecrawlt hat?",
+      "a": "In der Google Search Console sehen Sie bei der URL-Prüfung, wann der Googlebot eine Seite zuletzt abgerufen hat. Zusätzlich gibt es einen Bericht zu den Crawling-Statistiken. Auch die Server-Protokolle Ihres Hosting-Anbieters zeigen Zugriffe einzelner Bots. Für kleine Betriebe reicht meist der Blick in die Search Console."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-crawler/",
+    "/glossar/robots-txt/",
+    "/glossar/indexierung/",
+    "/glossar/llms-txt/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

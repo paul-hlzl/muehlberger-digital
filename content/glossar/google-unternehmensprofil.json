@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/google-unternehmensprofil/",
+  "title": "Google-Unternehmensprofil einfach erklärt",
+  "description": "Google-Unternehmensprofil einfach erklärt: Was der kostenlose Firmeneintrag in Suche und Maps zeigt, wie Sie ihn pflegen und warum er für Betriebe zählt.",
+  "h1": "Google-Unternehmensprofil",
+  "kicker": "Glossar · Lokale Suche",
+  "lead": "Das Google-Unternehmensprofil ist ein kostenloser Firmeneintrag, der in der Google-Suche und in Google Maps erscheint und Adresse, Öffnungszeiten, Telefonnummer, Fotos und Bewertungen eines Betriebs zeigt. Früher hieß es „Google My Business“.",
+  "fakten": [
+    "Kostenlos, wird vom Betrieb selbst verwaltet",
+    "Erscheint in Maps und im Kasten neben den Suchergebnissen",
+    "Wichtig: richtige Kategorie, aktuelle Zeiten, echte Fotos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was das Profil im Alltag leistet",
+      "html": "<p>Ein Gasthaus an einem Wanderweg wird von Ausflüglern meist über Google Maps gefunden. Im Profil sehen sie, ob heute offen ist, wo man parkt, wie die Gaststube aussieht und was andere Gäste schreiben. Mit einem Fingertipp rufen sie an oder starten die Navigation.</p><p>Der Wirt pflegt Sonderöffnungszeiten für Feiertage, lädt saisonale Fotos hoch und antwortet auf Bewertungen. Über Beiträge kündigt er etwa das Martiniganslessen an. All das hält das Profil aktuell und vertrauenswürdig.</p>"
+    },
+    {
+      "h2": "Warum es für KMU so wichtig ist",
+      "html": "<p>Für viele Menschen ist das Profil der erste Kontakt mit einem Betrieb, noch vor der Website. Es ist ein Kernbaustein von <a href=\"/glossar/local-seo/\">Local SEO</a> und wird auch von KI-Suchen als Quelle genutzt. Falsche Öffnungszeiten oder eine veraltete Nummer kosten dagegen direkt Kunden.</p><p>Wie Sie das Profil verbessern, zeigt der Ratgeber <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>, zum Umgang mit Bewertungen <a href=\"/wissen/auf-bewertungen-antworten/\">auf Bewertungen antworten</a>. Wer Unterstützung möchte, findet sie unter <a href=\"/leistungen/google-unternehmensprofil/\">Betreuung des Unternehmensprofils</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Google-Unternehmensprofil?",
+      "a": "Das Profil selbst ist kostenlos. Sie brauchen ein Google-Konto und müssen bestätigen, dass Sie den Betrieb tatsächlich führen, etwa per Postkarte, Telefon oder Video. Kosten entstehen nur, wenn Sie zusätzlich Werbung bei Google schalten oder die Pflege an einen Dienstleister übergeben. Vorsicht bei Anrufen, die eine kostenpflichtige „Eintragung“ verlangen."
+    },
+    {
+      "q": "Kann ich schlechte Bewertungen löschen lassen?",
+      "a": "Nur, wenn sie gegen die Richtlinien von Google verstoßen, etwa bei Beleidigungen, Spam oder offensichtlich gefälschten Einträgen. Dann können Sie die Bewertung melden. Kritische, aber ehrliche Bewertungen bleiben stehen. Antworten Sie darauf sachlich und freundlich; andere Kunden lesen mit und schätzen einen fairen Umgang oft mehr als lauter Bestnoten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/google-unternehmensprofil-optimieren/",
+    "/leistungen/google-unternehmensprofil/",
+    "/glossar/local-seo/",
+    "/wissen/google-bewertungen-bekommen/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

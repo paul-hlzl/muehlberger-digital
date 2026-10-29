@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/website-fotos/",
+  "title": "Fotos für die Firmenwebsite: Motive, Tipps, Rechte",
+  "description": "Welche Fotos auf Ihre Firmenwebsite gehören, wie Sie mit dem Handy gute Bilder machen, wann ein Fotograf lohnt und was bei Bildrechten zu beachten ist.",
+  "h1": "Fotos für die Firmenwebsite",
+  "kicker": "Ratgeber · Inhalte",
+  "lead": "Für die Firmenwebsite eignen sich am besten echte Fotos von Ihrem Team, Ihren Räumen und Ihrer Arbeit: scharf, hell und meist im Querformat. Für Startseite und Teamseite lohnt sich oft ein Fotograf, Arbeits- und Referenzbilder machen Sie mit einem aktuellen Smartphone häufig selbst. Achten Sie auf Bildrechte, das Einverständnis abgebildeter Personen und kleine Dateigrößen.",
+  "fakten": [
+    "Echte Fotos schaffen mehr Vertrauen als Symbolbilder",
+    "Eine Motivliste vorab spart Zeit beim Fotografieren",
+    "Querformat, Tageslicht und ruhiger Hintergrund sind die halbe Miete",
+    "Bildrechte und Einverständnis der Personen vorher klären"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum echte Fotos so viel ausmachen",
+      "html": "<p>Besucher erkennen gekaufte Symbolbilder oft auf den ersten Blick: das lächelnde Team im Glasbüro, der Handwerker mit makellos sauberem Overall. Solche Bilder sagen nichts über Ihren Betrieb. Ein Foto Ihrer echten Werkstatt, Ihres Teams oder einer fertigen Arbeit zeigt dagegen, wer kommt und was man erwarten kann.</p><p>Gerade bei lokalen Betrieben ist das entscheidend. Wer jemanden ins Haus lässt oder sich behandeln lässt, möchte vorher sehen, mit wem er es zu tun hat. Fotos sind deshalb nicht Dekoration, sondern ein Teil Ihrer Überzeugungsarbeit.</p>"
+    },
+    {
+      "h2": "Diese Motive brauchen Sie",
+      "html": "<p>Legen Sie vor dem Fotografieren eine Liste an. Für die meisten kleinen Betriebe gehören dazu:</p><ul><li><strong>Titelbild:</strong> ein starkes Motiv für den oberen Bereich der Startseite, mit Platz für Text.</li><li><strong>Porträts:</strong> Inhaber und Team, einzeln und als Gruppe.</li><li><strong>Bei der Arbeit:</strong> Hände am Werkstück, im Gespräch mit Kunden, an der Maschine.</li><li><strong>Ergebnisse:</strong> fertige Projekte, Gerichte, Behandlungsräume, Produkte.</li><li><strong>Ort:</strong> Außenansicht, Eingang, Parkplatz, damit Kunden Sie finden.</li><li><strong>Details:</strong> Werkzeug, Material, Zutaten, die Ihre Arbeit greifbar machen.</li></ul>"
+    },
+    {
+      "h2": "Selbst fotografieren: Tipps fürs Smartphone",
+      "html": "<p>Aktuelle Smartphones liefern für viele Zwecke gute Bilder, wenn ein paar Grundregeln stimmen:</p><ul><li>Tageslicht nutzen, am besten indirekt, nicht gegen das Fenster fotografieren.</li><li>Linse vorher abwischen; ein fettiger Film macht Bilder milchig.</li><li>Für die Website meist im Querformat fotografieren.</li><li>Nicht digital zoomen, sondern näher hingehen.</li><li>Hintergrund aufräumen: Kabel, Kartons und Kaffeetassen weg.</li><li>Von jedem Motiv mehrere Varianten machen und später die beste wählen.</li></ul><p>Machen Sie es sich zur Gewohnheit, nach jedem gelungenen Auftrag zwei, drei Fotos zu machen. So wächst Ihre Sammlung für Website und Social Media ganz nebenbei.</p>"
+    },
+    {
+      "h2": "Wann sich ein Fotograf lohnt",
+      "html": "<p>Für das Titelbild, die Teamfotos und die Über-uns-Seite lohnt sich häufig ein professioneller Fotograf. Er sorgt für einheitliches Licht, gute Porträts und Bilder, die auch in einigen Jahren noch funktionieren. Ein halber Tag im Betrieb reicht oft für eine solide Grundausstattung.</p><p>Besprechen Sie vorher die Motivliste und die Formate, die die Website braucht. Klären Sie schriftlich, wofür Sie die Bilder verwenden dürfen: nur Website, auch Social Media, auch Drucksorten? Arbeits- und Referenzbilder ergänzen Sie danach selbst.</p>"
+    },
+    {
+      "h2": "Bildrechte und Einverständnis",
+      "html": "<p>Bilder aus dem Internet dürfen Sie nicht einfach verwenden, auch nicht, wenn sie frei zugänglich sind. Bei gekauften Bildern gelten die Bedingungen der Bildagentur, bei Fotografen die vereinbarten Nutzungsrechte. Sind Personen erkennbar abgebildet, brauchen Sie in der Regel deren Einverständnis; das gilt auch für Mitarbeiter und Kunden.</p><p>Halten Sie Zustimmungen am besten schriftlich fest. Einen Überblick bietet der Ratgeber <a href=\"/wissen/bildrechte/\">Bildrechte auf der Website</a>. Er ersetzt keine Rechtsberatung; im Zweifel fragen Sie die Wirtschaftskammer oder einen Anwalt.</p>"
+    },
+    {
+      "h2": "Bilder für die Website vorbereiten",
+      "html": "<p>Ein Handyfoto hat oft mehrere Megabyte. Auf der Website bremst es die Ladezeit, ohne besser auszusehen. Verkleinern Sie Bilder auf die benötigte Breite und speichern Sie sie in einem modernen Format wie WebP. Geben Sie Dateien sprechende Namen, etwa „dachsanierung-holzschindeln.webp“ statt „IMG_4711.jpg“.</p><p>Jedes Bild sollte außerdem einen kurzen Alternativtext bekommen, der beschreibt, was zu sehen ist. Das hilft Menschen mit Vorlesesoftware und Suchmaschinen gleichermaßen. Details stehen im Ratgeber <a href=\"/wissen/bilder-seo/\">Bilder-SEO und Alt-Texte</a>.</p>"
+    },
+    {
+      "h2": "Symbolbilder und KI-Bilder mit Bedacht",
+      "html": "<p>Für abstrakte Themen, etwa einen Blogbeitrag über Förderungen, können Symbolbilder oder KI-generierte Bilder eine Lösung sein. Für Team, Arbeiten und Räume sollten Sie darauf verzichten: Ein KI-Bild Ihres angeblichen Betriebs weckt falsche Erwartungen und kann Vertrauen kosten. Mehr dazu unter <a href=\"/wissen/ki-bilder-website/\">KI-Bilder auf der Website</a>.</p><p>Gute eigene Fotos zahlen sich mehrfach aus. Bei einer <a href=\"/leistungen/website-erstellen/\">neuen Website</a> binden wir sie passend ein. Und mit <a href=\"https://pipeflow.at/\">Pipeflow</a> entstehen aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, die Sie nur noch freigeben.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich Fotos für die Website mit dem Handy machen?",
+      "a": "Ja, für viele Zwecke reicht ein aktuelles Smartphone, etwa für Arbeits- und Referenzbilder, Produkte oder Details. Wichtig sind gutes Tageslicht, eine saubere Linse, ein aufgeräumter Hintergrund und das Querformat. Für Titelbild und Teamporträts lohnt sich oft trotzdem ein Fotograf, weil diese Bilder besonders wirken und lange verwendet werden."
+    },
+    {
+      "q": "Darf ich Bilder aus Google für meine Website verwenden?",
+      "a": "Nein, Bilder aus der Google-Bildersuche oder von anderen Websites sind in der Regel urheberrechtlich geschützt und dürfen nicht ohne Erlaubnis verwendet werden. Das kann teure Abmahnungen nach sich ziehen. Verwenden Sie eigene Fotos, Bilder eines beauftragten Fotografen oder lizenzierte Bilder einer Bildagentur und halten Sie die Nutzungsbedingungen fest."
+    },
+    {
+      "q": "Wie viele Fotos braucht eine Firmenwebsite?",
+      "a": "Eine feste Zahl gibt es nicht. Eine kleine Website mit fünf Seiten kommt oft mit einem guten Titelbild, Porträts des Teams, einigen Arbeits- oder Produktfotos pro Leistung und einer Außenansicht aus. Wichtiger als die Menge ist die Qualität: Lieber wenige aussagekräftige Bilder als eine lange Galerie mit unscharfen oder sich wiederholenden Motiven."
+    },
+    {
+      "q": "Brauche ich die Zustimmung meiner Mitarbeiter für Fotos?",
+      "a": "Wenn Mitarbeiter erkennbar abgebildet sind, sollten Sie deren Einverständnis einholen, am besten schriftlich. Klären Sie dabei, wo die Fotos verwendet werden und was passiert, wenn jemand den Betrieb verlässt oder die Zustimmung zurückzieht. Für die genaue rechtliche Einordnung im Einzelfall sind Wirtschaftskammer, Datenschutzbehörde oder ein Anwalt die richtigen Ansprechpartner."
+    },
+    {
+      "q": "Welches Bildformat ist für Websites am besten?",
+      "a": "Für Fotos sind moderne Formate wie WebP oder AVIF meist die beste Wahl, weil sie bei guter Qualität kleine Dateien erzeugen. JPEG funktioniert weiterhin überall. Für Logos und Grafiken mit klaren Flächen eignen sich SVG oder PNG. Wichtiger als das Format ist, dass Bilder auf die tatsächlich angezeigte Größe verkleinert werden."
+    }
+  ],
+  "verwandt": [
+    "/wissen/bildrechte/",
+    "/wissen/bilder-seo/",
+    "/wissen/ki-bilder-website/",
+    "/wissen/ueber-uns-seite/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

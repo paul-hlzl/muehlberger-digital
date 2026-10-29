@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/scheibbs/",
+  "title": "KI-Chatbot für Familienbetriebe im Bezirk Scheibbs",
+  "description": "Viel Wissen steckt im Kopf von Chefin oder Senior. Wie ein KI-Chatbot Familienbetrieben im Bezirk Scheibbs hilft, dieses Wissen für Kunden greifbar zu machen.",
+  "h1": "KI-Chatbot für die Website in Scheibbs",
+  "kicker": "KI-Chatbot · Bezirk Scheibbs",
+  "lead": "In vielen Familienbetrieben im Bezirk Scheibbs steckt das Wissen über Abläufe, Preise und Besonderheiten im Kopf von ein, zwei Personen. Ein KI-Chatbot bringt Sie dazu, dieses Wissen einmal aufzuschreiben, und gibt es dann rund um die Uhr an Kunden weiter. Pipebot kostet 19 € im Monat, die ersten 30 Tage sind gratis.",
+  "fakten": [
+    "Bezirk im südlichen Mostviertel, vom Erlauftal bis zum Ötscher",
+    "Viele Familienbetriebe, in denen Wissen nur mündlich weitergegeben wird",
+    "Der Bot antwortet nur mit dem, was Sie aufgeschrieben und veröffentlicht haben",
+    "19 € pro Monat, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Familienbetriebe zwischen Erlauf und Ötscher",
+      "html": "<p>Der <a href=\"/regionen/bezirk-scheibbs/\">Bezirk Scheibbs</a> liegt im Süden des <a href=\"/regionen/mostviertel/\">Mostviertels</a>, vom Erlauftal bis hinauf zum Ötscher. Viele Betriebe hier sind Familienbetriebe, oft schon in zweiter oder dritter Generation: Holzbau, Landwirtschaft, Gasthäuser, Privatzimmer.</p><p>Diese Betriebe haben eine Stärke, die gleichzeitig ein Risiko ist: Das Wissen ist da, aber es steht nirgends. Wer etwas fragt, braucht die eine Person, die es weiß.</p>"
+    },
+    {
+      "h2": "Was nur der Chef weiß",
+      "html": "<p>Nehmen wir eine Zimmerei, in der der Senior seit Jahrzehnten die Kundengespräche führt. Er weiß genau, welche Aufträge der Betrieb annimmt, wie weit man fährt und wann im Jahr Termine knapp werden. Die Kunden fragen das immer wieder, und immer wieder muss er selbst antworten.</p><p>Ein Chatbot kann diese Fragen nur beantworten, wenn die Antworten aufgeschrieben sind. Das klingt nach Mehrarbeit, ist aber der eigentliche Gewinn: Das Wissen geht nicht verloren, auch wenn die nächste Generation übernimmt.</p>"
+    },
+    {
+      "h2": "Vom Kopf auf die Website, Schritt für Schritt",
+      "html": "<ol><li>Zwei Wochen lang jede Kundenfrage notieren, am Telefon, per Mail und im Betrieb.</li><li>Die zehn häufigsten Fragen in kurzen, klaren Sätzen beantworten.</li><li>Gemeinsam in der Familie prüfen, ob alles stimmt.</li><li>Die Antworten auf die Website stellen, etwa als eigene Seite mit Fragen und Antworten.</li><li>Pipebot greift dann auf genau diese Inhalte zurück.</li></ol><p>Hilfe beim Formulieren gibt der Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Inhalte für den Chatbot</a>. Ob eine FAQ-Seite allein schon reicht, zeigt der Vergleich <a href=\"/vergleiche/chatbot-oder-faq-seite/\">Chatbot oder FAQ-Seite</a>.</p>"
+    },
+    {
+      "h2": "Auch Privatzimmer und Bauernläden profitieren",
+      "html": "<p>Wer im Ötscherland wandert oder Ski fährt, fragt vorab nach Anreise, Frühstückszeiten oder ob man mit dem Hund kommen darf. Ein Bauernladen wird nach Öffnungszeiten und Produkten gefragt. Auch hier hilft es, die Antworten einmal aufzuschreiben.</p><p>Sobald Ihre Antworten online stehen, zeigt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>, wie der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> sie an Kunden weitergibt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist das Aufschreiben nicht viel Arbeit?",
+      "a": "Am Anfang ein wenig, danach spart es Zeit. Die meisten Betriebe kommen mit zehn bis fünfzehn Fragen gut durch, und die Antworten kennen Sie ohnehin. Es geht nur darum, sie einmal in klare Sätze zu bringen. Mühlberger Digital unterstützt Sie dabei im Gespräch. Danach beantwortet Pipebot diese Fragen rund um die Uhr, und Sie müssen sie nicht mehr jedes Mal selbst erklären."
+    },
+    {
+      "q": "Was passiert mit dem Chatbot, wenn die nächste Generation übernimmt?",
+      "a": "Er läuft einfach weiter, denn er hängt an den Inhalten Ihrer Website, nicht an einer Person. Wer den Betrieb übernimmt, findet das Wissen schon aufgeschrieben vor und kann es anpassen, wenn sich etwas ändert. Gerade bei einer Übergabe ist das ein Vorteil: Kunden bekommen weiter die gewohnten Antworten, und die Jungen müssen nicht alles neu zusammentragen."
+    },
+    {
+      "q": "Wer kontrolliert, was der Bot antwortet?",
+      "a": "Sie. Pipebot antwortet nur mit den Inhalten, die auf Ihrer Website stehen und die Sie freigegeben haben. Er greift nicht frei auf das Internet zu und erfindet keine eigenen Regeln. Bevor der Bot live geht, können Sie im Gratis-Check sehen, wie er auf typische Fragen reagiert. Ändern Sie etwas auf Ihrer Website, ist das die Grundlage für seine Antworten."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-scheibbs/",
+    "/regionen/mostviertel/",
+    "/branchen/zimmerei/",
+    "/wissen/chatbot-inhalte/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

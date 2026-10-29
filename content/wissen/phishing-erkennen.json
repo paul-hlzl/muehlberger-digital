@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/phishing-erkennen/",
+  "title": "Phishing-Mails erkennen: Merkmale und Schutz",
+  "description": "Phishing-Mails erkennen: typische Merkmale, gefälschte Rechnungen, CEO-Betrug und geänderte Bankdaten – und was Sie im Betrieb tun, wenn doch jemand geklickt hat.",
+  "h1": "Phishing-Mails erkennen",
+  "kicker": "Ratgeber · Sicherheit",
+  "lead": "Phishing-Mails erkennen Sie vor allem an drei Dingen: Sie erzeugen Druck oder Angst, sie fordern zu einem Klick, einer Anmeldung oder einer Zahlung auf, und Absender oder Link passen bei genauem Hinsehen nicht zum angeblichen Unternehmen. Im Betrieb besonders gefährlich sind gefälschte Rechnungen, angeblich geänderte Bankverbindungen von Lieferanten und Zahlungsaufträge, die scheinbar vom Chef kommen. Die wichtigste Regel: Im Zweifel über einen bekannten Weg nachfragen, nie über die Kontaktdaten in der Mail.",
+  "fakten": [
+    "Warnsignale: Zeitdruck, Drohung, ungewöhnliche Bitte, falscher Absender oder Link",
+    "Im Betrieb häufig: gefälschte Rechnungen, geänderte Bankdaten, falsche Chef-Anweisungen",
+    "Im Zweifel telefonisch über eine bekannte Nummer nachfragen, nicht über die Mail",
+    "Ein Passwort-Manager trägt Passwörter nur auf der echten Seite ein",
+    "Wer geklickt hat, soll es sofort melden dürfen, ohne Angst vor Ärger"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Woran Sie eine Phishing-Mail erkennen",
+      "html": "<p>Phishing-Mails werden immer besser gemacht. Rechtschreibfehler und holpriges Deutsch sind kein verlässliches Merkmal mehr, seit Betrüger Texte mit KI schreiben. Achten Sie deshalb auf den Inhalt und die Technik:</p><ul><li><strong>Druck und Dringlichkeit:</strong> „Ihr Konto wird in 24 Stunden gesperrt“, „Letzte Mahnung“, „Sofort erledigen“</li><li><strong>Ungewöhnliche Bitte:</strong> Passwort bestätigen, Zahlung auf ein neues Konto, Gutscheinkarten kaufen</li><li><strong>Absenderadresse:</strong> Der angezeigte Name stimmt, die Adresse dahinter nicht, oder die Domain ist leicht verändert</li><li><strong>Links:</strong> Wenn Sie mit der Maus darüberfahren, ohne zu klicken, zeigt sich eine fremde Adresse</li><li><strong>Anhänge:</strong> unerwartete Rechnungen, gezippte Dateien oder Dokumente, die „Inhalte aktivieren“ verlangen</li><li><strong>Allgemeine Anrede</strong> oder unpassender Bezug, etwa eine Paketbenachrichtigung, obwohl Sie nichts bestellt haben</li></ul>"
+    },
+    {
+      "h2": "Die gefährlichsten Maschen im Betrieb",
+      "html": "<p>Neben den klassischen Mails zu Paketen, Banken oder Streamingdiensten gibt es Maschen, die gezielt auf Betriebe abzielen:</p><ul><li><strong>Gefälschte Rechnungen:</strong> Eine Rechnung, die echt aussieht, für eine Leistung, die nie bestellt wurde, oder für eine Eintragung in ein angebliches Verzeichnis.</li><li><strong>Geänderte Bankverbindung:</strong> Ein „Lieferant“ teilt mit, dass sich das Konto geändert hat. Oft wurde vorher das echte Postfach des Lieferanten gehackt, die Mail kommt also von der richtigen Adresse.</li><li><strong>Chef-Betrug:</strong> Die Buchhaltung bekommt eine Mail „vom Geschäftsführer“, der dringend und vertraulich eine Überweisung braucht.</li><li><strong>Gefälschte Login-Seiten:</strong> Ein Link führt zu einer täuschend echten Anmeldeseite von Microsoft, Google oder der Bank.</li><li><strong>Fake-Domainverlängerung:</strong> Aufforderung, die Domain oder einen Markenschutz kostenpflichtig zu verlängern, bei einem Anbieter, den Sie nicht kennen.</li></ul><p>Ein Beispiel: Ein Tischlereibetrieb erhält von einem bekannten Holzlieferanten eine Mail mit neuer IBAN. Die Bürokraft ruft unter der bekannten Nummer an, der Lieferant weiß von nichts, sein Postfach war gehackt. Der Anruf hat eine größere Fehlüberweisung verhindert.</p>"
+    },
+    {
+      "h2": "Die drei wichtigsten Regeln für das Team",
+      "html": "<ol><li><strong>Nachfragen über einen bekannten Weg:</strong> Bei Zahlungen, geänderten Bankdaten oder ungewöhnlichen Bitten telefonisch rückfragen, mit der Nummer aus Ihren Unterlagen, nicht aus der Mail.</li><li><strong>Nie über Links anmelden:</strong> Für Bank, Cloud oder E-Mail die Adresse selbst eintippen oder ein Lesezeichen verwenden.</li><li><strong>Sofort melden:</strong> Wer unsicher ist oder schon geklickt hat, sagt es gleich. Ein früh gemeldeter Fehler ist meist harmlos, ein verschwiegener kann teuer werden.</li></ol><p>Für Zahlungen lohnt sich zusätzlich ein Vier-Augen-Prinzip: Neue Bankverbindungen werden erst nach Rückruf und Freigabe durch eine zweite Person im System geändert.</p>"
+    },
+    {
+      "h2": "Technische Hilfen gegen Phishing",
+      "html": "<p>Technik ersetzt keine Aufmerksamkeit, nimmt aber viel ab:</p><ul><li><strong>Passwort-Manager:</strong> Er trägt Zugangsdaten nur auf der echten Website ein. Wenn er auf einer Login-Seite nichts vorschlägt, ist das ein Warnsignal. Mehr unter <a href=\"/wissen/passwort-manager/\">Passwort-Manager im Betrieb</a>.</li><li><strong>Zwei-Faktor-Anmeldung:</strong> Selbst ein gestohlenes Passwort reicht dann allein nicht.</li><li><strong>Spamfilter</strong> des E-Mail-Anbieters aktiv halten und verdächtige Mails als Spam melden.</li><li><strong>Absender-Authentifizierung</strong> für die eigene Domain einrichten, damit Betrüger Ihre Adresse schwerer fälschen können.</li><li><strong>Updates</strong> auf allen Geräten, damit schädliche Anhänge weniger Schaden anrichten.</li></ul><p>Wer Mails mit eigener Domain verschickt, sollte prüfen lassen, ob diese Einstellungen korrekt gesetzt sind, siehe <a href=\"/wissen/e-mail-mit-eigener-domain/\">E-Mail-Adresse mit eigener Domain</a>.</p>"
+    },
+    {
+      "h2": "Was tun, wenn jemand geklickt hat?",
+      "html": "<p>Ruhe bewahren und schnell handeln:</p><ol><li><strong>Passwort ändern</strong>, wenn Zugangsdaten eingegeben wurden, von einem anderen, sauberen Gerät aus. Auch überall dort, wo dasselbe Passwort verwendet wurde.</li><li><strong>Bank sofort anrufen</strong>, wenn eine Zahlung ausgelöst wurde. Je früher, desto eher lässt sich eine Überweisung noch stoppen.</li><li><strong>Gerät vom Netz trennen</strong>, wenn ein Anhang geöffnet wurde, und den IT-Dienstleister informieren.</li><li><strong>Anmeldeaktivitäten prüfen:</strong> Gibt es unbekannte Geräte oder Weiterleitungsregeln im Postfach?</li><li><strong>Kunden und Partner warnen</strong>, wenn Ihr Postfach missbraucht wurde.</li><li><strong>Datenschutz prüfen:</strong> Bei Zugriff auf personenbezogene Daten kann eine Meldepflicht an die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> bestehen.</li></ol><p>Bei Betrug erstatten Sie Anzeige bei der Polizei. Aktuelle Warnungen vor bekannten Maschen veröffentlicht in Österreich etwa die Watchlist Internet.</p>"
+    },
+    {
+      "h2": "Phishing als Teil der IT-Sicherheit",
+      "html": "<p>Viele Angriffe auf kleine Betriebe beginnen mit einer einzigen E-Mail. Deshalb gehört Phishing-Schutz zu den Grundlagen, zusammen mit Updates, Backups und sicheren Passwörtern. Den Gesamtüberblick finden Sie unter <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>.</p><p>Ein guter Weg, das Thema im Team zu verankern: Besprechen Sie einmal im Quartal eine echte verdächtige Mail, die im Betrieb angekommen ist. Was hat sie verraten? Wer hat sie gemeldet? So bleibt das Thema präsent, ohne dass jemand an den Pranger gestellt wird. Wenn Sie zusätzlich KI-Werkzeuge im Büro nutzen, gelten ähnliche Regeln für den Umgang mit Daten, siehe <a href=\"/wissen/ki-und-datenschutz/\">KI im Betrieb und Datenschutz</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woran erkenne ich eine Phishing-Mail am schnellsten?",
+      "a": "Achten Sie auf Druck und Dringlichkeit, eine ungewöhnliche Bitte wie Passwort bestätigen oder auf ein neues Konto zahlen, eine Absenderadresse, die nicht zum Unternehmen passt, und Links, die beim Darüberfahren mit der Maus eine fremde Adresse zeigen. Rechtschreibfehler sind kein verlässliches Merkmal mehr. Im Zweifel fragen Sie über einen bekannten Weg nach."
+    },
+    {
+      "q": "Was mache ich, wenn ein Lieferant per Mail eine neue Bankverbindung mitteilt?",
+      "a": "Ändern Sie die Bankverbindung nicht aufgrund der Mail. Rufen Sie den Lieferanten unter der Telefonnummer an, die Sie aus früheren Unterlagen kennen, nicht unter der Nummer in der Mail. Oft wurde das Postfach des Lieferanten gehackt, sodass die Mail echt aussieht. Führen Sie für Änderungen von Bankdaten am besten ein Vier-Augen-Prinzip ein."
+    },
+    {
+      "q": "Ich habe auf einen Phishing-Link geklickt. Was jetzt?",
+      "a": "Wenn Sie nur geklickt, aber nichts eingegeben haben, schließen Sie die Seite und beobachten Sie das Gerät. Haben Sie Zugangsdaten eingegeben, ändern Sie das Passwort sofort von einem anderen Gerät und aktivieren Sie die Zwei-Faktor-Anmeldung. Bei einer Zahlung rufen Sie sofort die Bank an. Informieren Sie Ihren IT-Dienstleister und prüfen Sie mögliche Meldepflichten."
+    },
+    {
+      "q": "Wie schule ich mein Team gegen Phishing?",
+      "a": "Kurze, regelmäßige Erinnerungen wirken besser als einmalige lange Schulungen. Besprechen Sie echte verdächtige Mails aus dem Betrieb, erklären Sie die drei Grundregeln Nachfragen, nie über Links anmelden und sofort melden, und loben Sie Mitarbeiter, die etwas melden. Wichtig ist eine Kultur, in der ein Fehlklick ohne Angst vor Ärger zugegeben werden kann."
+    }
+  ],
+  "verwandt": ["/wissen/it-sicherheit/", "/wissen/passwort-manager/", "/wissen/e-mail-mit-eigener-domain/", "/wissen/cloud-speicher/", "/wissen/ki-und-datenschutz/"],
+  "checks": ["seo-check"]
+}

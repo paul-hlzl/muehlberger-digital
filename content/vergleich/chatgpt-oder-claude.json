@@ -1,0 +1,72 @@
+{
+  "pfad": "/vergleiche/chatgpt-oder-claude/",
+  "title": "ChatGPT oder Claude im Betrieb? Ein fairer Vergleich",
+  "description": "ChatGPT oder Claude für Texte, Angebote und Büroarbeit? Stärken, Datenschutz und Einsatz im Betrieb neutral verglichen – mit Tipps zum eigenen Test.",
+  "h1": "ChatGPT oder Claude im Betrieb?",
+  "kicker": "Vergleich · Künstliche Intelligenz",
+  "lead": "ChatGPT von OpenAI und Claude von Anthropic sind beide leistungsfähige KI-Assistenten, die Texte schreiben, zusammenfassen und Fragen beantworten. Für einen kleinen Betrieb entscheidet weniger die Marke als der Einsatzzweck, der Umgang mit Daten und ob die Antworten zu Ihrem Stil passen. Am zuverlässigsten finden Sie das heraus, indem Sie beide mit denselben echten Aufgaben testen.",
+  "fakten": [
+    "Beide Assistenten gibt es kostenlos und in bezahlten Varianten, auch für Teams",
+    "Beide entwickeln sich schnell weiter – Funktionsvergleiche veralten rasch",
+    "Für Kunden- und Mitarbeiterdaten: nur Firmenkonten mit geklärtem Datenschutz",
+    "Pipeline AI Solutions integriert sowohl Claude als auch OpenAI in Abläufe"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kurz gesagt: Beide können viel",
+      "html": "<p>Wer heute fragt „ChatGPT oder Claude?“, vergleicht zwei der bekanntesten KI-Assistenten. Beide beruhen auf großen Sprachmodellen (siehe <a href=\"/glossar/large-language-model/\">Glossar: Large Language Model</a>), beide verstehen Deutsch gut und beide liefern für typische Büroaufgaben brauchbare Ergebnisse.</p><p>Die Unterschiede liegen im Detail, im Funktionsumfang rund um das Modell und im Gefühl für Sprache. Weil beide Anbieter ihre Modelle laufend erneuern, ist jede Rangliste nach wenigen Monaten überholt. Sinnvoller ist es, die eigenen Anforderungen zu kennen.</p>"
+    },
+    {
+      "h2": "Wo ChatGPT seine Stärken hat",
+      "html": "<p>ChatGPT ist der bekannteste KI-Assistent und hat ein breites Funktionspaket rund um das Sprachmodell aufgebaut.</p><ul><li><strong>Vielseitigkeit:</strong> Texte, Tabellen, Auswertungen und das Erstellen von Bildern in einer Oberfläche.</li><li><strong>Großes Umfeld:</strong> Viele Anleitungen, Vorlagen und Erweiterungen von Dritten.</li><li><strong>Vertrautheit:</strong> Viele Mitarbeiterinnen und Mitarbeiter kennen es bereits privat.</li></ul><p>Typische Situation: Ein Café, das Aktionsplakate, Social-Media-Texte und ein passendes Bild für die Wochenkarte braucht, arbeitet gern mit einem Werkzeug, das all das abdeckt.</p>"
+    },
+    {
+      "h2": "Wo Claude seine Stärken hat",
+      "html": "<p>Claude wird oft für sorgfältig formulierte, längere Texte und für die Arbeit mit umfangreichen Dokumenten geschätzt.</p><ul><li><strong>Lange Unterlagen:</strong> Verträge, Ausschreibungen oder Handbücher zusammenfassen und gezielt befragen.</li><li><strong>Schreibstil:</strong> Viele Nutzer empfinden die Texte als natürlich und gut anpassbar an einen vorgegebenen Ton.</li><li><strong>Strukturierte Arbeit:</strong> Auch beim Programmieren und bei mehrstufigen Aufgaben wird Claude häufig eingesetzt.</li></ul><p>Typische Situation: Ein Baumeister, der eine dreißigseitige Ausschreibung auf Fallstricke prüfen und daraus eine Rückfragenliste machen will. Hier zählt der sorgfältige Umgang mit langen Texten.</p>"
+    },
+    {
+      "h2": "Datenschutz und Firmenkonto",
+      "html": "<p>Wichtiger als die Wahl des Assistenten ist, welche Daten Sie eingeben. Gesundheitsdaten, Kundendaten oder Personalakten gehören nicht in ein privates Gratis-Konto. Beide Anbieter haben Varianten für Unternehmen; prüfen Sie dort in den Einstellungen und Vertragsbedingungen, ob Eingaben zum Training verwendet werden und wo Daten verarbeitet werden.</p><p>Legen Sie im Team schriftlich fest, was erlaubt ist. Orientierung gibt der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>; im Einzelfall hilft die <a href=\"https://www.dsb.gv.at/\">österreichische Datenschutzbehörde</a> oder Ihre Rechtsberatung weiter. Und denken Sie daran: Beide können sich irren und Fakten erfinden – siehe <a href=\"/wissen/ki-grenzen/\">Grenzen von KI</a>.</p>"
+    },
+    {
+      "h2": "ChatGPT und Claude im Überblick",
+      "html": "<p>Die Tabelle beschreibt allgemeine Tendenzen, keine festen Funktionslisten. Prüfen Sie den aktuellen Stand direkt bei den Anbietern.</p><table><thead><tr><th>Kriterium</th><th>ChatGPT</th><th>Claude</th></tr></thead><tbody><tr><td>Anbieter</td><td>OpenAI</td><td>Anthropic</td></tr><tr><td>Häufige Stärken</td><td>breiter Funktionsumfang, Bilder, großes Umfeld</td><td>lange Dokumente, sorgfältige Texte</td></tr><tr><td>Deutsch</td><td>gut</td><td>gut</td></tr><tr><td>Kostenlose Nutzung</td><td>ja, mit Einschränkungen</td><td>ja, mit Einschränkungen</td></tr><tr><td>Varianten für Teams und Firmen</td><td>vorhanden</td><td>vorhanden</td></tr><tr><td>Anbindung an eigene Software</td><td>über Programmierschnittstelle (API)</td><td>über Programmierschnittstelle (API)</td></tr><tr><td>Fehler und erfundene Fakten</td><td>möglich, Ergebnisse prüfen</td><td>möglich, Ergebnisse prüfen</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Testen statt glauben: so vergleichen Sie selbst",
+      "html": "<p>Nehmen Sie sich eine Stunde Zeit und geben Sie beiden Assistenten dieselben drei Aufgaben aus Ihrem Alltag:</p><ol><li>Ein Angebotstext für eine typische Leistung, mit Ihren Stichworten.</li><li>Die Zusammenfassung eines längeren Dokuments ohne personenbezogene Daten.</li><li>Eine höfliche Antwort auf eine schwierige Kundenmail, die Sie anonymisiert haben.</li></ol><p>Bewerten Sie: Welcher Text braucht weniger Nacharbeit? Welcher klingt nach Ihnen? Weitere Ideen finden Sie im Ratgeber <a href=\"/wissen/chatgpt-im-betrieb/\">ChatGPT im Betrieb</a>.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Sie wollen ein Werkzeug für vieles, inklusive Bildern:</strong> ChatGPT ist ein guter Startpunkt.</li><li><strong>Sie arbeiten viel mit langen Texten und Unterlagen:</strong> Probieren Sie Claude ausführlich aus.</li><li><strong>KI soll fest in Abläufe eingebaut werden</strong>, etwa für Anfragen oder Angebote: Dann zählt die Integration mehr als die Oberfläche. Pipeline AI Solutions bindet je nach Aufgabe Claude oder OpenAI an – mehr unter <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ChatGPT oder Claude besser für deutsche Texte?",
+      "a": "Beide schreiben gutes Deutsch, auch mit österreichischen Ausdrücken, wenn Sie das ausdrücklich verlangen. Welcher Stil besser passt, ist oft Geschmackssache und hängt vom Modell und der Aufgabe ab. Am besten geben Sie beiden denselben Auftrag mit Ihren Stichworten und einem Beispieltext in Ihrem Ton. Der Text, der weniger Nacharbeit braucht, ist für Ihren Betrieb der bessere."
+    },
+    {
+      "q": "Darf ich Kundendaten in ChatGPT oder Claude eingeben?",
+      "a": "Personenbezogene Kundendaten sollten Sie nur eingeben, wenn ein Firmenkonto mit geklärter Datenverarbeitung vorliegt und Ihre Datenschutzregeln das erlauben. In privaten Gratis-Konten haben solche Daten nichts verloren. Anonymisieren Sie Namen und Adressen, wann immer es geht. Das ist eine allgemeine Orientierung – im Einzelfall fragen Sie die Datenschutzbehörde, die WKO oder Ihre Rechtsberatung."
+    },
+    {
+      "q": "Brauche ich ein bezahltes Abo?",
+      "a": "Für erste Versuche reicht die kostenlose Variante beider Assistenten. Wenn Sie KI täglich nutzen, im Team arbeiten oder Daten des Betriebs verarbeiten, ist ein bezahltes Firmenkonto meist sinnvoll, weil dort Einstellungen zum Datenschutz und zur Verwaltung zur Verfügung stehen. Prüfen Sie Preise und Leistungsumfang direkt beim Anbieter, da sie sich regelmäßig ändern."
+    },
+    {
+      "q": "Kann ich ChatGPT oder Claude mit meiner Website oder meinem CRM verbinden?",
+      "a": "Ja, beide Anbieter haben Programmierschnittstellen, über die sich KI in eigene Abläufe einbauen lässt. So kann etwa eine Anfrage aus dem Kontaktformular automatisch zusammengefasst und ins CRM übertragen werden. Für eine solche Integration braucht es einen Dienstleister. Pipeline AI Solutions setzt das mit Claude oder OpenAI um; den Preis erfahren Sie nach dem Erstgespräch."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatgpt-im-betrieb/",
+    "/wissen/ki-fuer-kleine-unternehmen/",
+    "/wissen/ki-und-datenschutz/",
+    "/leistungen/ki-automatisierung/",
+    "/glossar/halluzination/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

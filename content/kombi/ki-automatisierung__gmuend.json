@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/gmuend/",
+  "title": "KI-Automatisierung in Gmünd: Rechnungen & Grenzkunden",
+  "description": "Prozessautomatisierung mit KI in Gmünd: Zahlungserinnerungen vorbereiten, offene Rechnungen im Blick, tschechische Anfragen verstehen. Aus dem Waldviertel.",
+  "h1": "KI & Prozessautomatisierung in Gmünd",
+  "kicker": "KI-Automatisierung · Gmünd",
+  "lead": "In Gmünd an der Grenze zu Tschechien führen oft kleine Teams Betriebe mit großem Einzugsgebiet. KI-Automatisierung hilft hier, offene Rechnungen im Blick zu behalten, freundliche Zahlungserinnerungen vorzubereiten und Anfragen aus dem Nachbarland zu verstehen und zu beantworten.",
+  "fakten": [
+    "Schwerpunkt: offene Rechnungen und Zahlungserinnerungen",
+    "Anfragen auf Tschechisch werden übersetzt und vorbeantwortet",
+    "Sie entscheiden, welche Erinnerung wirklich hinausgeht",
+    "Beratung persönlich aus dem Waldviertel, Sitz in Ottenschlag"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kleine Teams, großer Einzugsbereich",
+      "html": "<p>Gmünd liegt im nordwestlichen Waldviertel direkt an der Grenze zu Tschechien. Viele Betriebe im <a href=\"/regionen/bezirk-gmuend/\">Bezirk Gmünd</a> sind Familien- und Handwerksbetriebe, in denen der Chef auch Buchhalter, Disponent und Kundendienst ist. Fachkräfte sind gesucht, also muss die vorhandene Zeit in die eigentliche Arbeit fließen.</p><p>Prozessautomatisierung mit KI bedeutet hier nicht, eine große Software einzuführen. Es geht um einzelne, wiederkehrende Handgriffe, die jede Woche Zeit kosten und sich gut beschreiben lassen. Zwei davon kommen in Grenznähe besonders oft vor: das Nachverfolgen offener Rechnungen und Anfragen in einer zweiten Sprache.</p>"
+    },
+    {
+      "h2": "Offene Rechnungen im Blick, ohne Listen zu führen",
+      "html": "<p>Ein Bereich, der oft liegen bleibt, sind offene Posten. Niemand mahnt gern, und im Alltag geht es unter. Eine Automatisierung kann:</p><ul><li>täglich prüfen, welche Rechnungen fällig sind,</li><li>für jede eine freundliche, persönliche Erinnerung entwerfen, die den Kunden mit Namen anspricht,</li><li>Stammkunden anders behandeln als Erstkunden, nach Regeln, die Sie festlegen,</li><li>Ihnen eine kurze Übersicht schicken, bevor etwas hinausgeht.</li></ul><p>Mehr zu digitalen Belegen und Ablage lesen Sie unter <a href=\"/wissen/papierloses-buero/\">Papierloses Büro</a>.</p>"
+    },
+    {
+      "h2": "Anfragen aus Tschechien beantworten",
+      "html": "<p>Wer nahe der Grenze arbeitet, bekommt immer wieder Anfragen auf Tschechisch oder in gemischter Sprache. Die KI übersetzt sie, fasst das Anliegen auf Deutsch zusammen und bereitet eine Antwort in der Sprache des Kunden vor. Bei Preisen, Terminen und Zusagen lesen Sie selbst gegen. Für Fragen rund um die Uhr auf der Website gibt es zusätzlich Chatbots wie <a href=\"https://pipebot.at/\">Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Was eine Automatisierung nicht ersetzen soll",
+      "html": "<p>Das persönliche Telefonat mit einem langjährigen Kunden, der gerade knapp bei Kasse ist, ersetzt keine Software. Die Automatisierung soll Ihnen nur das Suchen und Vorformulieren abnehmen. Wie eine solche Lösung im Detail aufgebaut wird, beschreibt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>. Für das kostenlose Erstgespräch kommt Mühlberger Digital aus Ottenschlag gerne auch persönlich vorbei.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wirkt eine automatische Zahlungserinnerung nicht unhöflich?",
+      "a": "Nicht, wenn sie gut gemacht ist. Die KI formuliert jede Erinnerung individuell, spricht den Kunden mit Namen an und nennt Rechnungsnummer und Betrag. Ton und Stufen legen Sie fest, etwa zuerst ein freundlicher Hinweis, später eine klarere Nachricht. Zusätzlich können Sie jede Erinnerung vor dem Versand freigeben, wenn Sie das möchten."
+    },
+    {
+      "q": "Versteht die KI tschechische Anfragen zuverlässig?",
+      "a": "Für normale Kundenanfragen funktioniert das in der Regel gut, auch wenn Sätze nicht perfekt geschrieben sind. Bei Fachbegriffen und Dialektausdrücken kann es Unschärfen geben. Deshalb fasst die KI das Anliegen immer auf Deutsch zusammen, damit Sie sehen, ob sie es richtig verstanden hat, bevor eine Antwort hinausgeht."
+    },
+    {
+      "q": "Mit welchem Rechnungsprogramm funktioniert das?",
+      "a": "Das lässt sich nicht pauschal beantworten. Viele Rechnungsprogramme bieten eine Schnittstelle oder zumindest einen Export der offenen Posten, damit kann eine Automatisierung arbeiten. Wenn Sie Rechnungen in Word oder Excel schreiben, geht es ebenfalls, nur etwas anders. Im Erstgespräch schauen wir gemeinsam auf Ihr Programm."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-gmuend/",
+    "/regionen/waldviertel/",
+    "/wissen/papierloses-buero/",
+    "/produkte/pipebot/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/mostviertel/",
+  "title": "Digitalagentur Mostviertel: Hof, Handwerk, Industrie",
+  "description": "Website, Direktvermarktung online und B2B-Neukunden für Betriebe im Mostviertel – von der Moststraße bis zur Westachse, persönlich beraten.",
+  "h1": "Digitalagentur für das Mostviertel – zwischen Birnbaum und Werkhalle",
+  "kicker": "Region · Viertel",
+  "lead": "Im Mostviertel berät Mühlberger Digital Direktvermarkter, Handwerksbetriebe und Zulieferer zu Website, Online-Verkauf regionaler Produkte und Neukundengewinnung. Beratung gibt es persönlich nach Absprache oder per Video-Call, das Erstgespräch ist kostenlos.",
+  "fakten": [
+    "Südwestliches Niederösterreich, bekannt für Most, Birnbäume und den Ötscher",
+    "Mischung aus Landwirtschaft, Handwerk und Industrie entlang der Westachse",
+    "SightUp findet passende Firmenkunden, 3 Suchen pro Monat gratis",
+    "Starter-Website ab 2.500 € einmalig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Viertel mit zwei Gesichtern",
+      "html": "<p>Das Mostviertel liegt im Südwesten Niederösterreichs, zwischen der Donau und den Voralpen mit dem Ötscher. Bekannt ist es für seine Birnbäume, den Most und die Mostheurigen. Gleichzeitig gibt es entlang der Westbahn und der Westautobahn viele Industrie- und Gewerbebetriebe, von kleinen Zulieferern bis zu großen Werken. Dazu kommt die Landeshauptstadt <a href=\"/regionen/st-poelten/\">St. Pölten</a> und die Statutarstadt <a href=\"/regionen/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a>.</p><p>Diese Mischung zeigt sich auch bei den Anfragen: Ein Mostbauer will regionale Produkte verkaufen, ein Zulieferbetrieb neue Firmenkunden finden.</p>"
+    },
+    {
+      "h2": "Regionale Produkte online verkaufen",
+      "html": "<p>Viele Direktvermarkter im Mostviertel verkaufen Most, Säfte, Edelbrände oder Fleisch ab Hof. Die Kundschaft kommt aus der Umgebung, zunehmend aber auch aus St. Pölten, Linz oder Wien. Eine Website mit Sortiment, Öffnungszeiten und einer einfachen Bestellmöglichkeit macht den Weg zum Hof leichter.</p><p>Ein typischer Fall: Ein Hofladen hat am Freitag und Samstag offen, der Rest läuft über Telefon. Ein Bestellformular für Vorbestellungen spart viele Anrufe. Mehr dazu im Ratgeber <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online verkaufen</a> und auf der Seite für <a href=\"/branchen/hofladen/\">Hofläden</a>.</p>"
+    },
+    {
+      "h2": "Zulieferer und Gewerbe: neue Firmenkunden finden",
+      "html": "<p>Für Betriebe, die an andere Unternehmen verkaufen, ist die eigene Website oft eine Visitenkarte, kein Vertriebsweg. Neue Aufträge kommen über Empfehlungen. SightUp hilft, gezielt passende Firmen in der Nähe zu finden, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Wie das in der Praxis aussieht, zeigt die Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung im B2B</a>.</p><p>Dazu gehört auch eine Website, die Einkäufer überzeugt: klare Angaben zu Fertigungsmöglichkeiten, Materialien und Ansprechpersonen statt allgemeiner Werbesätze. Wer Fachkräfte sucht, ergänzt eine Karriereseite, denn auch Bewerberinnen und Bewerber schauen sich den Betrieb zuerst online an.</p>"
+    },
+    {
+      "h2": "Die Bezirke im Mostviertel",
+      "html": "<ul><li><a href=\"/regionen/bezirk-amstetten/\">Bezirk Amstetten</a> an der Grenze zu Oberösterreich</li><li><a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a> an der Donau</li><li><a href=\"/regionen/bezirk-scheibbs/\">Bezirk Scheibbs</a> mit dem Ötscherland</li><li><a href=\"/regionen/bezirk-lilienfeld/\">Bezirk Lilienfeld</a> im Traisental</li><li><a href=\"/regionen/bezirk-st-poelten-land/\">Bezirk St. Pölten-Land</a> rund um die Landeshauptstadt</li><li><a href=\"/regionen/bezirk-tulln/\">Bezirk Tulln</a> an der Donau</li></ul>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital im Mostviertel",
+      "html": "<p>Vom Sitz in Ottenschlag sind die nördlichen Teile des Mostviertels rund um Melk gut erreichbar, persönliche Termine sind nach Absprache möglich. Für Betriebe weiter im Süden ist oft ein Video-Call am Abend praktischer. Die Umsetzung übernimmt Pipeline AI Solutions, mit klarem Preis und schriftlichem Angebot.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich ein Onlineshop für einen Mostbauern?",
+      "a": "Nicht immer. Wenn der Großteil ab Hof verkauft wird, reicht oft eine Website mit Sortiment, Preisen, Öffnungszeiten und einem Formular für Vorbestellungen. Ein Onlineshop mit Versand lohnt sich, wenn regelmäßig an Kundschaft außerhalb der Region geliefert wird. Dann kommen Zahlungsarten, Verpackung und rechtliche Pflichten dazu. Das lässt sich im kostenlosen Erstgespräch ehrlich abschätzen."
+    },
+    {
+      "q": "Was bringt SightUp einem Zulieferbetrieb im Mostviertel?",
+      "a": "SightUp findet Firmen in Ihrer Umgebung, die zu Ihrem Angebot passen, bewertet sie von 0 bis 100 und schreibt einen Vorschlag für die erste Nachricht. Sie entscheiden selbst, wen Sie kontaktieren. Das spart die Recherche in Branchenverzeichnissen. Das Gratis-Paket umfasst drei Suchen pro Monat, danach gibt es Pakete ab 19 € pro Monat."
+    },
+    {
+      "q": "Gibt es persönliche Termine im Mostviertel?",
+      "a": "Ja, nach Absprache. Vom Sitz in Ottenschlag aus sind vor allem die Gegenden rund um Melk und die Donau gut erreichbar. Für Betriebe im Süden oder Westen des Mostviertels wird gemeinsam entschieden, ob ein Termin vor Ort oder ein Video-Call sinnvoller ist. Die Lösungen werden in beiden Fällen live mit Ihren eigenen Daten gezeigt."
+    }
+  ],
+  "verwandt": [
+    "/regionen/niederoesterreich/",
+    "/leistungen/website-erstellen/mostviertel/",
+    "/produkte/sightup/",
+    "/branchen/landwirtschaft/",
+    "/gratis-check/neukunden-finden/"
+  ],
+  "checks": [
+    "neukunden-finden",
+    "website-entwurf"
+  ]
+}

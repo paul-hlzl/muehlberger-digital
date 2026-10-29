@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/unternehmensberater/",
+  "title": "Unternehmensberatung: online sichtbar, Workshops ohne Tippen",
+  "description": "Für Unternehmensberatungen: Erfahrung zeigen ohne Kundennamen, LinkedIn regelmäßig bespielen, passende Firmen gezielt finden und Workshops schneller nachbereiten.",
+  "h1": "Digitale Lösungen für Unternehmensberatungen",
+  "kicker": "Branche · Unternehmensberatung",
+  "lead": "Unternehmensberatungen verkaufen Vertrauen und Erfahrung, dürfen aber oft keine Kundennamen nennen. Digital helfen deshalb anonymisierte Fallbeschreibungen, eine regelmäßige Präsenz auf LinkedIn, eine gezielte Suche nach passenden Unternehmen und KI-Protokolle, die Workshops und Kundentermine schneller nachbereiten.",
+  "fakten": [
+    "Anonymisierte Fallbeschreibungen statt Logos von Kunden",
+    "Pipeflow erstellt wöchentlich LinkedIn-Beiträge aus Ihrer Website, Pilotphase kostenlos",
+    "SightUp findet passende Unternehmen und schreibt die erste Nachricht vor",
+    "noteit fasst Kundentermine zusammen, Speicherung in Frankfurt, ab 0 € pro Monat"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das Kernproblem: austauschbar wirken",
+      "html": "<p>Viele Beraterwebsites klingen gleich: „Wir begleiten Unternehmen bei Veränderungsprozessen.“ Für einen Geschäftsführer, der ein konkretes Problem hat, sagt das wenig. Er sucht jemanden, der genau seine Situation kennt, etwa eine Betriebsübergabe in der Familie, eine schwierige Kalkulation im Handwerk oder den Aufbau einer zweiten Führungsebene.</p><p>Je klarer Ihre Website sagt, für welche Unternehmen und welche Fragen Sie da sind, desto eher melden sich die richtigen. Das gilt auch für KI-Suchen wie ChatGPT, die bei Fragen nach Beratern eher jene nennen, deren Schwerpunkt eindeutig beschrieben ist. Wie oft Ihr Name dort fällt, misst <a href=\"https://hittaro.com/\">Hittaro</a>.</p>"
+    },
+    {
+      "h2": "Erfahrung zeigen, ohne Kunden zu nennen",
+      "html": "<p>Vertraulichkeit ist in der Beratung selbstverständlich. Trotzdem wollen Interessenten wissen, ob Sie so etwas schon gemacht haben. Ein guter Mittelweg sind anonymisierte Fallbeschreibungen nach einem festen Muster:</p><ul><li><strong>Ausgangslage:</strong> „Ein Produktionsbetrieb mit rund zwanzig Mitarbeitern …“</li><li><strong>Vorgehen:</strong> welche Schritte Sie gemeinsam gegangen sind</li><li><strong>Ergebnis:</strong> was sich verändert hat, ohne erfundene Prozentzahlen</li></ul><p>Holen Sie trotzdem das Einverständnis des Kunden ein, wenn er erkennbar sein könnte. Diese Beschreibungen sind auch eine gute Grundlage für Beiträge auf <a href=\"/wissen/linkedin-kmu/\">LinkedIn</a>.</p>"
+    },
+    {
+      "h2": "LinkedIn regelmäßig bespielen, ohne Abende zu opfern",
+      "html": "<p>Für viele Beraterinnen ist LinkedIn der wichtigste Kanal, weil Entscheider dort lesen. Das Problem ist die Regelmäßigkeit: Nach einem vollen Workshoptag fehlt die Energie für einen guten Beitrag.</p><p><a href=\"/produkte/pipeflow/\">Pipeflow</a> macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für LinkedIn und Instagram, Sie geben nur frei. Das ersetzt nicht Ihre persönlichen Gedanken, sorgt aber für eine verlässliche Grundpräsenz. In der Pilotphase ist Pipeflow kostenlos.</p>"
+    },
+    {
+      "h2": "Passende Unternehmen gezielt finden",
+      "html": "<p>Empfehlungen sind für Beratungen der wichtigste Weg zu neuen Aufträgen, aber sie lassen sich schlecht planen. Wer aktiv auf Unternehmen zugehen will, braucht eine gute Liste und eine Nachricht, die nicht nach Massenmail klingt.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in der Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst 3 Suchen pro Monat, danach Start 19 €, Pro 50 € oder Business 150 € monatlich. Mehr zur Herangehensweise auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Workshops und Angebote schneller nachbereiten",
+      "html": "<p>Nach einem Strategieworkshop oder einem Erstgespräch mit einem neuen Kunden müssen Ergebnisse festgehalten und ein Angebot geschrieben werden. Beides kostet oft mehr Zeit als der Termin selbst.</p><p>noteit erstellt Gesprächsnotizen für Teams, Zoom, Google Meet, Webex und weitere Programme, ohne Bot im Call, mit Speicherung in Frankfurt und etwa zwei Minuten nach dem Gespräch. Informieren Sie Teilnehmende vorab. Starter kostet 0 € für 3 Stunden im Monat, Pro 14 € und Team 24 € pro Person und Monat; testen können Sie unter <a href=\"https://noteit.at/registrieren\">noteit.at/registrieren</a>. Wie KI beim Formulieren von Angeboten hilft, ohne dass sie generisch klingen, erklärt der Ratgeber <a href=\"/wissen/ki-angebote-schreiben/\">Angebote mit KI schreiben</a>.</p>"
+    },
+    {
+      "h2": "Der nächste Schritt",
+      "html": "<p>Nicht jede Beratung braucht alle Bausteine. Wer fast ausschließlich über ein gewachsenes Netzwerk arbeitet, profitiert vielleicht nur von besseren Protokollen. Wer neu startet, braucht zuerst eine klare Website, die ab 2.500 € einmalig als Starter-Website möglich ist.</p><p>Fragen zu den Pflichten Ihres Gewerbes beantwortet der zuständige Fachverband der Wirtschaftskammer. Was für Ihre Beratung sinnvoll ist, besprechen wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, gerne per Video-Call.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie zeige ich als Unternehmensberater Referenzen, wenn Kunden anonym bleiben wollen?",
+      "a": "Mit anonymisierten Fallbeschreibungen, die Ausgangslage, Vorgehen und Ergebnis schildern, ohne Namen oder erkennbare Details zu nennen. Beschreiben Sie etwa Branche und ungefähre Größe des Betriebs. Erfinden Sie keine Zahlen, sondern bleiben Sie bei dem, was tatsächlich passiert ist. Wenn ein Kunde trotz Anonymisierung erkennbar sein könnte, holen Sie vorher sein Einverständnis ein."
+    },
+    {
+      "q": "Ist LinkedIn für Unternehmensberatungen wichtiger als die Website?",
+      "a": "Beide erfüllen unterschiedliche Aufgaben. LinkedIn sorgt dafür, dass Entscheider regelmäßig von Ihnen lesen. Die Website ist der Ort, an dem sie nachsehen, wofür Sie stehen und wie man Sie erreicht, und sie wird von Google und KI-Suchen ausgewertet. Ohne klare Website verpufft viel von der Wirkung auf LinkedIn, weil der nächste Schritt fehlt."
+    },
+    {
+      "q": "Darf ich Unternehmen mit SightUp einfach anschreiben?",
+      "a": "SightUp verschickt nichts automatisch, es findet passende Firmen, bewertet sie und schlägt eine erste Nachricht vor. Ob und wie Sie Kontakt aufnehmen, entscheiden Sie selbst. Für Werbung per E-Mail, Telefon oder Post gelten in Österreich rechtliche Regeln, die Sie vorab kennen sollten. Im Zweifel fragen Sie bei der Wirtschaftskammer oder einem Anwalt nach."
+    },
+    {
+      "q": "Kann ich noteit in Workshops vor Ort verwenden?",
+      "a": "noteit ist für Online-Besprechungen in Teams, Zoom, Google Meet, Webex und ähnlichen Programmen gedacht und kommt dabei ohne Bot im Call aus. Für hybride Workshops, bei denen ein Teil online teilnimmt, kann das gut funktionieren. Für reine Präsenzworkshops ohne Videocall ist es weniger passend. Mit dem kostenlosen Starter-Paket können Sie das ausprobieren."
+    }
+  ],
+  "verwandt": ["/branchen/steuerberater/", "/leistungen/neukundengewinnung-b2b/", "/wissen/linkedin-kmu/", "/produkte/noteit/", "/wissen/b2b-kunden-finden/"],
+  "checks": ["neukunden-finden", "ki-sichtbarkeit"]
+}

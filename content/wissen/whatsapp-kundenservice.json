@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/whatsapp-kundenservice/",
+  "title": "Kundenservice über WhatsApp gut organisieren",
+  "description": "Kundenservice über WhatsApp organisieren: Zuständigkeiten, Antwortzeiten, Vorlagen, Bot-Hilfe und Dokumentation – mit Beispielen aus kleinen Betrieben.",
+  "h1": "Kundenservice über WhatsApp: So organisieren Sie ihn",
+  "kicker": "Ratgeber · WhatsApp",
+  "lead": "Guter Kundenservice über WhatsApp braucht vor allem Organisation: klare Zuständigkeit, eine zugesagte Antwortzeit, Vorlagen für häufige Fragen und eine Regel, wie Anliegen aus dem Chat in Termine, Angebote oder Aufträge übergehen. Ein Bot kann Standardfragen übernehmen. Ohne diese Grundlagen wird WhatsApp schnell zum unübersichtlichen Nebenpostfach.",
+  "fakten": [
+    "Eine verantwortliche Person oder ein klarer Wechselplan pro Tag",
+    "Antwortzeit festlegen und in der Begrüßungsnachricht nennen",
+    "Wichtige Infos aus dem Chat in Auftrag oder Kundenakte übertragen",
+    "Ein Bot hilft bei Standardfragen, Menschen bei allem anderen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wann WhatsApp als Servicekanal passt",
+      "html": "<p>WhatsApp ist stark bei kurzen Anliegen, bei Fotos und bei Kunden, die ohnehin den ganzen Tag am Handy sind. Typische Einsatzfälle:</p><ul> <li>Fotos von Schäden oder Einbausituationen vor einem Termin schicken lassen.</li><li>Termine bestätigen, verschieben oder Abholzeiten mitteilen.</li><li>Kurze Rückfragen während eines laufenden Auftrags klären.</li><li>Gästen einer Ferienwohnung Infos zur Anreise schicken.</li></ul> <p>Weniger gut passt WhatsApp für lange Angebote, Verträge, Reklamationen mit rechtlicher Tragweite oder sensible Daten. Dafür sind E-Mail oder ein persönliches Gespräch die bessere Wahl. Den Vergleich der Kanäle finden Sie unter <a href=\"/vergleiche/whatsapp-oder-e-mail/\">WhatsApp oder E-Mail</a>, die Grundlagen der Einrichtung unter <a href=\"/wissen/whatsapp-business/\">WhatsApp Business für Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Zuständigkeit und Antwortzeiten festlegen",
+      "html": "<p>Das größte Problem im WhatsApp-Service ist nicht die Technik, sondern die Frage: Wer schaut eigentlich nach? Wenn alle zuständig sind, ist es niemand. Legen Sie deshalb fest:</p><ul> <li><strong>Wer</strong> betreut den Kanal, an welchen Tagen? Eine Hauptperson plus Vertretung reicht oft.</li><li><strong>Wann</strong> wird geantwortet? Zum Beispiel werktags zwischen 8 und 17 Uhr, drei Mal täglich.</li><li><strong>Wie schnell?</strong> Eine realistische Zusage, etwa „innerhalb eines Werktags“, ist besser als ein Versprechen, das Sie nicht halten.</li></ul> <p>Schreiben Sie diese Zusage in die Begrüßungs- und Abwesenheitsnachricht. Kunden akzeptieren Wartezeiten viel eher, wenn sie wissen, womit sie rechnen können.</p>"
+    },
+    {
+      "h2": "Vorlagen, Ton und Ordnung im Postfach",
+      "html": "<p>Schnellantworten sparen Zeit und sorgen dafür, dass alle im Team gleich antworten. Bewährt haben sich Vorlagen für:</p><ul> <li>Bestätigung des Eingangs mit Antwortzeit</li><li>Bitte um Fotos, Maße oder Fahrzeugdaten</li><li>Terminbestätigung mit Adresse und Hinweisen</li><li>Verweis auf E-Mail für Angebote und Unterlagen</li></ul> <p>Beim Ton gilt: freundlich, kurz, aber nicht zu salopp. Emojis und Abkürzungen, die privat üblich sind, wirken im Geschäftlichen schnell unprofessionell. Mit Labels wie „neu“, „wartet auf Kunde“ und „erledigt“ behalten Sie den Überblick, welche Chats noch offen sind.</p>"
+    },
+    {
+      "h2": "Beispiel: Kfz-Werkstatt mit WhatsApp-Service",
+      "html": "<p>Eine Kfz-Werkstatt mit vier Mitarbeitern bekommt viele Anfragen telefonisch, während alle in der Halle stehen. Sie führt WhatsApp als zweiten Kanal ein und regelt das so:</p><ol> <li>Die Bürokraft betreut WhatsApp, in ihrem Urlaub übernimmt der Chef.</li><li>Kunden schicken Kennzeichen, Problem und ein Foto, etwa von einer Warnleuchte.</li><li>Die Werkstatt antwortet mit einem Terminvorschlag und einer groben Einschätzung, ohne verbindlichen Preis.</li><li>Am Vortag kommt eine Erinnerung, am Ende eine Nachricht, dass das Auto abholbereit ist.</li><li>Alles Wichtige landet im Auftrag, nicht nur im Chat.</li></ol> <p>Die Telefonate werden weniger, und die Mitarbeiter in der Halle werden seltener unterbrochen. Weitere Ideen für diese Branche finden Sie unter <a href=\"/branchen/kfz-werkstatt/\">Kfz-Werkstatt</a>.</p>"
+    },
+    {
+      "h2": "Automatisieren: was ein Bot übernehmen kann",
+      "html": "<p>Wenn viele Nachrichten kommen, kann ein WhatsApp-Bot einen Teil übernehmen: Öffnungszeiten, Anfahrt, häufige Fragen zu Leistungen, das Aufnehmen der nötigen Angaben für einen Termin. Komplexe oder emotionale Anliegen gibt er an Ihr Team weiter.</p><p>Technisch läuft ein Bot über die WhatsApp Business Plattform. Dabei gilt eine wichtige Regel: Auf eine Kundennachricht darf innerhalb von 24 Stunden frei geantwortet werden. Will der Betrieb danach oder von sich aus schreiben, braucht er eine vorher von Meta freigegebene Nachrichtenvorlage und die Zustimmung des Kunden.</p><p>Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> wird über Pipeline AI Solutions umgesetzt, Preis auf Anfrage. Welche Automatisierungen sonst möglich sind, zeigt die Übersicht der <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline AI Solutions</a>.</p>"
+    },
+    {
+      "h2": "Dokumentation und Datenschutz im Chat",
+      "html": "<p>Ein Chatverlauf ist keine Kundenakte. Absprachen über Termine, Preise oder Ausführungsdetails sollten Sie in Ihr Auftrags- oder Kundenprogramm übertragen, damit sie auffindbar bleiben, auch wenn das Handy kaputtgeht oder jemand anderer übernimmt. Wie das gelingt, beschreibt der Ratgeber <a href=\"/wissen/kundengespraeche-dokumentieren/\">Kundengespräche dokumentieren</a>.</p><p>Beim Datenschutz gelten dieselben Grundsätze wie bei WhatsApp allgemein: eigenes Geschäftshandy, Hinweis in der Datenschutzerklärung, keine sensiblen Daten im Chat, Werbung nur mit Zustimmung. Fotos, die Kunden schicken, zeigen manchmal mehr als nötig, etwa Personen oder Wohnungen. Speichern Sie nur, was Sie für den Auftrag brauchen, und löschen Sie den Rest. Im Zweifel fragen Sie WKO oder eine Fachperson.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie schnell muss ich auf WhatsApp antworten?",
+      "a": "Eine gesetzliche Frist gibt es nicht, aber Kunden erwarten bei WhatsApp meist eine raschere Antwort als bei E-Mail. Wichtiger als Geschwindigkeit ist eine klare Zusage, etwa „innerhalb eines Werktags“, die Sie in der Begrüßungsnachricht nennen und auch einhalten. Eine automatische Abwesenheitsnachricht außerhalb der Öffnungszeiten verhindert falsche Erwartungen."
+    },
+    {
+      "q": "Wie verhindere ich, dass Anfragen im WhatsApp-Chat untergehen?",
+      "a": "Legen Sie fest, wer den Kanal betreut, und nutzen Sie Labels wie „neu“, „offen“ und „erledigt“. Übertragen Sie Aufträge, Termine und Absprachen sofort in Ihr Auftrags- oder Kundenprogramm. Bei vielen Nachrichten hilft die WhatsApp Business Plattform mit gemeinsamem Postfach, Zuständigkeiten und optional einem Bot, der Standardfragen beantwortet."
+    },
+    {
+      "q": "Kann ein WhatsApp-Bot Termine vergeben?",
+      "a": "Ein Bot kann Terminwünsche aufnehmen, also Anliegen, Wunschzeit und Kontaktdaten, und an Ihr Team weitergeben. Verbindliche Termine direkt im Kalender sind möglich, wenn er an Ihr Terminsystem angebunden wird. Das ist Teil einer individuellen Umsetzung. Für viele Betriebe reicht die einfache Variante, bei der ein Mensch den Termin bestätigt."
+    },
+    {
+      "q": "Was ist das 24-Stunden-Fenster bei WhatsApp?",
+      "a": "Auf der WhatsApp Business Plattform darf ein Betrieb innerhalb von 24 Stunden nach der letzten Kundennachricht frei antworten. Danach oder wenn der Betrieb ein Gespräch von sich aus beginnt, sind nur vorab von Meta freigegebene Nachrichtenvorlagen erlaubt, und der Kunde muss zugestimmt haben. Für die kostenlose Business-App gilt diese Regel in dieser Form nicht."
+    },
+    {
+      "q": "Sollte ich Reklamationen über WhatsApp bearbeiten?",
+      "a": "Eine erste Rückmeldung über WhatsApp ist in Ordnung, etwa um Fotos zu bekommen oder einen Termin zu vereinbaren. Die eigentliche Bearbeitung, besonders wenn es um Gewährleistung, Kosten oder Fristen geht, sollte aber schriftlich per E-Mail oder im persönlichen Gespräch erfolgen. So bleibt alles nachvollziehbar dokumentiert und nicht in einem Chatverlauf versteckt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/whatsapp-business/",
+    "/leistungen/whatsapp-bot/",
+    "/vergleiche/whatsapp-oder-e-mail/",
+    "/branchen/kfz-werkstatt/",
+    "/wissen/kundengespraeche-dokumentieren/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

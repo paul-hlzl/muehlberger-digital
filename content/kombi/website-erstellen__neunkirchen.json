@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/neunkirchen/",
+  "title": "Website erstellen lassen in Neunkirchen: Bilder, die wirken",
+  "description": "Website erstellen lassen in Neunkirchen: für Betriebe zwischen Semmering, Rax und Schneeberg, mit Fotos, die Landschaft und Handwerk zeigen. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Neunkirchen",
+  "kicker": "Website · Bezirk Neunkirchen",
+  "lead": "Der Bezirk Neunkirchen umfasst Gewerbegemeinden im Tal ebenso wie Semmering, Rax und Schneeberg. Für Unterkünfte, Gastronomie und viele Handwerksbetriebe hier sind gute Bilder das stärkste Verkaufsargument. Mühlberger Digital vermittelt Websites ab 2.500 €, bei denen Fotos von Anfang an eingeplant werden, statt am Schluss zu fehlen.",
+  "fakten": [
+    "Bezirk mit Semmering, Rax und Schneeberg sowie Gewerbe im Tal",
+    "Gäste und Kunden entscheiden stark nach Bildern",
+    "Eigene Fotos statt Bilder aus dem Internet: Bildrechte beachten",
+    "Starter-Website ab 2.500 €, Umsetzung durch Pipeline AI Solutions"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Bilder hier besonders zählen",
+      "html": "<p>Wer eine Unterkunft am Semmering oder eine Einkehr nach einer Wanderung auf der Rax sucht, kauft eine Stimmung. Ein Foto der Terrasse mit Blick auf die Berge sagt mehr als drei Absätze Text. Dasselbe gilt im Tal: Ein Tischler, der eine fertige Küche zeigt, überzeugt eher als einer, der nur „hochwertige Möbel“ verspricht.</p><p>Leider sind Bilder oft der Teil, der bei einem Website-Projekt am längsten fehlt. Deshalb lohnt es sich, sie früh zu planen.</p>"
+    },
+    {
+      "h2": "So kommen Sie zu brauchbaren Fotos",
+      "html": "<ol><li><strong>Liste machen:</strong> Welche Räume, Arbeiten, Personen sollen gezeigt werden?</li><li><strong>Licht nutzen:</strong> Tageslicht am Vormittag oder späten Nachmittag, nicht bei grellem Mittag.</li><li><strong>Menschen zeigen:</strong> Inhaber und Team schaffen Vertrauen, Gäste nur mit deren Einverständnis.</li><li><strong>Bei Bedarf Profi holen:</strong> Für Hotels und Gastronomie zahlt sich ein Fotograf meist aus.</li></ol><p>Mehr im Ratgeber <a href=\"/wissen/website-fotos/\">Fotos für die Website</a>.</p>"
+    },
+    {
+      "h2": "Vorsicht bei fremden Bildern",
+      "html": "<p>Ein schönes Bergpanorama aus dem Internet ist schnell kopiert, aber meist nicht erlaubt. Auch Fotos, die ein Bekannter gemacht hat, brauchen dessen Zustimmung. Wer unsicher ist, findet im Ratgeber <a href=\"/wissen/bildrechte/\">Bildrechte</a> eine erste Orientierung. Im Einzelfall hilft die Wirtschaftskammer oder ein Anwalt weiter.</p>"
+    },
+    {
+      "h2": "Unterschiedliche Betriebe, gleiche Grundlage",
+      "html": "<p>Eine Pension im Gebirge braucht Zimmerfotos, Preise und Anfahrt. Ein Tischler im Tal braucht Referenzen nach Kategorien. Ein Fotograf selbst braucht eine Galerie, die schnell lädt. Allen gemeinsam ist eine klar aufgebaute Seite, die am Handy gut aussieht. Anregungen für Unterkünfte auf der Seite für <a href=\"/branchen/hotel/\">Hotels und Pensionen</a>.</p><p>Die Starter-Website beginnt bei 2.500 €. Mehr zur Leistung auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, zur Region auf <a href=\"/regionen/bezirk-neunkirchen/\">Bezirk Neunkirchen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Reichen Handyfotos für eine Website?",
+      "a": "Für viele Handwerks- und Dienstleistungsbetriebe ja, wenn sie bei gutem Licht, scharf und aufgeräumt gemacht werden. Aktuelle Smartphones liefern dafür ausreichend Qualität. Bei Hotels, Restaurants oder Wellnessangeboten, bei denen die Atmosphäre den Ausschlag gibt, lohnt sich ein professioneller Fotograf eher. Eine Mischung aus beidem ist oft der beste Kompromiss."
+    },
+    {
+      "q": "Darf ich Fotos von Gästen auf meine Website stellen?",
+      "a": "Nur mit deren ausdrücklicher Zustimmung, am besten schriftlich. Das gilt auch für Fotos von Feiern oder Veranstaltungen im eigenen Haus. Sind Personen nicht erkennbar, etwa von hinten oder in großer Entfernung, ist die Lage weniger heikel, aber Vorsicht bleibt geboten. Bei Fragen im Einzelfall wenden Sie sich an die Datenschutzbehörde oder einen Anwalt."
+    },
+    {
+      "q": "Werden große Bilder die Website nicht langsam machen?",
+      "a": "Nicht, wenn sie richtig aufbereitet werden. Bei der Umsetzung werden Bilder in passender Größe und in modernen Formaten gespeichert, die deutlich weniger Daten brauchen. So bleibt die Seite auch am Handy schnell, obwohl sie viele Fotos zeigt. Sie liefern einfach die Originalbilder, um die Aufbereitung kümmert sich Pipeline AI Solutions."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-neunkirchen/",
+    "/regionen/industrieviertel/",
+    "/wissen/website-fotos/",
+    "/wissen/bildrechte/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

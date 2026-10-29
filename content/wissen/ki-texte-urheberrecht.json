@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/ki-texte-urheberrecht/",
+  "title": "KI-Texte und KI-Bilder: Was gilt beim Urheberrecht?",
+  "description": "Urheberrecht bei KI-Texten und KI-Bildern: wem die Ergebnisse gehören, wo rechtliche Risiken liegen und welche Regeln im Alltag helfen.",
+  "h1": "KI-Texte und KI-Bilder: Fragen zum Urheberrecht",
+  "kicker": "Ratgeber · KI & Recht",
+  "lead": "Texte und Bilder, die eine KI ohne nennenswerten menschlichen Beitrag erzeugt, sind nach herrschender Auffassung in der Regel nicht urheberrechtlich geschützt, weil das österreichische Urheberrecht eine eigene geistige Schöpfung eines Menschen voraussetzt. Verwenden dürfen Sie solche Inhalte meist trotzdem, im Rahmen der Nutzungsbedingungen des Werkzeugs. Das größere Risiko liegt darin, dass ein Ergebnis fremde Werke, Marken oder echte Personen zu nahe nachbildet.",
+  "fakten": [
+    "Urheberrecht schützt menschliche Schöpfungen, reine KI-Ergebnisse meist nicht",
+    "Ihre eigene Bearbeitung und Auswahl kann dagegen geschützt sein",
+    "Maßgeblich für die Nutzung sind die Bedingungen des jeweiligen KI-Werkzeugs",
+    "Risiko: Ähnlichkeit zu fremden Werken, Marken oder realen Personen",
+    "Für Inhalte auf Ihrer Website haften Sie, egal ob Mensch oder KI sie geschrieben hat"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wem gehört ein KI-Text oder ein KI-Bild?",
+      "html": "<p>Das österreichische Urheberrechtsgesetz schützt „eigentümliche geistige Schöpfungen“. Gemeint ist ein Werk, das ein Mensch mit eigenem Gestaltungsspielraum geschaffen hat. Erzeugt eine KI auf eine kurze Eingabe hin einen Text oder ein Bild, fehlt diese menschliche Schöpfung nach herrschender Auffassung meist. Das Ergebnis ist dann in der Regel nicht urheberrechtlich geschützt.</p><p>Für Betriebe hat das zwei Seiten. Einerseits können Sie solche Inhalte verwenden, ohne einen Urheber fragen zu müssen. Andererseits können auch andere Ihren KI-Text übernehmen, ohne dass Sie sich auf das Urheberrecht stützen können. Je stärker Sie Texte selbst überarbeiten, umstellen und ergänzen, desto eher entsteht wieder ein eigenes, geschütztes Werk.</p>"
+    },
+    {
+      "h2": "Was die Nutzungsbedingungen der Werkzeuge sagen",
+      "html": "<p>Neben dem Gesetz zählen die Bedingungen des Anbieters. Viele KI-Dienste räumen Nutzern die Rechte an den Ergebnissen ein, soweit das möglich ist, und erlauben die geschäftliche Nutzung. Es gibt aber Unterschiede zwischen Anbietern und zwischen kostenlosen und bezahlten Versionen, etwa bei kommerzieller Nutzung oder Pflichtangaben.</p><p>Lesen Sie vor dem ersten geschäftlichen Einsatz die aktuellen Bedingungen des Werkzeugs und heben Sie eine Kopie oder einen Screenshot mit Datum auf. Bedingungen ändern sich, und im Streitfall zählt, was zum Zeitpunkt der Erstellung galt.</p>"
+    },
+    {
+      "h2": "Risiko Ähnlichkeit: wenn die KI zu nah am Original ist",
+      "html": "<p>KI-Modelle lernen aus großen Mengen bestehender Texte und Bilder. In seltenen Fällen kann ein Ergebnis einem bestimmten Werk sehr ähnlich sein. Das Risiko steigt, wenn Sie gezielt danach fragen:</p><ul><li>„Im Stil von“ einer bestimmten lebenden Künstlerin oder eines Fotografen</li><li>Bekannte Figuren aus Filmen, Comics oder Werbung</li><li>Logos, Verpackungen oder Produkte bekannter Marken</li><li>Liedtexte, Gedichte oder Buchpassagen</li></ul><p>Ein Stil allein ist grundsätzlich nicht geschützt, eine erkennbare Übernahme schon. Prüfen Sie wichtige Bilder, etwa für ein Logo oder eine Kampagne, mit einer umgekehrten Bildersuche. Für ein Firmenlogo ist ein KI-Bild ohnehin eine schwache Grundlage, weil Sie daran womöglich keine eigenen Rechte haben.</p>"
+    },
+    {
+      "h2": "Risiko Personen, Marken und erfundene Aussagen",
+      "html": "<p>Neben dem Urheberrecht gibt es weitere Grenzen. KI-Bilder realer Personen ohne deren Zustimmung verletzen deren Persönlichkeitsrechte, besonders in der Werbung. Fremde Marken in KI-Bildern können markenrechtliche Fragen aufwerfen.</p><p>Bei Texten ist das häufigste Problem nicht das Urheberrecht, sondern die Richtigkeit. Sprachmodelle erfinden gelegentlich Fakten, Zahlen oder Quellen, das nennt man <a href=\"/glossar/halluzination/\">Halluzination</a>. Für Inhalte auf Ihrer Website haften Sie, egal wer sie geschrieben hat. Erfundene Kundenstimmen oder Bewertungen sind zudem irreführend und wettbewerbsrechtlich unzulässig. Lesen Sie jeden KI-Text deshalb so, als hätte ihn ein neuer Mitarbeiter geschrieben.</p>"
+    },
+    {
+      "h2": "Fremde Inhalte als Eingabe: was Sie hochladen dürfen",
+      "html": "<p>Auch die Eingabe kann Probleme machen. Laden Sie den Text eines Mitbewerbers hoch und lassen ihn „umschreiben“, entsteht leicht eine Bearbeitung eines fremden Werks. Das ist rechtlich riskant und bringt Ihnen auch inhaltlich wenig, weil Ihre Seite dann nach dem Mitbewerber klingt.</p><p>Unproblematisch sind Ihre eigenen Unterlagen: alte Prospekte, Ihre Leistungsbeschreibungen, Notizen aus Kundengesprächen ohne Personenbezug. Daraus entstehen ohnehin die besseren Texte. Wie Sie dabei Ihren eigenen Ton treffen, beschreibt <a href=\"/wissen/ki-texte-eigener-stil/\">KI-Texte im eigenen Stil</a>.</p>"
+    },
+    {
+      "h2": "Kennzeichnen oder nicht?",
+      "html": "<p>Für gewöhnliche Werbetexte, Produktbeschreibungen oder Social-Media-Beiträge, die Sie mit KI entwerfen und selbst prüfen, gibt es derzeit keine allgemeine Kennzeichnungspflicht. Strengere Regeln sieht die europäische KI-Verordnung für Deepfakes vor, also täuschend echte Bilder, Videos oder Tonaufnahmen realer Personen oder Ereignisse. Mehr dazu unter <a href=\"/wissen/eu-ai-act/\">EU AI Act</a>.</p><p>Unabhängig von Pflichten ist Ehrlichkeit klug: Ein KI-Bild, das wie ein echtes Foto Ihrer Werkstatt aussieht, aber keines ist, kann Vertrauen kosten. Suchmaschinen bewerten Inhalte nach ihrer Qualität und Nützlichkeit, nicht danach, ob KI beteiligt war.</p>"
+    },
+    {
+      "h2": "Praxisregeln für Ihren Betrieb",
+      "html": "<ol><li>KI liefert Entwürfe, ein Mensch prüft und überarbeitet vor jeder Veröffentlichung.</li><li>Keine Prompts mit Namen lebender Künstler, fremden Figuren oder Marken.</li><li>Keine KI-Bilder realer Personen ohne deren Zustimmung.</li><li>Für Logo und zentrale Markenbilder auf menschliche Gestaltung setzen.</li><li>Nutzungsbedingungen des Werkzeugs mit Datum ablegen.</li><li>Fakten, Preise und Zahlen in KI-Texten immer gegenprüfen.</li></ol><p>Wie KI beim Schreiben von Website-Texten sinnvoll hilft, lesen Sie unter <a href=\"/wissen/website-texte-mit-ki/\">Website-Texte mit KI</a>. Wer Social-Media-Beiträge automatisch aus der eigenen Website erstellen lassen will, kann <a href=\"/produkte/pipeflow/\">Pipeflow</a> in der Pilotphase kostenlos testen, jeder Beitrag wird vor dem Veröffentlichen von Ihnen freigegeben. Dieser Ratgeber ist eine allgemeine Orientierung. Im Einzelfall fragen Sie die WKO oder eine Anwältin bzw. einen Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich einen KI-generierten Text urheberrechtlich schützen lassen?",
+      "a": "In Österreich gibt es keine Eintragung für Urheberrechte, der Schutz entsteht automatisch mit der Schöpfung eines Werks durch einen Menschen. Ein rein von KI erzeugter Text erfüllt diese Voraussetzung nach herrschender Auffassung meist nicht. Überarbeiten Sie den Text aber wesentlich, ergänzen eigene Gedanken und gestalten ihn selbst, kann Ihre Fassung geschützt sein. Wo genau die Grenze liegt, ist noch nicht abschließend geklärt."
+    },
+    {
+      "q": "Darf ich KI-Bilder für Werbung und Website verwenden?",
+      "a": "In der Regel ja, wenn die Nutzungsbedingungen des Werkzeugs die geschäftliche Nutzung erlauben und das Bild keine Rechte Dritter verletzt. Vermeiden Sie Bilder, die realen Personen, bekannten Figuren, Marken oder bestimmten Kunstwerken ähneln. Für zentrale Elemente wie Logo oder Teamfotos sind echte Fotos und menschliche Gestaltung die sicherere und meist auch glaubwürdigere Wahl."
+    },
+    {
+      "q": "Wer haftet, wenn ein KI-Text falsche Angaben enthält?",
+      "a": "Sie als Betreiber der Website oder Absender des Textes. Es macht rechtlich keinen Unterschied, ob ein Mensch oder eine KI den Text formuliert hat. Falsche Preise, erfundene Eigenschaften oder unrichtige Aussagen über Mitbewerber können wettbewerbsrechtliche Folgen haben und Kunden verärgern. Deshalb gilt: Jeder KI-Text wird vor der Veröffentlichung von einer fachkundigen Person gelesen und Fakten werden geprüft."
+    },
+    {
+      "q": "Muss ich angeben, dass ein Bild mit KI erstellt wurde?",
+      "a": "Eine allgemeine Pflicht gibt es für gewöhnliche Illustrationen derzeit nicht. Anders bei sogenannten Deepfakes: Wirken Bilder, Videos oder Tonaufnahmen täuschend echt und zeigen reale Personen, Orte oder Ereignisse, die es so nicht gab, sieht die europäische KI-Verordnung eine Kennzeichnung vor. Unabhängig davon empfiehlt sich Offenheit, wenn ein Bild wie ein echtes Foto aus Ihrem Betrieb wirkt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-texte-mit-ki/",
+    "/wissen/ki-bilder-website/",
+    "/wissen/bildrechte/",
+    "/wissen/eu-ai-act/",
+    "/glossar/halluzination/",
+    "/wissen/ki-texte-eigener-stil/"
+  ],
+  "checks": [
+    "social-media-test"
+  ]
+}

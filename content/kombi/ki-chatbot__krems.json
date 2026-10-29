@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/krems/",
+  "title": "KI-Chatbot für Gastgeber und Betriebe in Krems",
+  "description": "Gäste in Krems und der Wachau fragen nach Anreise, Check-in und Verkostung. Wie ein KI-Chatbot das mit Ihren Inhalten beantwortet und wo er aufhört.",
+  "h1": "KI-Chatbot für die Website in Krems",
+  "kicker": "KI-Chatbot · Krems an der Donau",
+  "lead": "Krems ist das Tor zur Wachau, und viele Betriebe in der Stadt und im Bezirk Krems-Land leben von Gästen, die vor der Reise viele Fragen haben. Ein KI-Chatbot wie Pipebot beantwortet sie rund um die Uhr, aber nur mit dem, was auf Ihrer Website steht. Nach 30 Gratis-Tagen zahlen Sie 19 € im Monat.",
+  "fakten": [
+    "Krems und Wachau: Tourismus, Wein und Kultur prägen viele Betriebe",
+    "Gäste planen vorab und schreiben oft spät am Abend",
+    "Pipebot beantwortet Fragen zu Ihrem Betrieb, nicht zur ganzen Region",
+    "19 € pro Monat, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Gäste fragen, bevor sie buchen",
+      "html": "<p>In <a href=\"/regionen/krems-an-der-donau/\">Krems an der Donau</a> beginnt die Wachau, und mit ihr kommen Gäste, die ihren Aufenthalt gut planen wollen. Eine Vermieterin mit drei Ferienwohnungen bekommt deshalb vor fast jeder Buchung Fragen:</p><ul><li>Ab wann ist der Check-in möglich, und wie funktioniert die Schlüsselübergabe?</li><li>Gibt es einen Parkplatz und einen versperrbaren Platz für Fahrräder?</li><li>Ist ein Kinderbett vorhanden, und sind Hunde erlaubt?</li></ul><p>Pipebot beantwortet diese Fragen mit Ihren Angaben, auch um 23 Uhr. Mehr dazu auf der Seite für <a href=\"/branchen/ferienwohnung/\">Ferienwohnungen</a>.</p>"
+    },
+    {
+      "h2": "Ein ehrlicher Rahmen: Ihr Betrieb, nicht die ganze Wachau",
+      "html": "<p>Gäste fragen auch nach Schiffsverbindungen, Weinfesten oder dem Wetter. Pipebot beantwortet aber nur, was auf Ihrer Website steht. Das ist gewollt, denn ein Bot, der frei aus dem Internet antwortet, kann Fahrpläne oder Termine erfinden. Dieses Risiko heißt <a href=\"/glossar/halluzination/\">Halluzination</a>.</p><p>Wenn Sie Gästen bei Ausflügen helfen wollen, verlinken Sie auf Ihrer Website die offiziellen Seiten. Dann kann der Bot genau dorthin verweisen.</p>"
+    },
+    {
+      "h2": "Weingüter mit Ab-Hof-Verkauf und Verkostung",
+      "html": "<p>Im <a href=\"/regionen/bezirk-krems-land/\">Bezirk Krems-Land</a> prägt der Weinbau viele Gemeinden. Ein Weingut, das ab Hof verkauft, wird gefragt: „Muss man sich für eine Verkostung anmelden?“, „Nehmen Sie auch Gruppen?“ oder „Wann ist der Verkaufsraum geöffnet?“</p><p>Gerade in der Lese hat niemand Zeit fürs Telefon. Ein Bot mit klaren Antworten hält die Kundschaft trotzdem bei Laune.</p>"
+    },
+    {
+      "h2": "In der Saison entlasten, im Winter mitlaufen lassen",
+      "html": "<p>Die meisten Fragen kommen in der Hauptsaison. Weil Pipebot monatlich kündbar ist, binden Sie sich nicht. Viele Gastgeber lassen ihn trotzdem durchlaufen, denn gebucht wird oft schon im Winter.</p><p>Testen Sie vor der Saison im <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>, ob der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> die Fragen Ihrer Gäste richtig beantwortet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann Pipebot Ausflugstipps für die Wachau geben?",
+      "a": "Nur die Tipps, die Sie selbst auf Ihrer Website veröffentlichen. Wenn Sie dort etwa Ihre liebsten Wanderwege, Heurigen oder Radrouten beschreiben, gibt der Bot das weiter. Zu Fahrplänen oder Veranstaltungen anderer Anbieter verweist er am besten auf die offiziellen Quellen, die Sie verlinkt haben. So bleiben die Antworten korrekt, und Sie haften nicht für Angaben, die sich kurzfristig ändern."
+    },
+    {
+      "q": "Ersetzt der Chatbot mein Buchungsportal?",
+      "a": "Nein. Pipebot beantwortet Fragen, verwaltet aber keine Belegung und nimmt keine Buchungen an. Er ist die Stelle, an der Gäste ihre Fragen loswerden, bevor sie buchen. Steht auf Ihrer Website ein Link zur Buchung, kann der Bot darauf verweisen. Für viele Vermieter ist genau diese Kombination sinnvoll: Fragen klären auf der eigenen Website, buchen dort, wo es für Sie am einfachsten ist."
+    },
+    {
+      "q": "Was kostet der Chatbot für einen Saisonbetrieb?",
+      "a": "Pipebot kostet 19 € im Monat ohne Umsatzsteuer, die ersten 30 Tage sind gratis. Er ist monatlich kündbar, Sie sind also nicht an eine Jahreslaufzeit gebunden. Ob sich ein Betrieb über den Winter lohnt, hängt davon ab, wann Ihre Gäste buchen. Wer schon im Winter viele Anfragen für den Sommer bekommt, lässt den Bot meist das ganze Jahr laufen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/krems-an-der-donau/",
+    "/regionen/bezirk-krems-land/",
+    "/branchen/ferienwohnung/",
+    "/wissen/website-fuer-tourismus/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

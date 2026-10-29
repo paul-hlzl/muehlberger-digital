@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/digitale-speisekarte/",
+  "title": "Die digitale Speisekarte: Formen, Tipps und Fehler",
+  "description": "Die digitale Speisekarte für Restaurant, Café und Heurigen: Webseite oder PDF, QR-Code am Tisch, Allergene, schnelle Updates und was Gäste wirklich wollen.",
+  "h1": "Die digitale Speisekarte",
+  "kicker": "Ratgeber · Gastronomie",
+  "lead": "Eine digitale Speisekarte ist am besten eine eigene, schnell ladende Seite auf Ihrer Website, die am Handy gut lesbar ist und sich in wenigen Minuten aktualisieren lässt. Gäste nutzen sie vor dem Besuch zur Entscheidung und am Tisch per QR-Code. Ein PDF ist besser als nichts, aber am Handy oft mühsam und für Google schwerer lesbar.",
+  "fakten": [
+    "Viele Gäste schauen vor dem Besuch online auf die Karte",
+    "HTML-Seite schlägt PDF bei Lesbarkeit und Auffindbarkeit",
+    "Preise, Allergene und Datum aktuell halten",
+    "Die Papierkarte am Tisch muss deshalb nicht verschwinden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür Gäste die Speisekarte online brauchen",
+      "html": "<p>Die digitale Speisekarte hat zwei Aufgaben. Vor dem Besuch hilft sie bei der Entscheidung: Gibt es etwas Vegetarisches? Was kostet ein Hauptgericht? Hat das Gasthaus heute Schnitzel? Am Tisch kann sie die Papierkarte ergänzen oder ersetzen, etwa per QR-Code.</p><p>Gerade die erste Aufgabe wird oft unterschätzt. Wer eine Familienfeier oder ein Geschäftsessen plant, schaut fast immer vorher auf die Karte. Fehlt sie oder ist sie veraltet, fällt die Wahl schnell auf ein anderes Lokal.</p>"
+    },
+    {
+      "h2": "Webseite, PDF oder Foto: die Formen im Vergleich",
+      "html": "<ul><li><strong>Eigene Seite auf der Website (HTML):</strong> am Handy gut lesbar, schnell, von Google und KI-Suchen erfassbar, leicht zu aktualisieren. Die beste Lösung für die meisten Betriebe.</li><li><strong>PDF:</strong> schnell erstellt, wenn die Karte ohnehin am Computer gestaltet wird. Am Handy muss man aber zoomen, und Änderungen bedeuten jedes Mal ein neues Hochladen.</li><li><strong>Foto der Papierkarte:</strong> die schwächste Variante. Schlecht lesbar, für Suchmaschinen kaum verwertbar.</li><li><strong>Bestell-App am Tisch:</strong> sinnvoll für Betriebe mit hohem Durchlauf, für ein klassisches Gasthaus meist überdimensioniert.</li></ul><p>Ein Café mit kleiner, gleichbleibender Karte kommt mit einer schlichten Seite gut aus. Ein Wirtshaus mit wechselndem Mittagsmenü braucht vor allem eine Lösung, die sich schnell ändern lässt.</p>"
+    },
+    {
+      "h2": "Was auf die digitale Speisekarte gehört",
+      "html": "<ul><li>alle Gerichte mit kurzer, appetitlicher Beschreibung</li><li>Preise, so wie sie im Lokal gelten</li><li>Allergeninformation, etwa mit den üblichen Buchstabenkürzeln und einer Legende</li><li>Kennzeichnung von vegetarischen oder veganen Gerichten</li><li>Getränkekarte, zumindest die wichtigsten Getränke</li><li>Datum oder Zeitraum, für den Tages- oder Wochenkarten gelten</li><li>Hinweis auf saisonale oder wechselnde Gerichte</li></ul><p>Bei Allergenen gilt: Gäste müssen sich informieren können. Ob die Information schriftlich auf der Karte oder auf Nachfrage erfolgt, regeln die Vorschriften. Fragen Sie im Zweifel bei der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> nach, was für Ihren Betrieb gilt.</p>"
+    },
+    {
+      "h2": "Der QR-Code am Tisch",
+      "html": "<p>QR-Codes auf dem Tisch sind praktisch, wenn die Karte oft wechselt oder wenn Gäste in mehreren Sprachen lesen sollen. Damit sie gut funktionieren:</p><ul><li>Der Code führt direkt zur Speisekarte, nicht zur Startseite.</li><li>Die Seite lädt auch bei schwachem Empfang schnell.</li><li>Schrift und Kontraste sind am Handy gut lesbar.</li><li>Es gibt keine Pflicht, vorher etwas herunterzuladen oder sich anzumelden.</li></ul><p>Bieten Sie trotzdem weiterhin eine Papierkarte an. Nicht jeder Gast will oder kann am Handy lesen, und gerade ältere Stammgäste schätzen die gewohnte Karte. Die digitale Karte ist eine Ergänzung, kein Zwang.</p>"
+    },
+    {
+      "h2": "Aktuell halten ohne Aufwand",
+      "html": "<p>Eine veraltete Karte ist schlimmer als keine. Gäste, die online ein Gericht gesehen haben, das es nicht mehr gibt, oder einen Preis, der nicht mehr stimmt, sind enttäuscht. So bleibt die Karte aktuell:</p><ul><li>Legen Sie fest, wer die Karte pflegt und wann, etwa jeden Montag.</li><li>Trennen Sie Stammkarte und Wochenkarte, damit nur ein kleiner Teil regelmäßig geändert werden muss.</li><li>Nutzen Sie eine Lösung, bei der Sie Texte selbst ändern können, ohne jemanden anrufen zu müssen.</li></ul><p>Ein Heuriger kann zum Beispiel die Jausenkarte fix halten und nur das Weinangebot je nach Saison anpassen. Branchentipps finden Sie auf der Seite für <a href=\"/branchen/restaurant/\">Restaurants</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden mit der Speisekarte",
+      "html": "<p>Viele Gäste suchen nicht nach einem Lokal, sondern nach einem Gericht: „Backhendl in der Nähe“, „vegetarisch essen Zwettl“, „Frühstück Sonntag Krems“. Eine Speisekarte als echte Textseite hilft, dass Google und KI-Suchen erkennen, was Sie anbieten.</p><p>Verlinken Sie die Karte außerdem in Ihrem Google-Unternehmensprofil und halten Sie dort Öffnungs- und Küchenzeiten aktuell. Mehr dazu steht im Ratgeber <a href=\"/wissen/seo-gastronomie/\">SEO für die Gastronomie</a>. Ob KI-Suchen Ihr Lokal bereits empfehlen, zeigt der <a href=\"/gratis-check/ki-sichtbarkeit/\">Check zur KI-Sichtbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Die Speisekarte als Teil eines größeren Ganzen",
+      "html": "<p>Die Speisekarte ist oft der Einstieg. Gäste, die die Karte gelesen haben, wollen als Nächstes reservieren oder haben eine Frage: Gibt es einen Kinderteller? Ist der Gastgarten offen? Kann man mit Hund kommen?</p><p>Verbinden Sie deshalb die Karte mit einer einfachen Reservierungsmöglichkeit, siehe den Ratgeber <a href=\"/wissen/online-reservierung/\">Online-Reservierung für Gastronomie</a>. Für Fragen rund um die Uhr kann ein Chatbot wie Pipebot helfen, der nur mit den Inhalten Ihrer Website antwortet. Wer seine Website grundsätzlich erneuern möchte, sieht mit dem <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a>, wie es aussehen könnte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist eine PDF-Speisekarte auf der Website ausreichend?",
+      "a": "Eine PDF-Speisekarte ist besser als gar keine, hat aber Nachteile: Am Handy muss man zoomen, sie lädt oft langsamer, und Suchmaschinen erfassen den Inhalt schlechter. Jede Änderung bedeutet zudem ein neues Hochladen. Besser ist eine eigene Textseite auf der Website, die sich leicht bearbeiten lässt und am Handy gut lesbar ist."
+    },
+    {
+      "q": "Muss ich Allergene auf der digitalen Speisekarte angeben?",
+      "a": "Gäste müssen sich über Allergene in den Speisen informieren können. Viele Betriebe kennzeichnen sie mit Buchstabenkürzeln und einer Legende direkt auf der Karte, auch online. Welche Form der Information für Ihren Betrieb vorgeschrieben ist und was mündlich ausreicht, klären Sie am besten mit der Wirtschaftskammer. Die Angaben müssen in jedem Fall stimmen."
+    },
+    {
+      "q": "Soll ich die Papierkarte durch einen QR-Code ersetzen?",
+      "a": "Ein QR-Code ist eine gute Ergänzung, sollte die Papierkarte aber meist nicht vollständig ersetzen. Nicht alle Gäste wollen am Handy lesen, und manche haben keinen Empfang oder kein Smartphone dabei. Sinnvoll ist der QR-Code vor allem bei häufig wechselnden Gerichten, bei mehrsprachigen Gästen oder als schneller Zugang zur Getränke- und Weinkarte."
+    },
+    {
+      "q": "Wie oft sollte ich die Online-Speisekarte aktualisieren?",
+      "a": "So oft, wie sich Ihre Karte im Lokal ändert. Bei Wochen- oder Mittagsmenüs bedeutet das jede Woche, bei Preisänderungen sofort. Legen Sie eine Person und einen fixen Tag dafür fest. Wenn Sie Stammkarte und wechselnde Gerichte trennen, muss nur ein kleiner Teil regelmäßig angepasst werden, was die Pflege deutlich erleichtert."
+    }
+  ],
+  "verwandt": [
+    "/wissen/online-reservierung/",
+    "/wissen/seo-gastronomie/",
+    "/wissen/ki-gastronomie/",
+    "/branchen/restaurant/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": ["ki-sichtbarkeit", "website-entwurf"]
+}

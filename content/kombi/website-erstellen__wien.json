@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/website-erstellen/wien/",
+  "title": "Website erstellen lassen in Wien: klar statt beliebig",
+  "description": "Website erstellen lassen in Wien: für kleine Betriebe im Grätzl, mit klarem Fixpreis ab 2.500 € und Zusammenarbeit per Video-Call oder Telefon.",
+  "h1": "Website erstellen lassen in Wien",
+  "kicker": "Website · Wien",
+  "lead": "In Wien gibt es für fast jede Branche viele Anbieter, und genauso viele Agenturen, die Websites bauen. Für einen kleinen Betrieb zählt deshalb weniger die Größe des Dienstleisters als klare Preise, ehrliche Beratung und ein Ergebnis, das zum eigenen Grätzl passt. Mühlberger Digital vermittelt Starter-Websites ab 2.500 € und arbeitet mit Wiener Kunden meist per Video-Call.",
+  "fakten": [
+    "Für kleine Betriebe, Selbständige und Praxen in Wien",
+    "Zusammenarbeit überwiegend per Video oder Telefon",
+    "Starter-Website ab 2.500 €, schriftliches Angebot mit Fixpreis",
+    "Kunden suchen oft nach Bezirk oder Grätzl, nicht nach „Wien“"
+  ],
+  "abschnitte": [
+    {
+      "h2": "In Wien sucht man im eigenen Grätzl",
+      "html": "<p>Wer in Wien ein Yoga-Studio, einen Schuster oder eine Physiotherapie sucht, will selten quer durch die Stadt fahren. Gesucht wird „in der Nähe“ oder mit dem Bezirk. Eine Website, die Ihren Standort, die Öffi-Anbindung und das Umfeld klar nennt, hilft Interessenten und Google gleichermaßen.</p><p>Ein Satz wie „Fünf Gehminuten von der U-Bahn, im Hof hinter dem Bäcker“ ist für Kunden wertvoller als jede allgemeine Beschreibung.</p>"
+    },
+    {
+      "h2": "Zusammenarbeit ohne Termin vor Ort",
+      "html": "<p>Mühlberger Digital sitzt im Waldviertel. Mit Wiener Betrieben wird deshalb meist per Video-Call gearbeitet, was gut funktioniert: Entwürfe werden am Bildschirm gemeinsam angesehen, Änderungen gleich besprochen.</p><ul><li>Erstgespräch per Video, etwa 30 Minuten, Montag bis Freitag 18:00–21:30 Uhr</li><li>Gemeinsame Bildschirmansicht statt langer E-Mail-Schleifen</li><li>Persönliches Treffen nach Absprache möglich</li></ul>"
+    },
+    {
+      "h2": "Woran Sie ein faires Angebot erkennen",
+      "html": "<p>Bei vielen Angeboten in der Stadt ist der Vergleich schwierig. Achten Sie darauf, ob Leistungsumfang, Anzahl der Seiten, Hosting, Pflichtseiten und spätere Änderungen klar beschrieben sind. Der Ratgeber <a href=\"/wissen/website-angebote-vergleichen/\">Website-Angebote vergleichen</a> hilft dabei, der Beitrag <a href=\"/wissen/agentur-auswaehlen/\">Agentur auswählen</a> nennt Fragen für das erste Gespräch.</p><p>Wenn Sie ein großes Projekt mit vielen Beteiligten planen, kann eine Agentur mit eigenem Team in Wien besser passen. Für kleine Betriebe mit klarem Ziel ist ein schlankes Starter-Paket oft die sinnvollere Wahl.</p>"
+    },
+    {
+      "h2": "Beispiele aus dem Wiener Alltag",
+      "html": "<p>Ein <strong>Yoga-Studio</strong> braucht Stundenplan, Probestunde und Preise. Mehr dazu auf der Seite für <a href=\"/branchen/yoga-studio/\">Yoga-Studios</a>. Ein <strong>Café</strong> zeigt Frühstückszeiten und den Schanigarten in der warmen Jahreszeit. Eine <strong>selbständige Übersetzerin</strong> braucht Sprachen, Fachgebiete und eine sichere Möglichkeit, Dokumente für ein Angebot anzufragen.</p><p>Alle drei passen in das Starter-Paket. Details auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, mehr zu Wien auf <a href=\"/regionen/wien/\">Region Wien</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum sollte ich in Wien mit einem Anbieter aus dem Waldviertel arbeiten?",
+      "a": "Weil für eine kleine Website weniger der Standort zählt als Preis, Ehrlichkeit und Erreichbarkeit. Die Zusammenarbeit läuft per Video und Telefon, Entwürfe sehen Sie gemeinsam am Bildschirm. Programmiert und betreut wird die Seite von Pipeline AI Solutions. Wenn Ihnen persönliche Treffen in Wien sehr wichtig sind, sagen Sie das im Erstgespräch, damit wir klären können, ob das passt."
+    },
+    {
+      "q": "Wie werde ich in meinem Bezirk gefunden?",
+      "a": "Indem Website und Google-Unternehmensprofil Ihren Standort klar und einheitlich nennen, Leistungen verständlich beschrieben sind und Sie echte Bewertungen von Kunden sammeln. Bezirksname und markante Orientierungspunkte gehören natürlich in den Text, nicht als Liste. In dichten Wiener Bezirken mit vielen Mitbewerbern braucht gute Sichtbarkeit Zeit und lässt sich nicht garantieren."
+    },
+    {
+      "q": "Was ist im Preis ab 2.500 € enthalten?",
+      "a": "Die Starter-Website umfasst bis zu fünf Seiten, die Darstellung für Handy, Tablet und Computer, die Optimierung für Google und KI-Suchen, ein Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Alle Preise verstehen sich ohne Umsatzsteuer. Zusätzliche Funktionen wie eine Online-Buchung oder ein Chatbot werden im schriftlichen Angebot vorab einzeln ausgewiesen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/wien/",
+    "/wissen/website-angebote-vergleichen/",
+    "/wissen/agentur-auswaehlen/",
+    "/vergleiche/agentur-oder-freelancer/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "seo-check"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/burgenland/",
+  "title": "Digitalagentur Burgenland: Wein, Tourismus, Handwerk",
+  "description": "Websites, mehrsprachige Auftritte und KI-Chatbots für Weingüter, Gastgeber und Handwerksbetriebe im Burgenland – online beraten, klar kalkuliert.",
+  "h1": "Digitalagentur für das Burgenland – Beratung für Weingüter, Gastgeber und Handwerk",
+  "kicker": "Region · Bundesland",
+  "lead": "Betriebe im Burgenland berät Mühlberger Digital vor allem online, nach Absprache auch persönlich. Im Mittelpunkt stehen Lösungen, die zu Weinbau, Tourismus und kleinen Handwerksbetrieben passen: eine klare Website, mehrsprachige Inhalte und Antworten auf Gästefragen rund um die Uhr.",
+  "fakten": [
+    "Landeshauptstadt Eisenstadt, prägend: Neusiedler See, Weinbau, Thermen",
+    "Beratung per Video-Call, persönliche Termine nach Absprache",
+    "Mehrsprachige Websites für Gäste aus dem In- und Ausland",
+    "Pipebot: 19 € pro Monat, die ersten 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was das Burgenland für die digitale Planung besonders macht",
+      "html": "<p>Das Burgenland ist das östlichste Bundesland Österreichs, mit der Landeshauptstadt <a href=\"/regionen/eisenstadt/\">Eisenstadt</a>. Weinbau, der Neusiedler See und die Thermen ziehen Gäste aus Wien, aus ganz Österreich und aus den Nachbarländern an. Gleichzeitig pendeln viele Menschen zur Arbeit nach Wien, und im Ort zählt der persönliche Ruf.</p><p>Für Betriebe bedeutet das zwei Zielgruppen: die Menschen aus der Umgebung, die Sie kennen, und Gäste, die Sie online zum ersten Mal sehen. Eine Website muss beide ansprechen.</p>"
+    },
+    {
+      "h2": "Typische Situationen im Burgenland",
+      "html": "<ul><li>Ein Weingut verkauft ab Hof und an Stammkunden in Wien. Eine Website mit Weinliste, Öffnungszeiten und Bestellformular erspart viele Telefonate. Mehr dazu auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a>.</li><li>Eine Ferienwohnung am See ist im Sommer ausgebucht und im Winter leer. Ein klarer Auftritt mit Angeboten für die Nebensaison hilft, das Jahr besser zu verteilen. Der Ratgeber zu <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieben</a> zeigt, wie das geht.</li><li>Ein Elektrobetrieb mit vier Mitarbeitern sucht Lehrlinge. Eine Karriereseite und eine kostenlose Stellenausschreibung auf zusage.at erreichen junge Leute dort, wo sie suchen.</li></ul>"
+    },
+    {
+      "h2": "Mehrsprachigkeit: wann sie sich lohnt und wann nicht",
+      "html": "<p>Im Burgenland leben seit Langem auch kroatisch- und ungarischsprachige Volksgruppen, und viele Gäste kommen aus dem Ausland. Trotzdem braucht nicht jeder Betrieb eine Website in mehreren Sprachen. Ein Installateur, der nur im Bezirk arbeitet, fährt mit einer guten deutschen Seite meist besser.</p><p>Für Unterkünfte, Weingüter mit Gästen von auswärts und Ausflugsziele kann eine englische oder weitere Sprachversion dagegen sinnvoll sein. Worauf es dabei ankommt, steht im Ratgeber zur <a href=\"/wissen/mehrsprachige-website/\">mehrsprachigen Website</a>.</p>"
+    },
+    {
+      "h2": "So arbeiten wir mit Betrieben im Burgenland",
+      "html": "<p>Weil der Sitz von Mühlberger Digital in Ottenschlag im Waldviertel liegt, laufen Gespräche mit burgenländischen Betrieben meist per Video-Call. Die Lösungen werden live mit Ihren eigenen Inhalten gezeigt, etwa ein Entwurf für Ihre neue Startseite oder ein Chatbot, der Ihre echten Gästefragen beantwortet.</p><p>Umgesetzt wird von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>. Sie bekommen vorab ein schriftliches Angebot und wissen, was es kostet.</p>"
+    },
+    {
+      "h2": "Warum lokale Sichtbarkeit im Burgenland zählt",
+      "html": "<p>Wer am Wochenende aus Wien zum See oder zu einem Heurigen fährt, plant oft am Handy und entscheidet kurzfristig. Angezeigt werden dann zuerst Betriebe mit vollständigem Google-Profil, aktuellen Öffnungszeiten und guten Fotos. Ein gepflegtes <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> kostet wenig Zeit und ist für viele burgenländische Betriebe der schnellste Hebel.</p><p>Genauso wichtig: Die Angaben auf Website, Google und Plattformen sollten überall gleich sein, damit Gäste nicht vor verschlossener Tür stehen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht ein Weingut im Burgenland einen Onlineshop?",
+      "a": "Nicht unbedingt. Viele Weingüter kommen mit einer Website aus, die Weinliste, Preise, Ab-Hof-Zeiten und ein einfaches Bestellformular zeigt. Ein richtiger Onlineshop lohnt sich, wenn regelmäßig an Kundschaft außerhalb der Region versendet wird. Dann sind auch Zahlungsarten, Versand und rechtliche Fragen zu klären. Im kostenlosen Erstgespräch lässt sich gut abschätzen, welche Variante passt."
+    },
+    {
+      "q": "Kann ein Chatbot Gästefragen auch auf Englisch beantworten?",
+      "a": "Pipebot antwortet auf Basis der Inhalte Ihrer Website. Wenn Gäste auf Englisch fragen, kann der Chatbot in der Regel auch auf Englisch antworten, inhaltlich aber nur mit dem, was auf Ihrer Website steht. Bei Unsicherheit verbindet er mit Ihrem Team. Am besten testen Sie das mit dem kostenlosen Chatbot-Check und den ersten 30 Gratistagen."
+    },
+    {
+      "q": "Gibt es persönliche Termine im Burgenland?",
+      "a": "Nach Absprache ja, die meisten Gespräche laufen aber per Video-Call oder Telefon. Das spart Ihnen und uns Fahrzeit, und die Lösungen lassen sich am Bildschirm genauso gut zeigen. Das Erstgespräch dauert etwa 30 Minuten, ist kostenlos und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt."
+    }
+  ],
+  "verwandt": [
+    "/regionen/eisenstadt/",
+    "/branchen/ferienwohnung/",
+    "/branchen/heuriger/",
+    "/regionen/bezirk-bruck-an-der-leitha/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

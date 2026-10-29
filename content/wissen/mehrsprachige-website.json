@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/mehrsprachige-website/",
+  "title": "Mehrsprachige Website: Wann lohnt sie sich wirklich?",
+  "description": "Mehrsprachige Website: wann sich eine zweite Sprache für kleine Betriebe lohnt, welche Seiten Sie übersetzen sollten und worauf es bei KI-Übersetzungen ankommt.",
+  "h1": "Mehrsprachige Website: Wann lohnt sie sich?",
+  "kicker": "Ratgeber · Website",
+  "lead": "Eine mehrsprachige Website lohnt sich, wenn ein spürbarer Teil Ihrer Kunden eine andere Sprache spricht oder Sie gezielt neue Märkte erreichen wollen, etwa im Tourismus, in Grenzregionen oder bei internationalen Firmenkunden. Für einen Betrieb, dessen Kunden fast alle aus der Umgebung kommen, ist sie meist unnötig. Oft reicht es, nur die wichtigsten Seiten zu übersetzen.",
+  "fakten": [
+    "Lohnt sich vor allem im Tourismus, in Grenzlagen und im Export",
+    "Nicht alles übersetzen: die wichtigsten Seiten genügen oft",
+    "KI-Übersetzungen sind ein guter Start, brauchen aber Kontrolle",
+    "Jede Sprache bedeutet laufenden Pflegeaufwand"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Für wen sich eine zweite Sprache lohnt",
+      "html": "<p>Die Entscheidung hängt nicht davon ab, ob eine Übersetzung „professioneller“ wirkt, sondern davon, wer Ihre Kunden sind. Typische Fälle, in denen sich eine zweite Sprache lohnt:</p><ul><li><strong>Tourismus:</strong> Hotels, Ferienwohnungen, Gasthäuser und Weingüter mit internationalen Gästen.</li><li><strong>Grenzregionen:</strong> Betriebe nahe Tschechien, der Slowakei, Ungarn, Slowenien oder Italien, die Kunden von jenseits der Grenze haben.</li><li><strong>Export und B2B:</strong> Firmen mit Kunden oder Partnern im Ausland.</li><li><strong>Vielsprachige Kundschaft:</strong> etwa Praxen oder Dienstleister in Städten, deren Kunden häufig eine andere Erstsprache haben.</li><li><strong>Mitarbeitersuche:</strong> wenn Sie gezielt Fachkräfte aus anderen Ländern ansprechen.</li></ul>"
+    },
+    {
+      "h2": "Wann sie sich nicht lohnt",
+      "html": "<p>Ehrlich gesagt brauchen viele kleine Betriebe keine mehrsprachige Website. Ein Installateur im Mostviertel, dessen Kunden aus einem Umkreis von wenigen Dutzend Kilometern kommen, gewinnt mit einer englischen Version kaum etwas. Den Aufwand steckt er besser in gute deutsche Texte, Fotos und ein gepflegtes Google-Profil.</p><p>Ein Warnsignal ist auch, wenn niemand im Betrieb Anfragen in der Fremdsprache beantworten kann. Eine englische Website, auf die dann eine deutsche Antwort folgt, enttäuscht eher. Prüfen Sie also vorher, ob Sie die Kunden in der neuen Sprache auch betreuen können.</p>"
+    },
+    {
+      "h2": "Welche Seiten Sie übersetzen sollten",
+      "html": "<p>Eine Übersetzung muss nicht vollständig sein. Oft reicht eine schlanke Version mit den Seiten, die für fremdsprachige Besucher wirklich zählen:</p><ul><li>Startseite mit dem wichtigsten Angebot</li><li>Leistungen oder Zimmer, Preise, Speisekarte</li><li>Anfahrt, Öffnungszeiten, Kontakt</li><li>Buchung, Reservierung oder Anfrageformular</li><li>häufige Fragen</li></ul><p>Ein Weingut in der Wachau etwa übersetzt Verkostung, Ab-Hof-Verkauf und Anfahrt ins Englische, lässt aber die Geschichte des Hauses zunächst nur auf Deutsch. Das ist ehrlich und spart Aufwand. Rechtstexte wie Impressum und Datenschutzerklärung sollten dennoch für alle Besucher verständlich zugänglich sein.</p>"
+    },
+    {
+      "h2": "Übersetzen mit KI: Chancen und Grenzen",
+      "html": "<p>KI-Werkzeuge übersetzen heute erstaunlich gut und machen mehrsprachige Websites auch für kleine Betriebe leistbar. Sie haben aber Schwächen:</p><ul><li>Fachbegriffe und regionale Begriffe werden manchmal falsch übertragen. „Heuriger“ oder „Jause“ brauchen eine Erklärung, keine wörtliche Übersetzung.</li><li>Der Ton kann zu förmlich oder zu locker geraten.</li><li>Preise, Daten und Einheiten müssen geprüft werden.</li></ul><p>Der beste Weg: KI für den ersten Entwurf nutzen und dann von jemandem gegenlesen lassen, der die Sprache gut spricht, idealerweise ein Muttersprachler. Mehr dazu steht im Ratgeber <a href=\"/wissen/website-texte-mit-ki/\">Website-Texte mit KI schreiben</a>.</p>"
+    },
+    {
+      "h2": "Technik und Auffindbarkeit",
+      "html": "<p>Damit Google und KI-Suchen die Sprachversionen richtig zuordnen, braucht es eine saubere technische Umsetzung:</p><ul><li>eigene Adressen pro Sprache, etwa /en/ für Englisch</li><li>technische Hinweise im Code, welche Seiten einander entsprechen</li><li>eine sichtbare Sprachauswahl, die nicht automatisch umleitet</li><li>übersetzte Seitentitel und Beschreibungen, nicht nur übersetzter Fließtext</li></ul><p>Vermeiden Sie automatische Übersetzungs-Widgets, die den Text erst im Browser übersetzen. Diese Inhalte werden von Suchmaschinen meist nicht als eigene Sprachversion erkannt. Grundlagen zur Auffindbarkeit stehen im Ratgeber <a href=\"/wissen/seo-grundlagen/\">SEO-Grundlagen</a>.</p>"
+    },
+    {
+      "h2": "Den Pflegeaufwand nicht unterschätzen",
+      "html": "<p>Jede Sprache verdoppelt einen Teil der Pflege. Ändern sich Öffnungszeiten, Preise oder die Speisekarte, muss das in allen Sprachen passieren. Veraltete fremdsprachige Seiten sind schlimmer als gar keine, weil sie Gäste mit falschen Informationen anreisen lassen.</p><p>Planen Sie deshalb vorher, wer Änderungen übernimmt. Manche Betriebe überlegen, statt vieler übersetzter Seiten einen KI-Chatbot einzusetzen, der Fragen rund um die Uhr mit den Inhalten der Website beantwortet. Ob das für Ihre fremdsprachigen Gäste ausreicht, sollten Sie mit Ihren eigenen Inhalten testen, bevor Sie sich darauf verlassen, etwa im <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    },
+    {
+      "h2": "Entscheidungshilfe in fünf Fragen",
+      "html": "<ol><li>Kommt ein spürbarer Teil Ihrer Kunden oder Anfragen aus einem anderen Sprachraum?</li><li>Können Sie Anfragen in dieser Sprache beantworten?</li><li>Welche drei bis fünf Seiten bräuchte ein solcher Kunde wirklich?</li><li>Wer pflegt die Übersetzung, wenn sich etwas ändert?</li><li>Gibt es eine einfachere Lösung, etwa eine übersetzte Speisekarte oder eine kurze Infoseite in der Fremdsprache?</li></ol><p>Wenn Sie die ersten beiden Fragen mit Ja beantworten, lohnt sich der Schritt meist. Im Rahmen eines Projekts unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> lässt sich eine zweite Sprache von Anfang an mitplanen; der Preis dafür wird nach dem Erstgespräch individuell angeboten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich eine englische Version meiner Website?",
+      "a": "Nur wenn ein spürbarer Teil Ihrer Kunden Englisch spricht oder Sie gezielt internationale Kunden ansprechen, etwa im Tourismus oder im Export. Für Betriebe mit fast ausschließlich regionaler Kundschaft bringt eine englische Version meist wenig. Prüfen Sie außerdem, ob jemand im Betrieb Anfragen auf Englisch beantworten kann, bevor Sie übersetzen."
+    },
+    {
+      "q": "Kann ich meine Website mit KI übersetzen lassen?",
+      "a": "Ja, KI-Übersetzungen sind ein guter und günstiger Ausgangspunkt. Sie sollten aber von jemandem kontrolliert werden, der die Zielsprache gut beherrscht. Typische Fehler betreffen Fachbegriffe, regionale Ausdrücke, den Ton sowie Preise, Daten und Einheiten. Automatische Übersetzungs-Widgets im Browser sind dagegen weniger geeignet, weil Suchmaschinen sie meist nicht als eigene Sprachversion erkennen."
+    },
+    {
+      "q": "Muss ich die ganze Website übersetzen?",
+      "a": "Nein. Oft reicht es, die Seiten zu übersetzen, die fremdsprachige Besucher wirklich brauchen: Startseite, Leistungen oder Zimmer, Preise, Anfahrt, Öffnungszeiten, Kontakt und Buchung. Weitere Seiten können Sie später ergänzen. Wichtig ist, dass die übersetzten Seiten aktuell gehalten werden, denn veraltete Informationen in einer zweiten Sprache schaden mehr, als sie nützen."
+    },
+    {
+      "q": "Wie hilft eine mehrsprachige Website bei Google?",
+      "a": "Eine sauber umgesetzte Sprachversion kann bei Suchen in dieser Sprache gefunden werden, etwa wenn englischsprachige Gäste nach Unterkünften suchen. Dafür braucht es eigene Adressen pro Sprache, übersetzte Seitentitel und Beschreibungen sowie technische Hinweise, welche Seiten einander entsprechen. Ohne diese Grundlagen bleibt die Übersetzung für Suchmaschinen weitgehend unsichtbar."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-fuer-tourismus/",
+    "/wissen/website-texte-mit-ki/",
+    "/wissen/seo-grundlagen/",
+    "/leistungen/website-erstellen/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

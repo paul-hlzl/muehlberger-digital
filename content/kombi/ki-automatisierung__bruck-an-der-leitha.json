@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/bruck-an-der-leitha/",
+  "title": "KI-Automatisierung in Bruck an der Leitha: mehrsprachig",
+  "description": "Prozessautomatisierung mit KI in Bruck an der Leitha: mehrsprachige Infos, Statusmeldungen und Lieferavisos für Betriebe zwischen Wien und Bratislava.",
+  "h1": "KI & Prozessautomatisierung in Bruck an der Leitha",
+  "kicker": "KI-Automatisierung · Bruck an der Leitha",
+  "lead": "Im Bezirk Bruck an der Leitha, zwischen Wien, dem Burgenland und der Slowakei, arbeiten viele Betriebe mit Kunden, Lieferanten und Mitarbeitenden aus mehreren Ländern. KI-Automatisierung kann Routinetexte in mehreren Sprachen vorbereiten und Statusmeldungen in Transport und Lager automatisch verschicken.",
+  "fakten": [
+    "Lage im Raum Wien–Bratislava, nahe dem Flughafen Wien",
+    "Typisch: mehrsprachige Infos, Lieferavisos, Statusmeldungen",
+    "Verbindliche Texte prüft immer ein Mensch",
+    "Erstgespräch kostenlos, Preis für Projekte danach schriftlich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwischen Wien und Bratislava",
+      "html": "<p>Der <a href=\"/regionen/bezirk-bruck-an-der-leitha/\">Bezirk Bruck an der Leitha</a> liegt östlich von Wien, grenzt an die Slowakei und an das Burgenland. Transport, Lager, Handel und Dienstleistungen rund um den Flughafen Wien spielen hier eine Rolle. Damit wird Sprache schnell zur Alltagsfrage: Schichtinfos, Lieferhinweise und Rückfragen gehen oft an Menschen mit unterschiedlichen Muttersprachen.</p>"
+    },
+    {
+      "h2": "Mehrsprachigkeit ohne Übersetzungsbüro für jede Kleinigkeit",
+      "html": "<p>Große Sprachmodelle übersetzen Alltagstexte inzwischen brauchbar. In einer Automatisierung heißt das: Sie schreiben eine Info einmal auf Deutsch, die KI erzeugt Fassungen etwa auf Englisch, Slowakisch oder Ungarisch, und alle bekommen sie in ihrer Sprache.</p><ul><li>Schicht- und Einsatzinfos für das Team</li><li>Standardantworten auf Kundenanfragen aus dem Nachbarland</li><li>Kurze Anleitungen, etwa für Lagerabläufe oder Sicherheitshinweise</li></ul><p>Wie Sie das auch auf der Website lösen, zeigt der Ratgeber <a href=\"/wissen/mehrsprachige-website/\">Mehrsprachige Website</a>.</p>"
+    },
+    {
+      "h2": "Transport und Lager: Status-Mails automatisch",
+      "html": "<p>Ein zweiter Schwerpunkt sind Statusmeldungen. Wird eine Lieferung verladen, verzögert sich eine Tour oder ist Ware abholbereit, kann die Automatisierung die passende Nachricht an den Kunden auslösen. Fahrerinnen und Fahrer melden per Handy, die KI formuliert daraus eine saubere Nachricht. Mehr zum Thema bietet die Branchenseite <a href=\"/branchen/transportunternehmen/\">Transportunternehmen</a>.</p>"
+    },
+    {
+      "h2": "Wo Sie besser nicht automatisieren",
+      "html": "<p>Verträge, Reklamationen mit rechtlicher Tragweite und Sicherheitsunterweisungen mit Unterschriftspflicht gehören nicht in eine ungeprüfte Übersetzung. Hier kann die KI einen Entwurf liefern, die Freigabe bleibt bei jemandem, der beide Sprachen sicher beherrscht. Das sagen wir im Gespräch auch so, selbst wenn es das Projekt kleiner macht.</p>"
+    },
+    {
+      "h2": "Der erste Schritt",
+      "html": "<p>Im kostenlosen Erstgespräch mit Mühlberger Digital schauen wir, welche Texte bei Ihnen immer wieder anfallen. Die technische Umsetzung übernimmt Pipeline AI Solutions, Beispiele zeigt die Seite <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline</a>. Grundlagen finden Sie unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie gut übersetzt eine KI Fachbegriffe aus Logistik oder Technik?",
+      "a": "Für Alltagstexte meist gut, bei Fachbegriffen schwankend. Deshalb legt man in einer Automatisierung ein kleines Glossar an: Begriffe wie Artikelbezeichnungen oder interne Abkürzungen werden fest vorgegeben, damit sie immer gleich übersetzt werden. Neue oder ungewöhnliche Begriffe sollte anfangs jemand aus dem Team gegenlesen, bis klar ist, wo die KI sicher ist."
+    },
+    {
+      "q": "Können Fahrer Statusmeldungen einfach per Handy schicken?",
+      "a": "Ja, das ist möglich. Üblich sind kurze Nachrichten, ein Foto oder eine Sprachnachricht, aus denen die KI den Status erkennt und die Kundeninformation vorbereitet. Wichtig ist, dass der Ablauf für das Team einfach bleibt. Welcher Kanal am besten passt, hängt davon ab, was Ihre Leute ohnehin nutzen, und wird im Projekt gemeinsam festgelegt."
+    },
+    {
+      "q": "Wer ist verantwortlich, wenn eine automatische Übersetzung falsch ist?",
+      "a": "Verantwortlich für Nachrichten an Kunden bleibt Ihr Betrieb, auch wenn eine KI sie formuliert hat. Darum empfehlen wir, verbindliche Texte immer von einem Menschen freigeben zu lassen und nur Routinehinweise automatisch zu verschicken. Für rechtliche Fragen im Einzelfall wenden Sie sich bitte an die Wirtschaftskammer oder einen Anwalt."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-bruck-an-der-leitha/",
+    "/branchen/transportunternehmen/",
+    "/wissen/mehrsprachige-website/",
+    "/wissen/ki-grenzen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

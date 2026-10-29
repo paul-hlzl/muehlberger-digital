@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/website-texte-mit-ki/",
+  "title": "Website-Texte mit KI schreiben: Anleitung und Grenzen",
+  "description": "Website-Texte mit KI schreiben: so nutzen kleine Betriebe ChatGPT und Claude für gute Texte, mit eigenen Fakten, eigenem Stil und sorgfältiger Kontrolle.",
+  "h1": "Website-Texte mit KI schreiben",
+  "kicker": "Ratgeber · KI & Texte",
+  "lead": "Website-Texte mit KI zu schreiben funktioniert gut, wenn Sie der KI Ihre eigenen Fakten, Beispiele und Ihren Ton mitgeben und das Ergebnis sorgfältig überarbeiten. Ohne diese Zutaten entstehen austauschbare Texte, die auf jeder Website stehen könnten und weder Kunden noch Google überzeugen. Die KI ist ein schneller Schreibpartner, kein Ersatz für Ihr Wissen.",
+  "fakten": [
+    "Gute Ergebnisse brauchen eigene Fakten und Beispiele als Grundlage",
+    "Jeden Text auf Richtigkeit und Ton prüfen, bevor er online geht",
+    "Austauschbare Floskeln streichen, konkrete Details ergänzen",
+    "Google bewertet die Qualität, nicht das Werkzeug"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür KI beim Texten wirklich hilft",
+      "html": "<p>Viele Inhaber wissen genau, was sie können, tun sich aber schwer, es aufzuschreiben. Hier sind KI-Werkzeuge wie ChatGPT oder Claude eine echte Hilfe. Sie können:</p><ul><li>aus Stichpunkten einen lesbaren Text machen</li><li>einen zu langen Text kürzen</li><li>Fachbegriffe verständlich erklären</li><li>Vorschläge für Überschriften und Gliederung liefern</li><li>häufige Kundenfragen formulieren, die Sie dann beantworten</li><li>Texte in eine andere Sprache übertragen, als Entwurf</li></ul><p>Was die KI nicht kann: wissen, was Ihren Betrieb besonders macht, welche Kunden Sie haben und wie Sie arbeiten. Das müssen Sie ihr sagen. Welches Werkzeug zu Ihnen passt, vergleicht der Beitrag <a href=\"/vergleiche/chatgpt-oder-claude/\">ChatGPT oder Claude</a>.</p>"
+    },
+    {
+      "h2": "Schritt für Schritt zum guten Text",
+      "html": "<ol><li><strong>Fakten sammeln:</strong> Schreiben Sie Stichpunkte auf, was Sie anbieten, für wen, wo, wie der Ablauf ist, was Kunden typischerweise fragen.</li><li><strong>Beispiele ergänzen:</strong> zwei, drei typische Aufträge oder Situationen aus Ihrem Alltag.</li><li><strong>Ton festlegen:</strong> Sie oder Du? Locker oder sachlich? Österreichisches Deutsch?</li><li><strong>Auftrag geben:</strong> Bitten Sie die KI um einen Text für eine bestimmte Seite, mit Zielgruppe, Länge und Aufbau.</li><li><strong>Überarbeiten:</strong> Floskeln streichen, Fakten prüfen, eigene Formulierungen einbauen.</li><li><strong>Gegenlesen lassen:</strong> von jemandem, der Ihren Betrieb kennt.</li></ol><p>Ein Beispiel für einen Auftrag: „Schreibe den Text für die Leistungsseite ‚Dachsanierung‘ eines Dachdeckerbetriebs im Bezirk Horn. Zielgruppe: Hausbesitzer. Ton: sachlich, Sie-Form, österreichisches Deutsch. Hier sind meine Stichpunkte: …“</p>"
+    },
+    {
+      "h2": "Den eigenen Stil bewahren",
+      "html": "<p>KI-Texte klingen ohne Anleitung oft ähnlich: glatt, freundlich, etwas zu begeistert. Damit Ihre Website nach Ihnen klingt:</p><ul><li>Geben Sie der KI einen Text von Ihnen als Muster, etwa eine E-Mail an Kunden.</li><li>Nennen Sie Wörter, die Sie verwenden, und solche, die Sie nicht mögen.</li><li>Streichen Sie typische Füllsätze wie „Wir legen großen Wert auf Qualität“.</li><li>Ersetzen Sie allgemeine Aussagen durch Konkretes: „Wir decken vor jeder Arbeit den Boden ab“ statt „Wir arbeiten sauber“.</li></ul><p>Wie Sie der KI Ihren Ton beibringen, beschreibt der Ratgeber <a href=\"/wissen/ki-texte-eigener-stil/\">KI-Texte im eigenen Stil</a>.</p>"
+    },
+    {
+      "h2": "Fakten prüfen: Wo KI danebenliegt",
+      "html": "<p>KI-Werkzeuge erfinden manchmal Dinge, die plausibel klingen, aber falsch sind. Man nennt das Halluzination. Auf einer Website kann das unangenehm werden. Prüfen Sie besonders:</p><ul><li>Zahlen, Preise und Fristen</li><li>rechtliche Aussagen, etwa zu Förderungen oder Pflichten</li><li>Angaben zu Ihrem Betrieb, die die KI ergänzt hat, etwa Gründungsjahr oder Zertifikate</li><li>Ortsangaben und regionale Details</li><li>Kundenstimmen oder Beispiele, die die KI erfunden hat</li></ul><p>Die Regel: Was nicht aus Ihren eigenen Stichpunkten stammt, wird geprüft oder gestrichen. Erfundene Referenzen oder Bewertungen haben auf einer Website nichts verloren. Mehr zu den Grenzen der KI steht im Ratgeber <a href=\"/wissen/ki-grenzen/\">Grenzen der KI</a>.</p>"
+    },
+    {
+      "h2": "Was Google zu KI-Texten sagt",
+      "html": "<p>Google hat erklärt, dass es Inhalte nach ihrer Qualität und ihrem Nutzen bewertet, nicht danach, wie sie erstellt wurden. KI-Texte sind also nicht grundsätzlich ein Problem. Problematisch sind massenhaft erzeugte, austauschbare Texte ohne eigenen Mehrwert, egal ob von Mensch oder Maschine.</p><p>Für Ihre Website heißt das: Ein mit KI erstellter Text, der Ihre echten Leistungen, Beispiele und Antworten enthält, ist genauso gut wie ein selbst geschriebener. Zehn fast gleiche Seiten mit getauschtem Ortsnamen dagegen schaden. Auch für KI-Suchen gilt: Konkrete, überprüfbare Aussagen werden eher zitiert. Wie gut Ihre Seite bei Google dasteht, zeigt der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a>.</p>"
+    },
+    {
+      "h2": "Rechtliche Fragen in Kürze",
+      "html": "<p>Ob und wie weit KI-generierte Texte urheberrechtlich geschützt sind, ist rechtlich nicht in allen Punkten geklärt. Je mehr Sie selbst überarbeiten und eigene Inhalte einbringen, desto eher handelt es sich um Ihren eigenen Text. Prüfen Sie außerdem, dass die KI keine fremden Texte wörtlich übernommen hat.</p><p>Geben Sie keine vertraulichen Kundendaten in ein KI-Werkzeug ein, wenn Sie nicht wissen, wie der Anbieter damit umgeht. Einen Überblick geben die Ratgeber <a href=\"/wissen/ki-texte-urheberrecht/\">KI-Texte und Urheberrecht</a> und zum EU AI Act. Diese Hinweise ersetzen keine Rechtsberatung; im Einzelfall fragen Sie WKO oder einen Anwalt.</p>"
+    },
+    {
+      "h2": "Selbst schreiben oder schreiben lassen?",
+      "html": "<p>Mit KI können viele Betriebe ihre Texte heute selbst erstellen. Das lohnt sich, wenn Sie gern formulieren, Zeit haben und Ihre Website ohnehin selbst pflegen. Schreiben lassen lohnt sich, wenn Ihnen die Zeit fehlt oder die Website ein größeres Projekt ist, bei dem Texte, Aufbau und Auffindbarkeit zusammenpassen müssen.</p><p>Bei einem Website-Projekt von Mühlberger Digital klären wir im Erstgespräch, wer welche Texte liefert. In jedem Fall gilt: Das Wissen über Ihren Betrieb kommt von Ihnen, die technische Umsetzung übernimmt Pipeline AI Solutions. Wie Ihre Startseite mit neuen Texten aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a> in wenigen Minuten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Website-Texte mit ChatGPT schreiben?",
+      "a": "Ja, das ist grundsätzlich möglich und weit verbreitet. Achten Sie aber darauf, der KI Ihre eigenen Fakten und Beispiele mitzugeben, alle Angaben zu prüfen und den Text in Ihrem Ton zu überarbeiten. Geben Sie keine vertraulichen Kundendaten ein. Ob KI-Texte urheberrechtlich geschützt sind, ist nicht in allen Punkten geklärt; im Einzelfall fragen Sie WKO oder einen Anwalt."
+    },
+    {
+      "q": "Erkennt und bestraft Google KI-Texte?",
+      "a": "Google hat erklärt, Inhalte nach Qualität und Nutzen zu bewerten, nicht nach der Art der Erstellung. Ein KI-gestützter Text mit echten, hilfreichen Informationen ist daher kein Problem. Abgewertet werden eher massenhaft erzeugte, austauschbare Inhalte ohne eigenen Mehrwert, unabhängig davon, ob sie von einem Menschen oder einer KI stammen."
+    },
+    {
+      "q": "Wie bekomme ich mit KI Texte, die nicht austauschbar klingen?",
+      "a": "Geben Sie der KI konkrete Stichpunkte zu Ihren Leistungen, typische Situationen aus Ihrem Alltag und ein Textbeispiel von Ihnen als Stilvorlage. Nennen Sie Zielgruppe, Ton und Länge. Überarbeiten Sie das Ergebnis, streichen Sie Floskeln und ersetzen Sie allgemeine Aussagen durch konkrete Details. So entsteht ein Text, der nur zu Ihrem Betrieb passt."
+    },
+    {
+      "q": "Welche Fehler machen KI-Werkzeuge bei Website-Texten?",
+      "a": "Typisch sind erfundene Details wie Zahlen, Gründungsjahre, Zertifikate oder Kundenstimmen, ungenaue rechtliche Aussagen, falsche Ortsangaben und ein glatter, austauschbarer Ton mit vielen Floskeln. Prüfen Sie deshalb alles, was nicht aus Ihren eigenen Angaben stammt, und streichen Sie es im Zweifel. Lassen Sie den fertigen Text zusätzlich von jemandem gegenlesen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-texte-schreiben/",
+    "/wissen/ki-texte-eigener-stil/",
+    "/wissen/ki-texte-urheberrecht/",
+    "/vergleiche/chatgpt-oder-claude/",
+    "/gratis-check/website-entwurf/"
+  ],
+  "checks": ["website-entwurf", "seo-check"]
+}

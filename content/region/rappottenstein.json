@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/rappottenstein/",
+  "title": "Digitalagentur Rappottenstein: Ausflugsgäste erreichen",
+  "description": "Für Wirtshäuser, Cafés und Gastgeber in Rappottenstein im Bezirk Zwettl: bei Google und KI-Suchen gefunden werden, wenn Ausflügler in der Nähe suchen.",
+  "h1": "Digitalagentur für Rappottenstein",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Rappottenstein ist vielen durch seine Burg bekannt, und wer einen Ausflug ins Waldviertel macht, sucht danach oft am Handy: Wo kann man in der Nähe essen, was hat heute offen? Mühlberger Digital hilft Gastronomie und Gastgebern im Ort, bei solchen Suchen aufzutauchen – auf Google Maps ebenso wie in KI-Suchen.",
+  "fakten": [
+    "Rappottenstein liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Gastronomie, Gastgeber und Ausflugsgäste",
+    "Hittaro: Gratis-Check zur KI-Sichtbarkeit, Bericht innerhalb von 24 Stunden",
+    "Erstgespräch kostenlos, persönlich im Betrieb"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Suche nach dem Ausflug",
+      "html": "<p>Ausflugsgäste planen selten den ganzen Tag im Voraus. Nach einer Besichtigung oder Wanderung zückt jemand das Handy und sucht „Gasthaus in der Nähe“ oder fragt einen KI-Assistenten nach einer Empfehlung. Ob Ihr Betrieb dann auftaucht, hängt stark davon ab, wie gut Ihre Angaben online gepflegt sind.</p><p>Entscheidend sind aktuelle Öffnungszeiten, auch für Ruhetage und Saisonzeiten, eine gut lesbare Speisekarte und Fotos, die zeigen, was Gäste erwartet. Wie Sie die Speisekarte online stellen, beschreibt der Ratgeber <a href=\"/wissen/digitale-speisekarte/\">Digitale Speisekarte</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden in Karte und KI",
+      "html": "<p>Google Maps zeigt bei Suchen in der Nähe meist nur wenige Betriebe auf den ersten Blick. Ein vollständiges <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> mit Fotos, Bewertungen und Antworten darauf verbessert die Chancen, dort zu stehen.</p><p>Immer mehr Menschen fragen auch ChatGPT, Gemini oder ähnliche Dienste nach Tipps. Wie oft Ihr Betrieb dort genannt wird, misst <a href=\"https://hittaro.com/\">Hittaro</a>. Der <a href=\"https://hittaro.com/check\">Gratis-Check</a> liefert innerhalb von 24 Stunden einen Bericht; eine Optimierung gibt es danach einmalig ab 199 €.</p>"
+    },
+    {
+      "h2": "Was Gastbetriebe zusätzlich entlastet",
+      "html": "<ul><li><strong>Reservierung online</strong>: Ein einfaches Formular oder Buchungstool spart Anrufe in der Stoßzeit. Mehr im Ratgeber zur <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a>.</li><li><strong>Fragen automatisch beantworten</strong>: Pipebot gibt auf der Website rund um die Uhr Auskunft zu Öffnungszeiten, Parken oder Gruppen, um 19 € im Monat.</li><li><strong>Social Media</strong>: Pipeflow macht aus der Website wöchentliche Beiträge, in der Pilotphase kostenlos.</li></ul><p>Nicht jedes Wirtshaus braucht alles davon. Wer fast nur Stammgäste hat, fängt besser mit Öffnungszeiten und Google-Eintrag an.</p>"
+    },
+    {
+      "h2": "Persönlich im Bezirk Zwettl",
+      "html": "<p>Rappottenstein liegt im Bezirk Zwettl, wie Ottenschlag, der Sitz von Mühlberger Digital. Jonas Mühlberger kommt gern zu Ihnen in den Betrieb, am besten an einem ruhigeren Abend. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, alternativ telefonisch oder per Video.</p><p>Mehr zur Region auf den Seiten zum <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum taucht mein Gasthaus bei Google Maps nicht auf?",
+      "a": "Häufige Gründe sind ein nicht bestätigter oder unvollständiger Eintrag, falsche Kategorien, fehlende Fotos oder wenige Bewertungen. Auch die Entfernung zur suchenden Person spielt eine Rolle. Prüfen Sie zuerst, ob Ihr Eintrag bestätigt ist und alle Angaben stimmen. Im Erstgespräch sehen wir uns den Eintrag gemeinsam an und klären, was zuerst verbessert werden sollte."
+    },
+    {
+      "q": "Was bringt der Hittaro-Check genau?",
+      "a": "Der Gratis-Check von Hittaro zeigt, wie oft Google und KI-Suchen wie ChatGPT oder Gemini Ihren Betrieb nennen. Sie bekommen innerhalb von 24 Stunden einen Bericht. Wenn Sie danach etwas verbessern wollen, gibt es Optimierungspakete einmalig um 199 €, 299 € oder 699 € und auf Wunsch eine laufende Wartung ab 20 € pro Monat."
+    },
+    {
+      "q": "Brauche ich als Wirtshaus eine eigene Website, wenn ich auf Google gut stehe?",
+      "a": "Ein guter Google-Eintrag ist viel wert, aber er gehört nicht Ihnen, und Sie können dort nur begrenzt erzählen. Auf der eigenen Website stehen Speisekarte, Geschichte des Hauses, Angebote für Gruppen oder Feiern und Reservierung so, wie Sie es wollen. KI-Suchen greifen außerdem gern auf gut strukturierte Websites zurück. Die Starter-Website beginnt bei 2.500 € einmalig."
+    },
+    {
+      "q": "Wie halte ich Öffnungszeiten in der Saison aktuell?",
+      "a": "Im Google-Unternehmensprofil können Sie reguläre und besondere Öffnungszeiten, etwa für Feiertage oder Betriebsurlaub, selbst eintragen. Wichtig ist, dass Website, Google und Social Media dieselben Zeiten zeigen. Sonst wissen Gäste nicht, welcher Angabe sie trauen sollen, und stehen im schlimmsten Fall vor verschlossener Tür."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/branchen/restaurant/",
+    "/wissen/google-ki-uebersichten/",
+    "/produkte/hittaro/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

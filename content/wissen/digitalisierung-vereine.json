@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/digitalisierung-vereine/",
+  "title": "Digitalisierung für Vereine: Werkzeuge & Tipps",
+  "description": "Digitalisierung für Vereine: Website, Mitgliederverwaltung, Termine, Kommunikation und Datenschutz – praktische Schritte für Ehrenamtliche in Österreich.",
+  "h1": "Digitalisierung für Vereine",
+  "kicker": "Ratgeber · Vereine",
+  "lead": "Digitalisierung für Vereine bedeutet vor allem, das Ehrenamt zu entlasten: Mitglieder, Beiträge und Termine an einem Ort verwalten, Infos zuverlässig an alle bringen und neue Mitglieder online gewinnen. Wichtig ist, dass die Lösungen auch dann weiterlaufen, wenn der Obmann oder die Schriftführerin wechselt. Deshalb gehören Zugänge dem Verein, nicht einzelnen Personen.",
+  "fakten": [
+    "Zugänge, Domain und Konten gehören dem Verein, nicht privaten Funktionären",
+    "Mitgliederverwaltung, Beiträge und Termine zentral statt in privaten Tabellen",
+    "Eine einfache Website mit Terminen und Kontakt bringt neue Mitglieder und Besucher",
+    "Mitgliederdaten sind personenbezogen, die DSGVO gilt auch für Vereine",
+    "Werkzeuge so wählen, dass auch weniger technikaffine Mitglieder mitkommen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Typische Probleme im Vereinsalltag",
+      "html": "<p>In vielen Vereinen liegt das Wissen bei wenigen Menschen. Die Mitgliederliste ist eine Tabelle auf dem Laptop des Kassiers, die Website hat der Sohn eines früheren Obmanns gebaut, und das Passwort zur Facebook-Seite kennt niemand mehr. Wechselt der Vorstand, beginnt das Suchen.</p><p>Dazu kommt die Kommunikation: Termine gehen in mehreren Chatgruppen unter, ältere Mitglieder sind dort gar nicht dabei, und für jedes Fest werden Helferlisten auf Papier geführt. Digitalisierung kann hier viel Arbeit abnehmen, wenn sie einfach bleibt und nicht neue Abhängigkeiten schafft.</p>"
+    },
+    {
+      "h2": "Grundregel: Alles gehört dem Verein",
+      "html": "<p>Bevor neue Werkzeuge kommen, lohnt sich ein Aufräumen. Halten Sie fest, welche Konten der Verein hat, und sorgen Sie dafür, dass sie über eine Vereinsadresse laufen.</p><ul><li><strong>Vereins-E-Mail-Adresse</strong>, idealerweise mit eigener Domain, statt privater Adressen</li><li><strong>Domain und Website</strong> auf den Verein registriert</li><li><strong>Social-Media-Seiten</strong> mit mindestens zwei Administratoren aus dem Vorstand</li><li><strong>Passwörter</strong> in einem gemeinsamen Passwort-Manager, siehe <a href=\"/wissen/passwort-manager/\">Passwort-Manager im Betrieb</a></li><li><strong>Übergabeliste</strong> für Vorstandswechsel: Was gibt es, wo liegt es, wer hat Zugriff?</li></ul><p>Das klingt banal, erspart aber bei jeder Neuwahl Stunden an Detektivarbeit.</p>"
+    },
+    {
+      "h2": "Mitglieder, Beiträge und Termine verwalten",
+      "html": "<p>Für die Mitgliederverwaltung gibt es eigene Vereinsprogramme, oft als Online-Dienst mit Monatsabo oder mit kostenloser Grundversion. Sie bündeln Mitgliederdaten, Beiträge, Zahlungseingänge und Kommunikation.</p><ul><li>Mitgliederliste mit Kontaktdaten, Eintrittsdatum und Funktion</li><li>Beitragsverwaltung mit Erinnerung bei offenen Beiträgen</li><li>Terminkalender für Proben, Trainings, Sitzungen und Feste</li><li>Helferlisten, in die sich Mitglieder selbst eintragen</li><li>Dokumentenablage für Statuten, Protokolle und Förderanträge</li></ul><p>Ein Beispiel: Ein Musikverein mit vierzig Mitgliedern führt eine Vereinssoftware ein. Probenzeiten stehen im gemeinsamen Kalender, Ausrückungen werden mit Zu- und Absage geplant, und der Kassier sieht auf einen Blick, wer den Jahresbeitrag noch nicht bezahlt hat. Wichtig war, die älteren Mitglieder persönlich einzuschulen.</p>"
+    },
+    {
+      "h2": "Die Vereinswebsite: einfach und aktuell",
+      "html": "<p>Eine Vereinswebsite muss nicht groß sein. Sie soll zeigen, wer Sie sind, was Sie tun, wann etwas los ist und wie man mitmachen kann.</p><ul><li>Kurze Vorstellung mit Fotos aus dem echten Vereinsleben</li><li>Termine und Veranstaltungen, gut sichtbar</li><li>Mitmachen: Training, Probe, Schnupperstunde, Beitrittsformular</li><li>Kontakt und Ansprechpersonen</li><li>Impressum und Datenschutzerklärung, auch für Vereine Pflicht</li></ul><p>Entscheidend ist, dass mehrere Personen die Seite pflegen können, ohne Programmierkenntnisse. Wie Sie Veranstaltungen online bekannt machen, zeigt der Beitrag <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen online bewerben</a>. Für den Einstieg reicht oft eine kleine Seite, unsere Starter-Website mit bis zu fünf Seiten beginnt bei 2.500 € einmalig.</p>"
+    },
+    {
+      "h2": "Kommunikation und Social Media",
+      "html": "<p>Viele Vereine kommunizieren über Chatgruppen. Das ist schnell, aber unübersichtlich. Trennen Sie besser zwischen Ankündigungen und Austausch:</p><ul><li><strong>Ankündigungskanal</strong>, in dem nur der Vorstand schreibt</li><li><strong>Gruppen</strong> für Austausch innerhalb von Mannschaften oder Sektionen</li><li><strong>E-Mail-Newsletter</strong> für Mitglieder, die keine Messenger nutzen</li><li><strong>Social Media</strong> für die Öffentlichkeit: Ergebnisse, Feste, Nachwuchs</li></ul><p>Ein Beispiel: Ein Sportverein mit mehreren Nachwuchsmannschaften schickt Trainingsausfälle bisher in fünf Chatgruppen. Ein gemeinsamer Ankündigungskanal plus Kalender mit Benachrichtigung sorgt dafür, dass Eltern die Info einmal und zuverlässig bekommen, während der Austausch in den Mannschaftsgruppen bleibt.</p><p>Social Media bringt Nachwuchs und Besucher, kostet aber Zeit. Bestimmen Sie eine verantwortliche Person und einen realistischen Rhythmus. Bei Fotos von Mitgliedern, besonders von Kindern, holen Sie die Zustimmung ein; Hinweise zu Bild- und Musikrechten stehen unter <a href=\"/wissen/social-media-bildrechte/\">Bilder und Musik auf Social Media</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz im Verein",
+      "html": "<p>Auch Vereine verarbeiten personenbezogene Daten und müssen die DSGVO beachten. Als allgemeine Orientierung:</p><ul><li>Nur Daten erheben, die der Verein wirklich braucht</li><li>Mitglieder beim Beitritt informieren, wofür die Daten verwendet werden</li><li>Zugriff auf Mitgliederdaten auf die Funktionäre beschränken, die sie brauchen</li><li>Daten ausgetretener Mitglieder nach angemessener Zeit löschen</li><li>Bei Online-Werkzeugen auf Serverstandort und Vertrag zur Auftragsverarbeitung achten</li><li>Für Fotos und Veröffentlichungen Zustimmung einholen</li></ul><p>Im Einzelfall hilft die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> oder der jeweilige Dachverband. Wenn Sie Ihren Verein digital besser aufstellen wollen, finden Sie mehr auf der Seite <a href=\"/branchen/vereine/\">Vereine</a> oder im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, das sich mit Terminen am Abend gut neben das Ehrenamt legen lässt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche digitalen Werkzeuge braucht ein kleiner Verein?",
+      "a": "Für die meisten Vereine reichen eine Vereins-E-Mail-Adresse, eine einfache Website mit Terminen und Kontakt, eine Mitgliederverwaltung mit Beitragsübersicht, ein gemeinsamer Kalender und ein Kanal für Ankündigungen. Ein Passwort-Manager sorgt dafür, dass Zugänge beim Vorstandswechsel nicht verloren gehen. Mehr braucht es zum Start selten."
+    },
+    {
+      "q": "Braucht ein Verein ein Impressum und eine Datenschutzerklärung?",
+      "a": "In der Regel ja. Auch Vereinswebsites müssen Angaben zum Betreiber machen und über die Verarbeitung personenbezogener Daten informieren, etwa bei Kontaktformularen oder eingebundenen Diensten. Der Umfang hängt davon ab, was die Website tut. Als Orientierung helfen die Wirtschaftskammer und die Datenschutzbehörde, im Einzelfall der Dachverband oder eine Rechtsberatung."
+    },
+    {
+      "q": "Wie verhindern Vereine, dass Zugänge beim Vorstandswechsel verloren gehen?",
+      "a": "Alle Konten sollten über eine Vereinsadresse laufen und mindestens zwei Personen aus dem Vorstand Zugriff haben. Passwörter gehören in einen gemeinsamen Passwort-Manager, nicht in private Notizen. Eine einfache Übergabeliste mit allen Konten, Verträgen und Zuständigkeiten wird bei jeder Neuwahl weitergegeben. So bleibt der Verein unabhängig von einzelnen Personen."
+    },
+    {
+      "q": "Dürfen Vereine Fotos von Mitgliedern online stellen?",
+      "a": "Am sichersten ist es, vorab die Zustimmung einzuholen, etwa im Beitrittsformular und bei Veranstaltungen mit einem gut sichtbaren Hinweis. Bei Kindern braucht es die Zustimmung der Eltern. Wer auf einem Foto nicht erscheinen möchte, sollte das jederzeit sagen können. Im Einzelfall hilft die Datenschutzbehörde oder der Dachverband bei der Einordnung."
+    }
+  ],
+  "verwandt": [
+    "/branchen/vereine/",
+    "/wissen/veranstaltungen-bewerben/",
+    "/wissen/newsletter-kmu/",
+    "/wissen/digitalisierung-gemeinden/",
+    "/wissen/e-mail-mit-eigener-domain/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

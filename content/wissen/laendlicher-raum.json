@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/laendlicher-raum/",
+  "title": "Digital erfolgreich im ländlichen Raum: Ratgeber",
+  "description": "Digital erfolgreich im ländlichen Raum: wie Betriebe am Land online gefunden werden, Kunden aus der Umgebung gewinnen und Wege und Zeit sparen.",
+  "h1": "Digital erfolgreich im ländlichen Raum",
+  "kicker": "Ratgeber · Region",
+  "lead": "Digital erfolgreich im ländlichen Raum sind Betriebe, die dort sichtbar sind, wo Kunden aus der Umgebung suchen: bei Google, in Karten-Apps und zunehmend in KI-Suchen. Dazu kommen Werkzeuge, die Wege und Telefonzeit sparen. Am Land zählt nicht die größte Reichweite, sondern dass man im eigenen Einzugsgebiet zuverlässig gefunden und erreicht wird.",
+  "fakten": [
+    "Lokale Sichtbarkeit wichtiger als überregionale Reichweite",
+    "Google-Unternehmensprofil ist oft der wichtigste erste Schritt",
+    "Online-Lösungen sparen am Land besonders viele Wege",
+    "Klein starten, gut pflegen, dann ausbauen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was am Land anders ist",
+      "html": "<p>Ein Betrieb im Waldviertel oder in einem Tal in der Steiermark hat andere Voraussetzungen als einer in der Stadt. Die Kunden kommen aus einem größeren Gebiet, die Wege sind länger, und vieles läuft über Empfehlung und persönliche Bekanntschaft. Gleichzeitig suchen auch am Land immer mehr Menschen zuerst am Handy, bevor sie anrufen.</p><p>Daraus ergeben sich drei Aufgaben: Sie müssen im ganzen Einzugsgebiet gefunden werden, nicht nur im eigenen Ort. Sie müssen gut erreichbar sein, auch wenn Sie unterwegs sind. Und Sie sollten Abläufe so gestalten, dass weniger Fahrten und Telefonate nötig sind.</p>"
+    },
+    {
+      "h2": "Gefunden werden im ganzen Einzugsgebiet",
+      "html": "<p>Wer in einem kleinen Ort sitzt, wird von Kunden aus den Nachbargemeinden oft gar nicht gefunden, wenn diese nach „Tischler“ oder „Installateur“ suchen. Das lässt sich ändern:</p><ul><li><strong>Google-Unternehmensprofil</strong> vollständig ausfüllen, mit Einzugsgebiet, Fotos und Öffnungszeiten.</li><li><strong>Auf der Website</strong> die Orte und Bezirke nennen, in denen Sie arbeiten – natürlich formuliert, nicht als Liste von Ortsnamen.</li><li><strong>Bewertungen</strong> aktiv erbitten, denn sie zählen bei lokalen Suchen stark.</li><li><strong>Einheitliche Daten</strong> zu Name, Adresse und Telefon überall im Netz.</li></ul><p>Wie das im Detail geht, beschreibt der Ratgeber <a href=\"/wissen/lokales-seo/\">Lokales SEO</a>. Für Betriebe aus der Heimatregion von Mühlberger Digital gibt es außerdem eine eigene Seite zur <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Erreichbar sein, auch wenn niemand im Büro ist",
+      "html": "<p>Am Land ist der Chef oft selbst auf der Baustelle, im Stall oder in der Küche. Anrufe bleiben liegen, und mancher Kunde ruft dann einfach den Nächsten an. Ein paar Bausteine helfen:</p><ul><li>Ein <strong>Kontaktformular</strong>, das die wichtigsten Angaben gleich abfragt.</li><li>Ein <strong>KI-Chatbot</strong> auf der Website, der Fragen zu Öffnungszeiten, Leistungen oder Anfahrt rund um die Uhr beantwortet.</li><li><strong>WhatsApp</strong> als Kanal, wenn Ihre Kunden das ohnehin nutzen.</li><li>Ein <strong>Telefonassistent</strong>, der Anrufe annimmt und Anliegen notiert.</li></ul><p>Nicht jeder Betrieb braucht alles. Ein Hofladen mit fixen Öffnungszeiten kommt mit einem guten Google-Profil weit; ein Installateur mit Notdienst profitiert eher von einem Assistenten am Telefon. Mehr dazu steht im Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Wege sparen durch digitale Abläufe",
+      "html": "<p>Lange Fahrten kosten am Land besonders viel Zeit. Vieles, wofür man früher hingefahren ist, lässt sich heute online erledigen:</p><ul><li>Erstberatung per Video-Call statt Fahrt zum Kunden</li><li>Fotos vom Schaden per Formular oder WhatsApp, bevor Sie losfahren</li><li>Online-Terminbuchung statt Hin-und-her am Telefon</li><li>Angebote digital verschicken und digital bestätigen lassen</li></ul><p>Ein Rauchfangkehrer, der vorab weiß, welche Anlage ihn erwartet, packt das richtige Werkzeug ein und spart sich eine zweite Fahrt. Solche kleinen Verbesserungen summieren sich über das Jahr.</p>"
+    },
+    {
+      "h2": "Mitarbeiter finden am Land",
+      "html": "<p>Viele Betriebe am Land haben Arbeit genug, aber zu wenige Leute. Bewerber suchen heute ebenfalls online, oft am Handy. Eine Karriereseite auf der eigenen Website, die zeigt, wie der Arbeitsalltag aussieht, hilft dabei mehr als ein Zettel im Schaufenster.</p><p>Zusätzlich können Sie Stellen auf Plattformen ausschreiben. Mit <a href=\"https://zusage.at/\">zusage.at</a> gibt es eine kostenlose Bewerbungsplattform für Österreich, auf der Betriebe Stellen ausschreiben und Bewerbungen bekommen. Tipps zur Ausschreibung finden Sie im Ratgeber <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p>"
+    },
+    {
+      "h2": "Realistisch bleiben: Was sich am Land nicht lohnt",
+      "html": "<p>Nicht alles, was für Stadtbetriebe sinnvoll ist, lohnt sich am Land. Ehrlich betrachtet:</p><ul><li>Täglich auf fünf Kanälen posten bringt einem kleinen Betrieb selten etwas. Ein gepflegter Kanal reicht.</li><li>Eine eigene App ist für die meisten Betriebe unnötig; eine gute mobile Website erfüllt denselben Zweck.</li><li>Teure Werbekampagnen mit großer Reichweite verpuffen, wenn Ihre Kunden aus einem überschaubaren Umkreis kommen.</li></ul><p>Am Land gewinnt, wer zuverlässig ist, auch digital: richtige Öffnungszeiten, schnelle Antworten, eine Website, die am Handy funktioniert.</p>"
+    },
+    {
+      "h2": "Ein guter Start in drei Schritten",
+      "html": "<ol><li>Prüfen Sie Ihr Google-Unternehmensprofil auf vollständige und richtige Angaben.</li><li>Prüfen Sie Ihre Website am eigenen Handy: Finden Sie Telefonnummer und Leistungen in wenigen Sekunden?</li><li>Wählen Sie einen Baustein für bessere Erreichbarkeit.</li></ol><p>Wie gut Ihre Website technisch dasteht, zeigt der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a>. Wenn Sie lieber persönlich sprechen: Mühlberger Digital sitzt selbst im Waldviertel, in Ottenschlag, und kommt in Niederösterreich auch gern vorbei. Das <a href=\"/erstgespraech/\">Erstgespräch</a> ist kostenlos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich eine Website für einen kleinen Betrieb am Land?",
+      "a": "In den meisten Fällen ja. Auch am Land suchen Kunden zunehmend zuerst online, besonders Zugezogene, Jüngere und Kunden aus Nachbarorten, die Sie nicht persönlich kennen. Eine einfache, gut gepflegte Website mit Leistungen, Einzugsgebiet und Kontakt reicht oft. Sie muss nicht groß sein, aber am Handy gut funktionieren und aktuelle Informationen zeigen."
+    },
+    {
+      "q": "Was ist für Betriebe am Land wichtiger: Website oder Google-Profil?",
+      "a": "Beides ergänzt sich. Das Google-Unternehmensprofil sorgt dafür, dass Sie in Karten und lokalen Suchen erscheinen, mit Öffnungszeiten, Bewertungen und Anfahrt. Die Website liefert die Details, die Vertrauen schaffen und Anfragen auslösen. Wer nur eines davon schnell verbessern kann, beginnt meist beim Google-Profil, weil es mit wenig Aufwand viel bewirkt."
+    },
+    {
+      "q": "Wie werde ich in Nachbarorten gefunden, ohne dort einen Standort zu haben?",
+      "a": "Nennen Sie in Ihrem Google-Unternehmensprofil Ihr Einzugsgebiet und beschreiben Sie auf der Website natürlich, in welchen Orten und Bezirken Sie arbeiten, etwa mit Beispielen von Arbeiten dort. Bewertungen von Kunden aus diesen Orten helfen zusätzlich. Vermeiden Sie reine Ortsnamen-Listen und kopierte Ortsseiten, die Google eher abwertet."
+    },
+    {
+      "q": "Kommt Mühlberger Digital auch persönlich vorbei?",
+      "a": "Ja. Mühlberger Digital sitzt in Ottenschlag im Waldviertel und kommt in Niederösterreich gern persönlich zum Erstgespräch. In ganz Österreich sowie in Deutschland und der Schweiz läuft die Zusammenarbeit online, per Telefon oder Video-Call. Das Erstgespräch ist kostenlos, dauert etwa 30 Minuten und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/lokales-seo/",
+    "/wissen/digitalisierung-waldviertel/",
+    "/wissen/erreichbarkeit/",
+    "/regionen/waldviertel/",
+    "/leistungen/google-unternehmensprofil/"
+  ],
+  "checks": ["seo-check", "ki-sichtbarkeit"]
+}

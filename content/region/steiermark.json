@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/steiermark/",
+  "title": "Digitalagentur Steiermark: Website, B2B und KI",
+  "description": "Digitale Lösungen für steirische Betriebe: Website, Neukunden im B2B, Mitarbeitersuche und KI-Werkzeuge – online beraten, klar kalkuliert, ehrlich.",
+  "h1": "Digitalagentur für die Steiermark – vom Zulieferer bis zum Buschenschank",
+  "kicker": "Region · Bundesland",
+  "lead": "Steirische Betriebe berät Mühlberger Digital online zu Website, Neukundengewinnung, Mitarbeitersuche und KI-Werkzeugen. Die Lösungen setzt Pipeline AI Solutions um, und vor jedem Projekt steht ein kostenloses Erstgespräch mit klarem Preis.",
+  "fakten": [
+    "Landeshauptstadt Graz, bekannt als „Grünes Herz Österreichs“",
+    "Beratung per Video-Call, Lösungen live mit Ihren Daten gezeigt",
+    "SightUp findet passende Firmenkunden, Gratis-Paket mit 3 Suchen pro Monat",
+    "Kostenloses Erstgespräch, ca. 30 Minuten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Industrie, Wein und Tourismus in einem Land",
+      "html": "<p>Die Steiermark reicht von der Obersteiermark mit Bergen und traditioneller Industrie bis zum Weinland im Süden und den Thermen im Osten. In <a href=\"/regionen/graz/\">Graz</a> kommen Universitäten, Technik und viele Dienstleister zusammen. Diese Mischung zeigt sich auch bei den digitalen Fragen: Ein Zulieferbetrieb braucht etwas anderes als ein Buschenschank oder ein Thermenhotel.</p>"
+    },
+    {
+      "h2": "Neue Firmenkunden finden, ohne Kaltakquise im Blindflug",
+      "html": "<p>Viele steirische Gewerbebetriebe arbeiten für andere Unternehmen: Metallbau, Elektrotechnik, Reinigung, Transport. Neue Firmenkunden kommen oft nur über Empfehlungen. SightUp sucht passende Unternehmen in der Nähe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch, Sie entscheiden selbst.</p><p>Ein typischer Fall: Ein Metallbauer mit acht Mitarbeitern will mehr Aufträge von Gewerbebetrieben im Umkreis. Statt Branchenverzeichnisse abzutelefonieren, bekommt er eine sortierte Liste und einen Textvorschlag. Mehr dazu unter <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung im B2B</a>.</p>"
+    },
+    {
+      "h2": "Mitarbeitersuche als digitales Thema",
+      "html": "<p>Fachkräfte zu finden ist für viele steirische Betriebe schwieriger als Aufträge zu bekommen. Eine eigene Karriereseite auf der Website, ehrliche Einblicke in den Arbeitsalltag und eine Ausschreibung auf der kostenlosen Bewerbungsplattform zusage.at erhöhen die Chance, dass sich passende Leute melden. Der Ratgeber zur <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeitersuche online</a> zeigt die wichtigsten Schritte.</p>"
+    },
+    {
+      "h2": "So läuft die Zusammenarbeit mit der Steiermark",
+      "html": "<p>Mühlberger Digital sitzt in Ottenschlag im Waldviertel. Mit steirischen Betrieben läuft die Beratung deshalb per Video-Call oder Telefon, persönliche Termine sind die Ausnahme. Das hat einen Vorteil: Die Lösungen werden direkt am Bildschirm mit Ihren eigenen Daten gezeigt, etwa ein Startseiten-Entwurf aus Ihrer bestehenden Website oder eine SightUp-Suche in Ihrem Umkreis.</p><p>Die Umsetzung übernimmt <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>, Vertragspartner ist ebenfalls Pipeline.</p>"
+    },
+    {
+      "h2": "Buschenschank, Thermenhotel, Handwerksbetrieb: gefunden werden vor Ort",
+      "html": "<p>Ein Buschenschank im Süden hat nur an bestimmten Tagen offen, und genau danach wird gesucht. Ein Thermenhotel muss Wellness-Gäste überzeugen, die mehrere Häuser vergleichen. Ein Installateur in der Obersteiermark will, dass ihn die Menschen im Tal bei einem Rohrbruch sofort finden. Allen drei hilft zuerst ein vollständiges <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> mit richtigen Öffnungszeiten, Fotos und Bewertungen.</p><p>Danach kommt die Website: Sie sollte in wenigen Sekunden zeigen, was Sie anbieten, wo Sie sind und wie man Sie erreicht. Mehr braucht es für den Anfang oft nicht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist SightUp für kleine steirische Betriebe überhaupt sinnvoll?",
+      "a": "Für Betriebe, die an andere Unternehmen verkaufen, oft ja. SightUp findet passende Firmen in der Nähe, bewertet sie von 0 bis 100 und schlägt eine erste Nachricht vor, verschickt aber nichts selbst. Mit dem Gratis-Paket sind drei Suchen pro Monat möglich, danach gibt es Pakete ab 19 € pro Monat. Wer nur an Privatkundschaft verkauft, braucht SightUp in der Regel nicht."
+    },
+    {
+      "q": "Kann ich ohne persönliches Treffen gut beraten werden?",
+      "a": "Ja. Die meisten Lösungen sind digital und lassen sich am Bildschirm besser zeigen als am Papier. Im Video-Call sehen Sie zum Beispiel, wie ein Entwurf für Ihre Startseite aussieht oder wie ein Chatbot auf Ihre echten Kundenfragen antwortet. Sie bekommen danach ein schriftliches Angebot und können in Ruhe entscheiden."
+    },
+    {
+      "q": "Was kostet eine neue Website für einen steirischen Handwerksbetrieb?",
+      "a": "Die Starter-Website kostet ab 2.500 € einmalig, ohne USt. Sie umfasst bis zu fünf Seiten, funktioniert auf Smartphone, Tablet und Computer, ist für Google und KI-Suchen optimiert und enthält Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Für mehr Seiten, einen Shop oder Zusatzfunktionen gibt es ein Angebot nach dem Erstgespräch."
+    }
+  ],
+  "verwandt": [
+    "/regionen/graz/",
+    "/produkte/sightup/",
+    "/produkte/zusage/",
+    "/branchen/metallbau/",
+    "/gratis-check/neukunden-finden/"
+  ],
+  "checks": [
+    "neukunden-finden",
+    "website-entwurf"
+  ]
+}

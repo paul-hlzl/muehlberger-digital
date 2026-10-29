@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/maler/",
+  "title": "Digitale Lösungen für Malerbetriebe: Angebote schneller",
+  "description": "Fassade bei Schönwetter, Wohnung vor dem Einzug, Angebot nach Quadratmetern: Wie Malerbetriebe Anfragen strukturieren und Angebote schneller legen.",
+  "h1": "Digitale Lösungen für Malerbetriebe",
+  "kicker": "Branche · Maler & Anstreicher",
+  "lead": "Malerbetriebe legen viele Angebote, von denen nur ein Teil angenommen wird, und jedes kostet Zeit für Besichtigung und Kalkulation. Wer Anfragen schon mit Raummaßen und Fotos bekommt, Angebote teilweise automatisiert vorbereitet und konsequent nachfasst, gewinnt mehr Aufträge mit weniger Abendarbeit.",
+  "fakten": [
+    "Anfrageformular mit Raumanzahl, Quadratmetern und Fotos statt reiner Telefonanfrage",
+    "Angebotsentwürfe lassen sich aus Standardpositionen automatisch vorbereiten",
+    "Fassadenarbeiten sind wetterabhängig – das gehört ehrlich auf die Website",
+    "Individuelle Automatisierungen: Preis auf Anfrage nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Angebotsflut: viel Arbeit für wenig Zusagen",
+      "html": "<p>Das größte digitale Thema im Malerbetrieb ist die Angebotserstellung. Eine Kundin will drei Zimmer und den Vorraum ausmalen lassen, ein Hausbesitzer die Fassade, ein Vermieter die Wohnung nach dem Auszug. Für jedes Angebot braucht es Maße, Untergrund, gewünschte Farbe und Termin, und oft fährt man dafür eigens hin.</p><p>Ein Formular, das genau diese Punkte abfragt, ist der erste Hebel. Wie ein gutes Formular aufgebaut ist, ohne Kunden abzuschrecken, steht im Ratgeber zum <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>. Bei Standardarbeiten wie „Wohnung weiß ausmalen“ reicht danach oft ein Richtangebot ohne Besichtigung.</p>"
+    },
+    {
+      "h2": "Angebote vorbereiten lassen statt abends tippen",
+      "html": "<p>Viele Positionen wiederholen sich: Abdecken, Spachteln, Grundieren, zweimal Streichen, Material, Anfahrt. Eine <a href=\"/leistungen/ki-automatisierung/\">Automatisierung</a> kann aus den Angaben im Formular einen Angebotsentwurf mit Ihren eigenen Positionen und Preisen vorbereiten. Sie prüfen, passen an und schicken ab.</p><p>Wichtig: Die Software erfindet keine Preise, sie verwendet nur Ihre Kalkulationsgrundlagen. Wie solche Abläufe in kleinen Betrieben funktionieren, beschreibt der Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>. Ob sich das rechnet, hängt davon ab, wie viele Angebote Sie pro Monat schreiben; bei einer Handvoll lohnt es sich meist nicht.</p>"
+    },
+    {
+      "h2": "Saison, Wetter und die ewige Frage nach dem Termin",
+      "html": "<p>Fassaden streicht man nicht bei Frost und nicht im Dauerregen. Das führt dazu, dass im Frühjahr alle gleichzeitig einen Termin wollen und im Winter Lücken entstehen. Eine Website kann hier zwei Dinge tun:</p><ul><li>Ehrlich erklären, warum Fassadentermine wetterabhängig sind und verschoben werden können.</li><li>Innenarbeiten für die kalte Jahreszeit aktiv anbieten, etwa „Stiegenhaus im Winter neu ausmalen“.</li></ul><p>Für Vermieter und Hausverwaltungen, die regelmäßig Wohnungen zwischen zwei Mietern herrichten lassen, lohnt sich eine eigene Unterseite: Dort zählt vor allem, wie schnell Sie können und ob Sie den Schlüssel selbst abholen.</p>"
+    },
+    {
+      "h2": "Nachfassen und Bewertungen: das unterschätzte Duo",
+      "html": "<p>Ein Teil der offenen Angebote ist nicht abgelehnt, sondern einfach vergessen. Eine automatische, freundliche Erinnerung eine Woche nach dem Angebot kann manche Zusage bringen, ohne aufdringlich zu sein. Wie man das gut formuliert, steht unter <a href=\"/wissen/angebot-nachfassen/\">Angebot nachfassen</a>.</p><p>Nach dem Auftrag ist der beste Moment für eine Google-Bewertung: Der Kunde steht in einem frisch gestrichenen Raum und ist zufrieden. Ein kurzer Link per SMS oder E-Mail genügt. Praktische Tipps gibt der Ratgeber <a href=\"/wissen/google-bewertungen-bekommen/\">Google-Bewertungen bekommen</a>.</p>"
+    },
+    {
+      "h2": "Farbberatung und Muster: Entscheidungen vorbereiten",
+      "html": "<p>Ein typischer Zeitfresser ist die Farbfrage. Die Kundin weiß, dass das Wohnzimmer „warm, aber nicht gelb“ werden soll, und vor Ort werden zwanzig Farbfächer durchgeblättert. Eine Seite auf der Website, die erklärt, wie Sie bei der Farbwahl vorgehen, was ein Musteranstrich kostet und wie viel Zeit man dafür einplanen sollte, bereitet das Gespräch vor.</p><p>Auch Spezialtechniken wie Kalkputz, Lasuren, Tapezieren oder Lackierarbeiten an alten Holzfenstern verdienen jeweils eine kurze eigene Beschreibung mit Fotos. Damit finden Sie genau die Kunden, die mehr als „einmal weiß“ wollen, und die sind für viele Betriebe die interessanteren Aufträge.</p>"
+    },
+    {
+      "h2": "Womit ein Malerbetrieb anfangen sollte",
+      "html": "<p>Für die meisten Malerbetriebe ist die Reihenfolge klar: zuerst eine Website mit klaren Leistungen und gutem Anfrageformular, dann das Nachfassen, und erst wenn viele Angebote anfallen, die Angebotsautomatisierung. Einen Chatbot brauchen die wenigsten.</p><p>Wer sehen will, wie die eigene Startseite neu aussehen könnte, bekommt mit dem <a href=\"https://www.pipeline-solutions.at/gratis-test/\">kostenlosen Startseiten-Entwurf von Pipeline</a> in wenigen Minuten einen Vorschlag. Im <a href=\"/erstgespraech/\">Erstgespräch</a> klären wir dann, was für Ihre Auftragslage sinnvoll ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich als Maler Angebote ohne Besichtigung legen?",
+      "a": "Bei einfachen Innenarbeiten oft ja, wenn das Formular die nötigen Angaben liefert: Raumanzahl, ungefähre Fläche, Raumhöhe, Zustand der Wände, Fotos und gewünschter Zeitraum. Sinnvoll ist ein Richtangebot mit dem Hinweis, dass der Endpreis nach kurzer Prüfung vor Ort fixiert wird. Bei Fassaden, Schimmel oder alten Lackflächen bleibt die Besichtigung meist unverzichtbar."
+    },
+    {
+      "q": "Erstellt die KI dann selbstständig meine Angebote?",
+      "a": "Sie erstellt einen Entwurf, keine fertige Zusage. Die Automatisierung nimmt die Angaben aus dem Formular, ordnet sie Ihren Standardpositionen und Preisen zu und legt ein Angebot an, das Sie prüfen und freigeben. Ohne Ihre Kalkulationsgrundlagen funktioniert das nicht, und ohne Ihre Kontrolle sollte nichts hinausgehen. Die technische Umsetzung übernimmt Pipeline AI Solutions, der Preis wird nach dem Erstgespräch angeboten."
+    },
+    {
+      "q": "Lohnt sich Social Media für einen Malerbetrieb?",
+      "a": "Für Privatkunden kann es helfen, wenn Sie regelmäßig Vorher-Nachher-Bilder zeigen, etwa eine dunkle Holzdecke, die hell gestrichen wurde, oder eine Fassade nach der Sanierung. Wer kaum Zeit hat, sollte lieber die Website und das Google-Profil pflegen. Pipeflow kann aus Website-Inhalten wöchentliche Beiträge machen, die Sie nur freigeben, und ist in der Pilotphase kostenlos."
+    },
+    {
+      "q": "Was kostet eine einfache Website für einen Malerbetrieb?",
+      "a": "Die Starter-Website kostet ab 2.500 € einmalig ohne USt. und hat bis zu fünf Seiten, zum Beispiel Startseite, Innenarbeiten, Fassade, Referenzen und Kontakt. Enthalten sind Kontaktformular, Impressum, Datenschutz, Hosting und die Optimierung für Smartphone und Suchmaschinen. Ein erweitertes Anfrageformular mit Foto-Upload oder eine Angebotsautomatisierung kommen als individuelles Projekt dazu."
+    }
+  ],
+  "verwandt": ["/wissen/angebote-automatisieren/", "/wissen/angebot-nachfassen/", "/leistungen/ki-automatisierung/", "/wissen/google-bewertungen-bekommen/", "/branchen/fliesenleger/"],
+  "checks": ["website-entwurf"]
+}

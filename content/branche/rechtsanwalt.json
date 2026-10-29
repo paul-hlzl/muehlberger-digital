@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/rechtsanwalt/",
+  "title": "Website und KI für Rechtsanwaltskanzleien: was sinnvoll ist",
+  "description": "Für Rechtsanwaltskanzleien: Seiten nach Rechtsproblem statt Fachbegriff, Erstanfragen mit Dringlichkeit und Gegenseite – und wo KI nichts zu suchen hat.",
+  "h1": "Digitale Lösungen für Rechtsanwaltskanzleien",
+  "kicker": "Branche · Rechtsanwalt",
+  "lead": "Rechtsanwaltskanzleien gewinnen online, wenn Menschen mit einem konkreten Problem schnell erkennen, dass sie richtig sind und wie es weitergeht. Dafür braucht es Seiten, die vom Anliegen der Mandanten ausgehen, eine durchdachte Erstanfrage mit Dringlichkeit und Gegenseite sowie klare Grenzen beim Einsatz von KI.",
+  "fakten": [
+    "Seiten nach Problem formulieren: „Kündigung erhalten“ statt nur „Arbeitsrecht“",
+    "Erstanfrage fragt Gegenseite und Fristen ab, für Konfliktprüfung und Dringlichkeit",
+    "Chatbot nur für Organisatorisches, nie für Rechtsauskünfte",
+    "Werberegeln: im Zweifel bei der Rechtsanwaltskammer nachfragen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Mandanten suchen nach ihrem Problem, nicht nach Ihrem Fachgebiet",
+      "html": "<p>Kaum jemand tippt „Anwalt Familienrecht“ in die Suche. Menschen suchen nach „einvernehmliche Scheidung Ablauf“, „Mieterhöhung erhalten was tun“ oder „Führerschein abgenommen“. Eine Kanzleiwebsite, die nur Rechtsgebiete auflistet, erreicht diese Menschen schlechter.</p><p>Besser sind Unterseiten, die je ein typisches Anliegen aufgreifen: kurz beschreiben, in welchen Situationen Sie helfen, wie die ersten Schritte aussehen und welche Unterlagen nützlich sind, ohne den Einzelfall zu beurteilen. Das hilft bei Google und auch bei KI-Suchen wie ChatGPT, die gerne Seiten zitieren, die eine Frage direkt beantworten. Wie oft Ihre Kanzlei dort schon genannt wird, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden. Mehr zum Aufbau im Ratgeber <a href=\"/wissen/kanzlei-website/\">Kanzlei-Website</a>.</p>"
+    },
+    {
+      "h2": "Die Erstanfrage: Dringlichkeit, Gegenseite, Unterlagen",
+      "html": "<p>Ein allgemeines Kontaktformular mit „Ihre Nachricht“ reicht in einer Kanzlei selten. Bevor Sie ein Mandat annehmen, müssen Sie wissen, wer die Gegenseite ist, und manchmal läuft bereits eine Frist. Ein gut aufgebautes Formular fragt deshalb:</p><ul><li>Rechtsgebiet bzw. Art des Anliegens, als Auswahl</li><li>Name der Gegenseite, damit Sie eine Interessenkollision prüfen können</li><li>ob ein Schreiben, Bescheid oder eine Klage mit Frist vorliegt</li><li>bevorzugter Kontaktweg und Rückrufzeit</li></ul><p>Ausführliche Sachverhaltsschilderungen gehören nicht ins Formular, sondern ins Gespräch. Das reduziert sensible Daten im Postfach. Allgemeine Tipps stehen im Ratgeber <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Kosten der Erstberatung offen ansprechen",
+      "html": "<p>„Was kostet mich das erste Gespräch?“ ist für viele die größte Hürde, einen Anwalt zu kontaktieren. Ob Sie eine Erstberatung pauschal, nach Zeit oder kostenlos anbieten, entscheiden Sie selbst. Wichtig ist, dass es auf der Website steht. Eine ehrliche Angabe filtert Anfragen und vermeidet unangenehme Überraschungen.</p><p>Ebenso hilfreich ist ein kurzer Abschnitt dazu, wie Honorare grundsätzlich berechnet werden und ob eine Rechtsschutzversicherung eine Rolle spielen kann, ohne konkrete Zusagen für den Einzelfall.</p>"
+    },
+    {
+      "h2": "Chatbot und KI-Protokolle: wo die Grenze liegt",
+      "html": "<p>Ein Chatbot auf der Kanzleiwebsite darf keine Rechtsauskünfte geben. Was er leisten kann: Fragen zu Bürozeiten, Anfahrt, Ablauf der Erstberatung oder benötigten Unterlagen beantworten. Pipebot antwortet nur mit Ihren hinterlegten Inhalten und verbindet bei Unsicherheit mit dem Sekretariat. Wo KI generell an Grenzen stößt, beschreibt der Ratgeber <a href=\"/wissen/ki-grenzen/\">Grenzen von KI</a>.</p><p>Für Besprechungen per Teams, Zoom oder Webex kann <a href=\"https://noteit.at/\">noteit</a> Gesprächsnotizen erstellen, ohne Bot im Call und mit Speicherung in Frankfurt. Voraussetzung ist die Zustimmung aller Beteiligten und eine Prüfung, ob das mit Ihrer Verschwiegenheitspflicht vereinbar ist. Mehr zu diesem Baustein auf der Seite <a href=\"/leistungen/meeting-protokolle-ki/\">Meeting-Protokolle mit KI</a>.</p>"
+    },
+    {
+      "h2": "Standesrecht und der nächste Schritt",
+      "html": "<p>Für Rechtsanwältinnen und Rechtsanwälte gelten standesrechtliche Regeln zur Werbung, die Sie besser kennen als wir. Wir geben dazu keine Auskunft. Grenzfälle wie Erfolgsangaben, Vergleiche oder Preisaktionen klären Sie am besten mit der zuständigen Rechtsanwaltskammer.</p><p>Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig. Kanzleien mit vielen Rechtsgebieten brauchen meist mehr Unterseiten, das wird nach dem <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schriftlich angeboten. Termine sind Montag bis Freitag zwischen 18:00 und 21:30 Uhr möglich, also nach Ende der Kanzleizeiten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ein Chatbot auf einer Anwaltswebsite rechtliche Fragen beantworten?",
+      "a": "Nein, davon raten wir klar ab. Rechtliche Einschätzungen hängen vom Einzelfall ab und gehören in die anwaltliche Beratung. Ein Chatbot wie Pipebot kann organisatorische Fragen beantworten, etwa zu Bürozeiten, Anfahrt, Ablauf einer Erstberatung oder mitzubringenden Unterlagen. Er nutzt nur Ihre eigenen Inhalte und verweist bei Unsicherheit an das Sekretariat."
+    },
+    {
+      "q": "Warum sollte eine Kanzlei Seiten nach Problemen statt nach Rechtsgebieten anlegen?",
+      "a": "Menschen suchen nach ihrer Situation, etwa nach einer erhaltenen Kündigung oder einer Mieterhöhung, nicht nach dem Fachbegriff des Rechtsgebiets. Seiten, die solche Anliegen aufgreifen und die ersten Schritte erklären, werden von Google und KI-Suchen besser gefunden. Sie sollten aber allgemein bleiben und keinen Einzelfall beurteilen, damit keine falschen Erwartungen entstehen."
+    },
+    {
+      "q": "Was gehört in das Kontaktformular einer Anwaltskanzlei?",
+      "a": "Sinnvoll sind Art des Anliegens, Name der Gegenseite für die Konfliktprüfung, ein Hinweis auf laufende Fristen sowie Kontaktweg und Rückrufzeit. Eine ausführliche Schilderung des Sachverhalts gehört besser ins Gespräch, damit weniger sensible Daten per E-Mail übertragen werden. Datenschutzfragen im Einzelfall klären Sie mit der Datenschutzbehörde oder der Kammer."
+    },
+    {
+      "q": "Wie wird eine Kanzlei in ChatGPT oder Google häufiger genannt?",
+      "a": "Garantien gibt es dafür nicht. Gute Voraussetzungen sind Seiten, die typische Anliegen klar und sachlich beschreiben, ein gepflegtes Google-Unternehmensprofil, einheitliche Kontaktdaten in Verzeichnissen und echte Bewertungen. Hittaro misst, wie oft Google und KI-Suchen eine Kanzlei nennen, und schlägt Verbesserungen vor. Der Gratis-Check liefert einen Bericht innerhalb von 24 Stunden."
+    }
+  ],
+  "verwandt": ["/branchen/steuerberater/", "/wissen/kanzlei-website/", "/leistungen/geo-ki-sichtbarkeit/", "/wissen/lokales-seo/", "/leistungen/meeting-protokolle-ki/"],
+  "checks": ["ki-sichtbarkeit", "website-entwurf"]
+}

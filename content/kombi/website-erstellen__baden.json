@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/website-erstellen/baden/",
+  "title": "Website erstellen lassen in Baden: Praxen, Wellness, Wein",
+  "description": "Website erstellen lassen in Baden bei Wien: für Praxen, Wellness-Angebote und Heurige der Thermenregion. Klare Preise, kostenloses Erstgespräch.",
+  "h1": "Website erstellen lassen in Baden",
+  "kicker": "Website · Bezirk Baden",
+  "lead": "In der Kurstadt Baden suchen viele Menschen gezielt nach Gesundheits-, Wellness- und Genussangeboten, oft am Handy und oft als Gäste von auswärts. Eine Website, die Termine, Preise und Anfahrt in wenigen Sekunden beantwortet, ist dafür wichtiger als viele Unterseiten. Passende Websites gibt es über Mühlberger Digital ab 2.500 €, die Technik liefert Pipeline AI Solutions.",
+  "fakten": [
+    "Baden ist Kurstadt und Teil der Thermenregion mit Weinbau",
+    "Gäste und Einheimische suchen unterschiedlich: Gäste brauchen Orientierung, Stammkunden Termine",
+    "Online-Terminbuchung und Chatbot lassen sich ergänzen",
+    "Starter-Website ab 2.500 € einmalig, schriftliches Angebot vorab"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wer in Baden nach Ihnen sucht",
+      "html": "<p>Baden ist bekannt als Kurstadt, die Region rundherum für Thermen und Wein. Das bringt eine Kundschaft mit, die nicht nur aus dem Ort kommt: Kurgäste, Tagesausflügler aus Wien, Menschen, die nach einer Behandlung oder einem Heurigenbesuch suchen.</p><p>Diese Besucher kennen Sie noch nicht. Sie entscheiden anhand weniger Eindrücke, ob sie anrufen, buchen oder weitersuchen. Deshalb gehört das Wesentliche ganz nach oben: was Sie anbieten, wann, wo und wie man Sie erreicht.</p>"
+    },
+    {
+      "h2": "Typische Betriebe und was sie brauchen",
+      "html": "<ul><li><strong>Physiotherapie-Praxis:</strong> Leistungen verständlich erklärt, Hinweis auf Wahltherapie oder Kassenvertrag, einfache Terminanfrage. Mehr dazu bei <a href=\"/branchen/physiotherapie/\">Physiotherapie</a>.</li><li><strong>Massage- oder Kosmetikstudio:</strong> Behandlungen mit Dauer und Preis, Gutscheine für Gäste, die etwas verschenken wollen.</li><li><strong>Heuriger in der Thermenregion:</strong> Ausg’steckt-Termine aktuell halten, Speisen, Anfahrt mit Öffis. Das ist die Information, nach der am häufigsten gesucht wird.</li></ul>"
+    },
+    {
+      "h2": "Termine online: wann es sich lohnt",
+      "html": "<p>Wer viele kurze Termine vergibt, verliert am Telefon oft mehr Zeit, als ihm lieb ist. Eine Online-Buchung entlastet, ist aber nicht für jeden Betrieb passend. Wenn vor jedem Termin eine Abklärung nötig ist, reicht ein gutes Anfrageformular. Was beide Wege können, erklärt der Ratgeber <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p><p>Für wiederkehrende Fragen wie Parken, Preise oder Öffnungszeiten kann zusätzlich ein Chatbot helfen. <a href=\"https://pipebot.at/\">Pipebot</a> antwortet nur mit Ihren eigenen Inhalten, kostet 19 € im Monat und ist die ersten 30 Tage gratis.</p>"
+    },
+    {
+      "h2": "So kommen Sie zur fertigen Website",
+      "html": "<p>Am Anfang steht ein kostenloses Erstgespräch von etwa 30 Minuten. Danach bekommen Sie ein schriftliches Angebot. Die Starter-Website mit bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting beginnt bei 2.500 €. Was genau enthalten ist, steht unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p><p>Weitere Informationen zur Region finden Sie unter <a href=\"/regionen/bezirk-baden/\">Bezirk Baden</a> und <a href=\"/regionen/industrieviertel/\">Industrieviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll eine Praxis in Baden ihre Preise auf der Website zeigen?",
+      "a": "Bei Privat- und Wahlleistungen hilft es meistens, zumindest Richtwerte zu nennen. Gäste und neue Patienten vergleichen, bevor sie anrufen, und fehlende Preise führen oft zu Anfragen, die nicht zusammenpassen. Wo sich ein Preis erst nach einer Untersuchung festlegen lässt, genügt ein ehrlicher Satz dazu. Berufsrechtliche Vorgaben zur Werbung sollten Sie im Zweifel bei Ihrer Kammer abklären."
+    },
+    {
+      "q": "Wie oft muss ein Heuriger seine Website aktualisieren?",
+      "a": "So oft, wie sich die Ausg’steckt-Termine ändern. Veraltete Termine sind der häufigste Grund für verärgerte Gäste, die vor verschlossener Tür stehen. Am besten wird die Terminliste so angelegt, dass Sie sie selbst in wenigen Minuten ändern können. Wenn das nicht gewünscht ist, kann die Pflege auch als laufende Leistung vereinbart werden."
+    },
+    {
+      "q": "Lohnt sich ein Chatbot für einen kleinen Betrieb?",
+      "a": "Nur, wenn immer wieder dieselben Fragen kommen, zum Beispiel zu Parkplätzen, Preisen oder Öffnungszeiten. Dann beantwortet ein Chatbot wie Pipebot diese auch abends und am Wochenende, ausschließlich mit Ihren Inhalten. Bei wenigen, sehr individuellen Anfragen bringt er wenig. Mit 19 € pro Monat und 30 Gratis-Tagen lässt es sich ohne Risiko ausprobieren."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-baden/",
+    "/branchen/physiotherapie/",
+    "/branchen/heuriger/",
+    "/wissen/online-terminbuchung/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "chatbot-test"
+  ]
+}

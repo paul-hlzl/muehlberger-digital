@@ -1,0 +1,73 @@
+{
+ "pfad": "/leistungen/whatsapp-bot/",
+ "title": "WhatsApp-Bot für Unternehmen: Nutzen und Ablauf",
+ "description": "Ein WhatsApp-Bot beantwortet Kundenfragen dort, wo Ihre Kunden ohnehin schreiben. Was er kann, für wen er sich lohnt und wie die Umsetzung abläuft.",
+ "h1": "WhatsApp-Bot für Betriebe",
+ "kicker": "Leistung · KI & Kundenservice",
+ "lead": "Ein WhatsApp-Bot für Unternehmen beantwortet Nachrichten automatisch, nimmt Anfragen geordnet auf und übergibt an Ihr Team, wenn ein Mensch gefragt ist. Er lohnt sich, wenn Ihre Kunden Ihnen ohnehin schon über WhatsApp schreiben und das Handy dadurch ständig Aufmerksamkeit braucht. Umgesetzt wird er von Pipeline AI Solutions, der Preis richtet sich nach Umfang und wird nach dem Erstgespräch angeboten.",
+ "fakten": [
+  "Antwortet auf WhatsApp-Nachrichten auch außerhalb der Geschäftszeiten",
+  "Nimmt Anfragen geordnet auf und übergibt an Ihr Team",
+  "Läuft über die offizielle Geschäftsschnittstelle, nicht über Ihr Privathandy",
+  "Umsetzung über Pipeline AI Solutions, Preis auf Anfrage",
+  "Kostenloses Erstgespräch: Mo–Fr, 18:00–21:30 Uhr"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Warum WhatsApp für viele Betriebe der wichtigste Kanal geworden ist",
+   "html": "<p>Viele Kunden schreiben lieber eine kurze Nachricht, als anzurufen. Für einen kleinen Betrieb ist das zunächst angenehm – bis das Firmenhandy am Abend, am Wochenende und mitten auf der Baustelle ständig vibriert.</p>\n<p>Das typische Bild: Ein Installateur mit zwei Mitarbeitern bekommt Fotos von tropfenden Armaturen, Fragen nach freien Terminen und Rückfragen zu Rechnungen, alles im selben Chat und oft ohne Namen oder Adresse. Ein Teil davon ist dringend, vieles könnte warten, und manches beantwortet sich mit einem Standardsatz.</p>\n<p>Genau hier setzt ein WhatsApp-Bot an. Er sortiert vor, beantwortet das Wiederkehrende selbst und sorgt dafür, dass bei Ihnen nur noch ankommt, was wirklich Ihre Aufmerksamkeit braucht. Grundlagen zum Kanal lesen Sie im Ratgeber <a href=\"/wissen/whatsapp-kundenservice/\">Kundenservice über WhatsApp</a>.</p>"
+  },
+  {
+   "h2": "Was ein WhatsApp-Bot für Unternehmen übernehmen kann",
+   "html": "<p>Welche Aufgaben der Bot übernimmt, legen wir gemeinsam fest. Typisch sind diese Bausteine:</p>\n<ul><li><strong>Häufige Fragen beantworten:</strong> Öffnungszeiten, Einzugsgebiet, was eine Leistung umfasst, welche Unterlagen nötig sind – auf Basis Ihrer eigenen Inhalte.</li><li><strong>Anfragen vollständig aufnehmen:</strong> Der Bot fragt nach Name, Ort, Anliegen und gegebenenfalls einem Foto, damit Sie beim Rückruf nicht von vorne beginnen.</li><li><strong>Dringendes erkennen:</strong> Was nach Notfall klingt, wird sofort an die zuständige Person weitergegeben.</li><li><strong>Übergabe an Menschen:</strong> Wenn der Bot unsicher ist oder der Kunde es wünscht, übernimmt Ihr Team im selben Chat.</li></ul>\n<p>Wichtig ist, was der Bot <strong>nicht</strong> tun soll: verbindliche Preise zusagen, Termine fix bestätigen, ohne dass Sie das freigegeben haben, oder fachliche Ferndiagnosen stellen. Diese Grenzen schreiben wir vorab fest.</p>"
+  },
+  {
+   "h2": "Für wen sich ein WhatsApp-Bot lohnt – und für wen nicht",
+   "html": "<p>Ein WhatsApp-Bot lohnt sich, wenn bei Ihnen schon heute regelmäßig WhatsApp-Nachrichten eingehen und deren Beantwortung spürbar Zeit kostet. Das betrifft etwa Handwerksbetriebe mit vielen Anfragen von unterwegs, Gastronomiebetriebe mit Reservierungswünschen oder Studios und Praxen, bei denen Kunden Termine verschieben wollen.</p>\n<h3>Wann wir abraten</h3>\n<ul><li>Sie bekommen nur gelegentlich eine WhatsApp-Nachricht. Dann ist der Aufwand für Einrichtung und Pflege höher als der Nutzen.</li><li>Ihre Kunden schreiben vor allem über die Website. Dann ist ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot auf der Website</a> der einfachere und günstigere erste Schritt.</li><li>Fast jede Anfrage braucht eine persönliche Beratung. Ein Bot kann dann wenig abnehmen.</li></ul>\n<p>Unentschlossen, welcher Kanal für Ihre Kunden der richtige ist? Der Vergleich <a href=\"/vergleiche/whatsapp-oder-e-mail/\">WhatsApp oder E-Mail</a> hilft bei der Einordnung.</p>"
+  },
+  {
+   "h2": "Ablauf: vom Erstgespräch bis zum laufenden Bot",
+   "html": "<ol><li><strong>Erstgespräch:</strong> Sie erzählen, welche Nachrichten bei Ihnen eingehen. Hilfreich ist, wenn Sie vorher ein paar typische Chats (ohne persönliche Daten) heraussuchen.</li><li><strong>Bedarf klären:</strong> Welche Fragen soll der Bot selbst beantworten, was soll er nur aufnehmen, wann übergibt er an wen?</li><li><strong>Technische Grundlage:</strong> Ein Bot läuft nicht über eine private WhatsApp-Nummer, sondern über einen geschäftlichen Zugang zur offiziellen Schnittstelle. Wir klären, welche Nummer dafür verwendet wird.</li><li><strong>Umsetzung durch Pipeline AI Solutions:</strong> Der Bot wird mit Ihren Inhalten und Regeln eingerichtet.</li><li><strong>Testphase:</strong> Sie und Ihr Team schreiben dem Bot selbst, bevor Kunden ihn nutzen.</li><li><strong>Nachjustieren:</strong> In den ersten Wochen sehen wir uns gemeinsam an, wo Antworten fehlen oder zu ungenau sind.</li></ol>\n<p>Wie wir grundsätzlich zusammenarbeiten, beschreibt die Seite <a href=\"/ablauf/\">So läuft die Zusammenarbeit ab</a>.</p>"
+  },
+  {
+   "h2": "Kosten und Rahmenbedingungen",
+   "html": "<p>Ein WhatsApp-Bot wird von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a> individuell umgesetzt. Der Preis hängt davon ab, wie viele Aufgaben der Bot übernimmt, ob er an andere Systeme angebunden wird und wie viele Personen im Team mit ihm arbeiten. Deshalb gibt es <strong>keinen Pauschalpreis</strong>, sondern ein schriftliches Angebot nach dem Erstgespräch – vorab und klar.</p>\n<p>Zusätzlich zu den Kosten für Einrichtung und Betrieb können bei WhatsApp-Geschäftszugängen nutzungsabhängige Gebühren des Anbieters anfallen. Wir besprechen das im Angebot offen, damit es später keine Überraschungen gibt.</p>\n<p>Auch rechtlich gibt es einiges zu beachten, etwa beim Datenschutz und bei Nachrichten, die Sie von sich aus an Kunden senden. Das ist keine Rechtsberatung: Für Ihren Einzelfall wenden Sie sich bitte an die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>, einen Anwalt oder die Datenschutzbehörde.</p>"
+  },
+  {
+   "h2": "Typische Fehler bei WhatsApp-Bots",
+   "html": "<ul><li><strong>Der Bot klingt wie ein Callcenter.</strong> Kunden schreiben auf WhatsApp locker und kurz. Der Bot sollte genauso antworten und sich klar als automatischer Assistent zu erkennen geben.</li><li><strong>Endlosschleifen.</strong> Nichts ärgert mehr als ein Bot, der dieselbe Rückfrage dreimal stellt. Nach spätestens einem Missverständnis muss es einen Weg zum Menschen geben.</li><li><strong>Werbung statt Service.</strong> Wer den Kanal für ungefragte Angebote nutzt, verliert schnell das Vertrauen – und riskiert rechtlichen Ärger.</li><li><strong>Keine klare Zuständigkeit.</strong> Wenn der Bot an „das Team“ übergibt, aber niemand weiß, wer antwortet, bleibt die Nachricht trotzdem liegen.</li><li><strong>Private und geschäftliche Nummer vermischt.</strong> Trennen Sie das von Anfang an, auch wegen des Datenschutzes.</li></ul>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kann ich meine bestehende WhatsApp-Nummer für den Bot verwenden?",
+   "a": "Das hängt davon ab, wie die Nummer heute genutzt wird. Ein Bot läuft über einen geschäftlichen Zugang zur offiziellen WhatsApp-Schnittstelle, nicht über die normale App am Handy. Ob Ihre bestehende Nummer dafür umgestellt werden kann oder eine eigene Nummer sinnvoller ist, klären wir im Erstgespräch. Eine private Nummer sollte jedenfalls nicht als Firmenkanal dienen."
+  },
+  {
+   "q": "Was kostet ein WhatsApp-Bot für einen kleinen Betrieb?",
+   "a": "Einen Pauschalpreis gibt es nicht, weil der Aufwand stark vom Umfang abhängt: wie viele Fragen der Bot beantwortet, ob er an Kalender oder andere Systeme angebunden wird und wie viele Personen damit arbeiten. Sie erhalten nach dem kostenlosen Erstgespräch ein schriftliches Angebot von Pipeline AI Solutions. Nutzungsabhängige Gebühren von WhatsApp weisen wir dabei offen aus."
+  },
+  {
+   "q": "Merken Kunden, dass sie mit einem Bot schreiben?",
+   "a": "Ja, und das sollen sie auch. Wir empfehlen, dass sich der Bot gleich zu Beginn als automatischer Assistent vorstellt und jederzeit anbietet, an einen Menschen zu übergeben. Das ist fair gegenüber Ihren Kunden und vermeidet Ärger, wenn eine Antwort einmal nicht passt. Viele Kunden schätzen eine schnelle automatische Antwort mehr als stundenlanges Warten."
+  },
+  {
+   "q": "Ist ein WhatsApp-Bot mit dem Datenschutz vereinbar?",
+   "a": "Ein WhatsApp-Bot verarbeitet personenbezogene Daten wie Telefonnummern und Nachrichteninhalte. Deshalb müssen Datenschutzerklärung, Zuständigkeiten und Speicherfristen vorab geklärt sein. Wir besprechen mit Ihnen, welche Daten der Bot braucht und welche nicht. Eine Rechtsberatung ersetzt das nicht: Im Einzelfall fragen Sie bitte die WKO, einen Anwalt oder die Datenschutzbehörde."
+  },
+  {
+   "q": "Wann ist ein Website-Chatbot die bessere Wahl?",
+   "a": "Wenn Ihre Kunden sich vor allem auf Ihrer Website informieren und eher selten per WhatsApp schreiben, ist ein Website-Chatbot meist der einfachere Einstieg. Pipebot kostet 19 € pro Monat und ist die ersten 30 Tage gratis. Ein WhatsApp-Bot lohnt sich dagegen, wenn der Messenger bereits Ihr wichtigster Kanal ist und das Beantworten spürbar Zeit kostet."
+  }
+ ],
+ "verwandt": [
+  "/leistungen/ki-chatbot/",
+  "/wissen/whatsapp-business/",
+  "/vergleiche/whatsapp-oder-e-mail/",
+  "/leistungen/ki-telefonassistent/",
+  "/erstgespraech/"
+ ],
+ "checks": [
+  "chatbot-test"
+ ]
+}

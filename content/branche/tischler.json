@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/tischler/",
+  "title": "Digitale Lösungen für Tischlereien: Möbel online zeigen",
+  "description": "Einzelstücke, Küchenplanung, Schauraum-Termine: Wie Tischlereien ihre Arbeit online zeigen, passende Anfragen bekommen und Preisfragen klären.",
+  "h1": "Digitale Lösungen für Tischlereien",
+  "kicker": "Branche · Tischlerei & Möbelbau",
+  "lead": "Eine Tischlerei verkauft Einzelstücke, und Einzelstücke verkauft man über Bilder und Vertrauen. Die wichtigsten digitalen Bausteine sind deshalb eine Website mit guten Projektfotos, eine ehrliche Einordnung der Preise und ein einfacher Weg, einen Termin im Schauraum oder in der Werkstatt zu vereinbaren.",
+  "fakten": [
+    "Projektfotos sind für Tischlereien das wichtigste Verkaufsargument",
+    "Preisrahmen nennen filtert Anfragen, die nie zu einem Auftrag führen",
+    "Pipeflow macht aus Projektseiten wöchentliche Social-Media-Beiträge, in der Pilotphase kostenlos",
+    "Starter-Website ab 2.500 € einmalig, größere Galerien auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das Möbelhaus-Problem: Warum ist es beim Tischler teurer?",
+      "html": "<p>Die häufigste Hürde für Tischlereien ist nicht fehlende Nachfrage, sondern der Vergleich mit dem Möbelhaus. Wer einen Einbauschrank für die Dachschräge anfragt, hat oft einen Möbelhauspreis im Kopf und ist vom Angebot überrascht.</p><p>Eine Website kann das vorher auffangen: Erklären Sie, was Massivholz von beschichteter Spanplatte unterscheidet, warum eine Nische nach Maß Planungszeit braucht und was bei Ihnen inklusive ist (Aufmaß, Lieferung, Montage). Ob und wie man Preise online nennt, beschreibt der Ratgeber zu <a href=\"/wissen/preise-auf-website/\">Preisen auf der Website</a>. Schon ein „Küchen in der Regel ab …“ in Ihrer eigenen Größenordnung sortiert unpassende Anfragen aus.</p>"
+    },
+    {
+      "h2": "Projektfotos, die verkaufen",
+      "html": "<p>Ein Tisch aus Eiche mit Baumkante, eine Garderobe, die genau in den Vorraum passt, ein Badmöbel mit Sonderhöhe: Solche Bilder sind Ihr Portfolio. Viele Tischlereien haben sie am Handy, aber nicht auf der Website.</p><ul><li>Pro Projekt drei bis fünf Bilder, eines davon im Raum, eines im Detail (Kante, Griff, Fuge).</li><li>Ein, zwei Sätze zur Aufgabe: „Schräge mit 35 Grad, Stauraum für eine vierköpfige Familie“.</li><li>Holzart und Oberfläche nennen, denn danach suchen Kunden.</li></ul><p>Tipps zu Licht und Auswahl gibt der Ratgeber zu <a href=\"/wissen/website-fotos/\">Website-Fotos</a>, und wie man Arbeiten zeigt, ohne Kundennamen preiszugeben, steht unter <a href=\"/wissen/referenzen-zeigen/\">Referenzen zeigen</a>.</p>"
+    },
+    {
+      "h2": "Küchenplanung und Schauraum: Termine statt Telefonketten",
+      "html": "<p>Küchen und größere Einbauten beginnen fast immer mit einem Beratungsgespräch. Wer dafür einen Terminwunsch über die Website schicken kann, inklusive Grundriss oder Handyfoto der Wand, kommt vorbereitet. Sie wissen vorab, ob es um einen kompletten Neubau oder um die Erneuerung der Fronten geht.</p><p>Auch Lieferzeiten sorgen für viele Nachfragen. Ein offener Satz auf der Website wie „Für Küchen planen Sie bitte mehrere Monate Vorlauf ein“ spart Ihnen Gespräche mit Kunden, die in drei Wochen einziehen wollen. Ihre tatsächliche Vorlaufzeit tragen Sie selbst ein und halten sie aktuell.</p>"
+    },
+    {
+      "h2": "Social Media aus der Werkstatt, ohne Zusatzarbeit",
+      "html": "<p>Tischlereien haben ideales Material für Instagram: Späne, Maserung, das fertige Stück beim Kunden. Was fehlt, ist meistens die Zeit, regelmäßig zu posten. <a href=\"https://pipeflow.at/\">Pipeflow</a> erstellt aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn. Sie geben nur frei, veröffentlicht wird nichts ohne Ihr Okay.</p><p>Pipeflow ist in der Pilotphase kostenlos. Die Voraussetzung: Auf der Website müssen Projekte mit Bildern stehen, sonst gibt es nichts, woraus Beiträge entstehen können. Mehr dazu unter <a href=\"/leistungen/social-media-automatisierung/\">Social-Media-Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Holzarten und Oberflächen: Fragen, die Google beantworten soll",
+      "html": "<p>Viele Kunden recherchieren, bevor sie eine Tischlerei anrufen: Ist Eiche geölt oder lackiert besser für den Esstisch? Was hält eine Arbeitsplatte aus Holz aus? Warum arbeitet Massivholz? Wer diese Fragen auf der eigenen Website in einfachen Worten beantwortet, wird bei solchen Suchen eher gefunden, auch in KI-Suchen wie ChatGPT.</p><p>Zwei, drei kurze Ratgebertexte aus Ihrer Erfahrung reichen für den Anfang. Sie zeigen nebenbei, dass Sie wissen, wovon Sie reden, und sie geben dem Kunden Sicherheit, bevor er zum ersten Mal in die Werkstatt kommt. Wie man solche Texte für Suchmaschinen aufbaut, erklärt der Ratgeber zu <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a>.</p>"
+    },
+    {
+      "h2": "Wann sich das nicht lohnt",
+      "html": "<p>Wenn Ihre Tischlerei fast nur für Bauträger, Architekten oder Objekteinrichter arbeitet, bringt eine aufwendige Privatkunden-Website wenig. Dann zählen eher eine saubere Referenzseite und ein gepflegter Auftritt für Geschäftspartner. Auch ein Chatbot ist bei Tischlereien selten das Erste, denn Möbel nach Maß werden im Gespräch verkauft.</p><p>Im kostenlosen Erstgespräch mit Jonas Mühlberger klären wir, welche Kunden Sie mehr wollen, und daraus ergibt sich, was Sie brauchen. Den Ablauf beschreibt die Seite <a href=\"/ablauf/\">So arbeiten wir</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll eine Tischlerei Preise auf der Website nennen?",
+      "a": "Feste Preise sind bei Einzelanfertigungen kaum möglich, aber ein ehrlicher Rahmen hilft. Etwa: „Ein Einbauschrank nach Maß beginnt bei uns in der Regel bei …“, ergänzt um das, was den Preis beeinflusst, also Holzart, Oberfläche, Beschläge und Montage. So melden sich Kunden, die zu Ihrem Preisniveau passen, und Sie verbringen weniger Zeit mit Angeboten, die nie angenommen werden."
+    },
+    {
+      "q": "Wie viele Projektfotos braucht die Website einer Tischlerei?",
+      "a": "Lieber zehn gute Projekte mit kurzer Beschreibung als hundert Bilder ohne Zusammenhang. Wichtig sind verschiedene Bereiche, die Sie anbieten, etwa Küche, Schlafzimmer, Bad und Stiegen, damit jeder Besucher etwas Passendes findet. Die Bilder sollten bei Tageslicht und ohne Unordnung im Hintergrund entstehen. Ein Handy reicht, wenn Licht und Ausschnitt stimmen."
+    },
+    {
+      "q": "Was macht Pipeflow genau für eine Tischlerei?",
+      "a": "Pipeflow liest die Inhalte Ihrer Website, etwa neue Projekte, und macht daraus jede Woche fertige Social-Media-Beiträge mit Bild für Instagram und LinkedIn. Sie bekommen die Beiträge zur Freigabe, ändern bei Bedarf einen Satz und geben sie frei. Ohne Freigabe wird nichts veröffentlicht. In der Pilotphase ist Pipeflow kostenlos, der Start erfolgt über app.pipeflow.at."
+    },
+    {
+      "q": "Was kostet eine Website für eine kleine Tischlerei?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. und umfasst Smartphone-Optimierung, Kontaktformular, Impressum, Datenschutz und Hosting. Für eine Tischlerei könnten das Startseite, Leistungen, Projekte, Über uns und Kontakt sein. Wer eine große Projektgalerie oder einen eigenen Bereich für Küchenplanung möchte, bekommt nach dem Erstgespräch ein schriftliches Angebot."
+    }
+  ],
+  "verwandt": ["/wissen/website-fotos/", "/wissen/referenzen-zeigen/", "/leistungen/social-media-automatisierung/", "/produkte/pipeflow/", "/branchen/zimmerei/"],
+  "checks": ["website-entwurf", "social-media-test"]
+}

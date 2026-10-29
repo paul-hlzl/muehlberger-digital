@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/website-erstellen/melk/",
+  "title": "Website erstellen lassen in Melk: Donau und Hinterland",
+  "description": "Website erstellen lassen in Melk: schnell und fürs Handy gebaut, für Radfahrer, Ausflügler und Betriebe im Hinterland des Bezirks. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Melk",
+  "kicker": "Website · Bezirk Melk",
+  "lead": "Rund um Melk mit dem Stift und dem Donauradweg sind viele Kunden unterwegs: Radfahrer, Ausflügler, Durchreisende. Sie entscheiden am Handy und in Sekunden. Gleichzeitig reicht der Bezirk weit ins ländliche Hinterland bis Pöggstall, wo Stammkundschaft zählt. Mühlberger Digital vermittelt Websites ab 2.500 €, die für beide Situationen funktionieren.",
+  "fakten": [
+    "Stift Melk und Donauradweg bringen viele Gäste, die unterwegs suchen",
+    "Unterwegs zählt: schnelle Ladezeit, gut lesbar am Handy",
+    "Im Hinterland zählen Stammkunden und Mundpropaganda",
+    "Mühlberger Digital sitzt in Ottenschlag, nicht weit vom Bezirk Melk entfernt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wer unterwegs sucht, wartet nicht",
+      "html": "<p>Ein Radfahrer auf dem Donauradweg, der ein Quartier für die Nacht oder eine Werkstatt für einen platten Reifen sucht, hat das Handy in der Hand und wenig Geduld. Lädt die Seite langsam oder muss er zoomen, ist er schon beim nächsten Ergebnis.</p><p>Für Betriebe entlang der Donau ist die mobile Darstellung deshalb kein Zusatz, sondern der Normalfall. Der Ratgeber <a href=\"/wissen/mobile-optimierung/\">Mobile Optimierung</a> zeigt, worauf es ankommt, der Beitrag <a href=\"/wissen/website-ladezeit-verbessern/\">Ladezeit verbessern</a> erklärt, warum jede Sekunde zählt.</p>"
+    },
+    {
+      "h2": "Checkliste für Betriebe mit Durchreisenden",
+      "html": "<ul><li>Telefonnummer und Adresse mit einem Fingertipp nutzbar, Route direkt in die Karten-App</li><li>Freie Zimmer oder Öffnungszeiten auf der Startseite, nicht in einem Untermenü</li><li>Hinweise für Radfahrer: Abstellplatz, Gepäck, Ladestation für E-Bikes, falls vorhanden</li><li>Kurze Texte, große Schaltflächen, wenige gut gewählte Fotos</li></ul><p>Für Unterkünfte gibt die Seite für <a href=\"/branchen/hotel/\">Hotels und Pensionen</a> weitere Anregungen.</p>"
+    },
+    {
+      "h2": "Im Hinterland gelten andere Regeln",
+      "html": "<p>Weiter nördlich, in Richtung Yspertal und <a href=\"/regionen/poeggstall/\">Pöggstall</a>, sieht es anders aus. Eine Bäckerei mit Filiale im Ort, ein Installateur mit Kunden in den umliegenden Dörfern oder ein Tischler mit Stammkundschaft brauchen keine Touristenseite. Sie brauchen einen gepflegten Auftritt, der neuen Kunden zeigt, was Bekannte ohnehin wissen: wer man ist, was man macht und wie man erreichbar ist.</p>"
+    },
+    {
+      "h2": "Persönlich betreut, klar kalkuliert",
+      "html": "<p>Weil Mühlberger Digital in Ottenschlag sitzt, ist der Weg in den Bezirk Melk kurz. Termine vor Ort sind gut möglich. Die Starter-Website mit bis zu fünf Seiten beginnt bei 2.500 €, Umsetzung durch Pipeline AI Solutions. Mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> und <a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie schnell muss eine Website am Handy laden?",
+      "a": "So schnell wie möglich, als Richtwert sollten die wichtigsten Inhalte nach wenigen Sekunden sichtbar sein. Unterwegs ist der Empfang oft schwächer als zu Hause, große Bilder und viele Zusatzprogramme bremsen dann spürbar. Bei der Umsetzung werden Bilder verkleinert und unnötiger Ballast weggelassen. Ob Ihre bestehende Seite zu langsam ist, zeigt ein kostenloser SEO-Test."
+    },
+    {
+      "q": "Lohnt sich eine Website für eine Pension, die über Buchungsplattformen gut gebucht ist?",
+      "a": "Oft ja, als Ergänzung. Viele Gäste finden Sie auf einer Plattform und schauen danach auf Ihrer eigenen Website nach, ob es Sie wirklich gibt und wie es vor Ort aussieht. Eine eigene Seite ermöglicht auch Direktanfragen, bei denen keine Provision anfällt. Ob sich das rechnet, hängt davon ab, wie viele Gäste direkt buchen würden."
+    },
+    {
+      "q": "Mein Betrieb lebt von Stammkunden. Was bringt mir eine Website?",
+      "a": "Sie hilft vor allem bei den Menschen, die Sie noch nicht kennen: Zugezogene, junge Familien oder Kunden, denen Sie empfohlen wurden und die vor dem Anruf kurz nachschauen. Außerdem beantwortet sie Routinefragen wie Öffnungszeiten. Eine einfache Seite mit wenigen Unterseiten reicht dafür. Mehr ist nur nötig, wenn Sie gezielt wachsen wollen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-melk/",
+    "/regionen/poeggstall/",
+    "/wissen/mobile-optimierung/",
+    "/branchen/hotel/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

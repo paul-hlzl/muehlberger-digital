@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/physiotherapie/",
+  "title": "Digitale Lösungen für Physiotherapie: Termine & Absagen",
+  "description": "Telefonieren während der Behandlung, kurzfristige Absagen, Terminserien und Fragen zur Verordnung: Wie Physiotherapeuten ihren Alltag digital entlasten.",
+  "h1": "Digitale Lösungen für Physiotherapie",
+  "kicker": "Branche · Physiotherapie",
+  "lead": "Viele Physiotherapeuten arbeiten allein oder in kleinen Praxen ohne Empfang, und während einer Behandlung kann niemand ans Telefon gehen. Am meisten helfen eine Website, die Fragen zu Verordnung und Kosten beantwortet, eine Lösung für Anrufe während der Behandlung und ein einfacher Weg, kurzfristig frei gewordene Termine wieder zu vergeben.",
+  "fakten": [
+    "Anrufe während der Behandlung annehmen lassen, statt zwischen den Patienten zurückzurufen",
+    "Kurzfristige Absagen mit einer Warteliste wieder füllen",
+    "Fragen zu Verordnung, Wahltherapeut und Rückerstattung allgemein auf der Website beantworten",
+    "KI-Telefonassistent auf Anfrage, Pipebot 19 € pro Monat mit 30 Tagen gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das Telefon läutet, die Hände sind am Patienten",
+      "html": "<p>Eine selbstständige Physiotherapeutin behandelt im Stundentakt. Das Telefon läutet während der Mobilisation einer Schulter, und ans Telefon zu gehen wäre unprofessionell. Also bleibt die Mobilbox, und zwischen zwei Patienten werden fünf Rückrufe in zehn Minuten gequetscht.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> kann Anrufe annehmen, das Anliegen aufnehmen, etwa neue Verordnung, Terminverschiebung oder Frage zu Kosten, und eine geordnete Liste anlegen. Gesundheitsdaten sollten dabei so wenig wie möglich abgefragt werden. Der Preis ist auf Anfrage. Wie man Erreichbarkeit grundsätzlich löst, beschreibt der Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Terminserien und kurzfristige Absagen",
+      "html": "<p>Physiotherapie läuft meist in Serien: mehrere Einheiten im Abstand von einigen Tagen. Fällt ein Termin kurzfristig aus, weil ein Patient krank ist, entsteht eine Lücke, die sich am selben Tag kaum füllen lässt.</p><ul><li>Eine Warteliste mit Patienten, die kurzfristig können, und eine automatische Nachricht bei frei gewordenen Terminen.</li><li>Eine klare Absageregel auf der Website, freundlich formuliert.</li><li>Eine Erinnerung am Vortag, die Ausfälle oft verringert.</li></ul><p>Für planbare Ersttermine kann eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a> sinnvoll sein, für Serien eher eine Abstimmung in der ersten Einheit.</p>"
+    },
+    {
+      "h2": "Verordnung, Wahltherapeut, Rückerstattung: die Kostenfrage",
+      "html": "<p>Neue Patienten fragen fast immer dasselbe: Brauche ich eine Verordnung vom Arzt? Muss die bewilligt werden? Was kostet eine Einheit, und wie viel bekomme ich von der Kasse zurück? Die genauen Regeln hängen von der Krankenversicherung ab und können sich ändern.</p><p>Auf der Website sollten Sie deshalb erklären, wie es bei Ihnen abläuft, ob Sie mit Kassenvertrag oder als Wahltherapeut arbeiten, was eine Einheit kostet und welche Unterlagen der Patient für die Rückerstattung braucht. Für Details verweisen Sie auf die jeweilige Krankenkasse, statt Beträge zu nennen, die Sie nicht garantieren können.</p>"
+    },
+    {
+      "h2": "Hausbesuche und Spezialgebiete sichtbar machen",
+      "html": "<p>Viele Physiotherapeuten haben Schwerpunkte, etwa Sportphysiotherapie, Therapie nach Operationen, Beckenboden, Kinder oder Hausbesuche für ältere Menschen. Patienten suchen gezielt danach. Eine eigene kurze Seite pro Schwerpunkt, mit Ablauf und für wen das geeignet ist, wird besser gefunden als eine Liste.</p><p>Für Hausbesuche ist das Einsatzgebiet wichtig: Welche Gemeinden fahren Sie an? Wie lokale Sichtbarkeit funktioniert, erklärt der Ratgeber zu <a href=\"/wissen/lokales-seo/\">lokalem SEO</a>.</p>"
+    },
+    {
+      "h2": "Zusammenarbeit mit Ärzten",
+      "html": "<p>Viele Patienten kommen über Empfehlungen von Ärzten. Eine klare Website, auf die Sie verweisen können, mit Schwerpunkten, Kontakt und Wartezeit auf einen Ersttermin, macht es Ärzten leichter, Sie zu empfehlen. Wie Arztpraxen digital arbeiten, steht auf der Seite für <a href=\"/branchen/arztpraxis/\">Arztpraxen</a>.</p><p>Wer mit Ärzten oder Kollegen online Fälle bespricht, kann Protokolle mit noteit automatisch erstellen lassen. Ob dabei Gesundheitsdaten verarbeitet werden dürfen, klären Sie bitte vorher im Einzelfall.</p>"
+    },
+    {
+      "h2": "Womit Sie anfangen sollten",
+      "html": "<p>Zuerst eine Website mit Ablauf, Kosten, Verordnungsinfo und Schwerpunkten. Dann die Telefonentlastung, wenn Sie allein arbeiten. Einen Chatbot wie Pipebot brauchen Sie nur, wenn trotz guter Website viele gleiche Fragen kommen.</p><p>Wie Ihre Startseite aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">kostenlose Website-Entwurf</a>. Das Erstgespräch findet abends statt, nach der letzten Behandlung.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie gehe ich mit Anrufen während der Behandlung um?",
+      "a": "Die meisten Physiotherapeuten nutzen heute die Mobilbox und rufen zwischen den Patienten zurück. Das kostet Pausen und führt zu Rückrufketten. Ein KI-Telefonassistent nimmt Anrufe an, fragt das Anliegen ab und legt eine geordnete Liste an, sodass Sie gezielt zurückrufen. Medizinische Auskünfte gibt er nicht, und Gesundheitsdaten sollten so wenig wie möglich erfasst werden."
+    },
+    {
+      "q": "Wie fülle ich kurzfristig abgesagte Termine wieder?",
+      "a": "Mit einer Warteliste von Patienten, die kurzfristig Zeit haben, und einer automatischen Nachricht, sobald ein Termin frei wird. Wer zuerst antwortet, bekommt den Termin. Das lässt sich per SMS oder WhatsApp lösen, setzt aber die Einwilligung der Patienten voraus. Ergänzend verringert eine Erinnerung am Vortag oft die Zahl der Ausfälle."
+    },
+    {
+      "q": "Soll ich Preise auf meiner Physiotherapie-Website nennen?",
+      "a": "Wenn Sie als Wahltherapeut arbeiten, ja. Patienten wollen wissen, was eine Einheit kostet, bevor sie anrufen. Nennen Sie Ihren Preis pro Einheit und erklären Sie allgemein, wie die Rückerstattung über die Krankenkasse funktioniert. Konkrete Rückerstattungsbeträge sollten Sie nicht nennen, weil sie von der Kasse abhängen und sich ändern können. Verweisen Sie dafür auf die jeweilige Krankenkasse."
+    },
+    {
+      "q": "Was kostet eine Website für eine Physiotherapiepraxis?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Für eine Physiotherapiepraxis könnten das Startseite, Schwerpunkte, Ablauf und Kosten, Über mich und Kontakt sein. Telefonassistent, Warteliste oder Online-Buchung werden nach dem Erstgespräch mit klarem Preis schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/erreichbarkeit/", "/leistungen/ki-telefonassistent/", "/wissen/online-terminbuchung/", "/wissen/lokales-seo/", "/branchen/arztpraxis/"],
+  "checks": ["website-entwurf"]
+}

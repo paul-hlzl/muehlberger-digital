@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/zahlungsarten-onlineshop/",
+  "title": "Zahlungsarten im Onlineshop: Was Kunden erwarten",
+  "description": "Zahlungsarten im Onlineshop für Österreich: Karte, PayPal, eps, Rechnung, Apple Pay und Co. – Vor- und Nachteile, Kosten und wie viele Optionen sinnvoll sind.",
+  "h1": "Zahlungsarten im Onlineshop: Die richtige Auswahl",
+  "kicker": "Ratgeber · Onlineshop",
+  "lead": "Für einen Onlineshop in Österreich sind Kreditkarte bzw. Debitkarte, PayPal und eine Online-Überweisung wie eps eine solide Grundausstattung, ergänzt um Apple Pay und Google Pay für Handy-Käufer. Kauf auf Rechnung erhöht oft die Bereitschaft zu kaufen, birgt aber ein Zahlungsausfallsrisiko, das Sie selbst tragen oder an einen Dienstleister abgeben. Wichtiger als möglichst viele Optionen ist, dass die gewohnten dabei sind und die Kasse reibungslos funktioniert.",
+  "fakten": [
+    "Grundausstattung: Karte, PayPal, Online-Überweisung, dazu Wallets wie Apple Pay und Google Pay",
+    "Ein Zahlungsanbieter bündelt viele Zahlungsarten über einen einzigen Vertrag",
+    "Jede Zahlungsart kostet Gebühren, meist abhängig vom Umsatz oder pro Transaktion",
+    "Kauf auf Rechnung ist beliebt, aber nur mit Prüfung oder Absicherung empfehlenswert",
+    "Fehlende gewohnte Zahlungsarten sind ein häufiger Grund für abgebrochene Bestellungen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die gängigen Zahlungsarten im Überblick",
+      "html": "<ul><li><strong>Kredit- und Debitkarte:</strong> international verbreitet, schnell, Geld ist gesichert. Für Kunden mit Bankomatkarte mit Debitfunktion ebenfalls nutzbar.</li><li><strong>PayPal:</strong> für viele die bequemste Variante, weil keine Kartendaten eingegeben werden müssen.</li><li><strong>eps-Überweisung:</strong> österreichisches Online-Überweisungsverfahren direkt aus dem eigenen Online-Banking, sofortige Zahlungsbestätigung.</li><li><strong>Apple Pay und Google Pay:</strong> Zahlung mit Fingerabdruck oder Gesichtserkennung am Handy, besonders praktisch bei mobilen Käufen.</li><li><strong>Kauf auf Rechnung und Ratenzahlung:</strong> meist über spezialisierte Anbieter wie Klarna, die das Ausfallsrisiko übernehmen.</li><li><strong>Vorkasse per Überweisung:</strong> ohne Gebühren, aber umständlich, und die Ware geht erst nach Zahlungseingang raus.</li><li><strong>Nachnahme und Barzahlung bei Abholung:</strong> für bestimmte Zielgruppen und regionale Shops weiterhin sinnvoll.</li></ul>"
+    },
+    {
+      "h2": "Zahlungsanbieter: Ein Vertrag, viele Zahlungsarten",
+      "html": "<p>Statt mit jeder Bank und jedem Kartenunternehmen einzeln zu verhandeln, nutzen die meisten Shops einen <a href=\"/glossar/payment-provider/\">Payment-Provider</a>. Das ist ein Dienstleister, der Zahlungen abwickelt, das Geld sammelt und auf Ihr Konto überweist. Bekannte Anbieter sind etwa Stripe, Mollie oder Adyen, viele Shop-Plattformen haben zudem eigene Lösungen.</p><p>Beim Vergleich zählen nicht nur die Gebühren. Achten Sie auch darauf:</p><ul><li>Welche Zahlungsarten sind enthalten, insbesondere eps für österreichische Kunden?</li><li>Wie schnell wird ausgezahlt, täglich oder wöchentlich?</li><li>Gibt es eine Grundgebühr, oder zahlen Sie nur pro Transaktion?</li><li>Wie läuft eine Rückerstattung, und was kostet sie?</li><li>Ist der Support erreichbar, wenn eine Zahlung hängt?</li></ul>"
+    },
+    {
+      "h2": "Kauf auf Rechnung: Chance und Risiko",
+      "html": "<p>Viele Kundinnen kaufen lieber auf Rechnung, weil sie erst zahlen, wenn die Ware angekommen ist und passt. Für den Shop bedeutet das: Die Ware ist weg, das Geld noch nicht da. Bei Nichtzahlung bleiben Mahnaufwand und Ausfall bei Ihnen.</p><p>Zwei Wege sind üblich. Entweder Sie bieten Rechnungskauf nur Stammkunden oder bis zu einem bestimmten Betrag an. Oder Sie geben ihn an einen Anbieter ab, der die Bonität prüft und das Risiko übernimmt, gegen eine höhere Gebühr.</p><p>Ein Beispiel: Ein kleiner Weinversand bietet Rechnung nur für Kunden an, die schon einmal bezahlt haben. Neukunden zahlen mit Karte, PayPal oder eps. So bleibt das Risiko überschaubar, und treue Kunden schätzen die Bequemlichkeit.</p>"
+    },
+    {
+      "h2": "Wie viele Zahlungsarten sind sinnvoll?",
+      "html": "<p>Mehr ist nicht automatisch besser. Eine überladene Kasse mit zehn Logos verunsichert, und jede Zahlungsart verursacht Aufwand bei Buchhaltung und Rückerstattungen. Für die meisten kleinen Shops in Österreich reichen vier bis fünf Optionen.</p><ol><li>Karte (Kredit und Debit)</li><li>PayPal</li><li>eps-Überweisung</li><li>Apple Pay und Google Pay</li><li>Optional: Rechnung bzw. Raten über einen Anbieter, oder Barzahlung bei Abholung</li></ol><p>Prüfen Sie nach einigen Monaten, welche Arten tatsächlich genutzt werden. Eine Zahlungsart, die kaum jemand wählt, kann wieder entfallen.</p>"
+    },
+    {
+      "h2": "Die Kasse richtig gestalten",
+      "html": "<p>Neben der Auswahl zählt, wie die Kasse aussieht. Viele Käufe scheitern an Kleinigkeiten:</p><ul><li><strong>Gastbestellung erlauben:</strong> Nicht jeder will ein Kundenkonto anlegen.</li><li><strong>Kosten früh zeigen:</strong> Versandkosten und Gesamtpreis vor dem letzten Schritt.</li><li><strong>Handy-tauglich:</strong> große Felder, passende Tastatur für Zahlen, Wallets ganz oben.</li><li><strong>Vertrauen:</strong> sichere Verbindung über <a href=\"/wissen/ssl-https/\">HTTPS</a>, klare Firmenangaben, erreichbarer Kontakt.</li><li><strong>Bestätigung:</strong> sofortige E-Mail mit Bestellübersicht und Zahlungsstatus.</li></ul><p>Testen Sie jede Zahlungsart vor dem Start mit echten Kleinbeträgen und einer Rückerstattung. Erst dann wissen Sie, dass das Geld wirklich ankommt und die Buchhaltung die Daten richtig erhält.</p>"
+    },
+    {
+      "h2": "Rechtliches und Sicherheit",
+      "html": "<p>Für Zahlungen im Internet verlangt die EU eine starke Kundenauthentifizierung, etwa Bestätigung in der Banking-App. Gute Zahlungsanbieter erledigen das automatisch. Kartendaten sollten nie auf Ihrem eigenen Server landen, sondern direkt beim Anbieter verarbeitet werden. Zusätzliche Gebühren für bestimmte Zahlungsarten an Verbraucher weiterzuverrechnen, ist in der EU weitgehend unzulässig.</p><p>Die Zahlungsanbieter müssen in Ihrer <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> genannt sein. Als Orientierung zu Pflichten im Fernabsatz hilft die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>. Wenn Sie einen Shop planen, finden Sie unter <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen lassen</a> unser Vorgehen; welche Zahlungsarten zu Ihrer Kundschaft passen, besprechen wir gern im <a href=\"/erstgespraech/\">Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Zahlungsarten sind in Österreich am wichtigsten?",
+      "a": "Für die meisten Shops gehören Karte, PayPal und die österreichische Online-Überweisung eps zur Grundausstattung. Apple Pay und Google Pay werden bei Käufen am Handy immer wichtiger. Kauf auf Rechnung schätzen viele Kunden, sollte aber abgesichert sein. Welche Arten Ihre Kundschaft bevorzugt, zeigt sich nach einigen Monaten in der Auswertung Ihres Shops."
+    },
+    {
+      "q": "Was kosten Zahlungsarten im Onlineshop?",
+      "a": "Zahlungsanbieter verrechnen meist einen Prozentsatz vom Umsatz, eine fixe Gebühr pro Transaktion oder beides. Rechnungs- und Ratenkauf mit Risikoübernahme ist in der Regel teurer als Kartenzahlung. Manche Anbieter haben zusätzlich Grundgebühren. Vergleichen Sie die Konditionen anhand Ihres erwarteten Umsatzes und der durchschnittlichen Bestellhöhe, nicht nur anhand einzelner Prozentsätze."
+    },
+    {
+      "q": "Brauche ich PayPal im Onlineshop?",
+      "a": "Pflicht ist es nicht, aber viele Kunden erwarten PayPal und kaufen ohne diese Option seltener. PayPal ist besonders beliebt bei Käufern, die ihre Kartendaten nicht eingeben möchten oder keine Kreditkarte haben. Die Gebühren sollten Sie mit anderen Zahlungsarten vergleichen. Für die meisten Shops überwiegt der Nutzen, PayPal anzubieten."
+    },
+    {
+      "q": "Ist Vorkasse per Überweisung noch zeitgemäß?",
+      "a": "Als einzige Zahlungsart nicht, weil sie umständlich ist und die Lieferung verzögert. Als zusätzliche Option kann sie sinnvoll sein, etwa für Firmenkunden oder größere Bestellungen, weil keine Gebühren anfallen. Die eps-Überweisung ist für österreichische Kunden die bequemere Alternative, weil die Zahlung sofort bestätigt wird und die Ware gleich verschickt werden kann."
+    }
+  ],
+  "verwandt": ["/wissen/onlineshop-starten/", "/wissen/versand-onlineshop/", "/glossar/payment-provider/", "/leistungen/onlineshop-erstellen/", "/wissen/agb-onlineshop/"],
+  "checks": ["website-entwurf"]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/bezirk-melk/",
+  "title": "Digitalagentur Bezirk Melk: Donau, Stift und Hinterland",
+  "description": "Website, KI-Chatbot und Google-Profil für Gastgeber, Gastronomie und Betriebe im Bezirk Melk – von der Donau bis ins südliche Waldviertel, persönlich beraten.",
+  "h1": "Digitalagentur für den Bezirk Melk – ein Bezirk, zwei Viertel",
+  "kicker": "Region · Bezirk",
+  "lead": "Im Bezirk Melk berät Mühlberger Digital Gastgeber, Gastronomie, Handwerk und Gewerbe persönlich zu Website, KI-Chatbot und Google-Profil. Der Bezirk reicht vom Mostviertel südlich der Donau bis ins südliche Waldviertel, und der Sitz in Ottenschlag liegt nicht weit entfernt.",
+  "fakten": [
+    "Bezirk an der Donau mit Stift Melk am Beginn der Wachau",
+    "Südlich der Donau Mostviertel, nördlich davon das südliche Waldviertel",
+    "Viele Radfahrer am Donauradweg und Ausflugsgäste",
+    "Persönliche Termine gut möglich, Erstgespräch kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwischen Mostviertel und Waldviertel",
+      "html": "<p>Der Bezirk Melk liegt an der Donau. Die Bezirkshauptstadt Melk mit ihrem Stift ist eines der bekanntesten Ausflugsziele Österreichs und markiert den westlichen Beginn der Wachau. Südlich der Donau gehört der Bezirk zum <a href=\"/regionen/mostviertel/\">Mostviertel</a>, nördlich davon zum südlichen <a href=\"/regionen/waldviertel/\">Waldviertel</a> mit Orten wie <a href=\"/regionen/poeggstall/\">Pöggstall</a>. Dazu kommen Donauorte wie Pöchlarn und Ybbs.</p><p>Diese Lage macht den Bezirk vielseitig: Tourismus an der Donau, Landwirtschaft und Handwerk im Hinterland, Gewerbe entlang der Westautobahn.</p>"
+    },
+    {
+      "h2": "Radfahrer und Tagesgäste: Fragen, die immer wieder kommen",
+      "html": "<p>Am Donauradweg sind viele Radfahrer unterwegs, dazu kommen Tagesgäste mit Bus, Schiff und Auto. Sie stellen immer wieder dieselben Fragen: Gibt es eine Fahrradgarage? Kann man ohne Reservierung essen? Ist am Montag offen? Ein <a href=\"/leistungen/ki-chatbot/melk/\">KI-Chatbot für Betriebe in Melk</a> beantwortet sie mit den Inhalten Ihrer Website, rund um die Uhr und auch auf Englisch.</p><ul><li>Eine Pension nahe dem Radweg spart sich viele E-Mails zu Anreise und Gepäck.</li><li>Ein Heuriger beantwortet automatisch, wann ausg'steckt ist.</li><li>Ein Fahrradverleih zeigt Preise und Verfügbarkeit klar auf der Website.</li></ul>"
+    },
+    {
+      "h2": "Im Hinterland: Handwerk, Landwirtschaft und weite Wege",
+      "html": "<p>Abseits der Donau sieht die Lage anders aus. Im südlichen Waldviertel und im Alpenvorland gibt es viele Familienbetriebe, deren Kundschaft aus mehreren Orten kommt. Hier zählt, dass ein Betrieb bei der Suche mit Ortsnamen gefunden wird und dass die Website klar sagt, in welchen Gemeinden er arbeitet. Die Starter-Website ab 2.500 € einmalig ist dafür oft ausreichend. Mehr dazu unter <a href=\"/leistungen/website-erstellen/melk/\">Website erstellen in Melk</a>.</p>"
+    },
+    {
+      "h2": "Warum lokale Sichtbarkeit im Bezirk Melk zählt",
+      "html": "<p>Gäste, die zum ersten Mal in der Region sind, kennen keinen Betrieb beim Namen. Sie verlassen sich auf Google, Bewertungen und zunehmend auf KI-Suchen. Ein vollständiges Google-Profil mit Fotos, richtigen Öffnungszeiten und echten Bewertungen bringt oft mehr als eine teure Anzeige. Der Gratis-Check zum Chatbot zeigt zusätzlich, welche Fragen Ihre Website heute schon beantworten kann.</p>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital im Bezirk Melk",
+      "html": "<p>Vom Sitz in Ottenschlag ist der Bezirk Melk gut erreichbar, besonders der nördliche Teil. Persönliche Termine sind nach Absprache gut möglich, auch direkt im Betrieb. Die Termine liegen Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Umgesetzt wird von Pipeline AI Solutions, mit klaren Preisen und schriftlichem Angebot.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Chatbot für eine Pension im Bezirk Melk?",
+      "a": "Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis. Der Chatbot antwortet rund um die Uhr nur mit den Inhalten Ihrer Website, passt sich im Design an und verbindet bei Unsicherheit mit Ihnen. Für eine Pension mit vielen Anfragen zu Anreise, Fahrrädern oder Frühstück kann das spürbar entlasten."
+    },
+    {
+      "q": "Gehört der Bezirk Melk zum Waldviertel oder zum Mostviertel?",
+      "a": "Zu beiden. Der Teil südlich der Donau zählt zum Mostviertel, der Teil nördlich der Donau zum südlichen Waldviertel, etwa rund um Pöggstall. Für die digitale Planung ist das wichtig, weil sich Kundschaft und Gäste unterscheiden: an der Donau viele Ausflügler, im Hinterland vor allem Menschen aus der Umgebung."
+    },
+    {
+      "q": "Kommt Mühlberger Digital persönlich in den Bezirk Melk?",
+      "a": "Ja. Der Sitz in Ottenschlag liegt nicht weit vom Bezirk Melk entfernt, persönliche Termine sind daher nach Absprache gut möglich, auch in Ihrem Betrieb. Alternativ geht das Gespräch telefonisch oder per Video-Call. Das Erstgespräch dauert etwa 30 Minuten und ist kostenlos."
+    }
+  ],
+  "verwandt": [
+    "/regionen/poeggstall/",
+    "/regionen/mostviertel/",
+    "/branchen/ferienwohnung/",
+    "/produkte/pipebot/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "seo-check"
+  ]
+}

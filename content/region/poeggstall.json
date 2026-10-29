@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/poeggstall/",
+  "title": "Digitalagentur Pöggstall: Regionales online zeigen",
+  "description": "Für Direktvermarkter, Hofläden und kleine Betriebe in Pöggstall im südlichen Waldviertel: Website, einfache Bestellwege und Beratung persönlich vor Ort.",
+  "h1": "Digitalagentur für Pöggstall",
+  "kicker": "Region · Bezirk Melk, Waldviertel",
+  "lead": "Pöggstall liegt im Bezirk Melk im südlichen Waldviertel. Wer hier Regionales herstellt oder verkauft, ob Hofladen, Bäckerei oder Direktvermarkter, hat oft treue Kundschaft, aber wenig Zeit für Technik. Mühlberger Digital zeigt, wie solche Betriebe online sichtbar werden und Bestellungen einfach annehmen – ohne gleich einen großen Onlineshop.",
+  "fakten": [
+    "Pöggstall liegt im Bezirk Melk, im südlichen Waldviertel, Niederösterreich",
+    "Schwerpunkt: Direktvermarktung, Hofläden und kleine Lebensmittelbetriebe",
+    "Erstgespräch kostenlos, persönlich vor Ort oder per Video",
+    "Onlineshops als individuelles Projekt, Preis nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vom Hoftor ins Internet",
+      "html": "<p>Ein Hofladen lebt von Menschen, die wissen, dass es ihn gibt. Neue Kundschaft, etwa Zugezogene oder Gäste, findet ihn aber nur, wenn er online auftaucht: mit Adresse, Öffnungszeiten, dem aktuellen Angebot und dem Hinweis, ob es eine Selbstbedienung gibt. Das ist wenig Aufwand und rasch umgesetzt.</p><p>Der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online verkaufen</a> zeigt, welche Wege es gibt, von der einfachen Produktliste bis zum Versand.</p>"
+    },
+    {
+      "h2": "Bestellungen annehmen, ohne im Büro zu sitzen",
+      "html": "<p>Viele Direktvermarkter nehmen Bestellungen per Telefon, SMS oder auf Zuruf an und schreiben sie auf einen Zettel. Das funktioniert, bis es zu viele werden. Ein einfaches Bestellformular auf der Website, das Produkt, Menge und Abholtag abfragt und die Bestellung geordnet per E-Mail schickt, nimmt viel Druck heraus.</p><p>Ein richtiger Onlineshop mit Bezahlung und Versand lohnt sich erst, wenn Sie regelmäßig verschicken wollen. Wer nur ab Hof verkauft, braucht ihn meist nicht, und das sagen wir Ihnen auch so. Mehr dazu auf der Seite für <a href=\"/branchen/hofladen/\">Hofläden</a>.</p>"
+    },
+    {
+      "h2": "Was sonst noch hilft",
+      "html": "<ul><li><strong>Social Media ohne Aufwand</strong>: <a href=\"https://pipeflow.at/\">Pipeflow</a> macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram oder LinkedIn, Sie geben nur frei. In der Pilotphase ist das kostenlos.</li><li><strong>Google-Eintrag</strong>: Öffnungszeiten und saisonale Angebote aktuell halten, damit niemand vor verschlossener Tür steht.</li><li><strong>Starter-Website</strong>: ab 2.500 € einmalig, bis zu fünf Seiten, für Smartphone, Tablet und Computer.</li><li><strong>Ehrliche Texte</strong>: Wer hinter den Produkten steht und wie sie entstehen, interessiert Kundschaft oft mehr als jedes Werbewort.</li></ul>"
+    },
+    {
+      "h2": "Persönlich im südlichen Waldviertel",
+      "html": "<p>Pöggstall gehört zwar zum Bezirk Melk, liegt aber im Waldviertel und damit im persönlichen Schwerpunktgebiet von Mühlberger Digital. Jonas Mühlberger kommt für das Erstgespräch gern zu Ihnen auf den Hof oder in den Laden, Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr.</p><p>Die Seiten zum <a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a>, zum <a href=\"/regionen/waldviertel/\">Waldviertel</a> und zu <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>, dem Sitz von Mühlberger Digital, geben weitere Einblicke.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Direktvermarkter einen Onlineshop?",
+      "a": "Nicht unbedingt. Wenn Ihre Kundschaft ab Hof abholt, reichen oft eine Website mit aktuellem Angebot und ein Formular für Vorbestellungen. Ein Onlineshop mit Zahlung und Versand lohnt sich, wenn Sie regelmäßig verschicken oder Kundschaft außerhalb der Region erreichen wollen. Dann kommen Fragen wie Verpackung, Kühlung und Versandkosten dazu, die wir im Erstgespräch durchgehen."
+    },
+    {
+      "q": "Ich habe kaum Zeit für Social Media. Gibt es eine einfache Lösung?",
+      "a": "Ja. Pipeflow erstellt aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn. Sie sehen die Beiträge vorab und geben sie nur frei. Während der Pilotphase ist Pipeflow kostenlos. Voraussetzung ist eine Website mit brauchbaren Inhalten, aus denen sich sinnvolle Beiträge erstellen lassen."
+    },
+    {
+      "q": "Was muss ich beim Online-Verkauf von Lebensmitteln rechtlich beachten?",
+      "a": "Für den Verkauf von Lebensmitteln gelten eigene Vorschriften, etwa zu Kennzeichnung und Hygiene, beim Versand zusätzlich Regeln für den Fernabsatz. Was genau gilt, hängt stark von Produkt und Verkaufsweg ab. Für eine verbindliche Auskunft wenden Sie sich bitte an die Wirtschaftskammer, die Landwirtschaftskammer oder eine Rechtsberatung. Wir sorgen dafür, dass Ihre Website die nötigen Angaben gut sichtbar zeigen kann."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-melk/",
+    "/regionen/waldviertel/",
+    "/regionen/niederoesterreich/",
+    "/branchen/hofladen/",
+    "/wissen/regionale-produkte-online/"
+  ],
+  "checks": [
+    "social-media-test",
+    "website-entwurf"
+  ]
+}

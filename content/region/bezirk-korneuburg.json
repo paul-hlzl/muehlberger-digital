@@ -1,0 +1,65 @@
+{
+  "pfad": "/regionen/bezirk-korneuburg/",
+  "title": "Digitalagentur Bezirk Korneuburg: vor den Toren Wiens",
+  "description": "Website, Online-Termine und KI-Telefonassistent für Dienstleister und Handwerk im Bezirk Korneuburg – erreichbar für Pendler, auch am Abend.",
+  "h1": "Digitalagentur für den Bezirk Korneuburg – erreichbar für eine Pendlerregion",
+  "kicker": "Region · Bezirk",
+  "lead": "Im Bezirk Korneuburg berät Mühlberger Digital Dienstleister, Praxen und Handwerksbetriebe zu Website, Online-Terminbuchung und KI-Assistenten. Viele Kundinnen und Kunden arbeiten tagsüber in Wien, deshalb geht es vor allem um Erreichbarkeit am Abend und am Wochenende.",
+  "fakten": [
+    "Bezirk im Weinviertel, direkt nördlich von Wien an der Donau",
+    "Bezirkshauptstadt Korneuburg, dazu Stockerau, Bisamberg und Burg Kreuzenstein",
+    "Viele Pendler: Anfragen kommen oft außerhalb der Geschäftszeiten",
+    "Erstgespräch kostenlos, per Video-Call oder vor Ort nach Absprache"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Weinviertel am Stadtrand",
+      "html": "<p>Der Bezirk Korneuburg liegt im Süden des <a href=\"/regionen/weinviertel/\">Weinviertels</a>, direkt an der Stadtgrenze zu <a href=\"/regionen/wien/\">Wien</a>. Die Bezirkshauptstadt Korneuburg und Stockerau liegen an der Donau, am Bisamberg wird Wein angebaut, und die Burg Kreuzenstein ist weithin sichtbar. Viele Menschen wohnen hier und arbeiten in Wien.</p><p>Das prägt den Alltag der Betriebe: Kundschaft hat tagsüber wenig Zeit und meldet sich, wenn sie nach Hause kommt.</p>"
+    },
+    {
+      "h2": "Erreichbarkeit, wenn die Kundschaft Zeit hat",
+      "html": "<p>Ein Friseursalon, eine Physiotherapie oder ein Installateur im Bezirk Korneuburg bekommt viele Anfragen am Abend, wenn das Geschäft schon geschlossen ist. Wer bis zum nächsten Tag wartet, verliert manchen Auftrag an den Mitbewerber. Drei Bausteine helfen:</p><ul><li><a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>, damit Kundschaft selbst einen freien Termin wählt</li><li>ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a>, der Anrufe außerhalb der Zeiten annimmt und Anliegen notiert, Preis auf Anfrage</li><li>ein Chatbot auf der Website, der Fragen zu Leistungen und Preisen sofort beantwortet</li></ul><p>Ehrlich gesagt: Wer wenige, planbare Termine hat, braucht davon wenig. Eine klare Website mit Rückrufformular reicht dann oft.</p>"
+    },
+    {
+      "h2": "Neu zugezogen? Dann wird online gesucht",
+      "html": "<p>Wer neu in eine Gemeinde nahe Wien zieht, kennt dort noch keinen Arzt, keine Werkstatt und keinen Tischler. Gesucht wird online, oft mit Ortsnamen. Betriebe mit vollständigem Google-Profil, echten Bewertungen und einer Website, die Einsatzgebiet und Leistungen klar nennt, haben dabei einen deutlichen Vorteil. Mehr dazu auf der Seite <a href=\"/leistungen/website-erstellen/korneuburg/\">Website erstellen in Korneuburg</a>.</p>"
+    },
+    {
+      "h2": "Typische Situationen im Bezirk Korneuburg",
+      "html": "<p>Ein Elektriker mit zwei Mitarbeitern ist tagsüber auf Baustellen und verpasst Anrufe. Ein Telefonassistent nimmt sie an und schickt ihm eine Zusammenfassung. Eine Steuerberatungskanzlei will Erstgespräche einfacher vereinbaren und bietet dafür Online-Termine an. Ein Heuriger am Bisamberg hält seine Ausschank-Zeiten online aktuell, damit Gäste aus Wien nicht umsonst kommen.</p>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital im Bezirk Korneuburg",
+      "html": "<p>Der Sitz von Mühlberger Digital ist in Ottenschlag im Waldviertel. Für den Bezirk Korneuburg läuft die Beratung meist per Video-Call, persönliche Termine gibt es nach Absprache. Die Abendtermine zwischen 18:00 und 21:30 Uhr passen gut, wenn auch Sie tagsüber im Betrieb gebunden sind. Umgesetzt wird von Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was macht ein KI-Telefonassistent für einen kleinen Betrieb?",
+      "a": "Ein KI-Telefonassistent nimmt Anrufe an, wenn Sie nicht abheben können, fragt das Anliegen ab und schickt Ihnen eine Zusammenfassung. So geht kein Auftrag verloren, nur weil Sie gerade auf der Baustelle oder in einer Behandlung sind. Der Assistent wird über Pipeline AI Solutions angeboten, der Preis richtet sich nach Bedarf und wird im Erstgespräch geklärt."
+    },
+    {
+      "q": "Lohnt sich Online-Terminbuchung im Bezirk Korneuburg?",
+      "a": "Für Betriebe mit vielen kurzen Terminen, etwa Friseur, Kosmetik oder Physiotherapie, oft ja. Kundinnen und Kunden, die tagsüber in Wien arbeiten, buchen dann am Abend selbst. Wichtig sind klare Regeln für Absagen und eine automatische Bestätigung. Wer nur wenige, lange Termine vergibt, kommt mit einem Anfrageformular meist genauso gut aus."
+    },
+    {
+      "q": "Gibt es persönliche Termine im Bezirk Korneuburg?",
+      "a": "Nach Absprache ja. Die meisten Gespräche laufen aber per Video-Call, weil der Sitz von Mühlberger Digital im Waldviertel liegt. Die Lösungen werden dabei live mit Ihren eigenen Daten gezeigt, etwa ein Entwurf für Ihre Startseite. Das Erstgespräch dauert etwa 30 Minuten und ist kostenlos."
+    },
+    {
+      "q": "Was kostet eine Website für einen Dienstleister im Bezirk Korneuburg?",
+      "a": "Die Starter-Website kostet ab 2.500 € einmalig, ohne USt. Enthalten sind bis zu fünf Seiten, Darstellung auf Smartphone, Tablet und Computer, Optimierung für Google und KI-Suchen, Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Eine Online-Terminbuchung oder ein Telefonassistent kommen bei Bedarf dazu und werden nach dem kostenlosen Erstgespräch im schriftlichen Angebot ausgewiesen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/weinviertel/",
+    "/regionen/wien/",
+    "/leistungen/ki-chatbot/korneuburg/",
+    "/wissen/erreichbarkeit/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/pwa/",
+  "title": "PWA einfach erklärt: Progressive Web App",
+  "description": "PWA einfach erklärt: Wie eine Progressive Web App Website und App verbindet, was sie offline und am Startbildschirm kann und wo ihre Grenzen liegen.",
+  "h1": "PWA – Progressive Web App",
+  "kicker": "Glossar · Apps",
+  "lead": "Eine PWA (Progressive Web App) ist eine Web-App, die sich wie eine installierte App verhält: Sie lässt sich auf den Startbildschirm legen, öffnet sich ohne Browserleiste und kann Inhalte für die Offline-Nutzung zwischenspeichern. Ein App-Store ist dafür nicht nötig.",
+  "fakten": [
+    "Technisch eine Website mit zusätzlichen App-Funktionen",
+    "Installation direkt aus dem Browser auf den Startbildschirm",
+    "Push-Nachrichten und Offline-Modus je nach Gerät möglich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine PWA im Betriebsalltag",
+      "html": "<p>Ein Sportverein möchte seinen Mitgliedern Trainingszeiten, Spielpläne und kurzfristige Absagen schnell zugänglich machen. Statt einer teuren App für iPhone und Android baut er eine PWA. Mitglieder öffnen die Adresse im Browser, tippen auf „Zum Startbildschirm hinzufügen“ und haben ein App-Symbol am Handy. Der zuletzt geladene Spielplan bleibt auch im Funkloch am Sportplatz sichtbar.</p><p>Möglich macht das ein sogenannter Service Worker, ein Programmteil im Browser, der Inhalte zwischenspeichert und Benachrichtigungen empfangen kann.</p>"
+    },
+    {
+      "h2": "Warum PWAs für KMU interessant sind",
+      "html": "<p>Eine PWA ist meist deutlich günstiger als zwei <a href=\"/glossar/native-app/\">native Apps</a> und wird mit einem Update für alle Geräte aktualisiert. Für Kundenportale, Vereins- und Mitarbeiter-Apps reicht sie oft völlig aus. Grenzen gibt es bei tiefen Gerätefunktionen, und auf iPhones sind manche Funktionen eingeschränkter als auf Android.</p><p>Die Grundlagen erklärt der Eintrag <a href=\"/glossar/web-app/\">Web-App</a>. Für interne Anwendungen lohnt der Ratgeber <a href=\"/wissen/app-fuer-mitarbeiter/\">App für Mitarbeiter</a>, für Vereine <a href=\"/wissen/digitalisierung-vereine/\">Digitalisierung im Verein</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich eine PWA im App Store veröffentlichen?",
+      "a": "Eine PWA braucht keinen App-Store, sie wird direkt aus dem Browser installiert. Wer trotzdem im Store auftauchen möchte, kann die PWA mit zusätzlichen Werkzeugen verpacken; das ist bei Google Play einfacher als im App Store von Apple. Ob sich das lohnt, hängt davon ab, wie Ihre Nutzer üblicherweise Apps suchen und installieren."
+    },
+    {
+      "q": "Funktionieren Push-Nachrichten bei einer PWA?",
+      "a": "Ja, auf vielen Geräten. Unter Android und auf Computern werden Push-Nachrichten für PWAs schon lange unterstützt. Auf iPhones funktionieren sie inzwischen ebenfalls, allerdings meist erst, wenn die PWA auf den Startbildschirm gelegt wurde. Weil sich die Unterstützung weiterentwickelt, sollten Sie das Verhalten auf den Geräten Ihrer Nutzer vor dem Start testen."
+    }
+  ],
+  "verwandt": [
+    "/glossar/web-app/",
+    "/vergleiche/native-app-oder-web-app/",
+    "/wissen/app-oder-website/",
+    "/leistungen/app-entwicklung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

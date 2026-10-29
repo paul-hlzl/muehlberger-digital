@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/website-mieten-oder-kaufen/",
+  "title": "Website mieten oder kaufen? Kosten und Rechte im Blick",
+  "description": "Website mieten mit Monatsrate oder einmalig kaufen? Gesamtkosten, Laufzeit, Eigentum und Kündigung im ehrlichen Vergleich – mit Empfehlung für KMU.",
+  "h1": "Website mieten oder kaufen?",
+  "kicker": "Vergleich · Kosten",
+  "lead": "Eine Mietwebsite schont zu Beginn das Budget, kostet über mehrere Jahre aber oft mehr und gehört Ihnen meist nicht. Eine gekaufte Website verlangt eine größere Einmalzahlung, dafür bleiben Design und Inhalte Ihr Eigentum und Sie können Hosting und Dienstleister später wechseln.",
+  "fakten": [
+    "Mieten: niedriger Einstieg, laufende Rate, häufig Mindestlaufzeit",
+    "Kaufen: einmalige Investition, danach nur Hosting und optional Wartung",
+    "Entscheidend ist der Vertrag: Wem gehören Domain, Inhalte und Design?",
+    "Starter-Website über Mühlberger Digital: ab 2.500 € einmalig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Modelle kurz erklärt",
+      "html": "<p>Bei einer <strong>Mietwebsite</strong> zahlen Sie eine monatliche Gebühr. Darin sind meist Erstellung, Hosting und Wartung enthalten. Die Website bleibt in vielen Verträgen Eigentum des Anbieters – Sie nutzen sie, solange Sie zahlen.</p><p>Beim <strong>Kauf</strong> bezahlen Sie die Erstellung einmalig. Danach fallen nur noch laufende Kosten für Hosting, Domain und auf Wunsch Wartung an. Welche Posten das sind, erklärt der Ratgeber <a href=\"/wissen/website-laufende-kosten/\">Laufende Kosten einer Website</a>.</p>"
+    },
+    {
+      "h2": "Wann Mieten sinnvoll ist",
+      "html": "<p>Mieten ist kein schlechtes Modell, es passt nur nicht für jeden. Es kann die richtige Wahl sein, wenn:</p><ul><li>Sie gerade <strong>gründen</strong> und keine größere Einmalzahlung stemmen wollen,</li><li>Sie sich um <strong>gar nichts Technisches</strong> kümmern möchten und eine Rundum-Betreuung schätzen,</li><li>die Website nur für <strong>eine begrenzte Zeit</strong> gebraucht wird, etwa für ein Projekt.</li></ul><p>Lesen Sie bei Mietangeboten genau nach: Wie lange ist die Mindestlaufzeit? Was passiert bei Kündigung? Und sind Änderungen inklusive oder werden sie extra verrechnet?</p><p>Typische Situation: Eine Physiotherapeutin eröffnet ihre erste eigene Praxis und investiert zuerst in Liege und Ausstattung. Eine überschaubare Monatsrate für die Website kann hier anfangs entlasten – vorausgesetzt, die Laufzeit ist kurz und die Domain läuft auf ihren Namen. So kann sie später ohne Adresswechsel auf eine gekaufte Website umsteigen.</p>"
+    },
+    {
+      "h2": "Wann Kaufen die bessere Wahl ist",
+      "html": "<p>Kaufen lohnt sich für Betriebe, die ihre Website über Jahre nutzen. Typische Situation: Ein Malerbetrieb, der seit Jahrzehnten besteht und auch in zehn Jahren noch Aufträge über die Website bekommen will. Er zahlt einmal und behält die Kontrolle.</p><ul><li><strong>Eigentum:</strong> Design, Texte und Bilder gehören Ihnen.</li><li><strong>Wechselfreiheit:</strong> Hosting und Dienstleister lassen sich austauschen.</li><li><strong>Planbare Kosten:</strong> Nach dem Start bleiben überschaubare laufende Posten.</li></ul><p>Die <a href=\"/leistungen/website-erstellen/\">Starter-Website</a> über Mühlberger Digital kostet ab 2.500 € einmalig und umfasst bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Was eine Website generell kostet, zeigt der Ratgeber <a href=\"/wissen/was-kostet-eine-website/\">Was kostet eine Website?</a></p>"
+    },
+    {
+      "h2": "Mieten und Kaufen im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Website mieten</th><th>Website kaufen</th></tr></thead><tbody><tr><td>Kosten zu Beginn</td><td>gering oder keine</td><td>einmalige Investition</td></tr><tr><td>Laufende Kosten</td><td>monatliche Rate</td><td>Hosting, Domain, optional Wartung</td></tr><tr><td>Gesamtkosten über Jahre</td><td>steigen mit jeder Rate</td><td>nach dem Start überschaubar</td></tr><tr><td>Eigentum</td><td>oft beim Anbieter</td><td>bei Ihnen</td></tr><tr><td>Vertragsbindung</td><td>häufig Mindestlaufzeit</td><td>keine Bindung an die Erstellung</td></tr><tr><td>Nach Kündigung</td><td>Website ist oft weg</td><td>Website bleibt, Wechsel möglich</td></tr><tr><td>Wartung</td><td>meist inklusive</td><td>separat vereinbar</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Fünf Fragen vor der Unterschrift",
+      "html": "<p>Ob Miete oder Kauf: Diese Punkte sollten im Vertrag klar geregelt sein.</p><ol><li>Auf wessen Namen ist die <strong>Domain</strong> registriert?</li><li>Wem gehören <strong>Texte, Bilder und Design</strong> nach Vertragsende?</li><li>Wie lang ist die <strong>Mindestlaufzeit</strong>, und wie wird gekündigt?</li><li>Welche <strong>Änderungen</strong> sind inklusive, welche kosten extra?</li><li>Wer kümmert sich um <strong>Updates, Backups und Sicherheit</strong>?</li></ol><p>Wer Wartung beim Kauf nicht selbst übernehmen will, vereinbart sie separat – etwa über <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a>.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Etablierter Betrieb, der langfristig plant:</strong> kaufen, mit optionaler Wartung.</li><li><strong>Gründung mit sehr knappem Budget:</strong> Mieten kann ein Einstieg sein – achten Sie auf kurze Laufzeiten und darauf, dass die Domain Ihnen gehört.</li><li><strong>Sie haben bereits eine Mietwebsite:</strong> Prüfen Sie Kündigungsfristen, bevor Sie einen Wechsel planen.</li></ul><p>Alle Richtpreise auf einen Blick finden Sie unter <a href=\"/preise/\">Preise</a>. Im kostenlosen Erstgespräch rechnen wir gemeinsam durch, welches Modell für Sie günstiger ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist eine Mietwebsite auf Dauer teurer?",
+      "a": "Häufig ja. Die monatliche Rate wirkt klein, summiert sich aber über die Jahre. Bei einer gekauften Website zahlen Sie die Erstellung einmal, danach fallen nur Hosting, Domain und auf Wunsch Wartung an. Rechnen Sie beide Varianten über fünf Jahre durch und berücksichtigen Sie, was Ihnen am Ende gehört. Erst dann sehen Sie, welches Modell für Ihren Betrieb wirklich günstiger ist."
+    },
+    {
+      "q": "Was passiert mit meiner Mietwebsite, wenn ich kündige?",
+      "a": "Das regelt der Vertrag. Bei vielen Mietmodellen bleibt die Website Eigentum des Anbieters und wird nach der Kündigung abgeschaltet. Oft können Sie Ihre Texte und Bilder mitnehmen, das Design jedoch nicht. Wichtig ist, dass die Domain auf Ihren Namen registriert ist, damit Ihre Adresse und Ihre E-Mails bei einem Wechsel erhalten bleiben."
+    },
+    {
+      "q": "Welche laufenden Kosten hat eine gekaufte Website?",
+      "a": "Nach dem Kauf fallen in der Regel Kosten für Domain und Hosting an, dazu optional eine Wartung für Updates, Backups und kleine Änderungen. Bei der Starter-Website über Mühlberger Digital ist Hosting enthalten; die genauen laufenden Bedingungen stehen im schriftlichen Angebot. Zusätzliche Bausteine wie der Chatbot Pipebot um 19 € pro Monat sind freiwillig und monatlich kündbar."
+    },
+    {
+      "q": "Kann ich eine gekaufte Website später erweitern?",
+      "a": "Ja. Eine gekaufte Website lässt sich um neue Seiten, einen Onlineshop, eine Terminbuchung oder einen Chatbot erweitern. Der Umfang wird jeweils neu besprochen und schriftlich angeboten. Weil die Website Ihnen gehört, können Sie dafür auch einen anderen Dienstleister beauftragen. Planen Sie größere Erweiterungen am besten schon beim ersten Projekt mit, dann wird die Grundlage passend gebaut."
+    }
+  ],
+  "verwandt": [
+    "/wissen/was-kostet-eine-website/",
+    "/wissen/website-laufende-kosten/",
+    "/preise/",
+    "/leistungen/website-wartung-hosting/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

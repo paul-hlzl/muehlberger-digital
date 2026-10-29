@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/wordpress-sicher-halten/",
+  "title": "WordPress-Website sicher halten: Praxis-Checkliste",
+  "description": "So halten Sie Ihre WordPress-Website sicher: Updates, wenige gepflegte Plugins, starke Zugänge, Backups außerhalb des Servers und eine monatliche Checkliste.",
+  "h1": "WordPress-Website sicher halten",
+  "kicker": "Ratgeber · Sicherheit",
+  "lead": "Eine WordPress-Website bleibt sicher, wenn Kern, Themes und Plugins regelmäßig aktualisiert werden, nur wenige gepflegte Erweiterungen laufen, alle Zugänge mit starken Passwörtern und Zwei-Faktor-Anmeldung geschützt sind und Backups außerhalb des Servers liegen. Das größte Risiko ist selten WordPress selbst, sondern fehlende Pflege. Mit einer festen monatlichen Routine ist das gut beherrschbar.",
+  "fakten": [
+    "Updates für Kern, Plugins und Themes sind der wichtigste Schutz",
+    "Jedes Plugin ist eine mögliche Lücke: so wenige wie nötig",
+    "Zwei-Faktor-Anmeldung und eigene Konten für jede Person",
+    "Backups automatisch und zusätzlich außerhalb des Servers"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum gerade WordPress-Seiten angegriffen werden",
+      "html": "<p>WordPress ist eines der meistgenutzten Systeme für Websites. Genau das macht es für Angreifer interessant: Eine bekannte Lücke in einem verbreiteten Plugin lässt sich automatisiert auf sehr vielen Seiten ausnutzen. Die meisten Angriffe sind also nicht persönlich gemeint, sondern laufen massenhaft durch Programme ab.</p><p>Für Sie heißt das: Auch die kleine Website eines Tischlers oder einer Physiotherapeutin wird regelmäßig abgeklopft. Wer seine Seite aktuell hält, ist für diese automatisierten Angriffe meist schlicht uninteressant, weil die bekannten Lücken geschlossen sind.</p>"
+    },
+    {
+      "h2": "Updates: der wichtigste Schutz",
+      "html": "<p>Sicherheitslücken werden laufend gefunden und von den Entwicklern geschlossen. Das nützt aber nur, wenn die Updates auch eingespielt werden. Zu aktualisieren sind:</p><ul><li><strong>WordPress selbst</strong>, also der Kern des Systems,</li><li><strong>alle Plugins</strong>, auch deaktivierte,</li><li><strong>das Theme</strong>, also die Designvorlage,</li><li><strong>die PHP-Version</strong> am Server, die Ihr Hoster bereitstellt.</li></ul><p>Machen Sie vor größeren Updates ein Backup. Bei Websites mit vielen Funktionen lohnt sich eine Testkopie, auf der Updates zuerst ausprobiert werden. So fällt ein Problem auf, bevor Kunden es sehen.</p>"
+    },
+    {
+      "h2": "Plugins: weniger ist mehr",
+      "html": "<p>Plugins machen WordPress flexibel, sind aber auch die häufigste Schwachstelle. Jedes zusätzliche Plugin bedeutet zusätzlichen Code, zusätzliche Updates und ein zusätzliches Risiko. Prüfen Sie deshalb regelmäßig, was Sie wirklich brauchen.</p><ul><li>Wird das Plugin noch aktiv weiterentwickelt und regelmäßig aktualisiert?</li><li>Gibt es eine einfachere Lösung ohne Plugin?</li><li>Haben Sie mehrere Plugins, die dasselbe tun?</li><li>Löschen Sie deaktivierte Plugins, statt sie liegen zu lassen.</li></ul>"
+    },
+    {
+      "h2": "Zugänge absichern",
+      "html": "<p>Viele Einbrüche gelingen nicht über Technik, sondern über schwache oder geteilte Passwörter. Jede Person, die an der Website arbeitet, sollte ein eigenes Konto mit nur den nötigen Rechten haben. Wer den Betrieb verlässt, wird sofort entfernt.</p><p>Verwenden Sie lange, einzigartige Passwörter, am besten aus einem <a href=\"/wissen/passwort-manager/\">Passwort-Manager</a>, und aktivieren Sie die Zwei-Faktor-Anmeldung. Dabei braucht es neben dem Passwort einen zweiten Nachweis, etwa einen Code am Handy. Das gilt auch für den Zugang zum Hosting und zum Domain-Konto.</p>"
+    },
+    {
+      "h2": "Backups und ein einfacher Notfallplan",
+      "html": "<p>Trotz aller Vorsicht kann etwas schiefgehen: ein fehlerhaftes Update, ein Angriff, ein versehentlich gelöschter Inhalt. Dann entscheidet das Backup, ob Sie in einer Stunde wieder online sind oder tagelang. Sichern Sie automatisch Dateien und Datenbank und bewahren Sie eine Kopie außerhalb des Servers auf. Mehr dazu im Ratgeber <a href=\"/wissen/website-backup/\">Backups für die Website</a>.</p><p>Halten Sie außerdem schriftlich fest, wer im Ernstfall verständigt wird, wo die Zugangsdaten liegen und wie ein Backup eingespielt wird. Ein halbseitiges Dokument reicht.</p>"
+    },
+    {
+      "h2": "Monatliche Checkliste und Warnzeichen",
+      "html": "<ul><li>Updates für Kern, Plugins und Theme eingespielt?</li><li>Letztes Backup vorhanden und wiederherstellbar?</li><li>Benutzerkonten geprüft, ehemalige Personen entfernt?</li><li>Kontaktformular getestet: kommt die Nachricht an?</li><li>HTTPS aktiv und Zertifikat gültig? Siehe <a href=\"/wissen/ssl-https/\">SSL und HTTPS einfach erklärt</a>.</li></ul><p>Warnzeichen für einen Befall sind fremde Links oder Seiten in Google, unbekannte Benutzerkonten, plötzliche Weiterleitungen auf andere Websites oder Warnhinweise im Browser. Dann sofort Zugänge ändern, Hoster informieren und eine saubere Sicherung einspielen lassen.</p>"
+    },
+    {
+      "h2": "Selbst pflegen oder abgeben?",
+      "html": "<p>Wer sich gern mit Technik beschäftigt und monatlich eine Stunde einplant, kann eine kleine WordPress-Seite gut selbst pflegen. Wenn Sie dafür keine Zeit haben oder die Website viele Erweiterungen hat, ist es sinnvoller, die Pflege abzugeben. Die Leistung <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a> übernimmt Updates, Backups und Kontrollen.</p><p>Manchmal ist auch die ehrliche Antwort: Für Ihre Zwecke wäre eine schlankere Website ohne viele Plugins die sicherere Wahl. Die Abwägung beschreibt der Vergleich <a href=\"/vergleiche/wordpress-oder-individuell/\">WordPress oder individuelle Website</a>. Allgemeine Tipps für den Betrieb finden Sie unter <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist WordPress unsicher?",
+      "a": "Nein, WordPress selbst gilt bei regelmäßiger Pflege als solide. Probleme entstehen meist durch veraltete Plugins und Themes, schwache Passwörter oder fehlende Updates. Weil WordPress so verbreitet ist, wird es häufig automatisiert angegriffen. Wer Updates zeitnah einspielt, wenige gepflegte Plugins nutzt und Zugänge mit Zwei-Faktor-Anmeldung schützt, senkt das Risiko deutlich."
+    },
+    {
+      "q": "Wie oft sollte ich WordPress aktualisieren?",
+      "a": "Sicherheitsupdates sollten möglichst zeitnah eingespielt werden, also innerhalb weniger Tage nach Erscheinen. Für alle anderen Updates hat sich eine feste Routine bewährt, etwa einmal pro Woche oder zumindest einmal im Monat. Vor größeren Versionssprüngen sollten Sie ein Backup machen und bei umfangreichen Websites zuerst auf einer Testkopie prüfen."
+    },
+    {
+      "q": "Reicht ein Sicherheits-Plugin aus?",
+      "a": "Ein Sicherheits-Plugin kann helfen, etwa durch Schutz vor vielen Anmeldeversuchen oder Hinweise auf veränderte Dateien. Es ersetzt aber keine Updates, keine starken Passwörter und keine Backups. Manche dieser Plugins sind selbst umfangreich und brauchen Pflege. Wichtiger als jedes Plugin ist eine regelmäßige Routine mit Updates, Kontrolle der Konten und funktionierenden Sicherungen."
+    },
+    {
+      "q": "Was tun, wenn meine WordPress-Seite gehackt wurde?",
+      "a": "Ändern Sie sofort alle Passwörter für WordPress, Hosting und Domain, informieren Sie Ihren Hoster und nehmen Sie die Seite bei Bedarf vorübergehend offline. Spielen Sie dann ein sauberes Backup von vor dem Angriff ein und aktualisieren Sie alles. Wurden personenbezogene Daten betroffen, kann eine Meldepflicht bestehen; im Zweifel fragen Sie die Datenschutzbehörde oder einen Anwalt."
+    },
+    {
+      "q": "Wie viele Plugins sind für WordPress zu viele?",
+      "a": "Eine feste Grenze gibt es nicht. Entscheidend ist, ob jedes Plugin gebraucht wird, aktiv gepflegt ist und regelmäßig Updates bekommt. Eine kleine Firmenwebsite kommt oft mit einer Handvoll Erweiterungen aus. Wenn Sie nicht mehr wissen, wofür ein Plugin installiert wurde, ist das ein gutes Zeichen, es zu prüfen und wenn möglich zu entfernen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-wartung/",
+    "/wissen/website-backup/",
+    "/leistungen/website-wartung-hosting/",
+    "/vergleiche/wordpress-oder-individuell/",
+    "/wissen/it-sicherheit/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

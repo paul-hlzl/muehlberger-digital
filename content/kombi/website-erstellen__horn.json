@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/horn/",
+  "title": "Website erstellen lassen in Horn für Praxen und Kanzleien",
+  "description": "Website erstellen lassen in Horn: für Praxen, Kanzleien und Dienstleister, die Menschen aus dem ganzen Umland betreuen. Klarer Preis ab 2.500 €.",
+  "h1": "Website erstellen lassen in Horn",
+  "kicker": "Website · Bezirk Horn",
+  "lead": "Horn ist Bezirkshauptstadt im Waldviertel und für viele Menschen im Umland der Ort, an dem sie Arzt, Steuerberater oder Tierarzt aufsuchen. Wer so eine Praxis oder Kanzlei führt, braucht eine Website, die Anfahrt, Erreichbarkeit und Ablauf klar beantwortet. Mühlberger Digital vermittelt dafür Websites ab 2.500 €, technisch umgesetzt von Pipeline AI Solutions.",
+  "fakten": [
+    "Horn ist Bezirkshauptstadt und Anlaufstelle für das Umland",
+    "Wichtigste Fragen: Ordinationszeiten, Termin, Anfahrt, Parken",
+    "Weniger Telefonate durch klare Informationen online",
+    "Erstgespräch kostenlos, vor Ort oder per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenn Patienten und Klienten von weiter her kommen",
+      "html": "<p>Wer aus einem Ort im Umland nach Horn fährt, plant den Weg. Bevor jemand anruft, will er wissen: Muss ich einen Termin ausmachen? Wo parke ich? Ist die Praxis barrierefrei erreichbar? Was muss ich mitbringen?</p><p>Diese Fragen am Telefon zu beantworten, kostet das Team viel Zeit. Auf der Website stehen sie einmal sauber und sind jederzeit abrufbar.</p>"
+    },
+    {
+      "h2": "Arztpraxis, Tierarzt, Steuerberatung: was jeweils zählt",
+      "html": "<h3>Arzt- oder Zahnarztpraxis</h3><p>Ordinationszeiten, Urlaubsvertretung, Kassenverträge, Hinweis auf Akutfälle. Diese Informationen müssen aktuell sein, sonst stehen Patienten vor verschlossener Tür. Anregungen bei <a href=\"/branchen/zahnarzt/\">Zahnarztpraxen</a> und im Ratgeber <a href=\"/wissen/praxis-website/\">Praxis-Website</a>.</p><h3>Tierarztpraxis</h3><p>Für viele Tierhalter im ländlichen Raum zählen Hausbesuche und Notfallregelungen. Wer Großtiere betreut, sollte das deutlich sagen.</p><h3>Steuerberatung oder Kanzlei</h3><p>Hier geht es um Vertrauen: Wer arbeitet hier, welche Schwerpunkte gibt es, welche Unterlagen braucht man für das erste Gespräch?</p>"
+    },
+    {
+      "h2": "Erreichbarkeit entlasten",
+      "html": "<p>Eine gute Website senkt die Zahl der Routineanrufe, ersetzt aber nicht die persönliche Erreichbarkeit. Viele Praxen kombinieren deshalb klare Informationen mit einem Rückrufformular oder einer Online-Terminanfrage. Welche Lösungen es gibt und welche zu kleinen Teams passen, beschreibt der Ratgeber <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>.</p><p>Ehrlich gesagt: Wenn Ihre Praxis ohnehin ausgelastet ist und keine neuen Patienten aufnimmt, braucht es keine aufwendige Website. Dann reichen aktuelle Zeiten, Kontakt und ein freundlicher Hinweis.</p>"
+    },
+    {
+      "h2": "Umsetzung und Preis",
+      "html": "<p>Die Starter-Website ab 2.500 € umfasst bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Für Praxen gelten oft besondere Regeln zu Werbung und Datenschutz; die klären Sie im Zweifel mit Ihrer Kammer. Mehr zur Leistung auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, zur Region unter <a href=\"/regionen/bezirk-horn/\">Bezirk Horn</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Dürfen Patienten über das Kontaktformular Befunde schicken?",
+      "a": "Davon ist eher abzuraten. Gesundheitsdaten sind besonders schützenswert, und ein normales Kontaktformular ist dafür nicht gedacht. Besser ist ein Hinweis, dass Befunde zum Termin mitgebracht oder über einen gesicherten Weg übermittelt werden. Was in Ihrem Fall zulässig ist, klären Sie im Zweifel mit der Ärztekammer oder der Datenschutzbehörde."
+    },
+    {
+      "q": "Wie halte ich Ordinationszeiten und Urlaube aktuell?",
+      "a": "Am einfachsten über einen Bereich, den Ihr Team selbst bearbeiten kann, etwa ein Feld für Hinweise und Vertretungen. Das dauert nur wenige Minuten. Wichtig ist, gleichzeitig das Google-Unternehmensprofil zu ändern, weil viele Patienten die Zeiten zuerst dort sehen. Unterschiedliche Angaben an zwei Stellen sorgen sonst für Verwirrung."
+    },
+    {
+      "q": "Lohnt sich eine eigene Website für eine Kanzlei mit zwei Personen?",
+      "a": "In der Regel ja, aber klein. Klienten suchen Steuerberater oder Anwälte zunehmend online und wollen vorab wissen, wer ihnen gegenübersitzt. Eine Startseite, eine Seite zu den Schwerpunkten, eine Vorstellung der Personen und ein Kontaktbereich reichen oft aus. Mehr Aufwand lohnt sich erst, wenn Sie gezielt neue Mandanten in bestimmten Bereichen gewinnen wollen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-horn/",
+    "/regionen/waldviertel/",
+    "/wissen/praxis-website/",
+    "/branchen/arztpraxis/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/cafe/",
+  "title": "Digitale Lösungen für Cafés & Konditoreien: Tortenbestellung",
+  "description": "Hochzeitstorte, Krapfen im Fasching, Kekse zu Weihnachten, Gutscheine: Wie Cafés und Konditoreien Bestellungen online ordnen und Stammgäste halten.",
+  "h1": "Digitale Lösungen für Cafés & Konditoreien",
+  "kicker": "Branche · Café, Konditorei",
+  "lead": "Konditoreien verdienen einen guten Teil ihres Geschäfts mit Bestellungen: Geburtstagstorten, Hochzeitstorten, Weihnachtsbäckerei. Diese Bestellungen kommen heute per Telefon, Zettel und WhatsApp durcheinander. Ein klares Bestellformular, ein einfacher Gutscheinverkauf online und regelmäßige Bilder in sozialen Medien bringen Ordnung und neue Gäste.",
+  "fakten": [
+    "Tortenbestellungen mit Datum, Personenanzahl, Aufschrift und Foto-Vorlage online aufnehmen",
+    "Saisonware wie Faschingskrapfen oder Weihnachtskekse vorbestellen lassen",
+    "Gutscheine online verkaufen – auch an Kunden, die nicht im Ort wohnen",
+    "Pipeflow macht aus der Website wöchentliche Beiträge, in der Pilotphase kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Tortenbestellungen: der Zettel an der Kasse",
+      "html": "<p>„Eine Sachertorte für Samstag, 20 Stück, mit der Aufschrift Alles Gute Oma.“ Am Telefon notiert, an der Kasse aufgehängt, und am Freitag fragt sich die Konditorin, ob es „Oma“ oder „Omi“ heißen soll. Bestellungen dieser Art sind wertvoll, aber fehleranfällig.</p><p>Ein Bestellformular auf der Website fragt Tortenart, Größe oder Personenanzahl, Abholtag, Aufschrift im genauen Wortlaut und Allergien ab und erlaubt bei Motivtorten eine Bildvorlage. Sie bekommen alles schriftlich, und der Kunde eine Bestätigung. Wie man ein Formular einfach hält, beschreibt der Ratgeber <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>. Für eine Hochzeitstorte bleibt das persönliche Gespräch wichtig, aber der erste Kontakt kann so strukturiert beginnen.</p>"
+    },
+    {
+      "h2": "Saisonware: Krapfen, Kekse und die Vorbestellung",
+      "html": "<p>Im Fasching wollen Firmen und Vereine Krapfen in großen Mengen, vor Weihnachten bestellen Familien und Betriebe Keksmischungen, zu Ostern sind Osterlämmer aus Biskuit gefragt. Diese Spitzen sind planbar, wenn die Bestellungen rechtzeitig kommen.</p><ul><li>Eine Vorbestellung online, mit klarer Frist, bis wann bestellt werden kann.</li><li>Ein Hinweis auf der Website und im Google-Profil einige Wochen vorher.</li><li>Für Firmenbestellungen ein eigenes Feld für Rechnungsadresse und Lieferung.</li></ul><p>Wer das noch weiter treiben will, kann mit einem kleinen <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop</a> auch gleich die Bezahlung abwickeln. Das lohnt sich aber erst, wenn die Menge groß genug ist.</p>"
+    },
+    {
+      "h2": "Gutscheine: das Geschenk für alle, die nicht im Ort sind",
+      "html": "<p>Ein Café-Gutschein für Frühstück zu zweit oder ein Tortengutschein zum Geburtstag ist ein beliebtes Geschenk, oft gekauft von Kindern oder Enkeln, die woanders wohnen. Wer Gutscheine nur an der Kasse verkauft, verpasst diese Käufer.</p><p>Ein Online-Gutschein zum Ausdrucken oder per E-Mail ist technisch einfach. Worauf man bei Gültigkeit, Einlösung und Abrechnung achten sollte, beschreibt der Ratgeber <a href=\"/wissen/gutscheine-online/\">Gutscheine online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Instagram: Die Vitrine ins Handy holen",
+      "html": "<p>Kaum eine Branche hat so dankbare Bilder: die frische Cremeschnitte, die Torte mit Blumendeko, der Cappuccino im Gastgarten. Gäste entscheiden spontan, wo sie am Sonntag frühstücken, und viele schauen vorher auf Instagram oder Google.</p><p>Was fehlt, ist meistens die Zeit. <a href=\"https://pipeflow.at/\">Pipeflow</a> macht aus Ihren Website-Inhalten jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, die Sie nur freigeben. In der Pilotphase ist es kostenlos. Grundsätzliches zum Thema steht im Ratgeber <a href=\"/wissen/instagram-unternehmen/\">Instagram für Unternehmen</a>.</p>"
+    },
+    {
+      "h2": "Frühstück am Wochenende: Reservierung oder nicht?",
+      "html": "<p>Viele Cafés kennen das Dilemma: Am Sonntagvormittag ist es voll, und Gäste ohne Reservierung gehen enttäuscht. Gleichzeitig will man nicht alle Tische für Reservierungen blockieren. Eine Lösung ist, nur einen Teil der Tische online reservierbar zu machen und das auf der Website klar zu sagen.</p><p>Auch die Frage „Habt ihr glutenfreie Kuchen oder vegane Optionen?“ lässt sich auf der Website beantworten. Sagen Sie ehrlich, was es regelmäßig gibt und was nur manchmal.</p>"
+    },
+    {
+      "h2": "Was ein Café nicht braucht",
+      "html": "<p>Einen Telefonassistenten oder einen Chatbot brauchen die meisten Cafés nicht. Wichtiger sind aktuelle Öffnungszeiten, ein klares Bestellformular und gute Bilder. Wer schon voll ausgelastet ist, sollte eher die Abläufe vereinfachen, als neue Gäste anzuziehen.</p><p>Wie der eigene Auftritt in sozialen Medien heute wirkt, zeigt der <a href=\"/gratis-check/social-media-test/\">kostenlose Social-Media-Test</a>. Im Erstgespräch klären wir, wo Sie anfangen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie nehme ich Tortenbestellungen online an, ohne Fehler bei der Aufschrift?",
+      "a": "Mit einem Bestellformular, das die Aufschrift als eigenes Textfeld im genauen Wortlaut abfragt und dem Kunden eine schriftliche Bestätigung schickt. Dazu Felder für Tortenart, Größe, Abholtag und Allergien, bei Motivtorten eine Möglichkeit, ein Bild hochzuladen. So haben Sie alles schriftlich, und Missverständnisse am Telefon fallen weg. Für sehr aufwendige Torten bleibt das persönliche Gespräch sinnvoll."
+    },
+    {
+      "q": "Lohnt sich ein Onlineshop für eine Konditorei?",
+      "a": "Für Saisonware mit großer Nachfrage, etwa Weihnachtskekse oder Faschingskrapfen in Mengen, kann er sich lohnen, weil Bestellung und Bezahlung gleich erledigt sind. Für einzelne Tortenbestellungen reicht meist ein gutes Formular. Ein Onlineshop ist ein individuelles Projekt mit Preis auf Anfrage. Wir besprechen im Erstgespräch ehrlich, ob die Menge bei Ihnen den Aufwand rechtfertigt."
+    },
+    {
+      "q": "Kann ich Gutscheine online verkaufen?",
+      "a": "Ja, technisch ist das einfach. Kunden kaufen online und bekommen den Gutschein per E-Mail zum Ausdrucken oder Weiterschicken. Wichtig ist, dass Sie die Einlösung an der Kasse nachvollziehen können und klare Bedingungen zur Gültigkeit angeben. Für Fragen zur rechtlichen Seite, etwa Gültigkeitsdauer, ist die Wirtschaftskammer die richtige Anlaufstelle."
+    },
+    {
+      "q": "Was kostet eine Website für ein Café?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Kontaktformular, Impressum, Datenschutz und Hosting. Für ein Café könnten das Startseite, Angebot und Frühstück, Torten und Bestellung, Über uns und Kontakt sein. Ein Bestellformular mit Bildupload, Gutscheinverkauf oder Onlineshop werden nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/gutscheine-online/", "/wissen/instagram-unternehmen/", "/leistungen/onlineshop-erstellen/", "/produkte/pipeflow/", "/branchen/baeckerei/"],
+  "checks": ["social-media-test", "website-entwurf"]
+}

@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/keyword/",
+  "title": "Keyword: Suchbegriff im SEO einfach erklärt",
+  "description": "Keyword einfach erklärt: Was ein Suchbegriff ist, wie kleine Betriebe die richtigen Keywords finden und warum Kundensprache wichtiger ist als Fachjargon.",
+  "h1": "Keyword – der Suchbegriff",
+  "kicker": "Glossar · SEO",
+  "lead": "Ein Keyword ist ein Wort oder eine Wortgruppe, die Menschen in eine Suchmaschine eingeben, etwa „Elektriker Krems“ oder „Hochzeitstorte bestellen“. Im SEO richtet man Seiten auf die Begriffe aus, mit denen passende Kunden suchen.",
+  "fakten": [
+    "Kurz-Keywords sind umkämpft, längere Suchanfragen oft wertvoller",
+    "Kundensprache schlägt Fachsprache",
+    "Pro Seite ein Hauptthema statt vieler Begriffe"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus der Praxis",
+      "html": "<p>Ein Rauchfangkehrer nennt seine Leistungsseite „Abgasmessung und Feuerstättenüberprüfung“. Kunden suchen aber eher nach „Rauchfangkehrer Termin“ oder „Kamin kehren lassen“. Nach einer Anpassung der Überschrift und des Textes an diese Wörter, ohne die Fachbegriffe zu streichen, passt die Seite besser zu den tatsächlichen Suchen.</p><p>Neben dem Hauptbegriff gibt es verwandte Formulierungen und Fragen. Wer sie natürlich im Text beantwortet, wird für mehr Suchanfragen relevant, ohne den Begriff ständig zu wiederholen. Übertriebenes Wiederholen, sogenanntes Keyword-Stuffing, schadet eher.</p>"
+    },
+    {
+      "h2": "Warum Keywords für KMU zählen",
+      "html": "<p>Die richtigen Suchbegriffe entscheiden, ob eine Seite die passenden Menschen erreicht. Für kleine Betriebe sind oft Kombinationen aus Leistung und Ort ideal, weil dort weniger Konkurrenz herrscht und die Suchenden konkret kaufen wollen. Das ist ein Kern von <a href=\"/glossar/local-seo/\">Local SEO</a>.</p><p>Wie Sie passende Begriffe finden, zeigt der Ratgeber <a href=\"/wissen/keywords-finden/\">Keywords finden</a>. Wo das Keyword hingehört, erklären die Einträge <a href=\"/glossar/title-tag/\">Title-Tag</a> und <a href=\"/glossar/meta-description/\">Meta-Description</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich die richtigen Keywords für meinen Betrieb?",
+      "a": "Beginnen Sie mit den Fragen und Wörtern, die Kunden am Telefon verwenden. Ergänzen Sie diese um Ihre Orte und prüfen Sie, welche Vorschläge Google beim Eintippen macht. Auch die Google Search Console zeigt, mit welchen Begriffen Ihre Seite bereits gefunden wird. Wählen Sie pro Seite ein Hauptthema und beantworten Sie verwandte Fragen im Text."
+    },
+    {
+      "q": "Wie oft sollte ein Keyword im Text vorkommen?",
+      "a": "Es gibt keine sinnvolle Zielzahl. Der Begriff gehört in die Hauptüberschrift, in den Seitentitel und in ein, zwei Zwischenüberschriften. Im übrigen Text schreiben Sie natürlich und verwenden Synonyme. Suchmaschinen verstehen Zusammenhänge heute gut. Ein Text, der vor allem für Menschen verständlich ist, funktioniert in aller Regel auch für Google am besten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/keywords-finden/",
+    "/glossar/seo/",
+    "/glossar/title-tag/",
+    "/wissen/google-search-console/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

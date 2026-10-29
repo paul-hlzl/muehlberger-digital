@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/responsive-design/",
+  "title": "Responsive Design: Websites fürs Smartphone erklärt",
+  "description": "Responsive Design einfach erklärt: Wie sich eine Website an Smartphone, Tablet und Computer anpasst und warum das für Betriebe unverzichtbar ist.",
+  "h1": "Responsive Design",
+  "kicker": "Glossar · Website",
+  "lead": "Responsive Design ist eine Bauweise für Websites, bei der sich Layout, Schrift und Bilder automatisch an die Bildschirmgröße anpassen. Dieselbe Seite ist so am Smartphone, am Tablet und am Computer gut lesbar und bedienbar.",
+  "fakten": [
+    "Eine Website, ein Inhalt, mehrere Darstellungen je nach Gerät",
+    "Google bewertet Seiten vorrangig nach der mobilen Version",
+    "Wichtig: große Schaltflächen, lesbare Schrift, kurze Ladezeit"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So sieht Responsive Design in der Praxis aus",
+      "html": "<p>Ein Heurigenbetrieb zeigt auf dem Computer die Ausschank-Termine in einer breiten Tabelle neben einem großen Foto. Am Smartphone rutscht das Foto nach oben, die Termine stehen untereinander, und die Telefonnummer wird zur Schaltfläche, die direkt anruft. Niemand muss zoomen oder seitlich scrollen.</p><p>Technisch steuern Regeln im Stylesheet, ab welcher Bildschirmbreite sich das Layout ändert. Bilder werden in passender Größe geladen, damit die Seite auch unterwegs schnell erscheint.</p>"
+    },
+    {
+      "h2": "Warum es für KMU unverzichtbar ist",
+      "html": "<p>Viele Kunden suchen unterwegs nach einem Betrieb, etwa kurz vor dem Besuch oder im Notfall. Ist die Seite am Handy schwer bedienbar, rufen sie beim Mitbewerber an. Google wertet Websites zudem überwiegend nach ihrer mobilen Fassung, was die Sichtbarkeit bei der <a href=\"/glossar/seo/\">SEO</a> beeinflusst.</p><p>Eine Website, die nur am Computer gut aussieht, ist ein häufiger Grund für einen <a href=\"/leistungen/website-relaunch/\">Relaunch</a>. Konkrete Verbesserungen beschreibt der Ratgeber <a href=\"/wissen/mobile-optimierung/\">mobile Optimierung</a>; wichtige Messwerte dazu sind die <a href=\"/glossar/core-web-vitals/\">Core Web Vitals</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie prüfe ich, ob meine Website responsive ist?",
+      "a": "Öffnen Sie die Website auf Ihrem eigenen Smartphone und versuchen Sie typische Aufgaben: Telefonnummer finden, Öffnungszeiten lesen, Kontaktformular ausfüllen. Müssen Sie zoomen oder seitlich wischen, ist die Seite nicht gut angepasst. Zusätzlich können Sie am Computer das Browserfenster schmal ziehen und beobachten, ob sich das Layout sauber umbaut."
+    },
+    {
+      "q": "Ist eine eigene mobile Website besser als Responsive Design?",
+      "a": "In den allermeisten Fällen nicht. Getrennte mobile Seiten bedeuten doppelte Pflege und führen leicht zu unterschiedlichen Inhalten. Responsive Design arbeitet mit einer einzigen Website, die sich anpasst. Das ist einfacher zu warten und wird von Suchmaschinen bevorzugt. Für spezielle Anwendungen kann eine Web-App sinnvoll sein, für eine Firmenwebsite reicht Responsive Design."
+    }
+  ],
+  "verwandt": [
+    "/wissen/mobile-optimierung/",
+    "/glossar/core-web-vitals/",
+    "/leistungen/website-relaunch/",
+    "/wissen/website-ladezeit-verbessern/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

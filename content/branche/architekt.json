@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/architekt/",
+  "title": "Architekturbüros online: Projekte, Anfragen, Protokolle",
+  "description": "Für Architekturbüros: Projekte zeigen ohne Bauherren bloßzustellen, Erstanfragen mit Grundstück und Budget vorbereiten und Baubesprechungen per KI protokollieren.",
+  "h1": "Digitale Lösungen für Architekturbüros",
+  "kicker": "Branche · Architektur",
+  "lead": "Architekturbüros überzeugen online durch ihre Projekte, verlieren aber viel Zeit mit unklaren Erstanfragen und dem Nacharbeiten von Besprechungen. Eine Website mit gut aufbereiteten Referenzen, ein Fragebogen zu Grundstück, Budget und Zeitplan sowie KI-Protokolle für Baubesprechungen setzen genau an diesen drei Stellen an.",
+  "fakten": [
+    "Projekte mit Fotos zeigen, Adressen privater Bauherren weglassen",
+    "Fragebogen klärt Grundstück, Budgetrahmen und Zeitplan vor dem ersten Termin",
+    "noteit protokolliert Baubesprechungen per Teams oder Zoom, fertig nach etwa 2 Minuten",
+    "Berufsrecht: im Zweifel bei der Kammer der Ziviltechniker nachfragen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Projekte zeigen, ohne Bauherren bloßzustellen",
+      "html": "<p>Ihre gebauten Projekte sind das stärkste Argument für Ihr Büro. Gleichzeitig wollen viele private Bauherren nicht, dass ihr Wohnhaus mit Adresse und Namen im Internet steht. Bewährt hat sich:</p><ul><li>Projekte nach Art ordnen, etwa Neubau, Sanierung, Zubau, Gewerbe</li><li>Ort nur grob nennen, zum Beispiel Bezirk statt Straße</li><li>kurz beschreiben, welche Aufgabe gelöst wurde, statt nur Bilder zu zeigen</li><li>vorab klären, ob Bauherren mit der Veröffentlichung einverstanden sind</li></ul><p>Achten Sie auch auf die Rechte an Architekturfotos: Wenn ein Fotograf die Bilder gemacht hat, braucht es eine Nutzungsvereinbarung. Mehr dazu im Ratgeber <a href=\"/wissen/bildrechte/\">Bildrechte</a> und zur Darstellung im Ratgeber <a href=\"/wissen/referenzen-zeigen/\">Referenzen zeigen</a>.</p>"
+    },
+    {
+      "h2": "Die Erstanfrage: Grundstück, Budget, Zeitplan",
+      "html": "<p>„Wir wollen bauen, können Sie uns helfen?“ ist eine typische erste Nachricht. Bevor ein sinnvolles Gespräch möglich ist, brauchen Sie mehrere Grundinformationen. Ein Fragebogen auf der Website spart mehrere Telefonate:</p><ul><li>Ist ein Grundstück vorhanden, und ist bekannt, was dort gebaut werden darf?</li><li>Geht es um Neubau, Umbau, Sanierung oder Zubau?</li><li>Welcher Budgetrahmen ist ungefähr vorgesehen?</li><li>Bis wann soll das Projekt umgesetzt sein?</li></ul><p>So kommen Bauherren vorbereitet zum ersten Termin, und Sie erkennen früh, ob das Vorhaben zu Ihrem Büro passt.</p>"
+    },
+    {
+      "h2": "Ablauf und Honorar verständlich erklären",
+      "html": "<p>Viele Bauherren wissen nicht, was ein Architekt konkret macht und wann welche Kosten entstehen. Eine Seite, die die Phasen vom Vorentwurf über die Einreichplanung bis zur Bauaufsicht in einfachen Worten erklärt, beantwortet die häufigste Unsicherheit vor dem ersten Kontakt.</p><p>Konkrete Honorare hängen vom Projekt ab und müssen nicht auf der Website stehen. Hilfreich ist aber ein Satz dazu, wie das Honorar grundsätzlich berechnet wird und ob ein Erstgespräch kostenlos ist. Wer nur eine Einreichplanung für einen kleinen Zubau sucht, sollte auch lesen können, ob Sie so etwas übernehmen.</p>"
+    },
+    {
+      "h2": "Baubesprechungen protokollieren, ohne mitzuschreiben",
+      "html": "<p>Bei Baubesprechungen sitzen Bauherr, Fachplaner und ausführende Firmen zusammen, oft per Teams oder Zoom. Wer was bis wann erledigt, muss danach im Protokoll stehen, und das Schreiben dauert häufig länger als die Besprechung selbst.</p><p><a href=\"https://noteit.at/\">noteit</a> erstellt KI-Gesprächsnotizen für Teams, Zoom, Google Meet, Webex und weitere Programme, ohne Bot im Call. Die Speicherung erfolgt in Frankfurt, das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig. Informieren Sie alle Teilnehmenden vorab. Preise: Starter 0 € für 3 Stunden im Monat, Pro 14 €, Team 24 € pro Person und Monat. Details auf der Seite <a href=\"/leistungen/meeting-protokolle-ki/\">Meeting-Protokolle mit KI</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden, wenn jemand einen Zubau plant",
+      "html": "<p>Private Bauherren suchen meist regional und nach ihrem Vorhaben, etwa „Architekt Sanierung Bauernhaus“ oder „Zubau planen lassen“. Wenn Ihre Website nur Ihren Büronamen und eine Bildergalerie enthält, werden Sie für solche Suchen kaum gefunden.</p><p>Kurze Texte zu Ihren Schwerpunkten und Ihrem Einzugsgebiet helfen Google und KI-Suchen, Ihr Büro richtig einzuordnen. Grundlagen erklärt der Ratgeber <a href=\"/wissen/lokales-seo/\">Lokales SEO</a>. Wie Ihre Website technisch dasteht, zeigt der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "Berufsrecht und der nächste Schritt",
+      "html": "<p>Architektinnen und Architekten unterliegen als Ziviltechniker berufsrechtlichen Regeln, auch für den Auftritt nach außen. Wir geben dazu keine Rechtsauskunft. Grenzfälle klären Sie am besten mit Ihrer Kammer der Ziviltechniker.</p><p>Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig. Büros mit vielen Projekten brauchen oft eine größere Website mit Projektarchiv, die nach dem <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schriftlich angeboten wird.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie zeige ich Projekte auf der Website, ohne die Privatsphäre der Bauherren zu verletzen?",
+      "a": "Holen Sie vor der Veröffentlichung das Einverständnis der Bauherren ein und nennen Sie den Ort nur grob, etwa den Bezirk statt der Adresse. Verzichten Sie auf Namen und auf Innenaufnahmen mit persönlichen Gegenständen, wenn das nicht ausdrücklich gewünscht ist. Eine kurze Beschreibung der gelösten Aufgabe wirkt ohnehin stärker als die genaue Lage des Hauses."
+    },
+    {
+      "q": "Was sollte ein Architekturbüro bei der Erstanfrage abfragen?",
+      "a": "Sinnvoll sind Fragen nach Art des Vorhabens, nach einem vorhandenen Grundstück, nach dem ungefähren Budgetrahmen und nach dem gewünschten Zeitplan. Damit kommen Bauherren vorbereitet zum ersten Gespräch, und Sie sehen früh, ob das Projekt zu Ihnen passt. Halten Sie den Fragebogen kurz und kennzeichnen Sie, welche Angaben freiwillig sind."
+    },
+    {
+      "q": "Eignet sich noteit für Baubesprechungen?",
+      "a": "Ja, vor allem für Besprechungen per Teams, Zoom, Google Meet oder Webex. noteit kommt ohne Bot im Call aus, speichert in Frankfurt und liefert das Protokoll etwa zwei Minuten nach dem Gespräch. Alle Teilnehmenden sollten vorab informiert werden. Für reine Baustellentermine vor Ort ohne Videocall ist das Werkzeug weniger passend."
+    },
+    {
+      "q": "Was kostet die Website eines Architekturbüros?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer, inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Für Büros mit vielen Projekten, Filtern im Projektarchiv oder großen Bildergalerien wird ein individuelles Angebot erstellt. Der Preis wird nach dem kostenlosen Erstgespräch schriftlich genannt."
+    }
+  ],
+  "verwandt": ["/branchen/baumeister/", "/wissen/referenzen-zeigen/", "/leistungen/meeting-protokolle-ki/", "/wissen/website-fotos/", "/leistungen/seo/"],
+  "checks": ["seo-check", "website-entwurf"]
+}

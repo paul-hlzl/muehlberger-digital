@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/perplexity-gemini/",
+  "title": "Perplexity, Gemini & Co.: KI-Suchen für Betriebe",
+  "description": "Perplexity, Gemini, Copilot, ChatGPT und Claude im Überblick: wie die KI-Suchen arbeiten, worin sie sich unterscheiden und was das für Ihren Betrieb bedeutet.",
+  "h1": "Perplexity, Gemini & Co. für Betriebe",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "Neben ChatGPT nutzen immer mehr Menschen weitere KI-Assistenten wie Gemini von Google, Perplexity, Microsoft Copilot oder Claude. Sie arbeiten ähnlich, greifen aber auf unterschiedliche Suchindizes und Quellen zurück. Für Betriebe heißt das: Wer nur auf ein System schaut, sieht nur einen Ausschnitt. Klare Inhalte und einheitliche Daten wirken bei allen.",
+  "fakten": [
+    "Gemini ist eng mit Google-Suche, Google Maps und Android verbunden",
+    "Perplexity zeigt zu jeder Antwort sichtbar die Quellen",
+    "Microsoft Copilot baut auf der Suchmaschine Bing auf",
+    "Dieselbe Frage liefert in verschiedenen Systemen oft verschiedene Betriebe",
+    "Bing Places und Apple Business Connect gewinnen dadurch an Bedeutung"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die wichtigsten KI-Assistenten im Überblick",
+      "html": "<ul> <li><strong>ChatGPT</strong> (OpenAI): der bekannteste Assistent, mit Websuche für aktuelle Fragen. Mehr dazu unter <a href=\"/wissen/chatgpt-empfiehlt-firmen/\">Wie ChatGPT Firmen empfiehlt</a>.</li> <li><strong>Gemini</strong> (Google): als eigene App, auf vielen Android-Handys als Assistent und in Google-Diensten. Greift auf das Wissen von Google zurück, auch auf Unternehmensprofile.</li> <li><strong>Perplexity</strong>: eine Antwortsuchmaschine, die jede Antwort mit nummerierten Quellen belegt. Beliebt bei Menschen, die gründlich recherchieren.</li> <li><strong>Microsoft Copilot</strong>: in Windows, im Browser Edge und in Office-Programmen eingebaut, baut auf Bing auf.</li> <li><strong>Claude</strong> (Anthropic): stark beim Schreiben und Analysieren, mit Websuche für aktuelle Fragen.</li> </ul> <p>Dazu kommen die KI-Übersichten direkt in der Google-Suche, beschrieben im Ratgeber <a href=\"/wissen/google-ki-uebersichten/\">Google-KI-Übersichten und Ihr Betrieb</a>.</p>"
+    },
+    {
+      "h2": "Worin sie sich für Betriebe unterscheiden",
+      "html": "<p>Für die Frage, ob Ihr Betrieb genannt wird, sind vor allem die Quellen entscheidend, auf die ein System zugreift:</p> <ul> <li><strong>Gemini</strong> hat direkten Zugang zu Google-Daten. Ein gepflegtes Google-Unternehmensprofil mit Bewertungen ist hier besonders wichtig.</li> <li><strong>Copilot</strong> nutzt Bing. Ein Eintrag bei Bing Places und eine Website, die Bing gut lesen kann, zählen hier mehr.</li> <li><strong>Perplexity</strong> durchsucht das Web und zeigt Quellen sehr offen an. Gut gegliederte Seiten mit klaren Antworten werden gern zitiert.</li> <li><strong>ChatGPT und Claude</strong> kombinieren Trainingswissen mit Websuche, je nach Frage.</li> </ul> <p>Das Ergebnis: Ein Installateur kann bei Gemini gut vertreten sein, weil sein Google-Profil stark ist, bei Copilot aber fehlen, weil er Bing nie beachtet hat.</p>"
+    },
+    {
+      "h2": "Typische Fragen, die Kunden dort stellen",
+      "html": "<p>Menschen fragen KI-Assistenten anders als eine Suchmaschine: länger, persönlicher und mit mehr Details. Einige typische Beispiele:</p> <ul> <li>„Ich habe ein altes Bauernhaus im Waldviertel und will eine Wärmepumpe. Wen kann ich in der Gegend fragen?“</li> <li>„Welches Gasthaus im Kamptal hat am Montag offen und ist gut mit Kindern?“</li> <li>„Suche eine Physiotherapie mit Hausbesuchen bei Melk, am besten mit Kassenvertrag.“</li> </ul> <p>Je genauer Ihre Website solche Details beantwortet, also Zielgruppe, Besonderheiten, Öffnungszeiten, Einzugsgebiet, desto eher passen Sie zur Antwort.</p>"
+    },
+    {
+      "h2": "Was bei allen Systemen hilft",
+      "html": "<ol> <li><strong>Klare Texte:</strong> Leistung, Ort und Zielgruppe gleich im ersten Absatz jeder wichtigen Seite.</li> <li><strong>Einheitliche Firmendaten</strong> auf Website, Google, Bing Places, Apple Business Connect und Verzeichnissen. Siehe <a href=\"/wissen/nap-daten/\">Einheitliche Firmendaten</a>.</li> <li><strong>Bewertungen</strong> auf Google und, wo es zur Branche passt, auf Fachplattformen.</li> <li><strong>Erwähnungen</strong> auf anderen Websites, etwa bei Partnern, Vereinen und regionalen Medien.</li> <li><strong>Zugang für Crawler:</strong> Such-Crawler der KI-Anbieter nicht aussperren.</li> <li><strong>Antworten auf echte Fragen</strong>, vollständig und ohne Verweis auf andere Abschnitte.</li> </ol>"
+    },
+    {
+      "h2": "Bing und Apple nicht vergessen",
+      "html": "<p>Viele Betriebe pflegen nur ihr Google-Profil. Durch KI-Assistenten werden andere Quellen wichtiger. Copilot stützt sich auf Bing, und auf iPhones fließen Daten aus Apple Karten in Siri und andere Dienste ein. Beide Einträge sind kostenlos und in kurzer Zeit erledigt:</p> <ul> <li><strong>Bing Places for Business:</strong> Daten lassen sich teilweise aus dem Google-Profil übernehmen.</li> <li><strong>Apple Business Connect:</strong> steuert Name, Adresse, Öffnungszeiten, Fotos und Links in Apple Karten.</li> </ul> <p>Welche Verzeichnisse darüber hinaus sinnvoll sind, steht im Ratgeber <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnisse in Österreich</a>.</p>"
+    },
+    {
+      "h2": "KI-Assistenten auch selbst nutzen",
+      "html": "<p>Dieselben Werkzeuge, über die Kunden Sie finden, können Ihnen auch im Betrieb helfen: beim Formulieren von Angeboten, beim Zusammenfassen langer E-Mails oder beim Recherchieren. Wichtig ist dabei, keine vertraulichen Kundendaten unbedacht einzugeben und Ergebnisse zu prüfen. Einen Einstieg gibt der Ratgeber <a href=\"/wissen/chatgpt-im-betrieb/\">ChatGPT im Betrieb sinnvoll nutzen</a>.</p> <p>Ein nützlicher Nebeneffekt: Wer selbst mit den Systemen arbeitet, bekommt ein Gefühl dafür, wie sie antworten und welche Informationen sie über den eigenen Betrieb haben.</p>"
+    },
+    {
+      "h2": "So prüfen Sie Ihre Sichtbarkeit in mehreren Systemen",
+      "html": "<p>Stellen Sie dieselben drei bis fünf Kundenfragen in ChatGPT, Gemini, Perplexity und Copilot. Notieren Sie, wer genannt wird und welche Quellen angegeben sind. Oft zeigt sich schnell, wo Lücken liegen, etwa ein fehlender Bing-Eintrag oder eine veraltete Adresse in einem Verzeichnis.</p> <p>Systematischer und vergleichbar misst das der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>, mit Bericht innerhalb von 24 Stunden. Wenn Sie die Lücken schließen möchten, unterstützt Sie die Leistung <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen (GEO)</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist Perplexity?",
+      "a": "Perplexity ist eine KI-gestützte Antwortsuchmaschine. Statt einer Linkliste liefert sie eine zusammengefasste Antwort und belegt die Aussagen mit nummerierten Quellen, die man direkt anklicken kann. Für Betriebe ist das interessant, weil sichtbar wird, welche Websites zitiert werden. Gut gegliederte Seiten mit klaren, sachlichen Antworten auf konkrete Fragen haben gute Chancen, als Quelle zu erscheinen."
+    },
+    {
+      "q": "Muss ich mich um jede KI-Suche einzeln kümmern?",
+      "a": "Nein. Die Grundlagen wirken bei allen Systemen: klare Website-Texte, einheitliche Firmendaten, Bewertungen und Erwähnungen auf anderen Websites. Zusätzlich lohnt es sich, neben dem Google-Unternehmensprofil auch Bing Places und Apple Business Connect zu pflegen, weil manche Assistenten auf diese Quellen zugreifen. Darüber hinaus ist keine eigene Arbeit pro System nötig."
+    },
+    {
+      "q": "Welche KI-Suche ist für meinen Betrieb am wichtigsten?",
+      "a": "Das lässt sich pauschal nicht sagen und ändert sich laufend. ChatGPT ist derzeit sehr verbreitet, Gemini ist auf vielen Android-Handys und in Google-Diensten präsent, Copilot in Windows und Office. Statt auf ein System zu setzen, ist es sinnvoller, die gemeinsamen Grundlagen zu pflegen und regelmäßig zu prüfen, wie Ihr Betrieb in den verschiedenen Assistenten erscheint."
+    },
+    {
+      "q": "Warum nennt Gemini andere Betriebe als ChatGPT?",
+      "a": "Die Systeme greifen auf unterschiedliche Quellen zu. Gemini nutzt stark die Daten von Google, etwa Unternehmensprofile und Bewertungen. ChatGPT kombiniert Trainingswissen mit eigener Websuche, Copilot stützt sich auf Bing. Dazu kommen unterschiedliche Modelle, die Antworten verschieden formulieren und gewichten. Deshalb lohnt sich ein Blick auf mehrere Systeme, bevor man Schlüsse zieht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatgpt-empfiehlt-firmen/",
+    "/wissen/google-ki-uebersichten/",
+    "/wissen/was-ist-geo/",
+    "/wissen/ki-sichtbarkeit-messen/",
+    "/leistungen/geo-ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

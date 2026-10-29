@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/ki-gastronomie/",
+  "title": "KI in Gastronomie und Hotellerie: Was wirklich hilft",
+  "description": "Wo KI in Gastronomie und Hotellerie Zeit spart: Gästefragen, Reservierungen, Bewertungen, Übersetzungen – und wo Sie besser selbst entscheiden.",
+  "h1": "KI in Gastronomie und Hotellerie: Wo sie hilft und wo nicht",
+  "kicker": "Ratgeber · KI",
+  "lead": "KI hilft in Gastronomie und Hotellerie vor allem bei der wiederkehrenden Kommunikation: Gästefragen beantworten, Reservierungsanfragen aufnehmen, Bewertungsantworten und Speisekarten-Texte entwerfen, Inhalte übersetzen. Die Gastfreundschaft, die Küche und alle Angaben zu Allergenen, Preisen und Verfügbarkeit bleiben in Ihrer Verantwortung.",
+  "fakten": [
+    "Größter Nutzen: immer gleiche Gästefragen, auch während des Service und nach Feierabend",
+    "Allergene, Preise und freie Zimmer nur aus geprüften Daten, nie von der KI geschätzt",
+    "Bewertungsantworten und Übersetzungen als Entwurf – vor dem Veröffentlichen gegenlesen",
+    "Einstieg mit einem einzigen Anwendungsfall, nicht mit fünf Werkzeugen gleichzeitig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo KI im Gastbetrieb wirklich Arbeit abnimmt",
+      "html": "<p>Im Gastbetrieb fällt viel Arbeit an, die nichts mit Kochen oder Bedienen zu tun hat: Fragen beantworten, Texte schreiben, Anfragen sortieren. Genau dort ist KI stark, weil sich die Aufgaben ständig wiederholen und sprachlich sind.</p><ul> <li><strong>Gästefragen:</strong> Öffnungszeiten, Ruhetage, Parkplätze, Hunde erlaubt, Kinderstühle, Anreise mit dem Zug.</li><li><strong>Reservierungs- und Buchungsanfragen:</strong> Wunsch aufnehmen, Rückfragen stellen, vollständig an Sie weitergeben.</li><li><strong>Texte:</strong> Wochenkarte, Beschreibungen für Zimmer und Arrangements, Beiträge für Social Media.</li><li><strong>Bewertungen:</strong> höfliche, persönliche Antwortentwürfe, auch auf unfaire Kritik.</li><li><strong>Übersetzungen:</strong> Speisekarte, Hausordnung, Check-in-Infos für internationale Gäste.</li></ul> <p>Was KI nicht kann: die Stimmung im Gastraum lesen, einen Stammgast begrüßen oder spontan eine Lösung finden, wenn die Küche voll ist.</p>"
+    },
+    {
+      "h2": "Gästefragen beantworten, während Sie im Service stehen",
+      "html": "<p>Das Telefon läutet meist genau dann, wenn alle Hände gebraucht werden: zu Mittag, am Freitagabend, beim Frühstücksbuffet. Ein KI-Chatbot auf der Website oder ein KI-Telefonassistent kann die Standardfragen übernehmen und alles andere sauber notieren.</p><p>Typische Situation: Ein Landgasthaus mit Fremdenzimmern bekommt jeden Tag dieselben Fragen zu Zimmergrößen, Frühstückszeiten und dem Weg zum nächsten Radweg. Steht das alles auf der Website, kann ein Chatbot es sofort beantworten, auch um 23 Uhr. Bucht jemand konkret, übergibt der Bot die Anfrage an Sie.</p><p>Wichtig ist, dass der Bot nur mit Ihren eigenen Inhalten antwortet und bei Unsicherheit an Ihr Team verweist. Mehr dazu, worauf es bei Reservierungen ankommt, lesen Sie im Ratgeber zur <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a>.</p>"
+    },
+    {
+      "h2": "Texte, Übersetzungen und Bewertungsantworten",
+      "html": "<p>Für Texte ist KI ein guter erster Entwurf, aber kein fertiges Ergebnis. Geben Sie ihr Stichworte („Kürbiscremesuppe, Kernöl aus der Region, ab Montag“) und lassen Sie sich drei Varianten schreiben. Die beste überarbeiten Sie mit Ihren eigenen Worten.</p><p>Bei Übersetzungen spart KI viel Geld und Zeit, gerade in touristischen Regionen. Lassen Sie Gerichte mit regionalen Namen aber nicht wörtlich übersetzen, sondern beschreiben: Ein Gericht wie „Waldviertler Mohnnudeln“ braucht für Gäste aus dem Ausland eine kurze Erklärung, keine Kunstübersetzung.</p><p>Bei Bewertungen hilft KI vor allem, wenn eine Kritik ärgert. Sie schreibt eine sachliche Antwort, die Sie persönlicher machen. Wie gute Antworten aussehen, zeigt der Ratgeber <a href=\"/wissen/auf-bewertungen-antworten/\">Auf Bewertungen antworten</a>.</p>"
+    },
+    {
+      "h2": "Wo Sie bei KI im Gastbetrieb vorsichtig sein müssen",
+      "html": "<p>KI-Sprachmodelle formulieren auch dann überzeugend, wenn sie etwas nicht wissen. Im Gastbetrieb kann das unangenehm werden. Diese Punkte gehören deshalb nie in die freie Hand einer KI:</p><ul> <li><strong>Allergene und Inhaltsstoffe:</strong> nur aus Ihrer geprüften Allergenliste, sonst Verweis auf das Personal.</li><li><strong>Preise und Arrangements:</strong> nur aus aktuellen Unterlagen, alte Preislisten von der Website entfernen.</li><li><strong>Verfügbarkeit:</strong> freie Tische oder Zimmer kann eine KI nur nennen, wenn sie direkt an Ihr Buchungssystem angebunden ist.</li><li><strong>Zusagen:</strong> Sonderwünsche, Gruppenpreise oder Stornoregeln bestätigt ein Mensch.</li></ul> <p>Dazu kommt der Datenschutz: Gästedaten gehören nicht in Gratis-Chatprogramme. Einen Überblick gibt der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "So starten Sie: ein Fall nach dem anderen",
+      "html": "<ol><li><strong>Eine Woche lang mitschreiben:</strong> Welche Fragen kommen am häufigsten, per Telefon, Mail und Social Media?</li><li><strong>Antworten auf die Website bringen:</strong> Was dort nicht steht, kann auch keine KI zuverlässig beantworten.</li><li><strong>Einen Anwendungsfall wählen:</strong> etwa Gästefragen per Chatbot oder Bewertungsantworten.</li><li><strong>Vier Wochen testen:</strong> Gespräche durchlesen, falsche oder fehlende Antworten korrigieren.</li><li><strong>Erst dann erweitern:</strong> zum Beispiel Telefon in Stoßzeiten oder automatische Social-Media-Beiträge.</li></ol> <p>Ein Heuriger mit wenigen Öffnungswochen braucht andere Lösungen als ein Hotel mit Ganzjahresbetrieb. Branchentypische Ideen finden Sie auf den Seiten für <a href=\"/branchen/restaurant/\">Restaurants</a> und <a href=\"/branchen/hotel/\">Hotels</a>.</p>"
+    },
+    {
+      "h2": "Passende Werkzeuge und ein unverbindlicher Test",
+      "html": "<p>Für Gästefragen auf der Website gibt es <a href=\"/produkte/pipebot/\">Pipebot</a>: Der KI-Chatbot antwortet rund um die Uhr nur mit Ihren Inhalten, im Design Ihrer Website, und verbindet bei Unsicherheit mit Ihrem Team. Er kostet 19 € im Monat, ist monatlich kündbar und die ersten 30 Tage sind gratis. Ob Ihre Website genug Inhalte dafür hat, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p><p>Läutet vor allem das Telefon, ist ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> die bessere Wahl, Preis auf Anfrage. Und wer keine Zeit für Social Media hat, kann mit <a href=\"https://app.pipeflow.at/start\">Pipeflow</a> aus der eigenen Website wöchentliche Beiträge erstellen lassen, derzeit in der Pilotphase kostenlos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein KI-Chatbot Tischreservierungen annehmen?",
+      "a": "Ein Chatbot kann Reservierungswünsche aufnehmen, also Datum, Uhrzeit, Personenanzahl und Kontakt, und vollständig an Sie weitergeben. Eine verbindliche Zusage mit freiem Tisch ist nur möglich, wenn er direkt an Ihr Reservierungssystem angebunden ist. Ohne diese Anbindung sollte der Bot klar sagen, dass die Reservierung erst nach Ihrer Bestätigung gilt."
+    },
+    {
+      "q": "Darf eine KI Auskunft über Allergene geben?",
+      "a": "Nur, wenn sie ausschließlich auf Ihre geprüfte Allergenliste zugreift und diese aktuell ist. Sicherer ist, wenn der Bot allgemeine Hinweise gibt und bei konkreten Allergien auf das Personal verweist. Eine KI darf Inhaltsstoffe nie aus dem Namen eines Gerichts ableiten, weil sie dabei leicht danebenliegt und die Verantwortung bei Ihnen bleibt."
+    },
+    {
+      "q": "Lohnt sich KI auch für einen kleinen Saisonbetrieb?",
+      "a": "Oft ja, weil gerade in der Saison keine Zeit für Telefon und Mails bleibt. Ein Chatbot mit Monatspreis lässt sich außerhalb der Saison kündigen oder mit dem Hinweis auf die Öffnungszeiten weiterlaufen. Wenig Sinn hat KI, wenn kaum Anfragen kommen oder wichtige Infos wie Öffnungstage nirgends aktuell online stehen."
+    },
+    {
+      "q": "Ersetzt KI Mitarbeiter in Küche oder Service?",
+      "a": "Nein. KI übernimmt sprachliche Routinearbeit wie Fragen beantworten, Texte entwerfen oder Anfragen sortieren. Kochen, Bedienen, Beraten am Tisch und das Gespür für Gäste bleiben Aufgaben von Menschen. Realistisch ist, dass Ihr Team weniger unterbrochen wird und mehr Zeit für die Gäste vor Ort hat."
+    },
+    {
+      "q": "Welche Inhalte braucht ein Gastbetrieb, damit KI gut antwortet?",
+      "a": "Aktuelle Öffnungszeiten und Ruhetage, eine Beschreibung von Zimmern oder Gasträumen, Anreise und Parken, Regeln zu Hunden, Kindern und Gruppen, Zahlungsarten sowie die aktuelle Speisekarte. Je vollständiger diese Angaben auf Ihrer Website stehen, desto seltener muss die KI an Ihr Team verweisen. Veraltete Seiten wie alte Silvestermenüs sollten Sie vorher entfernen."
+    }
+  ],
+  "verwandt": [
+    "/branchen/restaurant/",
+    "/branchen/hotel/",
+    "/wissen/online-reservierung/",
+    "/produkte/pipebot/",
+    "/wissen/seo-gastronomie/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "social-media-test"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/vorarlberg/",
+  "title": "Digitalagentur Vorarlberg: online beraten, klar kalkuliert",
+  "description": "Website, KI-Gesprächsnotizen und Automatisierung für Vorarlberger Betriebe im Dreiländereck – online beraten, mit Vertragspartner in Österreich.",
+  "h1": "Digitalagentur für Vorarlberg – digital arbeiten im Dreiländereck",
+  "kicker": "Region · Bundesland",
+  "lead": "Für Vorarlberger Betriebe ist Mühlberger Digital ein Ansprechpartner für Website, KI-Werkzeuge und Automatisierung, beraten wird online. Gerade wer viel mit Kundschaft aus Deutschland, der Schweiz oder Liechtenstein arbeitet, profitiert von sauberen digitalen Abläufen.",
+  "fakten": [
+    "Landeshauptstadt Bregenz am Bodensee, Grenzen zu Deutschland, Schweiz und Liechtenstein",
+    "noteit schreibt Gesprächsnotizen ohne Bot im Call, Speicherung in Frankfurt",
+    "Vertragspartner: Pipeline AI Solutions in Österreich",
+    "Beratung per Video-Call, Erstgespräch kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vorarlberg: klein, international, sehr effizient",
+      "html": "<p>Vorarlberg ist das westlichste Bundesland Österreichs, mit der Landeshauptstadt <a href=\"/regionen/bregenz/\">Bregenz</a> am Bodensee. Das Rheintal ist dicht besiedelt und stark von Industrie und exportorientierten Betrieben geprägt, der Bregenzerwald ist für Holzbau und Handwerk bekannt, und in den Bergtälern spielt der Tourismus eine große Rolle. Viele Betriebe haben Kundschaft auf beiden Seiten der Grenze.</p><p>Daraus ergibt sich ein eigener Blick auf das Digitale: Termine, Angebote und Abstimmungen laufen oft über Grenzen hinweg und schon heute per Video-Call.</p>"
+    },
+    {
+      "h2": "Gespräche mit Kundschaft aus dem Ausland sauber dokumentieren",
+      "html": "<p>Wer mit Auftraggebern in der Schweiz oder in Deutschland arbeitet, führt viele Abstimmungen online. Danach fehlt oft die Zeit für ein Protokoll. noteit erstellt Gesprächsnotizen und Meeting-Protokolle für Teams, Zoom, Google Meet, Webex und andere, ohne Bot im Call. Die Daten werden in Frankfurt gespeichert, die Notiz ist etwa zwei Minuten nach dem Gespräch fertig.</p><p>Ein Starter-Paket mit drei Stunden pro Monat ist kostenlos, Pro kostet 14 € pro Monat, Team 24 € pro Person und Monat. Mehr zur Leistung unter <a href=\"/leistungen/meeting-protokolle-ki/\">Meeting-Protokolle mit KI</a>.</p>"
+    },
+    {
+      "h2": "Typische Situationen in Vorarlberger Betrieben",
+      "html": "<ul><li>Eine <a href=\"/branchen/zimmerei/\">Zimmerei</a> im Bregenzerwald zeigt ihre Holzbauprojekte bisher nur im Büro. Eine Website mit guten Fotos und klarer Anfrage erreicht auch Bauherren aus dem Nachbarland.</li><li>Ein Zulieferbetrieb im Rheintal schreibt viele ähnliche Angebote. Eine <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a> bereitet Entwürfe aus vorhandenen Daten vor, freigegeben wird weiterhin von Menschen.</li><li>Ein Gasthaus in einem Bergtal bekommt Anfragen auf Deutsch und Englisch. Ein Chatbot beantwortet Standardfragen mit den Inhalten der Website.</li></ul>"
+    },
+    {
+      "h2": "Kundschaft aus der Schweiz und Deutschland: worauf achten",
+      "html": "<p>Wenn Sie viele Kunden jenseits der Grenze haben, sollte die Website das berücksichtigen: klare Angaben, ob und wohin Sie liefern oder arbeiten, Preise mit Hinweis auf die Steuer und Kontaktmöglichkeiten, die über Ländergrenzen gut funktionieren. Rechtliche Fragen rund um grenzüberschreitende Geschäfte klären Sie im Einzelfall am besten mit der Wirtschaftskammer oder Ihrer Steuerberatung.</p><p>Für Betriebe, die selbst in Deutschland oder der Schweiz sitzen, gibt es eigene Seiten zu <a href=\"/regionen/schweiz/\">Schweiz</a> und <a href=\"/regionen/deutschland/\">Deutschland</a>.</p>"
+    },
+    {
+      "h2": "So läuft die Zusammenarbeit mit Vorarlberg",
+      "html": "<p>Mühlberger Digital sitzt in Ottenschlag im Waldviertel, die Beratung für Vorarlberg läuft deshalb per Video-Call und Telefon. Umgesetzt wird von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>, Ihr Vertragspartner ist damit ein österreichisches Unternehmen. Die Preise sind vorab klar, Sie bekommen ein schriftliches Angebot.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich noteit auch für Gespräche mit Schweizer Kunden verwenden?",
+      "a": "Technisch ja, noteit funktioniert mit Teams, Zoom, Google Meet, Webex und weiteren Programmen, ohne Bot im Call. Rechtlich sollten Sie Gesprächspartner vorab informieren, dass Notizen mit KI erstellt werden, und im Zweifel ihre Zustimmung einholen. Die genauen Regeln hängen vom Einzelfall ab. Für eine verbindliche Auskunft fragen Sie am besten die Wirtschaftskammer oder eine Anwältin."
+    },
+    {
+      "q": "Gibt es persönliche Termine in Vorarlberg?",
+      "a": "In der Regel nicht, weil der Sitz von Mühlberger Digital im Waldviertel liegt und die Anfahrt sehr lang wäre. Die Beratung läuft per Video-Call und Telefon. Das ist für die meisten digitalen Lösungen kein Nachteil, denn Website-Entwürfe, Chatbots oder Gesprächsnotizen werden ohnehin am Bildschirm gezeigt, und zwar mit Ihren eigenen Daten."
+    },
+    {
+      "q": "Was kostet eine Website für einen Vorarlberger Handwerksbetrieb?",
+      "a": "Die Starter-Website kostet ab 2.500 € einmalig, ohne USt. Sie umfasst bis zu fünf Seiten, funktioniert auf allen Geräten, ist für Google und KI-Suchen optimiert und enthält Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Für größere Projekte, etwa mit Projektgalerie, mehreren Sprachen oder Anbindung an bestehende Programme, gibt es ein Angebot nach dem Erstgespräch."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bregenz/",
+    "/produkte/noteit/",
+    "/regionen/schweiz/",
+    "/branchen/tischler/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "chatbot-test"
+  ]
+}

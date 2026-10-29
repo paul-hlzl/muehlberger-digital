@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/hollabrunn/",
+  "title": "KI-Automatisierung in Hollabrunn: Belege ohne Abtippen",
+  "description": "Prozessautomatisierung mit KI in Hollabrunn: Lieferscheine und Rechnungen fotografieren, Daten auslesen lassen, sauber an den Steuerberater übergeben.",
+  "h1": "KI & Prozessautomatisierung in Hollabrunn",
+  "kicker": "KI-Automatisierung · Hollabrunn",
+  "lead": "Für Betriebe im Bezirk Hollabrunn, vom Weinbau über die Landwirtschaft bis zum Handel, ist die Belegarbeit ein guter Einstieg in die KI-Automatisierung. Lieferscheine und Rechnungen werden fotografiert, die KI liest Datum, Lieferant und Beträge aus und legt alles geordnet für Sie und Ihren Steuerberater ab.",
+  "fakten": [
+    "Einstieg: Belege fotografieren, KI liest die wichtigsten Daten aus",
+    "Ablage nach Ihren Regeln, Übergabe an die Steuerberatung",
+    "Unklare Belege werden markiert, nicht geraten",
+    "Rechtliche Aufbewahrungsfragen mit Steuerberater oder WKO klären"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viel Papier zwischen Feld, Keller und Kunde",
+      "html": "<p>Hollabrunn ist Bezirkshauptstadt im westlichen Weinviertel. Rundherum prägen Landwirtschaft, Weinbau, Handel und Gewerbe das Bild, oft als Familienbetrieb geführt. In solchen Betrieben sammelt sich über die Woche einiges an: Lieferscheine von Saatgut und Material, Tankrechnungen, Kassabelege, Rechnungen an Kunden.</p><p>Diese Zettel abzutippen oder zu sortieren ist Arbeit, die niemand gern macht. Gleichzeitig folgt sie fast immer demselben Muster. Genau das macht sie zu einem guten Fall für <a href=\"/leistungen/ki-automatisierung/\">KI-gestützte Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Vom Foto zum geordneten Beleg in vier Schritten",
+      "html": "<ol><li><strong>Fotografieren:</strong> Beleg mit dem Handy aufnehmen oder als PDF aus dem Postfach weiterleiten.</li><li><strong>Auslesen:</strong> Die KI erkennt Lieferant, Datum, Rechnungsnummer, Netto, Steuer und Gesamtbetrag.</li><li><strong>Zuordnen:</strong> Der Beleg bekommt eine Kategorie, etwa Betriebsmittel, Fahrzeug oder Wareneinkauf, nach Regeln, die Sie festlegen.</li><li><strong>Ablegen:</strong> Datei und Daten landen in einem Ordner oder einer Tabelle, monatlich bereit für die Steuerberatung.</li></ol><p>Einen Überblick über das Thema gibt der Ratgeber <a href=\"/wissen/belege-digital/\">Belege digital</a>.</p>"
+    },
+    {
+      "h2": "Schnittstelle zur Steuerberatung",
+      "html": "<p>Viele Steuerberatungskanzleien arbeiten bereits digital und nehmen Belege in einem bestimmten Format entgegen. Die Automatisierung richtet sich danach, nicht umgekehrt. Sprechen Sie vorab mit Ihrer Kanzlei, welche Form ihr am meisten hilft. Was die Kanzleiseite davon hat, zeigt die Branchenseite <a href=\"/branchen/steuerberater/\">Steuerberater</a>.</p>"
+    },
+    {
+      "h2": "Wann sich das nicht lohnt",
+      "html": "<p>Wer im Monat zwanzig Belege hat und sie ohnehin gesammelt abgibt, braucht keine eigene Automatisierung. Dann reicht oft die App der Steuerberatung oder ein gut sortierter Ordner. Interessant wird es, wenn Belege aus mehreren Quellen kommen, mehrere Personen einkaufen oder Sie Zahlen laufend sehen wollen, etwa für die Kalkulation.</p><p>Mühlberger Digital sagt Ihnen das im kostenlosen Erstgespräch offen. Wenn es passt, setzt Pipeline AI Solutions die Lösung um. Mehr über die Region steht auf der Seite <a href=\"/regionen/bezirk-hollabrunn/\">Bezirk Hollabrunn</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich Papierbelege nach dem Fotografieren noch aufheben?",
+      "a": "Das ist eine steuerrechtliche Frage, die von der Art des Belegs und Ihrer Situation abhängt. Es gibt Regeln zur Aufbewahrung und zur Form, in der Belege vorliegen müssen. Bitte klären Sie das mit Ihrer Steuerberatung oder der Wirtschaftskammer, bevor Sie Papier entsorgen. Die Automatisierung kann beide Varianten unterstützen."
+    },
+    {
+      "q": "Erkennt die KI auch handschriftliche Lieferscheine?",
+      "a": "Gut lesbare Handschrift erkennt die KI meist, bei krakeliger Schrift, Durchschlägen oder schlechtem Licht wird es unsicher. Deshalb markiert das System Belege, bei denen es sich nicht sicher ist, statt Werte zu raten. Sie sehen diese Fälle gesammelt und ergänzen kurz die fehlenden Angaben. Mit der Zeit zeigt sich, welche Lieferanten problematisch sind."
+    },
+    {
+      "q": "Was kostet eine solche Belegautomatisierung?",
+      "a": "Einen Pauschalpreis gibt es nicht, weil der Aufwand davon abhängt, wie viele Quellen angebunden werden und wohin die Daten gehen sollen. Nach dem kostenlosen Erstgespräch bekommen Sie ein schriftliches Angebot mit klarem Preis. Dazu kommen gegebenenfalls laufende Kosten für die genutzten KI-Dienste, die vorab offen genannt werden."
+    },
+    {
+      "q": "Kann ich das zuerst mit einem Monat Belege ausprobieren?",
+      "a": "Das ist sogar sinnvoll. Ein Monat mit echten Belegen zeigt schnell, wie gut die Erkennung bei Ihren Lieferanten funktioniert und wo nachgebessert werden muss. In der Regel wird so ein Testlauf im Projekt eingeplant, bevor alles dauerhaft eingerichtet wird. Wie das konkret aussieht, besprechen Sie im Erstgespräch."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-hollabrunn/",
+    "/regionen/weinviertel/",
+    "/wissen/belege-digital/",
+    "/branchen/landwirtschaft/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

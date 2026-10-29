@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/waidhofen-an-der-ybbs/",
+  "title": "SEO in Waidhofen an der Ybbs: Altstadt, Ybbstal, Handwerk",
+  "description": "SEO für Betriebe in Waidhofen an der Ybbs: wie Geschäfte in der Innenstadt, Gastgeber im Ybbstal und Handwerk mit Tradition online gezielt gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Waidhofen an der Ybbs",
+  "kicker": "SEO · Waidhofen an der Ybbs",
+  "lead": "Waidhofen an der Ybbs ist eine kleine Statutarstadt im Mostviertel mit eigener Altstadt, Gästen im Ybbstal und vielen Handwerksbetrieben. SEO bedeutet hier, je nach Branche den passenden Schwerpunkt zu setzen: Laufkundschaft für die Innenstadt, Gäste für Gastronomie und Unterkünfte, Fachkunden für das Handwerk.",
+  "fakten": [
+    "Waidhofen an der Ybbs ist Statutarstadt im Mostviertel, an der Ybbs gelegen",
+    "Der Ybbstalradweg bringt Gäste in die Region",
+    "Die Gegend gehört zur Eisenstraße mit langer Handwerkstradition",
+    "Vollständiger Ortsname vermeidet Verwechslung mit Waidhofen an der Thaya"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kleine Stadt mit eigenem Profil",
+      "html": "<p>Waidhofen an der Ybbs ist zugleich Stadt und regionales Zentrum für das obere Ybbstal. Wer hier ein Geschäft, eine Werkstatt oder ein Gasthaus führt, hat Kundschaft aus der Stadt, aus den umliegenden Gemeinden und von Gästen. Jede Gruppe sucht anders.</p><p>Eine gute <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> legt deshalb zuerst fest, welche Gruppe für Ihren Betrieb am wichtigsten ist. Mehr zur Stadt finden Sie auf der Seite <a href=\"/regionen/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a>.</p>"
+    },
+    {
+      "h2": "Geschäfte in der Innenstadt",
+      "html": "<p>Für den Handel zählt, dass Menschen vor dem Einkauf wissen, was es gibt und wann offen ist. Viele prüfen das kurz am Handy, bevor sie in die Stadt fahren. Ein vollständiges Google-Unternehmensprofil mit Fotos vom Geschäft, Sortimentsbeschreibung und aktuellen Zeiten ist dafür die wichtigste Grundlage.</p><p>Wer zusätzlich einzelne Produktgruppen auf der Website zeigt, wird auch bei konkreten Suchen gefunden. Ideen dazu auf der Branchenseite <a href=\"/branchen/einzelhandel/\">Einzelhandel</a>.</p>"
+    },
+    {
+      "h2": "Gäste im Ybbstal",
+      "html": "<p>Radfahrerinnen am Ybbstalradweg und Wanderer suchen unterwegs nach Einkehr, Unterkunft und Radservice. Für Gastgeber zählen hier Öffnungszeiten, Lage und Hinweise wie „radfreundlich“, wenn sie zutreffen. Eine kurze Seite für Gäste mit Anreise und Angeboten hilft auch KI-Assistenten, Ihren Betrieb zu empfehlen. Wie das funktioniert, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Handwerk mit Tradition",
+      "html": "<p>Die Region gehört zur Eisenstraße, und metallverarbeitende Betriebe haben hier lange Tradition. Ein Metallbaubetrieb oder eine Schlosserei wird oft von Firmen und Bauherren mit konkreten Anfragen gesucht. Hier zählen Fachbegriffe, Referenzfotos und klare Angaben zu Materialien und Möglichkeiten, mehr auf der Branchenseite <a href=\"/branchen/metallbau/\">Metallbau</a>.</p><p>Tradition allein überzeugt online nicht. Zeigen Sie, was Sie heute können, mit Bildern aus der eigenen Werkstatt.</p>"
+    },
+    {
+      "h2": "Das richtige Waidhofen",
+      "html": "<p>Weil es im Waldviertel ein zweites Waidhofen gibt, sollten Sie überall den vollständigen Namen „Waidhofen an der Ybbs“ verwenden. Einen ersten Überblick über Ihre Website liefert der <a href=\"/gratis-check/seo-check/\">kostenlose SEO-Check</a>, danach folgt das Erstgespräch.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie werde ich von Radfahrern im Ybbstal gefunden?",
+      "a": "Meist suchen sie unterwegs direkt in Google Maps. Ein vollständiges Google-Unternehmensprofil mit passender Kategorie, aktuellen Öffnungszeiten und Fotos ist dafür am wichtigsten. Wenn Sie besondere Angebote für Radfahrer haben, etwa einen sicheren Abstellplatz, sollten Sie diese auf der Website und im Profil klar nennen. Gute Bewertungen von Gästen verstärken die Wirkung."
+    },
+    {
+      "q": "Lohnt sich SEO für ein kleines Geschäft in der Altstadt?",
+      "a": "Meist in kleinem Umfang ja. Viele Menschen prüfen vor dem Einkauf online, ob ein Geschäft offen hat und das Gesuchte führt. Ein gepflegtes Google-Profil und eine einfache Website mit Sortiment und Öffnungszeiten reichen oft schon. Aufwendige Pakete sind für ein einzelnes Geschäft selten nötig. Im Erstgespräch klären wir, was zu Ihnen passt."
+    },
+    {
+      "q": "Wie zeige ich als Handwerksbetrieb meine Kompetenz online?",
+      "a": "Mit eigenen Fotos von abgeschlossenen Arbeiten, kurzen Beschreibungen zu Material und Herausforderung und klaren Angaben, für wen Sie arbeiten. Eine Seite pro Leistungsbereich hilft Google, Ihr Angebot einzuordnen. Bewertungen von Kunden und ein Foto des Teams schaffen Vertrauen. Ehrliche, konkrete Inhalte wirken stärker als allgemeine Werbesprache."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/waidhofen-an-der-ybbs/",
+    "/regionen/mostviertel/",
+    "/leistungen/seo/waidhofen-an-der-thaya/",
+    "/leistungen/website-erstellen/waidhofen-an-der-ybbs/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

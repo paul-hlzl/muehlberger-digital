@@ -1,0 +1,43 @@
+{
+  "pfad": "/glossar/robots-txt/",
+  "title": "robots.txt einfach erklärt: Regeln für Crawler",
+  "description": "robots.txt einfach erklärt: Wie die Datei Suchmaschinen- und KI-Crawlern sagt, was sie lesen dürfen, und warum sie Seiten nicht zuverlässig versteckt.",
+  "h1": "robots.txt",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Die robots.txt ist eine einfache Textdatei im Hauptverzeichnis einer Website, die Crawlern von Suchmaschinen und KI-Diensten mitteilt, welche Bereiche sie abrufen dürfen und welche nicht. Seriöse Crawler halten sich daran, eine Sperre im technischen Sinn ist sie aber nicht.",
+  "fakten": [
+    "Liegt immer unter /robots.txt der Domain",
+    "Steuert das Abrufen, nicht zuverlässig die Indexierung",
+    "Kann einzelne Crawler wie GPTBot gezielt zulassen oder ausschließen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie die robots.txt eingesetzt wird",
+      "html": "<p>Ein Onlineshop für Honig und Imkereibedarf möchte nicht, dass Suchmaschinen Warenkorb- und Filterseiten durchsuchen, weil diese nur Varianten derselben Inhalte sind. In der robots.txt wird deshalb der Pfad zum Warenkorb ausgeschlossen, und die Adresse der <a href=\"/glossar/xml-sitemap/\">XML-Sitemap</a> wird angegeben.</p><p>Über eigene Zeilen lässt sich außerdem regeln, ob KI-<a href=\"/glossar/crawler/\">Crawler</a> wie GPTBot von OpenAI oder ClaudeBot von Anthropic die Inhalte abrufen dürfen. Das hat Folgen dafür, ob Ihr Betrieb in KI-Antworten vorkommen kann.</p>"
+    },
+    {
+      "h2": "Warum KMU ihre robots.txt kennen sollten",
+      "html": "<p>Ein falscher Eintrag kann die ganze Website für Google unsichtbar machen. Das passiert etwa, wenn eine Sperre aus der Entwicklungsphase nach dem Livegang stehen bleibt. Ein kurzer Blick auf die Datei gehört deshalb zu jedem Relaunch.</p><p>Wer Seiten aus den Ergebnissen fernhalten will, nutzt besser den Hinweis „noindex“, denn eine per robots.txt gesperrte Seite kann trotzdem in den Index gelangen, wenn sie verlinkt wird. Hintergründe zu KI-Crawlern liefert der Ratgeber <a href=\"/wissen/ki-crawler/\">KI-Crawler</a>, eine Ergänzung ist die <a href=\"/glossar/llms-txt/\">llms.txt</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sollte ich KI-Crawler in der robots.txt aussperren?",
+      "a": "Das ist eine Abwägung. Wer KI-Crawler aussperrt, verhindert, dass die Inhalte für diese Dienste abgerufen werden, verringert damit aber auch die Chance, in KI-Antworten genannt zu werden. Für die meisten kleinen Betriebe, die gefunden werden möchten, überwiegt der Nutzen der Sichtbarkeit. Bei sensiblen oder exklusiven Inhalten kann eine Sperre trotzdem sinnvoll sein."
+    },
+    {
+      "q": "Kann ich mit der robots.txt vertrauliche Seiten schützen?",
+      "a": "Nein. Die Datei ist öffentlich lesbar und nur eine Bitte an Crawler, die seriöse Dienste befolgen. Wer die Adresse kennt, kann eine gesperrte Seite trotzdem aufrufen. Vertrauliche Inhalte gehören hinter ein Passwort oder einen Login. Für das Fernhalten aus Suchergebnissen ist zudem der Hinweis „noindex“ das richtige Werkzeug."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-crawler/",
+    "/glossar/crawler/",
+    "/glossar/llms-txt/",
+    "/wissen/indexierung-pruefen/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

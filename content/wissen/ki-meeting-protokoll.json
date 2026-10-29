@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/ki-meeting-protokoll/",
+  "title": "KI-Meeting-Protokolle: Vor- und Nachteile im Überblick",
+  "description": "KI-Meeting-Protokolle: Welche Vorteile sie bringen, wo Risiken bei Datenschutz und Genauigkeit liegen und für welche Gespräche sie passen – ehrlich abgewogen.",
+  "h1": "KI-Meeting-Protokolle: Vor- und Nachteile",
+  "kicker": "Ratgeber · KI im Büro",
+  "lead": "KI-Meeting-Protokolle sparen vor allem Zeit und erlauben es allen, ganz beim Gespräch zu sein, statt mitzuschreiben. Die Nachteile liegen bei möglichen Fehlern in der Zusammenfassung, beim Datenschutz und bei der Frage, ob alle Beteiligten mit der Erfassung einverstanden sind. Für die meisten kleinen Teams überwiegen die Vorteile, wenn Information, Speicherort und Kontrolle sauber geklärt sind.",
+  "fakten": [
+    "Vorteile: Zeitersparnis, volle Aufmerksamkeit im Gespräch, durchsuchbare Ergebnisse",
+    "Nachteile: Fehler bei Namen, Zahlen und Fachbegriffen, Fragen zu Datenschutz und Einwilligung",
+    "Teilnehmende sollten vorab informiert werden, dass ein Gespräch erfasst wird",
+    "Für vertrauliche Personal- oder Gesundheitsgespräche meist nicht geeignet",
+    "Speicherort in der EU und die Möglichkeit, Daten zu löschen, sind wichtige Auswahlkriterien"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So funktioniert ein KI-Protokoll",
+      "html": "<p>Ein KI-Protokoll entsteht in zwei Schritten. Zuerst wird das Gesprochene in Text umgewandelt, also transkribiert. Danach fasst ein Sprachmodell den Text zusammen und gliedert ihn in Themen, Entscheidungen, Aufgaben und offene Fragen.</p><p>Technisch gibt es zwei Ansätze: Bei manchen Lösungen nimmt ein sichtbarer Bot als zusätzlicher Teilnehmer am Video-Call teil. Andere erfassen das Gespräch direkt am eigenen Gerät, ohne dass ein fremder Teilnehmer im Call erscheint. Das wirkt auf Kunden oft weniger irritierend, ändert aber nichts daran, dass Sie die Teilnehmenden informieren sollten.</p>"
+    },
+    {
+      "h2": "Die Vorteile im Arbeitsalltag",
+      "html": "<ul><li><strong>Zeit:</strong> Das Nacharbeiten und Ausformulieren von Notizen fällt weitgehend weg.</li><li><strong>Aufmerksamkeit:</strong> Wer nicht tippt, hört besser zu und stellt bessere Fragen.</li><li><strong>Vollständigkeit:</strong> Details, die beim Mitschreiben untergehen, etwa ein genannter Liefertermin, bleiben erhalten.</li><li><strong>Tempo:</strong> Das Protokoll liegt kurz nach dem Gespräch vor und kann sofort verschickt werden.</li><li><strong>Suchbarkeit:</strong> Auch Monate später lässt sich nachsehen, was mit einem Kunden vereinbart wurde.</li></ul><p>Ein typisches Beispiel: Eine Unternehmensberaterin mit mehreren Kundenterminen pro Tag schreibt bisher abends ihre Notizen ins Reine. Mit einem KI-Protokoll erledigt sie das in wenigen Minuten direkt nach jedem Termin, weil sie nur noch gegenlesen und ergänzen muss.</p>"
+    },
+    {
+      "h2": "Die Nachteile und Risiken",
+      "html": "<ul><li><strong>Fehler:</strong> Namen, Zahlen, Fachbegriffe und starker Dialekt werden nicht immer richtig erkannt.</li><li><strong>Erfundene Details:</strong> Sprachmodelle können Zusammenhänge falsch zusammenfassen oder Dinge ergänzen, die so nicht gesagt wurden. Mehr dazu unter <a href=\"/glossar/halluzination/\">Halluzination</a>.</li><li><strong>Gesprächsklima:</strong> Manche Menschen sprechen weniger offen, wenn sie wissen, dass mitgeschrieben wird.</li><li><strong>Datenschutz:</strong> Gesprächsinhalte sind oft personenbezogen und manchmal vertraulich.</li><li><strong>Bequemlichkeit:</strong> Wer sich blind auf das Protokoll verlässt, übersieht Fehler.</li></ul><p>Die meisten dieser Nachteile lassen sich mit einer einfachen Regel entschärfen: Ein Mensch liest das Protokoll, bevor es verschickt wird, und korrigiert, was nicht stimmt.</p>"
+    },
+    {
+      "h2": "Datenschutz und Einwilligung: worauf Sie achten sollten",
+      "html": "<p>Wenn Gespräche erfasst und ausgewertet werden, sind fast immer personenbezogene Daten im Spiel. Als allgemeine Orientierung gilt: Informieren Sie alle Teilnehmenden vorab, wofür das Protokoll verwendet wird, wählen Sie einen Anbieter mit Speicherort in der EU, regeln Sie, wer Zugriff hat, und löschen Sie Daten, die Sie nicht mehr brauchen. Mit dem Anbieter brauchen Sie in der Regel eine Vereinbarung zur Auftragsverarbeitung.</p><p>Ob im Einzelfall eine ausdrückliche Einwilligung nötig ist, hängt vom Gespräch und vom Zweck ab. Vertiefende Hinweise finden Sie unter <a href=\"/wissen/gespraechsaufzeichnung/\">Gespräche aufzeichnen: Information und Einwilligung</a> und <a href=\"/wissen/ki-und-datenschutz/\">KI im Betrieb und Datenschutz</a>. Für verbindliche Auskünfte wenden Sie sich an die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> oder an einen Anwalt.</p>"
+    },
+    {
+      "h2": "Für welche Gespräche es passt und für welche nicht",
+      "html": "<p><strong>Gut geeignet</strong> sind KI-Protokolle für:</p><ul><li>wöchentliche Teambesprechungen und Projekttermine</li><li>Kundenbesprechungen, wenn der Kunde informiert ist und zustimmt</li><li>Schulungen und interne Abstimmungen mit vielen Details</li><li>Abstimmungen mit Partnerbetrieben, etwa auf größeren Baustellen</li></ul><p><strong>Eher nicht geeignet</strong> sind sie für:</p><ul><li>Mitarbeitergespräche zu Leistung, Gehalt oder Kündigung</li><li>Gespräche, in denen Gesundheitsdaten oder andere besonders heikle Informationen zur Sprache kommen</li><li>vertrauliche Verhandlungen, bei denen jedes Wort zählt</li><li>jedes Gespräch, in dem jemand der Erfassung widerspricht</li></ul>"
+    },
+    {
+      "h2": "Woran Sie ein gutes Werkzeug erkennen",
+      "html": "<p>Bevor Sie sich festlegen, testen Sie zwei oder drei echte Besprechungen. Achten Sie dabei auf diese Punkte:</p><ul><li>Wie gut wird Deutsch mit österreichischer Färbung erkannt, auch bei mehreren Sprechern?</li><li>Braucht es einen Bot im Call oder funktioniert es ohne?</li><li>Wo werden die Daten gespeichert und lassen sie sich jederzeit löschen?</li><li>Lässt sich das Protokoll bearbeiten, exportieren und weiterleiten?</li><li>Sind die Kosten pro Monat klar und gibt es eine kostenlose Testphase?</li></ul>"
+    },
+    {
+      "h2": "noteit als Beispiel aus der Praxis",
+      "html": "<p>Eine Lösung, die wir vermitteln, ist <a href=\"/produkte/noteit/\">noteit</a>. Es erstellt Gesprächsnotizen und Protokolle für Teams, Zoom, Google Meet, Webex und weitere Plattformen, ohne Bot im Call. Die Daten liegen in Frankfurt, das fertige Protokoll ist etwa zwei Minuten nach dem Gespräch verfügbar.</p><p>Der Starter-Tarif kostet 0 € und umfasst drei Stunden pro Monat, Pro kostet 14 € im Monat, Team 24 € pro Person und Monat. Alle Tarife lassen sich sieben Tage gratis testen, die <a href=\"https://noteit.at/registrieren\">Registrierung bei noteit</a> dauert nur wenige Minuten. Wenn Sie KI-Protokolle in bestehende Abläufe einbinden möchten, etwa in Ihr CRM, finden Sie mehr unter <a href=\"/leistungen/meeting-protokolle-ki/\">KI-Meeting-Protokolle</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie genau sind KI-Meeting-Protokolle?",
+      "a": "Bei guter Tonqualität und klarer Sprache sind sie für den Arbeitsalltag in der Regel brauchbar genau. Fehler passieren vor allem bei Namen, Zahlen, Fachbegriffen, starkem Dialekt und wenn mehrere Personen gleichzeitig sprechen. Deshalb sollte ein Mensch das Protokoll vor dem Versand gegenlesen. Testen Sie ein Werkzeug am besten mit echten Besprechungen aus Ihrem Betrieb."
+    },
+    {
+      "q": "Muss ich Gesprächspartner informieren, wenn ein KI-Protokoll erstellt wird?",
+      "a": "Ja, das sollten Sie in jedem Fall tun, und zwar vor Beginn des Gesprächs. Ob zusätzlich eine ausdrückliche Einwilligung nötig ist, hängt vom Einzelfall ab, etwa vom Zweck und von der Art der besprochenen Inhalte. Informieren schafft außerdem Vertrauen. Für eine verbindliche Einschätzung wenden Sie sich an die Datenschutzbehörde oder an eine Anwältin."
+    },
+    {
+      "q": "Ersetzt ein KI-Protokoll das Mitdenken im Meeting?",
+      "a": "Nein. Das KI-Protokoll nimmt das Mitschreiben ab, aber nicht die Verantwortung. Jemand muss weiterhin darauf achten, dass Entscheidungen klar ausgesprochen werden und jede Aufgabe einen Namen und eine Frist bekommt. Je klarer im Gespräch formuliert wird, desto besser wird auch die Zusammenfassung. Vor dem Versand bleibt das kurze Gegenlesen Pflicht."
+    },
+    {
+      "q": "Was kostet ein KI-Meeting-Protokoll für ein kleines Team?",
+      "a": "Bei noteit gibt es einen kostenlosen Starter-Tarif mit drei Stunden pro Monat, der für gelegentliche Besprechungen reicht. Der Pro-Tarif kostet 14 € im Monat, der Team-Tarif 24 € pro Person und Monat. Alle Tarife lassen sich sieben Tage gratis testen. Andere Anbieter rechnen unterschiedlich ab, ein Vergleich nach Minuten und Nutzern lohnt sich."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/protokoll-manuell-oder-ki/",
+    "/wissen/meeting-protokoll-schreiben/",
+    "/wissen/gespraechsaufzeichnung/",
+    "/leistungen/meeting-protokolle-ki/",
+    "/produkte/noteit/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

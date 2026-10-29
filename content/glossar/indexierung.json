@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/indexierung/",
+  "title": "Indexierung: Wie Seiten in Google aufgenommen werden",
+  "description": "Indexierung einfach erklärt: Wie Google Ihre Seiten in den Suchindex aufnimmt, warum manche fehlen und wie kleine Betriebe das prüfen und beheben.",
+  "h1": "Indexierung – Aufnahme in den Suchindex",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Indexierung ist der Vorgang, bei dem eine Suchmaschine eine gefundene Webseite auswertet und in ihren Suchindex aufnimmt. Nur indexierte Seiten können in den Suchergebnissen erscheinen.",
+  "fakten": [
+    "Ablauf: Crawlen, Auswerten, Aufnehmen in den Index",
+    "Nicht jede gefundene Seite wird auch indexiert",
+    "Kontrolle über die Google Search Console"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenn eine Seite nicht im Index ist",
+      "html": "<p>Ein Massagestudio hat vor Wochen eine neue Seite für Gutscheine online gestellt, findet sie bei Google aber nicht. Ein Blick in die Search Console zeigt: Die Seite enthält noch den Hinweis „noindex“ aus der Entwurfsphase. Nach dem Entfernen und einer erneuten Prüfung erscheint sie nach einigen Tagen.</p><p>Andere häufige Gründe sind fehlende interne Links, sehr dünne oder doppelte Inhalte, technische Fehler beim Laden oder eine Sperre in der <a href=\"/glossar/robots-txt/\">robots.txt</a>. Google entscheidet zudem selbst, ob eine Seite genug eigenständigen Wert für den Index hat.</p>"
+    },
+    {
+      "h2": "Warum Indexierung für KMU entscheidend ist",
+      "html": "<p>Die beste Leistungsseite bringt keine Anfragen, wenn sie nicht im Index steht. Gerade nach einem Relaunch oder bei neuen Seiten lohnt sich deshalb eine Kontrolle. Hilfreich sind eine aktuelle <a href=\"/glossar/xml-sitemap/\">XML-Sitemap</a> und eine gute <a href=\"/glossar/interne-verlinkung/\">interne Verlinkung</a>.</p><p>Schritt für Schritt erklärt das der Ratgeber <a href=\"/wissen/indexierung-pruefen/\">Indexierung prüfen</a>. Doppelte Inhalte, ein häufiger Grund für Ausschlüsse, behandelt <a href=\"/wissen/duplicate-content/\">Duplicate Content</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie sehe ich, ob meine Seite bei Google indexiert ist?",
+      "a": "Am zuverlässigsten mit der Google Search Console: Dort geben Sie die Adresse in die URL-Prüfung ein und sehen, ob die Seite im Index ist und falls nicht, warum. Eine grobe Schnellprüfung ist die Suche nach „site:“ gefolgt von Ihrer Domain. Diese zeigt aber nicht immer alle Seiten und ersetzt die Search Console nicht."
+    },
+    {
+      "q": "Wie lange dauert es, bis eine neue Seite indexiert wird?",
+      "a": "Das reicht von wenigen Stunden bis zu einigen Wochen. Gut verlinkte Seiten auf bekannten Websites werden meist schneller gefunden. Sie können in der Search Console eine Indexierung beantragen, eine Garantie ist das aber nicht. Wichtig ist, dass die Seite erreichbar ist, eigenständigen Inhalt hat und von anderen Seiten Ihrer Website verlinkt wird."
+    }
+  ],
+  "verwandt": [
+    "/wissen/indexierung-pruefen/",
+    "/wissen/google-search-console/",
+    "/glossar/crawler/",
+    "/glossar/xml-sitemap/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

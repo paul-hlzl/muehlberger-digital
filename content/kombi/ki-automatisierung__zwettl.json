@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/zwettl/",
+  "title": "KI-Automatisierung in Zwettl: Kostenvoranschläge schneller",
+  "description": "Prozessautomatisierung mit KI im Bezirk Zwettl: Kostenvoranschläge aus Aufmaß-Notizen, freundlich nachfassen, Lösungen live zeigen. Beratung aus Ottenschlag.",
+  "h1": "Prozessautomatisierung mit KI in Zwettl",
+  "kicker": "KI-Automatisierung · Zwettl",
+  "lead": "Zwettl ist der Heimatbezirk von Mühlberger Digital, der Sitz in Ottenschlag liegt gleich um die Ecke. Für die vielen Handwerks- und Familienbetriebe im Bezirk bringt KI-Automatisierung vor allem beim Kostenvoranschlag etwas: Aus Aufmaß-Notizen wird ein Entwurf mit Ihren Preisen, und das Nachfassen passiert nicht mehr nur, wenn Zeit übrig ist.",
+  "fakten": [
+    "Heimatbezirk: Sitz von Mühlberger Digital in Ottenschlag",
+    "Kostenvoranschläge aus Aufmaß-Notizen, Fotos und Sprachnachrichten",
+    "Kalkulation mit Ihren eigenen Preisen und Textbausteinen",
+    "Lösungen werden live mit Ihren eigenen Daten gezeigt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Im eigenen Bezirk: kurze Wege nach Ottenschlag",
+      "html": "<p>Der <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> ist flächenmäßig groß und von Landwirtschaft, Holz, Bau und Handwerk geprägt. Mühlberger Digital sitzt in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>, Neuhof 26, mitten im Bezirk. Für Betriebe hier heißt das: Das Erstgespräch kann ohne großen Aufwand persönlich in Ihrem Betrieb stattfinden, und Sie haben einen Ansprechpartner, den Sie erreichen.</p>"
+    },
+    {
+      "h2": "Kostenvoranschlag vom Aufmaß-Zettel",
+      "html": "<p>Beim Tischler, Zimmerer, Maler oder Fliesenleger entsteht das Angebot meist so: Besichtigung, Maße auf einen Zettel, abends am Computer abtippen und rechnen. Mit einer Automatisierung sieht das anders aus:</p><ol><li>Sie fotografieren den Zettel oder sprechen die Maße und Wünsche ins Handy.</li><li>Die KI ordnet Positionen Ihrer Preisliste zu und rechnet Mengen.</li><li>Ein Kostenvoranschlag mit Ihren Textbausteinen und Ihrem Layout entsteht.</li><li>Sie prüfen, passen an und schicken ab.</li></ol><p>Hintergründe dazu liefert der Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>, Beispiele für das Handwerk die Branchenseite <a href=\"/branchen/tischler/\">Tischler</a>.</p>"
+    },
+    {
+      "h2": "Nachfassen ohne schlechtes Gewissen",
+      "html": "<p>Viele Kostenvoranschläge bleiben unbeantwortet, und das Nachfragen geht im Alltag unter. Die Automatisierung erinnert Sie nach einer Frist, die Sie festlegen, und bereitet eine kurze, freundliche Nachricht vor. Ob sie hinausgeht, entscheiden Sie. Viele Kunden sind froh über die Erinnerung, weil sie es selbst vergessen haben.</p>"
+    },
+    {
+      "h2": "Live sehen mit eigenen Daten",
+      "html": "<p>Mühlberger Digital zeigt Lösungen nicht auf Folien, sondern mit Ihren eigenen Unterlagen. Bringen Sie zum kostenlosen Erstgespräch einen alten Aufmaß-Zettel und einen fertigen Kostenvoranschlag mit. Danach wissen Sie, ob sich das für Sie lohnt, und bekommen bei Interesse ein schriftliches Angebot. Die Umsetzung übernimmt Pipeline AI Solutions. Grundsätzliches steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt Jonas Mühlberger für das Gespräch zu mir in den Betrieb?",
+      "a": "Im Bezirk Zwettl ist das gut möglich, der Sitz von Mühlberger Digital liegt in Ottenschlag. Das kostenlose Erstgespräch dauert etwa 30 Minuten und kann vor Ort, am Telefon oder per Video-Call stattfinden. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Erreichbar ist er unter +43 677 6219 2776 oder office@muehlberger-digital.at."
+    },
+    {
+      "q": "Kann die KI mit meinen eigenen Preisen kalkulieren?",
+      "a": "Ja, das ist die Voraussetzung. Ihre Preisliste, Stundensätze und Aufschläge werden einmal hinterlegt, die KI nutzt nur diese Werte. Sie erfindet keine Preise, sondern ordnet Positionen zu und rechnet Mengen. Bei Positionen, die sie nicht eindeutig zuordnen kann, macht sie einen Vermerk, damit Sie selbst entscheiden."
+    },
+    {
+      "q": "Was, wenn ich im Betrieb kaum mit dem Computer arbeite?",
+      "a": "Dann ist der Einstieg über das Handy oft der einfachste. Fotos und Sprachnachrichten kennen Sie bereits, und der fertige Kostenvoranschlag kommt als PDF zurück. Ein Computer ist für die Kontrolle hilfreich, aber nicht zwingend. Im Erstgespräch schauen wir, wie Sie heute arbeiten, und bauen darauf auf, statt Ihnen ein neues System aufzuzwingen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-zwettl/",
+    "/regionen/ottenschlag/",
+    "/wissen/angebote-automatisieren/",
+    "/branchen/tischler/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/metallbau/",
+  "title": "Digitale Lösungen für Schlossereien & Metallbau",
+  "description": "Geländer, Tore, Stahlbau und Reparaturen für Gewerbe: Wie Schlossereien Zeichnungen sauber empfangen und gezielt neue Firmenkunden gewinnen.",
+  "h1": "Digitale Lösungen für Schlossereien & Metallbau",
+  "kicker": "Branche · Schlosserei, Stahl- und Metallbau",
+  "lead": "Schlossereien und Metallbaubetriebe arbeiten oft für zwei sehr unterschiedliche Kundengruppen: Private, die ein Geländer oder Tor wollen, und Gewerbe- oder Landwirtschaftsbetriebe, die Konstruktionen, Reparaturen und Sonderanfertigungen brauchen. Digital lohnt sich vor allem, Anfragen mit Zeichnungen und Maßen sauber zu empfangen und gezielt neue Firmenkunden in der Umgebung anzusprechen.",
+  "fakten": [
+    "Firmenkunden in der Nähe finden und bewerten mit SightUp, Gratis-Paket mit 3 Suchen pro Monat",
+    "Zeichnungen, Skizzen und Fotos direkt über die Website empfangen",
+    "Privatkunden und Gewerbekunden auf getrennten Seiten ansprechen",
+    "Starter-Website ab 2.500 € einmalig ohne USt."
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Kundengruppen, zwei Arten von Anfragen",
+      "html": "<p>Eine Privatperson schreibt: „Wir hätten gern ein Geländer für die Außenstiege, verzinkt, ungefähr fünf Meter.“ Ein Landwirt ruft an, weil am Frontlader eine Halterung gerissen ist. Eine Firma schickt eine Zeichnung für eine Bühne in der Produktionshalle. Das sind drei völlig verschiedene Anfragen, und eine Website, die alle gleich behandelt, hilft keiner davon.</p><p>Sinnvoll sind getrennte Bereiche: eine Seite für Private mit Geländer, Toren, Zäunen und Vordächern samt Fotos, eine für Gewerbe mit Stahlbau, Reparaturen und Fertigung nach Zeichnung. So findet jeder sofort, was ihn betrifft.</p>"
+    },
+    {
+      "h2": "Zeichnungen und Maße ohne E-Mail-Chaos empfangen",
+      "html": "<p>Gewerbekunden schicken PDF-Zeichnungen, Handskizzen oder ein Foto vom kaputten Teil mit Zollstock daneben. Kommt das per E-Mail, WhatsApp und Zettel gleichzeitig, geht etwas verloren. Ein Anfrageformular mit Datei-Upload und Pflichtangaben wie Material, Stückzahl, Oberfläche und Wunschtermin bündelt alles an einer Stelle.</p><p>Wer viele solcher Anfragen bekommt, kann eingehende E-Mails automatisch sortieren und Anhänge einem Auftrag zuordnen lassen. Wie das in kleinen Betrieben aussieht, beschreibt der Ratgeber <a href=\"/wissen/e-mails-sortieren/\">E-Mails sortieren</a>. Ob sich das lohnt, hängt an der Menge: Bei wenigen Anfragen pro Woche reicht ein gutes Formular.</p>"
+    },
+    {
+      "h2": "Neue Firmenkunden gezielt finden",
+      "html": "<p>Aufträge von Gewerbebetrieben, Landwirtschaft oder Industrie entstehen selten über eine Google-Suche, sondern über Bekanntschaft. Wer neue Firmenkunden will, muss sie gezielt ansprechen. Die Frage ist nur, welche.</p><p><a href=\"https://sightup.at/\">SightUp</a> sucht passende Firmen in Ihrer Umgebung, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst drei Suchen im Monat, danach gibt es Start um 19 €, Pro um 50 € und Business um 150 € pro Monat. Mehr zum Vorgehen steht unter <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Die Regeln für die Ansprache von Firmen kennen",
+      "html": "<p>Wer Firmen anschreibt oder anruft, sollte die Spielregeln kennen. Für Werbung per E-Mail und Telefon gelten in Österreich Regeln, und nicht jede Kontaktaufnahme ist ohne Zustimmung erlaubt. Einen Überblick gibt der Ratgeber zu <a href=\"/wissen/kaltakquise-regeln/\">Regeln der Kaltakquise</a>.</p><p>Das ist keine Rechtsberatung. Im Einzelfall sind die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> oder ein Anwalt die richtige Adresse. Ein persönlicher Besuch mit Musterteil oder ein Anruf mit konkretem Bezug zum Betrieb ist ohnehin meist wirksamer als eine Massenmail.</p>"
+    },
+    {
+      "h2": "Private Kunden: Geländer, Tore und die Preisfrage",
+      "html": "<p>Bei Privatkunden ist die häufigste Frage: „Was kostet ein Geländer pro Meter?“ Eine ehrliche Antwort mit Rahmen und den Faktoren, die den Preis bestimmen, hilft beiden Seiten:</p><ul><li>Material und Oberfläche: Stahl verzinkt, pulverbeschichtet oder Edelstahl,</li><li>Füllung: Stäbe, Lochblech, Glas,</li><li>Montage: Beton, Holz, Stiege mit Wendelung.</li></ul><p>Fotos fertiger Geländer und Tore aus eigener Fertigung, idealerweise mit Detailbildern von Schweißnähten, zeigen Qualität besser als jeder Text.</p>"
+    },
+    {
+      "h2": "Was sich nicht lohnt",
+      "html": "<p>Ein Chatbot bringt Metallbaubetrieben selten etwas, weil Anfragen zu individuell sind. Auch Social Media ist kein Pflichtprogramm. Wer aber neue Gewerbekunden will, sollte das systematisch angehen, statt auf Zufall zu warten.</p><p>Mit dem <a href=\"/gratis-check/neukunden-finden/\">kostenlosen Check zum Neukunden-Finden</a> sehen Sie, welche Firmen in Ihrer Nähe infrage kommen. Im Erstgespräch zeigt Jonas Mühlberger die Suche live mit Ihren eigenen Daten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Findet SightUp auch landwirtschaftliche Betriebe als Kunden?",
+      "a": "SightUp sucht Firmenkunden in Ihrer Umgebung und bewertet sie danach, wie gut sie zu Ihrem Angebot passen. Welche Arten von Betrieben gefunden werden, hängt von Ihrer Beschreibung und den verfügbaren Firmendaten ab. Am besten testen Sie es mit dem Gratis-Paket, das drei Suchen pro Monat umfasst, und sehen selbst, ob die Ergebnisse für Ihre Region und Ihre Leistungen passen."
+    },
+    {
+      "q": "Darf ich Firmen in der Umgebung einfach per E-Mail anschreiben?",
+      "a": "Nicht pauschal. Für Werbe-E-Mails und Werbeanrufe gelten in Österreich Regeln, die teilweise auch zwischen Unternehmen greifen. Deshalb verschickt SightUp nichts automatisch, sondern schlägt nur eine Nachricht vor, und Sie entscheiden, wie Sie Kontakt aufnehmen. Für eine Einschätzung im Einzelfall wenden Sie sich an die Wirtschaftskammer oder einen Anwalt, das ersetzt keine Website."
+    },
+    {
+      "q": "Wie empfange ich technische Zeichnungen am besten über die Website?",
+      "a": "Mit einem Anfrageformular, das Datei-Uploads für PDF und Bilder erlaubt und gleichzeitig Material, Stückzahl, Oberfläche und Wunschtermin abfragt. So kommen alle Angaben zusammen bei Ihnen an. Wichtig ist, dass die Dateien sicher übertragen und nicht öffentlich abgelegt werden. Die technische Umsetzung übernimmt Pipeline AI Solutions; ob das Teil der Starter-Website ist oder ein Zusatz, klären wir im Erstgespräch."
+    },
+    {
+      "q": "Was kostet eine Website für eine Schlosserei?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Kontaktformular, Impressum, Datenschutz, Hosting und Optimierung für Google und KI-Suchen. Für eine Schlosserei bietet sich etwa Startseite, Privatkunden, Gewerbe, Referenzen und Kontakt an. Erweiterungen wie Datei-Upload oder automatische E-Mail-Sortierung werden nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/leistungen/neukundengewinnung-b2b/", "/produkte/sightup/", "/wissen/b2b-kunden-finden/", "/wissen/kaltakquise-regeln/", "/branchen/landwirtschaft/"],
+  "checks": ["neukunden-finden"]
+}

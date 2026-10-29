@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/krems/",
+  "title": "Website erstellen lassen in Krems: Stadt, Wachau, Kamptal",
+  "description": "Website erstellen lassen in Krems: für Weingüter, Gastronomie und Stadtbetriebe zwischen Wachau und Kamptal. Starter-Website ab 2.500 €.",
+  "h1": "Website erstellen lassen in Krems",
+  "kicker": "Website · Krems und Bezirk Krems-Land",
+  "lead": "Krems verbindet eine Statutarstadt mit Hochschulen und Altstadt mit einem ländlichen Bezirk voller Weinbau in Wachau und Kamptal. Eine Website für einen Betrieb hier muss deshalb zuerst klären, wen sie anspricht: Gäste, Einheimische oder Weinliebhaber. Mühlberger Digital vermittelt Websites ab 2.500 €, umgesetzt von Pipeline AI Solutions.",
+  "fakten": [
+    "Statutarstadt Krems und Bezirk Krems-Land mit Wachau und Kamptal",
+    "Weingüter, Gastronomie, Studierende und Stadtbetriebe als sehr unterschiedliche Zielgruppen",
+    "Viele Gäste kommen saisonal und informieren sich vorab online",
+    "Kostenloses Erstgespräch, Termine abends Montag bis Freitag"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Stadt und Land, zwei verschiedene Publikumsgruppen",
+      "html": "<p>Ein Café in der Kremser Altstadt hat Studierende, Berufstätige und Tagesgäste. Ein Weingut im Kamptal verkauft ab Hof, an Stammkunden in ganz Österreich und an Gäste, die eine Verkostung suchen. Beide brauchen eine Website, aber mit völlig anderem Schwerpunkt.</p><p>Wer versucht, alle gleichzeitig anzusprechen, verwässert die Botschaft. Besser ist es, die wichtigste Gruppe festzulegen und die Startseite für sie zu bauen.</p>"
+    },
+    {
+      "h2": "Weingut: Verkostung, Ab-Hof, Versand",
+      "html": "<p>Für Weinbaubetriebe in der Wachau, im Kamptal oder rund um <a href=\"/regionen/gfoehl/\">Gföhl</a> sind diese Inhalte entscheidend:</p><ul><li>Sortiment mit kurzen, verständlichen Beschreibungen statt Fachvokabular</li><li>Öffnungszeiten für Ab-Hof-Verkauf und Verkostung, Hinweis auf Voranmeldung</li><li>Bestellmöglichkeit für Stammkunden, ob per Formular oder kleinem Shop</li><li>Fotos von Weingarten, Keller und Familie</li></ul><p>Weitere Ideen auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a>.</p>"
+    },
+    {
+      "h2": "Gastronomie und Unterkünfte in der Saison",
+      "html": "<p>Wer Gäste bewirtet oder beherbergt, hat in der Hauptsaison wenig Zeit für Anfragen. Die Website sollte deshalb Speisekarte, Öffnungszeiten, Ruhetage und Reservierung so klar zeigen, dass kaum Rückfragen nötig sind. Wie man Gäste online gut abholt, beschreibt der Ratgeber <a href=\"/wissen/website-fuer-tourismus/\">Website für Tourismusbetriebe</a>.</p><p>Für Betriebe, die Gäste aus dem Ausland haben, kann eine englische Kurzfassung sinnvoll sein. Eine vollständige zweite Sprachversion lohnt sich nur, wenn sie auch gepflegt wird.</p>"
+    },
+    {
+      "h2": "Was es kostet und wie es beginnt",
+      "html": "<p>Die Starter-Website mit bis zu fünf Seiten beginnt bei 2.500 €. Ein Weinshop oder ein Reservierungssystem wird im schriftlichen Angebot gesondert ausgewiesen. Details zur Leistung auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, regionale Informationen unter <a href=\"/regionen/krems-an-der-donau/\">Krems an der Donau</a> und <a href=\"/regionen/bezirk-krems-land/\">Bezirk Krems-Land</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht ein Weingut in der Wachau einen eigenen Onlineshop?",
+      "a": "Nicht zwingend. Viele Betriebe kommen mit einer Preisliste und einem Bestellformular gut aus, über das Stammkunden bestellen und die Zahlung per Rechnung erfolgt. Ein Shop mit Online-Bezahlung lohnt sich, wenn regelmäßig viele kleinere Bestellungen kommen. Beim Versand von Wein gelten zudem eigene Regeln, die Sie vorab mit Ihrem Steuerberater klären sollten."
+    },
+    {
+      "q": "Wie wichtig sind Fotos für eine Website in einer Tourismusregion?",
+      "a": "Sehr wichtig. Gäste entscheiden in der Wachau oder im Kamptal oft nach Stimmung, und die vermitteln echte Bilder von Terrasse, Keller oder Ausblick besser als jeder Text. Professionelle Fotos sind ideal, gute Handyfotos bei Tageslicht reichen für den Anfang. Fremde Bilder aus dem Internet sollten Sie wegen der Bildrechte nicht verwenden."
+    },
+    {
+      "q": "Sollen Stadtbetriebe in Krems auch Studierende ansprechen?",
+      "a": "Wenn sie zur Kundschaft gehören, ja. Ein Café, ein Copyshop oder ein Fitnessstudio kann mit klaren Preisen, Öffnungszeiten bis in den Abend und einem Hinweis auf Angebote für Studierende punkten. Ein Steuerberater oder ein Architekt hingegen spricht eher Familien und Unternehmen an. Die Zielgruppe bestimmt Ton und Aufbau der Website."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/krems-an-der-donau/",
+    "/regionen/bezirk-krems-land/",
+    "/branchen/weingut/",
+    "/wissen/website-fuer-tourismus/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

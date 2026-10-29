@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/website-erstellen/waldviertel/",
+  "title": "Website erstellen lassen im Waldviertel: Empfehlung zählt",
+  "description": "Website erstellen lassen im Waldviertel: damit Empfehlungen auf einer guten Seite landen. Persönlich betreut aus Ottenschlag, Starter ab 2.500 €.",
+  "h1": "Website erstellen lassen im Waldviertel",
+  "kicker": "Website · Waldviertel",
+  "lead": "Im Waldviertel kommen viele Kunden über Mundpropaganda: Jemand kennt jemanden, der einen guten Tischler oder ein gutes Gasthaus weiß. Die Website ersetzt diese Empfehlung nicht, aber sie ist der Ort, an dem sie heute ankommt. Mühlberger Digital aus Ottenschlag vermittelt Websites ab 2.500 €, die das Vertrauen aus der Empfehlung bestätigen.",
+  "fakten": [
+    "Ländliche Region mit vielen Familien-, Handwerks- und Gastbetrieben",
+    "Empfehlungen werden heute fast immer online überprüft",
+    "Mühlberger Digital hat seinen Sitz in Ottenschlag im Waldviertel",
+    "Erstgespräch kostenlos, gerne vor Ort"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was nach einer Empfehlung passiert",
+      "html": "<p>Die Nachbarin sagt: „Ruf den an, der hat bei uns das Bad gemacht.“ Was passiert dann? Die meisten Menschen suchen den Namen kurz am Handy, bevor sie anrufen. Finden sie eine gepflegte Seite mit Fotos und Telefonnummer, ist der Anruf schnell gemacht. Finden sie nichts oder eine veraltete Seite, entsteht ein Zweifel.</p><p>Deshalb ist die Website im Waldviertel weniger Werbung als Bestätigung. Mehr über die Wirkung von Empfehlungen im Ratgeber <a href=\"/wissen/empfehlungsmarketing/\">Empfehlungsmarketing</a>.</p>"
+    },
+    {
+      "h2": "Weite Wege, kurze Antworten",
+      "html": "<p>In einer Region mit großen Entfernungen zwischen den Orten will niemand umsonst fahren. Die Website sollte daher klar sagen, wann geöffnet ist, ob man vorher anrufen soll und wie man hinkommt. Für Handwerker gilt umgekehrt: Wie weit fahren Sie zu Kunden, und ab wann wird eine Anfahrt verrechnet?</p>"
+    },
+    {
+      "h2": "Typische Waldviertler Betriebe",
+      "html": "<ul><li><strong>Gasthof mit Fremdenzimmern:</strong> Zimmer, Küche und Umgebung zeigen, etwa Wanderwege oder Radrouten in der Nähe.</li><li><strong>Handwerksbetrieb mit drei Mitarbeitern:</strong> Referenzen aus der Gegend, ehrliche Angabe der Wartezeiten.</li><li><strong>Direktvermarkter:</strong> Produkte, Ab-Hof-Zeiten, Bestellmöglichkeit für Stammkunden aus Wien.</li><li><strong>Verein oder kleine Gemeinde:</strong> Veranstaltungen und Ansprechpartner aktuell halten.</li></ul><p>Weitere Ideen im Ratgeber <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Persönlich aus der Region",
+      "html": "<p>Weil Mühlberger Digital in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a> sitzt, sind Termine im ganzen Waldviertel gut machbar. Gebaut und gehostet wird die Website von Pipeline AI Solutions. Die Starter-Website beginnt bei 2.500 €, mit bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Mehr auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> und <a href=\"/regionen/waldviertel/\">Region Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ich bekomme genug Aufträge über Empfehlung. Wozu eine Website?",
+      "a": "Vielleicht brauchen Sie wirklich keine neue, das sagen wir dann auch ehrlich. Eine Website lohnt sich vor allem, wenn Sie jüngere Kunden erreichen, Mitarbeiter finden oder unabhängiger von wenigen Stammkunden werden wollen. Sie hilft auch dabei, dass Empfehlungen nicht ins Leere laufen, wenn jemand Ihren Namen sucht und nichts findet."
+    },
+    {
+      "q": "Wie bekomme ich mehr Google-Bewertungen von zufriedenen Kunden?",
+      "a": "Am einfachsten, indem Sie direkt nach getaner Arbeit freundlich darum bitten. Ein kurzer Link per SMS oder WhatsApp, der direkt zum Bewertungsformular führt, senkt die Hürde deutlich. Viele zufriedene Kunden schreiben gern ein paar Sätze, wenn man sie fragt. Wer die Bitte mit einem persönlichen Dank verbindet, bekommt meist ehrlichere und ausführlichere Rückmeldungen."
+    },
+    {
+      "q": "Gibt es Förderungen für eine Website im Waldviertel?",
+      "a": "Förderungen für Digitalisierung gibt es immer wieder, die Bedingungen ändern sich aber regelmäßig. Ob für Ihr Vorhaben gerade ein passendes Programm offen ist, erfahren Sie am verlässlichsten bei der Wirtschaftskammer Niederösterreich. Wir nennen bewusst keine konkreten Förderhöhen, weil diese sich schnell ändern. Ein schriftliches Angebot für den Antrag bekommen Sie jedenfalls vorab."
+    },
+    {
+      "q": "Funktioniert meine Website auch bei schwachem Handyempfang?",
+      "a": "Wenn sie schlank gebaut ist, ja. In manchen ländlichen Gegenden ist der Empfang unterwegs nicht überall gut, deshalb sollten Bilder verkleinert und unnötige Zusatzprogramme weggelassen werden. Dann erscheinen Telefonnummer, Adresse und Öffnungszeiten auch bei langsamer Verbindung rasch. Bei der Umsetzung achtet Pipeline AI Solutions darauf, dass die Seite schnell lädt."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/wissen/digitalisierung-waldviertel/",
+    "/wissen/empfehlungsmarketing/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

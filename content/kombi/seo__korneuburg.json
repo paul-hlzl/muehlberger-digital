@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/korneuburg/",
+  "title": "SEO in Korneuburg: Wiener Kundschaft gezielt erreichen",
+  "description": "SEO für Betriebe im Bezirk Korneuburg: wie Sie entscheiden, ob Wien Ihr Markt ist, und dann im Bezirk oder bis in die Stadt sichtbar werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Korneuburg",
+  "kicker": "SEO · Bezirk Korneuburg",
+  "lead": "Korneuburg grenzt fast direkt an den Norden Wiens. Für viele Betriebe im Bezirk stellt sich deshalb eine Grundsatzfrage: Wollen Sie Kundschaft aus Wien gewinnen oder lieber die erste Adresse im eigenen Bezirk sein? Die Antwort bestimmt, welche Suchbegriffe, Inhalte und Maßnahmen sinnvoll sind.",
+  "fakten": [
+    "Der Bezirk Korneuburg liegt an der Donau, unmittelbar nördlich von Wien",
+    "Wiener Suchen bringen mehr Reichweite, aber auch viel mehr Konkurrenz",
+    "Für Kartensuchen zählt die Entfernung, für normale Suchen der Inhalt",
+    "Erstgespräch kostenlos, am Abend unter der Woche"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Frage vor jeder Optimierung: Wollen Sie nach Wien?",
+      "html": "<p>Ein Bodenleger aus dem Bezirk Korneuburg ist in einer Viertelstunde in Floridsdorf. Ob er dort arbeiten will, ist aber eine unternehmerische Entscheidung, keine technische. Wer nur im Bezirk tätig sein möchte, sollte nicht um Wiener Suchbegriffe kämpfen, das kostet Zeit und bringt Anfragen, die man ablehnen muss.</p><p>Diese Frage klären wir im Erstgespräch zuerst. Danach richtet sich die <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> nach Ihrem Ziel, nicht umgekehrt.</p>"
+    },
+    {
+      "h2": "Wenn ja: Wiener Suchen ehrlich bedienen",
+      "html": "<p>In der Kartensuche haben Wiener Betriebe bei Suchen aus der Stadt einen Entfernungsvorteil. Bei normalen Suchen zählt dagegen stärker der Inhalt. Hier können Sie mit Fachwissen, Projektbeispielen aus Wien und klaren Angaben zum Einsatzgebiet punkten.</p><p>Eigene Seiten für Wiener Bezirke sind nur dann sinnvoll, wenn sie echten, eigenen Inhalt haben. Wie das geht und wo die Grenze zur austauschbaren Kopie liegt, erklärt der Ratgeber zu <a href=\"/wissen/lokale-landingpages/\">lokalen Landingpages</a>. Einen Überblick über die Stadt finden Sie auf der Seite <a href=\"/regionen/wien/\">Wien</a>.</p>"
+    },
+    {
+      "h2": "Wenn nein: im Bezirk die erste Adresse werden",
+      "html": "<ol><li>Google-Unternehmensprofil vollständig pflegen und das Einzugsgebiet auf den Bezirk begrenzen</li><li>Auf der Website deutlich sagen, welche Orte Sie betreuen</li><li>Bewertungen von Kundinnen und Kunden aus der Umgebung sammeln</li><li>Lokale Bezüge zeigen: Projekte, Partner, Vereinsengagement</li></ol><p>So bekommen Sie weniger, aber passendere Anfragen.</p>"
+    },
+    {
+      "h2": "Beispiele aus dem Bezirk",
+      "html": "<p>Ein <strong>Immobilienmakler</strong> profitiert von Wiener Suchen, weil viele Käuferinnen aus der Stadt ins Umland ziehen wollen. Ratgeber zu Kauf und Finanzierung können hier viel bewirken, Ideen dazu auf der Branchenseite <a href=\"/branchen/immobilienmakler/\">Immobilienmakler</a>.</p><p>Eine <strong>Rechtsanwaltskanzlei</strong> wird oft nach Rechtsgebiet gesucht, der Ort spielt eine kleinere Rolle. Ein <strong>Gasthaus</strong> an der Donau lebt dagegen von Ausflüglern und braucht vor allem aktuelle Öffnungszeiten.</p>"
+    },
+    {
+      "h2": "Auch in KI-Antworten sichtbar sein",
+      "html": "<p>Fragen wie „Guter Makler nördlich von Wien?“ landen zunehmend bei KI-Assistenten. Wie Ihr Betrieb dort vorkommt, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>, den aktuellen Stand zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-korneuburg/\">Bezirk Korneuburg</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich in Wien gefunden werden, ohne dort eine Adresse zu haben?",
+      "a": "Bei normalen Suchen ja, wenn Ihre Inhalte zur Suche passen und Sie klar sagen, dass Sie in Wien arbeiten. In der Kartensuche ist es schwieriger, weil Google dort stark nach Entfernung gewichtet. Eine Scheinadresse in Wien ist keine Lösung, denn sie verstößt gegen die Google-Richtlinien. Projektbeispiele aus Wien und Bewertungen Wiener Kunden helfen am meisten."
+    },
+    {
+      "q": "Soll ich für einzelne Wiener Bezirke eigene Seiten anlegen?",
+      "a": "Nur wenn Sie für jeden dieser Bezirke etwas Eigenes zu sagen haben, etwa echte Projekte, besondere Gegebenheiten oder Ansprechpartner. Seiten, die sich nur im Bezirksnamen unterscheiden, stuft Google als minderwertig ein und kann die ganze Website abwerten. Meist ist eine starke Seite zum Einsatzgebiet Wien und Umgebung die bessere Lösung."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen SEO und GEO?",
+      "a": "SEO sorgt dafür, dass Ihre Website in den klassischen Suchergebnissen von Google gut gefunden wird. GEO, also Generative Engine Optimization, zielt darauf, dass KI-Systeme wie ChatGPT, Gemini oder die KI-Übersichten von Google Ihren Betrieb in ihren Antworten nennen. Beides baut auf denselben Grundlagen auf: klare, richtige und gut strukturierte Informationen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-korneuburg/",
+    "/vergleiche/seo-oder-geo/",
+    "/wissen/lokales-seo/",
+    "/leistungen/website-erstellen/korneuburg/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

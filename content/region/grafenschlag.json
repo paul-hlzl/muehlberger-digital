@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/grafenschlag/",
+  "title": "Digitalagentur Grafenschlag: Digital für Vereine",
+  "description": "Für Vereine und kleine Betriebe in Grafenschlag im Bezirk Zwettl: Website, Termine und Kontakte einfach online, persönlich beraten aus Ottenschlag.",
+  "h1": "Digitalagentur für Grafenschlag",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "In kleinen Gemeinden wie Grafenschlag tragen Vereine und Familienbetriebe viel vom Ortsleben. Mühlberger Digital hilft beiden, Termine, Angebote und Kontakte so online zu stellen, dass sie leicht zu pflegen sind – auch wenn im Verein alle paar Jahre jemand anderer zuständig ist. Beraten wird persönlich, aus Ottenschlag im selben Bezirk.",
+  "fakten": [
+    "Grafenschlag liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Vereine und kleine Familienbetriebe",
+    "Erstgespräch kostenlos, abends Montag bis Freitag",
+    "Gratis-Startseiten-Entwurf von Pipeline in wenigen Minuten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vereine: wenn die Website an einer Person hängt",
+      "html": "<p>In vielen Vereinen hat irgendwann jemand eine Website gebaut, die nur diese eine Person bearbeiten kann. Wechselt der Vorstand, bleibt die Seite stehen, mit Terminen von vorletztem Jahr. Für einen Sport-, Musik- oder Kulturverein ist das mehr als ein Schönheitsfehler, weil neue Mitglieder und Gäste dort zuerst nachsehen.</p><p>Eine gute Vereinswebsite ist so gebaut, dass mehrere Leute Termine und Berichte eintragen können, ohne Technikkenntnisse. Mehr dazu auf der Seite für <a href=\"/branchen/vereine/\">Vereine</a> und im Ratgeber <a href=\"/wissen/digitalisierung-vereine/\">Digitalisierung für Vereine</a>.</p>"
+    },
+    {
+      "h2": "Was ein Verein online wirklich braucht",
+      "html": "<ul><li>Einen aktuellen Terminkalender für Feste, Proben und Veranstaltungen.</li><li>Kontaktpersonen mit Funktion, damit Anfragen beim Richtigen landen.</li><li>Einen einfachen Weg zur Mitgliedschaft oder zum Mitmachen.</li><li>Ein paar gute Fotos und kurze Berichte statt langer Chroniken.</li></ul><p>Für Feste und Veranstaltungen lohnt ein Blick in den Ratgeber zum <a href=\"/wissen/veranstaltungen-bewerben/\">Bewerben von Veranstaltungen</a>. Und wenn es um Social Media geht: Pipeflow macht aus der Website jede Woche fertige Beiträge, in der Pilotphase kostenlos.</p>"
+    },
+    {
+      "h2": "Familienbetriebe im Ort",
+      "html": "<p>Auch für den Familienbetrieb, den im Ort jeder kennt, ist eine Website sinnvoll, sobald Kundschaft von außerhalb dazukommt oder die nächste Generation übernimmt. Eine Übergabe ist eine gute Gelegenheit, zu zeigen, wofür der Betrieb künftig steht, und alte Kontaktdaten aufzuräumen.</p><p>Wie eine neue Startseite aussehen könnte, zeigt der kostenlose <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Startseiten-Entwurf von Pipeline</a>, der in wenigen Minuten aus Ihrer bestehenden Website entsteht. Die Starter-Website beginnt bei 2.500 € einmalig.</p>"
+    },
+    {
+      "h2": "Persönlich aus dem Bezirk Zwettl",
+      "html": "<p>Grafenschlag liegt wie Ottenschlag im Bezirk Zwettl, die Wege sind kurz. Jonas Mühlberger kommt für das kostenlose Erstgespräch zu Ihnen, ins Vereinslokal oder in den Betrieb. Weil Vereinsarbeit meist am Abend passiert, passen die Termine Montag bis Freitag zwischen 18:00 und 21:30 Uhr gut dazu.</p><p>Mehr zur Region: <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet eine Website für einen Verein?",
+      "a": "Für eine Vereinswebsite gilt derselbe Richtpreis wie für Betriebe: Die Starter-Website beginnt bei 2.500 € einmalig und umfasst bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Braucht der Verein zusätzliche Funktionen wie Anmeldungen oder einen Mitgliederbereich, wird das nach dem Erstgespräch eigens angeboten. Den Preis bekommen Sie immer vorab schriftlich."
+    },
+    {
+      "q": "Wer pflegt die Vereinswebsite, wenn der Vorstand wechselt?",
+      "a": "Das sollte schon beim Aufbau geklärt werden. Sinnvoll ist, dass mehrere Personen eigene Zugänge haben und die Zugangsdaten nicht nur bei einer Person liegen. Die Website wird so gestaltet, dass Termine und Berichte ohne Technikwissen eingetragen werden können. Bei einer Übergabe reicht dann eine kurze Einschulung statt eines Neubaus."
+    },
+    {
+      "q": "Braucht ein kleiner Verein überhaupt eine eigene Website?",
+      "a": "Nicht immer. Wenn der Verein vor allem intern kommuniziert und kaum neue Mitglieder sucht, genügen oft eine Messenger-Gruppe und ein Eintrag auf der Gemeindewebsite. Eine eigene Website lohnt sich, wenn Sie Veranstaltungen bewerben, Nachwuchs gewinnen oder Unterstützer sichtbar machen wollen. Im Erstgespräch klären wir ehrlich, was zu Ihrem Verein passt."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/branchen/vereine/",
+    "/wissen/digitalisierung-vereine/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/ki-chatbot/moedling/",
+  "title": "KI-Chatbot für Praxen und Kanzleien in Mödling",
+  "description": "Im Bezirk Mödling vergleichen Patienten und Mandanten oft mehrere Anbieter. Wie ein KI-Chatbot dabei hilft, mit Blick auf Datenschutz, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Mödling",
+  "kicker": "KI-Chatbot · Bezirk Mödling",
+  "lead": "Im Bezirk Mödling, direkt südlich von Wien, gibt es auf engem Raum viele Praxen, Kanzleien und Dienstleister. Wer sucht, vergleicht oft mehrere Anbieter an einem Abend. Ein KI-Chatbot wie Pipebot beantwortet allgemeine Fragen sofort mit Ihren Inhalten, ohne in Diagnosen oder Rechtsauskünfte abzurutschen. Er kostet 19 € im Monat.",
+  "fakten": [
+    "Dicht besiedelter Bezirk am Stadtrand von Wien mit großer Auswahl an Anbietern",
+    "Wer schnell und klar antwortet, wirkt professionell",
+    "Der Bot erklärt Abläufe, keine Diagnosen und keine Rechtsauskünfte",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Dichte Auswahl, schnelle Vergleiche",
+      "html": "<p>Der <a href=\"/regionen/bezirk-moedling/\">Bezirk Mödling</a> grenzt direkt an Wien und ist dicht besiedelt. Für Patientinnen, Mandanten und Kunden heißt das: Es gibt viel Auswahl. Wer eine neue Zahnärztin oder eine Steuerberatung sucht, öffnet mehrere Websites nebeneinander.</p><p>In diesem Vergleich zählen Kleinigkeiten. Eine Website, auf der man sofort erfährt, wie der erste Termin abläuft, hinterlässt einen besseren Eindruck als eine, bei der man erst anrufen muss.</p>"
+    },
+    {
+      "h2": "Was ein Chatbot in einer Praxis beantworten kann",
+      "html": "<p>Eine Zahnarztpraxis oder eine Physiotherapie bekommt viele organisatorische Fragen:</p><ul><li>Sind Sie Kassen- oder Wahlarzt, und was bedeutet das für mich?</li><li>Was soll ich zum ersten Termin mitbringen?</li><li>Gibt es Parkplätze, und ist die Praxis barrierefrei?</li></ul><p>Das kann Pipebot gut, wenn die Antworten auf der Website stehen. Fragen zu Beschwerden oder Behandlungen im Einzelfall gehören dagegen ins persönliche Gespräch. Mehr dazu auf der Seite für <a href=\"/branchen/zahnarzt/\">Zahnarztpraxen</a>.</p>"
+    },
+    {
+      "h2": "Kanzleien: Ablauf statt Auskunft",
+      "html": "<p>Eine Steuerberatungskanzlei wird gefragt, welche Unterlagen fürs erste Gespräch nötig sind, ob das Erstgespräch etwas kostet und wann das Büro besetzt ist. Diese Fragen beantwortet der Bot. Eine steuerliche oder rechtliche Einschätzung gibt er nicht, er verbindet in solchen Fällen mit Ihrem Team.</p><p>Wie sich ein Chatbot in die Kanzlei-Website einfügt, zeigt die Seite für <a href=\"/branchen/steuerberater/\">Steuerberater</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz von Anfang an mitdenken",
+      "html": "<p>In Praxen und Kanzleien ist Vertrauen das Wichtigste. Weisen Sie auf Ihrer Website darauf hin, dass im Chat keine Gesundheits- oder Steuerdaten eingegeben werden sollen, und erwähnen Sie den Chatbot in Ihrer Datenschutzerklärung. Grundlagen dazu erklärt der Ratgeber <a href=\"/wissen/chatbot-datenschutz/\">Chatbot und Datenschutz</a>.</p><p>Das ist eine allgemeine Orientierung. Im Einzelfall helfen Ihre Kammer, ein Anwalt oder die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> weiter. Einen ersten Eindruck, wie der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> mit den Texten Ihrer Praxis oder Kanzlei umgeht, gibt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot medizinische Fragen beantworten?",
+      "a": "Nein, und das soll er auch nicht. Pipebot antwortet nur mit den Inhalten Ihrer Website. Wenn dort Ihre Behandlungen allgemein beschrieben sind, kann er diese Beschreibung weitergeben. Eine Einschätzung zu Beschwerden, Diagnosen oder Medikamenten gibt er nicht. Bei solchen Fragen verweist er auf einen persönlichen Termin und verbindet mit Ihrem Team. Das schützt Patienten und Praxis gleichermaßen."
+    },
+    {
+      "q": "Wie verhindere ich, dass sensible Daten im Chat landen?",
+      "a": "Ganz verhindern lässt es sich nie, aber Sie können klar darauf hinweisen. Schreiben Sie auf Ihre Website, dass Gesundheits-, Steuer- oder Vertragsdaten nicht in den Chat gehören, sondern ins persönliche Gespräch. Diesen Hinweis kann der Bot dann auch selbst geben. Zusätzlich sollte Ihre Datenschutzerklärung den Chatbot nennen. Im Einzelfall klären Sie Details mit einem Anwalt oder der Datenschutzbehörde."
+    },
+    {
+      "q": "Wirkt ein Chatbot in einer Kanzlei nicht unseriös?",
+      "a": "Nicht, wenn er gut gemacht ist. Ein Bot, der klar sagt, was er kann und was nicht, wirkt eher aufgeräumt. Pipebot erscheint im Design Ihrer Website und antwortet nur mit Ihren eigenen Texten. Er ersetzt keine Beratung, sondern spart Mandanten den Anruf für die organisatorischen Fragen. Unseriös wäre ein Bot, der Rechtsauskünfte erfindet. Genau das tut Pipebot nicht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-moedling/",
+    "/branchen/zahnarzt/",
+    "/branchen/steuerberater/",
+    "/wissen/chatbot-datenschutz/",
+    "/wissen/praxis-website/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

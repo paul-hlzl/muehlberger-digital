@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/ssl-zertifikat/",
+  "title": "SSL-Zertifikat: HTTPS und Verschlüsselung erklärt",
+  "description": "SSL-Zertifikat einfach erklärt: Wofür das Schloss im Browser steht, warum HTTPS heute Pflicht ist und was kleine Betriebe dafür tun müssen.",
+  "h1": "SSL-Zertifikat – sichere Verbindung per HTTPS",
+  "kicker": "Glossar · Sicherheit",
+  "lead": "Ein SSL-Zertifikat ist ein digitaler Nachweis, mit dem Ihre Website eine verschlüsselte Verbindung zum Browser aufbaut. Erkennbar ist das an „https://“ und dem Schloss-Symbol in der Adresszeile; technisch kommt heute der Nachfolger TLS zum Einsatz.",
+  "fakten": [
+    "Verschlüsselt Daten zwischen Besucher und Website",
+    "Ohne Zertifikat warnen Browser vor einer „nicht sicheren“ Seite",
+    "Einfache Zertifikate gibt es kostenlos, etwa über Let’s Encrypt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was das Zertifikat konkret schützt",
+      "html": "<p>Eine Physiotherapiepraxis hat auf ihrer Website ein Formular für Terminanfragen. Patienten tragen Name, Telefonnummer und manchmal Beschwerden ein. Mit HTTPS werden diese Angaben verschlüsselt übertragen, sodass sie unterwegs, etwa in einem öffentlichen WLAN, nicht mitgelesen werden können.</p><p>Fehlt das Zertifikat oder ist es abgelaufen, zeigt der Browser eine Warnung. Viele Besucher brechen dann ab, bevor sie die Seite überhaupt sehen. Mehr dazu im Ratgeber <a href=\"/wissen/ssl-https/\">SSL und HTTPS</a>.</p>"
+    },
+    {
+      "h2": "Warum HTTPS für KMU Standard sein muss",
+      "html": "<p>HTTPS ist heute Grundausstattung jeder Website, nicht nur von Onlineshops. Es schafft Vertrauen, ist Voraussetzung für viele Browserfunktionen und wird von Google als Qualitätssignal berücksichtigt. Bei Formularen mit personenbezogenen Daten ist eine verschlüsselte Übertragung auch aus Sicht der <a href=\"/glossar/dsgvo/\">DSGVO</a> geboten.</p><p>Zertifikate laufen ab und müssen erneuert werden. Gutes <a href=\"/glossar/hosting/\">Hosting</a> erledigt das automatisch. Ob Ihre Seite sauber auf HTTPS umgestellt ist, zeigt auch der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich ein kostenpflichtiges SSL-Zertifikat?",
+      "a": "Für die meisten kleinen Betriebe reicht ein kostenloses Zertifikat, wie es viele Hosting-Anbieter automatisch einrichten. Es verschlüsselt genauso gut wie ein bezahltes. Kostenpflichtige Varianten prüfen zusätzlich das Unternehmen und sind vor allem für größere Shops oder Banken interessant. Wichtiger als der Preis ist, dass das Zertifikat automatisch erneuert wird."
+    },
+    {
+      "q": "Was mache ich, wenn der Browser „nicht sicher“ anzeigt?",
+      "a": "Dann fehlt das Zertifikat, es ist abgelaufen oder einzelne Inhalte wie Bilder werden noch über unverschlüsseltes HTTP geladen. Melden Sie das Ihrem Webdienstleister oder Hosting-Anbieter. Meist lässt sich das schnell beheben, indem das Zertifikat erneuert und alle Adressen auf HTTPS umgestellt werden. Lassen Sie die Warnung nicht stehen, weil sie Besucher abschreckt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ssl-https/",
+    "/glossar/hosting/",
+    "/wissen/it-sicherheit/",
+    "/leistungen/website-wartung-hosting/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

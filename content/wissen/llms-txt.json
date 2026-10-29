@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/llms-txt/",
+  "title": "llms.txt einfach erklärt: Nutzen und Grenzen",
+  "description": "Was die Datei llms.txt ist, wie sie aufgebaut wird, was sie für KI-Suchen bringen kann und warum sie für kleine Betriebe nur ein kleiner Baustein ist.",
+  "h1": "llms.txt einfach erklärt",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "Die llms.txt ist eine einfache Textdatei im Hauptverzeichnis einer Website, die KI-Systemen in Kurzform erklärt, worum es auf der Website geht und welche Seiten am wichtigsten sind. Sie ist ein Vorschlag, kein offizieller Standard, und ob große KI-Anbieter sie auswerten, ist nicht gesichert. Sie kostet wenig Aufwand, ersetzt aber keine guten Inhalte.",
+  "fakten": [
+    "Die Datei liegt unter beispiel.at/llms.txt und ist in einfachem Markdown geschrieben",
+    "Sie enthält eine Kurzbeschreibung und Links zu den wichtigsten Seiten",
+    "Kein offizieller Standard, die Nutzung durch große Anbieter ist nicht bestätigt",
+    "Sie ist kein Ersatz für robots.txt, Sitemap oder klare Website-Texte",
+    "Aufwand: meist unter einer Stunde, Nutzen: eher klein, aber ohne Nachteil"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was die llms.txt ist",
+      "html": "<p>Die <a href=\"/glossar/llms-txt/\">llms.txt</a> ist eine Textdatei, die direkt im Hauptverzeichnis Ihrer Website liegt, also etwa unter tischlerei-beispiel.at/llms.txt. Der Name kommt von „Large Language Models“, den <a href=\"/glossar/large-language-model/\">Sprachmodellen</a> hinter ChatGPT, Claude, Gemini und Co.</p> <p>Die Idee: Websites sind für Menschen gebaut, mit Menüs, Bildern, Cookie-Bannern und vielen Unterseiten. Ein KI-System, das schnell verstehen will, worum es geht, muss sich durch all das durcharbeiten. Die llms.txt bietet eine Abkürzung: eine kurze, sauber gegliederte Zusammenfassung mit Links zu den wichtigsten Inhalten.</p>"
+    },
+    {
+      "h2": "Wie die Datei aufgebaut ist",
+      "html": "<p>Die Datei ist in Markdown geschrieben, einer einfachen Textformatierung. Ein typischer Aufbau für einen kleinen Betrieb:</p> <ol> <li><strong>Überschrift</strong> mit dem Firmennamen</li> <li><strong>Kurzbeschreibung</strong> in ein, zwei Sätzen: was, wo, für wen</li> <li><strong>Wichtige Fakten</strong>: Einzugsgebiet, Öffnungszeiten, Kontakt</li> <li><strong>Abschnitt mit Links</strong> zu den zentralen Seiten, jeweils mit kurzer Erklärung</li> <li><strong>Optionaler Abschnitt</strong> mit weniger wichtigen Seiten</li> </ol> <p>Für eine Tischlerei könnte die Kurzbeschreibung lauten: <em>„Tischlerei im Bezirk Zwettl, Niederösterreich. Küchen, Einbauschränke und Stiegen nach Maß für Privatkunden im Waldviertel.“</em> Darunter Links zu Küchen, Schränken, Referenzen und Kontakt.</p> <p>Manche Websites legen zusätzlich eine llms-full.txt an, die den kompletten Text der wichtigsten Seiten enthält. Für kleine Betriebe ist das meist nicht nötig.</p>"
+    },
+    {
+      "h2": "Was die llms.txt bringen kann",
+      "html": "<ul> <li><strong>Klarheit:</strong> Sie zwingt Sie, in wenigen Sätzen zu sagen, was Ihr Betrieb macht. Diese Übung allein verbessert oft auch die Startseite.</li> <li><strong>Orientierung für KI-Werkzeuge:</strong> Systeme, die die Datei kennen, finden schneller die richtigen Seiten.</li> <li><strong>Geringer Aufwand:</strong> Einmal erstellt, muss sie nur bei größeren Änderungen angepasst werden.</li> <li><strong>Kein Risiko:</strong> Wird die Datei nicht gelesen, schadet sie auch nicht.</li> </ul>"
+    },
+    {
+      "h2": "Die ehrliche Einschätzung",
+      "html": "<p>Die llms.txt ist ein noch junger Vorschlag aus der Entwickler-Community, kein Standard einer offiziellen Stelle. Bisher hat keiner der großen Anbieter verbindlich erklärt, dass seine KI-Suche die Datei für Antworten auswertet. Von Google gibt es dazu eher skeptische Äußerungen.</p> <p>Für Ihren Betrieb heißt das: Die llms.txt ist ein netter Zusatz, aber kein Hebel, der allein etwas verändert. Wenn jemand Ihnen die Datei als Wundermittel für ChatGPT verkauft, ist Vorsicht angebracht. Deutlich mehr bewirken klare Website-Texte, einheitliche Firmendaten und Erwähnungen, wie unter <a href=\"/wissen/in-chatgpt-gefunden-werden/\">In ChatGPT gefunden werden</a> beschrieben.</p>"
+    },
+    {
+      "h2": "Abgrenzung zu robots.txt und Sitemap",
+      "html": "<ul> <li><strong>robots.txt:</strong> regelt, welche Crawler welche Bereiche besuchen dürfen. Sie ist ein etablierter Standard. Die llms.txt erlaubt oder verbietet nichts. Mehr zur Zugriffssteuerung unter <a href=\"/wissen/ki-crawler/\">KI-Crawler zulassen oder sperren</a>.</li> <li><strong>XML-Sitemap:</strong> listet alle Seiten für Suchmaschinen auf, ohne Erklärung. Die llms.txt wählt aus und erklärt.</li> <li><strong>Strukturierte Daten:</strong> zeichnen Fakten im Seitencode maschinenlesbar aus, etwa Adresse und Öffnungszeiten. Das ist für Suchmaschinen etabliert und wichtiger als die llms.txt.</li> </ul>"
+    },
+    {
+      "h2": "So erstellen Sie eine llms.txt",
+      "html": "<ol> <li>Schreiben Sie die Kurzbeschreibung Ihres Betriebs in zwei Sätzen.</li> <li>Wählen Sie fünf bis zehn wichtige Seiten aus und schreiben Sie zu jeder einen Satz.</li> <li>Ergänzen Sie Kontaktdaten genau so, wie sie überall sonst stehen.</li> <li>Speichern Sie alles als einfache Textdatei mit dem Namen llms.txt.</li> <li>Laden Sie sie ins Hauptverzeichnis Ihrer Website oder bitten Sie Ihren Webbetreuer darum.</li> <li>Prüfen Sie im Browser, ob die Datei unter Ihrer Domain mit /llms.txt erreichbar ist.</li> </ol> <p>Schreiben Sie nichts hinein, was nicht auch auf der Website steht. Die Datei soll zusammenfassen, nicht etwas anderes behaupten.</p>"
+    },
+    {
+      "h2": "Was zuerst kommt",
+      "html": "<p>Wenn Sie wenig Zeit haben, kümmern Sie sich zuerst um die Grundlagen: eine klare Startseite, eigene Leistungsseiten, ein gepflegtes Google-Profil und einheitliche Daten. Die llms.txt kommt danach, wenn das steht.</p> <p>Wie gut Ihr Betrieb heute in KI-Suchen vorkommt, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Bei einer neuen Website von Mühlberger Digital wird eine llms.txt auf Wunsch gleich mit angelegt, als Ergänzung zur Optimierung für <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine llms.txt?",
+      "a": "Die llms.txt ist eine Textdatei im Hauptverzeichnis einer Website, die Sprachmodellen wie ChatGPT, Claude oder Gemini in Kurzform erklärt, worum es auf der Website geht. Sie enthält eine kurze Beschreibung und eine Liste der wichtigsten Seiten mit Links. Die Datei ist ein Vorschlag aus der Entwickler-Community und kein offizieller Standard, ihre Nutzung durch große KI-Anbieter ist nicht bestätigt."
+    },
+    {
+      "q": "Brauche ich als kleiner Betrieb eine llms.txt?",
+      "a": "Zwingend nötig ist sie nicht. Sie schadet aber nicht und ist schnell erstellt, meist in unter einer Stunde. Wenn Ihre Website bereits klare Texte, eigene Leistungsseiten und einheitliche Firmendaten hat, ist die llms.txt eine sinnvolle kleine Ergänzung. Wenn diese Grundlagen fehlen, sollten Sie zuerst dort ansetzen, weil sie deutlich mehr Wirkung haben."
+    },
+    {
+      "q": "Ersetzt die llms.txt die robots.txt?",
+      "a": "Nein, die beiden Dateien haben unterschiedliche Aufgaben. Die robots.txt ist ein etablierter Standard und legt fest, welche Crawler welche Bereiche einer Website besuchen dürfen. Die llms.txt erlaubt oder verbietet nichts, sondern fasst Inhalte zusammen und zeigt auf wichtige Seiten. Wer KI-Crawler zulassen oder sperren möchte, muss das weiterhin in der robots.txt regeln."
+    },
+    {
+      "q": "Was gehört nicht in die llms.txt?",
+      "a": "In die llms.txt gehören keine Angaben, die nicht auch auf der Website stehen, keine Werbeversprechen, keine langen Listen von Suchbegriffen und keine vertraulichen Informationen. Die Datei ist öffentlich lesbar. Halten Sie sie kurz, sachlich und aktuell, und achten Sie darauf, dass Name, Adresse und Telefonnummer exakt so lauten wie auf Website und Google-Profil."
+    }
+  ],
+  "verwandt": [
+    "/glossar/llms-txt/",
+    "/glossar/robots-txt/",
+    "/wissen/ki-crawler/",
+    "/wissen/was-ist-geo/",
+    "/leistungen/geo-ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

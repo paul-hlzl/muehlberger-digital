@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/web-app/",
+  "title": "Web-App einfach erklärt: Anwendung im Browser",
+  "description": "Web-App einfach erklärt: Wie Anwendungen im Browser ohne Installation funktionieren, was sie von einer nativen App unterscheidet und wann sie passen.",
+  "h1": "Web-App – Anwendung im Browser",
+  "kicker": "Glossar · Apps",
+  "lead": "Eine Web-App ist eine Anwendung, die im Browser läuft und ohne Installation aus einem App-Store genutzt wird, zum Beispiel ein Buchungssystem, ein Kundenportal oder ein Bestellformular mit Login. Sie funktioniert auf Computer, Tablet und Smartphone gleichermaßen.",
+  "fakten": [
+    "Kein App-Store nötig, Aufruf über eine Internetadresse",
+    "Eine Version für alle Geräte und Betriebssysteme",
+    "Updates wirken sofort für alle Nutzer"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus dem Betrieb",
+      "html": "<p>Ein Getränkehändler beliefert Gasthäuser und Vereine. Bisher kommen Bestellungen per Telefon, SMS und Zettel. Mit einer Web-App melden sich die Wirte im Browser an, sehen ihre letzten Bestellungen, ändern Mengen und schicken die Bestellung ab. Der Fahrer ruft am Tablet die Tagesroute mit allen Lieferungen auf.</p><p>Im Unterschied zu einer normalen Website gibt es Logins, gespeicherte Daten und Funktionen. Im Unterschied zur <a href=\"/glossar/native-app/\">nativen App</a> muss niemand etwas installieren, und eine Freigabe durch einen App-Store entfällt.</p>"
+    },
+    {
+      "h2": "Warum Web-Apps für KMU interessant sind",
+      "html": "<p>Für viele interne Werkzeuge und Kundenportale ist eine Web-App die günstigere und schneller umsetzbare Lösung als eine App für iPhone und Android. Mit Funktionen einer <a href=\"/glossar/pwa/\">PWA</a> lässt sie sich sogar wie eine App auf den Startbildschirm legen. Grenzen gibt es bei manchen Gerätefunktionen.</p><p>Die Entscheidung erleichtert der Vergleich <a href=\"/vergleiche/native-app-oder-web-app/\">native App oder Web-App</a> und der Ratgeber <a href=\"/wissen/app-oder-website/\">App oder Website</a>. Die Umsetzung beschreibt <a href=\"/leistungen/app-entwicklung/\">App-Entwicklung</a>; Preise gibt es nach dem Erstgespräch auf Anfrage.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Funktioniert eine Web-App auch ohne Internet?",
+      "a": "Klassische Web-Apps brauchen eine Internetverbindung. Mit den Techniken einer Progressive Web App können aber Teile der Anwendung zwischengespeichert werden, sodass etwa zuletzt geladene Daten auch offline sichtbar sind und Eingaben später übertragen werden. Wie gut das funktioniert, hängt von der Umsetzung ab. Wenn Offline-Nutzung wichtig ist, sollte das von Anfang an eingeplant werden."
+    },
+    {
+      "q": "Ist eine Web-App sicher genug für Kundendaten?",
+      "a": "Ja, wenn sie sorgfältig gebaut und betrieben wird: verschlüsselte Verbindung über HTTPS, sichere Anmeldung, klare Benutzerrechte, regelmäßige Updates und ein Server mit Standort in der EU. Wichtig ist auch, wer im Betrieb welche Daten sehen darf. Lassen Sie sich vom Dienstleister erklären, wie Daten gespeichert und gesichert werden."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/native-app-oder-web-app/",
+    "/glossar/pwa/",
+    "/glossar/native-app/",
+    "/leistungen/app-entwicklung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

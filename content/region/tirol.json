@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/tirol/",
+  "title": "Digitalagentur Tirol: KI-Sichtbarkeit für Betriebe",
+  "description": "Für Tiroler Gastgeber, Handwerk und Handel: Website, KI-Sichtbarkeit in ChatGPT & Co. und Hilfe bei der Mitarbeitersuche – online beraten.",
+  "h1": "Digitalagentur für Tirol – gefunden werden, wenn Gäste die KI fragen",
+  "kicker": "Region · Bundesland",
+  "lead": "Tiroler Betriebe berät Mühlberger Digital online zu Website, Sichtbarkeit in Google und KI-Suchen sowie zur Mitarbeitersuche. Gerade im Tourismus entscheidet sich immer öfter in ChatGPT oder Gemini, welches Haus ein Gast überhaupt in die engere Wahl nimmt.",
+  "fakten": [
+    "Landeshauptstadt Innsbruck, Alpen- und Wintertourismus prägen das Land",
+    "Hittaro misst, wie oft KI-Suchen Ihren Betrieb nennen",
+    "Gratis-Check mit Bericht innerhalb von 24 Stunden",
+    "Beratung online, Umsetzung durch Pipeline AI Solutions"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Tirol: Tourismus, Handwerk und eine starke Landeshauptstadt",
+      "html": "<p>Tirol ist eines der bekanntesten Urlaubsländer der Alpen, mit Skigebieten, Wanderregionen und vielen familiengeführten Hotels und Pensionen. Dazu kommen Handwerksbetriebe, die Hotels bauen und erhalten, und in <a href=\"/regionen/innsbruck/\">Innsbruck</a> Handel, Universität und viele Dienstleister. Die digitalen Fragen unterscheiden sich entsprechend: Ein Hotel kämpft um Buchungen, ein Tischler um Fachkräfte, eine Kanzlei um Vertrauen.</p>"
+    },
+    {
+      "h2": "Wenn Gäste ChatGPT nach dem passenden Hotel fragen",
+      "html": "<p>Immer mehr Menschen planen den Urlaub mit KI-Assistenten: „Familienfreundliches Hotel mit Hallenbad in Tirol, nicht zu groß“. Die Antwort nennt eine Handvoll Häuser. Wer dort nicht vorkommt, wird gar nicht erst verglichen. Welche Betriebe genannt werden, hängt stark davon ab, wie klar und vollständig sie im Netz beschrieben sind.</p><p>Hittaro misst genau das und verbessert es: Der Gratis-Check liefert innerhalb von 24 Stunden einen Bericht, die Optimierung kostet einmalig 199 €, 299 € oder 699 €, die Wartung ab 20 € pro Monat. Hintergrund dazu im Ratgeber <a href=\"/wissen/chatgpt-empfiehlt-firmen/\">Warum ChatGPT bestimmte Firmen empfiehlt</a>.</p>"
+    },
+    {
+      "h2": "Typische Situationen in Tiroler Betrieben",
+      "html": "<ul><li>Eine Pension im Tal wird auf Buchungsplattformen gut bewertet, auf der eigenen Website stehen aber kaum Informationen. Ein Ausbau der Website mit Zimmern, Lage und Antworten auf häufige Fragen hilft Google und KI-Suchen gleichermaßen.</li><li>Ein Skiverleih bekommt in der Saison dieselben Fragen zu Preisen und Öffnungszeiten. Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> nimmt dem Team diese Arbeit ab.</li><li>Ein Hotel sucht jede Saison Personal für Küche und Service. Eine Karriereseite und eine kostenlose Ausschreibung auf zusage.at erweitern die Reichweite.</li></ul>"
+    },
+    {
+      "h2": "Mitarbeitersuche für die Saison",
+      "html": "<p>In vielen Tiroler Betrieben ist die Personalsuche jedes Jahr ein Thema. Digital lässt sich das nicht ganz lösen, aber deutlich erleichtern: mit einer eigenen Seite, die ehrlich zeigt, wie Arbeit und Unterkunft aussehen, mit klaren Ansprechpersonen und mit einer Ausschreibung auf <a href=\"https://zusage.at/\">zusage.at</a>, der kostenlosen Bewerbungsplattform für Österreich. Tipps dazu im Ratgeber <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p>"
+    },
+    {
+      "h2": "So läuft die Zusammenarbeit mit Tirol",
+      "html": "<p>Der Sitz von Mühlberger Digital ist in Ottenschlag im Waldviertel. Tiroler Betriebe werden per Video-Call und Telefon beraten, am Abend zwischen 18:00 und 21:30 Uhr. Die technische Umsetzung liegt bei <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>. Sie bekommen vorab einen klaren Preis und ein schriftliches Angebot.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann man garantieren, dass ChatGPT mein Hotel in Tirol empfiehlt?",
+      "a": "Nein, das kann seriös niemand garantieren. KI-Suchen stellen ihre Antworten selbst zusammen. Was sich beeinflussen lässt, ist die Grundlage: eine Website mit klaren, vollständigen Informationen, einheitliche Angaben auf allen Plattformen und gut strukturierte Inhalte. Hittaro misst, wie oft Ihr Betrieb genannt wird, und zeigt im Bericht, ob sich nach der Optimierung etwas verändert."
+    },
+    {
+      "q": "Was kostet der Gratis-Check von Hittaro?",
+      "a": "Der Check ist kostenlos. Sie geben Ihren Betrieb an und bekommen innerhalb von 24 Stunden einen Bericht, wie oft Google und KI-Suchen wie ChatGPT oder Gemini Sie nennen. Wenn Sie danach etwas verbessern möchten, kostet die Optimierung einmalig 199 €, 299 € oder 699 €, je nach Umfang. Eine laufende Wartung gibt es ab 20 € pro Monat."
+    },
+    {
+      "q": "Wie hilft zusage.at bei der Personalsuche im Tourismus?",
+      "a": "zusage.at ist eine kostenlose Bewerbungsplattform für Österreich, ein eigenes Produkt von Pipeline. Sie können dort Stellen ausschreiben und Bewerbungen bekommen. Am meisten bringt das, wenn die Ausschreibung ehrlich beschreibt, was die Stelle ausmacht, und wenn Ihre Website zusätzlich eine Karriereseite mit Einblicken in den Betrieb hat."
+    }
+  ],
+  "verwandt": [
+    "/regionen/innsbruck/",
+    "/produkte/hittaro/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/branchen/hotel/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "chatbot-test"
+  ]
+}

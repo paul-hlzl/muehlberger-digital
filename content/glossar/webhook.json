@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/webhook/",
+  "title": "Webhook einfach erklärt: Automatische Benachrichtigung",
+  "description": "Webhook einfach erklärt: Wie ein Programm ein anderes sofort über ein Ereignis informiert und warum das Automatisierung möglich macht.",
+  "h1": "Webhook",
+  "kicker": "Glossar · Technik",
+  "lead": "Ein Webhook ist eine automatische Benachrichtigung, die ein Programm an eine festgelegte Internetadresse schickt, sobald ein bestimmtes Ereignis eintritt, etwa eine neue Bestellung oder ein ausgefülltes Formular. Das empfangende Programm kann dann sofort reagieren.",
+  "fakten": [
+    "Das Ereignis meldet sich selbst, niemand muss ständig nachfragen",
+    "Häufig der Auslöser für automatisierte Workflows",
+    "Die Empfangsadresse sollte geschützt und geheim bleiben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Webhook im Alltag",
+      "html": "<p>Ein Hofladen verkauft Kistl mit Gemüse über einen kleinen <a href=\"/glossar/onlineshop/\">Onlineshop</a>. Bei jeder Bestellung schickt der Shop einen Webhook an ein Automatisierungswerkzeug. Dieses trägt die Bestellung in die Packliste für Freitag ein, schickt dem Kunden eine Abholzeit und informiert die Bäuerin per Nachricht.</p><p>Der Unterschied zur <a href=\"/glossar/api/\">API</a>: Bei einer API fragt ein Programm aktiv nach Daten. Beim Webhook meldet sich das andere Programm von selbst, sobald etwas passiert. Das ist schneller und spart unnötige Abfragen.</p>"
+    },
+    {
+      "h2": "Warum Webhooks für KMU nützlich sind",
+      "html": "<p>Webhooks sind der Startschuss vieler <a href=\"/glossar/workflow/\">Workflows</a>. Ohne sie müsste jemand regelmäßig nachsehen, ob es Neuigkeiten gibt. Für kleine Betriebe heißt das: schnellere Reaktion auf Kunden und weniger händische Kontrolle. Viele Shop-, Formular- und Zahlungsdienste bieten Webhooks standardmäßig an.</p><p>Wie daraus ganze Abläufe werden, zeigt der Eintrag <a href=\"/glossar/automatisierung/\">Automatisierung</a>. Praktische Beispiele bietet <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele</a>, die Umsetzung beschreibt <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich Webhooks selbst einrichten?",
+      "a": "Bei vielen Werkzeugen ist das mit wenigen Klicks erledigt: Sie kopieren eine Empfangsadresse aus dem Automatisierungswerkzeug und tragen sie im Shop oder Formulardienst ein. Für individuelle Abläufe, sensible Daten oder Verbindungen zu älterer Software braucht es meist technische Unterstützung. Wichtig ist in jedem Fall ein Test mit Beispieldaten, bevor echte Kunden betroffen sind."
+    },
+    {
+      "q": "Sind Webhooks sicher?",
+      "a": "Sie sind sicher, wenn die Empfangsadresse geheim bleibt, die Verbindung über HTTPS läuft und der Empfänger prüft, ob die Nachricht wirklich vom erwarteten Absender stammt. Viele Dienste signieren ihre Webhooks dafür. Geben Sie Webhook-Adressen nicht weiter und deaktivieren Sie ungenutzte Verbindungen, damit niemand gefälschte Ereignisse einschleusen kann."
+    }
+  ],
+  "verwandt": [
+    "/glossar/api/",
+    "/glossar/workflow/",
+    "/wissen/automatisierung-beispiele/",
+    "/leistungen/ki-automatisierung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

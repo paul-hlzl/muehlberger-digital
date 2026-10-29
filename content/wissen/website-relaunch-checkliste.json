@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/website-relaunch-checkliste/",
+  "title": "Website-Relaunch: Checkliste von Planung bis Go-live",
+  "description": "Checkliste für den Website-Relaunch: Bestandsaufnahme, Inhalte, Weiterleitungen, Tests vor dem Go-live und Kontrolle danach, damit Platzierungen bleiben.",
+  "h1": "Checkliste für den Website-Relaunch",
+  "kicker": "Ratgeber · Relaunch",
+  "lead": "Ein Website-Relaunch gelingt, wenn Sie zuerst festhalten, was die alte Seite leistet, dann Struktur und Inhalte planen und vor dem Go-live jede alte Adresse auf eine passende neue weiterleiten. Nach dem Start prüfen Sie Formulare, Google Search Console und Platzierungen. Die meisten Relaunch-Probleme entstehen durch fehlende Weiterleitungen und verlorene Inhalte, nicht durch das neue Design.",
+  "fakten": [
+    "Vorher festhalten, welche Seiten Besucher und Anfragen bringen",
+    "Jede alte Adresse braucht eine Weiterleitung auf die neue",
+    "Vor dem Go-live: Formulare, Handy-Ansicht, Pflichtseiten testen",
+    "Nach dem Start einige Wochen Search Console beobachten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Phase 1: Bestandsaufnahme der alten Website",
+      "html": "<p>Bevor Sie Neues planen, schauen Sie, was die alte Seite gut macht. Oft bringen einzelne Unterseiten einen Großteil der Anfragen, ohne dass es jemand weiß. Diese Seiten dürfen beim Relaunch nicht verschwinden.</p><ul><li>Liste aller bestehenden Seiten und ihrer Adressen anlegen.</li><li>In der <a href=\"/wissen/google-search-console/\">Google Search Console</a> nachsehen, über welche Seiten und Suchbegriffe Besucher kommen.</li><li>Festhalten, welche Formulare, Downloads und Funktionen es gibt.</li><li>Kunden und Mitarbeiter fragen: Was finden sie gut, was fehlt, was stört?</li></ul>"
+    },
+    {
+      "h2": "Phase 2: Ziele und Struktur festlegen",
+      "html": "<p>Ein Relaunch ist mehr als ein neuer Anstrich. Legen Sie fest, was die neue Website besser machen soll: mehr Anfragen, bessere Bewerbungen, weniger Telefonate mit Standardfragen? Daraus ergibt sich die Struktur.</p><p>Planen Sie, welche Seiten bleiben, welche zusammengelegt und welche neu entstehen. Eine eigene Seite pro wichtiger Leistung ist meist besser als eine lange Sammelseite. Halten Sie alles in einem kurzen <a href=\"/wissen/website-briefing/\">Website-Briefing</a> fest, damit alle Beteiligten vom Gleichen sprechen.</p>"
+    },
+    {
+      "h2": "Phase 3: Inhalte überarbeiten",
+      "html": "<p>Übernehmen Sie Inhalte nicht ungeprüft. Alte Texte enthalten oft veraltete Leistungen, falsche Öffnungszeiten oder Mitarbeiter, die nicht mehr im Betrieb sind. Gleichzeitig sollten gut funktionierende Texte nicht ohne Grund komplett umgeschrieben werden.</p><ul><li>Jede Seite prüfen: behalten, überarbeiten, zusammenlegen oder streichen.</li><li>Aktuelle Fotos vom Betrieb und vom Team einplanen.</li><li>Impressum und Datenschutzerklärung an die neue Technik anpassen.</li><li>Seitentitel und Beschreibungen für jede Seite neu schreiben.</li></ul>"
+    },
+    {
+      "h2": "Phase 4: Weiterleitungen planen",
+      "html": "<p>Das ist der wichtigste und am häufigsten vergessene Schritt. Wenn sich Adressen ändern, müssen die alten Adressen dauerhaft auf die passenden neuen zeigen. Fachlich spricht man von einer 301-Weiterleitung. Ohne sie landen Besucher aus Google, aus alten E-Mails oder von Branchenverzeichnissen auf einer Fehlerseite.</p><p>Legen Sie dafür eine Tabelle an: alte Adresse links, neue Adresse rechts. Leiten Sie nicht alles pauschal auf die Startseite weiter, sondern jeweils auf die inhaltlich passende Seite. Das schützt die Platzierungen, die sich die alte Seite über Jahre erarbeitet hat.</p>"
+    },
+    {
+      "h2": "Phase 5: Tests vor dem Go-live",
+      "html": "<ul><li>Alle Seiten am Smartphone, Tablet und Computer durchklicken.</li><li>Kontaktformular abschicken und prüfen, ob die Nachricht ankommt.</li><li>Telefonnummer und E-Mail-Adresse anklicken: funktionieren sie am Handy?</li><li>Ladezeit messen, große Bilder verkleinern.</li><li>HTTPS aktiv, keine Warnungen im Browser.</li><li>Testseiten für Suchmaschinen gesperrt, die fertige Seite freigegeben.</li><li>Weiterleitungen stichprobenartig prüfen.</li></ul>"
+    },
+    {
+      "h2": "Phase 6: Die ersten Wochen nach dem Start",
+      "html": "<p>Nach dem Go-live ist vor der Kontrolle. Reichen Sie die neue Sitemap in der Search Console ein und beobachten Sie dort Fehlermeldungen. Ob alle Seiten bei Google angekommen sind, erklärt der Ratgeber <a href=\"/wissen/indexierung-pruefen/\">Ist meine Website bei Google indexiert</a>.</p><p>Leichte Schwankungen bei den Platzierungen sind in den ersten Wochen normal. Wenn wichtige Seiten deutlich einbrechen, fehlt oft eine Weiterleitung oder ein Inhalt. Aktualisieren Sie außerdem den Link in Ihrem Google-Unternehmensprofil, in Branchenverzeichnissen und in Ihrer E-Mail-Signatur.</p><p>Planen Sie nach etwa einem Monat einen kurzen Rückblick ein: Kommen über das Formular Anfragen an? Welche Seiten werden besucht, welche kaum? Was fragen Kunden am Telefon, obwohl es auf der Website steht? Aus diesen Antworten ergeben sich die ersten sinnvollen Nachbesserungen.</p>"
+    },
+    {
+      "h2": "Typische Fehler und wie wir unterstützen",
+      "html": "<p>Die häufigsten Fehler: Weiterleitungen vergessen, gut rankende Seiten gestrichen, die Testversion bleibt für Google gesperrt, das Formular schickt Nachrichten an ein altes Postfach. Mit der Checkliste oben vermeiden Sie die meisten davon.</p><p>Wenn Sie den Relaunch nicht allein stemmen möchten, finden Sie den Ablauf auf der Seite <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a>. Als Ausgangspunkt eignen sich der kostenlose <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test</a> für Ihre jetzige Seite und der <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf</a> von Pipeline AI Solutions, der zeigt, wie Ihr neuer Auftritt aussehen könnte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann ist ein Website-Relaunch sinnvoll?",
+      "a": "Ein Relaunch lohnt sich, wenn die Website am Smartphone schlecht funktioniert, technisch veraltet ist, kaum Anfragen bringt oder nicht mehr zu Ihrem Betrieb passt. Auch neue Leistungen, ein neuer Name oder ein Systemwechsel sind typische Anlässe. Wenn nur einzelne Texte oder Fotos veraltet sind, reicht oft eine gezielte Überarbeitung statt eines kompletten Neustarts."
+    },
+    {
+      "q": "Verliere ich durch einen Relaunch meine Google-Platzierungen?",
+      "a": "Nicht zwingend. Entscheidend ist, dass alle alten Adressen dauerhaft auf passende neue Seiten weitergeleitet werden und wichtige Inhalte erhalten bleiben. Kurzfristige Schwankungen sind normal. Größere Verluste entstehen meist, wenn Weiterleitungen fehlen, gut platzierte Seiten ersatzlos gestrichen werden oder die neue Website versehentlich für Suchmaschinen gesperrt bleibt."
+    },
+    {
+      "q": "Wie lange dauert ein Website-Relaunch?",
+      "a": "Das hängt vor allem von Umfang und Inhalten ab. Eine kleine Website mit wenigen Seiten ist deutlich schneller umgesetzt als ein Auftritt mit vielen Unterseiten, Shop oder Anbindungen. Den größten Einfluss hat oft, wie schnell Texte, Fotos und Freigaben vorliegen. Einen realistischen Zeitplan bekommen Sie nach dem Erstgespräch gemeinsam mit dem schriftlichen Angebot."
+    },
+    {
+      "q": "Was ist eine 301-Weiterleitung?",
+      "a": "Eine 301-Weiterleitung ist eine dauerhafte Umleitung von einer alten auf eine neue Adresse. Wer die alte Adresse aufruft, landet automatisch auf der neuen Seite, und Suchmaschinen verstehen, dass der Inhalt umgezogen ist. Beim Relaunch sollte jede alte Adresse so auf die inhaltlich passende neue Seite zeigen, nicht pauschal auf die Startseite."
+    },
+    {
+      "q": "Kann ich beim Relaunch meine Domain behalten?",
+      "a": "Ja, und in den meisten Fällen ist das auch empfehlenswert. Die Domain ist bei Kunden, in Verzeichnissen und bei Google bekannt. Geändert werden beim Relaunch nur Technik, Gestaltung und gegebenenfalls die Adressen einzelner Unterseiten. Ein Domainwechsel ist ein eigenes Thema und braucht besonders sorgfältige Weiterleitungen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-relaunch/",
+    "/wissen/google-search-console/",
+    "/wissen/website-briefing/",
+    "/wissen/indexierung-pruefen/",
+    "/wissen/website-pruefen/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

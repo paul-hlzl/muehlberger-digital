@@ -1,0 +1,68 @@
+{
+  "pfad": "/branchen/heuriger/",
+  "title": "Digitale Lösungen für Heurige & Buschenschanken",
+  "description": "Ausg’steckt-Termine, „Habt’s heute offen?“, Wein ab Hof und Gruppen: Wie Heurige und Buschenschanken ihre Saison online klar und aktuell zeigen.",
+  "h1": "Digitale Lösungen für Heurige & Buschenschanken",
+  "kicker": "Branche · Heuriger, Buschenschank",
+  "lead": "Ein Heuriger hat nur zu bestimmten Zeiten ausg’steckt, und die wichtigste Frage der Gäste lautet deshalb: Habt’s heute offen? Wer seine Ausg’steckt-Termine auf Website und Google aktuell hält, Gruppenanfragen geordnet annimmt und Wein ab Hof auch außerhalb der Öffnungszeiten anbietet, verliert keine Gäste an veraltete Infos.",
+  "fakten": [
+    "Ausg’steckt-Kalender auf Website und Google-Profil immer gleich und aktuell",
+    "Sonderöffnungszeiten im Google-Profil verhindern Gäste vor verschlossener Tür",
+    "KI-Suchen beantworten „Welcher Heurige hat heute offen?“ nur mit Daten, die sie finden",
+    "Hittaro Gratis-Check mit Bericht innerhalb von 24 Stunden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "„Habt’s heute offen?“ – die Frage, die alles entscheidet",
+      "html": "<p>Anders als ein Gasthaus mit festen Ruhetagen hat ein Heuriger in Wellen geöffnet: zwei Wochen ausg’steckt, dann wieder zu, je nach Betrieb und Region unterschiedlich. Gäste, die spontan am Freitag hinausfahren wollen, schauen am Handy nach. Finden sie keinen aktuellen Kalender, fahren sie dorthin, wo sie sicher sind.</p><p>Der wichtigste digitale Baustein ist deshalb ein Ausg’steckt-Kalender auf der Startseite, den Sie selbst in einer Minute ändern können. Daneben gehören die Termine ins <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a>, und zwar als Sonderöffnungszeiten, damit Google an geschlossenen Tagen nicht „geöffnet“ anzeigt.</p>"
+    },
+    {
+      "h2": "Wenn ChatGPT nach dem offenen Heurigen gefragt wird",
+      "html": "<p>Immer mehr Menschen fragen eine KI: „Welcher Heurige im Weinviertel hat dieses Wochenende offen?“ Solche Dienste antworten mit dem, was sie im Internet finden. Steht Ihr Kalender nur als Foto eines Plakats auf Facebook, wird er kaum gefunden.</p><p>Schreiben Sie die Termine als Text auf Ihre Website, mit Datum und Uhrzeit. Ob KI-Suchen Ihren Betrieb nennen, prüft der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit einem Bericht innerhalb von 24 Stunden. Hintergründe erklärt der Ratgeber <a href=\"/wissen/chatgpt-empfiehlt-firmen/\">Wie ChatGPT Firmen empfiehlt</a>.</p>"
+    },
+    {
+      "h2": "Gruppen, Busse und Feiern geordnet annehmen",
+      "html": "<p>Eine Wandergruppe mit dreißig Personen, ein Betriebsausflug mit Bus, ein runder Geburtstag im Presshaus: Solche Anfragen kommen per Telefon, oft wenn gerade ausg’steckt ist und alle Hände voll zu tun haben.</p><ul><li>Ein eigenes Formular für Gruppen fragt Datum, Personenanzahl, Anreise mit Bus oder Auto und ob eine Kellerführung oder Weinverkostung gewünscht ist.</li><li>Ein klarer Hinweis, ab wie vielen Personen reserviert werden muss.</li><li>Eine Angabe, ob auch außerhalb der Ausg’steckt-Zeiten für Gruppen geöffnet wird.</li></ul><p>Wie man Veranstaltungen im Netz bekannt macht, beschreibt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a>.</p>"
+    },
+    {
+      "h2": "Wein ab Hof: verkaufen, wenn nicht ausg’steckt ist",
+      "html": "<p>Viele Heurigenbetriebe verkaufen ihren Wein auch ab Hof. Gäste, denen der Grüne Veltliner beim Heurigen geschmeckt hat, wollen später nachkaufen, wissen aber nicht, wann und wie. Eine Seite mit Weinliste, Ab-Hof-Zeiten und der Möglichkeit, telefonisch oder per Formular vorzubestellen, verlängert die Saison. Praktisch ist auch ein Hinweis, ob Sie Wein für Feiern oder Firmengeschenke in größeren Mengen abgeben und ob Sie liefern oder nur ab Hof verkaufen.</p><p>Wer zusätzlich ein Weingut mit eigener Vermarktung führt, findet auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a> weitere Ideen.</p>"
+    },
+    {
+      "h2": "Saisonpersonal und die kurze Saison",
+      "html": "<p>Ein Heuriger braucht in den Ausg’steckt-Wochen plötzlich viele helfende Hände, oft Aushilfen aus dem Ort. Eine kurze Seite „Mitarbeiten beim Heurigen“ mit Telefonnummer reicht oft, um Interessierte zu finden. Grundsätzliche Tipps für Saisonbetriebe sammelt der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p><p>Auch die Kommunikation mit Stammgästen lässt sich vereinfachen: Eine kurze E-Mail oder Nachricht „Wir haben wieder ausg’steckt“ an alle, die das wollen, kann treue Gäste zurückbringen, ganz ohne Werbebudget.</p>"
+    },
+    {
+      "h2": "Was ein Heuriger nicht braucht",
+      "html": "<p>Eine aufwendige Website mit vielen Unterseiten braucht ein Heuriger nicht. Wichtiger ist, dass das Wenige stimmt: Ausg’steckt-Termine, Adresse, Anfahrt, Speisen, Wein und Kontakt. Ein Chatbot ist meist überflüssig, solange der Kalender klar ist.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir Ihnen, wie ein einfacher Kalender aussieht, den Sie selbst pflegen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie halte ich meine Ausg’steckt-Termine überall aktuell?",
+      "a": "Indem es eine Hauptquelle gibt: den Kalender auf Ihrer Website, den Sie selbst ändern können. Von dort übertragen Sie die Termine einmal pro Saison als Sonderöffnungszeiten ins Google-Unternehmensprofil und kündigen sie auf Facebook oder Instagram an. Wichtig ist, dass die Termine überall gleich lauten. Widersprüchliche Angaben verunsichern Gäste und auch Suchmaschinen."
+    },
+    {
+      "q": "Warum zeigt Google meinen Heurigen als geöffnet an, obwohl wir zu haben?",
+      "a": "Meist, weil im Google-Profil reguläre Öffnungszeiten eingetragen sind, die für das ganze Jahr gelten. Für einen Heurigen ist es besser, die Ausg’steckt-Zeiten als Sonderöffnungszeiten einzutragen und sonst „geschlossen“ zu hinterlegen. Das muss rechtzeitig vor jeder Ausg’steckt-Periode passieren. Wer das nicht selbst machen will, kann die Pflege des Google-Profils übergeben."
+    },
+    {
+      "q": "Lohnt sich für einen Heurigen der Gratis-Check von Hittaro?",
+      "a": "Er kostet nichts und zeigt, ob Google und KI-Suchen wie ChatGPT oder Gemini Ihren Heurigen nennen, wenn jemand nach einem Heurigen in Ihrer Gegend fragt. Den Bericht bekommen Sie innerhalb von 24 Stunden. Ob Sie danach eine Optimierung ab 199 € einmalig machen, entscheiden Sie selbst. Für viele Heurige reicht es schon, den Kalender als Text auf die Website zu stellen."
+    },
+    {
+      "q": "Was kostet eine Website für einen Heurigen?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Für einen Heurigen genügen meist Startseite mit Ausg’steckt-Kalender, Speisen und Wein, Gruppen und Feiern, Ab-Hof-Verkauf und Kontakt mit Anfahrt. Wichtig ist, dass Sie den Kalender selbst ändern können, ohne jedes Mal jemanden anrufen zu müssen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/google-unternehmensprofil/",
+    "/wissen/chatgpt-empfiehlt-firmen/",
+    "/wissen/saisonbetrieb-digital/",
+    "/branchen/weingut/",
+    "/regionen/weinviertel/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

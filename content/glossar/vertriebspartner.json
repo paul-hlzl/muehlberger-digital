@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/vertriebspartner/",
+  "title": "Vertriebspartner einfach erklärt: Bedeutung",
+  "description": "Vertriebspartner einfach erklärt: Was ein selbständiger Vermittler tut, wie Provisionen funktionieren und worauf Sie bei einem Partnerprogramm achten sollten.",
+  "h1": "Vertriebspartner",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Ein Vertriebspartner ist eine selbständige Person oder Firma, die Produkte oder Dienstleistungen eines anderen Unternehmens an Kunden vermittelt und dafür meist eine Provision erhält. Er ist kein Angestellter, sondern arbeitet auf eigene Rechnung.",
+  "fakten": [
+    "Selbständige Tätigkeit, kein Dienstverhältnis",
+    "Vergütung über Provision, oft einmalig oder laufend",
+    "In Österreich ist dafür meist eine Gewerbeberechtigung nötig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Vertriebspartner in der Praxis arbeiten",
+      "html": "<p>Ein Steuerberater empfiehlt seinen Mandanten regelmäßig eine bestimmte Buchhaltungssoftware. Als Vertriebspartner des Softwareherstellers bekommt er für jede Vermittlung eine Provision. Oder eine ehemalige Bankberaterin vermittelt nebenbei digitale Lösungen an Betriebe in ihrer Region, weil sie viele Unternehmer kennt.</p><p>Auch Mühlberger Digital arbeitet so: Jonas Mühlberger berät und vermittelt als Handelsagent digitale Lösungen, die technische Umsetzung übernimmt der Vertragspartner Pipeline AI Solutions. Die Rollen sind klar getrennt.</p>"
+    },
+    {
+      "h2": "Worauf Sie als Vertriebspartner achten sollten",
+      "html": "<p>Wichtig sind klare Provisionsregeln, ehrliche Produkte und Unterstützung beim Einstieg. Das Partnerprogramm von Pipeline ist kostenlos und ohne Bindung, ab 18 Jahren möglich, zahlt 15 % einmalig auf Dienstleistungen und 20 % monatlich auf <a href=\"/glossar/saas/\">SaaS</a>-Tools, solange das Abo läuft, und bietet 1:1-Coaching mit Jonas Mühlberger als Vertriebsleiter. Es ist eine selbständige Partnerschaft, kein Job, und es gibt keine Einkommensgarantie.</p><p>Details unter <a href=\"/vertriebspartner/\">Vertriebspartner werden</a> und im <a href=\"https://partner.pipeline-solutions.at/\">Partnerprogramm von Pipeline</a>. Hintergrund liefern die Ratgeber <a href=\"/wissen/vertriebspartner-werden/\">Wie werde ich Vertriebspartner?</a> und <a href=\"/wissen/nebenberuflich-vermitteln/\">nebenberuflich vermitteln</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Vertriebspartner ein Gewerbe?",
+      "a": "In Österreich ist für eine regelmäßige, auf Gewinn ausgerichtete Vermittlungstätigkeit in der Regel eine Gewerbeberechtigung nötig, häufig als Handelsagent. Welche Berechtigung genau passt, hängt von der Tätigkeit ab. Auch steuerliche und sozialversicherungsrechtliche Fragen spielen eine Rolle. Informieren Sie sich vor dem Start bei der WKO, etwa im Gründerservice, oder bei Ihrem Steuerberater."
+    },
+    {
+      "q": "Kann ich nebenberuflich Vertriebspartner sein?",
+      "a": "Ja, viele Vertriebspartner starten neben einem Job oder einer anderen Selbständigkeit. Prüfen Sie aber, ob Ihr Dienstvertrag Nebentätigkeiten erlaubt, und klären Sie Gewerbe und Steuern. Planen Sie realistisch, wie viel Zeit Sie für Gespräche und Kundenbetreuung haben. Wie viel Sie verdienen, hängt allein von Ihren Vermittlungen ab, eine Garantie gibt es nicht."
+    }
+  ],
+  "verwandt": [
+    "/vertriebspartner/",
+    "/wissen/vertriebspartner-werden/",
+    "/wissen/provision-vertriebspartner/",
+    "/wissen/nebenberuflich-vermitteln/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

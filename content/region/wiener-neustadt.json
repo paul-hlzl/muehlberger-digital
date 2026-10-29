@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/wiener-neustadt/",
+  "title": "Digitalagentur Wiener Neustadt: Anfragen im Griff",
+  "description": "Betriebe in Wiener Neustadt bekommen Anfragen per Telefon, Mail und WhatsApp. Wir zeigen, wie Website, Chatbot und Automatisierung dabei Zeit sparen.",
+  "h1": "Digitalagentur für Wiener Neustadt",
+  "kicker": "Region · Industrieviertel",
+  "lead": "In Wiener Neustadt kommen Anfragen über viele Kanäle zugleich: Telefon, E-Mail, WhatsApp und Kontaktformular. Mühlberger Digital zeigt Betrieben in der Stadt, wie sie diese Anfragen mit Website, Chatbot und einfachen Automatisierungen bündeln, ohne die persönliche Note zu verlieren. Beraten wird vor Ort, telefonisch oder per Video.",
+  "fakten": [
+    "Statutarstadt im Industrieviertel, Niederösterreich",
+    "Schwerpunkt: Erreichbarkeit verbessern und Büroarbeit vereinfachen",
+    "WhatsApp-Bot und KI-Telefonassistent über Pipeline, Preis auf Anfrage",
+    "Erstgespräch kostenlos, Montag bis Freitag 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Kanäle, ein Überblick",
+      "html": "<p>Ein Installateurbetrieb mit fünf Mitarbeitern in einer Stadt wie Wiener Neustadt kennt das: Ein Kunde ruft an, während der Chef auf der Baustelle ist, eine Anfrage kommt per WhatsApp, eine per E-Mail, eine über das Formular. Am Abend wird sortiert und zurückgerufen. Das kostet Zeit, und manche Anfrage geht verloren.</p><p>Der erste Schritt ist meist unspektakulär: ein Kontaktformular, das die wichtigsten Angaben gleich abfragt, und eine automatische Bestätigung an den Kunden. Wie solche Abläufe aussehen, zeigt die Seite <a href=\"/leistungen/ki-automatisierung/wiener-neustadt/\">KI-Automatisierung in Wiener Neustadt</a>.</p>"
+    },
+    {
+      "h2": "Erreichbar sein, ohne ständig abzuheben",
+      "html": "<p>Wer nicht ans Telefon geht, verliert Kundschaft an den nächsten Betrieb in der Liste. Gleichzeitig kann niemand den ganzen Tag telefonieren. Hier helfen Bausteine, die Standardfragen übernehmen: ein Website-Chatbot, ein WhatsApp-Bot oder ein KI-Telefonassistent, der Anliegen aufnimmt und weitergibt.</p><p>Nicht jeder Betrieb braucht das. Wenn täglich nur wenige Anrufe kommen, sind eine gute Mailbox-Ansage und klare Rückrufzeiten auf der Website oft die bessere Lösung. Mehr dazu im Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Was in der Stadt zusätzlich zählt",
+      "html": "<p>In Wiener Neustadt gibt es für die meisten Leistungen mehrere Anbieter in der Nähe. Kundinnen und Kunden vergleichen deshalb Bewertungen, Reaktionszeit und Auftritt. Eine schnelle, übersichtliche Website ist dafür die Grundlage. Die Starter-Website beginnt bei 2.500 € einmalig und umfasst bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting.</p><p>Mehr zum Website-Projekt in der Stadt steht auf <a href=\"/leistungen/website-erstellen/wiener-neustadt/\">Website erstellen in Wiener Neustadt</a>. Wie Ihre Startseite neu aussehen könnte, zeigt der kostenlose <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Startseiten-Entwurf von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "Persönliche Beratung für Stadt und Umland",
+      "html": "<p>Jonas Mühlberger berät, die technische Umsetzung übernimmt Pipeline AI Solutions. Im kostenlosen Erstgespräch zeigen wir Lösungen live mit Ihren Daten und sagen offen, welche Bausteine Sie nicht brauchen. Danach bekommen Sie ein schriftliches Angebot.</p><p>Für Betriebe rund um die Stadt gibt es die Seite zum <a href=\"/regionen/bezirk-wiener-neustadt-land/\">Bezirk Wiener Neustadt-Land</a>, für die Region die Seite zum <a href=\"/regionen/industrieviertel/\">Industrieviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein KI-Telefonassistent für einen Betrieb in Wiener Neustadt?",
+      "a": "Der KI-Telefonassistent wird über Pipeline AI Solutions angeboten, der Preis hängt vom Umfang ab und wird nach dem Erstgespräch genannt. Entscheidend sind etwa, wie viele Anrufe kommen, welche Anliegen der Assistent aufnehmen soll und wohin die Informationen weitergehen. Sie bekommen ein schriftliches Angebot, bevor Kosten entstehen."
+    },
+    {
+      "q": "Ist ein Website-Chatbot oder ein WhatsApp-Bot besser?",
+      "a": "Das hängt davon ab, wo Ihre Kundschaft fragt. Kommen viele Fragen über die Website, ist ein Website-Chatbot wie Pipebot der einfachere Einstieg: 19 € im Monat, monatlich kündbar, die ersten 30 Tage gratis. Schreiben Ihnen Kundinnen und Kunden lieber per WhatsApp, kann ein WhatsApp-Bot sinnvoll sein, dessen Preis auf Anfrage festgelegt wird."
+    },
+    {
+      "q": "Wie schnell lässt sich eine Automatisierung umsetzen?",
+      "a": "Das hängt vom Ablauf ab. Eine automatische Eingangsbestätigung für Anfragen ist ein kleiner Schritt, die Verknüpfung mehrerer Programme ein größeres Projekt. Feste Zeitzusagen ohne Kenntnis Ihrer Abläufe wären unseriös. Im Erstgespräch klären wir, welcher Ablauf am meisten Zeit kostet, und Sie erhalten danach ein Angebot mit klar beschriebenem Umfang."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-wiener-neustadt-land/",
+    "/regionen/industrieviertel/",
+    "/regionen/niederoesterreich/",
+    "/leistungen/ki-telefonassistent/",
+    "/leistungen/whatsapp-bot/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

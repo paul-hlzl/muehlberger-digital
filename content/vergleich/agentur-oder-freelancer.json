@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/agentur-oder-freelancer/",
+  "title": "Agentur oder Freelancer? Vor- und Nachteile für KMU",
+  "description": "Agentur oder Freelancer für Website und Digitales? Preis, Erreichbarkeit, Ausfallrisiko und Leistungsumfang im fairen Vergleich, mit Empfehlung je Fall.",
+  "h1": "Agentur oder Freelancer?",
+  "kicker": "Vergleich · Zusammenarbeit",
+  "lead": "Ein Freelancer ist ideal für klar abgegrenzte Aufgaben, bei denen Sie direkt mit der Person sprechen wollen, die die Arbeit macht. Eine Agentur passt besser, wenn mehrere Fachbereiche zusammenkommen und das Projekt nicht an einer einzelnen Person hängen soll. Entscheidend ist in beiden Fällen, wer Ihre Ansprechperson ist und wem Domain, Zugänge und Inhalte gehören.",
+  "fakten": [
+    "Freelancer: direkter Kontakt, oft flexibel und günstiger",
+    "Agentur: mehrere Fachleute, Vertretung bei Urlaub oder Krankheit",
+    "Bei beiden wichtig: schriftliches Angebot, Zugänge und Domain auf Ihren Namen",
+    "Mühlberger Digital berät persönlich, umgesetzt wird von Pipeline AI Solutions"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was die beiden Modelle unterscheidet",
+      "html": "<p>Ein <strong>Freelancer</strong> arbeitet selbständig und meist allein, oft spezialisiert auf ein Gebiet wie Webdesign, Texte oder Programmierung. Eine <strong>Agentur</strong> ist ein Team, in dem mehrere Personen unterschiedliche Aufgaben übernehmen – von der Beratung über Gestaltung bis zur Technik.</p><p>Keines der beiden Modelle ist grundsätzlich besser. Es gibt hervorragende Freelancer und mittelmäßige Agenturen und umgekehrt. Sinnvoller als die Frage nach der Unternehmensform ist die Frage: Was braucht mein Projekt, und wie sichere ich mich ab?</p><p>Ein Beispiel: Eine Steuerberatungskanzlei braucht nur neue Fotos für die bestehende Website – dafür genügt ein Fotograf als Freelancer. Will dieselbe Kanzlei Website, Online-Terminbuchung und einen Chatbot für häufige Mandantenfragen, greifen mehrere Bausteine ineinander. Dann ist ein Team, das alles aufeinander abstimmt, meist die ruhigere Lösung.</p>"
+    },
+    {
+      "h2": "Die Stärken eines Freelancers",
+      "html": "<ul><li><strong>Direkter Draht:</strong> Sie sprechen mit der Person, die tatsächlich arbeitet. Missverständnisse über mehrere Ecken fallen weg.</li><li><strong>Flexibilität:</strong> Kleine Änderungen sind oft schnell erledigt, ohne Ticket und Abstimmungsrunde.</li><li><strong>Preis:</strong> Weniger Verwaltungsaufwand bedeutet häufig niedrigere Stundensätze.</li></ul><p>Die Kehrseite: Wird der Freelancer krank, macht Urlaub oder wechselt den Beruf, steht Ihr Projekt still. Und niemand ist in allem gut – wer hervorragend gestaltet, ist nicht automatisch Fachmann für Suchmaschinen oder Datenschutz.</p>"
+    },
+    {
+      "h2": "Die Stärken einer Agentur",
+      "html": "<ul><li><strong>Breite:</strong> Gestaltung, Technik, Texte und Suchmaschinen-Know-how unter einem Dach.</li><li><strong>Vertretung:</strong> Fällt jemand aus, übernimmt eine Kollegin oder ein Kollege.</li><li><strong>Abläufe:</strong> Erprobte Schritte von der Planung bis zum Start, inklusive Tests.</li></ul><p>Die Kehrseite: Größere Agenturen sind teurer, und bei kleinen Aufträgen landet man manchmal bei wechselnden Ansprechpersonen. Fragen Sie deshalb immer, wer Ihr Projekt konkret betreut.</p>"
+    },
+    {
+      "h2": "Agentur und Freelancer im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Freelancer</th><th>Agentur</th></tr></thead><tbody><tr><td>Ansprechperson</td><td>immer dieselbe</td><td>fester Kontakt, dahinter ein Team</td></tr><tr><td>Preisniveau</td><td>oft niedriger</td><td>oft höher, mehr Leistung aus einer Hand</td></tr><tr><td>Ausfallrisiko</td><td>höher, hängt an einer Person</td><td>geringer durch Vertretung</td></tr><tr><td>Fachliche Breite</td><td>meist spezialisiert</td><td>mehrere Fachbereiche</td></tr><tr><td>Flexibilität bei Kleinigkeiten</td><td>hoch</td><td>abhängig von Größe und Abläufen</td></tr><tr><td>Geeignet für</td><td>klar abgegrenzte Aufgaben</td><td>Projekte mit mehreren Bausteinen</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Worauf Sie bei beiden achten sollten",
+      "html": "<p>Egal, wen Sie beauftragen – diese Punkte schützen Sie vor bösen Überraschungen:</p><ul><li><strong>Schriftliches Angebot</strong> mit Umfang, Preis und laufenden Kosten. Hilfe dazu: <a href=\"/wissen/website-angebote-vergleichen/\">Website-Angebote vergleichen</a>.</li><li><strong>Domain auf Ihren Namen</strong> und alle Zugänge in Ihrer Hand.</li><li><strong>Klare Zuständigkeit nach dem Start:</strong> Wer spielt Updates ein, wer beantwortet Fragen?</li><li><strong>Ein gutes Briefing</strong> von Ihrer Seite – siehe <a href=\"/wissen/website-briefing/\">Website-Briefing schreiben</a>.</li></ul><p>Weitere Kriterien finden Sie im Ratgeber <a href=\"/wissen/agentur-auswaehlen/\">Die passende Agentur auswählen</a>.</p>"
+    },
+    {
+      "h2": "Wie Mühlberger Digital arbeitet",
+      "html": "<p>Mühlberger Digital verbindet beide Welten: Jonas Mühlberger ist Ihr persönlicher Ansprechpartner für Beratung und Vermittlung. Die technische Umsetzung übernimmt <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>, ein kleines Team aus Oberösterreich, das auch Vertragspartner ist. So haben Sie einen festen Kontakt und trotzdem mehrere Personen hinter dem Projekt.</p><p>Unsere Empfehlung: Für eine einzelne, klar umrissene Aufgabe kann ein guter Freelancer ideal sein. Für eine Website mit Anbindungen, Chatbot oder Automatisierung ist ein Team meist die sicherere Wahl. Wie die Zusammenarbeit Schritt für Schritt aussieht, lesen Sie unter <a href=\"/ablauf/\">Ablauf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Freelancer immer günstiger als eine Agentur?",
+      "a": "Häufig, aber nicht immer. Freelancer haben weniger Verwaltungskosten und können deshalb oft niedrigere Preise anbieten. Wenn aber mehrere Freelancer für Design, Texte und Technik koordiniert werden müssen, übernehmen Sie selbst die Projektleitung – und das kostet Zeit. Vergleichen Sie deshalb nicht nur Stundensätze, sondern den Gesamtpreis für ein fertiges Ergebnis inklusive laufender Betreuung."
+    },
+    {
+      "q": "Was passiert, wenn mein Freelancer nicht mehr erreichbar ist?",
+      "a": "Wenn Sie Domain, Hosting-Zugang und alle Passwörter selbst besitzen, kann ein anderer Dienstleister übernehmen. Ohne diese Zugänge wird es mühsam, im schlimmsten Fall muss die Website neu gebaut werden. Lassen Sie sich deshalb von Anfang an alle Zugangsdaten übergeben und bewahren Sie sie sicher auf, etwa in einem Passwort-Manager. Das gilt bei Agenturen genauso."
+    },
+    {
+      "q": "Kann ich bei einer Agentur auch kleine Aufträge vergeben?",
+      "a": "Ja, viele Agenturen übernehmen auch kleinere Projekte wie eine kompakte Website oder einen Chatbot. Fragen Sie vorab, wie schnell kleine Änderungen erledigt werden und wer Ihre feste Ansprechperson ist. Bei Mühlberger Digital beginnt die Starter-Website bei 2.500 € einmalig, und kleinere Bausteine wie der Pipebot sind monatlich buchbar. Im Erstgespräch klären wir, was zu Ihrem Bedarf passt."
+    },
+    {
+      "q": "Woran erkenne ich, ob ein Angebot fair ist?",
+      "a": "Ein faires Angebot beschreibt genau, was geliefert wird, wie viele Seiten oder Funktionen enthalten sind, welche laufenden Kosten entstehen und was nicht enthalten ist. Es enthält keine versteckten Pflichtabos und keine Garantien wie „Platz 1 bei Google“. Holen Sie im Zweifel zwei bis drei Angebote ein und vergleichen Sie Leistungen, nicht nur Endpreise."
+    }
+  ],
+  "verwandt": [
+    "/wissen/agentur-auswaehlen/",
+    "/vergleiche/baukasten-oder-agentur/",
+    "/wissen/website-projekt-ablauf/",
+    "/erstgespraech/",
+    "/ueber-jonas-muehlberger/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

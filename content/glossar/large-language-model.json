@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/large-language-model/",
+  "title": "Large Language Model (LLM): Sprachmodell erklärt",
+  "description": "Large Language Model einfach erklärt: Wie Sprachmodelle wie GPT, Claude oder Gemini Texte erzeugen, was sie gut können und wo Betriebe aufpassen sollten.",
+  "h1": "Large Language Model (LLM)",
+  "kicker": "Glossar · KI",
+  "lead": "Ein Large Language Model (LLM) ist ein großes KI-Sprachmodell, das mit sehr vielen Texten trainiert wurde und daraus gelernt hat, Sprache zu verstehen und neue Texte zu erzeugen. Bekannte Beispiele sind die Modelle hinter ChatGPT, Claude und Gemini.",
+  "fakten": [
+    "Sagt das jeweils wahrscheinlich passende nächste Textstück voraus",
+    "Kann schreiben, zusammenfassen, übersetzen und Fragen beantworten",
+    "Weiß nicht automatisch etwas über Ihren Betrieb"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was ein Sprachmodell im Betrieb leisten kann",
+      "html": "<p>Die Büroleiterin eines Elektroinstallationsbetriebs nutzt ein LLM, um aus Stichworten eine freundliche Antwort auf eine Kundenreklamation zu formulieren, ein langes Datenblatt zusammenzufassen und eine Stellenanzeige zu entwerfen. Sie prüft jeden Text, bevor er hinausgeht.</p><p>Das Modell arbeitet mit Wahrscheinlichkeiten: Es setzt Texte Stück für Stück aus <a href=\"/glossar/token/\">Tokens</a> zusammen. Echtes Wissen über Ihre Preise oder Termine hat es nur, wenn Sie es mitgeben, etwa im <a href=\"/glossar/prompt/\">Prompt</a> oder über Verfahren wie <a href=\"/glossar/rag/\">RAG</a>.</p>"
+    },
+    {
+      "h2": "Warum LLMs für KMU relevant sind",
+      "html": "<p>Sprachmodelle nehmen kleinen Betrieben viel Schreibarbeit ab, ohne dass dafür eigene IT nötig ist. Sie sind die Grundlage für Chatbots, Telefonassistenten und automatische Protokolle. Gleichzeitig können sie überzeugend falsche Aussagen machen (<a href=\"/glossar/halluzination/\">Halluzination</a>), und bei personenbezogenen Daten ist Vorsicht geboten.</p><p>Einen Überblick bietet der Ratgeber <a href=\"/wissen/ki-fuer-kleine-unternehmen/\">KI für kleine Unternehmen</a>, Unterschiede zwischen Anbietern zeigt <a href=\"/vergleiche/chatgpt-oder-claude/\">ChatGPT oder Claude</a>. Wer ein Modell in eigene Abläufe einbinden will, findet Infos unter <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Weiß ein Sprachmodell, was aktuell passiert?",
+      "a": "Nur eingeschränkt. Ein LLM kennt die Texte, mit denen es bis zu einem bestimmten Zeitpunkt trainiert wurde. Neuere Ereignisse oder Ihre aktuellen Preise kennt es nicht, außer es hat Zugriff auf eine Internetsuche oder Sie geben die Informationen mit. Prüfen Sie deshalb Fakten, Zahlen und Termine immer, bevor Sie eine KI-Antwort weiterverwenden."
+    },
+    {
+      "q": "Darf ich Kundendaten in ein Sprachmodell eingeben?",
+      "a": "Das hängt vom Anbieter, vom Vertrag und vom Zweck ab. Bei kostenlosen Verbraucherversionen können Eingaben unter Umständen zur Verbesserung des Modells genutzt werden. Für personenbezogene Daten sollten Sie Geschäftsversionen mit passender Vereinbarung zur Auftragsverarbeitung wählen oder Daten vorher anonymisieren. Im Zweifel klären Sie das mit der Datenschutzbehörde oder einer Fachberatung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-fuer-kleine-unternehmen/",
+    "/vergleiche/chatgpt-oder-claude/",
+    "/glossar/prompt/",
+    "/wissen/ki-und-datenschutz/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

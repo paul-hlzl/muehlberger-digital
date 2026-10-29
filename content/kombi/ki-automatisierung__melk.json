@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/melk/",
+  "title": "KI-Automatisierung in Melk: Gruppen & Reservierungen",
+  "description": "Prozessautomatisierung mit KI im Bezirk Melk: Gruppenanfragen in Angebote verwandeln, Reservierungen bestätigen, Sonderwünsche sauber erfassen.",
+  "h1": "KI & Prozessautomatisierung in Melk",
+  "kicker": "KI-Automatisierung · Melk",
+  "lead": "Rund um Melk, mit dem Stift, der Donau und dem Donauradweg, haben Gastronomie und Gastgeber viel mit Gruppen und Reservierungen zu tun. KI-Automatisierung verwandelt Gruppenanfragen in Angebotsentwürfe mit Ihren Preisen und hält Sonderwünsche fest, und auch Gewerbebetriebe an der Westautobahn profitieren.",
+  "fakten": [
+    "Gruppenanfrage rein, Angebotsentwurf mit Ihren Menüs und Preisen raus",
+    "Allergien und Sonderwünsche werden gesondert markiert",
+    "Funktioniert neben bestehenden Reservierungssystemen",
+    "Auch für Transport, Kfz und Gewerbe entlang der A1"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwischen Stift, Donau und Westautobahn",
+      "html": "<p>Melk ist für sein Stift bekannt und gilt als westliches Tor zur Wachau. Ausflugsgruppen, Radfahrerinnen und Radfahrer am Donauradweg und Busreisen sorgen in der Saison für viele Anfragen in Gastronomie und Beherbergung. Gleichzeitig liegt der <a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a> an der Westautobahn, mit Gewerbe, Transport und Werkstätten.</p>"
+    },
+    {
+      "h2": "Gruppenanfragen: vom Formular zum Angebot",
+      "html": "<p>Eine Gruppe von 40 Personen fragt nach einem Mittagessen an einem bestimmten Tag. Bisher heißt das: Kalender prüfen, Menüvorschläge zusammenstellen, Preis rechnen, Mail schreiben. Mit einer Automatisierung läuft es so:</p><ol><li>Die KI liest Datum, Uhrzeit, Personenzahl und Wünsche aus der Anfrage.</li><li>Sie prüft, ob der Termin frei ist, und wählt passende Gruppenmenüs aus Ihrer Liste.</li><li>Ein Angebotsentwurf mit Preis pro Person entsteht in Ihrem Layout.</li><li>Sie passen bei Bedarf an und schicken ab.</li></ol><p>Wie Angebote generell automatisiert werden, zeigt der Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>.</p>"
+    },
+    {
+      "h2": "Reservierungen und Rückfragen",
+      "html": "<p>Bei Reservierungen hilft die KI, Bestätigungen zu verschicken, Erinnerungen zu setzen und Rückfragen zu beantworten, etwa zu Parkplätzen für Busse oder Abstellplätzen für Räder, sofern Sie diese Infos hinterlegt haben. Grundlagen dazu finden Sie unter <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a>. Für die Technik dahinter siehe <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Für Gewerbe abseits des Tourismus",
+      "html": "<p>Auch Betriebe ohne Gäste haben ähnliche Muster: Eine Werkstatt bekommt Terminwünsche, ein Transportunternehmen Anfragen mit Abhol- und Lieferort. Die Logik ist dieselbe, nur die Vorlage ist eine andere. Im kostenlosen Erstgespräch mit Mühlberger Digital wird geklärt, welcher Ablauf bei Ihnen am meisten Zeit frisst. Pipeline AI Solutions setzt anschließend um.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Gruppenangebot automatisch mit unseren Preisen erstellt werden?",
+      "a": "Ja, wenn Ihre Menüs, Pauschalen und Preise einmal sauber hinterlegt sind. Die KI wählt anhand von Personenzahl, Uhrzeit und Wünschen passende Varianten aus und rechnet den Preis. Sonderkonditionen für Stammgruppen oder Reiseveranstalter lassen sich als Regel festlegen. Den Entwurf prüfen Sie vor dem Versand, damit keine falschen Zusagen hinausgehen."
+    },
+    {
+      "q": "Was passiert mit Allergien und Sonderwünschen?",
+      "a": "Die Automatisierung erkennt Hinweise wie Allergien, vegetarische Wünsche oder Kinderportionen und markiert sie deutlich im Angebot und in der Reservierung. So gehen sie nicht in einem langen Mailtext unter. Die Verantwortung für die Küche bleibt bei Ihnen. Unklare Angaben werden als Rückfrage an den Gast vorbereitet."
+    },
+    {
+      "q": "Wir haben schon ein Reservierungssystem. Geht das trotzdem?",
+      "a": "In vielen Fällen ja. Die Automatisierung kann neben dem bestehenden System arbeiten, etwa indem sie E-Mail-Anfragen vorbereitet und die fertige Reservierung dort eingetragen wird. Ob eine direkte Verbindung möglich ist, hängt vom Anbieter ab. Das klären wir im Erstgespräch, bevor ein Angebot erstellt wird."
+    },
+    {
+      "q": "Kann die Bestätigung gleich eine Anzahlung für die Gruppe anfordern?",
+      "a": "Die Automatisierung kann Ihre Zahlungsinformationen und Stornobedingungen in die Bestätigung einfügen und Sie erinnern, wenn eine vereinbarte Anzahlung noch fehlt. Die Zahlung selbst läuft weiter über Ihr Bankkonto oder Ihr Kassensystem. Welche Bedingungen Sie verlangen, legen Sie selbst fest, die KI übernimmt nur das Formulieren und Nachverfolgen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-melk/",
+    "/branchen/restaurant/",
+    "/wissen/online-reservierung/",
+    "/wissen/angebote-automatisieren/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

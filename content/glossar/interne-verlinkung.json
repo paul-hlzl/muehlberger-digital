@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/interne-verlinkung/",
+  "title": "Interne Verlinkung: Links innerhalb der Website",
+  "description": "Interne Verlinkung einfach erklärt: Wie Links zwischen Ihren eigenen Seiten Besuchern und Google helfen und wie kleine Betriebe sie sinnvoll einsetzen.",
+  "h1": "Interne Verlinkung",
+  "kicker": "Glossar · SEO",
+  "lead": "Interne Verlinkung bedeutet, dass Seiten einer Website mit Links aufeinander verweisen, etwa von der Startseite zur Leistungsseite oder von einem Ratgeber zum Kontaktformular. Sie führt Besucher zum nächsten passenden Inhalt und zeigt Suchmaschinen, welche Seiten wichtig sind.",
+  "fakten": [
+    "Verbindet Seiten innerhalb derselben Domain",
+    "Sprechende Linktexte statt „hier klicken“",
+    "Wichtige Seiten sollten von mehreren Stellen erreichbar sein"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus dem Alltag",
+      "html": "<p>Ein Fahrradhändler schreibt einen Beitrag „E-Bike über den Winter richtig lagern“. Am Ende verweist er im Text auf seine Seite zum Winterservice und auf die Seite mit Leihrädern für das Frühjahr. Leser, die sich für Pflege interessieren, finden so direkt die passende Leistung, statt die Website wieder zu verlassen.</p><p>Umgekehrt verlinkt die Service-Seite auf den Ratgeber. Dadurch erkennt Google, dass beide Seiten zusammengehören, und kann auch tiefer liegende Seiten leichter finden.</p>"
+    },
+    {
+      "h2": "Warum interne Links für KMU zählen",
+      "html": "<p>Viele kleine Websites haben gute Inhalte, die aber nur über das Menü erreichbar sind. Mit gezielten Links im Text erhöhen Sie die Chance, dass Besucher zur Anfrage kommen, und Sie stärken wichtige Seiten für die <a href=\"/glossar/seo/\">SEO</a>. Anders als <a href=\"/glossar/backlink/\">Backlinks</a> haben Sie interne Links vollständig selbst in der Hand.</p><p>Wie Sie das planen, zeigt der Ratgeber <a href=\"/wissen/interne-verlinkung/\">interne Verlinkung</a>. Seiten ohne einen einzigen eingehenden Link sind ein typischer Fund im <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele interne Links sollte eine Seite haben?",
+      "a": "So viele, wie für Leser sinnvoll sind. Bei kurzen Seiten reichen oft zwei bis fünf Links im Text zu wirklich passenden Themen. Wichtig ist, dass jeder Link einen Mehrwert bietet und der Linktext beschreibt, was dahinter wartet. Lange Linklisten ohne Zusammenhang helfen weder Besuchern noch Suchmaschinen und wirken unübersichtlich."
+    },
+    {
+      "q": "Was ist ein guter Linktext?",
+      "a": "Ein guter Linktext sagt, was den Leser nach dem Klick erwartet, zum Beispiel „Preise für den Winterservice“ statt „hier“ oder „mehr“. Er sollte natürlich in den Satz passen und nicht künstlich mit Suchbegriffen gefüllt sein. So verstehen Besucher und Suchmaschinen gleichermaßen, worum es auf der verlinkten Seite geht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/interne-verlinkung/",
+    "/glossar/backlink/",
+    "/glossar/xml-sitemap/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

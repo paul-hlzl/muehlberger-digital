@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/barrierefreiheit/",
+  "title": "Barrierefreiheit im Web: Begriff einfach erklärt",
+  "description": "Barrierefreiheit einfach erklärt: Was eine barrierefreie Website ausmacht, was das Barrierefreiheitsgesetz regelt und warum alle Besucher davon profitieren.",
+  "h1": "Barrierefreiheit im Web",
+  "kicker": "Glossar · Website",
+  "lead": "Barrierefreiheit im Web bedeutet, dass eine Website von allen Menschen genutzt werden kann, auch von Personen mit Seh-, Hör-, motorischen oder kognitiven Einschränkungen. Maßstab sind meist die internationalen Richtlinien WCAG (Web Content Accessibility Guidelines).",
+  "fakten": [
+    "Wichtig: Kontraste, Alternativtexte, Tastaturbedienung, klare Sprache",
+    "Seit Ende Juni 2025 gilt in Österreich das Barrierefreiheitsgesetz",
+    "Kleinstunternehmen mit Dienstleistungen sind weitgehend ausgenommen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Barrierefreiheit konkret bedeutet",
+      "html": "<p>Ein Augenoptiker hat auf seiner Website hellgraue Schrift auf weißem Grund, Bilder ohne Beschreibung und ein Terminformular, das sich nur mit der Maus bedienen lässt. Ausgerechnet Kunden mit eingeschränktem Sehvermögen kommen damit kaum zurecht. Nach der Überarbeitung gibt es kräftige Kontraste, Alternativtexte für Bilder, die ein Screenreader vorliest, beschriftete Formularfelder und eine Bedienung per Tastatur.</p><p>Davon profitieren alle: ältere Menschen, Nutzer am Handy in der Sonne und Suchmaschinen, die Texte besser verstehen.</p>"
+    },
+    {
+      "h2": "Warum das Thema für KMU wichtig ist",
+      "html": "<p>Das Barrierefreiheitsgesetz (BaFG) setzt eine EU-Richtlinie um und betrifft bestimmte Produkte und Dienstleistungen, darunter den Onlinehandel. Kleinstunternehmen, die Dienstleistungen erbringen, sind weitgehend ausgenommen. Ob Ihr Betrieb betroffen ist, hängt vom Einzelfall ab; das ist eine allgemeine Orientierung, Auskunft gibt etwa die <a href=\"https://www.wko.at/\">WKO</a>.</p><p>Unabhängig von der Pflicht erreicht eine barrierearme Website mehr Menschen und wirkt professioneller. Praktische Schritte zeigt der Ratgeber <a href=\"/wissen/barrierefreie-website/\">barrierefreie Website</a>; verwandt sind <a href=\"/glossar/responsive-design/\">Responsive Design</a> und gut lesbare <a href=\"/wissen/farben-und-schriften/\">Farben und Schriften</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss meine Website barrierefrei sein?",
+      "a": "Das hängt davon ab, was Sie anbieten und wie groß Ihr Betrieb ist. Das Barrierefreiheitsgesetz betrifft bestimmte Dienstleistungen wie den Onlinehandel, Kleinstunternehmen mit Dienstleistungen sind weitgehend ausgenommen. Für öffentliche Stellen gelten eigene Regeln. Selbst wenn Sie nicht verpflichtet sind, lohnen sich die Grundlagen. Ob Sie betroffen sind, klären Sie im Einzelfall bei der WKO."
+    },
+    {
+      "q": "Wie kann ich meine Website selbst auf Barrieren prüfen?",
+      "a": "Versuchen Sie, Ihre Website nur mit der Tastatur zu bedienen, indem Sie mit der Tabulatortaste durch Menü und Formular springen. Vergrößern Sie die Schrift im Browser stark und prüfen Sie, ob noch alles lesbar ist. Kostenlose Prüfwerkzeuge zeigen fehlende Alternativtexte und schwache Kontraste. Eine vollständige Prüfung nach WCAG braucht aber Fachwissen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/barrierefreie-website/",
+    "/glossar/responsive-design/",
+    "/wissen/farben-und-schriften/",
+    "/leistungen/website-relaunch/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

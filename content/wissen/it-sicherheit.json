@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/it-sicherheit/",
+  "title": "IT-Sicherheit für kleine Betriebe: Die Grundlagen",
+  "description": "IT-Sicherheit für kleine Betriebe: Updates, Backups, Passwörter, Zwei-Faktor, Phishing und Notfallplan – eine verständliche Checkliste ohne Fachchinesisch.",
+  "h1": "IT-Sicherheit für kleine Betriebe",
+  "kicker": "Ratgeber · Sicherheit",
+  "lead": "IT-Sicherheit für kleine Betriebe beruht auf wenigen Grundlagen, die den Großteil der Angriffe abwehren: aktuelle Updates auf allen Geräten, Backups, die getrennt aufbewahrt und regelmäßig getestet werden, eigene starke Passwörter mit Passwort-Manager, Zwei-Faktor-Anmeldung bei wichtigen Konten und ein geschultes Auge für Phishing-Mails. Dazu kommt ein einfacher Notfallplan, damit im Ernstfall jeder weiß, was zu tun ist.",
+  "fakten": [
+    "Kleine Betriebe sind kein uninteressantes Ziel, viele Angriffe laufen automatisiert und wahllos",
+    "Updates, Backups, Passwort-Manager und Zwei-Faktor sind die wichtigsten Grundlagen",
+    "Backups nur dann verlässlich, wenn sie getrennt liegen und die Wiederherstellung getestet ist",
+    "Die meisten Angriffe beginnen mit einer E-Mail oder einem gestohlenen Passwort",
+    "Ein Notfallplan auf einer Seite Papier hilft mehr als ein dicker Ordner"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum auch kleine Betriebe Ziel sind",
+      "html": "<p>Viele Inhaber denken: „Bei uns gibt es nichts zu holen.“ Das stimmt leider nicht. Ein großer Teil der Angriffe läuft automatisiert und sucht wahllos nach Schwachstellen: veraltete Software, schwache Passwörter, unvorsichtige Klicks. Wer betroffen ist, verliert oft Tage oder Wochen, etwa wenn Daten verschlüsselt werden oder das E-Mail-Konto missbraucht wird, um Kunden gefälschte Rechnungen zu schicken.</p><p>Die gute Nachricht: Mit wenigen, konsequent umgesetzten Grundlagen sinkt das Risiko deutlich. Perfekte Sicherheit gibt es nicht, aber Sie müssen es Angreifern nicht leicht machen.</p>"
+    },
+    {
+      "h2": "Die fünf wichtigsten Grundlagen",
+      "html": "<ol><li><strong>Updates einspielen:</strong> Betriebssystem, Browser, Office, Router, Website und Apps. Automatische Updates einschalten, wo es geht. Geräte ohne Updates gehören ausgetauscht.</li><li><strong>Backups machen:</strong> regelmäßig, automatisch, mindestens eine Kopie getrennt vom Netzwerk oder in einem Cloud-Speicher mit Versionierung.</li><li><strong>Passwort-Manager nutzen:</strong> für jedes Konto ein eigenes, langes Passwort, siehe <a href=\"/wissen/passwort-manager/\">Passwort-Manager im Betrieb</a>.</li><li><strong>Zwei-Faktor-Anmeldung:</strong> mindestens für E-Mail, Online-Banking, Cloud-Speicher, Website und Social Media.</li><li><strong>Phishing erkennen:</strong> verdächtige Mails, Links und Anhänge nicht öffnen, siehe <a href=\"/wissen/phishing-erkennen/\">Phishing-Mails erkennen</a>.</li></ol><p>Diese fünf Punkte kosten wenig und schließen die häufigsten Einfallstore. Alles Weitere baut darauf auf.</p>"
+    },
+    {
+      "h2": "Backups, die im Ernstfall wirklich helfen",
+      "html": "<p>Ein Backup ist nur so gut wie seine Wiederherstellung. Viele Betriebe merken erst im Notfall, dass die Sicherung seit Monaten nicht mehr lief oder dass sie mitverschlüsselt wurde, weil die Festplatte dauerhaft angesteckt war.</p><ul><li><strong>Mehrere Kopien:</strong> eine Kopie im Betrieb, eine außer Haus oder in der Cloud</li><li><strong>Getrennt aufbewahren:</strong> eine externe Festplatte nach der Sicherung abstecken</li><li><strong>Versionen behalten:</strong> damit Sie auch auf den Stand von vor zwei Wochen zurückkönnen</li><li><strong>Testen:</strong> mindestens zweimal im Jahr eine Datei und ein ganzes Verzeichnis wiederherstellen</li><li><strong>Nicht vergessen:</strong> E-Mails, Buchhaltung, Website und Kundendaten in Online-Diensten</li></ul><p>Bei Cloud-Speichern achten Sie zusätzlich auf Datenschutz und Serverstandort, Details im Beitrag <a href=\"/wissen/cloud-speicher/\">Cloud-Speicher und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Geräte, Netzwerk und Zugänge",
+      "html": "<p>Neben den Grundlagen lohnt sich ein Blick auf die Geräte und wer worauf Zugriff hat:</p><ul><li><strong>Getrenntes Gäste-WLAN</strong> für Kunden und private Handys, damit niemand ins Firmennetz kommt</li><li><strong>Router-Passwort ändern</strong> und Firmware aktuell halten</li><li><strong>Bildschirmsperre</strong> auf allen Computern, Tablets und Handys</li><li><strong>Festplattenverschlüsselung</strong> bei Laptops, die unterwegs sind</li><li><strong>Eigene Benutzerkonten</strong> für jede Person, keine geteilten Logins</li><li><strong>Nur nötige Rechte:</strong> Wer keine Programme installieren muss, braucht keine Administratorrechte</li><li><strong>Austritte:</strong> Zugänge am letzten Arbeitstag sperren und Passwörter ändern</li></ul><p>Ein Beispiel: In einer Steuerkanzlei mit fünf Mitarbeitern nutzen Aushilfen bisher das Konto der Chefin. Mit eigenen Konten und eingeschränkten Rechten ist nachvollziehbar, wer was gemacht hat, und ein gestohlenes Aushilfspasswort öffnet nicht die gesamte Ablage.</p>"
+    },
+    {
+      "h2": "Website, E-Mail und Online-Dienste absichern",
+      "html": "<p>Auch was außerhalb des Büros läuft, gehört dazu. Die Website ist öffentlich erreichbar und damit ständig Angriffsversuchen ausgesetzt. Halten Sie Systeme wie WordPress samt Erweiterungen aktuell, nutzen Sie <a href=\"/wissen/ssl-https/\">HTTPS</a> und sichern Sie den Zugang mit Zwei-Faktor-Anmeldung. Wer die Pflege nicht selbst machen will, gibt sie an einen Dienstleister.</p><p>Beim E-Mail-Konto gilt: Es ist der Generalschlüssel, weil sich darüber fast alle anderen Passwörter zurücksetzen lassen. Schützen Sie es besonders gut. Für Online-Dienste wie Buchhaltung, Cloud oder Kassensystem prüfen Sie, wer Zugriff hat, und entfernen alte Zugänge.</p>"
+    },
+    {
+      "h2": "Ein einfacher Notfallplan",
+      "html": "<p>Wenn etwas passiert, zählt jede Stunde. Schreiben Sie auf eine Seite:</p><ul><li>Wer ist intern zuständig, wer extern (IT-Dienstleister, Website-Betreuung)?</li><li>Telefonnummern, die auch ohne Computer erreichbar sind</li><li>Erste Schritte: Gerät vom Netz trennen, nicht ausschalten, Dienstleister anrufen</li><li>Wo liegen Backups, und wie werden sie zurückgespielt?</li><li>Wer informiert Kunden, Bank, gegebenenfalls Polizei?</li><li>Hinweis auf mögliche Meldepflicht bei Datenschutzverletzungen an die Datenschutzbehörde</li></ul><p>Drucken Sie den Plan aus, denn im Ernstfall ist der Computer womöglich nicht nutzbar. Als allgemeine Orientierung bietet die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> Informationen zur IT-Sicherheit, zu Meldepflichten die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>. Wenn Sie Ihre Website auf Schwachstellen und Aktualität prüfen lassen wollen, ist der <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung</a>-Service ein guter Startpunkt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist das Wichtigste bei der IT-Sicherheit im kleinen Betrieb?",
+      "a": "Die wichtigsten Grundlagen sind regelmäßige Updates auf allen Geräten, getrennt aufbewahrte und getestete Backups, ein Passwort-Manager mit eigenen Passwörtern für jedes Konto, Zwei-Faktor-Anmeldung bei wichtigen Diensten und Vorsicht bei verdächtigen E-Mails. Diese fünf Punkte kosten wenig und wehren einen großen Teil der üblichen Angriffe ab."
+    },
+    {
+      "q": "Wie oft sollte ein kleiner Betrieb ein Backup machen?",
+      "a": "Das hängt davon ab, wie viel Arbeit Sie verlieren dürfen. Für die meisten Betriebe ist eine tägliche automatische Sicherung sinnvoll, mit mehreren Versionen und mindestens einer Kopie außer Haus oder in der Cloud. Ebenso wichtig ist, die Wiederherstellung regelmäßig zu testen, damit Sie im Notfall sicher sind, dass das Backup funktioniert."
+    },
+    {
+      "q": "Brauche ich als kleiner Betrieb einen Virenschutz?",
+      "a": "Moderne Betriebssysteme bringen bereits einen eingebauten Schutz mit, der für viele kleine Betriebe ausreicht, wenn er aktiv und aktuell ist. Wichtiger als ein zusätzliches Programm sind Updates, Backups, sichere Passwörter und Vorsicht bei E-Mails. Bei vielen Geräten oder sensiblen Daten kann eine zentral verwaltete Sicherheitslösung über einen IT-Dienstleister sinnvoll sein."
+    },
+    {
+      "q": "Was tun bei einem Hackerangriff im Betrieb?",
+      "a": "Trennen Sie betroffene Geräte vom Netzwerk, schalten Sie sie aber nicht aus, und informieren Sie sofort Ihren IT-Dienstleister. Ändern Sie von einem sauberen Gerät aus die wichtigsten Passwörter, besonders das E-Mail-Passwort. Prüfen Sie, ob personenbezogene Daten betroffen sind, weil dann eine Meldepflicht an die Datenschutzbehörde bestehen kann. Erstatten Sie bei Bedarf Anzeige."
+    }
+  ],
+  "verwandt": ["/wissen/passwort-manager/", "/wissen/phishing-erkennen/", "/wissen/cloud-speicher/", "/wissen/wordpress-sicher-halten/", "/wissen/website-backup/"],
+  "checks": ["seo-check"]
+}

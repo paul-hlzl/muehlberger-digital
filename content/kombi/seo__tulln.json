@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/seo/tulln/",
+  "title": "SEO in Tulln: Sichtbarkeit für die Gartenstadt an der Donau",
+  "description": "SEO für Betriebe im Bezirk Tulln: wie Garten- und Pflanzenbetriebe mit Bildern und Ratgebern punkten und andere Branchen im Tullnerfeld gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Tulln",
+  "kicker": "SEO · Bezirk Tulln",
+  "lead": "Tulln ist als Gartenstadt an der Donau bekannt, und dieses Image prägt auch die Suche: Wer hier nach Pflanzen, Gartengestaltung oder Floristik sucht, erwartet Fachwissen und schöne Bilder. SEO in Tulln nutzt das mit guten Fotos und hilfreichen Ratgebern. Für alle anderen Branchen zählt die Nähe zu Wien und das wachsende Tullnerfeld.",
+  "fakten": [
+    "Tulln ist als Gartenstadt bekannt und Messestandort an der Donau",
+    "Gartenthemen werden stark über Bilder und Ratgeber gesucht",
+    "Bilder-SEO: Dateinamen, Beschreibungen und Ladezeit zählen",
+    "Viele Pendler im Tullnerfeld suchen nach Diensten nahe dem Wohnort"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür Tulln bekannt ist, prägt die Suche",
+      "html": "<p>Die Gartenstadt Tulln zieht Menschen an, die sich für Pflanzen und Gärten interessieren. Für Gartenbaubetriebe, Gärtnereien und Floristen ist das eine Chance: Suchende kommen oft mit konkreten Fragen, etwa welche Pflanzen für einen schattigen Hang passen oder wann man Obstbäume schneidet.</p><p>Wer solche Fragen auf seiner Website beantwortet, wird nicht nur gefunden, sondern auch als kompetent wahrgenommen. Die Grundlagen der <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> finden Sie auf der Leistungsseite, branchenspezifische Ideen auf der Seite <a href=\"/branchen/gartengestaltung/\">Gartengestaltung</a>.</p>"
+    },
+    {
+      "h2": "Bilder als Suchfaktor",
+      "html": "<p>Bei Gartenthemen suchen viele Menschen zuerst über die Bildersuche. Ein schöner Vorher-nachher-Vergleich eines Gartens kann mehr Anfragen bringen als ein langer Text. Damit Google die Bilder versteht, braucht es:</p><ul><li>aussagekräftige Dateinamen statt „IMG_4711.jpg“</li><li>kurze Beschreibungen im Alternativtext</li><li>komprimierte Dateien, damit die Seite schnell lädt</li><li>eigene Fotos statt Bilder aus Datenbanken</li></ul><p>Mehr dazu im Ratgeber <a href=\"/wissen/bilder-seo/\">Bilder-SEO</a>.</p>"
+    },
+    {
+      "h2": "Ratgeber, die Kundinnen wirklich lesen",
+      "html": "<p>Ein Blumengeschäft kann mit saisonalen Tipps punkten, etwa zur Pflege von Schnittblumen oder zur Balkonbepflanzung. Ein Landschaftsgärtner erklärt, was bei der Planung eines Teichs zu bedenken ist. Wichtig ist, dass die Inhalte zu Ihrem Angebot passen und am Ende ein klarer Weg zur Anfrage steht. Weitere Ideen auf der Branchenseite <a href=\"/branchen/blumen/\">Blumen</a>.</p><p>Ein Artikel pro Monat reicht oft, wenn er gut ist. Masse ist hier kein Ziel.</p>"
+    },
+    {
+      "h2": "Andere Branchen im Bezirk Tulln",
+      "html": "<p>Nicht jeder Betrieb hat mit Gärten zu tun. Durch die gute Anbindung an Wien wohnen im Tullnerfeld viele Pendlerinnen und Pendler, die Dienstleistungen nahe am Wohnort suchen: Handwerker, Kinderbetreuung, Physiotherapie. Für sie zählen ein gepflegtes Google-Profil und klare Leistungsseiten mehr als Ratgeber.</p><p>Wie Ihr Betrieb auch in KI-Antworten genannt wird, erklärt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-tulln/\">Bezirk Tulln</a>. Das Erstgespräch ist kostenlos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie helfen Fotos meinem Betrieb bei Google?",
+      "a": "Fotos werden in der Bildersuche, im Google-Unternehmensprofil und in den normalen Suchergebnissen angezeigt. Gute, eigene Bilder machen neugierig und erhöhen die Chance, dass jemand klickt. Damit Google versteht, was zu sehen ist, sollten Dateiname und Alternativtext den Inhalt beschreiben. Komprimierte Bilder sorgen dafür, dass die Seite trotzdem schnell lädt."
+    },
+    {
+      "q": "Lohnt sich ein Blog für einen Gartenbetrieb?",
+      "a": "Ja, wenn Sie regelmäßig Zeit dafür haben und die Beiträge zu Ihrem Angebot passen. Saisonale Tipps, Pflegeanleitungen oder Projektberichte werden gern gesucht und zeigen Ihre Kompetenz. Ein verwaister Blog mit drei Beiträgen von vor Jahren wirkt dagegen eher nachteilig. Lieber wenige gute Artikel als viele oberflächliche."
+    },
+    {
+      "q": "Ich habe nichts mit Gärten zu tun – was bringt mir SEO in Tulln?",
+      "a": "Genauso viel wie anderswo, nur mit anderem Schwerpunkt. Für Handwerk, Praxen oder Dienstleister im Bezirk zählen ein vollständiges Google-Unternehmensprofil, eigene Seiten pro Leistung und echte Bewertungen. Weil viele Familien im Tullnerfeld neu zuziehen, suchen viele Menschen ihre Dienstleister online. Wer dann gut aufgestellt ist, hat einen Vorteil."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-tulln/",
+    "/branchen/gartengestaltung/",
+    "/wissen/website-fotos/",
+    "/leistungen/website-erstellen/tulln/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

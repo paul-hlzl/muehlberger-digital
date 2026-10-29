@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/baumeister/",
+  "title": "Digitale Lösungen für Baumeister & Baufirmen",
+  "description": "Baubesprechungen, Bauherren-Kommunikation, Fachkräfte und Gewerbekunden: Welche digitalen Werkzeuge Baumeistern und Baufirmen wirklich Zeit sparen.",
+  "h1": "Digitale Lösungen für Baumeister & Baufirmen",
+  "kicker": "Branche · Bau",
+  "lead": "Baufirmen kämpfen weniger mit fehlenden Anfragen als mit Abstimmung: lange Projekte, viele Beteiligte, Bauherren mit vielen Fragen und zu wenige Fachkräfte. Die nützlichsten digitalen Bausteine sind deshalb automatische Besprechungsprotokolle, eine Website, die Bauherren den Ablauf erklärt, und ein besserer Auftritt bei Bewerbern.",
+  "fakten": [
+    "Online-Baubesprechungen automatisch protokollieren mit noteit, ohne Bot im Call",
+    "Bauherren-Fragen zum Ablauf einmal gut auf der Website beantworten",
+    "Polier, Maurer, Lehrlinge: Stellen kostenlos auf zusage.at ausschreiben",
+    "SightUp findet Firmenkunden in der Nähe, z. B. für Hallen- und Gewerbebau"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Baubesprechungen: Wer hat was zugesagt?",
+      "html": "<p>Bei jedem größeren Bauvorhaben sitzen Bauherr, Planer, Statiker und mehrere Gewerke regelmäßig zusammen, oft per Teams oder Zoom. Danach stellt sich die Frage, wer bis wann was erledigt, und wer das Protokoll schreibt. Meistens der Bauleiter, abends.</p><p><a href=\"https://noteit.at/\">noteit</a> erstellt etwa zwei Minuten nach dem Gespräch ein fertiges Protokoll mit Aufgaben, ohne dass ein Bot sichtbar im Call sitzt. Gespeichert wird in Frankfurt. Der Starter-Tarif ist kostenlos mit drei Stunden pro Monat, Pro kostet 14 €, Team 24 € pro Person und Monat. Für Besprechungen direkt auf der Baustelle ist es nicht gedacht, sondern für Online-Termine. Mehr unter <a href=\"/leistungen/meeting-protokolle-ki/\">Meeting-Protokolle mit KI</a>.</p>"
+    },
+    {
+      "h2": "Bauherren begleiten, ohne jede Frage am Telefon zu klären",
+      "html": "<p>Private Bauherren bauen oft zum ersten Mal und haben viele Fragen: Wann ist die Bodenplatte fertig, was muss ich selbst besorgen, wann kommt der Elektriker, was bedeutet Rohbau mit Dach? Diese Fragen kommen bei jedem Projekt wieder.</p><ul><li>Eine Seite „So läuft ein Bau mit uns“ mit den typischen Phasen nimmt viel Unsicherheit.</li><li>Eine Liste, welche Unterlagen der Bauherr vorab braucht, spart Rückfragen.</li><li>Ehrliche Hinweise zu Wetter und Lieferzeiten verhindern Ärger über Verschiebungen.</li></ul><p>Rechtliche Fragen zu Bewilligungen sollten Sie dort nur allgemein ansprechen und auf Gemeinde, Planer oder Wirtschaftskammer verweisen.</p>"
+    },
+    {
+      "h2": "Fachkräfte finden: Die Baustelle als Arbeitsplatz zeigen",
+      "html": "<p>Für viele Baufirmen ist Personal der eigentliche Engpass. Bewerber wollen sehen, wie es bei Ihnen zugeht: Fotos der Partie, die Maschinen, die Art der Projekte, wie weit die Baustellen entfernt sind, ob es eine Mittagspause im Gasthaus gibt.</p><p>Eine eigene <a href=\"/wissen/karriereseite/\">Karriereseite</a> und Stellen auf <a href=\"https://zusage.at/\">zusage.at</a>, der kostenlosen Bewerbungsplattform von Pipeline, sind ein einfacher Anfang. Weitere Tipps stehen im Ratgeber <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p>"
+    },
+    {
+      "h2": "Gewerbekunden statt nur Häuslbauer",
+      "html": "<p>Wer Hallen, Betriebsgebäude oder Umbauten für Gewerbebetriebe macht, braucht andere Kunden als der Einfamilienhausbau. Diese Aufträge entstehen selten über eine Google-Suche, sondern über gezielte Ansprache.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmen in Ihrer Umgebung, bewertet sie von 0 bis 100 nach Passung und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch, Sie entscheiden. Das Gratis-Paket umfasst drei Suchen pro Monat. Mehr dazu unter <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Referenzen zeigen, ohne Bauherren preiszugeben",
+      "html": "<p>Bauherren wählen eine Baufirma stark nach dem, was sie schon gebaut hat. Gleichzeitig wollen viele private Auftraggeber nicht mit Namen und Adresse im Internet stehen. Die Lösung sind Projektseiten ohne persönliche Daten: Haustyp, Bauweise, Bauzeit in Monaten, ein paar Fotos aus verschiedenen Bauphasen und ein Satz zur besonderen Herausforderung, etwa ein Hanggrundstück oder ein Zubau an ein altes Bauernhaus.</p><p>Fragen Sie vorher, ob Fotos verwendet werden dürfen, und halten Sie das schriftlich fest. Hinweise dazu bietet der Ratgeber zu <a href=\"/wissen/referenzen-zeigen/\">Referenzen auf der Website</a>.</p>"
+    },
+    {
+      "h2": "Wann sich das für eine Baufirma nicht lohnt",
+      "html": "<p>Wenn Sie Ihre Kapazität über Jahre mit Stammkunden und Bauträgern füllen, brauchen Sie keine Neukunden-Werkzeuge. Dann sind Protokolle und die Personalsuche die sinnvolleren Hebel. Und wer kaum online bespricht, profitiert von noteit wenig.</p><p>Im <a href=\"/erstgespraech/\">Erstgespräch</a> geht Jonas Mühlberger mit Ihnen durch, wo in Ihrem Betrieb die meiste Zeit liegen bleibt, und empfiehlt nur das, was dazu passt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Funktioniert noteit auch bei Besprechungen auf der Baustelle?",
+      "a": "noteit ist für Online-Gespräche gebaut, also Teams, Zoom, Google Meet, Webex und ähnliche Dienste. Dort erstellt es etwa zwei Minuten nach dem Gespräch ein Protokoll, ohne Bot im Call. Für Begehungen direkt auf der Baustelle ist es nicht das richtige Werkzeug. Viele Baufirmen nutzen es für die regelmäßigen Online-Jour-fixes mit Planern und Bauherren. Sieben Tage lassen sich kostenlos testen."
+    },
+    {
+      "q": "Wo werden die Protokolle von noteit gespeichert?",
+      "a": "Die Daten werden in Frankfurt gespeichert, also innerhalb der EU. Für eine Baufirma heißt das, dass Besprechungsinhalte mit Bauherren und Planern nicht auf Servern außerhalb Europas liegen. Ob Sie die Gesprächspartner vorab informieren müssen, sollten Sie im Einzelfall klären. Allgemeine Informationen bietet die Datenschutzbehörde, im Zweifel hilft die Wirtschaftskammer oder ein Anwalt weiter."
+    },
+    {
+      "q": "Was kostet eine Website für eine Baufirma?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Baufirmen brauchen häufig mehr, etwa eine Referenzgalerie, eigene Seiten für Leistungen und eine Karriereseite. Dann wird es ein individuelles Projekt, dessen Preis nach dem Erstgespräch schriftlich angeboten wird, bevor irgendetwas umgesetzt wird."
+    },
+    {
+      "q": "Verschickt SightUp automatisch Nachrichten an Firmen?",
+      "a": "Nein. SightUp sucht passende Firmen in Ihrer Nähe, bewertet sie von 0 bis 100 und schlägt eine erste Nachricht vor. Ob und wann Sie diese Nachricht schicken, entscheiden Sie selbst. Das ist wichtig, weil für die Ansprache von Firmen per E-Mail oder Telefon Regeln gelten. Das Gratis-Paket umfasst drei Suchen pro Monat, die Tarife reichen von Start um 19 € bis Business um 150 € pro Monat."
+    }
+  ],
+  "verwandt": ["/leistungen/meeting-protokolle-ki/", "/wissen/karriereseite/", "/wissen/mitarbeiter-finden-online/", "/leistungen/neukundengewinnung-b2b/", "/branchen/architekt/"],
+  "checks": ["neukunden-finden", "website-entwurf"]
+}

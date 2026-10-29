@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/melk/",
+  "title": "KI-Chatbot im Bezirk Melk: Donau und Hinterland",
+  "description": "Rund um Stift Melk fragen Gäste, im Hinterland fragen Bauherren. Wie ein KI-Chatbot beiden Seiten des Bezirks Melk hilft und wann er sich nicht lohnt.",
+  "h1": "KI-Chatbot für die Website in Melk",
+  "kicker": "KI-Chatbot · Bezirk Melk",
+  "lead": "Im Bezirk Melk treffen zwei Welten aufeinander: an der Donau rund um das Stift viele Gäste, im ländlichen Hinterland bis ins südliche Waldviertel Handwerk und Landwirtschaft. Ein KI-Chatbot hilft beiden, aber auf unterschiedliche Weise. Pipebot antwortet nur mit Ihren Inhalten und kostet nach 30 Gratis-Tagen 19 € im Monat.",
+  "fakten": [
+    "An der Donau: viele Gäste mit kurzen, praktischen Fragen",
+    "Im Hinterland: weniger Anfragen, dafür oft größere Aufträge",
+    "Pipebot antwortet nur mit Ihren Inhalten und verbindet bei Unsicherheit mit Ihnen",
+    "19 € pro Monat, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Bezirk, zwei Arten von Anfragen",
+      "html": "<p>Stift Melk ist weit über Österreich hinaus bekannt, und an der Donau beginnt hier die Wachau. Gleichzeitig reicht der <a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a> weit ins ländliche Hinterland, bis in Gemeinden wie <a href=\"/regionen/poeggstall/\">Pöggstall</a> im südlichen Waldviertel.</p><p>Ein Café in Stiftsnähe und eine Zimmerei im Hinterland bekommen völlig unterschiedliche Fragen. Ein Chatbot kann beide bedienen, wenn die Inhalte zum jeweiligen Betrieb passen.</p>"
+    },
+    {
+      "h2": "An der Donau: kurze Fragen, viele Gäste",
+      "html": "<p>Eine Konditorei mit Café bekommt vor allem praktische Fragen, oft von Gästen, die nur einen Tag in der Gegend sind:</p><ul><li>Haben Sie auch am Feiertag offen?</li><li>Kann ich für eine Feier eine Torte vorbestellen, und wie früh muss ich das tun?</li><li>Ist das Café mit Kinderwagen oder Rollstuhl gut erreichbar?</li></ul><p>Pipebot beantwortet sie in Sekunden, wenn die Antworten auf der Website stehen. Mehr Ideen für die Gastronomie finden Sie auf der Seite für <a href=\"/branchen/cafe/\">Cafés</a>.</p>"
+    },
+    {
+      "h2": "Im Hinterland: wenige Anfragen, dafür größere Aufträge",
+      "html": "<p>Eine Zimmerei bekommt seltener Anfragen, aber jede kann einen Dachstuhl, einen Carport oder einen Zubau bedeuten. Die Vorfragen sind entsprechend genauer: Welche Holzarten verwenden Sie? Wie läuft ein Projekt ab, vom ersten Gespräch bis zur Montage? Wie weit fahren Sie?</p><p>Hier ist der Bot vor allem ein guter Erstkontakt. Er beantwortet die Grundlagen und verbindet bei konkreten Projekten mit dem Meister. Mehr dazu auf der Seite für <a href=\"/branchen/zimmerei/\">Zimmereien</a>.</p>"
+    },
+    {
+      "h2": "Ehrlich gerechnet: Wann es sich lohnt",
+      "html": "<p>19 € im Monat sind wenig, wenn der Bot regelmäßig Fragen abfängt. Bekommt Ihre Website aber kaum Besucher, bringt auch der beste Chatbot nichts. Dann lohnt es sich eher, zuerst bei Google besser gefunden zu werden, etwa mit Suchmaschinenoptimierung.</p><p>Ob der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> für Ihren Betrieb passt, zeigt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a> mit Ihrer eigenen Website.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich ein Chatbot für einen Handwerksbetrieb mit wenigen Website-Besuchern?",
+      "a": "Meist nicht als erster Schritt. Wenn nur wenige Menschen Ihre Website besuchen, gibt es auch wenige Fragen, die ein Bot beantworten könnte. Dann ist es sinnvoller, zuerst die Sichtbarkeit bei Google zu verbessern. Kommen dagegen regelmäßig Anfragen herein, die sich ähneln, kann der Bot viel Zeit sparen. Mühlberger Digital sagt Ihnen im Erstgespräch ehrlich, was zuerst kommen sollte."
+    },
+    {
+      "q": "Kann ein Café den Chatbot für Tortenbestellungen nutzen?",
+      "a": "Pipebot nimmt keine Bestellungen an, er beantwortet Fragen. Er kann aber genau erklären, wie Sie Torten annehmen: welche Sorten es gibt, wie früh man bestellen muss und wie man Sie erreicht. Steht ein Bestellformular auf der Website, verweist der Bot darauf. So kommen die Bestellungen vollständiger bei Ihnen an, und Sie müssen weniger nachfragen."
+    },
+    {
+      "q": "Wer richtet den Chatbot ein, und wer ist mein Ansprechpartner?",
+      "a": "Die technische Einrichtung übernimmt Pipeline AI Solutions, Vertragspartner für Pipebot. Mühlberger Digital aus Ottenschlag berät Sie vorab, zeigt Ihnen den Bot live mit Ihrer eigenen Website und bleibt Ihr persönlicher Ansprechpartner. Erreichbar ist Jonas Mühlberger unter +43 677 6219 2776 oder per E-Mail an office@muehlberger-digital.at."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-melk/",
+    "/regionen/poeggstall/",
+    "/branchen/zimmerei/",
+    "/branchen/cafe/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/app-fuer-mitarbeiter/",
+  "title": "Apps für Mitarbeiter: Wann sie sich lohnen",
+  "description": "Apps für Mitarbeiter im kleinen Betrieb: typische Einsätze wie Zeiterfassung und Checklisten, fertige Lösung oder eigene Web-App, Datenschutz und Einführung.",
+  "h1": "Apps für Mitarbeiter: Was sie im kleinen Betrieb leisten",
+  "kicker": "Ratgeber · Apps",
+  "lead": "Eine App für Mitarbeiter lohnt sich, wenn Ihr Team regelmäßig unterwegs ist oder wiederkehrende Abläufe auf Papier, per Zuruf oder über private Chats erledigt. Sie bündelt Zeiterfassung, Checklisten, Fotos und Infos an einem Ort. Für viele kleine Betriebe reicht eine fertige Lösung, eine eigene Web-App lohnt sich erst, wenn Ihre Abläufe in keine Standardsoftware passen.",
+  "fakten": [
+    "Typische Einsätze: Zeiterfassung, Baustellen- und Auftragsberichte, Checklisten, Schichtplan, Wissen",
+    "Zuerst fertige Lösungen prüfen, eigene Entwicklung nur bei echten Lücken",
+    "Eine Web-App läuft auf jedem Smartphone, ohne Store und ohne Installation",
+    "Mitarbeiterdaten sind sensibel: Datenschutz und gegebenenfalls Betriebsrat früh einbinden",
+    "Erfolg hängt an der Einführung: kurz, einfach, mit dem Team gemeinsam"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür kleine Betriebe Mitarbeiter-Apps nutzen",
+      "html": "<p>Der größte Nutzen entsteht dort, wo Informationen heute verloren gehen oder doppelt erfasst werden. Ein Zettel im Firmenauto, eine WhatsApp-Nachricht an den Chef, später das Abtippen ins Büro: Genau diese Lücken schließt eine App.</p><ul><li><strong>Arbeitszeit und Fahrten:</strong> Beginn, Pausen und Ende direkt am Handy erfassen, inklusive Zuordnung zum Auftrag.</li><li><strong>Auftrags- und Regieberichte:</strong> Material, Stunden, Fotos und Unterschrift des Kunden vor Ort.</li><li><strong>Checklisten:</strong> Reinigungspläne, Sicherheitsprüfungen, Übergaben bei Schichtwechsel.</li><li><strong>Dienst- und Schichtplan:</strong> Wer arbeitet wann, Tauschwünsche ohne Telefonkette.</li><li><strong>Wissen und Anleitungen:</strong> Wie wird die Kaffeemaschine entkalkt, wo liegt der Schlüssel, wie läuft die Reklamation.</li><li><strong>Schadens- und Mängelmeldungen</strong> mit Foto und Standort.</li></ul>"
+    },
+    {
+      "h2": "Typische Situationen aus der Praxis",
+      "html": "<p>Ein Elektrobetrieb mit sechs Monteuren schreibt Regieberichte bisher auf Durchschreibeblöcke. Im Büro werden sie Tage später abgetippt, manches ist unleserlich, Fotos fehlen. Mit einer Berichts-App liegt der Bericht samt Bildern noch am selben Tag beim Büro, die Rechnung kann sofort raus.</p><p>Ein Gasthaus mit Aushilfen am Wochenende kämpft mit dem Dienstplan, der als Foto in einer Chatgruppe kursiert. Eine einfache Schichtplan-App zeigt jedem seine Dienste und sammelt Tauschwünsche, die Chefin gibt nur noch frei.</p><p>Eine Reinigungsfirma muss belegen, dass Objekte wie vereinbart gereinigt wurden. Eine Checklisten-App mit Zeitstempel und Foto liefert diesen Nachweis, ohne dass jemand Listen sammeln und abheften muss.</p>"
+    },
+    {
+      "h2": "Fertige Lösung oder eigene Web-App?",
+      "html": "<p>Für Zeiterfassung, Dienstpläne und einfache Checklisten gibt es zahlreiche fertige Programme mit Monatsabo. Sie sind schnell eingerichtet, werden vom Anbieter gewartet und decken die Standardfälle gut ab. Prüfen Sie diese Option immer zuerst.</p><p>Eine eigene <a href=\"/glossar/web-app/\">Web-App</a> ist sinnvoll, wenn Ihre Abläufe besonders sind, mehrere Insellösungen zusammengeführt werden sollen oder die App mit Ihrem Warenwirtschafts- oder Buchhaltungsprogramm sprechen muss. Eine Web-App läuft im Browser, kann auf dem Startbildschirm abgelegt werden und braucht keine Veröffentlichung im Store, was bei internen Werkzeugen viel Aufwand spart.</p><ul><li><strong>Fertig:</strong> schneller Start, laufende Kosten pro Person, Anpassung begrenzt</li><li><strong>Eigen:</strong> passt genau, gehört Ihnen, braucht Planung und Wartung</li><li><strong>Mischform:</strong> Standardprogramm plus <a href=\"/wissen/prozessautomatisierung-erklaert/\">Automatisierung</a>, die Daten weiterleitet</li></ul>"
+    },
+    {
+      "h2": "Datenschutz und Mitbestimmung beachten",
+      "html": "<p>Mitarbeiter-Apps verarbeiten personenbezogene Daten: Arbeitszeiten, manchmal Standort, Fotos, Namen. Das heißt, die Regeln der DSGVO gelten. Klären Sie, welche Daten wirklich nötig sind, wo sie gespeichert werden und wer sie sehen darf. Ein Standort, der nur beim Abstempeln erfasst wird, ist etwas anderes als eine laufende Ortung.</p><p>Gibt es im Betrieb einen Betriebsrat, ist er bei Systemen, die Leistung oder Verhalten kontrollieren können, in der Regel einzubinden. Auch ohne Betriebsrat sollten Sie das Team offen informieren. Als allgemeine Orientierung hilft die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>, im Einzelfall eine Anwältin oder die Datenschutzbehörde.</p><ul><li>Private Handys: Regeln vereinbaren oder Diensthandys stellen</li><li>Zugänge beim Austritt sofort sperren</li><li>Anbieter mit Serverstandort in der EU bevorzugen</li></ul>"
+    },
+    {
+      "h2": "So führen Sie eine Mitarbeiter-App ein",
+      "html": "<ol><li><strong>Ein Problem auswählen:</strong> nicht fünf Funktionen auf einmal, sondern den größten Zeitfresser.</li><li><strong>Das Team fragen:</strong> Wer heute die Zettel ausfüllt, weiß am besten, was stört.</li><li><strong>Zwei oder drei Lösungen testen</strong>, möglichst mit Probezeitraum und echten Aufträgen.</li><li><strong>Mit einer kleinen Gruppe starten</strong>, Rückmeldungen sammeln, nachjustieren.</li><li><strong>Kurz schulen:</strong> zehn Minuten am Handy zeigen wirkt mehr als eine lange Anleitung.</li><li><strong>Papier abschaffen:</strong> Wer beide Wege parallel erlaubt, behält beide.</li></ol><p>Rechnen Sie damit, dass nicht alle sofort begeistert sind. Wichtig ist, dass die App den Mitarbeitern selbst etwas abnimmt, etwa das Nachtragen von Stunden am Monatsende, und nicht nur dem Büro dient.</p>"
+    },
+    {
+      "h2": "Wann sich eine Mitarbeiter-App nicht lohnt",
+      "html": "<p>Bei zwei oder drei Personen im selben Raum ist eine App oft mehr Aufwand als Hilfe. Auch wenn ein Ablauf nur wenige Male im Jahr vorkommt, reicht eine gut gepflegte Vorlage. Und wenn das Team bereits mit einem Programm zufrieden arbeitet, ist ein Wechsel nur wegen neuer Funktionen selten klug.</p><p>Sie sind unsicher, wo bei Ihnen der größte Hebel liegt? Der Beitrag <a href=\"/wissen/digitalisierung-wo-anfangen/\">Digitalisierung im Betrieb: Wo anfangen?</a> hilft bei der Einordnung. Für eigene Lösungen gibt es die Seite zu <a href=\"/leistungen/individuelle-software/\">individueller Software und Web-Apps</a>; im <a href=\"/erstgespraech/\">Erstgespräch</a> schauen wir gemeinsam, ob ein fertiges Programm genügt oder ob eine eigene Lösung über unseren Umsetzungspartner Pipeline AI Solutions sinnvoller ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet eine App für Mitarbeiter?",
+      "a": "Fertige Lösungen für Zeiterfassung oder Dienstpläne werden meist als Monatsabo pro Person abgerechnet, die genauen Preise nennen die Anbieter. Eine eigene Web-App kostet einmalig für die Entwicklung und danach laufend für Hosting und Wartung. Den Preis dafür nennen wir nach dem Erstgespräch in einem schriftlichen Angebot, weil er stark vom Umfang abhängt."
+    },
+    {
+      "q": "Dürfen Mitarbeiter eine Firmen-App auf dem privaten Handy nutzen?",
+      "a": "Das ist möglich, sollte aber geregelt sein. Klären Sie schriftlich, welche App installiert wird, welche Daten sie verarbeitet und was beim Austritt passiert. Niemand sollte gezwungen werden, das private Gerät zu verwenden. Eine Web-App im Browser ist hier oft angenehmer als eine installierte App. Im Zweifel bieten Diensthandys die klarste Lösung."
+    },
+    {
+      "q": "Braucht eine interne App einen Eintrag im App Store?",
+      "a": "Nein, nicht unbedingt. Eine Web-App läuft im Browser und kann wie eine App auf den Startbildschirm gelegt werden, ganz ohne Store. Für native Apps gibt es bei Apple und Google eigene Wege, um Apps nur an das eigene Team zu verteilen. Für die meisten internen Werkzeuge kleiner Betriebe ist die Web-App der einfachste Weg."
+    },
+    {
+      "q": "Wie bringe ich mein Team dazu, die App wirklich zu nutzen?",
+      "a": "Beziehen Sie das Team von Anfang an ein und wählen Sie ein Problem, das alle nervt. Die App muss in wenigen Sekunden bedienbar sein, auch mit Handschuhen oder in der Eile. Zeigen Sie sie persönlich statt per Handbuch, starten Sie mit einer kleinen Gruppe und schaffen Sie den alten Papierweg nach der Testphase konsequent ab."
+    }
+  ],
+  "verwandt": ["/wissen/eigene-app-sinnvoll/", "/leistungen/individuelle-software/", "/glossar/web-app/", "/wissen/papierloses-buero/", "/wissen/digitalisierung-handwerk/"],
+  "checks": ["website-entwurf"]
+}

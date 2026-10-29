@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/gross-gerungs/",
+  "title": "Digitalagentur Groß Gerungs: Mitarbeiter finden",
+  "description": "Für Betriebe in Groß Gerungs im Bezirk Zwettl: Karriereseite, Stellenanzeigen und eine Website, die Lehrlinge und Fachkräfte aus der Region überzeugt.",
+  "h1": "Digitalagentur für Groß Gerungs",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Für viele Betriebe in Groß Gerungs ist nicht die Kundschaft der Engpass, sondern das Personal. Mühlberger Digital hilft, Website, Karriereseite und Stellenanzeigen so aufzubauen, dass Lehrlinge und Fachkräfte aus der Region Ihren Betrieb finden und sich ein Bild machen können. Beraten wird persönlich, aus Ottenschlag im selben Bezirk.",
+  "fakten": [
+    "Groß Gerungs ist eine Stadtgemeinde im Bezirk Zwettl, Waldviertel",
+    "Schwerpunkt: Lehrlinge und Fachkräfte online erreichen",
+    "zusage.at: kostenlose Bewerbungsplattform für Österreich",
+    "Erstgespräch kostenlos, persönlich im Betrieb"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wer am Land Personal sucht, muss sichtbar sein",
+      "html": "<p>Junge Leute informieren sich über Lehrstellen und Jobs am Handy. Wenn ein Betrieb dort nicht vorkommt oder nur eine alte Website mit Telefonnummer zeigt, fällt er aus der engeren Wahl, auch wenn er ein guter Arbeitgeber ist. In ländlichen Regionen, wo Betriebe oft um dieselben Bewerberinnen und Bewerber werben, zählt dieser erste Eindruck besonders.</p><p>Wie Sie online als Arbeitgeber auftreten, beschreibt der Ratgeber <a href=\"/wissen/arbeitgebermarke/\">Arbeitgebermarke für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Die Karriereseite: kurz, ehrlich, konkret",
+      "html": "<ul><li><strong>Wie ein Arbeitstag aussieht</strong>: Arbeitsbeginn, Einsatzorte, Teamgröße.</li><li><strong>Was Sie bieten</strong>: Ausbildung, Weiterbildung, Arbeitszeiten und, falls vorhanden, Fahrgemeinschaften oder Firmenfahrzeug.</li><li><strong>Wer schon da ist</strong>: Fotos und ein, zwei Sätze vom Team, mit deren Einverständnis.</li><li><strong>Wie man sich bewirbt</strong>: am besten ohne Pflicht zum Anschreiben, mit Telefonnummer und kurzem Formular.</li></ul><p>Mehr Details im Ratgeber zur <a href=\"/wissen/karriereseite/\">Karriereseite</a>.</p>"
+    },
+    {
+      "h2": "Stellen ausschreiben und Bewerbungen bekommen",
+      "html": "<p>Zusätzlich zur eigenen Website können Sie Stellen auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben, einer kostenlosen Bewerbungsplattform für Österreich, die Pipeline selbst betreibt. Dort bekommen Sie Bewerbungen für Ihre ausgeschriebenen Stellen.</p><p>Eine gute Stellenanzeige verweist auf Ihre Karriereseite, damit Interessierte mehr erfahren. Wie man die Anzeige selbst formuliert, steht im Ratgeber <a href=\"/wissen/stellenanzeige-schreiben/\">Stellenanzeige schreiben</a>. Ob Ihr Betrieb mehr braucht, etwa Social-Media-Beiträge aus dem Arbeitsalltag, besprechen wir im Erstgespräch.</p>"
+    },
+    {
+      "h2": "Persönlich in Groß Gerungs",
+      "html": "<p>Groß Gerungs liegt im Bezirk Zwettl und damit im Kerngebiet für persönliche Termine von Mühlberger Digital. Jonas Mühlberger kommt gern zu Ihnen in den Betrieb, dann lassen sich auch gleich Fotomotive für die Karriereseite besprechen. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr.</p><p>Mehr zur Region auf den Seiten zum <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet eine Karriereseite?",
+      "a": "Eine Karriereseite ist meist eine Unterseite Ihrer Website. Bei einer neuen Starter-Website ab 2.500 € einmalig kann sie eine der bis zu fünf Seiten sein. Soll sie in eine bestehende Website eingebaut werden oder braucht sie zusätzliche Funktionen, etwa ein Bewerbungsformular mit Datei-Upload, wird der Aufwand nach dem Erstgespräch eigens angeboten. Den Preis kennen Sie vorab."
+    },
+    {
+      "q": "Ist zusage.at wirklich kostenlos?",
+      "a": "Ja, zusage.at ist eine kostenlose Bewerbungsplattform für Österreich und ein eigenes Produkt von Pipeline AI Solutions. Sie können dort Stellen ausschreiben und Bewerbungen bekommen. Die Details der Funktionen finden Sie direkt auf zusage.at. Gemeinsam mit einer eigenen Karriereseite auf Ihrer Website ergibt sich ein stimmiges Bild Ihres Betriebs als Arbeitgeber."
+    },
+    {
+      "q": "Darf ich Fotos meiner Mitarbeiter auf der Website zeigen?",
+      "a": "Grundsätzlich ja, wenn die abgebildeten Personen zustimmen. Am besten holen Sie die Zustimmung schriftlich ein und halten fest, dass sie widerrufen werden kann. Die genauen Anforderungen hängen vom Einzelfall ab; Orientierung geben die Datenschutzbehörde und die Wirtschaftskammer, verbindlich hilft eine Rechtsberatung. Echte Teamfotos wirken auf Bewerber glaubwürdiger als Bilder aus einer Datenbank."
+    },
+    {
+      "q": "Lohnt sich das für einen Betrieb, der nur einmal im Jahr einen Lehrling sucht?",
+      "a": "Ja, oft gerade dann. Lehrstellensuchende und ihre Eltern informieren sich meist lange vor dem Lehrbeginn. Eine Karriereseite, die das ganze Jahr online ist, arbeitet in dieser Zeit für Sie, ohne dass Sie jedes Jahr neu anfangen müssen. Sie aktualisieren nur Termin und Ansprechperson, der Rest bleibt gleich."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/wissen/karriereseite/",
+    "/produkte/zusage/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

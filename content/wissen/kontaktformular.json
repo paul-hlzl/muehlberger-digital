@@ -1,0 +1,81 @@
+{
+  "pfad": "/wissen/kontaktformular/",
+  "title": "Kontaktformular: Was ein gutes Formular ausmacht",
+  "description": "Was ein gutes Kontaktformular ausmacht: wenige Felder, handytauglich, klare Bestätigung, zuverlässige Zustellung, Spamschutz und Datenschutz – mit Checkliste.",
+  "h1": "Kontaktformular: Was ein gutes Formular ausmacht",
+  "kicker": "Ratgeber · Website",
+  "lead": "Ein gutes Kontaktformular fragt nur das Nötigste ab, funktioniert am Handy problemlos, sagt klar, was nach dem Absenden passiert, und kommt zuverlässig im richtigen Postfach an. Dazu gehören ein Hinweis auf die Datenschutzerklärung, ein Spamschutz ohne lästige Rätsel und eine Alternative für alle, die lieber anrufen.",
+  "fakten": [
+    "So wenige Pflichtfelder wie möglich",
+    "Am Handy bequem ausfüllbar, mit passender Tastatur",
+    "Nach dem Absenden: klare Bestätigung und Antwortzeit",
+    "Regelmäßig testen, ob Nachrichten wirklich ankommen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wozu ein Kontaktformular gut ist",
+      "html": "<p>Viele Kunden schreiben lieber, als anzurufen, vor allem abends oder am Wochenende, wenn Ihr Betrieb geschlossen ist. Ein Formular nimmt diese Anfragen auf und bringt sie strukturiert in Ihr Postfach. Gegenüber einer bloßen E-Mail-Adresse hat es Vorteile: Sie können gezielt nachfragen, was Sie für ein Angebot brauchen, und der Kunde muss kein Mailprogramm öffnen.</p><p>Das Formular ersetzt das Telefon aber nicht. Telefonnummer und E-Mail-Adresse gehören trotzdem gut sichtbar daneben.</p>"
+    },
+    {
+      "h2": "So wenige Felder wie möglich",
+      "html": "<p>Jedes zusätzliche Feld ist ein Grund, das Formular abzubrechen. Fragen Sie nur ab, was Sie für eine erste Antwort wirklich brauchen:</p><ul><li><strong>Name</strong></li><li><strong>E-Mail oder Telefonnummer</strong>, je nachdem, wie Sie antworten</li><li><strong>Nachricht</strong> mit einem Hinweis, was hilfreich wäre</li></ul><p>Alles Weitere ist optional. Adresse, Firmenname oder Geburtsdatum brauchen Sie bei einer ersten Anfrage meist nicht. Markieren Sie Pflichtfelder eindeutig, statt jedes Feld zur Pflicht zu machen.</p>"
+    },
+    {
+      "h2": "Gezielte Fragen für bessere Anfragen",
+      "html": "<p>Ein paar gut gewählte Auswahlfelder ersparen Ihnen Rückfragen. Ein Malerbetrieb kann fragen, ob es um Innen- oder Außenarbeiten geht und wann ungefähr gestartet werden soll. Ein Catering-Betrieb fragt nach Datum, Personenzahl und Ort. Ein Installateur bietet die Möglichkeit, ein Foto des Problems hochzuladen.</p><p>So bekommen Sie Anfragen, mit denen Sie gleich arbeiten können, und erkennen schneller, ob ein Auftrag passt. Mehr dazu, wie Sie die Qualität statt nur die Menge der Anfragen steigern, lesen Sie unter <a href=\"/wissen/anfragen-qualitaet/\">Bessere Anfragen statt mehr Anfragen</a>.</p>"
+    },
+    {
+      "h2": "Am Handy einfach ausfüllbar",
+      "html": "<p>Ein großer Teil der Anfragen kommt vom Smartphone. Dort zählen Details: Felder, die groß genug zum Antippen sind, die richtige Tastatur bei E-Mail und Telefonnummer, verständliche Fehlermeldungen direkt am betroffenen Feld und eine Absende-Schaltfläche, die man nicht übersieht.</p><p>Testen Sie das Formular selbst am Handy, auch mit der automatischen Ausfüllhilfe des Browsers. Weitere Hinweise zur Handy-Ansicht finden Sie im Ratgeber <a href=\"/wissen/mobile-optimierung/\">Mobile Optimierung</a>.</p>"
+    },
+    {
+      "h2": "Was nach dem Absenden passiert",
+      "html": "<p>Nach dem Klick auf „Senden“ fragen sich viele: Ist das angekommen? Eine klare Bestätigung auf der Seite beantwortet das. Noch besser ist eine kurze automatische E-Mail mit einer Kopie der Anfrage und dem Hinweis, wann Sie sich melden, etwa „innerhalb von zwei Werktagen“, wenn Sie das einhalten können.</p><p>Diese Erwartung ist wichtig: Wer weiß, wann eine Antwort kommt, fragt nicht parallel bei drei anderen Betrieben an. Wie Sie die Schaltfläche selbst formulieren, steht im Ratgeber <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</p>"
+    },
+    {
+      "h2": "Zuverlässigkeit und Spamschutz",
+      "html": "<p>Ein Formular, das still ausfällt, ist schlimmer als gar keines. Das passiert öfter, als man denkt: nach einem Update, durch einen geänderten Mailserver oder weil Nachrichten im Spam-Ordner landen. Schicken Sie deshalb einmal im Monat eine Testanfrage.</p><ul><li>Nachrichten an ein Postfach senden, das täglich gelesen wird.</li><li>Spam mit unsichtbaren Prüffeldern und Zeitprüfungen abwehren statt mit Bilderrätseln.</li><li>Bei Urlaub eine Vertretung oder eine automatische Antwort einrichten.</li></ul>"
+    },
+    {
+      "h2": "Datenschutz beim Kontaktformular",
+      "html": "<p>Über das Formular verarbeiten Sie personenbezogene Daten. Deshalb gehört ein Hinweis auf Ihre Datenschutzerklärung dazu, die Daten sollten verschlüsselt übertragen werden und nur so lange gespeichert bleiben, wie es nötig ist. Die Grundlagen beschreibt der Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a>.</p><p>Das ist eine allgemeine Orientierung, keine Rechtsberatung. Verbindliche Auskünfte geben die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>, die Wirtschaftskammer oder ein Anwalt.</p>"
+    },
+    {
+      "h2": "Formular, Chatbot oder beides?",
+      "html": "<p>Manche Besucher haben nur eine kurze Frage, etwa zu Öffnungszeiten oder ob Sie in ihren Ort kommen, und wollen dafür kein Formular ausfüllen. Hier kann ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> ergänzen: Er beantwortet Standardfragen rund um die Uhr mit Ihren Inhalten und verweist bei echten Anfragen auf Formular oder Telefon.</p><p>Wie das auf Ihrer Website aussähe, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>. Bei jeder neuen Website von Mühlberger Digital ist ein Kontaktformular bereits enthalten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Felder braucht ein Kontaktformular?",
+      "a": "Für eine erste Anfrage genügen meist Name, eine Kontaktmöglichkeit, also E-Mail oder Telefon, und ein Nachrichtenfeld. Optional können Auswahlfelder helfen, etwa die Art der Leistung oder der gewünschte Zeitraum. Alles, was Sie für eine erste Antwort nicht brauchen, sollte weggelassen oder als freiwillig markiert werden, weil jedes Pflichtfeld die Abbruchquote erhöht."
+    },
+    {
+      "q": "Warum kommen Nachrichten aus meinem Kontaktformular nicht an?",
+      "a": "Häufige Ursachen sind falsch eingerichtete Mailserver, Nachrichten im Spam-Ordner, ein volles Postfach oder ein Fehler nach einem Update der Website. Auch eine geänderte Empfängeradresse wird oft vergessen. Schicken Sie regelmäßig eine Testanfrage und prüfen Sie Spam-Ordner. Bei wiederkehrenden Problemen sollte der Versand technisch über einen zuverlässigen Mailweg eingerichtet werden."
+    },
+    {
+      "q": "Brauche ich beim Kontaktformular eine Einwilligungs-Checkbox?",
+      "a": "Das hängt davon ab, wofür Sie die Daten verwenden. Wenn Sie die Anfrage nur beantworten, ist in vielen Fällen ein klarer Hinweis auf die Datenschutzerklärung üblich. Wollen Sie die Daten darüber hinaus nutzen, etwa für einen Newsletter, braucht es meist eine eigene Zustimmung. Im Einzelfall klären Sie das mit der Wirtschaftskammer, der Datenschutzbehörde oder einem Anwalt."
+    },
+    {
+      "q": "Wie schütze ich mein Formular vor Spam?",
+      "a": "Bewährt haben sich unsichtbare Prüffelder, die nur Programme ausfüllen, eine Mindestzeit zwischen Laden und Absenden sowie serverseitige Filter. Bilderrätsel schrecken auch echte Kunden ab und sind am Handy mühsam. Ganz verhindern lässt sich Spam selten, aber mit diesen Mitteln wird er so weit reduziert, dass echte Anfragen nicht untergehen."
+    },
+    {
+      "q": "Ist ein Kontaktformular besser als eine E-Mail-Adresse?",
+      "a": "Beides hat seinen Platz. Ein Formular ist bequemer, besonders am Handy, und Sie können gezielt nachfragen, was Sie für ein Angebot brauchen. Eine sichtbare E-Mail-Adresse ist für Kunden praktisch, die Unterlagen anhängen oder lieber aus ihrem eigenen Mailprogramm schreiben. Die meisten Betriebe bieten deshalb Formular, E-Mail und Telefon nebeneinander an."
+    }
+  ],
+  "verwandt": [
+    "/wissen/dsgvo-kontaktformular/",
+    "/wissen/call-to-action/",
+    "/wissen/anfragen-qualitaet/",
+    "/leistungen/ki-chatbot/",
+    "/wissen/conversion-verbessern/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

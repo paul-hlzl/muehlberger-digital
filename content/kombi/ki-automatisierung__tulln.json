@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/tulln/",
+  "title": "KI-Automatisierung in Tulln: Messekontakte & Grünbetriebe",
+  "description": "Prozessautomatisierung mit KI im Bezirk Tulln: Messekontakte rasch nachbearbeiten, Gartenpflege-Angebote aus Fotos und Notizen erstellen, Kunden pflegen.",
+  "h1": "Prozessautomatisierung mit KI in Tulln",
+  "kicker": "KI-Automatisierung · Tulln",
+  "lead": "Tulln ist als Gartenstadt und Messestandort an der Donau bekannt, und viele Betriebe im Bezirk sammeln Kontakte auf Messen und Veranstaltungen. KI-Automatisierung sorgt dafür, dass diese Kontakte nicht im Stapel verschwinden, und hilft Garten- und Grünbetrieben, Angebote aus Fotos und Notizen schneller zu schreiben.",
+  "fakten": [
+    "Visitenkarten und Gesprächsnotizen werden zu sauberen Kontakten",
+    "Nachfass-Mail als Entwurf mit Bezug auf das Messegespräch",
+    "Angebote für Gartenpflege aus Fotos, Maßen und Stichworten",
+    "Erstgespräch kostenlos, Termine Montag bis Freitag 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Gartenstadt und Messestandort",
+      "html": "<p>Im <a href=\"/regionen/bezirk-tulln/\">Bezirk Tulln</a> treffen Donau, Gartenbau und Pendlerverkehr nach Wien aufeinander. Die Messe Tulln und der Ruf als Gartenstadt bringen regelmäßig viele Besucher in die Stadt. Für Aussteller, Gärtnereien, Landschaftsgestalter und Handwerksbetriebe heißt das: An wenigen Tagen entstehen viele Kontakte, die danach bearbeitet werden wollen.</p>"
+    },
+    {
+      "h2": "Kontakte nicht im Stapel vergessen",
+      "html": "<p>Nach einer Messe liegen Visitenkarten, Zettel und Handyfotos herum. Wer zuerst nachfasst, bleibt in Erinnerung. So kann eine Automatisierung helfen:</p><ol><li>Visitenkarten fotografieren, die KI liest Name, Firma, Telefon und E-Mail aus.</li><li>Eine kurze Sprachnotiz zum Gespräch ergänzen, etwa „interessiert an Dachbegrünung, Frühjahr“.</li><li>Kontakt und Notiz landen in Ihrer Kundenliste oder Ihrem <a href=\"/glossar/crm/\">CRM</a>.</li><li>Ein persönlicher Nachfass-Entwurf liegt bereit, der sich auf das Gespräch bezieht.</li></ol><p>Wie man Kontakte langfristig pflegt, zeigt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Grünbetriebe: Angebote aus Fotos und Notizen",
+      "html": "<p>Eine Gartenbesichtigung liefert Fotos, grobe Maße und viele Stichworte. Daraus ein Angebot zu schreiben, dauert oft länger als die Besichtigung selbst. Die KI ordnet Ihre Notizen den Leistungen in Ihrer Preisliste zu, etwa Heckenschnitt, Rasenpflege oder Pflanzungen, und erstellt einen Angebotsentwurf, den Sie nur noch anpassen. Mehr zur Branche lesen Sie unter <a href=\"/branchen/gartengestaltung/\">Gartengestaltung</a>.</p>"
+    },
+    {
+      "h2": "Was Sie vorbereiten sollten",
+      "html": "<p>Eine aktuelle Preisliste und ein, zwei gute Beispielangebote sind die wichtigste Grundlage. Je klarer Ihre Leistungen beschrieben sind, desto besser werden die Entwürfe. Alles Grundsätzliche zur Leistung beschreibt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>. Beratung und Vermittlung übernimmt Mühlberger Digital, die technische Umsetzung Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann die KI Visitenkarten zuverlässig auslesen?",
+      "a": "Bei normalen, gut lesbaren Visitenkarten funktioniert das in der Regel sehr gut, auch bei ungewöhnlichem Layout. Schwierig sind sehr kleine Schrift, spiegelnde Oberflächen oder handschriftliche Ergänzungen. Unsichere Angaben werden markiert. Es lohnt sich, die Karte bei gutem Licht und gerade zu fotografieren, dann ist kaum Nacharbeit nötig."
+    },
+    {
+      "q": "Wie persönlich bleibt eine vorbereitete Nachfass-Mail?",
+      "a": "So persönlich wie Ihre Notiz zum Gespräch. Erwähnen Sie in einer kurzen Sprachnotiz, worüber Sie gesprochen haben, greift die KI genau das auf. Ohne Notiz entsteht eine allgemeinere Mail. Sie lesen jeden Entwurf vor dem Versand und können ihn anpassen, verschickt wird nichts ohne Ihre Freigabe."
+    },
+    {
+      "q": "Lohnt sich das, wenn wir nur ein- oder zweimal im Jahr auf Messen sind?",
+      "a": "Für die Messekontakte allein vielleicht nicht. Der gleiche Ablauf hilft aber auch bei anderen Gelegenheiten, etwa bei Veranstaltungen, Hausbesuchen oder Anfragen aus dem Geschäft. Wenn Sie ihn das ganze Jahr nutzen, rechnet er sich leichter. Wir besprechen im Erstgespräch, ob sich der Aufwand für Ihren Betrieb lohnt."
+    },
+    {
+      "q": "Was kostet eine Angebotsautomatisierung für einen Gartenbetrieb?",
+      "a": "Das ist ein individuelles Projekt, deshalb gibt es keinen Pauschalpreis. Der Aufwand hängt davon ab, wie Ihre Preisliste aufgebaut ist und wohin die Angebote fließen sollen, etwa in ein bestehendes Rechnungsprogramm. Nach dem kostenlosen Erstgespräch erhalten Sie ein schriftliches Angebot mit klarem Preis und, falls nötig, den laufenden Kosten."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-tulln/",
+    "/branchen/gartengestaltung/",
+    "/wissen/crm-kleine-betriebe/",
+    "/wissen/angebot-nachfassen/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/baden/",
+  "title": "KI-Automatisierung in Baden für Praxen und Gastgeber",
+  "description": "Prozessautomatisierung mit KI in Baden: Terminanfragen sortieren, Absagen nachbesetzen, Erinnerungen versenden. Für Praxen, Therapie und Gastronomie.",
+  "h1": "Prozessautomatisierung mit KI in Baden",
+  "kicker": "KI-Automatisierung · Baden",
+  "lead": "In der Kurstadt Baden und der Thermenregion arbeiten viele Praxen, Therapeuten, Wellness- und Gastbetriebe mit vollen Terminkalendern. KI-Automatisierung hilft hier vor allem beim Sortieren von Terminanfragen, beim Nachbesetzen von Absagen und bei Erinnerungen, während heikle Daten besonders sorgfältig behandelt werden.",
+  "fakten": [
+    "Typische Abläufe: Terminanfragen, Absagen, Erinnerungen, Rückrufbitten",
+    "Gesundheitsdaten brauchen besondere Sorgfalt beim Datenschutz",
+    "Kostenloses Erstgespräch, ca. 30 Minuten, auch per Video-Call",
+    "Preis für individuelle Lösungen nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kurstadt mit vollen Kalendern",
+      "html": "<p>Baden ist als Kurstadt bekannt, rundherum liegt die Thermenregion mit Weinbau und Gastronomie. Viele Betriebe hier leben von Terminen: Physiotherapie, Massage, Ordinationen, Kosmetik, aber auch Restaurants mit Reservierungen. Der Engpass ist selten die Arbeit am Kunden, sondern das Organisieren rundherum.</p><p>Wie <a href=\"/leistungen/ki-automatisierung/\">Prozessautomatisierung mit KI</a> grundsätzlich funktioniert, steht auf der Leistungsseite. Hier geht es um die Abläufe, die im Terminalltag am meisten Zeit kosten.</p>"
+    },
+    {
+      "h2": "Situation und Lösung: drei Beispiele",
+      "html": "<h3>Anfragen kommen über fünf Wege</h3><p>Formular, E-Mail, Anrufbeantworter, WhatsApp: Die KI fasst neue Anfragen zusammen, erkennt Wunschtermin und Anliegen und legt sie in einer Liste ab, die das Team morgens abarbeitet.</p><h3>Kurzfristige Absage</h3><p>Fällt ein Termin aus, schlägt das System passende Personen von der Warteliste vor und bereitet die Nachricht vor. Sie entscheiden, wer den Platz bekommt.</p><h3>Vergessene Termine</h3><p>Automatische Erinnerungen am Vortag reduzieren Leerläufe. Mehr dazu im Ratgeber <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p><p>Wichtig ist bei allen drei Beispielen: Die Regeln kommen von Ihnen. Wie viele Stunden vorher erinnert wird, wer auf der Warteliste Vorrang hat und welche Anfragen sofort an Sie gehen, legen Sie gemeinsam mit dem Umsetzungsteam fest, bevor etwas läuft.</p>"
+    },
+    {
+      "h2": "Datenschutz bei Gesundheitsdaten",
+      "html": "<p>Wer mit Patientinnen und Patienten arbeitet, verarbeitet besonders geschützte Daten. Deshalb gilt: so wenig Inhalt wie möglich durch die KI schicken, Diagnosen und Befunde gar nicht, und Anbieter mit Speicherung in der EU wählen. Eine allgemeine Orientierung gibt der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>. Im Einzelfall fragen Sie bitte die Datenschutzbehörde oder Ihre Interessenvertretung.</p>"
+    },
+    {
+      "h2": "Wenn lieber angerufen wird",
+      "html": "<p>Viele Kundinnen und Kunden in Baden greifen nach wie vor zum Telefon. Für Betriebe, die während der Behandlung nicht abheben können, gibt es den <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistenten</a> über Pipeline AI Solutions (Preis auf Anfrage). Er nimmt Anliegen auf, die Automatisierung sortiert sie weiter. Für Fragen auf der Website reicht oft ein Chatbot wie Pipebot um 19 € im Monat.</p><p>Ob Sie beides brauchen, klären wir ehrlich im Erstgespräch. Mehr über die Region: <a href=\"/regionen/bezirk-baden/\">Bezirk Baden</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Dürfen Gesundheitsdaten überhaupt durch eine KI laufen?",
+      "a": "Grundsätzlich ist das nur mit großer Vorsicht sinnvoll. Für die Terminorganisation braucht die KI meist nur Name, Kontaktdaten und Wunschzeit, keine medizinischen Inhalte. So lässt sich die Menge sensibler Daten klein halten. Ob eine konkrete Lösung für Ihre Praxis zulässig ist, sollten Sie im Einzelfall mit der Datenschutzbehörde, Ihrer Kammer oder einem Anwalt abklären."
+    },
+    {
+      "q": "Funktioniert das mit unserem bestehenden Terminkalender?",
+      "a": "Das hängt vom Kalender ab. Viele Programme lassen sich anbinden, bei manchen Branchenprogrammen geht es nur über Umwege, etwa per E-Mail-Benachrichtigung. Im Erstgespräch schauen wir uns an, was Sie nutzen, und sagen offen, ob eine Anbindung möglich ist oder ob ein anderer Weg sinnvoller wäre."
+    },
+    {
+      "q": "Bekommen Kunden dann nur noch automatische Antworten?",
+      "a": "Nein. Automatisch laufen nur Bestätigungen und Erinnerungen, die Sie vorher festlegen. Alles, was eine Einschätzung braucht, etwa eine Terminverschiebung mit Sonderwunsch, landet als Entwurf bei Ihrem Team. Persönlicher Kontakt bleibt dort, wo er zählt, und Routine fällt weg."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-baden/",
+    "/branchen/physiotherapie/",
+    "/wissen/online-terminbuchung/",
+    "/wissen/ki-und-datenschutz/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

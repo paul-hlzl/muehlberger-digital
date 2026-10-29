@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/ki-texte-eigener-stil/",
+  "title": "KI-Texte im eigenen Stil schreiben lassen",
+  "description": "So schreibt KI Texte in Ihrem eigenen Stil: Stil-Steckbrief, Beispieltexte, gute Anweisungen und eine Checkliste fürs Überarbeiten vor der Veröffentlichung.",
+  "h1": "KI-Texte im eigenen Stil: So klingt es nach Ihnen",
+  "kicker": "Ratgeber · KI-Texte",
+  "lead": "KI schreibt in Ihrem eigenen Stil, wenn Sie ihr drei Dinge geben: eine kurze Beschreibung, wie Sie schreiben, zwei oder drei echte Beispieltexte und eine klare Anweisung mit Zweck und Zielgruppe. Danach überarbeiten Sie den Entwurf selbst und ergänzen, was nur Sie wissen: Erfahrungen, Details, Meinung.",
+  "fakten": [
+    "Ohne Vorgaben schreiben KI-Modelle glatt und austauschbar",
+    "Stil-Steckbrief plus echte Beispieltexte bringen den größten Unterschied",
+    "Die Stilvorgabe einmal speichern und immer wieder verwenden",
+    "Eigene Erfahrungen und Details ergänzen – die kann keine KI erfinden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum KI-Texte oft gleich klingen",
+      "html": "<p>Sprachmodelle schreiben, was statistisch am wahrscheinlichsten passt. Ohne weitere Vorgaben entsteht so ein Durchschnittstext: höflich, korrekt, voller Wörter wie „vielfältig“, „individuell“ und „umfassend“. Er könnte auf jeder Website stehen, und genau das ist das Problem.</p><p>Kundinnen und Kunden merken, ob ein Text nach einem Menschen klingt. Ein Tischler, der am Telefon kurz und direkt redet, sollte auf seiner Website nicht wie eine Werbeagentur klingen. Die gute Nachricht: KI kann sich an einen Stil sehr gut anpassen, wenn man ihr zeigt, welcher gemeint ist.</p><p>Grundsätzliches zum Schreiben mit KI für Websites lesen Sie im Ratgeber <a href=\"/wissen/website-texte-mit-ki/\">Website-Texte mit KI</a>.</p>"
+    },
+    {
+      "h2": "Schritt 1: Den eigenen Stil beschreiben",
+      "html": "<p>Schreiben Sie einen kurzen Stil-Steckbrief. Er beantwortet ein paar einfache Fragen:</p><ul> <li><strong>Anrede:</strong> Sie oder Du? Persönlich („ich“) oder als Team („wir“)?</li><li><strong>Satzlänge:</strong> kurz und direkt oder ausführlich und erklärend?</li><li><strong>Ton:</strong> sachlich, herzlich, humorvoll, bodenständig?</li><li><strong>Typische Wörter:</strong> österreichische Ausdrücke wie „Jänner“, „heuer“ oder Fachbegriffe Ihrer Branche, die Ihre Kunden kennen.</li><li><strong>Tabus:</strong> Wörter, die Sie nie verwenden würden, etwa „innovativ“ oder Ausrufezeichen am Satzende.</li></ul> <p>Fünf bis zehn Zeilen reichen. Wer unsicher ist, fragt Stammkunden oder Mitarbeitende: „Wie würdet ihr beschreiben, wie wir reden?“</p>"
+    },
+    {
+      "h2": "Schritt 2 und 3: Beispiele geben und klar anweisen",
+      "html": "<p>Beschreibungen allein reichen selten. Geben Sie der KI zwei oder drei Texte, die Sie selbst geschrieben haben und mögen: eine gelungene E-Mail an Kunden, einen Social-Media-Beitrag, einen Absatz Ihrer Website. Die KI erkennt daraus Rhythmus und Wortwahl.</p><p>Dann folgt die eigentliche Anweisung, der sogenannte <a href=\"/glossar/prompt/\">Prompt</a>. Ein Muster, das sich bewährt hat:</p><p><em>„Schreibe einen Text für [Zweck] für [Zielgruppe]. Halte dich an meinen Stil-Steckbrief und an die Beispieltexte. Länge: [ungefähr]. Diese Fakten müssen vorkommen: [Liste]. Erfinde keine weiteren Fakten. Wenn dir Informationen fehlen, frag nach.“</em></p><p>Der letzte Satz ist wichtig: Er hält die KI davon ab, Lücken mit erfundenen Details zu füllen.</p>"
+    },
+    {
+      "h2": "Schritt 4: Überarbeiten mit Checkliste",
+      "html": "<p>Auch der beste Entwurf braucht Ihren Feinschliff. Gehen Sie ihn mit dieser Liste durch:</p><ul> <li>Stimmen alle Fakten, Preise, Termine und Namen?</li><li>Gibt es Floskeln, die Sie nie sagen würden? Streichen.</li><li>Fehlt ein konkretes Beispiel aus Ihrem Alltag? Ergänzen.</li><li>Würden Sie den Text so laut vorlesen? Wenn nicht, umformulieren.</li><li>Ist der wichtigste Satz am Anfang?</li><li>Steht ein klarer nächster Schritt am Ende, etwa Anruf oder Anfrage?</li></ul> <p>Gerade das eigene Beispiel macht den Unterschied: „Letzte Woche haben wir in einem Altbau in Zwettl…“ kann keine KI schreiben, weil sie es nicht erlebt hat.</p>"
+    },
+    {
+      "h2": "Stilvorgabe speichern statt jedes Mal neu erklären",
+      "html": "<p>Viele KI-Assistenten bieten die Möglichkeit, dauerhafte Anweisungen oder Projekte mit hinterlegten Dateien anzulegen. Speichern Sie dort Stil-Steckbrief und Beispieltexte. Dann beginnt jeder neue Text bereits im richtigen Ton, und auch Mitarbeitende schreiben einheitlicher.</p><p>Prüfen Sie den Steckbrief alle paar Monate. Wenn Sie beim Überarbeiten immer wieder dieselben Wörter streichen, gehören sie auf die Tabu-Liste. Wenn ein neuer Text besonders gut gelungen ist, nehmen Sie ihn als zusätzliches Beispiel auf.</p><p>Zu den rechtlichen Fragen rund um KI-Texte, etwa wem ein Text gehört, informiert der Ratgeber <a href=\"/wissen/ki-texte-urheberrecht/\">KI-Texte und Urheberrecht</a>.</p>"
+    },
+    {
+      "h2": "Wann Sie besser selbst schreiben",
+      "html": "<p>Ehrlich gesagt: Nicht jeder Text wird mit KI besser. Die Über-uns-Seite, ein persönlicher Dank an Stammkunden oder eine Entschuldigung nach einem Fehler sollten von Ihnen kommen, höchstens mit KI als Korrekturleserin. Auch kurze Texte, die Sie in zwei Minuten selbst tippen, brauchen keinen Umweg.</p><p>Für Google und KI-Suchen zählt am Ende, ob ein Text hilfreich und eigenständig ist. Google hat erklärt, dass es auf die Qualität ankommt und nicht darauf, wie ein Text entstanden ist. Austauschbare Massentexte helfen also weder bei Google noch bei Kunden. Tipps dazu finden Sie unter <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p><p>Wenn Sie regelmäßig Social-Media-Beiträge brauchen, aber keine Zeit zum Schreiben haben: <a href=\"/produkte/pipeflow/\">Pipeflow</a> macht aus Ihrer Website jede Woche fertige Beiträge mit Bild, Sie geben nur frei. In der Pilotphase ist es kostenlos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann KI wirklich meinen Schreibstil nachahmen?",
+      "a": "Ja, recht gut, wenn Sie ihr echte Beispieltexte und eine kurze Stilbeschreibung geben. Je mehr eigene Texte als Vorlage vorhanden sind, desto treffender wird das Ergebnis. Perfekt ist es selten: Persönliche Erlebnisse, typische Redewendungen und Ihre Meinung müssen Sie meist selbst ergänzen, damit der Text wirklich nach Ihnen klingt."
+    },
+    {
+      "q": "Erkennt Google, dass ein Text mit KI geschrieben wurde?",
+      "a": "Für die Bewertung ist das nicht die entscheidende Frage. Google hat erklärt, dass hilfreiche, verlässliche Inhalte zählen, unabhängig davon, wie sie entstanden sind. Abgewertet werden massenhaft erzeugte Texte ohne eigenen Mehrwert. Ein KI-Entwurf, den Sie mit Fakten, Beispielen und eigener Erfahrung überarbeiten, ist daher kein Problem."
+    },
+    {
+      "q": "Wie viele Beispieltexte braucht die KI?",
+      "a": "Zwei bis drei gut geschriebene Texte reichen für den Anfang, idealerweise aus verschiedenen Situationen, etwa eine Kundenmail, ein Website-Absatz und ein Social-Media-Beitrag. Wichtig ist, dass Ihnen die Beispiele selbst gefallen, denn die KI übernimmt auch Schwächen. Später können Sie gelungene neue Texte als weitere Vorlagen hinzufügen."
+    },
+    {
+      "q": "Sollte ich KI-Texte als KI-generiert kennzeichnen?",
+      "a": "Für normale Website-Texte, die Sie selbst geprüft und überarbeitet haben, gibt es meist keinen Grund zur Kennzeichnung, weil Sie als Betrieb dafür verantwortlich sind. Anders kann es bei automatisch erzeugten Inhalten ohne menschliche Kontrolle aussehen, für die der EU AI Act Transparenzpflichten vorsieht. Im Zweifel fragen Sie bei der WKO nach."
+    },
+    {
+      "q": "Funktioniert der eigene Stil auch mit österreichischem Deutsch?",
+      "a": "Ja, wenn Sie es ausdrücklich verlangen. Viele KI-Modelle schreiben ohne Vorgabe eher bundesdeutsch, also „Januar“ statt „Jänner“ oder „Tüte“ statt „Sackerl“. Schreiben Sie in den Stil-Steckbrief, dass österreichisches Deutsch verwendet wird, und nennen Sie ein paar typische Wörter. Beim Überarbeiten lohnt sich trotzdem ein Blick auf solche Kleinigkeiten, weil sie Kunden auffallen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-texte-mit-ki/",
+    "/wissen/ki-texte-urheberrecht/",
+    "/wissen/website-texte-schreiben/",
+    "/glossar/prompt/",
+    "/produkte/pipeflow/"
+  ],
+  "checks": [
+    "social-media-test",
+    "website-entwurf"
+  ]
+}

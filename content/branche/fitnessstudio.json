@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/fitnessstudio/",
+  "title": "Fitnessstudios digital: Probetraining, Kursplan, Chatbot",
+  "description": "Wie Fitnessstudios mehr Probetrainings bekommen, Fragen zu Mitgliedschaft und Kündigung offen beantworten und den Kursplan aktuell halten – praxisnah.",
+  "h1": "Digitale Lösungen für Fitnessstudios",
+  "kicker": "Branche · Fitness",
+  "lead": "Für Fitnessstudios entscheidet die Website vor allem darüber, ob jemand ein Probetraining bucht. Dafür braucht es offene Infos zu Mitgliedschaft und Kündigung, einen aktuellen Kursplan und eine Antwort auf Fragen auch dann, wenn abends kein Personal an der Theke steht. Ein Chatbot und automatische Social-Media-Beiträge helfen dabei mit wenig Aufwand.",
+  "fakten": [
+    "Probetraining als klarer Hauptbutton auf jeder Seite",
+    "Laufzeit, Kündigung und Preise offen erklären statt verstecken",
+    "Pipebot beantwortet Fragen rund um die Uhr, auch in Studios ohne Abendpersonal",
+    "Pipeflow erstellt wöchentlich Beiträge aus Ihrer Website, in der Pilotphase kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Probetraining: der wichtigste Klick auf Ihrer Website",
+      "html": "<p>Fast niemand schließt eine Mitgliedschaft ab, ohne das Studio vorher gesehen zu haben. Das Ziel Ihrer Website ist deshalb nicht, möglichst viel zu erzählen, sondern den Schritt zum Probetraining so einfach wie möglich zu machen. Ein gut sichtbarer Button, ein kurzes Formular mit Wunschzeit und eine Bestätigung reichen.</p><p>Was einen guten Button ausmacht und wo er hingehört, beschreibt der Ratgeber zum <a href=\"/wissen/call-to-action/\">Call-to-Action</a>. Typischer Fehler: Das Probetraining steht nur ganz unten im Kontaktbereich, während die Startseite mit Geräteaufzählungen beginnt.</p>"
+    },
+    {
+      "h2": "Mitgliedschaft und Kündigung offen erklären",
+      "html": "<p>„Wie lange bin ich gebunden?“, „Kann ich die Mitgliedschaft im Sommer pausieren?“ und „Was kostet es ohne Vertragsbindung?“ gehören zu den häufigsten Fragen vor dem Abschluss. Studios, die das verstecken, wirken unseriös, auch wenn die Bedingungen fair sind.</p><p>Eine übersichtliche Seite mit allen Modellen, Laufzeiten und Kündigungsregeln schafft Vertrauen. Die genauen Vertragsbedingungen sollten Sie rechtlich prüfen lassen, etwa bei der Wirtschaftskammer oder einem Anwalt. Die Website gibt sie nur verständlich wieder.</p><p>Genau diese Fragen kann auch ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> beantworten. <a href=\"https://pipebot.at/\">Pipebot</a> nutzt ausschließlich Ihre Inhalte, antwortet rund um die Uhr und verbindet bei Unsicherheit mit dem Team. Gerade in Studios mit langen Öffnungszeiten und Zutritt per Chip, in denen abends niemand an der Theke steht, ist das praktisch. Kosten: 19 € pro Monat, die ersten 30 Tage gratis.</p>"
+    },
+    {
+      "h2": "Kursplan aktuell halten, ohne doppelt zu arbeiten",
+      "html": "<p>Spinning fällt aus, Zumba wird verschoben, ein neuer Rückenkurs startet: Kurspläne ändern sich ständig. Wenn der Plan auf der Website, auf Instagram und am Aushang unterschiedlich ist, stehen Mitglieder vor verschlossener Tür und ärgern sich.</p><p>Bewährt hat sich eine einzige Stelle, an der der Kursplan gepflegt wird, meist die Website. Von dort aus können Hinweise in Social Media geteilt werden. <a href=\"/leistungen/social-media-automatisierung/\">Social-Media-Automatisierung</a> mit Pipeflow macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. In der Pilotphase ist Pipeflow kostenlos, der Start erfolgt unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p>"
+    },
+    {
+      "h2": "Jänner-Ansturm und Sommerloch planen",
+      "html": "<p>Viele Studios kennen das Muster: Nach Neujahr kommen die guten Vorsätze und mit ihnen viele Probetrainings, im Sommer wird es ruhiger. Digital lässt sich das gut begleiten:</p><ul><li><strong>Dezember:</strong> Seite für Einsteiger vorbereiten, Probetraining-Termine im Jänner freihalten</li><li><strong>Jänner:</strong> Anfragen schnell beantworten, denn die Motivation hält nicht ewig</li><li><strong>Sommer:</strong> Outdoor-Kurse oder Pausenmodelle hervorheben</li></ul><p>Wie oft Sie dafür posten sollten, ohne sich zu verausgaben, steht im Ratgeber <a href=\"/wissen/wie-oft-posten/\">Wie oft posten?</a>.</p>"
+    },
+    {
+      "h2": "Trainerinnen finden und der nächste Schritt",
+      "html": "<p>Gute Trainerinnen und Trainer sind gefragt. Eine kurze Karriereseite, die zeigt, wie im Studio gearbeitet wird, hilft mehr als eine allgemeine Anzeige. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen. Weitere Tipps gibt der Ratgeber <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p><p>Welche Bausteine sich für Ihr Studio lohnen, klären wir im kostenlosen Erstgespräch. Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, alles Weitere wird nach dem Gespräch schriftlich angeboten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sollte ein Fitnessstudio Preise auf der Website zeigen?",
+      "a": "In den meisten Fällen ja. Interessierte vergleichen Studios vorab und brechen ab, wenn sie keine Preise finden. Zeigen Sie die gängigen Mitgliedschaften mit Laufzeit und Kündigungsregeln. Wenn Sie lieber im persönlichen Gespräch beraten, nennen Sie zumindest einen Preisrahmen und laden zum Probetraining ein. Vertragsdetails sollten rechtlich geprüft sein, die Website gibt sie nur verständlich wieder."
+    },
+    {
+      "q": "Was bringt ein Chatbot einem Fitnessstudio?",
+      "a": "Ein Chatbot beantwortet typische Fragen zu Öffnungszeiten, Kursen, Probetraining und Mitgliedschaften sofort, auch spät abends oder am Wochenende. Pipebot nutzt nur Ihre eigenen Inhalte und verbindet bei Unsicherheit mit dem Team. Das entlastet die Theke und hilft vor allem in Studios, die lange geöffnet haben, aber nicht durchgehend besetzt sind. Kosten: 19 € pro Monat."
+    },
+    {
+      "q": "Wie oft sollte ein Fitnessstudio auf Instagram posten?",
+      "a": "Regelmäßigkeit ist wichtiger als Menge. Ein bis zwei Beiträge pro Woche zu Kursen, Neuigkeiten oder Trainingstipps reichen vielen Studios, wenn sie durchgehalten werden. Pipeflow erstellt aus Ihrer Website jede Woche fertige Beiträge mit Bild, die Sie nur freigeben. Für Einblicke in das Studio und Fotos mit Mitgliedern bleiben eigene Aufnahmen unersetzlich."
+    },
+    {
+      "q": "Wann lohnt sich eine eigene App für ein Fitnessstudio?",
+      "a": "Eine eigene App lohnt sich meist erst, wenn Sie viele Mitglieder haben und Funktionen wie Kursbuchung, Check-in oder Trainingspläne in einer Hand bündeln wollen. Für kleinere Studios reicht oft eine gute Website mit Kursplan und Buchungsmöglichkeit. Ob eine App sinnvoll ist, besprechen wir ehrlich im Erstgespräch, der Preis wird danach individuell genannt."
+    }
+  ],
+  "verwandt": ["/branchen/yoga-studio/", "/leistungen/ki-chatbot/", "/wissen/instagram-unternehmen/", "/wissen/app-oder-website/", "/erstgespraech/"],
+  "checks": ["chatbot-test", "social-media-test"]
+}

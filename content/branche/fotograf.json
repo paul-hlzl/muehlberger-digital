@@ -1,0 +1,61 @@
+{
+  "pfad": "/branchen/fotograf/",
+  "title": "Fotografen online: Portfolio, Hochzeitsanfragen, Firmen",
+  "description": "Für Fotografinnen und Fotografen: ein Portfolio, das trotz großer Bilder schnell lädt, Hochzeitsanfragen mit Datum und Ort sowie neue Firmenkunden für Businessfotos.",
+  "h1": "Digitale Lösungen für Fotografen",
+  "kicker": "Branche · Fotografie",
+  "lead": "Für Fotografinnen und Fotografen ist die Website das Schaufenster, aber oft ein langsames: Große Bilder bremsen die Seite, und Anfragen kommen ohne Datum, Ort oder Budget. Digital helfen vor allem ein schnell ladendes Portfolio, ein Anfrageformular, das die Verfügbarkeit sofort klärt, verständliche Pakete mit Nutzungsrechten und ein gezielter Weg zu Firmenkunden.",
+  "fakten": [
+    "Bilder für das Web verkleinern: schnelle Ladezeit trotz großer Galerie",
+    "Hochzeitsanfragen mit Datum, Ort und Paketwunsch auf einen Blick",
+    "Nutzungsrechte in Paketen klar beschreiben, vor allem für Firmen",
+    "SightUp findet Firmen in der Nähe, die Team- oder Produktfotos brauchen könnten",
+    "Gratis-Startseiten-Entwurf aus Ihrer bestehenden Website in wenigen Minuten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Portfolio, das schnell lädt",
+      "html": "<p>Fotografen wollen ihre Arbeiten in bester Qualität zeigen und laden deshalb oft Bilder direkt aus der Kamera hoch. Das Ergebnis: Die Startseite braucht am Handy lange, bis überhaupt etwas zu sehen ist, und viele Besucher springen ab, bevor das erste Foto erscheint. Auch Google bewertet langsame Seiten schlechter.</p><p>Die Lösung ist kein Verzicht auf Qualität, sondern eine richtige Aufbereitung:</p><ul><li>Bilder in passenden Größen für Handy und Computer ausliefern</li><li>moderne Bildformate verwenden, die bei gleicher Optik kleiner sind</li><li>Galerien erst laden, wenn man hinscrollt</li><li>aussagekräftige Dateinamen und Bildbeschreibungen vergeben</li></ul><p>Details dazu stehen in den Ratgebern <a href=\"/wissen/website-ladezeit-verbessern/\">Ladezeit verbessern</a> und <a href=\"/wissen/bilder-seo/\">Bilder-SEO</a>.</p>"
+    },
+    {
+      "h2": "Hochzeiten: „Ist mein Datum noch frei?“",
+      "html": "<p>Bei Hochzeitsfotografen dreht sich die erste Frage fast immer um das Datum. Beliebte Samstage in der Hochzeitssaison sind schnell vergeben, und Brautpaare schreiben oft mehrere Fotografen gleichzeitig an. Wer zuerst mit einer klaren Antwort reagiert, hat gute Chancen.</p><p>Ein Anfrageformular, das Datum, Ort der Trauung und Feier, gewünschte Begleitzeit und ein ungefähres Budget abfragt, spart mehrere E-Mails. Allgemeine Fragen zu Paketen, Anfahrt oder Liefertermin der Bilder kann ein Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> beantworten, der nur Ihre Inhalte nutzt und bei Unsicherheit an Sie verweist. Er kostet 19 € pro Monat, die ersten 30 Tage sind gratis.</p>"
+    },
+    {
+      "h2": "Pakete und Nutzungsrechte verständlich machen",
+      "html": "<p>Privatkunden fragen: „Wie viele Bilder bekomme ich?“ Firmenkunden fragen: „Dürfen wir die Fotos auch für Werbung und Social Media verwenden?“ Beides sollte auf der Website erklärt sein, bevor jemand anfragt.</p><p>Bewährt haben sich Pakete mit Dauer, ungefährer Bildanzahl, Lieferzeit und Art der Übergabe. Für Firmen ergänzen Sie, welche Nutzung im Preis enthalten ist, etwa Website, Social Media oder Druck. Wenn erkennbare Personen abgebildet sind, sollten auch deren Einwilligungen geklärt sein. Allgemeine Hinweise gibt der Ratgeber <a href=\"/wissen/bildrechte/\">Bildrechte</a>.</p>"
+    },
+    {
+      "h2": "Bildübergabe: Kundengalerie oder eigene Lösung?",
+      "html": "<p>Viele Fotografen übergeben Bilder über passwortgeschützte Online-Galerien. Dafür gibt es etablierte Dienste, die für die meisten Betriebe völlig ausreichen. Eine eigene Galerie-Lösung lohnt sich ehrlich gesagt nur, wenn Sie besondere Abläufe haben, etwa Bildauswahl mit Nachbestellung von Abzügen oder die Anbindung an Ihre Buchhaltung.</p><p>Wichtig ist, dass der Weg von der Website zur Galerie für Kunden einfach ist und Ihre Datenschutzerklärung den verwendeten Dienst nennt.</p>"
+    },
+    {
+      "h2": "Firmenkunden für Team- und Produktfotos finden",
+      "html": "<p>Neben Hochzeiten und Familienshootings sind Businessfotos ein planbares Standbein: Teamfotos für die Website, Produktbilder für den Onlineshop, Bilder für Stellenanzeigen. Viele kleine Betriebe nutzen noch alte Handyfotos oder Bilder aus Bildarchiven, und manche überlegen, ob KI-Bilder reichen. Gerade bei Menschen und echten Räumen wirken echte Fotos glaubwürdiger, wie auch der Ratgeber <a href=\"/wissen/ki-bilder-website/\">KI-Bilder auf der Website</a> erklärt.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst 3 Suchen pro Monat. Mehr zur Vorgangsweise auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Der nächste Schritt",
+      "html": "<p>Wie Ihre Startseite mit klarerer Struktur aussehen könnte, sehen Sie mit dem <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline</a>, der in wenigen Minuten aus Ihrer bestehenden Website entsteht. Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> besprechen wir, ob Sie eine neue Website brauchen oder ob Optimierungen an der bestehenden reichen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum lädt meine Fotografen-Website so langsam?",
+      "a": "Meist liegt es an zu großen Bilddateien, die direkt aus der Kamera oder dem Bildbearbeitungsprogramm hochgeladen werden. Abhilfe schaffen Bilder in passenden Größen für verschiedene Geräte, moderne Bildformate und Galerien, die erst beim Scrollen laden. So bleibt die Qualität sichtbar hoch, während die Seite am Handy deutlich schneller erscheint und auch bei Google besser abschneidet."
+    },
+    {
+      "q": "Sollten Fotografen Preise auf der Website angeben?",
+      "a": "Zumindest einen Rahmen, etwa „Hochzeitsreportagen ab“ mit Erklärung, was enthalten ist. Brautpaare und Firmen vergleichen vorab und fragen eher an, wenn sie wissen, womit sie rechnen können. Wer bewusst nur individuelle Angebote macht, sollte erklären, wovon der Preis abhängt. Das filtert Anfragen, für die Ihr Angebot nicht passt."
+    },
+    {
+      "q": "Was muss ich zu Nutzungsrechten auf der Website schreiben?",
+      "a": "Beschreiben Sie in Ihren Paketen, wofür die Bilder verwendet werden dürfen, etwa privat, auf der Firmenwebsite, in Social Media oder im Druck. Für Firmenkunden ist das oft wichtiger als die Bildanzahl. Die genaue Vertragsgestaltung sollten Sie im Zweifel mit der Wirtschaftskammer oder einem Anwalt klären, wir geben dazu nur allgemeine Orientierung."
+    },
+    {
+      "q": "Wie finde ich als Fotograf Firmenkunden?",
+      "a": "Neben Empfehlungen hilft ein gezielter Blick auf Betriebe in der Umgebung, deren Website oder Stellenanzeigen ohne gute Fotos auskommen. SightUp findet passende Firmen, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket mit 3 Suchen pro Monat reicht für einen ersten Versuch."
+    }
+  ],
+  "verwandt": ["/branchen/hotel/", "/wissen/website-fotos/", "/wissen/website-ladezeit-verbessern/", "/produkte/sightup/", "/wissen/bildrechte/"],
+  "checks": ["website-entwurf", "neukunden-finden"]
+}

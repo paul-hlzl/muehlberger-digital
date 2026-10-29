@@ -1,0 +1,57 @@
+{
+  "pfad": "/branchen/friseur/",
+  "title": "Friseursalons digital: Termine, Preise und Instagram",
+  "description": "Wie Friseursalons No-Shows bei langen Farbterminen senken, Preise nach Haarlänge verständlich zeigen und Lehrlinge online finden – ein Praxisüberblick.",
+  "h1": "Digitale Lösungen für Friseursalons",
+  "kicker": "Branche · Friseur",
+  "lead": "Friseursalons gewinnen digital vor allem bei drei Dingen: verlässliche Termine, verständliche Preise und sichtbare Arbeiten. Eine Website mit klarer Preisliste nach Haarlänge, eine einfache Online-Terminbuchung und regelmäßige Beiträge auf Instagram bringen mehr als jedes teure Werbepaket, wenn sie zum Salon passen.",
+  "fakten": [
+    "Online-Terminbuchung entlastet das Telefon, während Sie am Stuhl stehen",
+    "Preise nach Haarlänge und Aufwand vermeiden Diskussionen an der Kassa",
+    "Vorher-Nachher-Fotos nur mit Einwilligung der Kundin veröffentlichen",
+    "Lehrstellen kostenlos auf zusage.at ausschreiben",
+    "Starter-Website ab 2.500 € einmalig, bis zu 5 Seiten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Terminkalender ist das Herzstück",
+      "html": "<p>Im Salon ist jede Stunde verplant, und das Telefon klingelt genau dann, wenn die Hände voller Farbe sind. Wer abhebt, unterbricht die Kundin am Stuhl, wer nicht abhebt, verliert vielleicht einen Termin. Besonders ärgerlich sind Ausfälle bei langen Behandlungen: Wenn eine Balayage oder eine komplette Neufärbung kurzfristig abgesagt wird, steht ein halber Nachmittag leer.</p><p>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a> mit automatischer Erinnerung am Vortag hilft auf beiden Seiten. Kundinnen buchen abends vom Sofa aus, und Sie sehen Lücken früh genug, um sie an Stammkundinnen auf der Warteliste weiterzugeben. Wichtig ist, dass Dauer und Puffer pro Leistung stimmen, sonst wird der Kalender schnell unrealistisch.</p>"
+    },
+    {
+      "h2": "Preise transparent: Haarlänge, Farbe, Aufwand",
+      "html": "<p>„Was kostet Strähnen bei schulterlangem Haar?“ ist eine der häufigsten Fragen im Salon. Eine Preisliste, die nur „ab“-Preise ohne Erklärung nennt, führt zu Überraschungen an der Kassa. Besser ist eine Gliederung, die Kundinnen selbst nachvollziehen können:</p><ul><li>Schnitt nach Haarlänge: kurz, mittel, lang</li><li>Farbe nach Technik: Ansatz, Komplettfarbe, Strähnen, Balayage</li><li>Zuschläge mit Begründung, etwa für sehr dichtes Haar oder Mehrverbrauch</li><li>Herren- und Kinderhaarschnitt getrennt</li></ul><p>Warum offene Preise Vertrauen schaffen und wie Sie Spannbreiten formulieren, lesen Sie im Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website</a>. Eine Starter-Website mit Preisliste, Kontaktformular und Impressum gibt es ab 2.500 € einmalig.</p>"
+    },
+    {
+      "h2": "Instagram, Vorher-Nachher und Bildrechte",
+      "html": "<p>Kaum eine Branche lebt so stark von Bildern wie das Friseurhandwerk. Ein gelungener Farbverlauf überzeugt mehr als jeder Text. Gleichzeitig ist das Gesicht einer Kundin ein personenbezogenes Bild: Holen Sie vor jedem Foto eine Einwilligung ein, am besten schriftlich, und fotografieren Sie im Zweifel nur Hinterkopf und Haarlänge. Mehr dazu im Ratgeber zu <a href=\"/wissen/social-media-bildrechte/\">Bildrechten in Social Media</a>.</p><p>Für regelmäßige Beiträge ohne Abendarbeit gibt es <a href=\"/produkte/pipeflow/\">Pipeflow</a>: Es macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. Ehrlich gesagt ersetzt das die eigenen Salonfotos nicht, eignet sich aber gut für Hinweise zu Aktionen, Pflegetipps oder Öffnungszeiten. Pipeflow ist in der Pilotphase kostenlos und startet unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p>"
+    },
+    {
+      "h2": "Brautstyling und Sonderanfragen sauber abwickeln",
+      "html": "<p>Hochzeitsfrisuren, Probetermine und Anfahrt zur Location sind ein eigenes Geschäft mit langem Vorlauf. Diese Anfragen kommen oft Monate im Voraus und brauchen mehr Informationen als ein normaler Termin: Datum, Uhrzeit, Anzahl der Personen, Ort, Wunsch nach Make-up.</p><p>Ein eigenes Anfrageformular für Brautstyling sammelt diese Angaben auf einmal, statt sie in mehreren Telefonaten zu erfragen. Auf einer eigenen Unterseite können Sie Ablauf, Probetermin und Preisrahmen erklären. Das spart Rückfragen und wirkt professionell, gerade wenn Brautpaare mehrere Salons vergleichen.</p>"
+    },
+    {
+      "h2": "Lehrlinge und Fachkräfte finden",
+      "html": "<p>Viele Salons suchen dauerhaft Lehrlinge oder ausgebildete Friseurinnen. Jugendliche informieren sich am Handy, nicht über Aushänge. Eine kurze Karriereseite mit Fotos aus dem Salon, einem Einblick in den Lehralltag und einer einfachen Kontaktmöglichkeit wirkt besser als jede allgemeine Stellenanzeige.</p><p>Stellen ausschreiben und Bewerbungen bekommen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a>, der Bewerbungsplattform von Pipeline. Welche Bausteine für Ihren Salon wirklich sinnvoll sind, klären wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, das nach Ladenschluss auch abends zwischen 18:00 und 21:30 Uhr möglich ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich eine Online-Terminbuchung für einen kleinen Friseursalon?",
+      "a": "Für die meisten Salons ja, weil Termine außerhalb der Öffnungszeiten gebucht werden und das Telefon während der Arbeit seltener klingelt. Entscheidend ist, dass Dauer und Puffer je Leistung realistisch eingestellt sind. Wer fast nur Stammkundschaft mit fixen Wochenterminen hat, braucht die Buchung oft weniger dringend und kann mit einer klaren Website und Telefonzeiten gut auskommen."
+    },
+    {
+      "q": "Soll ein Friseursalon Preise auf der Website angeben?",
+      "a": "Ja, zumindest als nachvollziehbare Spannbreite. Kundinnen vergleichen vorab und schätzen, wenn sie wissen, womit sie rechnen müssen. Bewährt haben sich Preise nach Haarlänge und Technik mit kurzer Erklärung, wann Zuschläge anfallen. So vermeiden Sie Diskussionen an der Kassa und bekommen eher Anfragen von Menschen, für die Ihr Preisniveau passt."
+    },
+    {
+      "q": "Darf ich Fotos meiner Kundinnen auf Instagram posten?",
+      "a": "Nur mit deren Einwilligung, denn ein erkennbares Gesicht ist ein personenbezogenes Bild. Am sichersten ist eine kurze schriftliche Zustimmung, in der auch steht, wo das Bild erscheint. Alternativ fotografieren Sie Hinterkopf oder Haarlänge ohne Gesicht. Bei konkreten Rechtsfragen hilft die Wirtschaftskammer oder ein Anwalt weiter, wir geben dazu nur allgemeine Orientierung."
+    },
+    {
+      "q": "Was kostet eine Website für einen Friseursalon?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten, etwa Startseite, Leistungen und Preise, Team, Brautstyling und Kontakt, kostet ab 2.500 € einmalig, ohne Umsatzsteuer. Enthalten sind Darstellung für Smartphone und Computer, Optimierung für Google und KI-Suchen, Kontaktformular, Impressum, Datenschutz und Hosting. Eine Terminbuchung oder Zusatzfunktionen werden nach dem Erstgespräch kalkuliert."
+    }
+  ],
+  "verwandt": ["/branchen/kosmetikstudio/", "/wissen/online-terminbuchung/", "/wissen/instagram-unternehmen/", "/leistungen/website-erstellen/", "/produkte/zusage/"],
+  "checks": ["website-entwurf", "social-media-test"]
+}

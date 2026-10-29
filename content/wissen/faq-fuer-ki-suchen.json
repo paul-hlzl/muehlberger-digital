@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/faq-fuer-ki-suchen/",
+  "title": "FAQ-Inhalte schreiben, die KI-Suchen zitieren",
+  "description": "So schreiben Sie FAQ-Antworten, die Kunden helfen und von KI-Suchen zitiert werden: echte Fragen, direkte Antworten, passende Länge und typische Fehler.",
+  "h1": "FAQ-Inhalte, die KI-Suchen zitieren",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "FAQ-Inhalte werden von KI-Suchen eher übernommen, wenn sie echte Kundenfragen in deren Worten aufgreifen und im ersten Satz direkt beantworten. Jede Antwort sollte für sich allein verständlich sein, konkrete Angaben enthalten und nicht auf andere Stellen verweisen. Ideal sind meist 40 bis 90 Wörter pro Antwort.",
+  "fakten": [
+    "Gute FAQ beginnen mit den Fragen, die Sie am Telefon wirklich hören",
+    "Der erste Satz beantwortet die Frage, der Rest erklärt",
+    "Jede Antwort muss ohne den Rest der Seite verständlich sein",
+    "FAQ gehören auf die passende Leistungsseite, nicht nur auf eine Sammelseite",
+    "Strukturierte Daten können FAQ zusätzlich maschinenlesbar machen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum FAQ für KI-Suchen so gut funktionieren",
+      "html": "<p>Menschen stellen KI-Suchen Fragen. Eine gut geschriebene FAQ besteht aus Fragen und passenden Antworten. Diese Übereinstimmung macht FAQ-Inhalte zu einer der einfachsten Möglichkeiten, damit ChatGPT, Perplexity oder die KI-Übersichten von Google Ihre Inhalte aufgreifen.</p> <p>Dazu kommt: KI-Systeme übernehmen gern kurze, in sich geschlossene Textstücke. Eine Antwort, die eine Frage vollständig in vier Sätzen beantwortet, lässt sich gut zitieren. Ein langer Fließtext, in dem die Antwort im dritten Absatz versteckt ist, eher nicht.</p>"
+    },
+    {
+      "h2": "Die richtigen Fragen finden",
+      "html": "<p>Die besten Fragen erfinden Sie nicht, sondern sammeln sie. Gute Quellen sind:</p> <ul> <li><strong>Telefon und E-Mail:</strong> Welche Fragen hören Sie und Ihr Team jede Woche?</li> <li><strong>Erstgespräche und Besichtigungen:</strong> Was wollen Kunden wissen, bevor sie sich entscheiden?</li> <li><strong>Bewertungen:</strong> Was loben oder kritisieren Kunden, worüber waren sie unsicher?</li> <li><strong>Suchvorschläge:</strong> Was schlägt Google vor, wenn Sie Ihre Leistung eintippen?</li> <li><strong>Chatverläufe:</strong> Wenn Sie einen Chatbot nutzen, zeigt er, was Besucher wirklich fragen.</li> </ul> <p>Formulieren Sie die Frage so, wie ein Kunde sie stellt: „Wie lange dauert eine Badsanierung?“, nicht „Projektdauer im Sanitärbereich“. Tipps zur Suche nach den richtigen Worten gibt der Ratgeber <a href=\"/wissen/keywords-finden/\">Die richtigen Suchbegriffe finden</a>.</p>"
+    },
+    {
+      "h2": "Der Aufbau einer zitierfähigen Antwort",
+      "html": "<ol> <li><strong>Erster Satz: die direkte Antwort.</strong> „Eine Badsanierung dauert bei uns meist zwei bis drei Wochen.“</li> <li><strong>Zweiter und dritter Satz: wovon es abhängt.</strong> „Entscheidend sind Größe des Bades, Zustand der Leitungen und die Lieferzeit der Fliesen.“</li> <li><strong>Vierter Satz: was der Kunde tun kann</strong> oder was als Nächstes passiert. „Bei der Besichtigung nennen wir Ihnen einen genauen Zeitplan.“</li> </ol> <p>Diese Struktur ist kurz, ehrlich und vollständig. Sie funktioniert für Menschen, die schnell eine Antwort suchen, und für KI-Systeme, die einen sauberen Absatz zum Zitieren brauchen. Wichtig: Nennen Sie nur Zahlen, die für Ihren Betrieb stimmen.</p>"
+    },
+    {
+      "h2": "Gute und schlechte Antworten im Vergleich",
+      "html": "<p><strong>Schwach:</strong> „Das kommt ganz darauf an. Kontaktieren Sie uns gerne für ein unverbindliches Angebot.“ Diese Antwort sagt nichts und wird kaum zitiert.</p> <p><strong>Besser:</strong> „Ein Holzfenster-Tausch in einem Einfamilienhaus dauert meist ein bis zwei Tage pro Stockwerk. Davon hängt ab, wie viele Fenster es sind und ob die Laibungen ausgebessert werden müssen. Die Lieferzeit der Fenster liegt je nach Hersteller bei einigen Wochen. Den genauen Ablauf besprechen wir bei der Besichtigung.“</p> <p>Die zweite Antwort hilft dem Kunden, schafft Vertrauen und ist genau die Art Text, die eine KI-Suche übernehmen kann. Sie verspricht nichts, was nicht stimmt, und lädt trotzdem zum Gespräch ein.</p>"
+    },
+    {
+      "h2": "Wo FAQ auf die Website gehören",
+      "html": "<ul> <li><strong>Auf jeder Leistungsseite</strong> drei bis fünf Fragen genau zu dieser Leistung. Das ist der wichtigste Ort.</li> <li><strong>Auf einer zentralen Seite „Häufige Fragen“</strong> für allgemeine Themen: Zahlung, Anfahrt, Garantie, Terminvereinbarung.</li> <li><strong>Auf der Kontaktseite</strong> Fragen zur Erreichbarkeit und zum Ablauf.</li> </ul> <p>Vermeiden Sie, dieselbe Frage wortgleich auf vielen Seiten zu wiederholen; das erzeugt <a href=\"/wissen/duplicate-content/\">doppelte Inhalte</a>. Technisch können FAQ zusätzlich mit <a href=\"/wissen/strukturierte-daten/\">strukturierten Daten</a> ausgezeichnet werden. Google zeigt dafür zwar kaum noch Aufklappboxen in den Ergebnissen, für die Maschinenlesbarkeit schadet die Auszeichnung aber nicht.</p>"
+    },
+    {
+      "h2": "Typische Fehler bei FAQ-Bereichen",
+      "html": "<ul> <li><strong>Werbefragen:</strong> „Warum sind wir die Besten?“ fragt kein Kunde.</li> <li><strong>Ausweichende Antworten:</strong> „Das besprechen wir gerne persönlich“ ohne jeden Inhalt.</li> <li><strong>Verweise statt Antworten:</strong> „Siehe oben“ oder „Mehr dazu auf der Leistungsseite“. Die Antwort muss für sich stehen.</li> <li><strong>Zu lange Antworten:</strong> Mehrere Absätze pro Frage verwässern die Kernaussage.</li> <li><strong>Veraltete Angaben:</strong> Preise, Öffnungszeiten oder Lieferzeiten, die nicht mehr stimmen.</li> <li><strong>Versteckte Inhalte:</strong> FAQ nur als Bild oder als PDF.</li> </ul>"
+    },
+    {
+      "h2": "Pflege und nächster Schritt",
+      "html": "<p>Eine FAQ ist nie fertig. Nehmen Sie sich einmal im Quartal zehn Minuten: Welche Fragen kamen neu dazu, welche Antworten stimmen nicht mehr? Ein Chatbot wie Pipebot zeigt Ihnen dabei laufend, was Besucher wirklich wissen wollen, und antwortet selbst nur mit Ihren Inhalten.</p> <p>Ob KI-Suchen Ihren Betrieb und Ihre Antworten bereits aufgreifen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Wenn Sie Unterstützung beim Aufbau Ihrer Inhalte möchten, finden Sie diese in der Leistung <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen (GEO)</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lang sollte eine FAQ-Antwort sein?",
+      "a": "Für die meisten Fragen sind 40 bis 90 Wörter ideal, also etwa drei bis fünf Sätze. Das reicht, um die Frage direkt zu beantworten, die wichtigsten Einflussfaktoren zu nennen und den nächsten Schritt aufzuzeigen. Kürzere Antworten wirken oft ausweichend, deutlich längere verwässern die Kernaussage. Wenn ein Thema mehr Raum braucht, gehört es in einen eigenen Abschnitt oder Ratgeber."
+    },
+    {
+      "q": "Wie viele Fragen sollte eine FAQ haben?",
+      "a": "Auf einer Leistungsseite sind drei bis fünf gut gewählte Fragen meist ideal. Eine zentrale Seite für häufige Fragen kann mehr enthalten, sollte aber übersichtlich bleiben, etwa mit Zwischenüberschriften nach Themen. Entscheidend ist nicht die Anzahl, sondern dass jede Frage tatsächlich gestellt wird und die Antwort echten Nutzen bringt."
+    },
+    {
+      "q": "Werden FAQ noch als Aufklappbox bei Google angezeigt?",
+      "a": "Google zeigt FAQ-Aufklappboxen in den Suchergebnissen inzwischen nur noch sehr eingeschränkt, vor allem für ausgewählte, besonders vertrauenswürdige Websites. Für die meisten Betriebe erscheinen sie deshalb nicht mehr. FAQ-Inhalte bleiben trotzdem wertvoll, weil sie Besuchern helfen, die Seite inhaltlich stärken und von KI-Suchen als klare Antworten übernommen werden können."
+    },
+    {
+      "q": "Darf ich FAQ-Antworten mit KI schreiben lassen?",
+      "a": "KI kann beim Formulieren helfen, etwa wenn Sie Stichpunkte in eine flüssige Antwort verwandeln lassen. Die Inhalte müssen aber von Ihnen stammen und stimmen: Ihre Abläufe, Ihre Dauer, Ihre Preise oder Kostenfaktoren. Lassen Sie eine KI nicht frei erfinden, was in Ihrem Betrieb üblich ist. Prüfen Sie jede Antwort, bevor sie online geht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/was-ist-geo/",
+    "/wissen/strukturierte-daten/",
+    "/wissen/website-texte-schreiben/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/vergleiche/chatbot-oder-faq-seite/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "chatbot-test"
+  ]
+}

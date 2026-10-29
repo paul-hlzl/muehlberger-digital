@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/scheibbs/",
+  "title": "Website erstellen lassen in Scheibbs bei Betriebsübergabe",
+  "description": "Website erstellen lassen in Scheibbs: wenn die nächste Generation den Familienbetrieb übernimmt, ist der neue Auftritt ein guter Neustart. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Scheibbs",
+  "kicker": "Website · Bezirk Scheibbs",
+  "lead": "Im Bezirk Scheibbs im Mostviertel werden viele Betriebe seit Generationen von Familien geführt. Wenn Sohn oder Tochter übernehmen, ist das ein guter Anlass, den Auftritt zu erneuern: Tradition sichtbar machen und gleichzeitig zeigen, was neu ist. Mühlberger Digital vermittelt solche Websites ab 2.500 €, mit persönlicher Begleitung durch den Prozess.",
+  "fakten": [
+    "Ländlicher Bezirk im Mostviertel mit vielen Familienbetrieben",
+    "Übergabe ist ein natürlicher Zeitpunkt für einen neuen Auftritt",
+    "Tradition und Neuerungen auf einer Seite vereinen",
+    "Starter-Website ab 2.500 €, Relaunch bestehender Seiten möglich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine Übergabe ist mehr als ein neuer Name im Impressum",
+      "html": "<p>Wenn ein Betrieb übergeben wird, ändern sich oft mehr Dinge, als man zunächst denkt: neue Ansprechpartner, manchmal neue Leistungen, andere Öffnungszeiten, ein frischer Blick auf die Kundschaft. Die alte Website, falls es eine gibt, zeigt meist noch die Eltern und das Angebot von früher.</p><p>Ein neuer Auftritt signalisiert Stammkunden: Es geht weiter, und zwar verlässlich. Neuen Kunden zeigt er, dass hier jemand mit Plänen am Werk ist.</p>"
+    },
+    {
+      "h2": "Typische Übergaben im ländlichen Raum",
+      "html": "<h3>Fleischerei in zweiter oder dritter Generation</h3><p>Die Tochter führt einen Partyservice ein und will Bestellungen online annehmen. Die Website zeigt das Stammgeschäft und das neue Angebot getrennt. Mehr bei <a href=\"/branchen/fleischerei/\">Fleischereien</a>.</p><h3>Tischlerei mit neuem Schwerpunkt</h3><p>Der Sohn setzt stärker auf Innenausbau. Referenzen aus den letzten Jahren rücken nach vorne, ältere Arbeiten bleiben als „Aus unserer Geschichte“ sichtbar. Anregungen auf der Seite für <a href=\"/branchen/tischler/\">Tischler</a>.</p><h3>Gasthaus mit neuer Küche</h3><p>Die Speisekarte ändert sich, die Wirtsstube bleibt. Fotos zeigen beides, und der Text erzählt in wenigen Sätzen, wer jetzt kocht.</p>"
+    },
+    {
+      "h2": "Wie man Tradition erzählt, ohne altmodisch zu wirken",
+      "html": "<ul><li>Ein kurzer Absatz zur Geschichte, kein ganzer Roman</li><li>Ein altes Foto neben einem aktuellen wirkt stärker als jede Beschreibung</li><li>Die neue Generation mit Gesicht und Namen zeigen</li><li>Klar sagen, was gleich bleibt und was neu ist</li></ul><p>Wie man Texte schreibt, die nach Ihnen klingen, erklärt der Ratgeber <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p>"
+    },
+    {
+      "h2": "Neu bauen oder bestehende Seite erneuern?",
+      "html": "<p>Gibt es schon eine Website, kann sich ein <a href=\"/leistungen/website-relaunch/\">Relaunch</a> anbieten, bei dem gute Inhalte übernommen werden. Ist die alte Seite technisch überholt, ist ein Neubau oft einfacher. Die Starter-Website beginnt bei 2.500 €, Details auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Mehr zur Region unter <a href=\"/regionen/bezirk-scheibbs/\">Bezirk Scheibbs</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was passiert mit der alten Domain bei einer Übergabe?",
+      "a": "Die Domain sollte auf die neue Inhaberin oder den neuen Inhaber übertragen werden, damit sie nicht an eine Person gebunden bleibt, die nicht mehr im Betrieb ist. Bei .at-Domains läuft das über den jeweiligen Anbieter, bei dem die Domain registriert ist. Wichtig ist, die bisherige Adresse zu behalten, weil Stammkunden und Google sie kennen."
+    },
+    {
+      "q": "Sollen die Eltern auf der neuen Website noch vorkommen?",
+      "a": "Wenn sie noch mitarbeiten oder für viele Kunden das Gesicht des Betriebs waren, gerne. Ein Satz wie „Mit der Erfahrung von Vater und Mutter im Hintergrund“ schafft Kontinuität. Wichtig ist nur, dass klar ist, wer heute die Verantwortung trägt und wer Ansprechpartner ist. Sonst rufen Kunden weiter bei der falschen Person an."
+    },
+    {
+      "q": "Wie lange dauert es, bis die neue Website online ist?",
+      "a": "Das hängt vor allem davon ab, wie schnell Texte und Fotos bereitstehen. Technisch ist eine Starter-Website in überschaubarer Zeit umsetzbar. Den genauen Zeitplan legen wir im schriftlichen Angebot fest. Bei Übergaben ist es sinnvoll, den Start der neuen Seite auf den Übergabetermin abzustimmen, damit beides gemeinsam kommuniziert werden kann."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-scheibbs/",
+    "/regionen/mostviertel/",
+    "/leistungen/website-relaunch/",
+    "/branchen/tischler/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

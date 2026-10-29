@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/chatbot/",
+  "title": "Chatbot einfach erklärt: Digitale Auskunft",
+  "description": "Chatbot einfach erklärt: Wie ein KI-Chatbot auf der Website Fragen beantwortet, wann er kleinen Betrieben hilft und worauf Sie achten sollten.",
+  "h1": "Chatbot",
+  "kicker": "Glossar · KI",
+  "lead": "Ein Chatbot ist ein Programm, das in einem Chatfenster automatisch auf Fragen antwortet, zum Beispiel auf einer Website oder in WhatsApp. Moderne KI-Chatbots verstehen frei formulierte Fragen und antworten in ganzen Sätzen.",
+  "fakten": [
+    "Regelbasierte Bots folgen festen Abläufen, KI-Bots verstehen freie Fragen",
+    "Gute Bots antworten nur mit geprüften Inhalten des Betriebs",
+    "Bei Unsicherheit sollte der Bot an einen Menschen übergeben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Chatbot im Betriebsalltag",
+      "html": "<p>Eine Fahrschule bekommt am Abend und am Wochenende viele gleiche Fragen: Wann startet der nächste Kurs? Was kostet die L17-Ausbildung? Welche Unterlagen brauche ich? Ein KI-Chatbot auf der Website beantwortet sie rund um die Uhr auf Basis der Inhalte, die die Fahrschule hinterlegt hat. Bei Fragen, die er nicht sicher beantworten kann, bietet er die Kontaktaufnahme mit dem Büro an.</p><p>Damit der Bot nichts erfindet, wird er auf die eigenen Inhalte beschränkt, ein Prinzip, das auch hinter <a href=\"/glossar/rag/\">RAG</a> steckt.</p>"
+    },
+    {
+      "h2": "Wann sich ein Chatbot für KMU lohnt",
+      "html": "<p>Ein Chatbot lohnt sich, wenn viele wiederkehrende Fragen kommen und Kunden auch außerhalb der Öffnungszeiten Antworten suchen. Bei sehr wenigen Anfragen oder stark beratungsintensiven Leistungen reicht oft eine gute FAQ-Seite, siehe <a href=\"/vergleiche/chatbot-oder-faq-seite/\">Chatbot oder FAQ-Seite</a>.</p><p>Ein Beispiel ist <a href=\"https://pipebot.at/\">Pipebot</a>: Er antwortet nur mit den Inhalten des Kunden, im Design der Website, um 19 € pro Monat bei monatlicher Kündbarkeit und mit 30 Tagen gratis. Mehr dazu unter <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> und im <a href=\"/gratis-check/chatbot-test/\">Gratis-Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Chatbot falsche Auskünfte geben?",
+      "a": "Ja, vor allem wenn er frei auf allgemeines Wissen zugreift. Deshalb sollten Chatbots für Betriebe auf geprüfte eigene Inhalte beschränkt sein und bei Unsicherheit an einen Menschen weiterleiten. Prüfen Sie den Bot vor dem Start mit typischen und auch kniffligen Fragen und kontrollieren Sie die Gesprächsverläufe in den ersten Wochen regelmäßig."
+    },
+    {
+      "q": "Ist ein Chatbot auf der Website datenschutzkonform?",
+      "a": "Das hängt von der Lösung ab: wo die Daten verarbeitet werden, ob personenbezogene Daten gespeichert werden und ob es einen Vertrag zur Auftragsverarbeitung gibt. Zudem sollte die Datenschutzerklärung den Chatbot erwähnen. Fragen Sie den Anbieter konkret nach diesen Punkten. Für Ihren Einzelfall ist eine rechtliche Prüfung, etwa über die WKO, sinnvoll."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/produkte/pipebot/",
+    "/wissen/chatbot-vorteile/",
+    "/wissen/chatbot-datenschutz/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

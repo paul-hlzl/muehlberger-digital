@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/vereine/",
+  "title": "Digitale Helfer für Vereine: Mitglieder, Feste, Protokolle",
+  "description": "Für Vereine: Mitgliedsanträge ohne Zettel, Helferlisten fürs Fest, Vorstandssitzungen per KI protokollieren und Sponsoren in der Gemeinde gezielt finden.",
+  "h1": "Digitale Lösungen für Vereine",
+  "kicker": "Branche · Vereine",
+  "lead": "Vereine leben vom Ehrenamt, und genau deshalb lohnt sich Digitalisierung dort, wo Freiwillige am meisten Zeit verlieren: bei Mitgliedsanträgen und Beiträgen, bei Helferlisten für Feste, bei Sitzungsprotokollen und bei der Suche nach Sponsoren. Wichtig ist, dass jede Lösung auch dann noch funktioniert, wenn der Schriftführer wechselt.",
+  "fakten": [
+    "Zugänge und Wissen so ablegen, dass ein Funktionärswechsel nichts verliert",
+    "Mitgliedsantrag online statt Papier, mit Datenschutzhinweis",
+    "noteit Starter kostet 0 € und reicht für 3 Stunden Sitzungen im Monat",
+    "SightUp findet Betriebe in der Umgebung als mögliche Sponsoren"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ehrenamt, wenig Zeit, wechselnde Funktionäre",
+      "html": "<p>Im Verein macht oft eine Person die Website, eine andere die Mitgliederliste und eine dritte die Kassa, alles am Abend nach der Arbeit. Wenn eine davon aufhört, sind plötzlich Passwörter weg, und niemand weiß, wo die Domain registriert ist. Das ist eines der häufigsten Probleme in Vereinen.</p><p>Deshalb gilt für jede digitale Lösung:</p><ul><li>Zugänge gehören dem Verein, nicht einer Privatperson</li><li>Passwörter in einem gemeinsamen <a href=\"/wissen/passwort-manager/\">Passwort-Manager</a> statt auf Zetteln</li><li>eine kurze Übergabeliste, was wo liegt</li><li>Lösungen, die auch ohne technisches Wissen bedienbar sind</li></ul><p>Weitere Grundlagen beschreibt der Ratgeber <a href=\"/wissen/digitalisierung-vereine/\">Digitalisierung für Vereine</a>.</p>"
+    },
+    {
+      "h2": "Mitgliedsantrag und Beiträge ohne Zettelwirtschaft",
+      "html": "<p>Ein neues Mitglied füllt beim Training einen Zettel aus, der Zettel landet in einer Mappe, die Mappe beim Obmann, und irgendwann tippt jemand die Daten ab. Beim Mitgliedsbeitrag wird dann händisch geschaut, wer schon bezahlt hat.</p><p>Ein Online-Mitgliedsantrag auf der Website schickt die Daten direkt in eine Liste, mit einem kurzen Hinweis zum Datenschutz. Eine einfache Automatisierung kann daraus eine Willkommens-E-Mail mit Bankverbindung machen und vor Fälligkeit freundlich an den Beitrag erinnern. Das spart dem Kassier viele Abende. Der Aufwand dafür wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Feste und Helferlisten: wer steht wann an der Schank?",
+      "html": "<p>Beim Zeltfest, Vereinsball oder Turnier braucht es Helfer für Aufbau, Schank, Küche, Kassa und Abbau. Die Einteilung läuft meist über Gruppenchats, in denen niemand mehr den Überblick hat, wer für welche Schicht zugesagt hat.</p><p>Eine einfache Helferliste, in der sich jeder selbst für eine Schicht einträgt und am Vortag eine Erinnerung bekommt, macht die Organisation planbarer. Für die Bewerbung des Festes selbst gibt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a> praktische Tipps.</p>"
+    },
+    {
+      "h2": "Vorstandssitzungen protokollieren, ohne mitzuschreiben",
+      "html": "<p>Viele Vorstände treffen sich inzwischen auch per Video, etwa über Teams, Zoom oder Google Meet. Das Protokoll schreibt danach meist der Schriftführer aus seinen Notizen, und das dauert.</p><p>noteit erstellt Gesprächsnotizen ohne Bot im Call, speichert in Frankfurt und liefert das Protokoll etwa zwei Minuten nach der Sitzung. Für Vereine besonders interessant: Das Starter-Paket kostet 0 € und umfasst 3 Stunden pro Monat, was für eine monatliche Vorstandssitzung oft reicht. Informieren Sie alle Teilnehmenden vorab. Registrieren können Sie sich unter <a href=\"https://noteit.at/registrieren\">noteit.at/registrieren</a>. Tipps für gute Protokolle gibt der Ratgeber <a href=\"/wissen/meeting-protokoll-schreiben/\">Meeting-Protokoll schreiben</a>.</p>"
+    },
+    {
+      "h2": "Sponsoren und Nachwuchs gewinnen",
+      "html": "<p>Neue Dressen, ein Zelt fürs Fest oder ein Jugendcamp: Viele Vereine brauchen regionale Sponsoren. Statt immer dieselben drei Betriebe zu fragen, hilft ein Blick auf Firmen in der Umgebung. <a href=\"https://sightup.at/\">SightUp</a> findet passende Betriebe in der Nähe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket mit 3 Suchen pro Monat reicht für viele Vereine aus.</p><p>Für den Nachwuchs ist Instagram wichtig. Pipeflow macht aus Ihrer Website jede Woche fertige Beiträge mit Bild, die Sie nur freigeben, und ist in der Pilotphase kostenlos: <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p>"
+    },
+    {
+      "h2": "Fotos, Datenschutz und der nächste Schritt",
+      "html": "<p>Fotos vom Vereinsfest oder vom Training gehören zum Vereinsleben. Bei Kindern und Jugendlichen braucht es aber die Zustimmung der Eltern, und auch Erwachsene sollten wissen, dass fotografiert wird. Allgemeine Hinweise gibt der Ratgeber zu <a href=\"/wissen/social-media-bildrechte/\">Bildrechten in Social Media</a>.</p><p>Eine Starter-Website kostet ab 2.500 € einmalig. Ob Ihr Verein das braucht oder ob eine bestehende Lösung reicht, klären wir ehrlich im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, das abends zwischen 18:00 und 21:30 Uhr stattfindet und damit gut zum Ehrenamt passt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie verhindert ein Verein, dass beim Funktionärswechsel Zugänge verloren gehen?",
+      "a": "Indem Domain, Website, E-Mail und Social-Media-Konten auf den Verein laufen und nicht auf eine Privatperson. Passwörter sollten in einem gemeinsamen Passwort-Manager liegen, auf den mindestens zwei Vorstandsmitglieder Zugriff haben. Eine kurze Übergabeliste, was wo registriert ist, erspart dem Nachfolger viel Sucherei. Das kostet wenig und verhindert die häufigsten Probleme."
+    },
+    {
+      "q": "Kann ein Verein noteit kostenlos nutzen?",
+      "a": "Ja, das Starter-Paket von noteit kostet 0 € und umfasst 3 Stunden Gesprächszeit pro Monat. Für eine monatliche Vorstandssitzung per Teams, Zoom oder Google Meet reicht das oft aus. Das Protokoll ist etwa zwei Minuten nach der Sitzung fertig, die Speicherung erfolgt in Frankfurt. Für mehr Stunden gibt es Pro um 14 € im Monat."
+    },
+    {
+      "q": "Wie findet ein Verein neue Sponsoren?",
+      "a": "Gut funktioniert ein Blick auf Betriebe in der eigenen Gemeinde und Umgebung, die zum Verein passen, etwa Handwerk, Handel oder Gastronomie. SightUp findet solche Firmen, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie anpassen und selbst verschicken. Persönlicher Kontakt und ein klares Angebot, was der Sponsor bekommt, bleiben entscheidend."
+    },
+    {
+      "q": "Braucht ein kleiner Verein eine eigene Website?",
+      "a": "Nicht jeder. Wenn der Verein nur einmal im Jahr ein Fest macht und alle sich kennen, reicht oft eine Seite in sozialen Netzwerken. Eine Website lohnt sich, wenn Sie neue Mitglieder gewinnen, Termine veröffentlichen, Sponsoren zeigen oder einen Mitgliedsantrag online anbieten wollen. Eine Starter-Website kostet ab 2.500 € einmalig, ohne Umsatzsteuer."
+    }
+  ],
+  "verwandt": ["/branchen/gemeinden/", "/wissen/digitalisierung-vereine/", "/wissen/veranstaltungen-bewerben/", "/produkte/noteit/", "/wissen/meeting-protokoll-schreiben/"],
+  "checks": ["neukunden-finden", "social-media-test"]
+}

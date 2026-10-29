@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/hosting/",
+  "title": "Was ist Hosting? Webspace für Ihre Website erklärt",
+  "description": "Hosting einfach erklärt: Was ein Webhoster macht, welche Arten es gibt, warum der Serverstandort zählt und worauf kleine Betriebe achten sollten.",
+  "h1": "Hosting – wo Ihre Website wohnt",
+  "kicker": "Glossar · Website",
+  "lead": "Hosting ist die Dienstleistung, bei der ein Anbieter Ihre Website auf einem ständig erreichbaren Server speichert und an Besucher ausliefert. Ohne Hosting gibt es zwar eine Domain, aber keine Seite, die dahinter angezeigt wird.",
+  "fakten": [
+    "Varianten: Shared Hosting, eigener Server, Cloud oder Managed Hosting",
+    "Serverstandort in der EU erleichtert den Datenschutz",
+    "Gutes Hosting umfasst Backups, Updates und ein SSL-Zertifikat"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Hosting in der Praxis aussieht",
+      "html": "<p>Ein Gasthaus mit Zimmervermietung hat seine Website auf einem günstigen Paket, das sich viele Websites teilen. Im Sommer, wenn viele Gäste gleichzeitig die Zimmerseite aufrufen, lädt sie spürbar langsamer. Mit einem passenderen Tarif oder einer schlankeren Website verschwindet das Problem.</p><p>Zum Hosting gehören neben Speicherplatz meist das <a href=\"/glossar/ssl-zertifikat/\">SSL-Zertifikat</a> für die verschlüsselte Verbindung, regelmäßige Sicherungen und oft E-Mail-Postfächer. Beim Managed Hosting kümmert sich der Anbieter zusätzlich um Updates und Überwachung.</p>"
+    },
+    {
+      "h2": "Worauf KMU beim Hosting achten sollten",
+      "html": "<p>Für kleine Betriebe zählen drei Dinge: Die Website muss schnell laden, sie muss zuverlässig erreichbar sein, und personenbezogene Daten aus Kontaktformularen sollen datenschutzkonform verarbeitet werden. Ein Serverstandort in Europa hilft dabei, siehe <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>.</p><p>Billigstes Hosting ist selten die günstigste Lösung, wenn Sie Ausfälle oder Hackerangriffe selbst beheben müssen. Bei der Starter-Website ab 2.500 € ist das Hosting bereits enthalten; Details zur laufenden Betreuung finden Sie unter <a href=\"/leistungen/website-wartung-hosting/\">Wartung und Hosting</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet Hosting für eine kleine Firmenwebsite?",
+      "a": "Das reicht von wenigen Euro im Monat für einfache Pakete bis zu deutlich höheren Beträgen für betreutes Hosting mit Updates und Überwachung. Entscheidend ist, was enthalten ist: Backups, SSL-Zertifikat, Support und Sicherheitsupdates. Ein einfacher Preisvergleich ohne diese Punkte führt oft in die Irre. Einen Überblick über laufende Kosten gibt der Ratgeber zu den Website-Kosten."
+    },
+    {
+      "q": "Kann ich den Hosting-Anbieter später wechseln?",
+      "a": "Ja, ein Wechsel ist fast immer möglich. Die Website-Dateien und die Datenbank werden zum neuen Anbieter übertragen, danach wird im DNS der Domain auf den neuen Server verwiesen. Wichtig ist, dass Sie Zugang zu Ihren Daten und zur Domain haben. Planen Sie den Umzug in einer ruhigen Zeit und mit Backup."
+    }
+  ],
+  "verwandt": [
+    "/wissen/hosting-in-europa/",
+    "/vergleiche/hosting-europa-oder-usa/",
+    "/wissen/website-laufende-kosten/",
+    "/glossar/domain/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

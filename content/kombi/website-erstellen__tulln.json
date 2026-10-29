@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/website-erstellen/tulln/",
+  "title": "Website erstellen lassen in Tulln für grüne Branchen",
+  "description": "Website erstellen lassen in Tulln: für Gartengestalter, Blumengeschäfte und Baubetriebe, die ihre Arbeit mit Referenzen zeigen wollen. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Tulln",
+  "kicker": "Website · Bezirk Tulln",
+  "lead": "Tulln an der Donau versteht sich als Gartenstadt, und im Bezirk gibt es viele Betriebe rund um Garten, Grün und Bauen. Für sie verkauft sich die Arbeit am besten über Bilder fertiger Projekte. Mühlberger Digital vermittelt Websites ab 2.500 €, bei denen Referenzen im Mittelpunkt stehen, und ergänzt auf Wunsch automatische Social-Media-Beiträge.",
+  "fakten": [
+    "Tulln ist als Gartenstadt an der Donau bekannt",
+    "Referenzen mit Vorher-nachher-Bildern überzeugen grüne und bauende Branchen",
+    "Kundschaft aus dem Bezirk und dem nahen Wien",
+    "Aus der Website lassen sich mit Pipeflow wöchentliche Beiträge erstellen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Referenzen sind das wichtigste Verkaufsargument",
+      "html": "<p>Ein Garten, eine Terrasse oder ein Zubau sind Anschaffungen, bei denen Kunden sehen wollen, was sie bekommen. Wer Projekte mit Fotos, kurzer Beschreibung und, wenn möglich, Vorher-nachher-Vergleich zeigt, beantwortet die wichtigste Frage, bevor sie gestellt wird.</p><p>Wie man Referenzen glaubwürdig präsentiert, ohne Kundendaten preiszugeben, erklärt der Ratgeber <a href=\"/wissen/referenzen-zeigen/\">Referenzen zeigen</a>.</p>"
+    },
+    {
+      "h2": "Was das für einzelne Betriebe bedeutet",
+      "html": "<ul><li><strong>Gartengestaltung:</strong> Projekte nach Art ordnen, etwa Naturgarten, Pflasterung, Teich. Jahreszeiten zeigen, denn ein Garten verändert sich. Mehr bei <a href=\"/branchen/gartengestaltung/\">Gartengestaltung</a>.</li><li><strong>Blumengeschäft:</strong> Hochzeits- und Trauerfloristik getrennt zeigen, Bestellmöglichkeit für Sträuße, Öffnungszeiten an Feiertagen. Siehe <a href=\"/branchen/blumen/\">Blumengeschäfte</a>.</li><li><strong>Baumeister:</strong> wenige, sorgfältig dokumentierte Bauvorhaben mit Bauzeit und Leistungsumfang statt einer langen Liste.</li></ul>"
+    },
+    {
+      "h2": "Kunden aus Tulln und aus Wien",
+      "html": "<p>Weil der Bezirk nahe an Wien liegt, kommen Anfragen nicht nur aus der Umgebung. Wer bereit ist, auch Projekte am Wiener Stadtrand zu übernehmen, sollte das klar sagen. Umgekehrt spart ein ehrlicher Hinweis wie „Wir arbeiten im Raum Tulln und im Tullnerfeld“ Anfragen, die Sie ohnehin ablehnen würden.</p>"
+    },
+    {
+      "h2": "Sichtbar bleiben zwischen den Projekten",
+      "html": "<p>Grüne Branchen haben ständig neue Bilder, aber selten Zeit, sie zu posten. <a href=\"https://pipeflow.at/\">Pipeflow</a> macht aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. In der Pilotphase ist das kostenlos.</p><p>Die Website selbst beginnt bei 2.500 € als Starter-Paket mit bis zu fünf Seiten. Mehr dazu auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, zur Region auf <a href=\"/regionen/bezirk-tulln/\">Bezirk Tulln</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Fotos aus Kundengärten auf meiner Website zeigen?",
+      "a": "Am besten fragen Sie vorher um Erlaubnis, auch wenn keine Personen zu sehen sind. Viele Kunden sind stolz auf ihren Garten und stimmen gerne zu. Hausnummern, Autokennzeichen und erkennbare Personen sollten Sie trotzdem vermeiden oder unkenntlich machen. Statt einer genauen Adresse genügt eine allgemeine Angabe wie „Einfamilienhaus im Bezirk Tulln“."
+    },
+    {
+      "q": "Wie viele Referenzen brauche ich für den Start?",
+      "a": "Drei bis sechs gut dokumentierte Projekte reichen für den Anfang völlig. Wichtiger als die Menge sind gute Fotos und ein paar Sätze zu Aufgabe, Lösung und Ergebnis. Neue Projekte können laufend dazukommen. Eine lange Galerie mit vielen ähnlichen Bildern wirkt dagegen schnell unübersichtlich und verlangsamt die Seite."
+    },
+    {
+      "q": "Ersetzt Pipeflow die Pflege meiner Website?",
+      "a": "Nein, es nutzt Ihre Website als Quelle. Pipeflow erstellt aus vorhandenen Inhalten Social-Media-Beiträge, die Sie vor der Veröffentlichung freigeben. Neue Referenzen müssen also zuerst auf die Website. Das hat einen Vorteil: Die Inhalte stehen dauerhaft auf Ihrer eigenen Seite und nicht nur in einem sozialen Netzwerk."
+    },
+    {
+      "q": "Soll ich Preise für Gartenprojekte auf der Website nennen?",
+      "a": "Genaue Preise sind bei individuellen Projekten kaum möglich, Preisrahmen für typische Arbeiten helfen aber vielen Interessenten. Sie können damit einschätzen, ob ihr Vorhaben ins Budget passt, und Sie bekommen weniger Anfragen, die am Ende nicht zusammenpassen. Ein Satz dazu, wovon der Preis abhängt, etwa Fläche, Gelände oder Material, macht die Angabe verständlich."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-tulln/",
+    "/branchen/gartengestaltung/",
+    "/wissen/referenzen-zeigen/",
+    "/leistungen/social-media-automatisierung/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

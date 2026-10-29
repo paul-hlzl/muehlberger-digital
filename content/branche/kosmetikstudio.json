@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/kosmetikstudio/",
+  "title": "Kosmetikstudios online: Behandlungen, Gutscheine, Chatbot",
+  "description": "Kosmetikstudios digital aufstellen: Behandlungen verständlich erklären, Gutscheine online verkaufen und Fragen zur Vorbereitung automatisch beantworten.",
+  "h1": "Digitale Lösungen für Kosmetikstudios",
+  "kicker": "Branche · Kosmetik",
+  "lead": "Ein Kosmetikstudio gewinnt online, wenn Interessierte verstehen, was eine Behandlung ist, wie lange sie dauert und was sie kostet. Eine Website mit eigenen Seiten pro Behandlung, ein Gutscheinverkauf vor Feiertagen und ein Chatbot für Fragen zur Vorbereitung entlasten Sie spürbar, ohne dass Sie Wirkungsversprechen machen müssen.",
+  "fakten": [
+    "Eine eigene Seite pro Behandlung hilft bei Google und KI-Suchen",
+    "Online-Gutscheine verkaufen sich auch nachts vor Muttertag und Weihnachten",
+    "Pipebot beantwortet Vorbereitungsfragen mit Ihren Texten, 19 € pro Monat",
+    "Keine Heilversprechen: sachlich beschreiben, was eine Behandlung ist"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Behandlungen so erklären, dass niemand nachfragen muss",
+      "html": "<p>Begriffe wie Microneedling, Ausreinigung, Wimpernlifting oder Lash Extensions sind für Sie Alltag, für viele Interessierte aber unklar. Wer nicht versteht, was ihn erwartet, bucht nicht, sondern ruft an oder sucht weiter. Deshalb lohnt sich pro Behandlung eine kurze, eigene Unterseite mit immer gleichem Aufbau:</p><ul><li>Was passiert bei der Behandlung, Schritt für Schritt</li><li>Dauer und empfohlener Abstand zwischen Terminen</li><li>Für wen sie geeignet ist und für wen eher nicht</li><li>Preis oder Preisrahmen</li></ul><p>Solche Seiten werden auch von KI-Suchen wie ChatGPT oder Gemini gerne aufgegriffen, weil sie eine klare Frage klar beantworten. Ob Ihr Studio dort schon genannt wird, zeigt der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a> mit Bericht innerhalb von 24 Stunden.</p>"
+    },
+    {
+      "h2": "Vorbereitung und Nachsorge: Fragen, die ein Chatbot beantworten kann",
+      "html": "<p>„Darf ich vor dem Wimpernlifting Mascara tragen?“, „Wie lange soll ich nach der Behandlung kein Make-up verwenden?“ oder „Kann ich den Termin verschieben, wenn ich einen Sonnenbrand habe?“ Solche Fragen kommen per Telefon, Instagram-Nachricht und WhatsApp, oft am späten Abend.</p><p>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> wie <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet sie rund um die Uhr, aber ausschließlich mit den Hinweisen, die Sie selbst hinterlegen. Er erfindet keine Pflegetipps und verbindet bei Unsicherheit mit Ihnen. Das ist wichtig, weil bei Hautfragen niemand Ratschläge aus dem Internet bekommen soll, die nicht von Ihnen stammen. Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis.</p>"
+    },
+    {
+      "h2": "Gutscheine als Umsatzbringer vor Feiertagen",
+      "html": "<p>Kosmetikbehandlungen sind beliebte Geschenke. Vor Muttertag, Valentinstag und Weihnachten suchen viele Menschen spontan nach einem Gutschein, oft am letzten Abend. Wenn sie dann erst anrufen müssen, kaufen sie woanders.</p><p>Ein Gutscheinverkauf auf der Website, bei dem man den Gutschein bezahlt und als PDF zum Ausdrucken bekommt, löst genau dieses Problem. Ob Wertgutschein oder Gutschein für eine bestimmte Behandlung, hängt von Ihrem Angebot ab. Worauf Sie achten sollten, beschreibt der Ratgeber <a href=\"/wissen/gutscheine-online/\">Gutscheine online verkaufen</a>. Eine solche Funktion wird nach dem Erstgespräch individuell angeboten.</p>"
+    },
+    {
+      "h2": "Pflegeprodukte verkaufen: eigener Shop oder nicht?",
+      "html": "<p>Viele Studios verkaufen die Pflegeprodukte, mit denen sie arbeiten. Ein vollwertiger Onlineshop klingt naheliegend, lohnt sich aber nur, wenn Sie wirklich regelmäßig versenden wollen und die Marken das erlauben. Ehrlich gesagt ist für viele kleine Studios eine einfache Produktseite mit „Reservieren und im Studio abholen“ der bessere Weg.</p><p>Wenn Sie Ihr Sortiment trotzdem online verkaufen wollen, erklären wir auf der Seite <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>, was dazugehört. Ein Shop ist ein individuelles Projekt, der Preis wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Seriös werben ohne Wirkungsversprechen",
+      "html": "<p>Aussagen wie „faltenfrei nach einer Sitzung“ wecken Erwartungen, die keine Behandlung sicher erfüllt, und können rechtlich heikel sein. Besser wirkt eine sachliche Sprache: was gemacht wird, wie es sich anfühlt, welche Produkte Sie verwenden. Echte Google-Bewertungen und Fotos aus dem Studio, nicht aus Bildarchiven, schaffen mehr Vertrauen. Mehr dazu im Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</p><p>Bei Fragen zu Werbung und Kennzeichnung ist die Wirtschaftskammer die richtige Anlaufstelle. Welche Bausteine für Ihr Studio passen, besprechen wir gerne im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Seiten braucht die Website eines Kosmetikstudios?",
+      "a": "Für den Start reichen oft fünf Seiten: Startseite, Behandlungen mit Preisen, Über uns, Gutscheine und Kontakt. Das deckt die Starter-Website ab 2.500 € einmalig ab. Wenn Sie viele unterschiedliche Behandlungen anbieten, lohnen sich eigene Unterseiten pro Behandlung, weil Suchmaschinen und KI-Suchen dann besser verstehen, wofür Ihr Studio steht. Das wird als größeres Projekt kalkuliert."
+    },
+    {
+      "q": "Kann ein Chatbot Hautfragen von Kundinnen beantworten?",
+      "a": "Pipebot beantwortet nur, was Sie selbst hinterlegen, etwa Hinweise zur Vorbereitung, zur Nachsorge oder zu Terminabsagen. Eine individuelle Hautberatung ersetzt er nicht und soll er auch nicht. Bei Fragen, die über Ihre Inhalte hinausgehen, verweist er an Sie. So bekommen Kundinnen schnelle Antworten auf Routinefragen, und die persönliche Beratung bleibt im Studio."
+    },
+    {
+      "q": "Lohnt sich der Online-Verkauf von Gutscheinen für ein kleines Studio?",
+      "a": "In vielen Fällen ja, weil Gutscheine vor Feiertagen oft spontan und abends gekauft werden. Wer dann sofort bezahlen und ausdrucken kann, kauft eher bei Ihnen als bei einem Studio, bei dem man erst anrufen muss. Wenn Sie kaum Gutscheine verkaufen oder fast nur Stammkundschaft haben, reicht oft ein Hinweis auf der Website, dass Gutscheine im Studio erhältlich sind."
+    },
+    {
+      "q": "Wie wird ein Kosmetikstudio in ChatGPT oder Google empfohlen?",
+      "a": "Eine Garantie dafür gibt es nicht. Gute Voraussetzungen sind klare Seiten zu jeder Behandlung, korrekte Angaben im Google-Unternehmensprofil, echte Bewertungen und eine Website, die Fragen direkt beantwortet. Hittaro misst, wie oft Google und KI-Suchen Ihr Studio nennen, und schlägt Verbesserungen vor. Der Gratis-Check liefert einen Bericht innerhalb von 24 Stunden."
+    }
+  ],
+  "verwandt": ["/branchen/friseur/", "/branchen/massage/", "/wissen/gutscheine-online/", "/leistungen/geo-ki-sichtbarkeit/", "/produkte/pipebot/"],
+  "checks": ["ki-sichtbarkeit", "chatbot-test"]
+}

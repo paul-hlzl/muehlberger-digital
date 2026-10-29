@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/chatbot-datenschutz/",
+  "title": "KI-Chatbot und Datenschutz: Was Betriebe beachten",
+  "description": "KI-Chatbot und Datenschutz: welche Daten anfallen, welche Pflichten nach DSGVO gelten, was der EU AI Act verlangt und welche Fragen Sie dem Anbieter stellen.",
+  "h1": "KI-Chatbot und Datenschutz: Worauf Sie achten müssen",
+  "kicker": "Ratgeber · Chatbot & Recht",
+  "lead": "Ein KI-Chatbot lässt sich datenschutzkonform betreiben, wenn fünf Punkte stimmen: Die Datenschutzerklärung informiert über den Bot, mit dem Anbieter besteht ein Auftragsverarbeitungsvertrag, es werden nur nötige Daten erhoben, Speicherort und Löschung sind geklärt, und Besucher erkennen, dass sie mit einer KI schreiben. Diese Seite ist eine allgemeine Orientierung, keine Rechtsberatung.",
+  "fakten": [
+    "Chat-Nachrichten können personenbezogene Daten enthalten",
+    "Auftragsverarbeitungsvertrag mit dem Anbieter abschließen",
+    "Datenschutzerklärung um den Chatbot ergänzen",
+    "Besucher sollen erkennen, dass sie mit einer KI schreiben",
+    "Im Einzelfall WKO, Anwalt oder Datenschutzbehörde fragen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Welche Daten ein Chatbot verarbeitet",
+      "html": "<p>Auch wenn der Bot nur Fragen zu Öffnungszeiten beantwortet, fallen Daten an. Typisch sind:</p><ul> <li><strong>Der Inhalt der Nachrichten:</strong> Besucher schreiben oft mehr, als nötig wäre, etwa Namen, Adressen oder Details zu ihrer Situation.</li><li><strong>Kontaktdaten:</strong> wenn der Bot einen Rückruf oder ein Angebot vorbereitet.</li><li><strong>Technische Daten:</strong> zum Beispiel IP-Adresse, Zeitpunkt, Browser.</li><li><strong>Gesprächsverläufe:</strong> die gespeichert werden, damit Sie sie auswerten können.</li></ul> <p>Sobald sich Daten einer Person zuordnen lassen, gilt die <a href=\"/glossar/dsgvo/\">DSGVO</a>. Das ist bei einem Website-Chat praktisch immer der Fall. Daraus folgen ein paar Pflichten, die mit überschaubarem Aufwand erfüllbar sind.</p>"
+    },
+    {
+      "h2": "Die wichtigsten Pflichten im Überblick",
+      "html": "<ul><li><strong>Information:</strong> In der Datenschutzerklärung steht, dass ein Chatbot eingesetzt wird, welcher Anbieter dahintersteht, welche Daten wozu verarbeitet und wie lange sie gespeichert werden. Mehr dazu im Ratgeber <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a>.</li><li><strong>Auftragsverarbeitung:</strong> Der Chatbot-Anbieter verarbeitet Daten in Ihrem Auftrag. Dafür braucht es einen Auftragsverarbeitungsvertrag (AVV).</li><li><strong>Rechtsgrundlage:</strong> Für das Beantworten von Anfragen kommt in der Regel die Anbahnung eines Vertrags oder ein berechtigtes Interesse in Frage. Für weitergehende Nutzung kann eine Einwilligung nötig sein.</li><li><strong>Löschung:</strong> Legen Sie fest, wie lange Gespräche gespeichert bleiben, und löschen Sie danach.</li><li><strong>Übermittlung:</strong> Klären Sie, wo die Daten verarbeitet werden. Bei Verarbeitung außerhalb der EU gelten zusätzliche Anforderungen.</li></ul>"
+    },
+    {
+      "h2": "Transparenz: Als KI erkennbar sein",
+      "html": "<p>Neben der DSGVO spielt der <a href=\"/wissen/eu-ai-act/\">EU AI Act</a> eine Rolle. Er sieht vor, dass Menschen erkennen können, wenn sie mit einem KI-System interagieren, sofern das nicht ohnehin offensichtlich ist. Für einen Website-Chatbot heißt das in der Praxis: Ein klarer Hinweis im Chatfenster, etwa „Ich bin der digitale Assistent von Tischlerei XY und antworte mit Hilfe von KI“.</p><p>Das ist nicht nur Pflicht, sondern auch gute Praxis. Besucher wissen dann, woran sie sind, und verzeihen eher, wenn der Bot einmal an einen Menschen verweisen muss. Ein Bot, der sich als Mitarbeiterin „Lisa“ ausgibt, verspielt dagegen Vertrauen, sobald es jemand merkt.</p>"
+    },
+    {
+      "h2": "Sensible Daten: besondere Vorsicht in Praxen",
+      "html": "<p>Heikel wird es, wenn Besucher Gesundheitsdaten, Angaben zu Finanzen oder andere sensible Informationen in den Chat schreiben. Typische Situation: Eine Patientin fragt im Chat einer Physiotherapiepraxis, ob ihre Behandlung nach einer bestimmten Operation möglich ist, und beschreibt dabei ihre Diagnose.</p><p>Gesundheitsdaten zählen zu den besonders geschützten Daten. Sinnvoll sind daher:</p><ul> <li>Ein Hinweis im Chatfenster, keine Gesundheitsdaten oder Diagnosen einzugeben.</li><li>Ein Bot, der keine medizinischen Einschätzungen gibt und für solche Fragen auf ein Telefonat verweist.</li><li>Kurze Speicherfristen für Gesprächsverläufe.</li></ul> <p>Ähnliches gilt für Kanzleien und Steuerberatungen. Im Zweifel klären Sie das mit einer Fachperson.</p>"
+    },
+    {
+      "h2": "Fragen an den Chatbot-Anbieter",
+      "html": "<ol><li>Wo werden die Daten verarbeitet und gespeichert?</li><li>Welche KI-Modelle nutzt der Bot, und werden Gesprächsdaten zum Training verwendet?</li><li>Gibt es einen Auftragsverarbeitungsvertrag?</li><li>Wie lange werden Gespräche gespeichert, und kann ich sie löschen?</li><li>Setzt das Chatfenster Cookies oder speichert es etwas im Browser?</li><li>Welche Textbausteine für die Datenschutzerklärung stellt der Anbieter bereit?</li></ol> <p>Die Antwort auf Frage 5 entscheidet mit, ob der Chat im <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a> berücksichtigt werden muss. Wenn Ihnen der Speicherort wichtig ist, lesen Sie auch <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>. Bei <a href=\"https://pipebot.at/\">Pipebot</a> beantworten wir diese Fragen gern vor dem Start, damit Sie die Datenschutzerklärung richtig ergänzen können.</p>"
+    },
+    {
+      "h2": "Checkliste vor dem Livegang",
+      "html": "<ul><li>Datenschutzerklärung ergänzt (Anbieter, Zweck, Daten, Speicherdauer).</li><li>Auftragsverarbeitungsvertrag abgeschlossen.</li><li>Hinweis im Chatfenster, dass es sich um eine KI handelt.</li><li>Hinweis, keine sensiblen Daten einzugeben, wo das relevant ist.</li><li>Speicherfristen festgelegt.</li><li>Geklärt, ob der Chat im Cookie-Banner auftauchen muss.</li><li>Festgelegt, wer im Betrieb Zugriff auf Gesprächsverläufe hat.</li></ul> <p>Allgemeine Informationen bieten die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> und die <a href=\"https://www.wko.at/\">WKO</a>. Für Einzelfragen sind sie, eine Anwältin oder ein Anwalt die richtigen Stellen. Einen breiteren Überblick zum Thema gibt der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein KI-Chatbot mit der DSGVO vereinbar?",
+      "a": "Ja, wenn er richtig eingesetzt wird. Dazu gehören eine Information in der Datenschutzerklärung, ein Auftragsverarbeitungsvertrag mit dem Anbieter, möglichst wenige erhobene Daten, festgelegte Speicherfristen und geklärte Datenflüsse, besonders bei Verarbeitung außerhalb der EU. Ob alles passt, hängt vom Einzelfall ab, bei Unsicherheit helfen WKO, Anwalt oder Datenschutzbehörde."
+    },
+    {
+      "q": "Muss ich kennzeichnen, dass mein Chatbot eine KI ist?",
+      "a": "Der EU AI Act sieht vor, dass Menschen erkennen können, wenn sie mit einem KI-System interagieren, sofern das nicht offensichtlich ist. Ein kurzer, klarer Hinweis im Chatfenster ist daher empfehlenswert. Er schafft zudem Vertrauen. Einen Bot, der sich als Mensch ausgibt, sollten Sie in keinem Fall einsetzen, auch nicht aus Marketinggründen."
+    },
+    {
+      "q": "Braucht ein Chatbot eine Einwilligung im Cookie-Banner?",
+      "a": "Das hängt davon ab, was das Chatfenster technisch macht. Speichert es Informationen im Browser, die nicht unbedingt nötig sind, oder lädt es Inhalte von Drittanbietern schon beim Seitenaufruf, kann eine Einwilligung erforderlich sein. Fragen Sie den Anbieter genau, was gespeichert wird, und stimmen Sie den Cookie-Banner entsprechend ab."
+    },
+    {
+      "q": "Darf ich Gesprächsverläufe meines Chatbots auswerten?",
+      "a": "Gesprächsverläufe zu lesen, um Antworten und Website zu verbessern, ist ein üblicher Zweck, der in der Datenschutzerklärung genannt werden sollte. Achten Sie darauf, nur Berechtigten Zugriff zu geben, Speicherfristen einzuhalten und die Daten nicht für andere Zwecke wie Werbung zu verwenden, wenn dafür keine Grundlage besteht. Im Zweifel fragen Sie eine Fachperson."
+    },
+    {
+      "q": "Was passiert, wenn jemand sensible Daten in den Chat schreibt?",
+      "a": "Das lässt sich nie ganz verhindern. Sinnvoll sind ein Hinweis im Chatfenster, keine Gesundheits- oder Finanzdaten einzugeben, ein Bot, der solche Themen an einen Menschen verweist, und kurze Speicherfristen. Wenn sensible Daten im Verlauf auftauchen, sollten Sie sie nicht weiterverwenden und gemäß Ihren Löschregeln entfernen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-und-datenschutz/",
+    "/wissen/datenschutzerklaerung/",
+    "/wissen/eu-ai-act/",
+    "/glossar/dsgvo/",
+    "/leistungen/ki-chatbot/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

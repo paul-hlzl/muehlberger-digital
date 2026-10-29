@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/prompt/",
+  "title": "Prompt einfach erklärt: Anweisungen an die KI",
+  "description": "Prompt einfach erklärt: Was eine Anweisung an ChatGPT oder Claude ist, wie gute Prompts aufgebaut sind und wie Betriebe damit bessere Ergebnisse erzielen.",
+  "h1": "Prompt – die Anweisung an die KI",
+  "kicker": "Glossar · KI",
+  "lead": "Ein Prompt ist die Eingabe, mit der Sie einem KI-Sprachmodell sagen, was es tun soll, etwa eine Frage, eine Aufgabe oder ein Text mit Anweisungen. Je klarer der Prompt, desto brauchbarer ist in der Regel das Ergebnis.",
+  "fakten": [
+    "Gute Prompts nennen Rolle, Aufgabe, Kontext und gewünschtes Format",
+    "Beispiele im Prompt verbessern Stil und Treffsicherheit",
+    "Vertrauliche Daten gehören nicht ungeprüft in einen Prompt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schwacher und guter Prompt im Vergleich",
+      "html": "<p>Ein Gärtner tippt „Schreib einen Text über Heckenschnitt“ und bekommt einen allgemeinen Aufsatz. Besser ist ein Prompt mit Kontext:</p><ul><li>Rolle: „Du schreibst für einen Gartenbaubetrieb im Mostviertel.“</li><li>Aufgabe: „Schreib einen kurzen Beitrag für die Website, wann man Hecken schneiden sollte.“</li><li>Vorgaben: „Sie-Form, österreichisches Deutsch, höchstens 150 Wörter, am Ende Hinweis auf unseren Schnittservice.“</li></ul><p>Das Ergebnis passt deutlich besser und muss kaum nachbearbeitet werden. Fakten wie Schnittzeiten prüft der Gärtner trotzdem selbst.</p>"
+    },
+    {
+      "h2": "Warum gutes Prompten für KMU zählt",
+      "html": "<p>Die Qualität der KI-Ergebnisse hängt stark von der Eingabe ab. Wer ein paar Grundregeln kennt, spart sich viele Korrekturschleifen. Bewährte Prompts lassen sich als Vorlage im Team teilen, etwa für Angebote oder Antworten auf Bewertungen.</p><p>Praxisbeispiele zeigen die Ratgeber <a href=\"/wissen/chatgpt-im-betrieb/\">ChatGPT im Betrieb</a> und <a href=\"/wissen/ki-texte-eigener-stil/\">KI-Texte im eigenen Stil</a>. Wie ein Sprachmodell den Prompt verarbeitet, erklärt der Eintrag <a href=\"/glossar/large-language-model/\">Large Language Model</a>; eine Einführung fürs Team bietet <a href=\"/wissen/ki-schulung/\">KI-Schulung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich Prompts auf Englisch schreiben?",
+      "a": "Nein. Aktuelle Sprachmodelle verstehen Deutsch sehr gut und antworten auch auf Deutsch. Wenn Sie österreichische Begriffe wie „Jänner“ oder „Erdäpfel“ bevorzugen, sagen Sie das im Prompt ausdrücklich. Hilfreich ist auch ein kurzer Beispieltext in Ihrem gewohnten Stil, an dem sich das Modell orientieren kann. Englisch bringt für normale Büroaufgaben keinen spürbaren Vorteil."
+    },
+    {
+      "q": "Was ist ein Systemprompt?",
+      "a": "Ein Systemprompt ist eine Grundanweisung, die im Hintergrund vor jedem Gespräch an das Modell geht, etwa „Du bist der Assistent einer Zahnarztpraxis, antworte nur zu Praxisthemen“. Nutzer sehen ihn meist nicht. Chatbots auf Websites arbeiten mit solchen Systemprompts, damit sie im richtigen Ton bleiben und nicht über beliebige Themen sprechen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatgpt-im-betrieb/",
+    "/glossar/large-language-model/",
+    "/wissen/ki-texte-eigener-stil/",
+    "/wissen/ki-schulung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

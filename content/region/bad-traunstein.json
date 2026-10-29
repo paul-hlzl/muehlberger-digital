@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/bad-traunstein/",
+  "title": "Digitalagentur Bad Traunstein: Gäste online erreichen",
+  "description": "Für Ferienwohnungen, Zimmervermieter und Gastbetriebe in Bad Traunstein im Bezirk Zwettl: Website, direkte Anfragen und KI-Chatbot, persönlich beraten.",
+  "h1": "Digitalagentur für Bad Traunstein",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Wer in Bad Traunstein Gäste beherbergt oder bewirtet, wird meist online gefunden, lange bevor jemand anreist. Mühlberger Digital hilft Gastgeberinnen und Gastgebern, ihre Unterkunft verständlich zu zeigen, Anfragen direkt zu bekommen und Standardfragen automatisch zu beantworten. Beraten wird persönlich, aus Ottenschlag im selben Bezirk.",
+  "fakten": [
+    "Bad Traunstein liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Ferienwohnungen, Zimmervermietung und Gastbetriebe",
+    "Pipebot beantwortet Gästefragen rund um die Uhr, 19 € im Monat",
+    "Erstgespräch kostenlos, persönlich oder per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Gäste suchen Ruhe und wollen vorher alles wissen",
+      "html": "<p>Wer im Waldviertel Urlaub macht, sucht oft Ruhe, Natur und Abstand vom Alltag. Vor der Buchung wollen Gäste aber ganz praktische Dinge wissen: Wie sieht das Zimmer aus, gibt es Frühstück, sind Hunde erlaubt, wo kann man in der Nähe wandern? Eine Unterkunft, die das auf der eigenen Website klar beantwortet, wirkt vertrauenswürdiger als ein Eintrag mit drei Fotos.</p><p>Wie eine gute Seite für Unterkünfte aufgebaut ist, beschreibt die Seite für <a href=\"/branchen/ferienwohnung/\">Ferienwohnungen</a>.</p>"
+    },
+    {
+      "h2": "Direkte Anfragen zusätzlich zur Buchungsplattform",
+      "html": "<p>Buchungsplattformen bringen Reichweite, kosten aber Provision. Viele Gastgeber wünschen sich deshalb zusätzlich direkte Anfragen von Stammgästen und über Empfehlungen. Dafür braucht es eine eigene Website mit Preisen, Verfügbarkeit oder zumindest einem klaren Anfrageformular.</p><p>Ganz auf Plattformen zu verzichten, lohnt sich für die wenigsten. Sinnvoll ist meist die Kombination: Plattform für neue Gäste, eigene Website für Wiederkehrer. Wie man auch außerhalb der Hauptsaison Gäste anspricht, erklärt der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+    },
+    {
+      "h2": "Gästefragen automatisch beantworten",
+      "html": "<p>Die meisten Fragen von Gästen wiederholen sich: Anreisezeit, Parken, Bettwäsche, Haustiere. Ein Website-Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> antwortet darauf rund um die Uhr, nur mit Ihren Inhalten und im Design Ihrer Website. Ist er unsicher, verbindet er mit Ihnen. Er kostet 19 € im Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis.</p><p>Ob Gäste Ihre Unterkunft auch über ChatGPT oder Gemini finden, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden.</p>"
+    },
+    {
+      "h2": "Persönliche Beratung im Bezirk Zwettl",
+      "html": "<p>Bad Traunstein liegt wie Ottenschlag im Bezirk Zwettl. Jonas Mühlberger kommt für das kostenlose Erstgespräch gern zu Ihnen, dann sieht er gleich, was Gäste bei Ihnen erwartet. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, auch telefonisch oder per Video.</p><p>Weitere Informationen: <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a>, <a href=\"/regionen/waldviertel/\">Waldviertel</a> und <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als kleine Ferienwohnung eine eigene Website?",
+      "a": "Wenn Sie ausschließlich über eine Plattform vermieten und zufrieden sind, nicht zwingend. Eine eigene Website lohnt sich, sobald Sie Stammgäste direkt buchen lassen, Empfehlungen aufnehmen oder unabhängiger von Plattformgebühren werden wollen. Schon eine Seite mit guten Fotos, Ausstattung, Preisen und Anfrageformular reicht für viele Gastgeber. Die Starter-Website beginnt bei 2.500 € einmalig."
+    },
+    {
+      "q": "Kann der Chatbot Buchungen abwickeln?",
+      "a": "Pipebot beantwortet Fragen mit den Inhalten Ihrer Website und verbindet mit Ihnen, wenn er unsicher ist. Er kann auf Ihr Anfrageformular oder Ihren Buchungskalender verweisen, wickelt Buchungen aber nicht selbst ab. Eine Anbindung an ein Buchungssystem wäre ein individuelles Projekt, dessen Aufwand und Preis wir nach dem Erstgespräch einschätzen."
+    },
+    {
+      "q": "Wie werde ich in KI-Suchen wie ChatGPT als Unterkunft genannt?",
+      "a": "KI-Suchen stützen sich auf Inhalte, die sie im Netz finden und verstehen: Ihre Website, Ihren Google-Eintrag, Bewertungen und Erwähnungen auf anderen Seiten. Klare Texte zu Lage, Ausstattung und Zielgruppe helfen dabei. Der Gratis-Check von Hittaro zeigt, wie oft Ihr Betrieb heute genannt wird. Eine Nennung garantieren kann niemand, messen und verbessern lässt sie sich aber."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/branchen/ferienwohnung/",
+    "/leistungen/ki-chatbot/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "ki-sichtbarkeit"
+  ]
+}

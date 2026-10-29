@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/weingut/",
+  "title": "Weingüter online: Weinliste, Verkostung und Weinversand",
+  "description": "Für Weingüter: die Weinliste aktuell halten, Verkostungen ab Hof online buchen lassen, Weinversand mit Altersprüfung planen und Gastronomie als Kunden gewinnen.",
+  "h1": "Digitale Lösungen für Weingüter",
+  "kicker": "Branche · Weingut",
+  "lead": "Weingüter verkaufen über mehrere Wege gleichzeitig: ab Hof, per Versand, an Gastronomie und Vinotheken. Digital entscheidend sind eine Weinliste, die wirklich aktuell ist, eine einfache Buchung für Verkostungen, ein Weinversand, der die besonderen Regeln für Alkohol beachtet, und eine gezielte Ansprache von Gastronomiebetrieben.",
+  "fakten": [
+    "Weinliste mit Jahrgang und Verfügbarkeit aktuell halten, Ausverkauftes kennzeichnen",
+    "Verkostungen ab Hof online buchbar machen, auch für Gruppen",
+    "Weinversand braucht Altersbestätigung und klare Versandbedingungen",
+    "SightUp findet Restaurants und Vinotheken in der Nähe, Gratis-Paket mit 3 Suchen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Weinliste ist das Herz und veraltet am schnellsten",
+      "html": "<p>Ein Kunde liest online vom Grünen Veltliner aus der Ried, die ihm im Vorjahr so geschmeckt hat, fährt hin und hört: „Der ist leider schon aus.“ Oder der neue Jahrgang ist längst im Keller, aber auf der Website steht noch der alte. Beides passiert, weil die Weinliste meist einmal im Jahr aktualisiert wird.</p><p>Eine gute Weinliste nennt pro Wein Sorte, Jahrgang, Lage, kurze Beschreibung, Preis ab Hof und Verfügbarkeit. Ausverkaufte Weine bleiben sichtbar, aber gekennzeichnet, mit Hinweis, wann der nächste Jahrgang kommt. Wichtig ist, dass Sie die Liste selbst in wenigen Minuten ändern können, ohne jemanden beauftragen zu müssen.</p>"
+    },
+    {
+      "h2": "Verkostung ab Hof nach Voranmeldung",
+      "html": "<p>Viele Weingüter bieten Verkostungen an, aber nur nach Vereinbarung, weil die Familie im Weingarten oder im Keller steht. Die Abstimmung per Telefon kostet Zeit, besonders bei Gruppen wie Betriebsausflügen, Geburtstagsrunden oder Radlergruppen.</p><p>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Buchung</a> mit festen Verkostungsfenstern, Gruppengröße und optionaler Jause schafft Planbarkeit. Für größere Gruppen kann ein Anfrageformular mit Wunschtermin, Personenzahl und Budget sinnvoller sein als eine direkte Buchung.</p>"
+    },
+    {
+      "h2": "Weinversand: ein Onlineshop mit besonderen Regeln",
+      "html": "<p>Ein Weinshop klingt einfach, hat aber Eigenheiten: Alkohol darf nicht an Minderjährige verkauft werden, Flaschen brauchen bruchsichere Verpackung, und beim Versand ins Ausland, etwa nach Deutschland, können zusätzliche Abgaben und Regeln gelten. Wir geben dazu keine Rechtsauskunft, Details klären Sie mit der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> oder Ihrem Steuerberater.</p><p>Technisch umsetzbar sind Altersbestätigung, Mindestbestellmengen pro Karton und Versandkosten nach Flaschenzahl. Was ein Shop rechtlich braucht, beschreibt der Ratgeber <a href=\"/wissen/agb-onlineshop/\">AGB im Onlineshop</a>. Details zum Projekt finden Sie unter <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>; der Preis wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Gäste aus dem Ausland: mehrsprachig und für Touristen",
+      "html": "<p>In bekannten Weinbaugebieten wie der Wachau oder dem Kamptal kommen viele Gäste aus dem Ausland, oft mit dem Rad oder auf der Durchreise. Sie suchen am Handy nach Weingütern mit Ab-Hof-Verkauf und wollen wissen, ob jemand da ist und ob man Englisch spricht.</p><p>Schon eine kurze englische Seite mit Öffnungszeiten, Verkostung und Anfahrt hilft. Wann sich eine vollständig mehrsprachige Website lohnt, erklärt der Ratgeber <a href=\"/wissen/mehrsprachige-website/\">Mehrsprachige Website</a>.</p>"
+    },
+    {
+      "h2": "Gastronomie und Vinotheken als Kunden gewinnen",
+      "html": "<p>Ein Wein auf der Karte eines guten Restaurants ist gleichzeitig Umsatz und Werbung. Der Weg dorthin führt über persönliche Kontakte, Weinmessen und gezielte Ansprache. Wer aktiv auf Betriebe zugehen will, braucht eine gute Auswahl.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in Ihrer Umgebung, etwa Restaurants, Hotels oder Vinotheken, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst 3 Suchen pro Monat. Mehr zur Vorgangsweise auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Lesehelfer finden und der nächste Schritt",
+      "html": "<p>Zur Lese braucht es jedes Jahr helfende Hände. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben.</p><p>Eine Starter-Website mit Weinliste, Verkostung, Über uns, Anfahrt und Kontakt kostet ab 2.500 € einmalig. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, ob Ihr Weingut zuerst eine bessere Weinliste, eine Verkostungsbuchung oder einen Shop braucht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich ein eigener Onlineshop für ein kleines Weingut?",
+      "a": "Wenn Sie viele Stammkunden haben, die nicht in der Nähe wohnen, oft ja. Bedenken Sie aber Verpackung, Versandkosten, Altersprüfung und mögliche Abgaben beim Versand ins Ausland. Für sehr kleine Weingüter reicht oft eine Weinliste mit Bestellformular, bei dem Sie die Bestellung persönlich bestätigen. Rechtliche Details klären Sie mit der Wirtschaftskammer oder Ihrem Steuerberater."
+    },
+    {
+      "q": "Wie halte ich die Weinliste auf der Website aktuell?",
+      "a": "Am einfachsten, wenn Sie die Liste selbst bearbeiten können, ohne technisches Wissen. Pro Wein sollten Sorte, Jahrgang, Lage, Beschreibung, Preis und Verfügbarkeit gepflegt werden. Ausverkaufte Weine kennzeichnen Sie, statt sie zu löschen, und nennen, wann der nächste Jahrgang kommt. So vermeiden Sie enttäuschte Kunden, die wegen eines vergriffenen Weins anreisen."
+    },
+    {
+      "q": "Sollte ein Weingut Verkostungen online buchbar machen?",
+      "a": "Wenn Sie Verkostungen nur nach Voranmeldung anbieten und regelmäßig Gruppen kommen, spart eine Buchung viel Telefonzeit. Feste Zeitfenster, Gruppengröße und Zusatzoptionen wie eine Jause lassen sich vorab festlegen. Für größere Gruppen ist ein Anfrageformular oft besser. Wer fast nur spontane Laufkundschaft hat, kommt mit klaren Öffnungszeiten aus."
+    },
+    {
+      "q": "Wie finde ich Restaurants, die meinen Wein führen könnten?",
+      "a": "Neben Weinmessen und Empfehlungen hilft ein gezielter Blick auf Gastronomiebetriebe und Vinotheken in Ihrer Umgebung. SightUp findet passende Betriebe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Persönlicher Kontakt und eine Probeflasche bleiben trotzdem der wichtigste Schritt."
+    }
+  ],
+  "verwandt": ["/branchen/heuriger/", "/branchen/hofladen/", "/wissen/website-fuer-tourismus/", "/leistungen/onlineshop-erstellen/", "/wissen/regionale-produkte-online/"],
+  "checks": ["neukunden-finden", "website-entwurf"]
+}

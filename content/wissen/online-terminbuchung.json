@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/online-terminbuchung/",
+  "title": "Online-Terminbuchung einführen: Leitfaden",
+  "description": "Online-Terminbuchung einführen: für wen sie passt, wie Sie Terminarten und Regeln festlegen, das richtige Tool wählen und Terminausfälle verringern.",
+  "h1": "Online-Terminbuchung einführen: So gelingt der Umstieg",
+  "kicker": "Ratgeber · Termine",
+  "lead": "Online-Terminbuchung lohnt sich vor allem bei planbaren, ähnlichen Terminen, etwa beim Friseur, in der Physiotherapie, Fahrschule oder Beratung. Für die Einführung legen Sie zuerst Terminarten, Dauer und Regeln fest, wählen dann ein Werkzeug, das mit Ihrem Kalender zusammenarbeitet, und richten Erinnerungen ein. Für Termine, die eine Besichtigung oder Einschätzung brauchen, ist ein Anfrageformular oft besser.",
+  "fakten": [
+    "Passt für planbare Termine mit bekannter Dauer",
+    "Vor dem Tool kommen Terminarten, Dauer, Puffer und Stornoregeln",
+    "Erinnerungen per E-Mail oder SMS verringern vergessene Termine",
+    "Telefonische Buchung als Alternative behalten, vor allem für ältere Kunden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Für wen Online-Terminbuchung passt – und für wen nicht",
+      "html": "<p><strong>Gut geeignet</strong> sind Betriebe, deren Termine sich ähneln und deren Dauer vorher bekannt ist: <a href=\"/branchen/friseur/\">Friseursalons</a>, Kosmetikstudios, <a href=\"/branchen/physiotherapie/\">Physiotherapie</a>, Massage, Fahrschulen, Nachhilfe, Beratungsgespräche, Werkstätten für Reifenwechsel oder Service.</p><p><strong>Weniger geeignet</strong> sind Termine, die eine Vorabklärung brauchen. Ein Tischler kann nicht online „Küche planen, 60 Minuten“ anbieten, wenn er vorher wissen muss, wo, was und wie groß. Hier ist ein gutes Anfrageformular sinnvoller, eventuell mit anschließender Terminbuchung für die Besichtigung.</p><p>Ehrlich gesagt: Wenn Sie nur wenige Termine pro Woche vergeben und die Kunden gern anrufen, bringt ein Buchungssystem mehr Aufwand als Nutzen.</p>"
+    },
+    {
+      "h2": "Vorbereitung: Terminarten, Dauer und Regeln",
+      "html": "<p>Die meiste Arbeit steckt nicht im Werkzeug, sondern in den Entscheidungen davor. Klären Sie:</p><ul> <li><strong>Terminarten:</strong> Welche Leistungen sind online buchbar? Lieber wenige, klar benannte als zwanzig Varianten.</li><li><strong>Dauer und Puffer:</strong> Wie lange dauert jede Leistung, und wie viel Zeit brauchen Sie dazwischen für Aufräumen, Dokumentation oder Anfahrt?</li><li><strong>Verfügbarkeit:</strong> Welche Zeiten sind buchbar, welche halten Sie für Telefon, Notfälle oder Stammkunden frei?</li><li><strong>Vorlauf:</strong> Wie kurzfristig darf gebucht werden, wie weit im Voraus?</li><li><strong>Storno:</strong> Bis wann kann kostenlos abgesagt werden? Was passiert bei Nichterscheinen?</li><li><strong>Mitarbeitende:</strong> Kann der Kunde wählen, bei wem er bucht?</li></ul> <p>Schreiben Sie diese Regeln auf, bevor Sie ein Tool testen. Dann erkennen Sie sofort, ob es zu Ihnen passt.</p>"
+    },
+    {
+      "h2": "Das passende Werkzeug auswählen",
+      "html": "<p>Es gibt viele Buchungssysteme, von einfachen Kalenderfunktionen bis zu Branchenlösungen mit Kassa und Kundenkartei. Diese Kriterien helfen bei der Auswahl:</p><ul> <li>Lässt es sich mit Ihrem bestehenden Kalender abgleichen, damit es keine Doppelbuchungen gibt?</li><li>Funktioniert die Buchung am Handy einfach, in wenigen Schritten?</li><li>Gibt es automatische Bestätigungen und Erinnerungen?</li><li>Können Sie Puffer, Vorlauf und Stornoregeln einstellen?</li><li>Wo werden die Daten gespeichert, und gibt es einen Auftragsverarbeitungsvertrag?</li><li>Lässt es sich optisch in Ihre Website einbinden?</li><li>Wie sind Kosten und Kündigung geregelt?</li></ul> <p>Testen Sie zwei, drei Lösungen mit einer echten Woche Ihres Kalenders. So merken Sie schnell, welche im Alltag funktioniert.</p>"
+    },
+    {
+      "h2": "Einbinden: Website, Google-Profil und Telefon",
+      "html": "<p>Ein Buchungssystem bringt nur etwas, wenn Kunden es finden. Binden Sie den Buchungsknopf gut sichtbar ein:</p><ul> <li>auf der Startseite und auf jeder Leistungsseite der Website,</li><li>im Google-Unternehmensprofil, siehe <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>,</li><li>in der E-Mail-Signatur und in der Abwesenheitsnachricht,</li><li>in der Ansage des Anrufbeantworters.</li></ul> <p>Behalten Sie die telefonische Buchung trotzdem bei. Nicht alle Kunden wollen oder können online buchen, gerade ältere Stammkunden. Wenn Ihre Website für die Buchung neu aufgebaut werden soll, finden Sie unter <a href=\"/leistungen/website-erstellen/\">Website erstellen</a> die Starter-Website ab 2.500 € einmalig. Für Praxen gibt der Ratgeber <a href=\"/wissen/praxis-website/\">Praxis-Website</a> zusätzliche Hinweise.</p>"
+    },
+    {
+      "h2": "Vergessene Termine verringern",
+      "html": "<p>Ein Termin, zu dem niemand kommt, kostet besonders in kleinen Betrieben viel. Online-Buchung kann helfen, das zu verringern, wenn sie richtig eingestellt ist:</p><ul> <li><strong>Erinnerung:</strong> eine Nachricht am Vortag mit Uhrzeit, Adresse und Absage-Link.</li><li><strong>Einfache Absage:</strong> Wer leicht absagen kann, tut es eher, statt einfach nicht zu kommen. Der frei gewordene Termin ist sofort wieder buchbar.</li><li><strong>Klare Stornoregel:</strong> sichtbar bei der Buchung, freundlich formuliert.</li><li><strong>Bestätigung:</strong> Bei langen Terminen eine kurze Rückbestätigung verlangen.</li></ul> <p>Ob Ausfallgebühren in Ihrer Branche üblich und zulässig sind und wie Sie sie formulieren, klären Sie am besten mit der WKO oder Ihrer Interessenvertretung.</p>"
+    },
+    {
+      "h2": "Datenschutz und Einführung bei Kunden",
+      "html": "<p>Eine Terminbuchung erhebt personenbezogene Daten: Name, Kontakt, gewählte Leistung. In Praxen kann schon die Art des Termins Rückschlüsse auf die Gesundheit erlauben. Fragen Sie deshalb nur ab, was Sie wirklich brauchen, ergänzen Sie die Datenschutzerklärung und schließen Sie mit dem Anbieter einen Auftragsverarbeitungsvertrag ab. Das ist eine allgemeine Orientierung, im Einzelfall helfen WKO oder eine Fachperson.</p><p>Für die Einführung reicht oft ein kurzer Hinweis bei jedem Termin, auf der Website und im Google-Profil. Nach einigen Wochen sehen Sie, wie viele Termine online kommen und wo es hakt. Wer zusätzlich Fragen rund um die Uhr beantworten möchte, kombiniert die Buchung mit einem Chatbot wie <a href=\"/produkte/pipebot/\">Pipebot</a>, der auf die Buchungsseite verweisen kann. Weitere Ideen bietet der Ratgeber <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a> für Gastbetriebe.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Online-Terminbuchungssystem?",
+      "a": "Das reicht von kostenlosen Kalenderfunktionen bis zu Branchenlösungen mit Monatsgebühr pro Mitarbeiter, je nach Funktionsumfang. Die aktuellen Preise stehen bei den jeweiligen Anbietern. Wichtiger als der Grundpreis ist, ob das System zu Ihren Abläufen passt, ob Erinnerungen enthalten sind und wie Kündigung und Datenexport geregelt sind."
+    },
+    {
+      "q": "Wie verhindere ich Doppelbuchungen?",
+      "a": "Das Buchungssystem muss mit Ihrem Kalender abgeglichen sein, damit Termine, die Sie telefonisch oder privat eintragen, online nicht mehr buchbar sind. Prüfen Sie vor der Auswahl, ob das mit Ihrem Kalender funktioniert. Außerdem sollten alle im Team Termine nur noch in diesem einen System oder dem verbundenen Kalender eintragen, nicht zusätzlich auf Papier."
+    },
+    {
+      "q": "Buchen ältere Kunden überhaupt online?",
+      "a": "Viele ja, manche nicht. Deshalb sollten Sie die telefonische Buchung nicht abschaffen, sondern die Online-Buchung als zusätzlichen Weg anbieten. Oft entlastet es das Telefon schon deutlich, wenn ein Teil der Kunden online bucht. Ein einfacher Ablauf mit wenigen Schritten und großer Schrift am Handy erhöht die Bereitschaft auch bei weniger technikaffinen Kunden."
+    },
+    {
+      "q": "Darf ich Ausfallgebühren für nicht wahrgenommene Termine verlangen?",
+      "a": "Das hängt von Branche, Vereinbarung und Einzelfall ab. Grundsätzlich muss die Regel vorher klar vereinbart sein, etwa bei der Buchung sichtbar und bestätigt. Ob und in welcher Form Ausfallgebühren zulässig sind, ist eine rechtliche Frage. Lassen Sie sich dazu von der WKO, Ihrer Interessenvertretung oder einer Anwältin beraten, bevor Sie solche Gebühren einführen."
+    },
+    {
+      "q": "Kann ein Chatbot Termine online buchen?",
+      "a": "Ein Website-Chatbot kann auf Ihre Buchungsseite verweisen oder Terminwünsche aufnehmen und an Sie weitergeben. Direkt im Kalender buchen kann er nur, wenn er mit dem Buchungssystem verbunden ist, was eine individuelle Lösung erfordert. Für viele Betriebe reicht die Kombination: Der Chatbot beantwortet Fragen, die Buchung läuft über das Terminsystem."
+    }
+  ],
+  "verwandt": [
+    "/wissen/online-reservierung/",
+    "/wissen/praxis-website/",
+    "/branchen/friseur/",
+    "/branchen/physiotherapie/",
+    "/wissen/erreichbarkeit/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

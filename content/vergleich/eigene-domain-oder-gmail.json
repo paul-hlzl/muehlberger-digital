@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/eigene-domain-oder-gmail/",
+  "title": "Eigene Domain oder Gmail-Adresse für den Betrieb?",
+  "description": "E-Mail mit eigener Domain oder kostenlose Gmail-Adresse? Wirkung, Kosten, Unabhängigkeit und Zustellbarkeit im Vergleich – mit klarer Empfehlung.",
+  "h1": "Eigene Domain oder Gmail-Adresse?",
+  "kicker": "Vergleich · E-Mail",
+  "lead": "Eine Gmail-Adresse ist kostenlos und in Minuten eingerichtet, wirkt im Geschäftsverkehr aber weniger professionell und hängt an einem einzelnen Konto. Eine E-Mail-Adresse mit eigener Domain wie office@ihr-betrieb.at kostet wenig, schafft Vertrauen und bleibt Ihnen erhalten, auch wenn Sie den Anbieter wechseln. Für einen Betrieb ist die eigene Domain fast immer die bessere Wahl.",
+  "fakten": [
+    "Gmail-Adresse: kostenlos, sofort nutzbar, aber an ein Google-Konto gebunden",
+    "Eigene Domain: professioneller Auftritt, mehrere Adressen, anbieterunabhängig",
+    "Die Domain sollte immer auf Ihren Namen registriert sein",
+    "Für gute Zustellbarkeit: Einträge wie SPF, DKIM und DMARC einrichten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Worin sich die beiden unterscheiden",
+      "html": "<p>Bei einer <strong>Gmail-Adresse</strong> wie ihr.betrieb@gmail.com gehört der Teil nach dem @ Google. Sie nutzen ein kostenloses Konto des Anbieters.</p><p>Bei einer <strong>eigenen Domain</strong> wie office@ihr-betrieb.at gehört Ihnen die Adresse (siehe <a href=\"/glossar/domain/\">Glossar: Domain</a>). Das Postfach selbst kann bei verschiedenen Anbietern liegen – bei Ihrem Hosting, bei Microsoft, bei Google oder bei einem europäischen E-Mail-Anbieter. Wechseln Sie den Anbieter, bleibt die Adresse gleich. Wie die Einrichtung funktioniert, zeigt <a href=\"/wissen/e-mail-mit-eigener-domain/\">E-Mail mit eigener Domain</a>.</p>"
+    },
+    {
+      "h2": "Was für eine Gmail-Adresse spricht",
+      "html": "<ul><li><strong>Kostenlos</strong> und ohne Technik sofort nutzbar.</li><li><strong>Zuverlässig</strong> im Alltag, mit guter Spam-Erkennung und App fürs Handy.</li><li><strong>Gut für den Übergang</strong>, solange noch kein Firmenname oder keine Website feststeht.</li></ul><p>Typische Situation: Ein Student bietet nebenbei Nachhilfe an und weiß noch nicht, ob daraus mehr wird. Für ihn reicht vorerst eine eigene, sachliche Gmail-Adresse.</p><p>Der Nachteil zeigt sich später: Wird das Konto gesperrt oder vergessen Sie das Passwort, ist auch die Geschäftsadresse weg. Und wer die Adresse auf Visitenkarten und Fahrzeuge gedruckt hat, muss bei einem Wechsel alles ändern.</p>"
+    },
+    {
+      "h2": "Was für eine eigene Domain spricht",
+      "html": "<ul><li><strong>Vertrauen:</strong> Kunden, Lieferanten und Behörden sehen sofort, dass ein echter Betrieb dahintersteht. Mehr dazu unter <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</li><li><strong>Mehrere Adressen:</strong> office@, rechnung@ oder bewerbung@ – und für jede Mitarbeiterin eine eigene.</li><li><strong>Unabhängigkeit:</strong> Postfach-Anbieter lassen sich wechseln, die Adresse bleibt.</li><li><strong>Einheitlicher Auftritt:</strong> Website und E-Mail tragen denselben Namen.</li></ul><p>Typische Situation: Ein Elektrotechnikbetrieb mit drei Monteuren, die alle vom Handy aus Fotos und Berichte an Kunden schicken. Mit eigenen Adressen bleibt klar, wer was geschrieben hat, und wenn jemand den Betrieb verlässt, bleibt das Postfach beim Betrieb.</p>"
+    },
+    {
+      "h2": "Eigene Domain und Gmail im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Gmail-Adresse</th><th>Adresse mit eigener Domain</th></tr></thead><tbody><tr><td>Kosten</td><td>kostenlos</td><td>Domain plus Postfach, meist überschaubar</td></tr><tr><td>Wirkung auf Kunden</td><td>eher privat</td><td>professionell</td></tr><tr><td>Mehrere Adressen</td><td>je Adresse ein eigenes Konto</td><td>beliebig unter einer Domain</td></tr><tr><td>Anbieterwechsel</td><td>Adresse geht verloren</td><td>Adresse bleibt</td></tr><tr><td>Einrichtung</td><td>in Minuten</td><td>einmalige Einrichtung, z. B. durch Dienstleister</td></tr><tr><td>Zustellbarkeit</td><td>gut</td><td>gut, wenn SPF, DKIM und DMARC eingerichtet sind</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Worauf Sie bei der eigenen Domain achten sollten",
+      "html": "<ol><li><strong>Domain auf Ihren Namen</strong> registrieren, nicht auf den der Agentur. Für .at-Domains ist <a href=\"https://www.nic.at/\">nic.at</a> die zentrale Registrierungsstelle; registriert wird über einen Anbieter. Tipps: <a href=\"/wissen/at-domain-registrieren/\">.at-Domain registrieren</a>.</li><li><strong>Technische Einträge</strong> setzen lassen: SPF, DKIM und DMARC helfen, dass Ihre E-Mails nicht im Spam landen und niemand in Ihrem Namen fälschen kann.</li><li><strong>Postfach-Anbieter</strong> nach Speicherort und Bedienung wählen.</li><li><strong>Alte Adresse</strong> einige Zeit weiterleiten, damit keine Nachricht verloren geht.</li></ol>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Jeder eingetragene Betrieb mit Kunden:</strong> eigene Domain, ohne Wenn und Aber.</li><li><strong>Reine Testphase einer Idee:</strong> Gmail ist vorübergehend in Ordnung – sichern Sie sich die Wunschdomain aber trotzdem frühzeitig.</li><li><strong>Sie haben schon eine Website:</strong> Dann haben Sie meist bereits eine Domain, die nur noch für E-Mail eingerichtet werden muss.</li></ul><p>Bei einer neuen <a href=\"/leistungen/website-erstellen/\">Website über Mühlberger Digital</a> klären wir Domain und E-Mail gleich mit.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet eine E-Mail-Adresse mit eigener Domain?",
+      "a": "Sie zahlen für die Domain, in der Regel jährlich, und für das Postfach, das oft im Hosting enthalten ist oder als eigenes Abo pro Person gebucht wird. Die Kosten sind für kleine Betriebe meist überschaubar. Genaue Preise hängen vom Anbieter und vom Umfang ab. Wenn Sie ohnehin eine Website planen, wird die E-Mail meist gleich mit eingerichtet."
+    },
+    {
+      "q": "Kann ich meine eigene Domain trotzdem mit Gmail nutzen?",
+      "a": "Ja, Google bietet für Unternehmen Postfächer mit eigener Domain an, die sich in der gewohnten Gmail-Oberfläche bedienen lassen. Ähnliche Angebote gibt es von Microsoft und von vielen europäischen Anbietern. Sie behalten die eigene Adresse und können den Anbieter später wechseln. Achten Sie bei der Wahl auf Speicherort, Bedienung und darauf, dass die Domain auf Ihren Namen läuft."
+    },
+    {
+      "q": "Verliere ich E-Mails, wenn ich von Gmail auf die eigene Domain wechsle?",
+      "a": "Nein, wenn der Wechsel gut geplant ist. Alte Nachrichten lassen sich in das neue Postfach übertragen, und das Gmail-Konto kann neue E-Mails eine Zeit lang automatisch weiterleiten. Informieren Sie Stammkunden und Lieferanten über die neue Adresse und ändern Sie sie auf Website, Rechnungen und Google-Unternehmensprofil. Nach einigen Monaten kommt kaum noch etwas an die alte Adresse."
+    },
+    {
+      "q": "Was sind SPF, DKIM und DMARC?",
+      "a": "Das sind technische Einträge in den Einstellungen Ihrer Domain. Sie zeigen empfangenden Servern, welche Server im Namen Ihrer Domain E-Mails verschicken dürfen und dass Nachrichten unterwegs nicht verändert wurden. Ohne diese Einträge landen E-Mails eher im Spam, und Betrüger können leichter in Ihrem Namen schreiben. Die Einrichtung dauert für einen Dienstleister meist nicht lange."
+    }
+  ],
+  "verwandt": [
+    "/wissen/e-mail-mit-eigener-domain/",
+    "/wissen/at-domain-registrieren/",
+    "/wissen/e-mail-signatur/",
+    "/glossar/dns/",
+    "/vergleiche/whatsapp-oder-e-mail/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

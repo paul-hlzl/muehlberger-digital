@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/waidhofen-an-der-thaya/",
+  "title": "KI-Automatisierung in Waidhofen/Thaya für kleine Betriebe",
+  "description": "Prozessautomatisierung mit KI in Waidhofen an der Thaya: weniger Büroarbeit am Abend für Familien- und Ein-Personen-Betriebe. Klein anfangen.",
+  "h1": "KI & Prozessautomatisierung in Waidhofen an der Thaya",
+  "kicker": "KI-Automatisierung · Waidhofen an der Thaya",
+  "lead": "Im Bezirk Waidhofen an der Thaya im nördlichen Waldviertel sind viele Betriebe Familien- oder Ein-Personen-Unternehmen, in denen das Büro nach Feierabend erledigt wird. KI-Automatisierung nimmt dort die drei, vier Handgriffe ab, die abends am meisten Zeit kosten, und zwar Schritt für Schritt statt alles auf einmal.",
+  "fakten": [
+    "Für Betriebe, in denen Chef und Büro dieselbe Person sind",
+    "Typisch: Rechnungen aus Notizen, Angebotsvorlagen, Standardantworten",
+    "Klein anfangen: ein Ablauf zuerst, dann weitersehen",
+    "Erstgespräch auch abends, Montag bis Freitag 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenn Chef und Büro dieselbe Person sind",
+      "html": "<p>Der <a href=\"/regionen/bezirk-waidhofen-an-der-thaya/\">Bezirk Waidhofen an der Thaya</a> ist ländlich geprägt, mit Landwirtschaft, Handwerk, Handel und vielen kleinen Dienstleistern nahe der tschechischen Grenze. In vielen dieser Betriebe gibt es keine Bürokraft. Rechnungen, Angebote und E-Mails warten, bis der Arbeitstag vorbei ist.</p><p>Genau dort setzt <a href=\"/leistungen/ki-automatisierung/\">Prozessautomatisierung mit KI</a> an: nicht als großes Software-Projekt, sondern als Entlastung bei einzelnen, immer gleichen Aufgaben.</p>"
+    },
+    {
+      "h2": "Drei Handgriffe, die abends Zeit fressen",
+      "html": "<h3>Rechnungen aus Notizen</h3><p>Sie schicken Stichworte oder eine Sprachnachricht zum erledigten Auftrag, die KI macht daraus einen Rechnungsentwurf mit Ihren Preisen.</p><h3>Angebote aus Vorlagen</h3><p>Statt jedes Angebot neu zu schreiben, füllt die KI Ihre Vorlage mit Kunde, Leistungen und passenden Texten. Mehr dazu im Ratgeber <a href=\"/wissen/ki-angebote-schreiben/\">Angebote mit KI schreiben</a>.</p><h3>Immer gleiche Fragen</h3><p>Öffnungszeiten, Liefergebiet, Preise: Auf der Website beantwortet ein Chatbot wie Pipebot solche Fragen rund um die Uhr, für 19 € im Monat und mit 30 Tagen gratis. Per E-Mail bereitet die KI Standardantworten vor.</p>"
+    },
+    {
+      "h2": "Klein anfangen: ein Ablauf, nicht zehn",
+      "html": "<p>Der häufigste Fehler ist, zu viel auf einmal zu wollen. Besser ist es, den einen Ablauf zu wählen, der am meisten nervt, und ihn ein paar Wochen laufen zu lassen. Erst wenn er sitzt, kommt der nächste. Wie man ein KI-Projekt sinnvoll beginnt, beschreibt der Ratgeber <a href=\"/wissen/ki-projekt-starten/\">KI-Projekt starten</a>.</p>"
+    },
+    {
+      "h2": "Persönlich aus dem Waldviertel",
+      "html": "<p>Mühlberger Digital sitzt in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a> und arbeitet mit Schwerpunkt im Waldviertel. Das kostenlose Erstgespräch dauert etwa 30 Minuten, vor Ort, am Telefon oder per Video-Call, und findet bewusst am Abend statt. Die technische Umsetzung übernimmt Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Automatisierung für einen Ein-Personen-Betrieb überhaupt sinnvoll?",
+      "a": "Oft gerade dort, weil jede Stunde Büro direkt von der Freizeit oder der bezahlten Arbeit abgeht. Sinnvoll ist es, wenn eine Aufgabe regelmäßig wiederkehrt und immer ähnlich abläuft, etwa Rechnungen oder Angebote. Wenn Sie nur wenige Aufträge im Monat haben, reicht eine gute Vorlage. Das sagen wir Ihnen im Erstgespräch offen."
+    },
+    {
+      "q": "Kann ich das Erstgespräch am Abend machen?",
+      "a": "Ja, das ist sogar die Regel. Termine für das kostenlose Erstgespräch gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, also dann, wenn kleine Betriebe Zeit haben. Das Gespräch dauert etwa 30 Minuten und kann vor Ort, am Telefon oder per Video-Call stattfinden. Bringen Sie gern ein Beispiel für eine Aufgabe mit, die Sie entlasten möchte."
+    },
+    {
+      "q": "Was ist günstiger: ein fertiges Tool oder eine individuelle Lösung?",
+      "a": "Ein fertiges Tool ist meist günstiger und schneller startklar, passt aber nur, wenn es Ihre Aufgabe wirklich abdeckt. Ein Beispiel ist Pipebot für Fragen auf der Website um 19 € im Monat. Eine individuelle Automatisierung kostet einmalig mehr, ist dafür genau auf Ihren Ablauf abgestimmt. Den Preis erfahren Sie nach dem Erstgespräch schriftlich."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-waidhofen-an-der-thaya/",
+    "/regionen/waldviertel/",
+    "/wissen/ki-angebote-schreiben/",
+    "/wissen/ki-projekt-starten/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

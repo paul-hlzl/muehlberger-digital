@@ -1,0 +1,69 @@
+{
+ "pfad": "/branchen/hofladen/",
+ "title": "Hofläden und Direktvermarkter: online gefunden werden",
+ "description": "Für Hofläden und Direktvermarkter: bei „Hofladen in der Nähe“ gefunden werden, Saisonware ankündigen, Fleischpakete vorbestellen lassen und Stammkunden.",
+ "h1": "Digitale Lösungen für Hofläden und Direktvermarkter",
+ "kicker": "Branche · Hofladen & Direktvermarktung",
+ "lead": "Hofläden und Direktvermarkter brauchen digital vor allem drei Dinge: bei Suchen wie „Hofladen in der Nähe“ auftauchen, zeigen, was gerade erhältlich ist, und Vorbestellungen etwa für Fleischpakete ohne Zettelwirtschaft annehmen. Dafür reichen meist ein gepflegtes Google-Profil, eine einfache Website und ein Kanal, über den Stammkunden Neuigkeiten erfahren.",
+ "fakten": [
+  "Google-Profil mit richtiger Kategorie, Fotos und Öffnungszeiten ist Pflicht",
+  "„Was gibt es gerade?“ auf der Startseite statt einer starren Produktliste",
+  "Vorbestellformular für Schlachttage und Fleischpakete",
+  "Gratis-Check von Hittaro zeigt, ob KI-Suchen Ihren Hof nennen"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Gefunden werden: „Hofladen in der Nähe“",
+   "html": "<p>Wer am Samstagvormittag frische Eier, Bauernbrot oder Most sucht, tippt am Handy „Hofladen in der Nähe“ oder „Eier ab Hof“ und folgt dann der Karte. Wenn Ihr Hof dort nicht erscheint oder die Wegbeschreibung in einen Feldweg führt, fahren die Leute zum nächsten.</p><p>Das Wichtigste ist ein gepflegtes Google-Unternehmensprofil mit passender Kategorie, genauer Position der Hofeinfahrt, Fotos vom Verkaufsraum und den tatsächlichen Öffnungszeiten. Grundlagen dazu erklärt der Ratgeber <a href=\"/wissen/lokales-seo/\">Lokales SEO</a>. Immer mehr Menschen fragen auch ChatGPT oder Gemini nach regionalen Produkten. Ob Ihr Hof dort genannt wird, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden.</p>"
+  },
+  {
+   "h2": "Was gibt es gerade? Saisonware ankündigen",
+   "html": "<p>„Habt ihr schon Spargel?“, „Ab wann gibt es Erdbeeren zum Selberpflücken?“, „Sind die Christbäume schon da?“ Solche Fragen kommen jedes Jahr zur gleichen Zeit, oft per Telefon während der Stallarbeit.</p><p>Eine kleine Rubrik „Gerade erhältlich“ ganz oben auf der Website beantwortet sie, bevor jemand anruft. Sie muss nicht perfekt sein, aber aktuell: lieber drei Zeilen, die stimmen, als eine lange Produktliste vom Vorjahr. Wenn Sie die Website selbst ändern können, dauert das eine Minute. Tipps zum Online-Auftritt regionaler Produkte stehen im Ratgeber <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online</a>.</p>"
+  },
+  {
+   "h2": "Vorbestellung für Schlachttage und Fleischpakete",
+   "html": "<p>Viele Direktvermarkter verkaufen Rind, Schwein oder Lamm in Paketen nach Schlachttagen. Die Vorbestellungen laufen dann über Telefon, SMS, Zettel im Hofladen und Zurufe beim Kirtag, und am Ende fehlt eine Bestellung oder es gibt zwei für dasselbe Paket.</p><p>Ein einfaches Vorbestellformular schafft Ordnung:</p><ul><li>Auswahl von Paketgröße oder Teilstücken</li><li>gewünschter Abholtermin</li><li>Kontaktdaten für die Bestätigung</li><li>automatische Übersicht für Sie, wie viele Pakete schon vergeben sind</li></ul><p>Eine solche Funktion wird nach dem Erstgespräch individuell angeboten, oft als Teil einer Starter-Website ab 2.500 € einmalig mit kleinem Zusatzaufwand.</p>"
+  },
+  {
+   "h2": "Selbstbedienung rund um die Uhr",
+   "html": "<p>Selbstbedienungshütten, Kühlschränke mit Kasse des Vertrauens oder Verkaufsautomaten sind beliebt, weil Kundschaft auch abends einkaufen kann. Digital stellt sich dabei eine Frage: Ist der Automat gerade befüllt? Niemand fährt gern umsonst hin.</p><p>Ein kurzer Hinweis auf der Website oder im Google-Profil, wann üblicherweise nachgefüllt wird, hilft bereits. Wenn Ihr Automat einen digitalen Füllstand meldet, kann man diesen unter Umständen auf der Website anzeigen; ob das bei Ihrem Gerät geht, prüfen wir im Gespräch.</p>"
+  },
+  {
+   "h2": "Stammkunden informieren: WhatsApp, Newsletter, Instagram",
+   "html": "<p>„Ab Freitag frisches Rindfleisch“ oder „Heuer erste Kürbisse“ sind Nachrichten, auf die Stammkunden warten. Je nach Kundschaft passen unterschiedliche Kanäle:</p><ul><li><strong>WhatsApp:</strong> direkt und persönlich, gut für ältere Stammkunden, siehe Ratgeber <a href=\"/wissen/whatsapp-business/\">WhatsApp Business</a></li><li><strong>Newsletter:</strong> gut für Bestellhinweise mit mehr Infos</li><li><strong>Instagram:</strong> für Bilder vom Hof und jüngere Kundschaft</li></ul><p>Für Instagram eignet sich Pipeflow, das aus Ihrer Website jede Woche fertige Beiträge mit Bild macht, die Sie nur freigeben. In der Pilotphase ist es kostenlos: <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p>"
+  },
+  {
+   "h2": "Online verkaufen und der nächste Schritt",
+   "html": "<p>Versand von Lebensmitteln bringt eigene Anforderungen mit sich, von Kühlung über Verpackung bis zu Kennzeichnungspflichten. Für haltbare Produkte wie Most, Säfte, Honig oder Nudeln kann ein kleiner Shop sinnvoll sein, für Frischfleisch meist nicht. Rechtliche Fragen klären Sie mit der Landwirtschaftskammer oder der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>. Mehr zum Versand im Ratgeber <a href=\"/wissen/versand-onlineshop/\">Versand im Onlineshop</a>.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, gerne abends nach der Stallarbeit, klären wir, was Ihr Hof wirklich braucht.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Braucht ein kleiner Hofladen überhaupt eine Website?",
+   "a": "Nicht zwingend, wenn das Google-Unternehmensprofil gut gepflegt ist und Öffnungszeiten, Lage und Fotos stimmen. Eine einfache Website lohnt sich, sobald Sie Vorbestellungen annehmen, Saisonware ankündigen oder mehr über Ihren Hof erzählen wollen. Sie ist außerdem eine wichtige Quelle für Google und KI-Suchen. Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig."
+  },
+  {
+   "q": "Wie nehme ich Vorbestellungen für Fleischpakete am besten an?",
+   "a": "Mit einem einfachen Formular auf der Website, in dem Kunden Paketgröße, Abholtermin und Kontaktdaten angeben. Sie bekommen dadurch eine übersichtliche Liste, sehen sofort, wie viele Pakete schon vergeben sind, und können automatisch eine Bestätigung verschicken. Das ersetzt Zettel, SMS und Zurufe und verhindert doppelt vergebene Pakete. Der Aufwand wird nach dem Erstgespräch genannt."
+  },
+  {
+   "q": "Lohnt sich ein Onlineshop für Direktvermarkter?",
+   "a": "Für haltbare Produkte wie Most, Säfte, Honig, Marmelade oder Nudeln kann ein kleiner Shop sinnvoll sein, vor allem für Stammkunden, die weggezogen sind. Für Frischfleisch oder Milchprodukte ist Versand aufwendig und oft nicht wirtschaftlich. Hier ist Vorbestellen und Abholen meist der bessere Weg. Zu Kennzeichnung und Hygiene beraten Landwirtschaftskammer und Wirtschaftskammer."
+  },
+  {
+   "q": "Wie erfahren Stammkunden, wann es frische Ware gibt?",
+   "a": "Am besten über einen Kanal, den Ihre Kundschaft ohnehin nutzt. Viele Höfe setzen auf WhatsApp-Nachrichten an eine Liste von Interessierten, andere auf einen kurzen Newsletter oder Instagram. Wichtig ist, dass sich Kunden selbst eintragen und auch wieder abmelden können. Ergänzend sollte die aktuelle Ware immer auch auf der Website stehen."
+  }
+ ],
+ "verwandt": [
+  "/branchen/landwirtschaft/",
+  "/branchen/weingut/",
+  "/wissen/regionale-produkte-online/",
+  "/wissen/digitalisierung-landwirtschaft/",
+  "/leistungen/google-unternehmensprofil/"
+ ],
+ "checks": [
+  "ki-sichtbarkeit",
+  "social-media-test"
+ ]
+}

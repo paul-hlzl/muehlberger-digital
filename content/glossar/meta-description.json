@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/meta-description/",
+  "title": "Meta-Description: Beschreibung in Google erklärt",
+  "description": "Meta-Description einfach erklärt: Was die Kurzbeschreibung in den Suchergebnissen bewirkt, wie lang sie sein sollte und wie Betriebe sie gut formulieren.",
+  "h1": "Meta-Description",
+  "kicker": "Glossar · SEO",
+  "lead": "Die Meta-Description ist eine kurze Beschreibung einer Webseite, die im Quelltext hinterlegt wird und oft als Text unter dem Titel in den Google-Ergebnissen erscheint. Sie beeinflusst nicht direkt die Platzierung, aber ob jemand klickt.",
+  "fakten": [
+    "Wird im Quelltext hinterlegt, auf der Seite selbst nicht angezeigt",
+    "Faustregel: rund 120 bis 160 Zeichen",
+    "Google kann sie durch einen eigenen Textausschnitt ersetzen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie eine gute Meta-Description klingt",
+      "html": "<p>Eine Konditorei hat bei ihrer Torten-Seite keine Beschreibung hinterlegt. Google zeigt deshalb einen zufälligen Satz aus der Fußzeile an: „Alle Preise inkl. USt. Druckfehler vorbehalten.“ Mit einer eigenen Meta-Description wie „Hochzeits- und Geburtstagstorten nach Ihren Wünschen, Bestellung bis drei Tage vorher, Abholung im Geschäft“ wissen Suchende sofort, was sie erwartet.</p><p>Gute Beschreibungen nennen den Nutzen, enthalten den wichtigsten Suchbegriff in natürlicher Form und geben einen Anlass zum Klicken. Jede Seite braucht eine eigene.</p>"
+    },
+    {
+      "h2": "Warum KMU darauf achten sollten",
+      "html": "<p>Wenn mehrere Betriebe in den <a href=\"/glossar/serp/\">Suchergebnissen</a> stehen, entscheidet oft der kurze Text, wer den Klick bekommt. Eine klare Meta-Description ist mit wenig Aufwand umgesetzt und wirkt auf jeder Seite. Zusammen mit dem <a href=\"/glossar/title-tag/\">Title-Tag</a> bildet sie Ihre Visitenkarte in Google.</p><p>Formulierungsbeispiele bringt der Ratgeber <a href=\"/wissen/title-und-meta-description/\">Title und Meta-Description</a>. Ob Beschreibungen fehlen oder doppelt sind, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum zeigt Google eine andere Beschreibung an?",
+      "a": "Google wählt den angezeigten Text je nach Suchanfrage aus. Passt Ihre Meta-Description nicht gut zur Frage, nimmt Google stattdessen einen Ausschnitt aus dem Seiteninhalt. Das ist normal und kein Fehler. Je genauer die Beschreibung den Inhalt der Seite zusammenfasst und die typischen Suchbegriffe aufgreift, desto häufiger wird sie übernommen."
+    },
+    {
+      "q": "Verbessert die Meta-Description mein Ranking?",
+      "a": "Nicht direkt. Google nutzt die Meta-Description nach eigenen Angaben nicht als Rankingfaktor. Sie beeinflusst aber, wie viele Menschen auf Ihr Ergebnis klicken. Mehr Klicks bei gleicher Platzierung bedeuten mehr Besucher und damit mehr mögliche Anfragen. Deshalb lohnt sich die kurze Arbeit für jede wichtige Seite Ihrer Website."
+    }
+  ],
+  "verwandt": [
+    "/wissen/title-und-meta-description/",
+    "/glossar/title-tag/",
+    "/glossar/serp/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

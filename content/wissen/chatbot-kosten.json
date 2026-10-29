@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/chatbot-kosten/",
+  "title": "Was kostet ein KI-Chatbot? Preise und Folgekosten",
+  "description": "Was kostet ein KI-Chatbot für die Website? Preismodelle, was in 19 € bei Pipebot steckt, wann individuelle Lösungen nötig sind und was laufend dazukommt.",
+  "h1": "Was kostet ein KI-Chatbot?",
+  "kicker": "Ratgeber · Chatbot",
+  "lead": "Ein fertiger KI-Chatbot für die Website wie Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage sind gratis. Individuelle Chatbots mit Anbindung an Buchungs-, Kunden- oder Warenwirtschaftssysteme werden nach Aufwand kalkuliert, der Preis steht nach dem Erstgespräch fest. Zusätzlich sollten Sie Zeit für Inhalte und Kontrolle einplanen.",
+  "fakten": [
+    "Pipebot: 19 € pro Monat, monatlich kündbar, erste 30 Tage gratis",
+    "Individuelle Chatbots: Preis auf Anfrage nach dem Erstgespräch",
+    "Der größte versteckte Posten ist die Zeit für gute Inhalte",
+    "Angebote immer inklusive laufender Kosten vergleichen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die gängigen Preismodelle",
+      "html": "<p>Am Markt begegnen Ihnen im Wesentlichen drei Arten, wie Chatbots abgerechnet werden:</p><ul> <li><strong>Festes Monatsabo:</strong> ein fixer Betrag pro Monat, meist mit klarem Leistungsumfang. Gut planbar, besonders für kleine Betriebe.</li><li><strong>Nutzungsabhängig:</strong> Abrechnung nach Anzahl der Gespräche, Nachrichten oder verarbeiteter Textmenge. Günstig bei wenig Nutzung, schwer vorherzusagen bei viel.</li><li><strong>Projekt plus Betrieb:</strong> einmalige Kosten für Entwicklung und Anbindungen, danach laufende Kosten für Betrieb, Modellnutzung und Wartung.</li></ul> <p>Welches Modell passt, hängt weniger vom Preis ab als von der Frage, was der Bot können muss. Ein Bot, der Fragen zur Website beantwortet, braucht kein Entwicklungsprojekt.</p>"
+    },
+    {
+      "h2": "Was bei Pipebot im Preis steckt",
+      "html": "<p><a href=\"/produkte/pipebot/\">Pipebot</a> ist ein fertiger KI-Chatbot für Websites, angeboten von Pipeline AI Solutions und vermittelt über Mühlberger Digital. Der Preis ist klar:</p><ul> <li><strong>19 € pro Monat</strong> (Richtpreis ohne USt.), monatlich kündbar.</li><li><strong>Die ersten 30 Tage gratis.</strong></li><li>Antworten rund um die Uhr, nur mit den Inhalten Ihrer Website.</li><li>Darstellung im Design Ihrer Website.</li><li>Bei Unsicherheit verbindet der Bot mit Ihrem Team, statt zu raten.</li></ul> <p>Mehr zum Produkt finden Sie auf <a href=\"https://pipebot.at/\">pipebot.at</a>. Für die meisten kleinen Betriebe, die Standardfragen abfangen möchten, reicht diese Lösung, ohne Projekt und ohne lange Bindung.</p>"
+    },
+    {
+      "h2": "Wann ein individueller Chatbot nötig ist",
+      "html": "<p>Ein Bot auf Basis der Website-Inhalte stößt an Grenzen, wenn er auf Daten zugreifen soll, die nicht öffentlich sind oder sich ständig ändern. Beispiele:</p><ul> <li>Freie Zimmer oder Termine in Echtzeit aus einem Buchungssystem anzeigen.</li><li>Lagerstand oder Lieferzeiten aus der Warenwirtschaft abfragen.</li><li>Bestellstatus für bestehende Kunden nach Anmeldung.</li><li>Anfragen direkt in die Kundenverwaltung schreiben und Aufgaben anlegen.</li></ul> <p>Solche Lösungen werden über <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> als individuelles Projekt umgesetzt, zum Beispiel mit Modellen von Claude oder OpenAI. Der Preis hängt von Anbindungen und Umfang ab und wird nach dem Erstgespräch schriftlich genannt. Ehrlich gesagt: Viele Betriebe starten mit dem einfachen Bot und merken erst im Betrieb, ob sich der Ausbau lohnt.</p>"
+    },
+    {
+      "h2": "Die Kosten neben dem Preis",
+      "html": "<p>Ob Abo oder Projekt, ein paar Aufwände fallen immer an:</p><ul> <li><strong>Inhalte vorbereiten:</strong> Fehlen Antworten auf Ihrer Website, müssen Sie sie zuerst schreiben. Das ist oft der größte Posten, verbessert aber auch die Website. Tipps dazu im Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Mit welchen Inhalten ein Chatbot antwortet</a>.</li><li><strong>Kontrolle:</strong> In den ersten Wochen Gespräche durchlesen, später stichprobenartig.</li><li><strong>Pflege:</strong> Neue Preise, Saisonzeiten oder Leistungen auch auf der Website aktualisieren.</li><li><strong>Datenschutz:</strong> Datenschutzerklärung ergänzen und Vertrag mit dem Anbieter prüfen.</li><li><strong>Rückfragen beantworten:</strong> Anfragen, die der Bot weitergibt, muss jemand bearbeiten.</li></ul>"
+    },
+    {
+      "h2": "Rechnet sich ein Chatbot?",
+      "html": "<p>Bei einem Abo um 19 € im Monat ist die Rechnung einfach: Wenn der Bot pro Monat so viele Anrufe oder E-Mails abfängt, dass Ihr Team mehr als eine Stunde gewinnt, hat er sich für die meisten Betriebe bezahlt. Dazu kommen Vorteile, die sich schwer beziffern lassen, etwa Antworten am Abend, wenn sonst niemand erreichbar ist.</p><p>Umgekehrt gilt: Hat Ihre Website kaum Besucher oder kommen fast nur individuelle Anfragen, fängt der Bot wenig ab, und der Nutzen bleibt klein. Dann ist eine bessere Website oder ein gepflegtes Google-Unternehmensprofil oft die sinnvollere Investition. Wie man KI-Kosten insgesamt einordnet, beschreibt der Ratgeber <a href=\"/wissen/ki-kosten/\">Was kostet KI im Betrieb?</a></p>"
+    },
+    {
+      "h2": "Checkliste: Chatbot-Angebote vergleichen",
+      "html": "<ul><li>Was kostet der Bot pro Monat, und was ist inklusive?</li><li>Gibt es nutzungsabhängige Zusatzkosten, und ab wann?</li><li>Wie lange ist die Bindung, wie schnell kann ich kündigen?</li><li>Antwortet der Bot nur mit meinen Inhalten oder auch mit allgemeinem Wissen?</li><li>Wie übergibt er an mein Team?</li><li>Kann ich die Gespräche einsehen?</li><li>Gibt es eine Testphase?</li><li>Gibt es einen Auftragsverarbeitungsvertrag?</li></ul> <p>Mit dem <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> sehen Sie vorab, ob Ihre Website als Grundlage reicht. Alle Richtpreise von Mühlberger Digital stehen auf der Seite <a href=\"/preise/\">Preise</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es einen KI-Chatbot kostenlos?",
+      "a": "Es gibt kostenlose Testphasen und eingeschränkte Gratis-Angebote, bei Pipebot etwa die ersten 30 Tage. Dauerhaft kostenlose Chatbots haben meist Einschränkungen bei Umfang, Design, Datenschutz oder Werbung. Für einen Betrieb ist ein kleiner, planbarer Monatspreis mit klaren Bedingungen meist die bessere Wahl als ein Gratis-Werkzeug, dessen Bedingungen sich jederzeit ändern können."
+    },
+    {
+      "q": "Was kostet ein individuell entwickelter Chatbot?",
+      "a": "Das hängt davon ab, welche Systeme angebunden werden, wie viele Aufgaben der Bot übernimmt und wie viel laufend genutzt wird. Deshalb gibt es keinen seriösen Pauschalpreis. Bei Mühlberger Digital wird der Preis nach dem kostenlosen Erstgespräch schriftlich genannt. Oft lohnt es sich, zuerst mit einem fertigen Bot zu starten und erst bei Bedarf auszubauen."
+    },
+    {
+      "q": "Fallen bei einem Chatbot Kosten pro Gespräch an?",
+      "a": "Bei manchen Anbietern ja, vor allem bei nutzungsabhängigen Modellen oder individuellen Lösungen, die direkt über KI-Schnittstellen abrechnen. Pipebot hat einen festen Monatspreis von 19 €. Fragen Sie bei jedem Angebot nach, ob und ab welcher Nutzung zusätzliche Kosten entstehen, damit es keine Überraschungen bei der Abrechnung gibt."
+    },
+    {
+      "q": "Kann ich einen Chatbot jederzeit kündigen?",
+      "a": "Das regelt jeder Anbieter selbst. Pipebot ist monatlich kündbar. Bei individuellen Projekten gelten die Bedingungen aus dem schriftlichen Angebot, etwa für Wartung und Betrieb. Achten Sie bei jedem Anbieter auf Mindestlaufzeiten, Kündigungsfristen und darauf, ob Sie Ihre Inhalte und Gesprächsverläufe beim Wechsel mitnehmen können."
+    },
+    {
+      "q": "Wie viel Arbeit macht ein Chatbot nach dem Start?",
+      "a": "In den ersten Wochen sollten Sie die Gespräche regelmäßig durchlesen und fehlende Informationen auf der Website ergänzen. Danach reicht meist ein kurzer Blick alle paar Wochen und eine Aktualisierung, wenn sich Preise, Zeiten oder Leistungen ändern. Dazu kommen die Anfragen, die der Bot an Ihr Team weitergibt und die bearbeitet werden müssen."
+    }
+  ],
+  "verwandt": [
+    "/produkte/pipebot/",
+    "/leistungen/ki-chatbot/",
+    "/wissen/ki-kosten/",
+    "/wissen/chatbot-vorteile/",
+    "/preise/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/scheibbs/",
+  "title": "SEO im Bezirk Scheibbs: gefunden rund um den Ötscher",
+  "description": "SEO für Betriebe im Bezirk Scheibbs: warum im Erlauftal und rund um den Ötscher konkrete Antworten auf konkrete Fragen mehr bringen als viele Schlagworte.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Scheibbs",
+  "kicker": "SEO · Bezirk Scheibbs",
+  "lead": "Im Bezirk Scheibbs wird seltener gesucht als in der Stadt, dafür sind die Suchen sehr konkret: Hat der Gasthof am Montag offen? Macht die Tischlerei auch Fenster? Wer solche Fragen auf seiner Website und im Google-Profil klar beantwortet, wird gefunden. SEO heißt hier: Fragen beantworten statt Schlagworte sammeln.",
+  "fakten": [
+    "Der Bezirk Scheibbs liegt im südlichen Mostviertel, rund um Erlauftal und Ötscher",
+    "Ausflugsgäste kommen im Sommer zum Wandern, im Winter zum Skifahren",
+    "Kleine Suchvolumen, aber sehr konkrete Fragen",
+    "FAQ-Bereiche helfen bei Google und bei KI-Suchen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenige Suchen, dafür sehr konkrete",
+      "html": "<p>Für Betriebe zwischen Scheibbs, Gaming und Lunz am See gibt es selten hunderte Suchanfragen im Monat. Die Menschen, die suchen, wissen aber meist genau, was sie wollen. Sie tippen ganze Fragen oder sehr spezifische Begriffe ein, im Fachjargon „Long Tail“ genannt.</p><p>Für diese Art der Suche braucht es keine großen Kampagnen, sondern Seiten, die genau diese Fragen beantworten. Wie das in eine gesamte <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> passt, lesen Sie auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Fragen beantworten statt Schlagworte sammeln",
+      "html": "<p>Sammeln Sie einen Monat lang, was Kundinnen und Gäste Sie am Telefon fragen. Diese Fragen sind die besten Suchbegriffe, die es gibt. Jede davon verdient eine kurze, vollständige Antwort auf der Website, etwa in einem FAQ-Bereich.</p><p>Solche Antworten nutzen nicht nur Google, sondern auch KI-Assistenten, die gern direkt aus gut formulierten FAQ zitieren. Wie man sie schreibt, erklärt der Ratgeber <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a>.</p>"
+    },
+    {
+      "h2": "Drei Betriebe, drei Ansätze",
+      "html": "<h3>Gasthof mit Saisonbetrieb</h3><p>Wichtig sind Ruhetage, Saisonzeiten und Hinweise zu Wanderwegen in der Nähe, sofern sie stimmen. Diese Angaben gehören ins Google-Profil und auf die Startseite.</p><h3>Tischlerei mit Werkstatt im Ort</h3><p>Eine eigene Seite pro Produkt, also Küchen, Fenster, Türen oder Möbel, mit Fotos aus der eigenen Werkstatt. Weitere Ideen auf der Branchenseite <a href=\"/branchen/tischler/\">Tischler</a>.</p><h3>Hofladen mit Most und Säften</h3><p>Öffnungszeiten, Sortiment und Anfahrt reichen oft für den Anfang. Wer zusätzlich Versand anbietet, sollte das auf einer eigenen Seite erklären.</p>"
+    },
+    {
+      "h2": "Wenn Gäste die KI nach dem Ausflugsziel fragen",
+      "html": "<p>Wer einen Tag am Ötscher oder am Lunzer See plant, fragt immer öfter ChatGPT oder Gemini nach Einkehrmöglichkeiten. Wie Ihr Betrieb dort genannt werden kann, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Ob Ihre Website technisch sauber ist, zeigt der <a href=\"/gratis-check/seo-check/\">kostenlose SEO-Check</a>.</p><p>Mehr über unsere Arbeit in der Region finden Sie auf der Seite <a href=\"/regionen/bezirk-scheibbs/\">Bezirk Scheibbs</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet Long Tail bei der Suche?",
+      "a": "Long Tail bezeichnet lange, sehr konkrete Suchanfragen, etwa „Tischler Holzfenster Erlauftal“ statt nur „Tischler“. Jede einzelne wird selten gesucht, zusammen machen sie aber einen großen Teil aller Suchen aus. Für kleine Betriebe in ländlichen Gegenden sind sie besonders wertvoll, weil es dafür wenig Konkurrenz gibt und die Suchenden meist schon genau wissen, was sie wollen."
+    },
+    {
+      "q": "Was mache ich, wenn kaum jemand nach meiner Leistung sucht?",
+      "a": "Dann reicht oft eine solide Grundausstattung: ein vollständiges Google-Unternehmensprofil, eine übersichtliche Website und einige echte Bewertungen. Teure Monatspakete bringen in diesem Fall wenig. Zusätzlich kann es sinnvoll sein, Kundschaft auf anderen Wegen zu erreichen, etwa über Empfehlungen, Social Media oder bei Firmenkunden durch gezielte Ansprache."
+    },
+    {
+      "q": "Wie schreibe ich eine gute FAQ-Antwort?",
+      "a": "Beginnen Sie mit der direkten Antwort im ersten Satz, ergänzen Sie dann die wichtigsten Details. Verwenden Sie die Worte, die Ihre Kunden auch benutzen, und vermeiden Sie Verweise wie „siehe oben“. Jede Antwort sollte für sich allein verständlich sein, denn Google und KI-Assistenten zeigen oft nur diesen einen Abschnitt an."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-scheibbs/",
+    "/regionen/mostviertel/",
+    "/wissen/saisonbetrieb-digital/",
+    "/leistungen/website-erstellen/scheibbs/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

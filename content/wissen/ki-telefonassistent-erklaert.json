@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-telefonassistent-erklaert/",
+  "title": "KI-Telefonassistent: So funktioniert er",
+  "description": "So funktioniert ein KI-Telefonassistent: Ablauf eines Anrufs, Technik einfach erklärt, Stärken und Grenzen, Einbindung in die Telefonanlage und Datenschutz.",
+  "h1": "KI-Telefonassistent: So funktioniert er",
+  "kicker": "Ratgeber · Telefon & KI",
+  "lead": "Ein KI-Telefonassistent nimmt Anrufe an, versteht gesprochene Sprache, beantwortet Fragen mit dem Wissen, das Sie ihm hinterlegen, und nimmt Anliegen wie Rückrufwünsche oder Terminanfragen auf. Technisch arbeiten drei Bausteine zusammen: Spracherkennung, ein Sprachmodell und eine künstliche Stimme. Eingebunden wird er meist über eine Rufumleitung.",
+  "fakten": [
+    "Drei Bausteine: Spracherkennung, Sprachmodell, Sprachausgabe",
+    "Antwortet nur so gut wie das hinterlegte Wissen über Ihren Betrieb",
+    "Einbindung meist per Rufumleitung: bei besetzt, nach Klingeln oder außerhalb der Zeiten",
+    "Anrufer sollten wissen, dass sie mit einer KI sprechen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So läuft ein Anruf ab",
+      "html": "<ol><li><strong>Begrüßung:</strong> Der Assistent meldet sich mit Ihrem Firmennamen und sagt, dass er ein digitaler Assistent ist.</li><li><strong>Anliegen verstehen:</strong> Der Anrufer schildert frei, was er braucht, ohne „Drücken Sie die 1“.</li><li><strong>Antworten oder nachfragen:</strong> Bei Standardfragen antwortet der Assistent direkt, sonst fragt er nach den nötigen Angaben.</li><li><strong>Aufnehmen:</strong> Name, Telefonnummer, Anliegen, eventuell Wunschtermin oder Adresse.</li><li><strong>Weitergeben:</strong> Sie erhalten eine Zusammenfassung, etwa per E-Mail, oder der Anruf wird bei Dringlichkeit weiterverbunden.</li></ol> <p>Für den Anrufer fühlt sich das an wie ein Gespräch mit einer freundlichen Telefonkraft, die zwar nicht alles entscheiden kann, aber alles richtig notiert.</p>"
+    },
+    {
+      "h2": "Die Technik einfach erklärt",
+      "html": "<p>Hinter dem Gespräch arbeiten drei Bausteine in schneller Folge:</p><ul> <li><strong>Spracherkennung:</strong> wandelt das Gesprochene in Text um.</li><li><strong>Sprachmodell:</strong> versteht den Text, sucht in Ihrem hinterlegten Wissen die passende Information und formuliert eine Antwort. Das ist dieselbe Art von Technik wie bei ChatGPT, ein sogenanntes <a href=\"/glossar/large-language-model/\">Large Language Model</a>.</li><li><strong>Sprachausgabe:</strong> liest die Antwort mit einer natürlich klingenden Stimme vor.</li></ul> <p>Das Ganze muss sehr schnell gehen, damit keine unangenehmen Pausen entstehen. Moderne Systeme schaffen das inzwischen gut, ganz ohne Verzögerung sind sie nicht immer. Dazu kommen Regeln, die Sie festlegen: Was darf der Assistent sagen, wann verbindet er weiter, welche Angaben muss er immer abfragen.</p>"
+    },
+    {
+      "h2": "Was ein KI-Telefonassistent gut kann – und was nicht",
+      "html": "<p><strong>Gut:</strong></p><ul> <li>Häufige Fragen beantworten: Öffnungszeiten, Anfahrt, Leistungen, Ablauf.</li><li>Anliegen vollständig aufnehmen, auch wenn alle beschäftigt sind.</li><li>Anrufe außerhalb der Öffnungszeiten annehmen.</li><li>Dringendes von Nicht-Dringendem trennen, wenn die Regeln klar sind.</li></ul> <p><strong>Weniger gut oder gar nicht:</strong></p><ul> <li>Verbindliche Preise oder Zusagen machen, die eine Einschätzung brauchen.</li><li>Sehr emotionale Gespräche, etwa Beschwerden oder Notlagen.</li><li>Starker Dialekt, Hintergrundlärm oder schlechte Verbindung können die Erkennung erschweren. Testen Sie das mit echten Anrufen aus Ihrer Region.</li></ul> <p>Ob ein Assistent oder ein Callcenter besser passt, vergleicht <a href=\"/vergleiche/telefonassistent-oder-callcenter/\">Telefonassistent oder Callcenter</a>.</p>"
+    },
+    {
+      "h2": "Einbindung in Ihre Telefonanlage",
+      "html": "<p>In den meisten Fällen müssen Sie Ihre Telefonnummer nicht wechseln. Der Assistent wird über eine Rufumleitung eingebunden, und Sie entscheiden, wann er übernimmt:</p><ul> <li><strong>Bei besetzt:</strong> Wenn Sie schon telefonieren, geht der zweite Anruf an den Assistenten.</li><li><strong>Nach einigen Klingelzeichen:</strong> Wenn niemand abhebt, etwa weil alle auf der Baustelle sind.</li><li><strong>Außerhalb der Öffnungszeiten:</strong> abends, am Wochenende, im Urlaub.</li><li><strong>Immer:</strong> Der Assistent nimmt jeden Anruf an und verbindet bei Bedarf weiter.</li></ul> <p>Typische Situation: Ein Installateur mit Notdienst lässt Anrufe nach 17 Uhr vom Assistenten annehmen. Echte Notfälle wie Wasserrohrbruch werden an das Bereitschaftshandy weitergeleitet, alles andere landet als Zusammenfassung im Postfach für den nächsten Morgen.</p>"
+    },
+    {
+      "h2": "Transparenz, Aufzeichnung und Datenschutz",
+      "html": "<p>Anrufer sollten von Anfang an wissen, dass sie mit einer KI sprechen. Der EU AI Act sieht vor, dass Menschen erkennen können, wenn sie mit einem KI-System interagieren. Ein Satz in der Begrüßung reicht dafür, etwa „Sie sprechen mit dem digitalen Assistenten der Firma …“.</p><p>Weil Gespräche verarbeitet und meist in Textform zusammengefasst werden, gilt die DSGVO. Klären Sie mit dem Anbieter, wo die Daten verarbeitet werden, wie lange sie gespeichert bleiben und ob ein Auftragsverarbeitungsvertrag vorliegt. Wird ein Gespräch aufgezeichnet, müssen die Beteiligten informiert sein. Mehr dazu im Ratgeber <a href=\"/wissen/gespraechsaufzeichnung/\">Gesprächsaufzeichnung</a>. Für Einzelfragen sind WKO oder eine Fachperson die richtige Adresse.</p>"
+    },
+    {
+      "h2": "Für wen sich ein KI-Telefonassistent lohnt",
+      "html": "<p>Am meisten bringt ein Assistent Betrieben, bei denen das Telefon oft läutet, wenn niemand abheben kann: Handwerk auf der Baustelle, Gastronomie im Service, Praxen während der Behandlung, kleine Teams ohne eigene Telefonkraft. Wenig Sinn hat er, wenn kaum Anrufe kommen oder fast jedes Gespräch eine fachliche Beratung braucht.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> wird über Pipeline AI Solutions eingerichtet, der Preis hängt vom Umfang ab und wird auf Anfrage genannt. Wenn Sie wissen möchten, ob sich das für Sie rechnet, besprechen wir das im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>. Weitere Wege, auch nach Feierabend erreichbar zu sein, beschreibt der Ratgeber <a href=\"/wissen/erreichbarkeit/\">Erreichbar sein außerhalb der Öffnungszeiten</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Merken Anrufer, dass sie mit einer KI sprechen?",
+      "a": "Moderne Stimmen klingen sehr natürlich, deshalb sollte der Assistent das von sich aus sagen, gleich in der Begrüßung. Das ist ehrlich und entspricht der Transparenzidee des EU AI Act. Viele Anrufer reagieren gelassen, wenn das Gespräch flüssig ist und ihr Anliegen gut aufgenommen wird. Wer lieber mit einem Menschen spricht, sollte einen Rückruf anfordern können."
+    },
+    {
+      "q": "Versteht ein KI-Telefonassistent Dialekt?",
+      "a": "Moderne Spracherkennung kommt mit vielen Dialekten und Umgangssprache erstaunlich gut zurecht, perfekt ist sie aber nicht. Starker Dialekt, Hintergrundlärm wie auf der Baustelle oder eine schlechte Verbindung können zu Fehlern führen. Testen Sie den Assistenten deshalb vor dem Start mit echten Anrufen aus Ihrer Region und lassen Sie wichtige Angaben bestätigen."
+    },
+    {
+      "q": "Muss ich für einen KI-Telefonassistenten meine Nummer ändern?",
+      "a": "In der Regel nicht. Der Assistent wird meist über eine Rufumleitung eingebunden, die Sie in Ihrer Telefonanlage oder beim Mobilfunkanbieter einstellen. Sie legen fest, ob er bei besetzt, nach einigen Klingelzeichen, außerhalb der Öffnungszeiten oder immer übernimmt. Ihre Kunden wählen weiterhin die gewohnte Nummer."
+    },
+    {
+      "q": "Kann der Telefonassistent Anrufe an mich weiterleiten?",
+      "a": "Ja, wenn das eingerichtet ist. Sie legen Regeln fest, wann weiterverbunden wird, etwa bei Notfällen, bei bestimmten Stammkunden oder wenn der Anrufer ausdrücklich einen Menschen verlangt. Alle anderen Anliegen nimmt der Assistent auf und schickt Ihnen eine Zusammenfassung. So werden Sie nur bei wirklich wichtigen Anrufen unterbrochen."
+    },
+    {
+      "q": "Was kostet ein KI-Telefonassistent?",
+      "a": "Der Preis hängt davon ab, wie viele Anrufe erwartet werden, welche Aufgaben der Assistent übernimmt und ob er an Kalender oder andere Programme angebunden wird. Deshalb nennt Mühlberger Digital den Preis auf Anfrage, nach dem kostenlosen Erstgespräch und schriftlich. Rechnen Sie zusätzlich etwas Zeit ein, um das Wissen über Ihren Betrieb vorzubereiten."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-telefonassistent/",
+    "/vergleiche/telefonassistent-oder-callcenter/",
+    "/wissen/gespraechsaufzeichnung/",
+    "/wissen/erreichbarkeit/",
+    "/branchen/installateur/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

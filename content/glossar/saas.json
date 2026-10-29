@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/saas/",
+  "title": "SaaS einfach erklärt: Software als Abo nutzen",
+  "description": "SaaS einfach erklärt: Was Software-as-a-Service ist, welche Vor- und Nachteile das Abo-Modell hat und worauf kleine Betriebe vor dem Abschluss achten sollten.",
+  "h1": "SaaS – Software as a Service",
+  "kicker": "Glossar · Software",
+  "lead": "SaaS (Software as a Service) ist ein Modell, bei dem Sie Software nicht kaufen und installieren, sondern über das Internet nutzen und meist monatlich bezahlen. Betrieb, Updates und Datensicherung übernimmt der Anbieter.",
+  "fakten": [
+    "Zugriff über Browser oder App, keine eigene Installation",
+    "Abrechnung meist pro Monat oder pro Benutzer",
+    "Wichtig: Kündigungsfrist, Datenstandort, Datenexport"
+  ],
+  "abschnitte": [
+    {
+      "h2": "SaaS im Alltag eines Betriebs",
+      "html": "<p>Eine kleine Unternehmensberatung nutzt mehrere SaaS-Werkzeuge: Buchhaltung im Browser, ein Online-<a href=\"/glossar/crm/\">CRM</a> und ein Tool für Besprechungsprotokolle. Ein Beispiel für Letzteres ist <a href=\"https://noteit.at/\">noteit</a>: Es erstellt Gesprächsnotizen für Teams, Zoom, Google Meet und andere Plattformen ohne Bot im Call, speichert in Frankfurt und kostet im Starter-Tarif 0 € für 3 Stunden pro Monat, Pro 14 € pro Monat, Team 24 € pro Person und Monat.</p><p>Niemand im Büro muss Server warten oder Updates einspielen. Neue Funktionen kommen automatisch.</p>"
+    },
+    {
+      "h2": "Worauf KMU bei SaaS achten sollten",
+      "html": "<p>SaaS senkt die Einstiegskosten und den Wartungsaufwand, schafft aber Abhängigkeit vom Anbieter. Prüfen Sie vor dem Abschluss, wo Daten gespeichert werden, ob es einen Vertrag zur Auftragsverarbeitung nach <a href=\"/glossar/dsgvo/\">DSGVO</a> gibt, wie schnell Sie kündigen können und ob Sie Ihre Daten exportieren können.</p><p>Viele kleine Abos summieren sich; eine jährliche Übersicht hilft. Weitere SaaS-Beispiele sind <a href=\"/produkte/pipebot/\">Pipebot</a> und <a href=\"/produkte/sightup/\">SightUp</a>; Hinweise zu Speicherorten im Vergleich <a href=\"/vergleiche/hosting-europa-oder-usa/\">Hosting Europa oder USA</a> und im Ratgeber <a href=\"/wissen/cloud-speicher/\">Cloud-Speicher</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist SaaS auf Dauer teurer als gekaufte Software?",
+      "a": "Das kann sein, muss aber nicht. Bei gekaufter Software kommen oft Kosten für Server, Updates, Wartung und neue Versionen dazu, die man leicht übersieht. SaaS bündelt das in einem planbaren Monatsbetrag. Rechnen Sie für einen fairen Vergleich die Gesamtkosten über drei bis fünf Jahre, inklusive Ihrer eigenen Zeit für Pflege und Ausfälle."
+    },
+    {
+      "q": "Was passiert mit meinen Daten, wenn ich kündige?",
+      "a": "Das regeln die Vertragsbedingungen des Anbieters. Seriöse Anbieter ermöglichen einen Export Ihrer Daten in einem gängigen Format und löschen sie nach einer festgelegten Frist. Prüfen Sie das vor dem Abschluss und testen Sie den Export am besten einmal während der Testphase. So vermeiden Sie, dass ein Wechsel später an fehlenden Daten scheitert."
+    }
+  ],
+  "verwandt": [
+    "/produkte/noteit/",
+    "/wissen/cloud-speicher/",
+    "/vergleiche/hosting-europa-oder-usa/",
+    "/glossar/crm/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

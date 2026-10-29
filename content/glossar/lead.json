@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/lead/",
+  "title": "Lead einfach erklärt: Interessent im Vertrieb",
+  "description": "Lead einfach erklärt: Was ein Interessent im Vertrieb ist, wie aus Kontakten Anfragen und Aufträge werden und woran kleine Betriebe gute Leads erkennen.",
+  "h1": "Lead – ein möglicher Kunde",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Ein Lead ist ein Kontakt, der Interesse an Ihrem Angebot gezeigt hat oder gut zu Ihrem Angebot passt und dessen Kontaktdaten Sie haben, etwa nach einer Anfrage, einem Messegespräch oder einem Download. Aus einem Lead kann ein Kunde werden.",
+  "fakten": [
+    "Ein Lead ist noch kein Auftrag, sondern eine Chance",
+    "Qualität zählt mehr als Menge",
+    "Schnelle Reaktion erhöht die Abschlusschance deutlich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Leads im Alltag eines Betriebs",
+      "html": "<p>Eine Werbetechnik-Firma bekommt in einer Woche fünf Kontakte: eine Formularanfrage für Fahrzeugbeschriftung, zwei Visitenkarten von einer Gewerbemesse, einen Anruf wegen eines Leuchtschilds und eine Mail eines Studenten, der nur Preise für ein Referat sammelt. Die ersten vier sind Leads mit echtem Bedarf, der letzte eher nicht.</p><p>Im Vertrieb unterscheidet man daher grob zwischen Kontakten, die nur informiert sind, und solchen, die konkret kaufen wollen. Wer das früh einschätzt, setzt seine Zeit dort ein, wo ein Auftrag wahrscheinlich ist. Festgehalten wird das am besten im <a href=\"/glossar/crm/\">CRM</a>.</p>"
+    },
+    {
+      "h2": "Warum Leads für KMU wichtig sind",
+      "html": "<p>Kleine Betriebe haben wenig Zeit für Vertrieb. Ein klares Verständnis davon, welche Leads gut passen, verhindert, dass Energie in aussichtslose Anfragen fließt. Gleichzeitig gilt: Wer schnell und freundlich reagiert, gewinnt oft gegen größere Mitbewerber.</p><p>Wie Sie gezielt neue Leads gewinnen, erklärt <a href=\"/glossar/leadgenerierung/\">Leadgenerierung</a>. Woran Sie gute Anfragen erkennen, zeigt der Ratgeber <a href=\"/wissen/anfragen-qualitaet/\">Qualität von Anfragen</a>; passende Firmenkunden in der Nähe findet und bewertet <a href=\"/produkte/sightup/\">SightUp</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Lead und Kunde?",
+      "a": "Ein Lead hat Interesse gezeigt oder passt gut zu Ihrem Angebot, hat aber noch nichts gekauft. Zum Kunden wird er, wenn er einen Auftrag erteilt oder bezahlt. Dazwischen liegen oft Gespräche, ein Angebot und Nachfassen. Wie viele Leads zu Kunden werden, ist eine wichtige Kennzahl, um den eigenen Vertrieb zu verbessern."
+    },
+    {
+      "q": "Wie schnell sollte ich auf einen Lead reagieren?",
+      "a": "So schnell wie möglich, idealerweise am selben Tag. Viele Interessenten fragen bei mehreren Betrieben an und entscheiden sich für den, der zuerst kompetent antwortet. Wenn Sie nicht sofort ausführlich antworten können, schicken Sie zumindest eine kurze Bestätigung mit dem Hinweis, wann Sie sich melden. Eine automatische Eingangsbestätigung kann dabei helfen."
+    }
+  ],
+  "verwandt": [
+    "/glossar/leadgenerierung/",
+    "/glossar/crm/",
+    "/wissen/anfragen-qualitaet/",
+    "/leistungen/neukundengewinnung-b2b/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

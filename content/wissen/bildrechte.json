@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/bildrechte/",
+  "title": "Bildrechte auf der Website: Was Betriebe beachten",
+  "description": "Bildrechte auf der Website: welche Fotos Sie verwenden dürfen, was bei Stockbildern, Fotografen und Mitarbeiterfotos gilt und wie Sie Lizenzen dokumentieren.",
+  "h1": "Bildrechte auf der Website",
+  "kicker": "Ratgeber · Recht",
+  "lead": "Auf Ihrer Website dürfen Sie nur Bilder verwenden, für die Sie die nötigen Nutzungsrechte haben: eigene Fotos, beauftragte Fotos mit vereinbarter Nutzung oder ordentlich lizenzierte Bilder. Sind Personen erkennbar, müssen Sie zusätzlich deren Rechte wahren, in der Praxis mit einer schriftlichen Zustimmung. Wer Lizenzen und Einwilligungen dokumentiert, ist bei Rückfragen auf der sicheren Seite.",
+  "fakten": [
+    "Fotos sind in Österreich durch das Urheberrechtsgesetz geschützt, auch einfache Schnappschüsse",
+    "Im Internet gefunden heißt nicht frei verwendbar",
+    "Beim Fotografen den Nutzungsumfang schriftlich festhalten: Website, Social Media, Print, Dauer",
+    "Für Fotos von Mitarbeitenden und Kunden eine schriftliche Einwilligung einholen",
+    "Lizenzen, Rechnungen und Einwilligungen in einem Ordner aufbewahren"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Grundsatz: Wer fotografiert, hat die Rechte",
+      "html": "<p>In Österreich schützt das Urheberrechtsgesetz nicht nur künstlerische Fotografie, sondern auch ganz gewöhnliche Lichtbilder. Das heißt: Jedes Foto gehört zunächst der Person, die es aufgenommen hat. Wer es auf seiner Website zeigen will, braucht deren Erlaubnis, also ein Nutzungsrecht.</p><p>Ein Bild aus der Google-Bildersuche, von der Website eines Lieferanten oder von Facebook ist deshalb nicht automatisch frei verwendbar. Auch ein Screenshot ändert daran nichts. Diese Regel gilt unabhängig davon, ob Sie das Bild verkleinern, zuschneiden oder mit einem Filter versehen.</p>"
+    },
+    {
+      "h2": "Vier saubere Quellen für Website-Bilder",
+      "html": "<p><strong>1. Eigene Fotos:</strong> Am einfachsten sind Bilder, die Sie selbst gemacht haben. Fotografiert jemand anderer im Betrieb, etwa ein Mitarbeiter oder ein Familienmitglied, halten Sie kurz schriftlich fest, dass der Betrieb die Fotos nutzen darf.</p><p><strong>2. Beauftragter Fotograf:</strong> Vereinbaren Sie schriftlich, wofür die Bilder verwendet werden dürfen: Website, Social Media, Drucksorten, Werbung, zeitlich unbegrenzt oder befristet, mit oder ohne Bearbeitung, mit oder ohne Namensnennung.</p><p><strong>3. Bildagenturen:</strong> Stockfotos sind lizenziert, nicht gekauft. Lesen Sie die Lizenzbedingungen, besonders zu Werbung, Logos und Produkten, und heben Sie den Lizenznachweis auf.</p><p><strong>4. Freie Lizenzen:</strong> Bilder unter Creative-Commons-Lizenzen oder von Gratis-Plattformen haben Bedingungen, etwa eine Pflicht zur Namensnennung. Prüfen Sie jede Lizenz einzeln.</p><p>Warum eigene Fotos meist die bessere Wahl sind, lesen Sie im Ratgeber <a href=\"/wissen/website-fotos/\">Fotos für die Website</a>.</p>"
+    },
+    {
+      "h2": "Menschen auf Fotos: das Recht am eigenen Bild",
+      "html": "<p>Zeigt ein Foto erkennbare Personen, kommt ein zweites Recht ins Spiel. Das Urheberrechtsgesetz schützt in § 78 berechtigte Interessen abgebildeter Personen, dazu kommt der Datenschutz, weil ein Foto ein personenbezogenes Datum ist. Für Unternehmenswebsites heißt das in der Praxis:</p><ul><li><strong>Mitarbeitende:</strong> Holen Sie eine schriftliche Einwilligung ein, die festhält, wo und wofür das Foto erscheint. Klären Sie auch, was passiert, wenn jemand den Betrieb verlässt oder die Einwilligung widerruft.</li><li><strong>Kunden und Gäste:</strong> Bei einem Fest oder einer Veranstaltung weisen Sie vorab darauf hin, dass fotografiert wird, und fragen bei Nahaufnahmen nach.</li><li><strong>Kinder:</strong> Hier brauchen Sie die Zustimmung der Eltern, und Zurückhaltung ist ohnehin angebracht.</li></ul>"
+    },
+    {
+      "h2": "Weitere Stolperfallen: Gebäude, Logos und Produktfotos",
+      "html": "<p>Nicht nur Menschen und Fotografen haben Rechte an dem, was ein Bild zeigt:</p><ul><li><strong>Gebäude und Kunstwerke:</strong> Bauwerke, die dauerhaft an öffentlichen Orten stehen, dürfen in der Regel fotografiert und gezeigt werden. Bei Innenräumen, Ausstellungen oder Kunstwerken kann das anders sein.</li><li><strong>Herstellerlogos:</strong> Ein Installateur, der die Logos seiner Markenpartner zeigt, sollte vorher fragen, ob und wie er sie verwenden darf.</li><li><strong>Produktfotos von Lieferanten:</strong> Händler dürfen Herstellerbilder oft verwenden, aber nur im vereinbarten Rahmen. Lassen Sie sich das bestätigen.</li><li><strong>Kartenausschnitte:</strong> Screenshots von Online-Karten unterliegen den Nutzungsbedingungen des Kartenanbieters.</li><li><strong>Fotos aus Social Media:</strong> Ein Kunde postet ein Foto Ihres Produkts. Bevor Sie es auf Ihrer Website zeigen, fragen Sie ihn um Erlaubnis.</li></ul>"
+    },
+    {
+      "h2": "KI-generierte Bilder: eine eigene Frage",
+      "html": "<p>Immer mehr Betriebe erstellen Bilder mit KI-Werkzeugen. Das umgeht nicht alle Fragen, es verschiebt sie. Wichtig sind die Nutzungsbedingungen des Werkzeugs, das Risiko, dass ein Bild bestehenden Werken, Marken oder realen Personen zu sehr ähnelt, und die Frage, ob Sie an einem rein KI-erzeugten Bild selbst Rechte haben. Ausführlich behandelt das der Ratgeber <a href=\"/wissen/ki-texte-urheberrecht/\">KI-Texte und KI-Bilder: Fragen zum Urheberrecht</a>.</p><p>Ehrlich gesagt: Für Leistungen, Team und Werkstatt wirken echte Fotos fast immer glaubwürdiger. KI-Bilder eignen sich eher für Illustrationen und Hintergründe.</p>"
+    },
+    {
+      "h2": "Dokumentation: der einfachste Schutz",
+      "html": "<p>Wenn Jahre später eine Anfrage zu einem Bild kommt, hilft nur, was Sie belegen können. Legen Sie deshalb einen Ordner an, digital oder auf Papier, mit:</p><ol><li>einer Liste aller Bilder auf der Website mit Herkunft,</li><li>Lizenznachweisen und Rechnungen von Bildagenturen,</li><li>Verträgen bzw. E-Mails mit Fotografen zum Nutzungsumfang,</li><li>Einwilligungen abgebildeter Personen mit Datum,</li><li>notwendigen Bildnachweisen, die Sie auf der Website angeben müssen.</li></ol><p>Wo eine Namensnennung vorgeschrieben ist, gehört sie gut sichtbar zum Bild oder auf eine eigene Bildnachweis-Seite, je nach Lizenz. Auf Social Media gelten dieselben Grundsätze, mehr dazu unter <a href=\"/wissen/social-media-bildrechte/\">Bildrechte in Social Media</a>.</p>"
+    },
+    {
+      "h2": "Wenn eine Forderung kommt und wie Sie vorbeugen",
+      "html": "<p>Erhalten Sie ein Schreiben wegen eines Bildes, ignorieren Sie es nicht, zahlen Sie aber auch nicht vorschnell. Nehmen Sie das Bild offline, suchen Sie Ihre Unterlagen zusammen und lassen Sie das Schreiben von einer Anwältin, einem Anwalt oder der Rechtsberatung der <a href=\"https://www.wko.at/\">WKO</a> prüfen. Die Gesetzestexte finden Sie im <a href=\"https://www.ris.bka.gv.at/\">Rechtsinformationssystem des Bundes</a>.</p><p>Vorbeugen ist einfacher. Bei einer neuen Website, etwa der Starter-Website ab 2.500 € einmalig, klären wir gemeinsam, welche Bilder Sie haben und welche fehlen. Mehr dazu unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Dieser Ratgeber ist eine allgemeine Orientierung und ersetzt keine Rechtsberatung im Einzelfall.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Bilder aus der Google-Bildersuche auf meiner Website verwenden?",
+      "a": "In aller Regel nein. Die Bildersuche zeigt Bilder, die irgendwo im Internet veröffentlicht sind, sagt aber nichts darüber aus, ob Sie sie verwenden dürfen. Fast alle Fotos sind urheberrechtlich geschützt. Nutzen Sie stattdessen eigene Fotos, beauftragte Fotos oder Bilder mit klarer Lizenz, und bewahren Sie den Nachweis auf. Selbst Filter in Suchmaschinen für bestimmte Lizenzen ersetzen nicht die Prüfung der Lizenz an der Quelle."
+    },
+    {
+      "q": "Brauche ich eine schriftliche Einwilligung für Fotos meiner Mitarbeiter?",
+      "a": "Ja, das ist dringend zu empfehlen. Eine schriftliche Einwilligung hält fest, welche Fotos wo und wofür verwendet werden dürfen, zum Beispiel auf der Website und in Social Media. Klären Sie darin auch, was beim Ausscheiden aus dem Betrieb oder bei einem Widerruf passiert. Mündliche Absprachen sind schwer zu beweisen. Einzelheiten, etwa zur Freiwilligkeit im Arbeitsverhältnis, klären Sie im Zweifel mit Ihrer Rechtsberatung."
+    },
+    {
+      "q": "Darf ich Fotos verwenden, die mein Fotograf für mich gemacht hat?",
+      "a": "Ja, im vereinbarten Umfang. Mit der Bezahlung erhalten Sie nicht automatisch alle Rechte, sondern die Nutzungsrechte, die Sie mit dem Fotografen vereinbart haben. Halten Sie schriftlich fest, ob die Bilder für Website, Social Media, Print und Werbung genutzt werden dürfen, ob sie bearbeitet werden dürfen, wie lange und ob eine Namensnennung nötig ist. Dann gibt es später keine Missverständnisse."
+    },
+    {
+      "q": "Muss ich bei Stockfotos den Fotografen nennen?",
+      "a": "Das hängt von der Lizenz ab. Viele kostenpflichtige Bildagenturen verlangen bei der Nutzung auf Websites keine Namensnennung, manche schon, und bei freien Lizenzen ist sie oft Bedingung. Maßgeblich sind die Lizenzbedingungen der jeweiligen Plattform. Wo eine Nennung verlangt ist, muss sie in der vorgeschriebenen Form erfolgen, etwa direkt beim Bild oder auf einer Seite mit Bildnachweisen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-fotos/",
+    "/wissen/ki-texte-urheberrecht/",
+    "/wissen/social-media-bildrechte/",
+    "/wissen/ki-bilder-website/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

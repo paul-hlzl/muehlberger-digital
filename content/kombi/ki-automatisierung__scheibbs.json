@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/scheibbs/",
+  "title": "KI-Automatisierung in Scheibbs: Bewerbungen schneller",
+  "description": "Prozessautomatisierung mit KI im Bezirk Scheibbs: Bewerbungen sofort bestätigen, übersichtlich aufbereiten und neue Leute leichter einschulen.",
+  "h1": "KI & Prozessautomatisierung im Bezirk Scheibbs",
+  "kicker": "KI-Automatisierung · Scheibbs",
+  "lead": "Im Bezirk Scheibbs mit Erlauftal und Ötscherland suchen viele Handwerks-, Gewerbe- und Tourismusbetriebe Fachkräfte. KI-Automatisierung hilft dort, wo es um Bewerbungen geht: Eingänge sofort bestätigen, Unterlagen übersichtlich aufbereiten und neue Mitarbeitende mit weniger Aufwand einschulen, die Auswahl treffen weiterhin Sie.",
+  "fakten": [
+    "Jede Bewerbung bekommt sofort eine persönliche Eingangsbestätigung",
+    "Unterlagen werden zusammengefasst, entschieden wird von Menschen",
+    "Stellen kostenlos ausschreiben über zusage.at",
+    "Einschulungs-Checklisten automatisch für jede neue Person"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Erlauftal und Ötscherland: gute Leute sind gefragt",
+      "html": "<p>Der <a href=\"/regionen/bezirk-scheibbs/\">Bezirk Scheibbs</a> im südlichen <a href=\"/regionen/mostviertel/\">Mostviertel</a> reicht vom Erlauftal bis ins Ötscherland. Holz- und Metallbetriebe entlang der Eisenstraße, Bau und Handwerk, Gastronomie und Tourismus: Fast überall ist die Suche nach Fachkräften ein Thema. Wenn sich jemand bewirbt, zählt jeder Tag, denn gute Leute haben oft mehrere Optionen.</p>"
+    },
+    {
+      "h2": "Bewerbungen: schnelle Antwort als Vorteil",
+      "html": "<p>In kleinen Betrieben liegt eine Bewerbung oft tagelang im Postfach, weil der Chef auf der Baustelle oder in der Küche steht. Eine Automatisierung ändert das:</p><ul><li><strong>Sofortige Bestätigung:</strong> Die Person bekommt eine freundliche, persönliche Antwort mit dem weiteren Ablauf.</li><li><strong>Kurzprofil:</strong> Die KI fasst Lebenslauf und Anschreiben auf einer halben Seite zusammen, etwa Ausbildung, Erfahrung, Führerschein, möglicher Starttermin.</li><li><strong>Terminvorschlag:</strong> Wenn Sie sich für ein Gespräch entscheiden, werden passende Termine vorgeschlagen.</li></ul><p>Stellen ausschreiben können Sie kostenlos über <a href=\"https://zusage.at/\">zusage.at</a>, die Bewerbungsplattform von Pipeline AI Solutions. Tipps zum Text liefert der Ratgeber <a href=\"/wissen/stellenanzeige-schreiben/\">Stellenanzeige schreiben</a>.</p>"
+    },
+    {
+      "h2": "Neue Mitarbeitende einschulen mit weniger Aufwand",
+      "html": "<p>Ist jemand eingestellt, beginnt die nächste Routine: Unterlagen einholen, Arbeitskleidung bestellen, Zugänge anlegen, Sicherheitsunterweisung planen. Die Automatisierung erstellt für jede neue Person eine Checkliste, erinnert die Zuständigen und fasst Ihre internen Abläufe in einem verständlichen Einschulungsdokument zusammen. Mehr zu den Grundlagen steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Was die KI nicht entscheiden darf",
+      "html": "<p>Ob jemand zum Gespräch eingeladen oder eingestellt wird, entscheidet ein Mensch. Eine KI, die Bewerbungen selbstständig aussortiert, ist rechtlich heikel und fachlich unzuverlässig. Für Einsätze im Personalbereich gelten mit dem europäischen KI-Gesetz zusätzliche Anforderungen, einen Überblick gibt der Ratgeber <a href=\"/wissen/eu-ai-act/\">EU AI Act</a>. Für Ihren Einzelfall fragen Sie bitte die Wirtschaftskammer oder einen Anwalt.</p><p>Mühlberger Digital zeigt Ihnen im kostenlosen Erstgespräch, wie ein solcher Ablauf mit Ihren eigenen Bewerbungen aussehen würde.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf eine KI Bewerbungen vorsortieren?",
+      "a": "Eine KI darf Bewerbungen zusammenfassen und übersichtlich darstellen. Ein automatisches Aussortieren ohne menschliche Prüfung ist dagegen heikel, sowohl wegen Datenschutz als auch wegen der Regeln für KI im Personalbereich. Wir empfehlen deshalb, dass die KI nur aufbereitet und jede Bewerbung von einem Menschen gelesen wird. Im Zweifel klären Sie die Details mit der Wirtschaftskammer."
+    },
+    {
+      "q": "Was ist zusage.at?",
+      "a": "zusage.at ist eine kostenlose Bewerbungsplattform für Österreich und ein eigenes Produkt von Pipeline AI Solutions. Betriebe können dort Stellen ausschreiben und Bewerbungen bekommen. In Verbindung mit einer Automatisierung lassen sich eingehende Bewerbungen direkt bestätigen und aufbereiten, unabhängig davon, ob sie über die Plattform, per E-Mail oder über Ihre Website kommen."
+    },
+    {
+      "q": "Brauchen wir dafür eine eigene Karriereseite?",
+      "a": "Nicht zwingend, aber sie hilft. Eine Karriereseite zeigt, wie es sich bei Ihnen arbeitet, und gibt Bewerbern einen einfachen Weg, Kontakt aufzunehmen. Die Automatisierung funktioniert auch, wenn Bewerbungen nur per E-Mail eintreffen. Wer ohnehin eine neue Website plant, sollte eine einfache Karriereseite mitdenken."
+    },
+    {
+      "q": "Lohnt sich das bei zwei, drei Bewerbungen im Jahr?",
+      "a": "Ehrlich gesagt nein. Bei sehr wenigen Bewerbungen reicht eine gute Antwortvorlage, die Sie selbst verschicken. Interessant wird eine Automatisierung, wenn Sie regelmäßig suchen, etwa für Lehrlinge, Saisonkräfte oder mehrere Standorte, oder wenn Bewerbungen bisher immer wieder untergehen. Das klären wir im Gespräch, bevor ein Angebot entsteht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-scheibbs/",
+    "/produkte/zusage/",
+    "/wissen/mitarbeiter-finden-online/",
+    "/wissen/karriereseite/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

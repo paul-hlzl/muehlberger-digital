@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/amstetten/",
+  "title": "KI-Automatisierung in Amstetten für Gewerbe & Zulieferer",
+  "description": "Prozessautomatisierung mit KI für Betriebe in Amstetten: Anfragen auslesen, Bestellungen abgleichen, Liefertermine melden. Kostenloses Erstgespräch.",
+  "h1": "KI & Prozessautomatisierung in Amstetten",
+  "kicker": "KI-Automatisierung · Amstetten",
+  "lead": "Für Gewerbe- und Zulieferbetriebe im Raum Amstetten lohnt sich KI-Automatisierung vor allem dort, wo Anfragen, Bestellungen und Auftragsbestätigungen mit vielen Anhängen hin und her gehen. Die KI liest diese Unterlagen aus, überträgt die Daten in Ihre Vorlagen und meldet Abweichungen, entschieden wird weiter von Ihnen.",
+  "fakten": [
+    "Schwerpunkt: Anfragen, Bestellungen und Auftragsbestätigungen mit Anhängen",
+    "Die KI bereitet vor, Ihr Team prüft und gibt frei",
+    "Beratung durch Mühlberger Digital, Umsetzung durch Pipeline AI Solutions",
+    "Individuelle Projekte: Preis nach dem kostenlosen Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Zulieferer bei den Anfragen ansetzen sollten",
+      "html": "<p>Der Bezirk Amstetten im Mostviertel ist von Gewerbe, Produktion und Zulieferbetrieben geprägt, viele davon mit Kunden in ganz Österreich und darüber hinaus. Dort entsteht ein großer Teil der Büroarbeit, bevor überhaupt produziert wird: Anfragen mit Zeichnungen, Stücklisten und Mengenangaben müssen gesichtet, abgeschrieben und kalkuliert werden.</p><p>Genau dieses Abschreiben ist ein guter Kandidat für <strong>KI-gestützte Prozessautomatisierung</strong>. Die eigentliche Kalkulation bleibt Fachwissen, aber das Zusammensuchen der Daten muss niemand mehr händisch erledigen. Wie das grundsätzlich funktioniert, erklärt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Drei Abläufe, die in Produktion und Gewerbe gut funktionieren",
+      "html": "<ul><li><strong>Anfrage auslesen:</strong> Die KI erkennt in E-Mail und PDF Artikel, Mengen, Material und Wunschtermin und legt daraus einen Entwurf in Ihrer Kalkulationsvorlage an.</li><li><strong>Bestellung gegen Angebot prüfen:</strong> Kommt eine Bestellung herein, vergleicht das System Preise, Mengen und Termine mit Ihrem Angebot und markiert Unterschiede, bevor Sie bestätigen.</li><li><strong>Terminänderungen melden:</strong> Verschiebt sich ein Liefertermin, entsteht automatisch ein Entwurf für die Kundeninformation, den Sie nur noch freigeben.</li></ul><p>Weitere Ideen finden Sie im Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>.</p>"
+    },
+    {
+      "h2": "Was die KI dabei tut und was nicht",
+      "html": "<p>Die KI liest, sortiert und schreibt Entwürfe. Sie unterschreibt keine Auftragsbestätigung und ändert keine Preise auf eigene Faust. Gerade bei technischen Unterlagen gilt: Unklare Angaben werden markiert, nicht geraten.</p><p>Ehrlich gesagt lohnt sich der Aufwand nicht, wenn Sie nur wenige Anfragen im Monat bekommen oder jede Anfrage völlig anders aussieht. Dann ist eine gute Vorlage oft schon genug.</p>"
+    },
+    {
+      "h2": "Nähe zu Oberösterreich: wer bei Ihnen arbeitet",
+      "html": "<p>Amstetten liegt an der Grenze zu Oberösterreich. Dort sitzt auch <a href=\"https://www.pipeline-solutions.at/at/oberoesterreich/\">Pipeline AI Solutions</a>, das Team, das die Automatisierungen technisch umsetzt. Mühlberger Digital aus Ottenschlag berät Sie, klärt den Bedarf und vermittelt das passende Projekt. Mehr über die Region lesen Sie auf der Seite <a href=\"/regionen/bezirk-amstetten/\">Bezirk Amstetten</a>.</p>"
+    },
+    {
+      "h2": "So starten Sie",
+      "html": "<p>Bringen Sie zum <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zwei, drei typische Anfragen mit, gerne anonymisiert. Daran lässt sich in etwa 30 Minuten abschätzen, ob und wo sich eine Automatisierung rechnet. Danach erhalten Sie ein schriftliches Angebot mit klarem Preis.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann eine KI Bestellungen mit unseren Angeboten abgleichen?",
+      "a": "Ja, das ist ein typischer Anwendungsfall. Die KI liest Positionen, Mengen, Preise und Termine aus der Bestellung und vergleicht sie mit dem ursprünglichen Angebot. Stimmt etwas nicht überein, wird die Abweichung markiert und Ihr Team entscheidet, wie es weitergeht. Voraussetzung ist, dass Angebote digital vorliegen, etwa als PDF oder in Ihrer Software."
+    },
+    {
+      "q": "Müssen wir dafür unsere bestehende Software wechseln?",
+      "a": "In der Regel nicht. Eine Automatisierung wird an das angebunden, was Sie schon nutzen, zum Beispiel E-Mail-Postfach, Ablage oder Warenwirtschaft. Ob eine direkte Verbindung möglich ist, hängt vom Programm ab und wird im Erstgespräch geklärt. Wo keine Schnittstelle existiert, arbeitet man oft mit Exporten oder einer gemeinsamen Ablage."
+    },
+    {
+      "q": "Ab wie vielen Anfragen rechnet sich so ein Projekt?",
+      "a": "Eine feste Zahl gibt es nicht. Entscheidend ist, wie viel Zeit pro Anfrage mit Abschreiben und Suchen vergeht und wie ähnlich die Anfragen aufgebaut sind. Wenn jemand im Team regelmäßig Stunden pro Woche damit verbringt, lohnt sich ein genauerer Blick. Bei wenigen, sehr unterschiedlichen Anfragen raten wir eher zu besseren Vorlagen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-amstetten/",
+    "/wissen/angebote-automatisieren/",
+    "/branchen/metallbau/",
+    "/wissen/automatisierung-beispiele/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

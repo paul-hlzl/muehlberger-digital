@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/gespraechsaufzeichnung/",
+  "title": "Gespräche aufzeichnen: Information und Einwilligung",
+  "description": "Gespräche und Meetings im Betrieb aufzeichnen: wann Sie informieren und fragen sollten, was bei KI-Protokollen gilt und welche Formulierungen helfen.",
+  "h1": "Gespräche aufzeichnen: Information und Einwilligung",
+  "kicker": "Ratgeber · Recht & Meetings",
+  "lead": "Wer Gespräche im Betrieb aufzeichnet oder von einer KI protokollieren lässt, sollte alle Teilnehmenden vorher klar informieren und, wo nötig, ihre Zustimmung einholen. Heimliche Aufnahmen sind rechtlich riskant: Das Weitergeben einer heimlich aufgenommenen Äußerung kann in Österreich strafbar sein, und für das Speichern gelten zusätzlich die Regeln der DSGVO. Offenheit ist deshalb die einzige vernünftige Grundlage.",
+  "fakten": [
+    "Vor jeder Aufnahme informieren, am besten schon in der Einladung und noch einmal zu Beginn",
+    "Heimliche Aufnahmen und deren Weitergabe sind rechtlich riskant und teils strafbar",
+    "Auch KI-Protokolle verarbeiten personenbezogene Daten und fallen unter die DSGVO",
+    "Teilnehmende müssen widersprechen können, ohne Nachteile zu haben",
+    "Bei Aufnahmen von Mitarbeitenden kann zusätzlich das Arbeitsrecht greifen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Offenheit die einzige sinnvolle Grundlage ist",
+      "html": "<p>Drei Rechtsbereiche spielen bei Aufnahmen zusammen. Das <strong>Strafrecht</strong>: § 120 des Strafgesetzbuchs stellt den Missbrauch von Tonaufnahme- oder Abhörgeräten unter Strafe. Erfasst ist etwa, nicht öffentliche Gespräche anderer heimlich abzuhören oder heimlich aufgenommene Äußerungen weiterzugeben oder zu veröffentlichen. Der <strong>Datenschutz</strong>: Eine Aufnahme enthält Stimme und Inhalte, also personenbezogene Daten. Und das <strong>Arbeitsrecht</strong>, sobald Mitarbeitende betroffen sind.</p><p>Ob eine bestimmte Aufnahme im Einzelfall zulässig wäre, ist eine juristische Frage. Für den Geschäftsalltag ist die Antwort einfacher: Wer offen informiert und eine echte Wahl lässt, bewegt sich auf sicherem Boden und erhält sich das Vertrauen von Kunden und Team.</p>"
+    },
+    {
+      "h2": "Was der Datenschutz bei Aufnahmen verlangt",
+      "html": "<p>Auch wenn alle einverstanden sind, gelten die Grundsätze der DSGVO. Für Ihre Aufnahmen und KI-Protokolle sollten Sie Folgendes festlegen:</p><ul><li><strong>Zweck:</strong> etwa ein Protokoll mit Aufgaben und Vereinbarungen zu erstellen</li><li><strong>Rechtsgrundlage:</strong> häufig die Einwilligung der Teilnehmenden, je nach Situation auch andere Grundlagen</li><li><strong>Speicherdauer:</strong> Wie lange bleiben Audio, Transkript und Protokoll gespeichert?</li><li><strong>Empfänger:</strong> Welcher Anbieter verarbeitet die Daten, und gibt es einen Auftragsverarbeitungsvertrag?</li><li><strong>Zugriff:</strong> Wer im Betrieb sieht Aufnahmen und Protokolle?</li><li><strong>Rechte:</strong> Wie können Teilnehmende Auskunft oder Löschung verlangen?</li></ul><p>Diese Informationen gehören in kurzer Form in die Einladung und ausführlicher in Ihre Datenschutzinformation.</p>"
+    },
+    {
+      "h2": "KI-Protokolle ohne sichtbaren Bot: Information wird wichtiger",
+      "html": "<p>Viele Protokoll-Werkzeuge schicken einen sichtbaren Bot als Teilnehmer in das Meeting. Andere, wie <a href=\"/produkte/noteit/\">noteit</a>, arbeiten ohne Bot im Call. Das wirkt ruhiger und stört die Besprechung nicht, bedeutet aber auch: Die anderen Teilnehmenden sehen nicht automatisch, dass protokolliert wird.</p><p>Gerade dann liegt die Verantwortung bei Ihnen, transparent zu informieren. Prüfen Sie außerdem beim Anbieter, wo die Daten gespeichert werden, bei noteit in Frankfurt, und ob und wie lange Audiodaten aufbewahrt werden. Wie solche Werkzeuge arbeiten, erklärt der Ratgeber <a href=\"/wissen/ki-meeting-protokoll/\">KI-Meeting-Protokoll</a>.</p>"
+    },
+    {
+      "h2": "So informieren Sie richtig: Formulierungen für die Praxis",
+      "html": "<p>Gute Information ist kurz, konkret und kommt rechtzeitig. Bewährt haben sich drei Stellen:</p><ol><li><strong>In der Einladung:</strong> „Für das Protokoll wird das Gespräch mit einem KI-Werkzeug aufgezeichnet und zusammengefasst. Das Protokoll erhalten alle Teilnehmenden. Wenn Sie nicht einverstanden sind, sagen Sie uns bitte vorher Bescheid.“</li><li><strong>Zu Beginn des Gesprächs:</strong> mündlich wiederholen und fragen, ob alle einverstanden sind.</li><li><strong>Während des Gesprächs:</strong> bei vertraulichen Themen die Aufnahme pausieren, wenn jemand das wünscht.</li></ol><p>Widerspricht jemand, protokollieren Sie dieses Gespräch klassisch mit. Die Ablehnung darf keine Nachteile haben, sonst ist eine Einwilligung nicht freiwillig.</p>"
+    },
+    {
+      "h2": "Telefonate, Hotlines und KI-Telefonassistenten",
+      "html": "<p>Bei Telefonaten gelten dieselben Grundsätze. Wer Anrufe aufzeichnet, etwa zur Qualitätssicherung oder Dokumentation, kündigt das zu Beginn an und bietet eine Möglichkeit, das Gespräch ohne Aufnahme zu führen. Eine kurze Ansage vor dem Gespräch ist der übliche Weg.</p><p>Setzen Sie einen KI-Telefonassistenten ein, der Anrufe entgegennimmt und Anliegen notiert, sollten Anrufer außerdem erfahren, dass sie mit einer KI sprechen. Das entspricht den Transparenzregeln der europäischen KI-Verordnung. Mehr dazu im Ratgeber <a href=\"/wissen/ki-telefonassistent-erklaert/\">KI-Telefonassistent erklärt</a>.</p>"
+    },
+    {
+      "h2": "Mitarbeitergespräche, Bewerbungen und Betriebsrat",
+      "html": "<p>Bei Gesprächen mit Mitarbeitenden ist besondere Zurückhaltung angebracht. Ein Jahresgespräch, ein Konfliktgespräch oder ein Bewerbungsgespräch aufzuzeichnen, ist heikel, weil die Freiwilligkeit einer Zustimmung im Arbeitsverhältnis schnell infrage steht. Ein schriftliches Protokoll, das beide Seiten erhalten, ist hier meist die bessere Lösung.</p><p>Werden Aufnahme- oder Protokollwerkzeuge im Betrieb regelmäßig eingesetzt, kann das Arbeitsverfassungsrecht die Zustimmung des Betriebsrats bzw. eine Betriebsvereinbarung erfordern, wenn es um Kontrollmaßnahmen geht. Klären Sie das vor der Einführung mit der WKO, Ihrer Rechtsberatung oder Ihrer Interessenvertretung.</p>"
+    },
+    {
+      "h2": "Checkliste und passende Werkzeuge",
+      "html": "<ul><li>Zweck der Aufnahme festgelegt</li><li>Information in Einladung und zu Beginn des Gesprächs</li><li>Möglichkeit zum Widerspruch ohne Nachteile</li><li>Anbieter mit Auftragsverarbeitungsvertrag und bekanntem Speicherort</li><li>Speicherdauer und Zugriff im Betrieb geregelt</li><li>Datenschutzinformation aktualisiert</li></ul><p>Wenn Sie Besprechungen und Kundengespräche dokumentieren wollen, ohne selbst mitzuschreiben, lohnt sich ein Blick auf <a href=\"/leistungen/meeting-protokolle-ki/\">KI-Meeting-Protokolle</a>. noteit können Sie mit dem Starter-Paket kostenlos nutzen, 3 Stunden pro Monat, Pro kostet 14 € im Monat. Den Einstieg finden Sie auf <a href=\"https://noteit.at/registrieren\">noteit.at</a>. Dieser Ratgeber ist keine Rechtsberatung. Im Einzelfall helfen die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>, die WKO oder eine Anwältin bzw. ein Anwalt weiter.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich ein Gespräch aufzeichnen, an dem ich selbst teilnehme?",
+      "a": "Das hängt vom Einzelfall ab, und die Rechtslage ist nicht in jedem Detail eindeutig. Klar ist: Heimlich aufgenommene Äußerungen weiterzugeben oder zu veröffentlichen, kann strafbar sein, und das Speichern unterliegt der DSGVO. Im geschäftlichen Alltag ist deshalb die Empfehlung eindeutig: Informieren Sie alle Teilnehmenden vorher und zeichnen Sie nur auf, wenn niemand widerspricht. Für Sonderfälle fragen Sie eine Anwältin oder einen Anwalt."
+    },
+    {
+      "q": "Reicht es, die Aufnahme in der Einladung zu erwähnen?",
+      "a": "Ein Hinweis in der Einladung ist ein guter erster Schritt, sollte aber zu Beginn des Gesprächs mündlich wiederholt werden. Nicht alle lesen Einladungen vollständig, und manchmal kommen weitere Personen dazu. Fragen Sie kurz, ob alle einverstanden sind, und bieten Sie an, ohne Aufnahme zu protokollieren. So können Sie im Zweifel belegen, dass alle informiert waren und eine echte Wahl hatten."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Aufnahme und KI-Protokoll?",
+      "a": "Bei einer Aufnahme wird das Gespräch als Ton oder Video gespeichert. Ein KI-Protokoll entsteht meist ebenfalls aus einer Aufnahme, die automatisch verschriftlicht und zusammengefasst wird. Datenschutzrechtlich werden in beiden Fällen personenbezogene Daten verarbeitet. Je nach Werkzeug bleibt die Audiodatei gespeichert oder nur das Protokoll. Prüfen Sie beim Anbieter, was genau gespeichert wird und wie lange."
+    },
+    {
+      "q": "Muss ich Kunden vor einem Videocall mit KI-Protokoll um Erlaubnis fragen?",
+      "a": "Ja, das ist dringend zu empfehlen. Informieren Sie in der Einladung, dass ein KI-Werkzeug ein Protokoll erstellt, wofür es verwendet wird und wer es erhält, und fragen Sie zu Beginn noch einmal nach. Viele Kunden schätzen ein sauberes Protokoll, wenn sie vorher Bescheid wissen. Wer nicht einverstanden ist, bekommt ein klassisches Protokoll. So bleibt das Vertrauen erhalten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-meeting-protokoll/",
+    "/wissen/kundengespraeche-dokumentieren/",
+    "/produkte/noteit/",
+    "/leistungen/meeting-protokolle-ki/",
+    "/wissen/ki-und-datenschutz/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

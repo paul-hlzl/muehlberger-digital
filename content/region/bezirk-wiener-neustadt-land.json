@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/bezirk-wiener-neustadt-land/",
+  "title": "Digitalagentur Bezirk Wiener Neustadt-Land",
+  "description": "Websites, lokale Sichtbarkeit und KI-Tools für Betriebe im Bezirk Wiener Neustadt-Land: persönliche Beratung, klare Preise, kostenloses Erstgespräch.",
+  "h1": "Digitalagentur für den Bezirk Wiener Neustadt-Land",
+  "kicker": "Region · Industrieviertel",
+  "lead": "Mühlberger Digital berät Betriebe im Bezirk Wiener Neustadt-Land zu Website, Google-Sichtbarkeit und KI-Werkzeugen – per Video-Call, am Telefon oder vor Ort. Weil viele Betriebe hier in mehreren Gemeinden arbeiten, steht eine Frage im Mittelpunkt: Wie werden Sie in jedem Ort Ihres Einzugsgebiets gefunden?",
+  "fakten": [
+    "Bezirk im Industrieviertel, Niederösterreich, rund um die Stadt Wiener Neustadt",
+    "Schwerpunkt: Sichtbarkeit im ganzen Einzugsgebiet, nicht nur am Firmensitz",
+    "Starter-Website ab 2.500 € einmalig, bis zu 5 Seiten",
+    "Kostenloses Erstgespräch, ca. 30 Minuten, vor Ort, telefonisch oder per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Orte, ein Betrieb: das Einzugsgebiet sichtbar machen",
+      "html": "<p>Wer im Bezirk Wiener Neustadt-Land einen Betrieb führt, arbeitet selten nur im eigenen Ort. Ein Elektriker, ein Gartenbetrieb oder eine mobile Fußpflege fährt in die Nachbargemeinden und oft bis in die Stadt. Gesucht wird aber meist mit dem Ortsnamen der Kundin, nicht mit dem des Betriebs.</p><p>Deshalb lohnt es sich, auf der Website klar zu zeigen, wo Sie tätig sind: eine Liste der Orte, typische Einsätze und, wo es wirklich Sinn ergibt, eigene Seiten für wichtige Orte. Wie das ohne austauschbare Textbausteine geht, erklärt der Ratgeber zu <a href=\"/wissen/lokale-landingpages/\">lokalen Landingpages</a>.</p>"
+    },
+    {
+      "h2": "Zwischen Stadtnähe und ländlichen Gegenden",
+      "html": "<p>Der Bezirk liegt rund um Wiener Neustadt und reicht bis in hügelige, ländliche Gegenden wie die Bucklige Welt. Das bringt zwei Arten von Kundschaft: Menschen, die gezielt online vergleichen, und Menschen, die vor allem auf Empfehlung kaufen. Beide sehen sich heute Ihren Google-Eintrag an, bevor sie anrufen.</p><p>Nahe der Stadt geht es oft darum, sich von vielen Mitbewerbern abzuheben. In kleineren Orten reicht häufig schon ein gepflegter Eintrag mit Fotos, Öffnungszeiten und echten Bewertungen. Die Stadt selbst behandeln wir auf einer eigenen Seite: <a href=\"/regionen/wiener-neustadt/\">Digitalagentur für Wiener Neustadt</a>.</p>"
+    },
+    {
+      "h2": "Wie die Zusammenarbeit abläuft",
+      "html": "<p>Am Anfang steht ein kostenloses Erstgespräch von etwa 30 Minuten, Montag bis Freitag zwischen 18:00 und 21:30 Uhr, also nach Geschäftsschluss. Sie entscheiden, ob wir telefonieren, uns per Video sehen oder Jonas Mühlberger zu Ihnen in den Betrieb kommt.</p><p>Im Gespräch klären wir, was Sie wirklich brauchen. Lösungen zeigen wir live mit Ihren eigenen Daten statt mit Musterseiten. Danach bekommen Sie ein schriftliches Angebot mit klarem Preis. Die technische Umsetzung übernimmt unser Partner <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>.</p>"
+    },
+    {
+      "h2": "Was Betriebe im Bezirk typischerweise brauchen",
+      "html": "<ul><li><strong>Eine schnelle, mobile Website</strong>: Die Starter-Website umfasst bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting.</li><li><strong>Sichtbarkeit in KI-Suchen</strong>: Immer mehr Menschen fragen ChatGPT oder Gemini nach einem Betrieb in der Nähe. Der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> zeigt, ob Sie dort genannt werden.</li><li><strong>Neue Firmenkunden</strong>: Wer an andere Betriebe liefert, findet mit SightUp passende Firmen in der Umgebung.</li></ul><p>Nicht alles davon braucht jeder. Ein Betrieb mit vollem Auftragsbuch und treuen Stammkunden kommt oft mit einem guten Google-Eintrag aus, und das sagen wir auch so. Den größeren Rahmen beschreiben die Seiten zum <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> und zu <a href=\"/regionen/niederoesterreich/\">Niederösterreich</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt Jonas Mühlberger für ein Gespräch in den Bezirk Wiener Neustadt-Land?",
+      "a": "Ja, ein Termin vor Ort ist möglich, wenn Ihnen das lieber ist. Viele Betriebe wählen aber ein Telefonat oder einen Video-Call, weil sich das leichter in den Arbeitstag einfügt. Das kostenlose Erstgespräch dauert etwa 30 Minuten und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt. Spätere Abstimmungen laufen oft per Video, wobei wir Entwürfe gemeinsam am Bildschirm ansehen."
+    },
+    {
+      "q": "Brauche ich für jeden Ort im Bezirk eine eigene Unterseite?",
+      "a": "Nein. Eigene Ortsseiten lohnen sich nur, wenn Sie dort regelmäßig Aufträge haben und wirklich etwas Eigenes zu sagen haben, etwa typische Einsätze oder Anfahrtszeiten. Seiten, auf denen nur der Ortsname getauscht wird, schaden eher, weil Google solche Seiten abwertet. Oft genügt eine gut gemachte Leistungsseite mit einer klaren Liste der Orte, die Sie betreuen."
+    },
+    {
+      "q": "Was kostet eine Website für einen kleinen Betrieb im Bezirk?",
+      "a": "Die Starter-Website beginnt bei 2.500 € einmalig als unverbindlicher Richtpreis. Sie umfasst bis zu fünf Seiten, die Darstellung auf Smartphone, Tablet und Computer, Kontaktformular, Impressum, Datenschutz und Hosting. Größere Projekte wie Onlineshops oder Web-Apps kalkulieren wir nach dem Erstgespräch. Sie bekommen immer ein schriftliches Angebot, bevor etwas beauftragt wird."
+    }
+  ],
+  "verwandt": [
+    "/regionen/wiener-neustadt/",
+    "/regionen/industrieviertel/",
+    "/regionen/niederoesterreich/",
+    "/wissen/lokale-landingpages/",
+    "/leistungen/website-erstellen/wiener-neustadt/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

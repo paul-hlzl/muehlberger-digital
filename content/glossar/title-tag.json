@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/title-tag/",
+  "title": "Title-Tag: Seitentitel für Google richtig nutzen",
+  "description": "Title-Tag einfach erklärt: Was der Seitentitel ist, wo er in Google erscheint und wie kleine Betriebe ihn mit Leistung und Ort sinnvoll formulieren.",
+  "h1": "Title-Tag – der Seitentitel",
+  "kicker": "Glossar · SEO",
+  "lead": "Der Title-Tag ist der Titel einer Webseite, der im Quelltext steht, im Browser-Tab angezeigt wird und meist als blaue Überschrift in den Google-Ergebnissen erscheint. Er ist eines der wichtigsten Signale, worum es auf einer Seite geht.",
+  "fakten": [
+    "Jede Seite braucht einen eigenen, eindeutigen Titel",
+    "Wichtigstes zuerst: Leistung, dann Ort, dann Marke",
+    "Zu lange Titel kürzt Google in der Anzeige ab"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schwache und gute Seitentitel",
+      "html": "<p>Bei einer Zimmerei heißen alle Seiten „Startseite – Zimmerei Muster“. Google kann kaum unterscheiden, welche Seite zu „Carport bauen lassen“ passt. Besser sind eindeutige Titel wie „Carport aus Holz planen und bauen | Zimmerei Muster“ und „Dachstuhl sanieren im Bezirk Melk | Zimmerei Muster“.</p><ul><li>Hauptbegriff möglichst am Anfang</li><li>Ort ergänzen, wenn Sie regional arbeiten</li><li>Als Faustregel rund 50 bis 60 Zeichen, damit nichts abgeschnitten wird</li></ul>"
+    },
+    {
+      "h2": "Warum der Title-Tag für KMU zählt",
+      "html": "<p>Der Seitentitel ist das Erste, was Suchende von Ihnen sehen. Er hilft Google bei der Einordnung und entscheidet mit, ob jemand klickt. Gerade kleine Websites verschenken hier viel, weil Baukästen oft Standardtitel setzen.</p><p>Gemeinsam mit der <a href=\"/glossar/meta-description/\">Meta-Description</a> bildet der Titel den Eintrag in den <a href=\"/glossar/serp/\">SERPs</a>. Konkrete Formulierungen zeigt der Ratgeber <a href=\"/wissen/title-und-meta-description/\">Title und Meta-Description</a>, typische Fehler die Seite <a href=\"/wissen/seo-fehler/\">häufige SEO-Fehler</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist der Title-Tag dasselbe wie die Überschrift auf der Seite?",
+      "a": "Nein, aber beide hängen zusammen. Der Title-Tag steht im Quelltext und erscheint in Google und im Browser-Tab. Die Hauptüberschrift, technisch H1 genannt, sehen Besucher oben auf der Seite. Beide sollten dasselbe Thema benennen, dürfen aber unterschiedlich formuliert sein. Der Titel ist oft etwas knapper und enthält zusätzlich den Firmennamen."
+    },
+    {
+      "q": "Warum ändert Google manchmal meinen Seitentitel?",
+      "a": "Google passt angezeigte Titel an, wenn der hinterlegte Title-Tag zu lang, zu allgemein oder für die Suchanfrage wenig hilfreich ist. Dann wird zum Beispiel die Hauptüberschrift der Seite verwendet. Mit einem klaren, eindeutigen Titel, der den Inhalt genau beschreibt, passiert das deutlich seltener. Ganz verhindern lässt es sich nicht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/title-und-meta-description/",
+    "/glossar/meta-description/",
+    "/glossar/keyword/",
+    "/wissen/seo-fehler/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

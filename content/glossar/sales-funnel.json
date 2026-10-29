@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/sales-funnel/",
+  "title": "Sales Funnel: Der Verkaufstrichter erklärt",
+  "description": "Sales Funnel einfach erklärt: Welche Stufen Kunden vom ersten Kontakt bis zum Auftrag durchlaufen und wie kleine Betriebe Lücken im Verkaufstrichter finden.",
+  "h1": "Sales Funnel – der Verkaufstrichter",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Ein Sales Funnel (Verkaufstrichter) ist ein Modell, das die Stufen beschreibt, die ein Kunde vom ersten Kontakt mit Ihrem Betrieb bis zum Auftrag durchläuft. Auf jeder Stufe springen Menschen ab, deshalb wird der Trichter nach unten schmäler.",
+  "fakten": [
+    "Typische Stufen: aufmerksam werden, informieren, anfragen, kaufen",
+    "Zeigt, an welcher Stelle Interessenten verloren gehen",
+    "Gilt für Website, Telefon und persönlichen Vertrieb gleichermaßen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Trichter am Beispiel eines Betriebs",
+      "html": "<p>Ein Fotostudio für Hochzeiten betrachtet seinen Weg zum Auftrag:</p><ol><li>Aufmerksamkeit: Paare sehen Bilder auf Instagram oder finden das Studio bei Google.</li><li>Interesse: Sie schauen sich Galerie und Pakete auf der Website an.</li><li>Anfrage: Sie fragen nach dem Wunschtermin.</li><li>Entscheidung: Nach dem Kennenlerngespräch buchen sie.</li></ol><p>Die Auswertung zeigt: Viele schauen die Pakete an, aber wenige fragen an. Der Grund ist ein langes Formular mit zwölf Pflichtfeldern. Nach dem Kürzen kommen mehr Anfragen bei gleicher Besucherzahl.</p>"
+    },
+    {
+      "h2": "Warum der Sales Funnel für KMU nützlich ist",
+      "html": "<p>Das Modell hilft, gezielt an der schwächsten Stelle anzusetzen, statt einfach mehr Werbung zu schalten. Oft liegt das Problem nicht bei der Aufmerksamkeit, sondern bei der Umwandlung von Interesse in Anfragen, also bei der <a href=\"/glossar/conversion/\">Conversion</a>, oder beim Nachfassen von Angeboten.</p><p>Hilfreich sind dafür ein <a href=\"/glossar/crm/\">CRM</a>, klare <a href=\"/glossar/call-to-action/\">Call-to-Actions</a> und der Ratgeber <a href=\"/wissen/angebot-nachfassen/\">Angebote nachfassen</a>. Wie Sie die Website-Stufen verbessern, zeigt <a href=\"/wissen/conversion-verbessern/\">Conversion verbessern</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als kleiner Betrieb einen Sales Funnel?",
+      "a": "Sie haben bereits einen, auch wenn Sie ihn nicht so nennen: Jeder Kunde wird irgendwie auf Sie aufmerksam, informiert sich und entscheidet sich. Es geht nur darum, diesen Weg bewusst anzusehen. Schon eine einfache Liste, wie viele Menschen auf jeder Stufe ankommen, zeigt oft, wo sich mit wenig Aufwand mehr Aufträge gewinnen lassen."
+    },
+    {
+      "q": "Wie messe ich die Stufen des Trichters?",
+      "a": "Für die Website liefern Statistik-Tools Besucherzahlen, Seitenaufrufe und abgeschickte Formulare. Anfragen, Angebote und Aufträge zählen Sie am einfachsten im CRM oder einer Liste. Wichtig ist, für jede Stufe eine klare Zahl festzulegen und sie monatlich zu vergleichen. So erkennen Sie, ob eine Änderung tatsächlich etwas bewirkt hat."
+    }
+  ],
+  "verwandt": [
+    "/wissen/conversion-verbessern/",
+    "/glossar/conversion/",
+    "/glossar/lead/",
+    "/wissen/angebot-nachfassen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

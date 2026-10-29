@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/native-app-oder-web-app/",
+  "title": "Native App oder Web-App? Was Ihr Betrieb braucht",
+  "description": "Native App aus dem App Store oder Web-App im Browser? Kosten, Funktionen, Updates und Reichweite im fairen Vergleich – mit Empfehlung für kleine Betriebe.",
+  "h1": "Native App oder Web-App?",
+  "kicker": "Vergleich · Apps",
+  "lead": "Eine Web-App läuft im Browser auf jedem Gerät, braucht keinen App Store und ist meist günstiger in Entwicklung und Pflege. Eine native App lohnt sich, wenn Sie tiefen Zugriff auf Gerätefunktionen brauchen, im App Store gefunden werden wollen oder Ihre Nutzer die App täglich verwenden. Für viele kleine Betriebe ist die Web-App der vernünftigere erste Schritt.",
+  "fakten": [
+    "Web-App: eine Version für alle Geräte, Updates sofort für alle",
+    "Native App: eigene Versionen für iPhone und Android, Veröffentlichung über die Stores",
+    "Progressive Web-Apps lassen sich auf den Home-Bildschirm legen",
+    "App-Entwicklung über Pipeline AI Solutions: Preis nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Arten von App kurz erklärt",
+      "html": "<p>Eine <strong>native App</strong> wird für ein bestimmtes Betriebssystem entwickelt, also für iPhone (iOS) oder Android, und über den App Store bzw. Google Play installiert. Sie wird direkt auf dem Gerät installiert und kann dessen Funktionen besonders umfassend nutzen.</p><p>Eine <strong>Web-App</strong> ist eine Anwendung, die im Browser läuft – wie eine Website, nur mit Funktionen wie Anmeldung, Formularen oder Buchungen. Eine Sonderform ist die <strong>Progressive Web-App</strong> (PWA), die sich wie eine App auf den Home-Bildschirm legen lässt und teilweise offline funktioniert. Details im <a href=\"/glossar/pwa/\">Glossar: PWA</a>.</p>"
+    },
+    {
+      "h2": "Wann eine Web-App die bessere Wahl ist",
+      "html": "<ul><li><strong>Eine Version für alle:</strong> iPhone, Android, Tablet und Computer nutzen dieselbe Anwendung.</li><li><strong>Kein Store nötig:</strong> Ein Link genügt, niemand muss etwas installieren.</li><li><strong>Updates sofort:</strong> Änderungen sind sofort bei allen Nutzern, ohne Prüfung durch einen Store.</li><li><strong>Günstiger:</strong> Es wird nur eine Anwendung entwickelt und gewartet.</li></ul><p>Typische Situation: Ein Hofladen möchte, dass Stammkunden ihre Wochenkiste bis Donnerstag vorbestellen. Das funktioniert in einer Web-App auf jedem Handy, ohne dass jemand eine App suchen und installieren muss.</p><p>Auch für interne Werkzeuge ist die Web-App oft ideal, etwa für Stundenzettel oder Baustellenberichte. Mehr dazu unter <a href=\"/wissen/app-fuer-mitarbeiter/\">Apps für Mitarbeiter</a>.</p>"
+    },
+    {
+      "h2": "Wann sich eine native App lohnt",
+      "html": "<ul><li><strong>Tiefer Gerätezugriff:</strong> etwa Bluetooth-Geräte, Hintergrundfunktionen oder aufwendige Kameranutzung.</li><li><strong>Tägliche Nutzung:</strong> Wenn Kunden die App sehr häufig öffnen, zählen Tempo und Bedienkomfort besonders.</li><li><strong>Sichtbarkeit im Store:</strong> Manche Zielgruppen suchen gezielt im App Store nach Lösungen.</li><li><strong>Komplexe Offline-Nutzung:</strong> Arbeiten ohne Netz über längere Zeit, etwa in Kellern oder Funklöchern.</li></ul><p>Typische Situation: Ein Fitnessstudio, dessen Mitglieder mehrmals pro Woche Kurse buchen, Trainingspläne abrufen und Erinnerungen bekommen. Hier kann sich eine native App rechnen. Was bei der Veröffentlichung zu beachten ist, beschreibt <a href=\"/wissen/app-store-veroeffentlichung/\">App im Store veröffentlichen</a>.</p>"
+    },
+    {
+      "h2": "Native App und Web-App im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Native App</th><th>Web-App / PWA</th></tr></thead><tbody><tr><td>Geräte</td><td>eigene Version je Betriebssystem</td><td>eine Version für alle</td></tr><tr><td>Installation</td><td>über App Store oder Google Play</td><td>Link im Browser, optional Home-Bildschirm</td></tr><tr><td>Updates</td><td>über die Stores, Nutzer müssen aktualisieren</td><td>sofort für alle</td></tr><tr><td>Gerätefunktionen</td><td>umfassend</td><td>viele, aber nicht alle</td></tr><tr><td>Push-Mitteilungen</td><td>ja</td><td>möglich, mit Einschränkungen je Gerät</td></tr><tr><td>Entwicklungsaufwand</td><td>höher</td><td>geringer</td></tr><tr><td>Auffindbarkeit</td><td>im Store</td><td>über Google und Ihre Website</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Kosten und Aufwand ehrlich betrachtet",
+      "html": "<p>Bei einer nativen App fallen neben der Entwicklung auch laufende Aufgaben an: Anpassungen an neue Betriebssystem-Versionen, Store-Richtlinien und Konten bei Apple und Google. Eine Web-App braucht ebenfalls Wartung, aber nur für eine Plattform. Einen Überblick über die Kostenfaktoren gibt der Ratgeber <a href=\"/wissen/app-kosten/\">Was kostet eine App?</a></p><p>Ehrlich gesagt: Viele Ideen für eine eigene App lassen sich mit einer guten Website, einer Online-Buchung oder einem Chatbot einfacher lösen. Ob eine App überhaupt sinnvoll ist, prüft der Ratgeber <a href=\"/wissen/eigene-app-sinnvoll/\">Lohnt sich eine eigene App?</a></p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Buchungen, Vorbestellungen, interne Formulare:</strong> Web-App bzw. PWA.</li><li><strong>Täglich genutzte Kunden-App mit Gerätefunktionen:</strong> native App.</li><li><strong>Unsicher, ob die Idee angenommen wird:</strong> mit einer Web-App starten und bei Erfolg nachlegen.</li></ul><p>Beide Varianten setzt <a href=\"https://www.pipeline-solutions.at/leistungen/\">Pipeline AI Solutions</a> um, der Preis wird nach dem Erstgespräch angeboten. Mehr dazu unter <a href=\"/leistungen/app-entwicklung/\">App-Entwicklung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann eine Web-App Push-Mitteilungen senden?",
+      "a": "Ja, Progressive Web-Apps können Push-Mitteilungen senden, wenn Nutzer das erlauben. Auf Android funktioniert das schon lange, auf iPhones inzwischen ebenfalls, wenn die Web-App zum Home-Bildschirm hinzugefügt wurde. Die Möglichkeiten sind etwas eingeschränkter als bei nativen Apps. Für Terminerinnerungen oder Hinweise auf Aktionen reicht es in vielen Fällen trotzdem aus."
+    },
+    {
+      "q": "Ist eine native App teurer als eine Web-App?",
+      "a": "In der Regel ja, weil für iPhone und Android jeweils eine eigene Version entsteht oder ein entsprechend aufwendigeres Framework genutzt wird. Dazu kommen Store-Konten, die Prüfung durch Apple und Google und regelmäßige Anpassungen an neue Betriebssystem-Versionen. Eine Web-App wird einmal entwickelt und läuft überall. Den konkreten Preis für Ihr Vorhaben erfahren Sie nach dem Erstgespräch."
+    },
+    {
+      "q": "Kann ich mit einer Web-App starten und später eine native App bauen?",
+      "a": "Ja, das ist ein sinnvoller Weg. Mit der Web-App testen Sie, ob Kunden die Funktion tatsächlich nutzen, und sammeln Erfahrungen. Wenn sich zeigt, dass eine native App echten Mehrwert bringt, kann sie darauf aufbauen, etwa mit derselben Datenbank im Hintergrund. So investieren Sie erst dann größer, wenn der Nutzen belegt ist."
+    },
+    {
+      "q": "Findet man eine Web-App bei Google?",
+      "a": "Öffentliche Seiten einer Web-App können bei Google gefunden werden, so wie jede andere Website. Bereiche hinter einer Anmeldung sind dagegen nicht öffentlich sichtbar. Native Apps werden vor allem im App Store und bei Google Play gefunden. Für die meisten kleinen Betriebe ist die Sichtbarkeit bei Google und in KI-Suchen wichtiger als ein Eintrag im App Store."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/app-entwicklung/",
+    "/wissen/app-oder-website/",
+    "/wissen/eigene-app-sinnvoll/",
+    "/glossar/web-app/",
+    "/glossar/pwa/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

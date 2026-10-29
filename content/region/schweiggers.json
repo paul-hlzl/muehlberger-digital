@@ -1,0 +1,60 @@
+{
+  "pfad": "/regionen/schweiggers/",
+  "title": "Digitalagentur Schweiggers: Social Media ohne Stress",
+  "description": "Für Betriebe in Schweiggers im Bezirk Zwettl: regelmäßig auf Instagram und LinkedIn präsent sein, ohne jeden Abend Beiträge zu schreiben. Beratung vor Ort.",
+  "h1": "Digitalagentur für Schweiggers",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Viele Betriebe in Schweiggers wissen, dass sie auf Instagram oder Facebook präsent sein sollten, finden aber nie die Zeit für regelmäßige Beiträge. Mühlberger Digital zeigt, wie Social Media im kleinen Betrieb realistisch funktioniert und wie Pipeflow aus der eigenen Website fertige Beiträge macht. Beraten wird persönlich, aus Ottenschlag im selben Bezirk.",
+  "fakten": [
+    "Schweiggers liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Social Media mit wenig Zeitaufwand",
+    "Pipeflow: wöchentliche Beiträge aus der eigenen Website, Pilotphase kostenlos",
+    "Erstgespräch kostenlos, Montag bis Freitag 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das eigentliche Problem ist die Regelmäßigkeit",
+      "html": "<p>Ein Elektrobetrieb oder ein Friseursalon startet voller Elan auf Instagram, postet drei Wochen lang, dann kommt eine volle Woche, und der Kanal schläft ein. Wer später nachsieht, findet einen letzten Beitrag von vor einem Jahr und fragt sich, ob es den Betrieb noch gibt. Ein verwaister Kanal wirkt oft schlechter als gar keiner.</p><p>Wie oft Posten realistisch ist, erklärt der Ratgeber <a href=\"/wissen/wie-oft-posten/\">Wie oft posten?</a>.</p>"
+    },
+    {
+      "h2": "Beiträge aus dem, was schon da ist",
+      "html": "<p><a href=\"https://pipeflow.at/\">Pipeflow</a> nimmt die Inhalte Ihrer Website und macht daraus jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn. Sie bekommen die Vorschläge und geben nur frei. Was nicht passt, lassen Sie weg. In der Pilotphase ist Pipeflow kostenlos, der Start geht über <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p><p>Das ersetzt keine spontanen Fotos von der Baustelle oder vom fertigen Haarschnitt, sorgt aber dafür, dass Ihr Kanal regelmäßig lebt. Mehr zur Leistung auf der Seite <a href=\"/leistungen/social-media-automatisierung/\">Social-Media-Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Welcher Kanal für welchen Betrieb",
+      "html": "<ul><li><strong>Instagram</strong> passt zu Betrieben mit sichtbaren Ergebnissen: Handwerk, Gastronomie, Friseur, Garten.</li><li><strong>Facebook</strong> kann Menschen aus der Umgebung gut erreichen, etwa für Veranstaltungen oder Neuigkeiten aus dem Ort.</li><li><strong>LinkedIn</strong> lohnt sich, wenn Sie andere Firmen als Kunden haben oder Fachkräfte suchen.</li></ul><p>Ein Kanal, der gepflegt wird, bringt mehr als drei halbherzige. Anregungen für Inhalte gibt der Ratgeber <a href=\"/wissen/social-media-ideen-handwerk/\">Social-Media-Ideen fürs Handwerk</a>.</p>"
+    },
+    {
+      "h2": "Persönlich im Bezirk Zwettl",
+      "html": "<p>Schweiggers liegt im Bezirk Zwettl, wie Ottenschlag. Jonas Mühlberger kommt für das kostenlose Erstgespräch zu Ihnen und zeigt live anhand Ihrer Website, wie Beiträge von Pipeflow aussehen würden. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr.</p><p>Weitere Informationen auf den Seiten zum <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich für Pipeflow eine Website?",
+      "a": "Ja. Pipeflow erstellt die Beiträge aus den Inhalten Ihrer Website, etwa aus Leistungen, Neuigkeiten oder Projekten. Je klarer und vollständiger die Website ist, desto brauchbarer werden die Beiträge. Wer noch keine Website hat oder nur eine Seite mit Kontaktdaten, sollte zuerst dort ansetzen. Die Starter-Website beginnt bei 2.500 € einmalig."
+    },
+    {
+      "q": "Postet Pipeflow ohne meine Zustimmung?",
+      "a": "Nein. Pipeflow macht fertige Beiträge mit Bild, aber Sie geben jeden Beitrag frei. So behalten Sie die Kontrolle darüber, was unter Ihrem Namen erscheint. Wenn ein Vorschlag nicht passt, lassen Sie ihn einfach weg. Das ist besonders in kleinen Orten wichtig, wo man Sie persönlich kennt und jeder Beitrag auf Sie zurückfällt."
+    },
+    {
+      "q": "Muss ich auf allen Kanälen vertreten sein?",
+      "a": "Nein. Für die meisten kleinen Betriebe reicht ein Kanal, der regelmäßig gepflegt wird. Welcher das ist, hängt davon ab, wen Sie erreichen wollen: Privatkundschaft eher über Instagram oder Facebook, Firmen und Fachkräfte eher über LinkedIn. Lieber ein Kanal mit regelmäßigen Beiträgen als mehrere, die nach kurzer Zeit verwaisen."
+    },
+    {
+      "q": "Was kostet Social Media mit Pipeflow?",
+      "a": "Pipeflow ist in der Pilotphase kostenlos. Sie registrieren sich, geben Ihre Website an und bekommen jede Woche Vorschläge zum Freigeben. Wie die Preise nach der Pilotphase aussehen, erfahren Sie direkt bei Pipeflow. Für die Frage, welcher Kanal zu Ihrem Betrieb passt, gibt es das kostenlose Erstgespräch mit Jonas Mühlberger."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/produkte/pipeflow/",
+    "/wissen/social-media-kleine-betriebe/"
+  ],
+  "checks": [
+    "social-media-test"
+  ]
+}

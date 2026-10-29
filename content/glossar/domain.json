@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/domain/",
+  "title": "Was ist eine Domain? Internetadresse einfach erklärt",
+  "description": "Domain einfach erklärt: Was eine Internetadresse ist, wie sie aufgebaut ist, warum .at für österreichische Betriebe passt und was Sie beachten sollten.",
+  "h1": "Domain – die Adresse Ihrer Website",
+  "kicker": "Glossar · Website",
+  "lead": "Eine Domain ist die Internetadresse, unter der Ihre Website und meist auch Ihre E-Mail erreichbar ist, zum Beispiel muster-installateur.at. Sie wird bei einer Registrierungsstelle gemietet, gehört also nicht dauerhaft, sondern so lange Sie die jährliche Gebühr bezahlen.",
+  "fakten": [
+    "Aufbau: Name plus Endung, etwa „baeckerei-huber“ und „.at“",
+    "Die .at-Domains verwaltet nic.at, gebucht wird meist über einen Anbieter",
+    "Domain-Inhaber sollte immer der Betrieb selbst sein, nicht die Agentur"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So wird die Domain im Betrieb genutzt",
+      "html": "<p>Eine Bäckerei mit Filiale im Ort registriert „baeckerei-huber.at“. Unter dieser Adresse läuft die Website, dazu kommen Adressen wie bestellung@baeckerei-huber.at. Damit Besucher bei der richtigen Website landen, verweist die Domain über das <a href=\"/glossar/dns/\">DNS</a> auf den Server beim <a href=\"/glossar/hosting/\">Hosting</a>-Anbieter.</p><p>Die Endung .at signalisiert Kunden in Österreich sofort einen regionalen Betrieb. Zuständig für .at ist <a href=\"https://www.nic.at/\">nic.at</a>; die Registrierung läuft in der Praxis meist über Webhoster oder Agenturen. Wie das genau geht, zeigt der Ratgeber <a href=\"/wissen/at-domain-registrieren/\">.at-Domain registrieren</a>.</p>"
+    },
+    {
+      "h2": "Warum die Domain für KMU wichtig ist",
+      "html": "<p>Die Domain ist Teil Ihrer Marke. Steht sie auf Fahrzeugen, Rechnungen und Visitenkarten, wird ein späterer Wechsel aufwendig. Wählen Sie daher einen kurzen, gut aussprechbaren Namen ohne komplizierte Schreibweisen.</p><p>Achten Sie darauf, dass Ihr Betrieb als Inhaber eingetragen ist. Läuft die Domain auf eine Agentur oder einen ehemaligen Mitarbeiter, kann das bei einem Anbieterwechsel zu Ärger führen. Eine eigene Domain wirkt außerdem professioneller als eine Gratis-Adresse, siehe <a href=\"/vergleiche/eigene-domain-oder-gmail/\">eigene Domain oder Gmail</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was passiert, wenn ich die Domain nicht verlängere?",
+      "a": "Wird die jährliche Gebühr nicht bezahlt, wird die Domain gekündigt und nach einer Übergangszeit wieder frei. Dann sind Website und E-Mail-Adressen nicht mehr erreichbar, und im schlimmsten Fall registriert jemand anderer den Namen. Hinterlegen Sie deshalb eine aktuelle Kontaktadresse beim Anbieter und prüfen Sie, ob die Verlängerung automatisch läuft."
+    },
+    {
+      "q": "Brauche ich neben .at auch .com oder .eu?",
+      "a": "Für einen Betrieb, der in Österreich tätig ist, reicht in der Regel die .at-Domain. Zusätzliche Endungen können sinnvoll sein, wenn Sie Kunden im Ausland ansprechen oder verhindern möchten, dass jemand anderer Ihren Namen nutzt. Sie leiten dann einfach auf die Hauptdomain weiter. Pflicht ist das aber nicht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/at-domain-registrieren/",
+    "/glossar/dns/",
+    "/wissen/e-mail-mit-eigener-domain/",
+    "/vergleiche/eigene-domain-oder-gmail/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

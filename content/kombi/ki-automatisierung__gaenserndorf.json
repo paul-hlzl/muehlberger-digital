@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/gaenserndorf/",
+  "title": "KI-Automatisierung in Gänserndorf: Bestellungen im Griff",
+  "description": "Prozessautomatisierung mit KI im Bezirk Gänserndorf: Bestellungen aus WhatsApp, E-Mail und Telefon bündeln, Lieferscheine erzeugen, Büro am Abend entlasten.",
+  "h1": "Prozessautomatisierung mit KI im Raum Gänserndorf",
+  "kicker": "KI-Automatisierung · Gänserndorf",
+  "lead": "Im Bezirk Gänserndorf mit dem Marchfeld bestimmen Ernte und Saison bei vielen Betrieben den Kalender. KI-Automatisierung bündelt Bestellungen aus verschiedenen Kanälen in einer Liste, erzeugt Lieferscheine ohne Abtippen und nimmt Familienbetrieben und Pendlern Büroarbeit am Abend ab.",
+  "fakten": [
+    "Bestellungen aus WhatsApp, E-Mail und Telefonnotizen in einer Liste",
+    "Lieferscheine und Rechnungsentwürfe aus den erfassten Daten",
+    "Geeignet auch für Familienbetriebe ohne eigenes Büro",
+    "Beratung vor Ort in Niederösterreich oder per Video-Call"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Marchfeld: wenn die Ernte den Kalender bestimmt",
+      "html": "<p>Das Marchfeld ist für Gemüse- und Ackerbau bekannt, dazu kommen im <a href=\"/regionen/bezirk-gaenserndorf/\">Bezirk Gänserndorf</a> Gewerbe und viele Menschen, die nach Wien pendeln. Für Produzenten heißt das: In der Hauptsaison kommen Bestellungen von Gastronomie, Handel und Stammkunden gleichzeitig, und zwar über jeden Kanal, den es gibt.</p>"
+    },
+    {
+      "h2": "Bestellungen aus drei Kanälen in einer Liste",
+      "html": "<p>Der häufigste Engpass ist nicht die Ware, sondern der Überblick. Eine Automatisierung kann so aussehen:</p><ol><li>Bestellungen per WhatsApp, E-Mail oder als kurze Telefonnotiz landen an einer Stelle.</li><li>Die KI erkennt Kunde, Produkt, Menge und Liefertag und trägt sie in eine Tabelle ein.</li><li>Unklare Angaben wie „wie immer“ werden markiert, damit jemand kurz nachfragt.</li><li>Am Abend steht eine fertige Kommissionier- und Tourenliste bereit.</li></ol><p>Hintergründe dazu bietet der Ratgeber <a href=\"/wissen/digitalisierung-landwirtschaft/\">Digitalisierung in der Landwirtschaft</a>.</p>"
+    },
+    {
+      "h2": "Lieferscheine und Rechnungen ohne Abtippen",
+      "html": "<p>Aus derselben Liste entstehen Lieferscheine und Rechnungsentwürfe. Niemand muss Mengen ein zweites Mal eintippen, und Tippfehler zwischen Bestellung und Rechnung fallen weg. Die Rechnung selbst geben Sie weiter wie gewohnt frei, auf Wunsch über Ihr bestehendes Programm. Wie man Belege generell digital organisiert, steht unter <a href=\"/wissen/belege-digital/\">Belege digital</a>.</p>"
+    },
+    {
+      "h2": "Für Pendler-Betriebe: der Abend gehört nicht dem Büro",
+      "html": "<p>Viele kleine Betriebe im Bezirk werden nebenbei oder von Menschen geführt, die tagsüber anderswo arbeiten. Gerade hier zählt jede halbe Stunde. Automatisch beantwortete Standardfragen, vorbereitete Angebote und eine sortierte Mailbox machen den Unterschied, ob das Büro um 21 Uhr erledigt ist oder nicht.</p>"
+    },
+    {
+      "h2": "Was es für den Start braucht",
+      "html": "<p>Ein Handy, ein E-Mail-Postfach und eine Liste Ihrer Produkte reichen für den Anfang. Mühlberger Digital klärt im kostenlosen Erstgespräch, was sinnvoll ist, Pipeline AI Solutions setzt um. Die Grundlagen beschreibt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Funktioniert das auch, wenn Kunden per WhatsApp bestellen?",
+      "a": "Ja, WhatsApp ist oft sogar der wichtigste Kanal. Technisch braucht es dafür in der Regel WhatsApp Business mit einer passenden Anbindung, damit Nachrichten automatisch ausgelesen werden dürfen. Private Chats auf dem eigenen Handy eignen sich dafür nicht. Wie die Umstellung ohne Ärger für Stammkunden gelingt, besprechen wir im Erstgespräch."
+    },
+    {
+      "q": "Wir sind ein Familienbetrieb ohne Büro. Lohnt sich das trotzdem?",
+      "a": "Gerade dann kann es sich lohnen, weil die Büroarbeit sonst nach Feierabend erledigt wird. Wichtig ist, klein anzufangen: ein Ablauf, etwa die Bestellliste, und nicht gleich alles. Wenn Sie nur eine Handvoll Bestellungen pro Woche haben, sagen wir Ihnen ehrlich, dass eine gute Tabelle reicht."
+    },
+    {
+      "q": "Was passiert mit der Automatisierung in der ruhigen Zeit des Jahres?",
+      "a": "Sie läuft einfach im Hintergrund weiter und verursacht kaum Arbeit. Die ruhigen Monate eignen sich gut, um Abläufe anzupassen, neue Produkte einzutragen oder einen zweiten Schritt einzuführen, etwa automatische Wochenangebote an Stammkunden. So ist alles bereit, wenn die Saison wieder beginnt."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-gaenserndorf/",
+    "/branchen/landwirtschaft/",
+    "/wissen/digitalisierung-landwirtschaft/",
+    "/leistungen/whatsapp-bot/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

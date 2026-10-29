@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/waldviertel/",
+  "title": "KI-Chatbot für Betriebe im Waldviertel",
+  "description": "Vom Gasthaus bis zur Tischlerei: Welche Fragen ein KI-Chatbot für Betriebe im Waldviertel beantwortet, wo er nicht hilft und was Pipebot kostet.",
+  "h1": "KI-Chatbot für die Website im Waldviertel",
+  "kicker": "KI-Chatbot · Waldviertel",
+  "lead": "Im Waldviertel sind die Wege weit und die Teams klein. Ein KI-Chatbot hilft hier vor allem Betrieben, deren Kunden sich vorher informieren: Gäste, Bauherren, Käufer regionaler Produkte. Pipebot beantwortet ihre Fragen rund um die Uhr mit Ihren Website-Inhalten, um 19 € im Monat, und Mühlberger Digital berät Sie persönlich aus Ottenschlag.",
+  "fakten": [
+    "Ländliche Region mit vielen Familien-, Handwerks- und Landwirtschaftsbetrieben",
+    "Gäste, Zugezogene und Kunden von außerhalb informieren sich zuerst online",
+    "Persönliche Beratung vor Ort, Sitz von Mühlberger Digital in Ottenschlag",
+    "Pipebot: 19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Weite Wege, kleine Teams",
+      "html": "<p>Das <a href=\"/regionen/waldviertel/\">Waldviertel</a> ist geprägt von kleinen Gemeinden, Familienbetrieben, Handwerk und Landwirtschaft. Dazu kommen Gäste, die zum Wandern, Radfahren oder zur Erholung kommen. Für viele Betriebe heißt das: wenig Personal, aber Kunden, die oft weit fahren und deshalb vorher fragen.</p><p>Ein Chatbot ist hier keine Spielerei, sondern eine Art Auskunftsstelle, die nie zusperrt.</p>"
+    },
+    {
+      "h2": "Welche Betriebe welche Fragen bekommen",
+      "html": "<table><thead><tr><th>Betrieb</th><th>Typische Frage</th><th>Was dafür auf der Website stehen sollte</th></tr></thead><tbody><tr><td>Gasthaus mit Zimmern</td><td>„Habt ihr am Montag offen?“</td><td>Ruhetage, Küchenzeiten, Betriebsurlaub</td></tr><tr><td>Tischlerei</td><td>„Wie lange dauert eine Küche?“</td><td>Ablauf vom Planen bis zum Einbau</td></tr><tr><td>Direktvermarkter</td><td>„Wo bekomme ich Ihren Mohn?“</td><td>Verkaufsstellen, Hofladenzeiten</td></tr><tr><td>Ferienhaus</td><td>„Darf der Hund mit?“</td><td>Hausregeln, Ausstattung, Anreise</td></tr><tr><td>Gemeinde</td><td>„Wann ist das Amt besetzt?“</td><td>Amtsstunden, Formulare, Kontakte</td></tr></tbody></table><p>Pipebot beantwortet jede dieser Fragen, wenn die Antwort auf Ihrer Website steht. Fehlt sie, verbindet er mit Ihnen.</p>"
+    },
+    {
+      "h2": "Wo ein Chatbot im Waldviertel nicht hilft",
+      "html": "<p>Wer fast nur Stammkunden hat, die anrufen, braucht keinen Chatbot. Auch eine veraltete Website wird durch einen Bot nicht besser, sie wird nur schneller ausgelesen. Dann sind eine aktuelle Website und ein gepflegtes Google-Profil der bessere erste Schritt.</p><p>Welche digitalen Schritte für die Region zuerst Sinn ergeben, beschreibt der Ratgeber <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Persönlich vor Ort",
+      "html": "<p>Mühlberger Digital sitzt in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>, das Waldviertel ist der Schwerpunkt für persönliche Termine. Jonas Mühlberger zeigt Ihnen den <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> live mit Ihrer eigenen Website, im Betrieb, am Telefon oder per Video.</p><p>Einen ersten Eindruck bekommen Sie vorab mit dem <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich ein Chatbot für einen kleinen Waldviertler Betrieb?",
+      "a": "Dann, wenn regelmäßig Fragen über die Website kommen oder viele Anrufe sich um dieselben Themen drehen. Für 19 € im Monat muss der Bot nicht viel abfangen, um sich zu rechnen. Hat Ihr Betrieb dagegen fast nur Stammkunden, die Sie persönlich kennen, bringt er wenig. Mühlberger Digital sagt Ihnen das im Erstgespräch offen, denn empfohlen wird nur, was Sie wirklich brauchen."
+    },
+    {
+      "q": "Kann ich den Chatbot zuerst mit meiner eigenen Website ausprobieren?",
+      "a": "Ja. Im Gratis-Check von Pipebot sehen Sie, wie der Bot mit den Inhalten Ihrer Website antwortet. Danach sind die ersten 30 Tage im Betrieb gratis. Erst dann kostet Pipebot 19 € im Monat, monatlich kündbar. Sie können also in Ruhe testen, ob Ihre Kunden den Chat nutzen und ob er Ihnen wirklich Arbeit abnimmt."
+    },
+    {
+      "q": "Was, wenn meine Kunden lieber anrufen?",
+      "a": "Dann rufen sie weiterhin an. Der Chatbot ersetzt das Telefon nicht, er ergänzt es für alle, die lieber schreiben oder außerhalb Ihrer Öffnungszeiten eine Antwort suchen. Gerade jüngere Kunden, Gäste von außerhalb und Firmenkunden nutzen den Chat gern. Ihre Telefonnummer bleibt auf der Website sichtbar, und bei Unsicherheit verbindet der Bot ohnehin mit Ihnen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/wissen/digitalisierung-waldviertel/",
+    "/wissen/laendlicher-raum/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

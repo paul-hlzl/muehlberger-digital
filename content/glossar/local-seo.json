@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/local-seo/",
+  "title": "Local SEO: Lokale Suchmaschinenoptimierung",
+  "description": "Local SEO einfach erklärt: Wie Betriebe bei Suchen wie „Tischler in der Nähe“ sichtbar werden und welche Bausteine für regionale Kunden wirklich zählen.",
+  "h1": "Local SEO – lokale Suchmaschinenoptimierung",
+  "kicker": "Glossar · SEO",
+  "lead": "Local SEO ist der Teil der Suchmaschinenoptimierung, der dafür sorgt, dass ein Betrieb bei ortsbezogenen Suchen wie „Tischler in der Nähe“ oder „Pizzeria Horn“ gefunden wird. Im Mittelpunkt stehen das Google-Unternehmensprofil, Bewertungen und einheitliche Firmendaten.",
+  "fakten": [
+    "Zentral: Google-Unternehmensprofil und Kartenergebnisse",
+    "Einheitliche Angaben zu Name, Adresse und Telefon im ganzen Netz",
+    "Echte Bewertungen und Antworten darauf stärken das Vertrauen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Local SEO bei einem Betrieb aussieht",
+      "html": "<p>Ein Kfz-Mechaniker in einer Bezirkshauptstadt taucht bei „Pickerl machen“ in der Kartenansicht nicht auf. Sein <a href=\"/glossar/google-unternehmensprofil/\">Google-Unternehmensprofil</a> hat die falsche Kategorie, alte Öffnungszeiten und kaum Fotos. In zwei Verzeichnissen steht noch die frühere Telefonnummer.</p><p>Nach der Korrektur der Kategorie, aktuellen Zeiten, Fotos der Werkstatt, einheitlichen <a href=\"/glossar/nap-daten/\">NAP-Daten</a> und einer eigenen Seite zur Pickerl-Überprüfung auf der Website passt das Bild für Google wieder. Dazu bittet er zufriedene Kunden regelmäßig um eine Bewertung.</p>"
+    },
+    {
+      "h2": "Warum Local SEO für KMU besonders lohnt",
+      "html": "<p>Die meisten kleinen Betriebe leben von Kunden aus der Umgebung. Bei lokalen Suchen ist die Konkurrenz überschaubar, und die Suchenden haben meist einen konkreten Bedarf. Mit vergleichsweise wenig Aufwand lässt sich hier oft mehr erreichen als bei landesweiten Begriffen.</p><p>Den vollständigen Leitfaden bietet der Ratgeber <a href=\"/wissen/lokales-seo/\">lokales SEO</a>. Unterstützung beim Profil gibt es unter <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil betreuen</a>, den Stand Ihrer Website zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich für Local SEO eine Website?",
+      "a": "Ein gepflegtes Google-Unternehmensprofil bringt schon viel, eine eigene Website verstärkt die Wirkung aber deutlich. Sie bestätigt die Angaben im Profil, beantwortet Fragen ausführlicher und kann mit Seiten zu einzelnen Leistungen und Orten zusätzliche Suchen abdecken. Auch KI-Suchen greifen gern auf Websites zurück. Für die meisten Betriebe ist die Kombination aus beidem am wirkungsvollsten."
+    },
+    {
+      "q": "Kann ich für mehrere Orte gefunden werden?",
+      "a": "Ja, in gewissem Rahmen. Das Unternehmensprofil gilt für Ihren tatsächlichen Standort, im Profil lässt sich aber ein Einzugsgebiet angeben. Auf der Website können Sie zu wichtigen Orten eigene Seiten anlegen, sofern diese wirklich eigene, hilfreiche Inhalte bieten, etwa Projekte vor Ort. Reine Kopien mit getauschtem Ortsnamen werden von Google dagegen abgewertet."
+    }
+  ],
+  "verwandt": [
+    "/wissen/lokales-seo/",
+    "/glossar/google-unternehmensprofil/",
+    "/glossar/nap-daten/",
+    "/wissen/lokale-landingpages/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

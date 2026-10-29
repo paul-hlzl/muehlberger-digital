@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/besucheranalyse-ohne-cookies/",
+  "title": "Besucher zählen ohne Cookie-Banner: So geht es",
+  "description": "Besucher zählen ohne Cookie-Banner: wie cookielose Statistik funktioniert, was sie zeigt und was nicht, und wie Sie sie datenschutzfreundlich einrichten.",
+  "h1": "Besucher zählen ohne Cookie-Banner",
+  "kicker": "Ratgeber · Statistik & Datenschutz",
+  "lead": "Besucher zählen ohne Cookie-Banner funktioniert mit Statistik-Werkzeugen, die nichts auf dem Gerät der Besucher speichern und keine Profile bilden, sondern nur zusammengefasste Werte wie Seitenaufrufe, Herkunft und Gerätetyp erfassen. Richtig eingerichtet brauchen solche Lösungen nach verbreiteter Einschätzung keine Einwilligung. In der Datenschutzerklärung müssen Sie sie trotzdem beschreiben.",
+  "fakten": [
+    "Cookielose Statistik speichert nichts auf dem Gerät und verfolgt niemanden über Tage",
+    "Sie zeigt beliebte Seiten, Herkunft der Besucher, Geräte und Ziele wie Anfragen",
+    "Für die meisten kleinen Betriebe reicht dieser Detailgrad völlig aus",
+    "Datenschutzerklärung anpassen und Anbieter mit Sitz oder Servern in der EU bevorzugen",
+    "Ergänzend liefert die Google Search Console Daten zur Google-Suche ganz ohne Tracking"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Statistik ohne Cookies funktioniert",
+      "html": "<p>Klassische Statistik-Werkzeuge legen ein <a href=\"/glossar/cookie/\">Cookie</a> mit einer Kennung auf dem Gerät ab und erkennen Besucher daran wieder, über Tage und Wochen. Genau dieses Speichern auf dem Endgerät löst die Pflicht zur Einwilligung aus, die Sie aus dem Ratgeber zum <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a> kennen.</p><p>Cookielose Werkzeuge verzichten darauf. Sie zählen jeden Seitenaufruf und werten Informationen aus, die der Browser ohnehin mitschickt, etwa die zuvor besuchte Seite, Gerätetyp und Land. Um Besucher innerhalb eines Tages grob zu unterscheiden, bilden manche Werkzeuge einen täglich wechselnden, nicht umkehrbaren Code. Ein dauerhaftes Profil einzelner Personen entsteht nicht.</p>"
+    },
+    {
+      "h2": "Was Sie damit erfahren und was nicht",
+      "html": "<p><strong>Das sehen Sie:</strong></p><ul><li>wie viele Seitenaufrufe und ungefähr wie viele Besucher es gab</li><li>welche Seiten am häufigsten gelesen werden</li><li>woher Besucher kommen: Google, Instagram, ein Branchenverzeichnis oder ein Newsletter</li><li>ob Besucher am Handy oder am Computer sind</li><li>wie oft ein Ziel erreicht wurde, etwa ein abgeschicktes Formular oder ein Klick auf die Telefonnummer</li></ul><p><strong>Das sehen Sie nicht:</strong> den Weg eines einzelnen Besuchers über mehrere Tage, genaue Zahlen wiederkehrender Besucher, Alter oder Interessen und die Zuordnung eines Kaufs zu einer Werbeanzeige von vor einer Woche. Wer diese Informationen braucht, kommt um eine einwilligungsbasierte Lösung kaum herum.</p>"
+    },
+    {
+      "h2": "Für wen das reicht und für wen nicht",
+      "html": "<p>Für die große Mehrheit kleiner Betriebe reicht cookielose Statistik. Ein Malerbetrieb will wissen, ob die neue Seite zu Fassadenarbeiten gelesen wird. Eine Physiotherapie-Praxis möchte sehen, ob Besucher über Google oder über das Unternehmensprofil kommen. Ein Café prüft, ob der Instagram-Link in der Bio Besucher bringt. All das liefern cookielose Werkzeuge.</p><p>Weniger geeignet sind sie für Onlineshops, die regelmäßig Geld in Werbeanzeigen investieren und genau wissen wollen, welche Anzeige zu welchem Kauf geführt hat, oder für Betriebe mit Remarketing, also Werbung für frühere Besucher. Hier ist eine Einwilligungslösung meist unvermeidbar. Ehrlich gesagt: Wer gar nicht vorhat, Zahlen regelmäßig anzusehen, braucht auch keine Statistik.</p>"
+    },
+    {
+      "h2": "Die rechtliche Einordnung in groben Zügen",
+      "html": "<p>Zwei Regelwerke sind zu unterscheiden. Das Telekommunikationsgesetz verlangt eine Einwilligung für das Speichern und Auslesen von Informationen auf dem Endgerät. Speichert ein Werkzeug nichts und nutzt auch keine ähnlichen Techniken wie Fingerprinting, entfällt dieser Teil. Die DSGVO gilt trotzdem, weil zumindest kurzfristig IP-Adressen verarbeitet werden.</p><p>Viele cookielose Lösungen stützen sich deshalb auf das berechtigte Interesse, die eigene Website zu verbessern, und kürzen oder verwerfen IP-Adressen sofort. Beschreiben Sie das Werkzeug in Ihrer <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> und schließen Sie mit dem Anbieter einen Auftragsverarbeitungsvertrag ab. Ob Ihre konkrete Einrichtung ohne Einwilligung auskommt, klären Sie im Zweifel mit der Datenschutzbehörde oder Ihrer Rechtsberatung.</p>"
+    },
+    {
+      "h2": "Drei Wege zu Besucherzahlen ohne Banner",
+      "html": "<p><strong>1. Cookielose Statistik-Werkzeuge:</strong> Es gibt mehrere Lösungen, teils als Dienst mit Servern in der EU, teils zum Selbsthosten. Eine Übersicht finden Sie im Ratgeber <a href=\"/wissen/analytics-alternativen/\">Alternativen zu Google Analytics</a>.</p><p><strong>2. Server-Protokolle:</strong> Viele Hosting-Anbieter werten die Zugriffsprotokolle des Servers aus und zeigen einfache Statistiken an. Das ist grob, aber ohne zusätzlichen Code auf der Website.</p><p><strong>3. Google Search Console:</strong> Sie zeigt, bei welchen Suchanfragen Ihre Seite in Google erscheint und wie oft sie angeklickt wird. Dafür wird nichts auf Ihrer Website eingebaut, und Besucher werden nicht verfolgt. Wie Sie sie einrichten, erklärt <a href=\"/wissen/google-search-console/\">Google Search Console einrichten</a>.</p>"
+    },
+    {
+      "h2": "Einrichtung Schritt für Schritt",
+      "html": "<ol><li>Werkzeug auswählen, das ohne Cookies arbeitet und Daten in der EU verarbeitet.</li><li>Den alten Statistik-Code vollständig entfernen, auch aus Plugins und Tag-Managern.</li><li>Das neue Skript einbauen und den cookielosen Modus aktivieren, falls er nicht Standard ist.</li><li>Ziele festlegen: Formular abgeschickt, Klick auf Telefonnummer, Klick auf E-Mail-Adresse.</li><li>Mit den Entwicklerwerkzeugen des Browsers prüfen, dass keine Cookies gesetzt werden.</li><li>Datenschutzerklärung anpassen und den Cookie-Banner entfernen, falls er nur für die Statistik da war.</li></ol>"
+    },
+    {
+      "h2": "Was Sie mit den Zahlen anfangen",
+      "html": "<p>Statistik lohnt sich nur, wenn Sie hineinschauen. Eine Viertelstunde im Monat reicht: Welche Seiten werden gelesen, woher kommen Besucher, wie viele Anfragen gab es? Wie Sie die Zahlen deuten, lesen Sie unter <a href=\"/wissen/website-statistik-lesen/\">Website-Statistik lesen</a>.</p><p>Eine Lücke bleibt: Wie oft ChatGPT, Gemini oder andere KI-Suchen Ihren Betrieb nennen, zeigt keine Website-Statistik. Das misst <a href=\"https://hittaro.com/check\">der Gratis-Check von Hittaro</a>, mit Bericht innerhalb von 24 Stunden. Die Umstellung auf eine cookielose Statistik übernehmen wir gerne im Rahmen von <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist eine Statistik ohne Cookies wirklich ohne Einwilligung erlaubt?",
+      "a": "Nach verbreiteter Einschätzung ja, wenn das Werkzeug weder Cookies noch ähnliche Techniken nutzt, keine Profile bildet und IP-Adressen sofort kürzt oder verwirft. Dann greift die Einwilligungspflicht des Telekommunikationsgesetzes nicht, und die Verarbeitung kann auf das berechtigte Interesse gestützt werden. Sie müssen das Werkzeug aber in der Datenschutzerklärung beschreiben. Für eine verbindliche Einschätzung Ihrer Einrichtung fragen Sie die Datenschutzbehörde oder Ihre Rechtsberatung."
+    },
+    {
+      "q": "Sind die Zahlen ohne Cookies genauer oder ungenauer?",
+      "a": "In einem Punkt ungenauer: Wiederkehrende Besucher lassen sich über mehrere Tage nicht exakt erkennen. In einem anderen Punkt oft genauer: Weil kein Banner nötig ist, werden alle Besucher gezählt, nicht nur jene, die zugestimmt haben. Bei klassischen Lösungen mit Einwilligung fehlt ein Teil der Besucher in der Statistik. Für die Frage, welche Seiten gelesen werden und woher Besucher kommen, sind cookielose Zahlen meist aussagekräftiger."
+    },
+    {
+      "q": "Kann ich Google Analytics ohne Cookies betreiben?",
+      "a": "Google Analytics bietet Einstellungen, die bei fehlender Einwilligung mit eingeschränkten Daten arbeiten. Ein echter Betrieb ohne Einwilligung ist damit aber nicht ohne Weiteres gleichzusetzen, und die Daten werden weiterhin von Google verarbeitet. Wer bewusst ohne Banner arbeiten möchte, ist mit einem Werkzeug, das von Grund auf ohne Cookies und Profile auskommt, meist besser bedient. Lassen Sie Sonderkonstellationen rechtlich prüfen."
+    },
+    {
+      "q": "Brauche ich überhaupt eine Besucherstatistik?",
+      "a": "Nicht unbedingt. Wenn Sie nicht vorhaben, Zahlen regelmäßig anzusehen, bringt eine Statistik wenig. Sinnvoll ist sie, wenn Sie Entscheidungen treffen wollen: Welche Leistungen interessieren, lohnt sich der Instagram-Kanal, bringt die neue Seite Anfragen? Für Daten zur Google-Suche reicht oft schon die kostenlose Google Search Console, die ganz ohne Code auf Ihrer Website auskommt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/analytics-alternativen/",
+    "/wissen/cookie-banner/",
+    "/wissen/website-statistik-lesen/",
+    "/wissen/google-search-console/",
+    "/leistungen/website-wartung-hosting/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

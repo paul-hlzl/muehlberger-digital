@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/waidhofen-an-der-ybbs/",
+  "title": "KI-Chatbot für Handwerk in Waidhofen an der Ybbs",
+  "description": "Sonderanfertigung, Lieferzeit, Material: Wie ein KI-Chatbot Handwerksbetrieben in Waidhofen an der Ybbs Vorfragen beantwortet, bevor das Angebot beginnt.",
+  "h1": "KI-Chatbot für die Website in Waidhofen an der Ybbs",
+  "kicker": "KI-Chatbot · Waidhofen an der Ybbs",
+  "lead": "In Waidhofen an der Ybbs, im Ybbstal an der Eisenstraße, hat Handwerk mit Metall und Holz Tradition. Wer Einzelstücke fertigt, bekommt viele Vorfragen zu Material, Lieferzeit und Ablauf. Ein KI-Chatbot wie Pipebot beantwortet sie auf der Website mit Ihren eigenen Inhalten und gibt komplexe Anfragen an Sie weiter, um 19 € im Monat.",
+  "fakten": [
+    "Statutarstadt im südlichen Mostviertel, das Ybbstal ist für die Eisenstraße bekannt",
+    "Einzelanfertigungen brauchen viel Erklärung, bevor ein Angebot entsteht",
+    "Der Bot erklärt Ablauf und Material, das Angebot bleibt beim Meister",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Einzelstücke brauchen Erklärung",
+      "html": "<p><a href=\"/regionen/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a> ist eine Statutarstadt im Süden des Mostviertels. Das Ybbstal ist für die Eisenstraße bekannt, und Handwerk mit Metall und Holz hat hier einen festen Platz: Schlosser, Metallbauer, Schmiede, Tischler.</p><p>Wer Einzelstücke fertigt, kennt das Problem: Kunden wissen oft nicht, was möglich ist und wie ein Auftrag abläuft. Bevor ein Angebot entsteht, gibt es viele Fragen. Genau hier hilft ein Chatbot.</p>"
+    },
+    {
+      "h2": "Beispiel: Geländer, Tore, Vordächer",
+      "html": "<p>Ein Metallbaubetrieb mit sechs Leuten bekommt laufend ähnliche Anfragen:</p><ul><li>Was ist der Unterschied zwischen Edelstahl und verzinktem Stahl, und was hält länger?</li><li>Wie läuft ein Auftrag ab, vom Aufmaß bis zur Montage?</li><li>Wie lange muss ich ungefähr warten?</li><li>Kann ich eigene Ideen oder Skizzen mitbringen?</li></ul><p>Mit klaren Antworten auf der Website beantwortet Pipebot diese Fragen sofort und im Design Ihrer Seite. Mehr Ideen für die Branche finden Sie auf der Seite für <a href=\"/branchen/metallbau/\">Metallbau</a>.</p>"
+    },
+    {
+      "h2": "Die Galerie zeigt, der Bot erklärt",
+      "html": "<p>Fotos eigener Arbeiten überzeugen mehr als jede Beschreibung. Sie ersetzen aber keine Antworten auf die praktischen Fragen. Die beste Kombination: eine Galerie mit Referenzen und daneben ein Chatbot, der erklärt, wie so ein Projekt abläuft und was der Kunde vorbereiten soll.</p><p>Wie Sie Referenzen wirkungsvoll zeigen, beschreibt der Ratgeber <a href=\"/wissen/referenzen-zeigen/\">Referenzen zeigen</a>.</p>"
+    },
+    {
+      "h2": "Weiterleitung statt Ferndiagnose",
+      "html": "<p>Ein Bot kann kein Aufmaß nehmen und kein Angebot rechnen. Er kann aber dafür sorgen, dass Anfragen vollständiger bei Ihnen ankommen: Wenn auf der Website steht, welche Angaben Sie brauchen, etwa Maße, Fotos und gewünschtes Material, gibt Pipebot das weiter und verbindet dann mit Ihnen.</p><p>Auch Geschäfte in der Altstadt oder Gastronomiebetriebe profitieren vom selben Prinzip. Im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> sehen Sie, wie der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> mit Ihren Werkstatt-Texten umgeht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot ein Angebot für eine Sonderanfertigung erstellen?",
+      "a": "Nein. Ein seriöses Angebot für ein Einzelstück braucht Maße, Materialwahl und meist einen Blick vor Ort. Das bleibt bei Ihnen. Pipebot kann aber erklären, wie Sie zu einem Angebot kommen, welche Angaben Sie brauchen und welche Richtpreise es gibt, sofern Sie diese veröffentlicht haben. Danach verbindet er mit Ihnen, und Sie bekommen eine vorbereitete Anfrage statt einer vagen Idee."
+    },
+    {
+      "q": "Wie gehe ich mit Fragen um, die ich lieber persönlich beantworte?",
+      "a": "Lassen Sie diese Informationen einfach nicht auf der Website stehen oder schreiben Sie dort ausdrücklich, dass Sie das im Gespräch klären. Pipebot antwortet nur mit Ihren Inhalten. Fehlt eine Antwort, verbindet er mit Ihnen. So entscheiden Sie selbst, welche Fragen der Bot übernimmt und bei welchen Ihnen der persönliche Kontakt wichtig ist, etwa bei Preisen für Einzelstücke."
+    },
+    {
+      "q": "Passt Pipebot zum Design meiner Website?",
+      "a": "Ja, der Bot erscheint im Design Ihrer Website, also mit Ihren Farben und passend zu Ihrem Auftritt. Für einen Handwerksbetrieb, der mit Qualität und Handarbeit wirbt, ist das wichtig, denn ein fremd wirkendes Chatfenster passt nicht dazu. Wie das konkret aussieht, zeigt Mühlberger Digital Ihnen im kostenlosen Erstgespräch live mit Ihrer eigenen Seite."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/waidhofen-an-der-ybbs/",
+    "/regionen/mostviertel/",
+    "/branchen/metallbau/",
+    "/wissen/referenzen-zeigen/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

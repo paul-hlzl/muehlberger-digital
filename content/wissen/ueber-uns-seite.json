@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/ueber-uns-seite/",
+  "title": "Über-uns-Seite schreiben: So entsteht Vertrauen",
+  "description": "Was auf eine gute Über-uns-Seite gehört: Menschen, Geschichte, Arbeitsweise und Belege statt Floskeln – mit Aufbau, Beispielen und typischen Fehlern.",
+  "h1": "Die Über-uns-Seite: Vertrauen aufbauen",
+  "kicker": "Ratgeber · Inhalte",
+  "lead": "Eine gute Über-uns-Seite zeigt, wer hinter dem Betrieb steht, warum Sie tun, was Sie tun, und wie Kunden mit Ihnen zusammenarbeiten. Echte Fotos, Namen und Zuständigkeiten, ein paar ehrliche Sätze zur Geschichte und konkrete Belege schaffen Vertrauen, Floskeln und gekaufte Symbolbilder nicht. Am Ende sollte die Seite zum Kontakt einladen.",
+  "fakten": [
+    "Wird oft kurz vor der Kontaktaufnahme oder Bewerbung gelesen",
+    "Echte Fotos und Namen wirken stärker als jede Floskel",
+    "Geschichte in wenigen Sätzen, nicht als Chronik",
+    "Werte mit Beispielen belegen statt nur aufzählen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum die Über-uns-Seite wichtiger ist, als viele denken",
+      "html": "<p>Die Über-uns-Seite wird selten zuerst aufgerufen, aber oft kurz bevor jemand anruft. Wer jemanden ins eigene Haus lässt, eine Praxis wählt oder einen größeren Auftrag vergibt, will wissen, mit wem er es zu tun hat. Auch Bewerberinnen und Bewerber schauen genau hier nach.</p><p>Bei kleinen Betrieben ist das ein echter Vorteil: Sie haben ein Gesicht, eine Geschichte und kurze Wege. Diese Stärke geht verloren, wenn die Seite nur aus „Wir sind ein junges, dynamisches Team“ besteht. Wie Sie online generell Vertrauen aufbauen, beschreibt der Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</p>"
+    },
+    {
+      "h2": "Was auf die Seite gehört",
+      "html": "<ul><li><strong>Wer:</strong> Inhaber oder Team mit Namen, Foto und Zuständigkeit.</li><li><strong>Warum:</strong> Wie es zum Betrieb kam und was Sie antreibt, in wenigen Sätzen.</li><li><strong>Wie:</strong> Ihre Arbeitsweise, etwa wer zum ersten Termin kommt und wie Sie Angebote erstellen.</li><li><strong>Wo:</strong> Standort, Einzugsgebiet, eventuell ein Foto der Werkstatt oder Praxis.</li><li><strong>Belege:</strong> Ausbildung, Meisterprüfung, Mitgliedschaften, Kundenstimmen.</li><li><strong>Nächster Schritt:</strong> Kontaktmöglichkeit am Ende der Seite.</li></ul>"
+    },
+    {
+      "h2": "Die Geschichte erzählen, ohne zu langweilen",
+      "html": "<p>Eine Chronik mit Jahreszahlen interessiert kaum jemanden. Was Menschen berührt, sind Gründe und Wendepunkte: Warum haben Sie sich selbstständig gemacht? Warum führen Sie den Betrieb Ihrer Eltern weiter, und was machen Sie anders? Was hat Sie geprägt?</p><p>Ein Beispiel für eine Bäckerei in dritter Generation: Statt einer Liste aller Umbauten reichen drei Sätze dazu, dass das Sauerteigrezept aus der Familie stammt, dass die Tochter nach der Ausbildung in einer anderen Bäckerei zurückgekommen ist und heute auch Dinkelgebäck anbietet, und dass um drei Uhr früh der Ofen angeht. Das bleibt im Kopf.</p>"
+    },
+    {
+      "h2": "Das Team zeigen",
+      "html": "<p>Fotos von echten Menschen sind das stärkste Element dieser Seite. Ein natürliches Bild am Arbeitsplatz wirkt meist besser als ein steifes Porträt vor grauem Hintergrund. Nennen Sie Vornamen und Zuständigkeit, damit Kunden wissen, wen sie am Telefon erreichen.</p><p>Holen Sie vor der Veröffentlichung das Einverständnis Ihrer Mitarbeiter ein, am besten schriftlich, und klären Sie, was passiert, wenn jemand den Betrieb verlässt. Bei Fotos von Fotografen sollten Sie die Nutzungsrechte geregelt haben. Praktische Tipps dazu gibt der Ratgeber <a href=\"/wissen/website-fotos/\">Fotos für die Firmenwebsite</a>.</p>"
+    },
+    {
+      "h2": "Werte belegen statt behaupten",
+      "html": "<p>„Zuverlässig, ehrlich, kompetent“ schreiben alle. Glaubwürdig wird es erst mit einem Beispiel. Wenn Ihnen Pünktlichkeit wichtig ist, schreiben Sie, wie Sie das sicherstellen, etwa mit einer Nachricht am Vortag mit Ankunftszeit. Wenn Sie ehrlich beraten, erzählen Sie, dass Sie auch einmal von einer teuren Lösung abraten.</p><p>Solche Sätze sind konkret, überprüfbar und unterscheiden Sie von anderen. Zwei, drei davon genügen. Ergänzend wirken echte Kundenstimmen mit Einverständnis, die Sie auch auf der Startseite verwenden können.</p>"
+    },
+    {
+      "h2": "Drei Beispiele für unterschiedliche Betriebe",
+      "html": "<p><strong>Die Kosmetikerin als Einzelunternehmerin:</strong> Sie schreibt in der Ich-Form, zeigt sich im Studio, erzählt kurz von ihrer Ausbildung und Spezialisierung und erklärt, wie eine erste Behandlung abläuft. Persönlich und nahbar.</p><p><strong>Die Zimmerei als Familienbetrieb:</strong> Ein Gruppenfoto auf der Baustelle, Namen und Rollen der Familienmitglieder, ein Absatz zu den Lehrlingen. Gleichzeitig ein Signal an mögliche Bewerber, verknüpft mit der <a href=\"/wissen/karriereseite/\">Karriereseite</a>.</p><p><strong>Die Rechtsanwaltskanzlei:</strong> Sachlicher Ton, Schwerpunkte jeder Anwältin und jedes Anwalts, Sprachen, Werdegang in Stichworten. Hier zählen Klarheit und Zuständigkeit mehr als Anekdoten.</p>"
+    },
+    {
+      "h2": "Typische Fehler und der nächste Schritt",
+      "html": "<ul><li>Nur Text, keine Fotos, oder ausschließlich Symbolbilder.</li><li>Veraltete Teamfotos mit Personen, die nicht mehr im Betrieb sind.</li><li>Lange Chronik, aber kein Wort zur heutigen Arbeitsweise.</li><li>Keine Kontaktmöglichkeit am Ende der Seite.</li></ul><p>Eine gute Über-uns-Seite hilft übrigens auch KI-Suchen, Ihren Betrieb richtig einzuordnen: Wer ihn führt, wo er tätig ist, worauf er spezialisiert ist. Bei einer <a href=\"/leistungen/website-erstellen/\">neuen Website</a> erarbeiten wir diese Seite im Gespräch mit Ihnen. Wie sie mit der Startseite zusammenspielt, steht im Ratgeber <a href=\"/wissen/startseite-aufbauen/\">So bauen Sie eine gute Startseite auf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sollte auf einer Über-uns-Seite stehen?",
+      "a": "Auf eine Über-uns-Seite gehören die Menschen hinter dem Betrieb mit Namen, Foto und Zuständigkeit, eine kurze Geschichte, die erklärt, warum es den Betrieb gibt, Ihre Arbeitsweise, Standort und Einzugsgebiet sowie Belege wie Ausbildung, Mitgliedschaften oder Kundenstimmen. Am Ende sollte eine klare Kontaktmöglichkeit stehen, damit interessierte Leser direkt den nächsten Schritt machen können."
+    },
+    {
+      "q": "Schreibe ich die Über-uns-Seite in der Ich- oder Wir-Form?",
+      "a": "Das hängt vom Betrieb ab. Einzelunternehmer wirken in der Ich-Form persönlicher und ehrlicher, weil Kunden ohnehin mit genau dieser Person arbeiten. Betriebe mit Team schreiben meist in der Wir-Form und stellen einzelne Personen mit eigenen kurzen Absätzen vor. Wichtig ist, dass Sie die gewählte Form auf der ganzen Website einheitlich verwenden."
+    },
+    {
+      "q": "Darf ich Fotos meiner Mitarbeiter auf die Website stellen?",
+      "a": "Grundsätzlich ja, aber nur mit deren Einverständnis, das Sie am besten schriftlich festhalten. Klären Sie auch, wie lange das Foto verwendet wird und dass es entfernt wird, wenn jemand den Betrieb verlässt oder die Zustimmung widerruft. Bei Detailfragen zum Datenschutz helfen die Wirtschaftskammer, die Datenschutzbehörde oder ein Anwalt weiter."
+    },
+    {
+      "q": "Wie lang sollte eine Über-uns-Seite sein?",
+      "a": "Meist reichen einige kurze Abschnitte: wer Sie sind, warum es den Betrieb gibt, wie Sie arbeiten und wer im Team wofür zuständig ist. Das sind oft wenige hundert Wörter plus Fotos. Wichtiger als die Länge ist, dass jeder Satz etwas Konkretes über Ihren Betrieb sagt. Allgemeine Werbesätze, die auf jeden Mitbewerber passen würden, können Sie streichen."
+    },
+    {
+      "q": "Braucht ein Einzelunternehmer überhaupt eine Über-uns-Seite?",
+      "a": "Gerade Einzelunternehmer profitieren davon, weil Kunden bei ihnen genau eine Person beauftragen. Die Seite kann kurz sein: ein gutes Foto, Ihr Werdegang in wenigen Sätzen, Ihre Spezialisierung und was Kunden von der Zusammenarbeit erwarten können. Bei sehr kleinen Websites kann dieser Inhalt auch als eigener Abschnitt auf der Startseite stehen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/vertrauen-online/",
+    "/wissen/website-fotos/",
+    "/wissen/referenzen-zeigen/",
+    "/wissen/startseite-aufbauen/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

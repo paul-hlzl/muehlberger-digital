@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/kaernten/",
+  "title": "Digitalagentur Kärnten: Gastgeber und Betriebe",
+  "description": "Website, KI-Chatbot und Online-Reservierung für Gastgeber, Gastronomie und Betriebe in Kärnten – online beraten, ehrlich, mit klaren Preisen.",
+  "h1": "Digitalagentur für Kärnten – wenn Gäste auch nachts Fragen haben",
+  "kicker": "Region · Bundesland",
+  "lead": "In Kärnten berät Mühlberger Digital vor allem Gastgeber, Gastronomie und kleine Betriebe online zu Website, Reservierung und KI-Chatbot. Ziel ist, dass Gäste und Kundschaft schnell Antworten bekommen, auch wenn im Betrieb gerade niemand Zeit hat.",
+  "fakten": [
+    "Landeshauptstadt Klagenfurt am Wörthersee, Seen und Berge prägen den Tourismus",
+    "Grenzlage zu Italien und Slowenien: Gäste aus mehreren Ländern",
+    "Pipebot beantwortet Gästefragen rund um die Uhr, 19 € pro Monat",
+    "Beratung online, Erstgespräch kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kärnten: Saison am See, Ganzjahresbetrieb im Ort",
+      "html": "<p>Kärnten ist für seine Seen und Berge bekannt, und viele Betriebe hängen direkt oder indirekt am Tourismus. Im Sommer ist am See alles voll, gleichzeitig laufen Handwerk, Handel und Dienstleistung in <a href=\"/regionen/klagenfurt/\">Klagenfurt</a>, Villach und den kleineren Orten das ganze Jahr. Durch die Lage an der Grenze zu Italien und Slowenien kommen Gäste aus mehreren Ländern.</p><p>Für die digitale Planung heißt das: Spitzenzeiten abfangen und in der ruhigen Zeit sichtbar bleiben.</p>"
+    },
+    {
+      "h2": "Was Gastgeber in Kärnten typischerweise brauchen",
+      "html": "<ul><li>Eine Pension am See bekommt in der Hochsaison täglich dieselben Fragen: Parkplatz, Hunde, Frühstückszeiten. Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> beantwortet sie mit den Inhalten der Website und meldet sich beim Team, wenn er etwas nicht sicher weiß.</li><li>Ein Restaurant mit Terrasse verliert Reservierungen, weil am Abend niemand zum Telefon kommt. Eine <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a> nimmt Tische an, ohne den Service zu stören.</li><li>Ein Ferienwohnungs-Vermieter will unabhängiger von Buchungsplattformen werden. Eine eigene Website mit Fotos, Lage und direkter Anfrage ist der erste Schritt.</li></ul>"
+    },
+    {
+      "h2": "Auch außerhalb des Tourismus: Handwerk und Dienstleistung",
+      "html": "<p>Nicht jeder Kärntner Betrieb lebt von Gästen. Ein Malerbetrieb oder eine Physiotherapie-Praxis braucht vor allem eine schnelle, übersichtliche Website und ein gepflegtes Google-Profil, damit Menschen aus der Umgebung ihn finden. Hier ist die Starter-Website ab 2.500 € einmalig oft genau richtig, ohne Zusatzfunktionen, die niemand nutzt.</p>"
+    },
+    {
+      "h2": "Urlaubsplanung mit KI: warum Sichtbarkeit dort zählt",
+      "html": "<p>Viele Gäste planen ihren Urlaub inzwischen nicht mehr nur über Google, sondern fragen ChatGPT oder Gemini direkt nach einer ruhigen Unterkunft am See oder einem guten Restaurant mit Blick aufs Wasser. Genannt werden dort Betriebe, über die es klare, gut lesbare Informationen im Netz gibt. Wer auf der eigenen Website nur wenige Sätze und keine Angaben zu Lage, Ausstattung und Preisen hat, wird selten empfohlen.</p><p>Wie Sie dort häufiger vorkommen, erklärt die Seite zur <a href=\"/leistungen/geo-ki-sichtbarkeit/\">KI-Sichtbarkeit</a>. Garantien gibt es dabei keine, aber messbare Fortschritte.</p>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital mit Kärnten",
+      "html": "<p>Der Sitz von Mühlberger Digital ist in Ottenschlag im Waldviertel. Kärntner Betriebe werden deshalb per Video-Call oder Telefon beraten. Die Gespräche finden am Abend statt, Montag bis Freitag von 18:00 bis 21:30 Uhr, also nach dem Tagesgeschäft und in der Saison oft nach dem Abendservice.</p><p>Die technische Umsetzung übernimmt <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>. Ob ein Chatbot zu Ihrem Betrieb passt, zeigt der kostenlose <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich ein Chatbot für eine kleine Pension in Kärnten?",
+      "a": "Das hängt davon ab, wie viele wiederkehrende Fragen Sie bekommen. Wenn Gäste per Mail, Telefon und Nachricht immer wieder nach Anreise, Parken oder Frühstück fragen, kann ein Chatbot spürbar entlasten. Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis. In dieser Zeit sehen Sie, welche Fragen tatsächlich gestellt werden."
+    },
+    {
+      "q": "Brauche ich als Kärntner Gastgeber eine Website, wenn ich auf Buchungsplattformen bin?",
+      "a": "Eine eigene Website ist kein Muss, aber oft sinnvoll. Plattformen bringen Reichweite, verlangen aber Provision und bestimmen, wie Sie dargestellt werden. Auf der eigenen Website können Gäste direkt anfragen, und Sie zeigen, was Ihr Haus besonders macht. Viele Gastgeber nutzen beides: die Plattform für neue Gäste, die Website für Stammgäste und Direktanfragen."
+    },
+    {
+      "q": "Können Sie auch Kärntner Handwerksbetriebe betreuen?",
+      "a": "Ja. Für Handwerksbetriebe stehen meist eine klare Website, ein gepflegtes Google-Unternehmensprofil und eine einfache Möglichkeit zur Anfrage im Vordergrund. Die Beratung läuft online, die Umsetzung über Pipeline AI Solutions. Im kostenlosen Erstgespräch wird geklärt, was Sie wirklich brauchen und was nicht."
+    }
+  ],
+  "verwandt": [
+    "/regionen/klagenfurt/",
+    "/branchen/hotel/",
+    "/branchen/ferienwohnung/",
+    "/wissen/website-fuer-tourismus/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

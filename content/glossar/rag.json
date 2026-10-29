@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/rag/",
+  "title": "RAG: Retrieval Augmented Generation erklärt",
+  "description": "RAG einfach erklärt: Wie Retrieval Augmented Generation einer KI eigene Unterlagen als Wissensquelle gibt und warum das Chatbots zuverlässiger macht.",
+  "h1": "RAG – Retrieval Augmented Generation",
+  "kicker": "Glossar · KI",
+  "lead": "RAG (Retrieval Augmented Generation) ist ein Verfahren, bei dem eine KI vor dem Antworten passende Stellen aus einer festgelegten Wissensquelle sucht und ihre Antwort darauf stützt. So antwortet sie mit Ihren Inhalten statt nur mit allgemeinem Trainingswissen.",
+  "fakten": [
+    "Zwei Schritte: passende Inhalte suchen, dann Antwort formulieren",
+    "Wissensquelle kann Website, Handbuch oder Preisliste sein",
+    "Senkt das Risiko erfundener Antworten, beseitigt es aber nicht ganz"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So funktioniert RAG an einem Beispiel",
+      "html": "<p>Ein Fachhändler für Landmaschinen hat Bedienungsanleitungen, Servicezeiten und Ersatzteilinfos auf der Website und in PDFs. Fragt ein Kunde im Chat „Wie oft muss beim Rasentraktor das Öl gewechselt werden?“, sucht das System zuerst die passende Stelle in der Anleitung. Erst dann formuliert das <a href=\"/glossar/large-language-model/\">Sprachmodell</a> eine Antwort auf Basis dieses Textes und kann auf die Quelle verweisen.</p><p>Ändert sich etwas, aktualisiert der Händler nur seine Unterlagen. Ein neues Training des Modells ist nicht nötig.</p>"
+    },
+    {
+      "h2": "Warum RAG für KMU wichtig ist",
+      "html": "<p>Allgemeine KI-Modelle kennen Ihre Preise, Termine und Besonderheiten nicht. Mit RAG wird ein <a href=\"/glossar/chatbot/\">Chatbot</a> zum Auskunftsgeber für genau Ihren Betrieb und erfindet seltener etwas (<a href=\"/glossar/halluzination/\">Halluzination</a>). Voraussetzung sind aktuelle, gut gegliederte Inhalte.</p><p>Auf demselben Grundgedanken beruhen Lösungen wie <a href=\"/produkte/pipebot/\">Pipebot</a>, der nur mit den Inhalten des Kunden antwortet. Welche Inhalte ein Bot braucht, erklärt der Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Chatbot-Inhalte</a>; individuelle Anbindungen beschreibt <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist RAG dasselbe wie das Trainieren einer eigenen KI?",
+      "a": "Nein. Beim Training werden die Gewichte eines Modells verändert, was aufwendig und teuer ist. Bei RAG bleibt das Modell unverändert; es bekommt bei jeder Frage passende Ausschnitte aus Ihren Unterlagen mitgeliefert. Das ist für kleine Betriebe meist die bessere Wahl, weil Inhalte schnell aktualisiert werden können und keine großen Datenmengen nötig sind."
+    },
+    {
+      "q": "Welche Unterlagen eignen sich für RAG?",
+      "a": "Gut geeignet sind Texte mit klaren Fakten: Website-Inhalte, Preislisten, häufige Fragen, Produktbeschreibungen, Anleitungen oder interne Arbeitsanweisungen. Wichtig ist, dass die Inhalte aktuell und widerspruchsfrei sind. Veraltete Dokumente führen zu veralteten Antworten. Vertrauliche Unterlagen sollten nur in Systeme fließen, deren Datenverarbeitung Sie geprüft haben."
+    }
+  ],
+  "verwandt": [
+    "/glossar/chatbot/",
+    "/wissen/chatbot-inhalte/",
+    "/leistungen/ki-chatbot/",
+    "/glossar/halluzination/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

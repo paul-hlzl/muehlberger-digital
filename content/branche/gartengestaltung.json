@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/gartengestaltung/",
+  "title": "Digitale Lösungen für Gartengestaltung & Landschaftsbau",
+  "description": "Frühjahrsansturm, Pflegeverträge, Schwimmteich-Planung im Winter: Wie Gartenbetriebe die Saison steuern und Pflegekunden gut organisieren.",
+  "h1": "Digitale Lösungen für Gartengestaltung & Landschaftsbau",
+  "kicker": "Branche · Garten- und Landschaftsbau",
+  "lead": "Im Garten- und Landschaftsbau wollen im Frühjahr alle gleichzeitig loslegen, während der Winter für Planung frei bliebe, wenn die Kunden nur früher kämen. Digitale Bausteine helfen, Planungsanfragen in die ruhige Zeit zu holen, Pflegekunden geordnet zu betreuen und die Saison mit Bildern sichtbar zu machen.",
+  "fakten": [
+    "Planungsanfragen gezielt in Herbst und Winter holen statt alles im März",
+    "Pflegeverträge mit fixen Intervallen digital organisieren",
+    "Saisonale Social-Media-Beiträge mit Pipeflow, in der Pilotphase kostenlos",
+    "Gratis-Check für Social Media und Website-Entwurf verfügbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der März-Effekt: Wenn alle gleichzeitig anrufen",
+      "html": "<p>Sobald die ersten warmen Tage kommen, wollen viele Gartenbesitzer sofort einen neuen Rasen, eine Terrasse oder eine Hecke. Wer erst dann anfragt, wartet oft bis in den Sommer, und die Enttäuschung landet beim Betrieb.</p><p>Die Lösung beginnt auf der Website: Erklären Sie, dass größere Projekte im Herbst und Winter geplant werden, damit im Frühjahr gebaut werden kann. Bieten Sie aktiv einen „Planungstermin im Winter“ an. Wie man Saisonspitzen digital abfedert, beschreibt der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+    },
+    {
+      "h2": "Pflegekunden: wiederkehrend, planbar, oft unorganisiert",
+      "html": "<p>Rasenmähen alle zwei Wochen, Heckenschnitt zweimal im Jahr, Laub im Herbst, Rückschnitt im Februar: Pflegeverträge sind für viele Gartenbetriebe das stabile Geschäft. Organisiert werden sie aber oft über Notizbuch und Gedächtnis.</p><ul><li>Eine einfache Kundenliste mit Intervallen zeigt, wer diese Woche dran ist.</li><li>Eine automatische Nachricht kündigt den Termin an, damit das Gartentor offen ist.</li><li>Bei Regen lassen sich verschobene Termine geordnet nachholen.</li></ul><p>Welche einfachen Werkzeuge es dafür gibt, beschreibt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>. Größere Abläufe lassen sich mit einer <a href=\"/leistungen/ki-automatisierung/\">Automatisierung</a> verbinden, deren Preis nach dem Erstgespräch feststeht.</p>"
+    },
+    {
+      "h2": "Schwimmteich, Pool, Bewässerung: Projekte mit langem Vorlauf",
+      "html": "<p>Ein Schwimmteich oder eine automatische Bewässerung ist eine Entscheidung, über die Kunden lange nachdenken. Sie recherchieren Pflegeaufwand, Kosten und ob das für ihren Garten passt. Wer diese Fragen auf der Website ehrlich beantwortet, wird in dieser Phase gefunden.</p><p>Gerade beim Schwimmteich ist Ehrlichkeit wichtig: Wie viel Pflege braucht er wirklich, was passiert im ersten Jahr mit Algen, für welche Grundstücksgröße ist er sinnvoll? Antworten aus Ihrer Erfahrung, ohne Zahlen, die Sie nicht belegen können, wirken glaubwürdiger als Hochglanzprospekte.</p>"
+    },
+    {
+      "h2": "Die Saison zeigen: Bilder, die von selbst wirken",
+      "html": "<p>Kaum eine Branche hat so starke Bilder: der neu angelegte Naturgarten im Juni, die Trockensteinmauer, der Herbstgarten mit Gräsern. Diese Bilder gehören auf die Website und in die sozialen Medien, aber in der Saison hat niemand Zeit zum Posten.</p><p><a href=\"https://pipeflow.at/\">Pipeflow</a> erstellt aus Ihren Website-Inhalten jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, die Sie nur freigeben. In der Pilotphase ist es kostenlos. Für die Planung über das Jahr hilft ein einfacher <a href=\"/wissen/redaktionsplan/\">Redaktionsplan</a>, der sich an den Gartenjahreszeiten orientiert.</p>"
+    },
+    {
+      "h2": "Anfragen mit Grundstücksfotos und Plan",
+      "html": "<p>Eine Gartenplanung ohne Bild vom Grundstück ist Raterei. Ein Anfrageformular sollte deshalb Fotos aus mehreren Blickwinkeln, die ungefähre Fläche, Himmelsrichtung, vorhandene Bäume und Wünsche wie Spielbereich, Gemüsebeet oder pflegeleicht abfragen. Wenn ein Lageplan vorhanden ist, kann der Kunde ihn gleich mitschicken.</p><p>So sehen Sie vorab, ob es um eine kleine Neugestaltung oder ein großes Projekt mit Bagger geht, und können den Besichtigungstermin richtig planen. Auch die Zufahrt ist wichtig: Kommt ein Minibagger in den Garten, oder muss alles mit der Scheibtruhe hinein? Diese Frage gehört ins Formular.</p>"
+    },
+    {
+      "h2": "Was Gartenbetriebe nicht brauchen",
+      "html": "<p>Einen Chatbot oder Telefonassistenten brauchen die meisten Gartenbetriebe nicht. Wichtiger sind eine Website mit guten Bildern, eine klare Saisonkommunikation und organisierte Pflegekunden. Wer schon voll ausgelastet ist, sollte nicht in Werbung investieren, sondern in Abläufe.</p><p>Wie gut Ihr Auftritt in sozialen Medien aussieht, zeigt der <a href=\"/gratis-check/social-media-test/\">kostenlose Social-Media-Test</a>. Im Erstgespräch klären wir den Rest.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie bekomme ich Kunden dazu, ihre Gartenprojekte früher anzufragen?",
+      "a": "Indem Sie es aktiv kommunizieren: auf der Website, im Google-Profil und in Beiträgen im Herbst. Ein klarer Satz wie „Wer im Frühjahr bauen will, plant am besten jetzt im Winter mit uns“ wirkt mehr als man denkt. Dazu ein konkretes Angebot für einen Planungstermin in der ruhigen Zeit. Bestandskunden können Sie im Herbst gezielt per E-Mail daran erinnern."
+    },
+    {
+      "q": "Wie organisiere ich Pflegeverträge am einfachsten digital?",
+      "a": "Für einen kleinen Betrieb reicht oft eine gut gepflegte Kundenliste mit Adresse, Leistungen und Intervall, die zeigt, wer diese Woche dran ist. Der nächste Schritt sind automatische Terminankündigungen per SMS oder E-Mail. Ein großes Programm ist selten nötig. Im Erstgespräch schauen wir, wie Sie heute planen, und schlagen nur vor, was Ihnen wirklich Arbeit abnimmt."
+    },
+    {
+      "q": "Lohnt sich Instagram für einen Gartenbetrieb?",
+      "a": "Für Privatkunden oft ja, weil Gärten optisch stark wirken und sich gut teilen lassen. Entscheidend ist, dass regelmäßig etwas kommt, auch in der Saison. Pipeflow macht aus Website-Inhalten wöchentliche Beiträge, die Sie nur freigeben, und ist in der Pilotphase kostenlos. Wer fast nur für Gemeinden oder Firmen arbeitet, profitiert eher von einer guten Referenzseite."
+    },
+    {
+      "q": "Was kostet eine Website für Gartengestaltung?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Kontaktformular, Impressum, Datenschutz, Hosting und Optimierung für Google und KI-Suchen. Typisch wären Startseite, Gartenplanung und Neuanlage, Pflege, Projekte und Kontakt. Wer eine umfangreiche Bildergalerie oder eine Anfrage mit Foto-Upload möchte, bekommt nach dem Erstgespräch ein schriftliches Angebot."
+    }
+  ],
+  "verwandt": ["/wissen/saisonbetrieb-digital/", "/wissen/redaktionsplan/", "/leistungen/social-media-automatisierung/", "/wissen/website-fotos/", "/produkte/pipeflow/"],
+  "checks": ["social-media-test", "website-entwurf"]
+}

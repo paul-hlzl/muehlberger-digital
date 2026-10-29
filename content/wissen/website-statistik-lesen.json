@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/website-statistik-lesen/",
+  "title": "Website-Statistik richtig lesen: Die wichtigsten Zahlen",
+  "description": "Website-Statistik richtig lesen: welche Zahlen für kleine Betriebe zählen, was Besucher, Quellen und Absprünge verraten und welche Schlüsse Sie ziehen.",
+  "h1": "Website-Statistik richtig lesen",
+  "kicker": "Ratgeber · Auswertung",
+  "lead": "Website-Statistik lesen Sie richtig, wenn Sie nicht auf möglichst viele Zahlen schauen, sondern auf wenige, die mit Ihrem Ziel zu tun haben: Woher kommen Besucher, welche Seiten lesen sie, und wie viele melden sich danach? Einmal im Monat zehn Minuten reichen, um zu erkennen, ob die Website arbeitet oder nur da ist.",
+  "fakten": [
+    "Anfragen sind wichtiger als Besucherzahlen",
+    "Herkunft der Besucher zeigt, welcher Kanal wirkt",
+    "Trends über Monate vergleichen, nicht einzelne Tage",
+    "Google Search Console zeigt, wofür Sie gefunden werden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die drei Fragen, die Ihre Statistik beantworten soll",
+      "html": "<p>Statistik-Werkzeuge zeigen Dutzende Kennzahlen. Für einen kleinen Betrieb reichen drei Fragen:</p><ol><li><strong>Kommen Menschen auf meine Website?</strong> Und wird es mehr oder weniger?</li><li><strong>Woher kommen sie?</strong> Google-Suche, Google-Profil, Social Media, direkte Eingabe?</li><li><strong>Melden sie sich?</strong> Anrufe, Formulare, Reservierungen, E-Mails.</li></ol><p>Alles andere ist Detail. Wer diese drei Fragen jeden Monat beantworten kann, weiß mehr über seine Website als viele, die täglich auf Dashboards schauen.</p>"
+    },
+    {
+      "h2": "Die wichtigsten Kennzahlen einfach erklärt",
+      "html": "<ul><li><strong>Besucher:</strong> wie viele verschiedene Personen (genauer: Geräte) die Seite besucht haben.</li><li><strong>Seitenaufrufe:</strong> wie oft Seiten insgesamt geöffnet wurden. Ein Besucher kann mehrere Seiten ansehen.</li><li><strong>Quellen:</strong> von wo Besucher kamen – Suchmaschine, Verweis von einer anderen Seite, Social Media, direkt.</li><li><strong>Beliebte Seiten:</strong> welche Seiten am häufigsten gelesen werden.</li><li><strong>Absprungrate:</strong> Anteil der Besuche, bei denen nur eine Seite angesehen wurde. Mehr dazu im Glossar unter <a href=\"/glossar/absprungrate/\">Absprungrate</a>.</li><li><strong>Geräte:</strong> Handy, Tablet oder Computer.</li></ul><p>Beachten Sie: Je nach Werkzeug und Cookie-Einstellungen werden nicht alle Besucher erfasst. Die Zahlen sind ein Trend, keine exakte Zählung.</p>"
+    },
+    {
+      "h2": "Was die Zahlen typischerweise bedeuten",
+      "html": "<p>Zahlen sagen erst etwas, wenn man sie deutet. Ein paar typische Muster:</p><ul><li><strong>Viele Besucher, kaum Anfragen:</strong> Die Seite wird gefunden, überzeugt aber nicht. Prüfen Sie Kontaktmöglichkeiten und Texte.</li><li><strong>Wenige Besucher, aber gute Anfragen:</strong> Die Seite funktioniert, wird aber zu selten gefunden. Hier hilft Arbeit an der Sichtbarkeit.</li><li><strong>Fast alle Besucher am Handy:</strong> Die mobile Darstellung ist Ihre eigentliche Website.</li><li><strong>Eine Unterseite sticht heraus:</strong> Dieses Thema interessiert Ihre Kunden besonders – bauen Sie es aus.</li></ul><p>Eine hohe Absprungrate ist nicht automatisch schlecht. Wer Ihre Telefonnummer sucht, findet sie und ruft an, ohne weiterzuklicken.</p><p>Achten Sie außerdem auf Ausreißer. Ein plötzlicher Anstieg an einem einzigen Tag kommt oft von einem Zeitungsartikel, einem geteilten Beitrag oder auch von automatisierten Zugriffen. Das ist kein Grund zur Freude oder Sorge, solange sich der langfristige Trend nicht ändert.</p>"
+    },
+    {
+      "h2": "Die Google Search Console als zweite Quelle",
+      "html": "<p>Statistik-Werkzeuge zeigen, was <em>auf</em> der Website passiert. Die kostenlose Google Search Console zeigt, was <em>vorher</em> passiert: Für welche Suchbegriffe Ihre Seite angezeigt wird, wie oft und wie oft darauf geklickt wird.</p><p>Das ist besonders wertvoll. Sehen Sie dort etwa, dass Ihre Seite für „Fliesenleger Krems“ oft angezeigt, aber selten angeklickt wird, lohnt es sich, Seitentitel und Beschreibung zu verbessern. Wie das geht, erklärt der Ratgeber <a href=\"/wissen/google-search-console/\">Google Search Console</a>.</p>"
+    },
+    {
+      "h2": "Datenschutzfreundlich messen",
+      "html": "<p>Viele klassische Statistik-Werkzeuge setzen Cookies und übertragen Daten an Server außerhalb der EU. Dafür braucht es in der Regel eine Einwilligung der Besucher, und wer im Cookie-Banner ablehnt, taucht in der Statistik nicht auf.</p><p>Eine Alternative sind Werkzeuge, die ohne Cookies auskommen und Daten in Europa verarbeiten. Sie liefern weniger Details, aber für die drei Grundfragen oben reicht das meist völlig. Mehr dazu im Ratgeber <a href=\"/wissen/besucheranalyse-ohne-cookies/\">Besucheranalyse ohne Cookies</a>.</p><p>Wichtig beim Vergleich über längere Zeit: Wechseln Sie das Werkzeug, ändern sich oft auch die Zahlen, ohne dass sich an den echten Besuchern etwas geändert hat. Notieren Sie sich deshalb den Zeitpunkt eines Wechsels oder einer neuen Cookie-Einstellung, damit Sie einen plötzlichen Sprung später richtig einordnen. Verbindliche Auskunft zu Ihrem Einzelfall gibt die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> oder ein Anwalt.</p>"
+    },
+    {
+      "h2": "Eine einfache Monatsroutine",
+      "html": "<p>So behalten Sie die Website im Blick, ohne viel Zeit zu investieren:</p><ol><li>Besucherzahl des Monats mit dem Vormonat und dem Vorjahresmonat vergleichen.</li><li>Die drei wichtigsten Quellen notieren.</li><li>Die fünf meistgelesenen Seiten ansehen: Sind das die richtigen?</li><li>Anfragen zählen, auch telefonische, bei denen Kunden „über die Website“ sagen.</li><li>Eine Sache festlegen, die Sie im nächsten Monat verbessern.</li></ol><p>Ein Beispiel: Eine Zahnarztpraxis sieht, dass die Seite mit den Ordinationszeiten am häufigsten aufgerufen wird, aber auf dem Handy schwer zu finden ist. Ein Link ganz oben auf der Startseite löst das Problem in wenigen Minuten.</p>"
+    },
+    {
+      "h2": "Vom Lesen zum Verbessern",
+      "html": "<p>Statistik ist nur nützlich, wenn daraus etwas folgt. Die häufigsten nächsten Schritte: Kontaktwege deutlicher machen, beliebte Themen ausbauen, Ladezeit verkürzen, Seitentitel verbessern. Konkrete Ideen dazu stehen im Ratgeber <a href=\"/wissen/conversion-verbessern/\">Mehr Anfragen aus denselben Besuchern</a>.</p><p>Wenn Sie nicht sicher sind, wo Ihre Website technisch hakt, zeigt der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a> die wichtigsten Baustellen. Und ob KI-Suchen wie ChatGPT Ihren Betrieb überhaupt nennen, prüft der <a href=\"/gratis-check/ki-sichtbarkeit/\">Check zur KI-Sichtbarkeit</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Zahl in der Website-Statistik ist am wichtigsten?",
+      "a": "Für kleine Betriebe ist die Zahl der Anfragen am wichtigsten: Anrufe, Formulare, Reservierungen oder E-Mails, die über die Website entstehen. Besucherzahlen sind nur ein Zwischenschritt. Eine Website mit wenigen Besuchern, die regelmäßig Anfragen bringt, arbeitet besser als eine mit vielen Besuchern, bei der sich niemand meldet."
+    },
+    {
+      "q": "Ist eine hohe Absprungrate schlecht?",
+      "a": "Nicht unbedingt. Die Absprungrate zeigt, wie viele Besucher nur eine Seite angesehen haben. Wer Ihre Telefonnummer oder Öffnungszeiten sucht, findet sie oft sofort und geht dann, ohne weiterzuklicken. Bedenklich ist eine hohe Absprungrate vor allem auf Seiten, die zu einer Anfrage führen sollen, etwa einer Leistungsseite ohne Rückmeldung."
+    },
+    {
+      "q": "Wie oft sollte ich die Website-Statistik ansehen?",
+      "a": "Einmal im Monat reicht für die meisten kleinen Betriebe. Tägliche Zahlen schwanken stark und führen eher zu Verunsicherung als zu Erkenntnissen. Vergleichen Sie den Monat mit dem Vormonat und dem gleichen Monat im Vorjahr, um Saisoneffekte zu erkennen. Nach größeren Änderungen an der Website lohnt ein zusätzlicher Blick nach einigen Wochen."
+    },
+    {
+      "q": "Brauche ich für eine Website-Statistik einen Cookie-Banner?",
+      "a": "Das hängt vom Werkzeug ab. Klassische Werkzeuge mit Cookies und Datenübertragung an Dritte brauchen in der Regel eine Einwilligung. Es gibt aber datenschutzfreundliche Alternativen ohne Cookies mit Datenverarbeitung in Europa, die oft ohne Einwilligung auskommen. Lassen Sie Ihren konkreten Fall im Zweifel von der Datenschutzbehörde oder einem Anwalt beurteilen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/google-search-console/",
+    "/wissen/besucheranalyse-ohne-cookies/",
+    "/wissen/conversion-verbessern/",
+    "/glossar/absprungrate/",
+    "/gratis-check/seo-check/"
+  ],
+  "checks": ["seo-check", "ki-sichtbarkeit"]
+}

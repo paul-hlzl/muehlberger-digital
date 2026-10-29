@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/st-poelten/",
+  "title": "KI-Chatbot für Unternehmen in St. Pölten",
+  "description": "In der Landeshauptstadt St. Pölten entlastet ein KI-Chatbot Empfang und Büro bei wiederkehrenden Fragen. Was Pipebot kann, was er kostet und wo er aufhört.",
+  "h1": "KI-Chatbot für die Website in St. Pölten",
+  "kicker": "KI-Chatbot · St. Pölten",
+  "lead": "In St. Pölten haben viele Betriebe ein Büro oder einen Empfang, bei dem dieselben Fragen täglich mehrfach ankommen. Ein KI-Chatbot auf der Website fängt einen Teil davon ab, bevor das Telefon läutet. Pipebot antwortet nur mit Ihren Inhalten, verbindet bei Unsicherheit mit Ihrem Team und kostet 19 € im Monat.",
+  "fakten": [
+    "Landeshauptstadt mit vielen Büros, Kanzleien und Dienstleistern",
+    "Der Bot entlastet Empfang und Sekretariat bei Routinefragen",
+    "Er antwortet im Design Ihrer Website, nur mit Ihren Inhalten",
+    "19 € pro Monat, erste 30 Tage gratis, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Landeshauptstadt mit vielen Büros",
+      "html": "<p><a href=\"/regionen/st-poelten/\">St. Pölten</a> ist Landeshauptstadt und Verwaltungszentrum Niederösterreichs. Neben Behörden gibt es viele Kanzleien, Praxen, Hausverwaltungen und Dienstleister mit einem Team im Büro. Dort entstehen andere Anforderungen als in einem Ein-Personen-Betrieb.</p><p>Der Engpass ist oft der Empfang: Eine Person beantwortet Anrufe, Mails und Fragen an der Tür. Jede Routinefrage, die schon online beantwortet ist, verschafft ihr Luft.</p>"
+    },
+    {
+      "h2": "Drei Beispiele mit eigenen Fragen",
+      "html": "<ul><li><strong>Steuerberatungskanzlei mit acht Mitarbeitern:</strong> „Welche Unterlagen brauche ich für die Arbeitnehmerveranlagung?“, „Wie läuft die Zusammenarbeit für Neukunden ab?“ Mehr dazu unter <a href=\"/branchen/steuerberater/\">Steuerberater</a>.</li><li><strong>Hausverwaltung:</strong> „Wer ist für mein Haus zuständig?“, „Wie melde ich einen Schaden?“</li><li><strong>Fitnessstudio:</strong> „Gibt es ein Probetraining?“, „Wie kündige ich meine Mitgliedschaft?“ Siehe <a href=\"/branchen/fitnessstudio/\">Fitnessstudios</a>.</li></ul><p>In allen drei Fällen gilt: Stehen die Antworten auf der Website, beantwortet Pipebot sie zuverlässig. Was nicht dort steht, landet beim Team.</p>"
+    },
+    {
+      "h2": "Was im Team vorher geklärt werden sollte",
+      "html": "<p>Bevor ein Chatbot live geht, lohnt sich eine kurze Abstimmung im Team: Welche Themen soll der Bot beantworten, welche ausdrücklich nicht? Wer kümmert sich um die Anfragen, die er weitergibt? Wer prüft regelmäßig, ob die Inhalte noch stimmen?</p><p>Wie Sie ein solches Vorhaben sauber aufsetzen, beschreibt der Ratgeber <a href=\"/wissen/ki-projekt-starten/\">KI-Projekt starten</a>.</p>"
+    },
+    {
+      "h2": "Und im Bezirk St. Pölten-Land?",
+      "html": "<p>Rund um die Stadt ist der <a href=\"/regionen/bezirk-st-poelten-land/\">Bezirk St. Pölten-Land</a> deutlich ländlicher, mit Handwerk, Gasthäusern und Direktvermarktern. Dort hat selten jemand einen Empfang, die Fragen landen direkt beim Inhaber. Der Bot ist hier eher Ersatz für das Telefon, das während der Arbeit nicht abgehoben wird.</p><p>Ein Probelauf im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> zeigt, welche Fragen der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> schon heute abfangen könnte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot zwischen Abteilungen oder Zuständigkeiten unterscheiden?",
+      "a": "Ja, wenn Ihre Website das beschreibt. Steht dort, wer für Lohnverrechnung, Buchhaltung oder bestimmte Häuser zuständig ist, kann Pipebot die richtige Ansprechperson nennen. Er greift dabei nur auf veröffentlichte Inhalte zu. Interne Listen oder Kalender kennt er nicht. Für viele Büros reicht schon eine klare Seite mit Zuständigkeiten, um viele Weiterleitungen am Telefon zu sparen."
+    },
+    {
+      "q": "Wie sieht der Bot auf unserer Website aus?",
+      "a": "Pipebot erscheint im Design Ihrer Website, also mit Ihren Farben und passend zum Auftritt Ihres Unternehmens. Er wirkt dadurch nicht wie ein Fremdkörper. Wie das bei Ihnen konkret aussieht, zeigt Mühlberger Digital im Erstgespräch live mit Ihrer eigenen Seite. Der Gratis-Check auf pipebot.at gibt Ihnen vorab einen ersten Eindruck."
+    },
+    {
+      "q": "Brauchen wir einen Chatbot, wenn wir ohnehin einen besetzten Empfang haben?",
+      "a": "Nicht zwingend. Ein Chatbot lohnt sich vor allem, wenn der Empfang häufig mit denselben Fragen beschäftigt ist oder viele Anfragen außerhalb der Bürozeiten kommen. Er ersetzt keine Mitarbeiterin, sondern nimmt ihr Routine ab. Wenn Ihr Empfang entspannt arbeitet und kaum Fragen über die Website kommen, sagen wir Ihnen das auch so."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/st-poelten/",
+    "/regionen/bezirk-st-poelten-land/",
+    "/branchen/steuerberater/",
+    "/wissen/ki-im-buero/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

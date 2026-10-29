@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/cookie/",
+  "title": "Cookie einfach erklärt: Kleine Dateien im Browser",
+  "description": "Cookie einfach erklärt: Was Cookies auf Websites speichern, welche ohne Einwilligung erlaubt sind und warum kleine Betriebe mit wenig Tracking gut fahren.",
+  "h1": "Cookie",
+  "kicker": "Glossar · Recht und Technik",
+  "lead": "Ein Cookie ist eine kleine Textdatei, die eine Website im Browser des Besuchers speichert, um sich etwas zu merken, etwa den Inhalt des Warenkorbs, eine Spracheinstellung oder eine Kennung für Statistik und Werbung. Für nicht notwendige Cookies braucht es in der Regel eine Einwilligung.",
+  "fakten": [
+    "Notwendige Cookies: Warenkorb, Login, Sicherheit",
+    "Nicht notwendige Cookies: Statistik, Werbung, Tracking",
+    "Ohne Tracking-Cookies ist oft gar kein Cookie-Banner nötig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Cookies am Beispiel eines Betriebs",
+      "html": "<p>Ein Weinhändler betreibt einen kleinen <a href=\"/glossar/onlineshop/\">Onlineshop</a>. Ein Cookie merkt sich, welche Flaschen im Warenkorb liegen, das ist für den Shop technisch notwendig. Zusätzlich hat ein früherer Dienstleister ein Werbe-Tracking eingebaut, das Besucher über andere Websites hinweg wiedererkennt. Dafür braucht es eine aktive Einwilligung über einen Cookie-Banner.</p><p>Nach einer Prüfung entfernt der Händler das ungenutzte Tracking und setzt auf eine datenschutzfreundliche Statistik ohne Cookies. Der Banner wird dadurch deutlich einfacher.</p>"
+    },
+    {
+      "h2": "Warum Cookies für KMU ein Thema sind",
+      "html": "<p>Viele kleine Websites setzen Cookies, ohne dass der Betrieb davon weiß, etwa durch eingebettete Videos, Karten, Schriften oder Social-Media-Knöpfe. Das kann zu Problemen mit der <a href=\"/glossar/dsgvo/\">DSGVO</a> und den österreichischen Regeln zur elektronischen Kommunikation führen. Ein Banner, der Besucher zur Zustimmung drängt, ist ebenfalls problematisch.</p><p>Wie ein sauberer Banner aussieht, zeigt der Ratgeber <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a>, Alternativen ohne Cookies <a href=\"/wissen/besucheranalyse-ohne-cookies/\">Besucheranalyse ohne Cookies</a>. Das ist allgemeine Orientierung; im Einzelfall fragen Sie die WKO oder die Datenschutzbehörde.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich einen Cookie-Banner auf meiner Website?",
+      "a": "Nur wenn Ihre Website Cookies oder ähnliche Techniken einsetzt, die nicht unbedingt notwendig sind, etwa für Statistik mit Kennung, Werbung oder eingebettete Inhalte von Drittanbietern. Verwendet Ihre Seite nur technisch notwendige Cookies, ist meist kein Einwilligungsbanner nötig, ein Hinweis in der Datenschutzerklärung aber schon. Lassen Sie prüfen, was Ihre Seite tatsächlich setzt."
+    },
+    {
+      "q": "Wie finde ich heraus, welche Cookies meine Website setzt?",
+      "a": "Öffnen Sie Ihre Website im Browser und schauen Sie in den Entwicklerwerkzeugen unter „Speicher“ oder „Anwendung“ nach den gespeicherten Cookies. Achten Sie auch darauf, welche Dienste beim Laden kontaktiert werden. Einfacher ist ein Scan durch Ihren Webdienstleister, der gleich erklärt, welche Cookies notwendig sind und welche sich entfernen lassen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/cookie-banner/",
+    "/wissen/besucheranalyse-ohne-cookies/",
+    "/glossar/dsgvo/",
+    "/wissen/google-fonts-lokal/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

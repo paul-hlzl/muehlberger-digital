@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/barrierefreie-website/",
+  "title": "Barrierefreie Website: Grundlagen für kleine Betriebe",
+  "description": "Was eine barrierefreie Website ausmacht, welche Regeln für wen gelten, die wichtigsten Grundregeln und ein Selbsttest, der nur wenige Minuten dauert.",
+  "h1": "Barrierefreie Website: Was Betriebe wissen sollten",
+  "kicker": "Ratgeber · Website",
+  "lead": "Eine barrierefreie Website kann von allen Menschen genutzt werden, auch mit Sehschwäche, Farbfehlsichtigkeit, motorischen Einschränkungen oder Vorlesesoftware. Für viele kleine Betriebe ist das vor allem eine Frage guter Bedienbarkeit. Für bestimmte digitale Angebote wie Onlineshops gelten durch EU-Vorgaben seit Mitte 2025 auch gesetzliche Anforderungen, mit Ausnahmen für sehr kleine Unternehmen; ob Sie betroffen sind, klären Sie im Einzelfall mit der WKO.",
+  "fakten": [
+    "Barrierefreiheit hilft allen, nicht nur Menschen mit Behinderung",
+    "Für bestimmte Online-Angebote gelten seit 2025 strengere Regeln",
+    "Wichtigste Hebel: Kontrast, Schriftgröße, Alt-Texte, Tastaturbedienung",
+    "Ein einfacher Selbsttest zeigt die gröbsten Hürden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was barrierefrei konkret bedeutet",
+      "html": "<p>Barrierefrei heißt, dass niemand von der Nutzung ausgeschlossen wird. Denken Sie an die ältere Kundin, die ohne Lesebrille nur große Schrift lesen kann, an den Mann mit Rot-Grün-Schwäche, an jemanden, der wegen eines Zitterns keine Maus nutzt, oder an eine blinde Person, die sich die Seite vorlesen lässt.</p><p>Dazu kommen Alltagssituationen: grelles Sonnenlicht auf dem Handy-Display, eine verletzte Hand, eine laute Umgebung, in der man Videos nicht hören kann. Eine gut zugängliche Website funktioniert auch dann. Eine kurze Definition finden Sie im Glossar unter <a href=\"/glossar/barrierefreiheit/\">Barrierefreiheit</a>.</p>"
+    },
+    {
+      "h2": "Der rechtliche Rahmen in Grundzügen",
+      "html": "<p>Mit dem European Accessibility Act hat die EU Anforderungen an die Barrierefreiheit bestimmter Produkte und Dienstleistungen festgelegt, darunter viele Angebote im elektronischen Geschäftsverkehr wie Onlineshops. In Österreich ist das im Barrierefreiheitsgesetz umgesetzt, die Anforderungen gelten seit Mitte 2025. Für Kleinstunternehmen, die Dienstleistungen anbieten, gibt es Ausnahmen.</p><p>Als technische Richtschnur dienen meist die Web Content Accessibility Guidelines, kurz WCAG. Ob und in welchem Umfang Ihr Betrieb betroffen ist, hängt von Angebot und Größe ab. Diese Darstellung ist eine allgemeine Orientierung und keine Rechtsberatung. Verbindliche Auskünfte geben die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>, das <a href=\"https://www.usp.gv.at/\">Unternehmensserviceportal</a> oder ein Anwalt.</p>"
+    },
+    {
+      "h2": "Die wichtigsten Grundregeln",
+      "html": "<ul><li><strong>Kontrast:</strong> Text muss sich deutlich vom Hintergrund abheben. Hellgrau auf Weiß ist für viele kaum lesbar.</li><li><strong>Schriftgröße:</strong> ausreichend groß und vergrößerbar, ohne dass die Seite zerfällt.</li><li><strong>Alternativtexte:</strong> Bilder mit Inhalt bekommen eine kurze Beschreibung.</li><li><strong>Überschriften:</strong> eine logische Gliederung, damit Vorlesesoftware sich orientieren kann.</li><li><strong>Aussagekräftige Links:</strong> „Preise für Fliesenverlegung“ statt „hier klicken“.</li><li><strong>Tastatur:</strong> Alles muss auch ohne Maus bedienbar sein.</li><li><strong>Formulare:</strong> Jedes Feld hat eine sichtbare Beschriftung, Fehler werden verständlich erklärt.</li><li><strong>Farbe nie allein:</strong> Informationen nicht nur über Farbe vermitteln, etwa bei Pflichtfeldern.</li></ul>"
+    },
+    {
+      "h2": "Typische Hürden auf kleinen Websites",
+      "html": "<p>Auf vielen Websites von kleinen Betrieben finden sich immer wieder dieselben Probleme. Öffnungszeiten oder Speisekarten sind als Bild oder PDF eingebunden und können weder vergrößert noch vorgelesen werden. Der Cookie-Hinweis lässt sich nur mit der Maus schließen. Wichtige Texte stehen in heller Schrift auf unruhigen Fotos.</p><p>Häufig sind auch Videos ohne Untertitel, Schaltflächen, die nur aus einem Symbol ohne Beschriftung bestehen, und Formulare, bei denen die Beschriftung im Feld verschwindet, sobald man zu tippen beginnt. Die meisten dieser Hürden lassen sich mit wenig Aufwand beheben.</p>"
+    },
+    {
+      "h2": "Selbsttest in wenigen Minuten",
+      "html": "<ol><li><strong>Tastatur:</strong> Legen Sie die Maus weg und springen Sie mit der Tabulatortaste durch die Seite. Sehen Sie immer, wo Sie gerade sind? Erreichen Sie Menü und Formular?</li><li><strong>Zoom:</strong> Vergrößern Sie die Seite im Browser auf 200 Prozent. Bleibt alles lesbar und bedienbar?</li><li><strong>Kontrast:</strong> Lesen Sie die Seite am Handy in der Sonne. Was verschwindet?</li><li><strong>Ohne Bilder:</strong> Verstehen Sie die Seite noch, wenn Sie sich die Bilder wegdenken?</li><li><strong>Links:</strong> Ergeben die Linktexte allein, ohne Umgebung, einen Sinn?</li></ol><p>Dieser Test ersetzt keine fachliche Prüfung, zeigt aber die größten Baustellen.</p>"
+    },
+    {
+      "h2": "Der Nutzen über die Pflicht hinaus",
+      "html": "<p>Auch wenn Ihr Betrieb rechtlich nicht betroffen ist, lohnt sich Barrierefreiheit. Gerade in ländlichen Regionen mit vielen älteren Kunden ist gut lesbare Schrift kein Luxus. Viele Maßnahmen verbessern zudem die Bedienbarkeit für alle, etwa klare Überschriften, verständliche Formulare und große Schaltflächen am Handy.</p><p>Dazu kommt ein Nebeneffekt: Was für Vorlesesoftware gut strukturiert ist, verstehen auch Suchmaschinen und KI-Suchen besser. Alternativtexte für Bilder und eine saubere Gliederung helfen beiden. Hinweise zu gut lesbaren Farben finden Sie im Ratgeber <a href=\"/wissen/farben-und-schriften/\">Farben und Schriften für die Website wählen</a>, zu Bildbeschreibungen unter <a href=\"/wissen/bilder-seo/\">Bilder-SEO und Alt-Texte</a>.</p>"
+    },
+    {
+      "h2": "Barrierefreiheit von Anfang an einplanen",
+      "html": "<p>Am einfachsten ist Barrierefreiheit, wenn sie von Beginn an mitgedacht wird. Nachträglich an eine alte Website angebaut, wird es oft aufwendig. Bei einer <a href=\"/leistungen/website-erstellen/\">neuen Website</a> oder einem <a href=\"/leistungen/website-relaunch/\">Relaunch</a> achten wir auf Kontraste, Gliederung, Alternativtexte und Tastaturbedienung.</p><p>Wenn Sie einen Onlineshop betreiben oder planen, sprechen Sie das Thema im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> ausdrücklich an, damit es im Angebot berücksichtigt wird. Die rechtliche Frage, ob Sie betroffen sind, klären Sie bitte parallel mit der WKO oder Ihrem Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine barrierefreie Website?",
+      "a": "Eine barrierefreie Website kann von allen Menschen wahrgenommen, verstanden und bedient werden, auch mit Seh-, Hör- oder motorischen Einschränkungen und mit Hilfsmitteln wie Vorlesesoftware. Dazu gehören ausreichende Kontraste, vergrößerbare Schrift, Alternativtexte für Bilder, eine logische Gliederung, Bedienbarkeit per Tastatur und verständliche Formulare. Als technischer Maßstab gelten meist die WCAG-Richtlinien."
+    },
+    {
+      "q": "Muss meine Firmenwebsite barrierefrei sein?",
+      "a": "Das hängt von Ihrem Angebot und Ihrer Unternehmensgröße ab. Seit Mitte 2025 gelten durch EU-Vorgaben, in Österreich umgesetzt im Barrierefreiheitsgesetz, Anforderungen für bestimmte Produkte und Dienstleistungen, etwa viele Onlineshops. Für Kleinstunternehmen mit Dienstleistungen gibt es Ausnahmen. Ob Sie betroffen sind, klären Sie im Einzelfall mit der Wirtschaftskammer oder einem Anwalt."
+    },
+    {
+      "q": "Was kostet es, eine Website barrierefrei zu machen?",
+      "a": "Das hängt stark vom Ausgangszustand ab. Bei einer neuen Website lässt sich Barrierefreiheit von Anfang an einplanen, was meist wenig Mehraufwand bedeutet. Eine ältere Website nachträglich anzupassen, kann aufwendig sein, wenn Gestaltung und Technik nicht darauf ausgelegt sind. Nach einer kurzen Prüfung lässt sich einschätzen, ob Nachbessern oder ein Relaunch sinnvoller ist."
+    },
+    {
+      "q": "Hilft Barrierefreiheit auch bei Google?",
+      "a": "Indirekt ja. Viele Maßnahmen für Barrierefreiheit überschneiden sich mit dem, was Suchmaschinen und KI-Suchen schätzen: klare Überschriften, beschreibende Linktexte, Alternativtexte für Bilder, sauber strukturierter Inhalt und gute Bedienbarkeit am Handy. Barrierefreiheit ist kein direkter Rankingfaktor, verbessert aber die Grundlage, auf der Ihre Inhalte verstanden werden."
+    },
+    {
+      "q": "Reicht ein Barrierefreiheits-Plugin oder Overlay aus?",
+      "a": "In der Regel nicht. Solche Werkzeuge blenden etwa Schaltflächen für größere Schrift oder höheren Kontrast ein, beheben aber keine grundlegenden Probleme wie fehlende Alternativtexte, unlogische Gliederung oder Formulare ohne Beschriftung. Manche Hilfsmittel arbeiten damit sogar schlechter. Nachhaltiger ist es, die Website selbst sauber aufzubauen und die Inhalte entsprechend zu pflegen."
+    }
+  ],
+  "verwandt": [
+    "/glossar/barrierefreiheit/",
+    "/wissen/farben-und-schriften/",
+    "/wissen/bilder-seo/",
+    "/leistungen/website-relaunch/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

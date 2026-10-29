@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/call-to-action/",
+  "title": "Call-to-Action: Besucher zur Anfrage führen",
+  "description": "Wie eine Call-to-Action Besucher zur Anfrage führt: klare Formulierungen, die richtigen Stellen, ein Hauptziel pro Seite und Beispiele aus kleinen Betrieben.",
+  "h1": "Call-to-Action: Besucher zur Anfrage führen",
+  "kicker": "Ratgeber · Anfragen",
+  "lead": "Eine Call-to-Action ist eine klare Aufforderung zum nächsten Schritt, etwa „Jetzt anrufen“ oder „Angebot anfragen“. Sie wirkt, wenn sie konkret sagt, was passiert, gut sichtbar an den richtigen Stellen steht und zur Situation des Besuchers passt. Pro Seite sollte es ein Hauptziel geben, nicht fünf gleich laute Schaltflächen.",
+  "fakten": [
+    "Konkrete Verben statt „Mehr erfahren“ oder „Absenden“",
+    "Ein Hauptziel pro Seite, höchstens ein Nebenziel",
+    "Platzierung oben, nach jedem wichtigen Abschnitt und am Ende",
+    "Sagen, was nach dem Klick passiert, senkt die Hemmschwelle"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was eine Call-to-Action ist",
+      "html": "<p>Der Begriff kommt aus dem Marketing und bedeutet Handlungsaufforderung. Gemeint ist jede Stelle, an der Sie dem Besucher sagen, was er als Nächstes tun kann: eine Schaltfläche, eine antippbare Telefonnummer, ein Link zur Terminbuchung. Eine kurze Definition finden Sie im Glossar unter <a href=\"/glossar/call-to-action/\">Call-to-Action</a>.</p><p>Eine Call-to-Action ist kein Verkaufsdruck, sondern Orientierung. Sie hilft Menschen, die ohnehin Interesse haben, ohne Umwege weiterzukommen. Viele Websites von kleinen Betrieben informieren gut, enden aber im Nichts. Der Besucher hat gelesen, ist überzeugt und muss dann selbst suchen, wie er Kontakt aufnimmt. Eine gute Call-to-Action nimmt ihm diese Arbeit ab.</p>"
+    },
+    {
+      "h2": "Formulierungen, die funktionieren",
+      "html": "<p>Gute Aufforderungen sind konkret und beschreiben den Nutzen oder den nächsten Schritt. Vergleichen Sie:</p><ul><li>„Absenden“ – besser: „Anfrage senden“ oder „Rückruf anfordern“</li><li>„Mehr erfahren“ – besser: „Ablauf der Badsanierung ansehen“</li><li>„Kontakt“ – besser: „Jetzt anrufen“ mit Ihrer Telefonnummer direkt daneben</li><li>„Hier klicken“ – besser: „Tisch für heute Abend reservieren“</li></ul><p>Versprechen Sie nichts, was nicht stimmt. „Kostenlos und unverbindlich“ nur, wenn es tatsächlich so ist; „Antwort in 24 Stunden“ nur, wenn Sie das zuverlässig schaffen.</p>"
+    },
+    {
+      "h2": "Wo Handlungsaufforderungen hingehören",
+      "html": "<p>Besucher entscheiden sich an unterschiedlichen Stellen. Manche wissen sofort, dass sie anrufen wollen, andere lesen erst alles. Deshalb gehört die Aufforderung an mehrere Stellen:</p><ul><li><strong>Im oberen Bereich</strong> der Startseite und jeder Leistungsseite.</li><li><strong>Nach wichtigen Abschnitten</strong>, etwa nach dem Ablauf oder den Kosten.</li><li><strong>Am Seitenende</strong>, wo Leser angekommen sind, die wirklich interessiert sind.</li><li><strong>Am Handy</strong> eventuell in einer dauerhaft sichtbaren Leiste.</li></ul><p>Wie die Startseite insgesamt aufgebaut ist, beschreibt der Ratgeber <a href=\"/wissen/startseite-aufbauen/\">So bauen Sie eine gute Startseite auf</a>.</p>"
+    },
+    {
+      "h2": "Ein Hauptziel pro Seite",
+      "html": "<p>Wenn auf einer Seite fünf gleich auffällige Schaltflächen stehen, entscheidet sich der Besucher oft für keine. Legen Sie pro Seite ein Hauptziel fest und heben Sie es deutlich hervor. Ein zweites, leiseres Ziel ist für alle da, die noch nicht so weit sind.</p><p>Ein Beispiel: Auf der Seite für Photovoltaik ist „Beratungstermin vereinbaren“ die auffällige Schaltfläche. Darunter steht dezenter „Ablauf und Kosten ansehen“. So fühlen sich sowohl Entschlossene als auch Unentschlossene abgeholt.</p>"
+    },
+    {
+      "h2": "Hürden senken",
+      "html": "<p>Hinter jedem Klick steht eine kleine Unsicherheit: Was passiert dann? Muss ich gleich etwas kaufen? Ruft mich jemand ständig an? Beantworten Sie diese Fragen direkt neben der Schaltfläche, in einem Satz:</p><ul><li>„Wir melden uns innerhalb von zwei Werktagen mit einem Terminvorschlag.“</li><li>„Das Erstgespräch dauert rund 30 Minuten und kostet nichts.“</li><li>„Sie bekommen ein schriftliches Angebot, bevor irgendetwas passiert.“</li></ul><p>Auch das Formular dahinter entscheidet mit. Was ein gutes Formular ausmacht, steht im Ratgeber <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Beispiele aus verschiedenen Branchen",
+      "html": "<p><strong>Installateur mit Notdienst:</strong> Oben eine große, antippbare Notdienstnummer, für alles andere „Angebot für Badsanierung anfragen“.</p><p><strong>Restaurant:</strong> „Tisch reservieren“ als Hauptziel, daneben „Speisekarte ansehen“. Am Wochenende ist die Reservierung entscheidend.</p><p><strong>Physiotherapie:</strong> „Termin online buchen“, wenn es eine Buchung gibt, sonst „Rückruf vereinbaren“. Wie die Buchung funktioniert, beschreibt <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung einführen</a>.</p><p><strong>Metallbaubetrieb mit Firmenkunden:</strong> „Zeichnung oder Skizze schicken“ mit Upload-Möglichkeit. Das passt zur Art, wie Geschäftskunden anfragen.</p>"
+    },
+    {
+      "h2": "Wirkung prüfen und verbessern",
+      "html": "<p>Ob Ihre Handlungsaufforderungen funktionieren, sehen Sie an der Zahl und Qualität der Anfragen. Fragen Sie neue Kunden, wie sie zu Ihnen gefunden haben, und zählen Sie Formular-Anfragen und Anrufe über einige Monate. Ändern Sie dann gezielt eine Sache, etwa die Formulierung oder die Position, und vergleichen Sie.</p><p>Weitere Ansätze finden Sie im Ratgeber <a href=\"/wissen/conversion-verbessern/\">Mehr Anfragen aus denselben Besuchern</a>. Wenn Sie wissen möchten, wie Ihre Startseite mit klaren Aufforderungen aussehen könnte, probieren Sie den <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline AI Solutions</a> oder vereinbaren Sie ein <a href=\"/erstgespraech/\">kostenloses Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Call-to-Action auf einer Website?",
+      "a": "Eine Call-to-Action ist eine Handlungsaufforderung, die Besuchern den nächsten Schritt zeigt, etwa eine Schaltfläche „Angebot anfragen“, eine antippbare Telefonnummer oder ein Link zur Terminbuchung. Sie soll den Weg vom Lesen zur Kontaktaufnahme so kurz wie möglich machen. Gute Calls-to-Action sind konkret formuliert, gut sichtbar und passen zur jeweiligen Seite."
+    },
+    {
+      "q": "Wie viele Call-to-Action-Schaltflächen sollte eine Seite haben?",
+      "a": "Pro Seite sollte es ein klares Hauptziel geben, das auffällig hervorgehoben ist, und höchstens ein leiseres Nebenziel. Dieselbe Hauptaufforderung darf aber an mehreren Stellen wiederholt werden, etwa oben, in der Mitte und am Ende. Problematisch wird es, wenn viele unterschiedliche Ziele gleich laut um Aufmerksamkeit konkurrieren und Besucher sich für keines entscheiden."
+    },
+    {
+      "q": "Welche Farbe sollte eine Call-to-Action haben?",
+      "a": "Eine einzelne Farbe ist nicht entscheidend. Wichtig ist, dass sich die Schaltfläche klar vom Rest der Seite abhebt und gut lesbar ist, auch für Menschen mit Sehschwäche. Verwenden Sie für alle Hauptaufforderungen dieselbe auffällige Farbe aus Ihrem Farbkonzept, damit Besucher sie wiedererkennen. Für Nebenziele eignet sich eine zurückhaltendere Darstellung."
+    },
+    {
+      "q": "Ist „Kontakt“ als Schaltfläche ausreichend?",
+      "a": "„Kontakt“ funktioniert, ist aber schwach, weil es nicht sagt, was passiert. Konkretere Formulierungen wie „Angebot anfragen“, „Rückruf anfordern“ oder „Termin vereinbaren“ beschreiben den Nutzen und den nächsten Schritt. Im Menü ist „Kontakt“ als Bezeichnung für die Kontaktseite trotzdem sinnvoll, weil Besucher genau danach suchen."
+    },
+    {
+      "q": "Wirken Handlungsaufforderungen nicht aufdringlich?",
+      "a": "Nicht, wenn sie zur Seite passen und ehrlich formuliert sind. Aufdringlich wirken blinkende Elemente, Pop-ups, die beim ersten Scrollen aufspringen, oder künstlicher Zeitdruck wie „nur heute“. Eine ruhige, klar beschriftete Schaltfläche am Ende einer hilfreichen Seite empfinden Besucher dagegen als Service, weil sie nicht selbst nach dem Kontaktweg suchen müssen."
+    }
+  ],
+  "verwandt": [
+    "/glossar/call-to-action/",
+    "/wissen/kontaktformular/",
+    "/wissen/conversion-verbessern/",
+    "/wissen/startseite-aufbauen/",
+    "/gratis-check/website-entwurf/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

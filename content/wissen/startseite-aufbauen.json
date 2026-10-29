@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/startseite-aufbauen/",
+  "title": "Gute Startseite aufbauen: Aufbau, Inhalte, Beispiele",
+  "description": "So bauen Sie eine Startseite, die in Sekunden überzeugt: der obere Bereich, die richtige Reihenfolge, Vertrauensbeweise und was Sie weglassen sollten.",
+  "h1": "So bauen Sie eine gute Startseite auf",
+  "kicker": "Ratgeber · Website",
+  "lead": "Eine gute Startseite beantwortet in wenigen Sekunden drei Fragen: Was bieten Sie an, für wen und wo, und wie nimmt man Kontakt auf? Darunter folgen Ihre wichtigsten Leistungen als Wegweiser, Vertrauensbeweise wie Fotos, Ablauf und Kundenstimmen sowie ein klarer nächster Schritt. Ausführliche Informationen gehören auf Unterseiten, nicht auf die Startseite.",
+  "fakten": [
+    "Oben: Was, für wen, wo und eine klare Kontaktmöglichkeit",
+    "Leistungen als Wegweiser zu eigenen Unterseiten",
+    "Echte Fotos und konkrete Belege schaffen Vertrauen",
+    "Weglassen: Willkommenstexte, alte News, Bilder-Karussells"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die ersten Sekunden: der obere Bereich",
+      "html": "<p>Wer auf Ihre Startseite kommt, entscheidet sehr schnell, ob er bleibt. In dieser Zeit sieht er nur den oberen Bereich, am Handy oft nur einen Bildschirm. Dort müssen vier Dinge stehen:</p><ul><li><strong>Eine klare Überschrift:</strong> was Sie tun, etwa „Elektroinstallationen für Haus und Betrieb im Bezirk Zwettl“.</li><li><strong>Eine Unterzeile:</strong> was Sie unterscheidet, in einem Satz.</li><li><strong>Eine Schaltfläche:</strong> zum Beispiel „Anfrage stellen“ oder „Jetzt anrufen“.</li><li><strong>Ein echtes Foto:</strong> vom Team, vom Betrieb oder von Ihrer Arbeit.</li></ul><p>„Willkommen auf unserer Homepage“ verschenkt diesen wertvollen Platz.</p>"
+    },
+    {
+      "h2": "Die Reihenfolge von oben nach unten",
+      "html": "<p>Eine bewährte Abfolge für kleine Betriebe sieht so aus:</p><ol><li>Oberer Bereich mit Kernaussage und Kontaktmöglichkeit</li><li>Die wichtigsten Leistungen, jeweils mit kurzem Text und Link</li><li>Warum Sie: zwei bis vier konkrete Gründe</li><li>So läuft es ab: die Schritte von der Anfrage bis zum Ergebnis</li><li>Belege: Fotos von Arbeiten, Kundenstimmen, Zertifikate</li><li>Über uns in Kurzform mit Foto und Link zur Über-uns-Seite</li><li>Einzugsgebiet, Öffnungszeiten, Kontakt</li></ol><p>Nicht jeder Betrieb braucht jeden Block, und die Reihenfolge darf sich nach Ihren Kunden richten: Bei einer Praxis stehen Öffnungszeiten und Terminbuchung weiter oben, bei einem Baumeister eher Referenzen. Wichtig ist, dass jeder Abschnitt eine Frage beantwortet, die Besucher tatsächlich haben.</p>"
+    },
+    {
+      "h2": "Leistungen als Wegweiser",
+      "html": "<p>Die Startseite muss nicht alles erklären. Ihre Aufgabe ist, Besucher schnell zur richtigen Unterseite zu bringen. Stellen Sie jede Hauptleistung mit einer Überschrift, ein, zwei Sätzen und einem Link zur Detailseite vor. Drei bis sechs Leistungen sind übersichtlich; mehr sollten Sie gruppieren.</p><p>Ob Ihr Betrieb mit einer einzigen langen Seite auskommt oder eigene Unterseiten braucht, beschreibt der Ratgeber <a href=\"/wissen/onepager-oder-mehrseitig/\">Onepager oder mehrere Unterseiten</a>. Für Google ist eine eigene Seite pro Leistung meist von Vorteil, weil jede Seite für ihren eigenen Suchbegriff gefunden werden kann.</p>"
+    },
+    {
+      "h2": "Vertrauen sichtbar machen",
+      "html": "<p>Menschen kaufen bei Menschen. Ein Foto des Inhabers oder des Teams, ein Satz zur Geschichte des Betriebs und echte Kundenstimmen machen aus einer anonymen Seite einen Betrieb, dem man vertraut. Wie Sie das ausführlicher erzählen, steht im Ratgeber <a href=\"/wissen/ueber-uns-seite/\">Die Über-uns-Seite</a>.</p><p>Kundenstimmen wirken am besten mit Vornamen, Ort und konkretem Anlass, natürlich nur mit Einverständnis. Tipps dazu finden Sie unter <a href=\"/wissen/referenzen-zeigen/\">Referenzen und Kundenstimmen zeigen</a>. Mitgliedschaften, Auszeichnungen oder Meisterbriefe ergänzen das Bild, sollten aber die echten Belege nicht verdrängen.</p>"
+    },
+    {
+      "h2": "Was nicht auf die Startseite gehört",
+      "html": "<ul><li><strong>Bilder-Karussells:</strong> Automatisch wechselnde Bilder werden kaum beachtet und verlangsamen das Laden.</li><li><strong>Veraltete Neuigkeiten:</strong> Ein Hinweis auf das Sommerfest von vor drei Jahren wirkt, als wäre der Betrieb eingeschlafen.</li><li><strong>Lange Firmengeschichte:</strong> gehört auf die Über-uns-Seite.</li><li><strong>Zu viele Schaltflächen:</strong> Wenn alles hervorgehoben ist, ist nichts hervorgehoben.</li><li><strong>Fachsprache:</strong> Besucher suchen nach ihrem Problem, nicht nach Ihren Fachbegriffen.</li></ul>"
+    },
+    {
+      "h2": "Drei Beispiele für typische Betriebe",
+      "html": "<p><strong>Der Elektriker:</strong> Oben „Elektroinstallationen und Photovoltaik“ mit Einzugsgebiet, daneben die Telefonnummer. Darunter drei Leistungen, ein Abschnitt zum Ablauf einer Anfrage und Fotos von fertigen Verteilern und Anlagen.</p><p><strong>Das Café mit Konditorei:</strong> Oben ein Foto der Vitrine, Öffnungszeiten und „Torte bestellen“. Darunter Wochenangebot, Tortenbestellung, Frühstück und eine Wegbeschreibung mit Parkmöglichkeiten.</p><p><strong>Die Steuerberatungskanzlei:</strong> Oben die Zielgruppe, etwa „Steuerberatung für Gründer und kleine Betriebe“, und „Erstgespräch vereinbaren“. Darunter Leistungsbereiche, das Team mit Fotos und die Antwort auf die Frage, welche Unterlagen man zum ersten Termin mitbringt.</p>"
+    },
+    {
+      "h2": "Den eigenen Entwurf sehen",
+      "html": "<p>Die Startseite ist die wichtigste Seite Ihrer Website und lohnt am meisten Sorgfalt. Ein guter Ausgangspunkt ist der kostenlose <a href=\"/gratis-check/website-entwurf/\">Startseiten-Entwurf</a>: Pipeline AI Solutions erstellt aus Ihrer bestehenden Website in wenigen Minuten einen neuen Vorschlag, direkt über den <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Test</a>.</p><p>Wenn Ihnen die Richtung gefällt, setzen wir die ganze Website um. Die Details finden Sie unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, die passenden Formulierungen für Ihre Schaltflächen im Ratgeber <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was gehört auf die Startseite einer Firmenwebsite?",
+      "a": "Auf die Startseite gehören eine klare Aussage, was Sie anbieten, für wen und wo, eine sofort sichtbare Kontaktmöglichkeit, Ihre wichtigsten Leistungen mit Links zu Unterseiten, konkrete Vertrauensbeweise wie Fotos und Kundenstimmen sowie Kontaktdaten und Einzugsgebiet. Ausführliche Erklärungen, lange Firmengeschichten und alte Neuigkeiten gehören eher auf Unterseiten."
+    },
+    {
+      "q": "Wie lang sollte eine Startseite sein?",
+      "a": "Eine Startseite darf länger sein, als viele denken, solange jeder Abschnitt einen Zweck erfüllt. Wichtiger als die Länge ist, dass das Wesentliche oben steht und Besucher schnell zur passenden Unterseite finden. Wer nach unten scrollt, ist interessiert und sucht weitere Belege. Endlose Textblöcke ohne Struktur sollten Sie aber vermeiden."
+    },
+    {
+      "q": "Soll die Telefonnummer ganz oben stehen?",
+      "a": "Für viele lokale Betriebe ja, vor allem bei Handwerk, Notdiensten, Gastronomie und Praxen, wo Kunden lieber anrufen als schreiben. Am Handy sollte die Nummer antippbar sein. Wenn Sie Anrufe während der Arbeit kaum annehmen können, ist eine gut sichtbare Anfrage-Schaltfläche oft besser, ergänzt um den Hinweis, wann Sie zurückrufen."
+    },
+    {
+      "q": "Ist ein Bilder-Slider auf der Startseite sinnvoll?",
+      "a": "Meist nicht. Automatisch wechselnde Bilder lenken ab, werden selten bis zum Ende angesehen und verlangsamen die Ladezeit, besonders am Handy. Ein einzelnes, aussagekräftiges Foto mit klarer Überschrift wirkt in der Regel stärker. Wenn Sie viele Arbeiten zeigen möchten, ist eine Galerie weiter unten oder auf einer eigenen Referenzseite besser geeignet."
+    },
+    {
+      "q": "Wie oft sollte ich die Startseite ändern?",
+      "a": "Die Grundstruktur der Startseite muss nicht oft geändert werden, wenn sie gut funktioniert. Aktuell halten sollten Sie aber Öffnungszeiten, saisonale Hinweise, Fotos und Kundenstimmen. Ein kurzer Blick einmal im Quartal reicht meist. Größere Änderungen lohnen sich, wenn sich Ihr Angebot ändert oder Sie merken, dass Besucher die gewünschte Information nicht finden."
+    }
+  ],
+  "verwandt": [
+    "/gratis-check/website-entwurf/",
+    "/wissen/ueber-uns-seite/",
+    "/wissen/call-to-action/",
+    "/wissen/onepager-oder-mehrseitig/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

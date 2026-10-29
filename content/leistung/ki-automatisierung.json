@@ -1,0 +1,74 @@
+{
+ "pfad": "/leistungen/ki-automatisierung/",
+ "title": "Prozessautomatisierung mit KI für kleine Betriebe",
+ "description": "Prozessautomatisierung mit KI nimmt Ihnen wiederkehrende Büroarbeit ab: Anfragen, Angebote, Belege, Daten. Wo sie sich lohnt und wie Sie klein anfangen.",
+ "h1": "KI & Prozessautomatisierung",
+ "kicker": "Leistung · Automatisierung",
+ "lead": "Prozessautomatisierung mit KI bedeutet: Wiederkehrende Arbeitsschritte im Büro laufen selbständig ab – etwa Anfragen sortieren, Daten von einem Programm ins nächste übertragen oder Angebotsentwürfe vorbereiten. Sie lohnt sich dort, wo dieselbe Tätigkeit oft und nach festen Regeln anfällt. Wir suchen mit Ihnen den einen Ablauf, bei dem der Nutzen am größten ist, und Pipeline AI Solutions setzt ihn um.",
+ "fakten": [
+  "Automatisiert wiederkehrende Büroarbeit, nicht Ihre Fachentscheidungen",
+  "KI-Integration mit Claude oder OpenAI, wo Texte verstanden werden müssen",
+  "Start mit einem einzigen Ablauf statt mit einem Großprojekt",
+  "Individuelles Projekt, Preis nach dem Erstgespräch auf Anfrage",
+  "Sie sehen den Ablauf vorab mit Ihren eigenen Daten"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Was Prozessautomatisierung mit KI im Alltag bedeutet",
+   "html": "<p>Ein „Prozess“ ist nichts anderes als ein Ablauf, der in Ihrem Betrieb immer wieder gleich passiert: Eine Anfrage kommt per E-Mail, jemand liest sie, tippt Name und Adresse in ein Programm, schickt eine Bestätigung und legt eine Erinnerung an. Jeder Schritt dauert nur Minuten – aber zusammen über das Jahr sehr viel Zeit.</p>\n<p>Klassische Automatisierung übernimmt Schritte, die nach starren Regeln ablaufen: „Wenn ein Formular abgeschickt wird, lege einen Eintrag an.“ Mit <strong>KI</strong> kommen Aufgaben dazu, für die man bisher einen Menschen brauchte, weil Text verstanden werden muss: Worum geht es in dieser E-Mail? Ist sie dringend? Welche Angaben fehlen noch?</p>\n<p>Wer die Begriffe genauer verstehen will, findet sie im Ratgeber <a href=\"/wissen/prozessautomatisierung-erklaert/\">Prozessautomatisierung einfach erklärt</a>.</p>"
+  },
+  {
+   "h2": "Typische Abläufe, die sich in kleinen Betrieben automatisieren lassen",
+   "html": "<p>Die folgenden Beispiele sind typische Situationen, keine fertigen Pakete. Welcher Ablauf bei Ihnen passt, hängt von Ihren Programmen und Gewohnheiten ab.</p>\n<ul><li><strong>Anfragen vorsortieren:</strong> Ein Malerbetrieb bekommt Anfragen über Website, E-Mail und Telefonnotizen. Eine Automatisierung sammelt sie an einem Ort, erkennt Ort und Art des Auftrags und markiert, was noch fehlt.</li><li><strong>Angebotsentwürfe vorbereiten:</strong> Aus den Angaben einer Anfrage entsteht ein erster Textentwurf, den Sie nur noch prüfen und anpassen. Mehr dazu im Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>.</li><li><strong>Belege und Rechnungen ablegen:</strong> Eingehende Rechnungen werden erkannt, benannt und in den richtigen Ordner gelegt.</li><li><strong>Daten übertragen:</strong> Was im Onlineshop bestellt wird, landet automatisch in der Liste fürs Lager oder in der Buchhaltung.</li><li><strong>Nachfassen:</strong> Wer ein Angebot bekommen und sich nicht gemeldet hat, steht nach einer Woche auf Ihrer Erinnerungsliste.</li></ul>\n<p>Weitere Ideen sammelt der Beitrag <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele aus kleinen Betrieben</a>.</p>"
+  },
+  {
+   "h2": "Wann sich Automatisierung lohnt – und wann nicht",
+   "html": "<p>Automatisierung lohnt sich, wenn ein Ablauf <strong>häufig</strong> vorkommt, <strong>nach ähnlichen Regeln</strong> abläuft und heute <strong>von Hand</strong> erledigt wird. Je öfter, desto größer der Nutzen.</p>\n<h3>Ehrlich gesagt: Hier lohnt es sich meist nicht</h3>\n<ul><li>Der Ablauf kommt nur ein paarmal im Jahr vor. Dann ist Handarbeit günstiger.</li><li>Der Ablauf ist noch nicht klar. Wer einen chaotischen Prozess automatisiert, bekommt automatisiertes Chaos. Zuerst sollte feststehen, wie es richtig läuft.</li><li>Jeder Fall ist anders und braucht Ihr Fachurteil. KI kann vorbereiten, aber nicht Ihre Verantwortung übernehmen.</li><li>Ihre Programme bieten keinen Zugang für andere Systeme. Dann prüfen wir, ob es Umwege gibt – manchmal gibt es keine vernünftigen.</li></ul>\n<p>Wenn Sie noch nicht wissen, wo Sie überhaupt anfangen sollen, ist eine <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a> der bessere erste Schritt.</p>"
+  },
+  {
+   "h2": "So gehen wir vor: klein anfangen, sauber ausbauen",
+   "html": "<ol><li><strong>Ablauf aufnehmen:</strong> Im Erstgespräch beschreiben Sie, was heute wer wie oft macht. Wir hören vor allem auf die Stellen, an denen Sie sagen: „Das nervt jedes Mal.“</li><li><strong>Den einen Ablauf wählen:</strong> Wir suchen den Schritt mit dem besten Verhältnis aus Nutzen und Aufwand – nicht den spektakulärsten.</li><li><strong>Zeigen statt versprechen:</strong> Sie sehen den automatisierten Ablauf mit Ihren eigenen Daten, bevor Sie sich festlegen.</li><li><strong>Umsetzung:</strong> Pipeline AI Solutions verbindet Ihre Programme und bindet bei Bedarf KI-Modelle wie Claude oder OpenAI ein.</li><li><strong>Kontrollpunkt einbauen:</strong> Gerade am Anfang prüft ein Mensch das Ergebnis, bevor etwas nach außen geht.</li><li><strong>Erweitern:</strong> Läuft der erste Ablauf zuverlässig, entscheiden Sie, ob ein zweiter dazukommt.</li></ol>\n<p>Einen Überblick über mögliche Bausteine gibt die Seite <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline AI Solutions</a>.</p>"
+  },
+  {
+   "h2": "Kosten und passende fertige Lösungen",
+   "html": "<p>Automatisierungen sind individuelle Projekte. Der Preis hängt davon ab, wie viele Programme verbunden werden, wie viel KI dabei im Spiel ist und wie sorgfältig Ausnahmen behandelt werden müssen. Sie erhalten deshalb nach dem Erstgespräch ein <strong>schriftliches Angebot</strong> mit klarem Preis, unverbindliche Richtpreise ohne USt.</p>\n<p>Für manche Aufgaben gibt es bereits fertige Werkzeuge von Pipeline, die ohne eigenes Projekt funktionieren:</p>\n<ul><li><strong>noteit</strong> schreibt Gesprächsnotizen und Protokolle aus Online-Meetings – mehr unter <a href=\"/leistungen/meeting-protokolle-ki/\">KI-Meeting-Protokolle</a>.</li><li><strong>Pipeflow</strong> macht aus Ihrer Website jede Woche fertige Social-Media-Beiträge, die Sie nur freigeben; in der Pilotphase kostenlos.</li><li><strong>SightUp</strong> findet passende Firmenkunden in Ihrer Nähe und schreibt eine erste Nachricht vor, ohne etwas automatisch zu versenden.</li></ul>\n<p>Oft ist ein solches fertiges Werkzeug der günstigere Einstieg als eine eigene Lösung.</p>"
+  },
+  {
+   "h2": "Typische Fehler bei der Automatisierung",
+   "html": "<ul><li><strong>Mit dem größten Prozess beginnen.</strong> Große Vorhaben dauern lange und scheitern öfter. Ein kleiner, schnell spürbarer Erfolg schafft Vertrauen im Team.</li><li><strong>KI ohne Kontrolle nach außen sprechen lassen.</strong> E-Mails an Kunden, Angebote oder Rechnungen sollten zumindest anfangs von einem Menschen freigegeben werden.</li><li><strong>Niemand ist zuständig.</strong> Auch automatische Abläufe brauchen jemanden, der merkt, wenn etwas hängt.</li><li><strong>Datenschutz vergessen.</strong> Sobald Kundendaten durch KI-Dienste laufen, muss klar sein, wo sie verarbeitet werden. Allgemeine Hinweise gibt der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>; im Einzelfall fragen Sie WKO, Anwalt oder Datenschutzbehörde.</li><li><strong>Zu viele Werkzeuge.</strong> Drei verschiedene Automatisierungsdienste für drei Abläufe sind schwer zu überblicken. Wir achten darauf, dass es überschaubar bleibt.</li></ul>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was ist der Unterschied zwischen Automatisierung und KI?",
+   "a": "Automatisierung führt Arbeitsschritte nach festen Regeln selbständig aus, etwa „wenn eine Rechnung eingeht, lege sie in Ordner X“. KI kommt dazu, wenn Inhalte verstanden werden müssen, zum Beispiel worum es in einer E-Mail geht oder welche Angaben in einer Anfrage fehlen. In der Praxis werden beide oft kombiniert: Die Automatisierung bewegt Daten, die KI liest und bewertet."
+  },
+  {
+   "q": "Was kostet eine Prozessautomatisierung mit KI?",
+   "a": "Eine Automatisierung ist ein individuelles Projekt, deshalb gibt es keinen Pauschalpreis. Entscheidend ist, wie viele Programme verbunden werden, ob KI-Modelle eingesetzt werden und wie viele Sonderfälle es gibt. Nach dem kostenlosen Erstgespräch bekommen Sie ein schriftliches Angebot mit klarem Preis. Für manche Aufgaben ist ein fertiges Werkzeug wie noteit oder Pipeflow günstiger."
+  },
+  {
+   "q": "Muss ich dafür meine Programme wechseln?",
+   "a": "In vielen Fällen nicht. Wir versuchen, Ihre vorhandenen Programme miteinander zu verbinden. Das klappt am besten, wenn diese eine Schnittstelle anbieten, also einen technischen Zugang für andere Systeme. Wenn ein altes Programm keinen solchen Zugang hat, sagen wir Ihnen offen, ob es einen vernünftigen Umweg gibt oder ob ein Wechsel auf Dauer sinnvoller wäre."
+  },
+  {
+   "q": "Welcher Ablauf eignet sich als erster?",
+   "a": "Am besten eignet sich ein Ablauf, der oft vorkommt, heute von Hand erledigt wird und bei dem ein Fehler keine großen Folgen hat. Typische Beispiele sind das Sammeln und Sortieren von Anfragen, das Ablegen von Belegen oder Erinnerungen zum Nachfassen. Angebote oder Kundenmails sollten anfangs noch von einem Menschen freigegeben werden, bevor sie hinausgehen."
+  },
+  {
+   "q": "Sind meine Daten bei KI-Automatisierungen sicher?",
+   "a": "Das hängt davon ab, welche Dienste verwendet werden und wo sie Daten verarbeiten. Wir klären vorab, welche Daten in den Ablauf fließen und welche nicht nötig sind, und wählen die Werkzeuge danach aus. Das ersetzt keine Rechtsberatung: Für Fragen zu Datenschutz und Auftragsverarbeitung wenden Sie sich im Einzelfall an die WKO, einen Anwalt oder die Datenschutzbehörde."
+  }
+ ],
+ "verwandt": [
+  "/wissen/automatisierung-beispiele/",
+  "/wissen/prozessautomatisierung-erklaert/",
+  "/vergleiche/zapier-make-n8n/",
+  "/leistungen/individuelle-software/",
+  "/leistungen/digitalisierungsberatung/"
+ ],
+ "checks": [
+  "social-media-test",
+  "neukunden-finden"
+ ]
+}

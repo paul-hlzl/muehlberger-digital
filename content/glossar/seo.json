@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/seo/",
+  "title": "SEO einfach erklärt: Suchmaschinenoptimierung",
+  "description": "Was ist SEO? Suchmaschinenoptimierung verständlich erklärt: wie Google Seiten auswählt, was kleine Betriebe selbst tun können und wo Grenzen liegen.",
+  "h1": "SEO – Suchmaschinenoptimierung",
+  "kicker": "Glossar · SEO",
+  "lead": "SEO (Suchmaschinenoptimierung) ist die Arbeit daran, dass eine Website in den unbezahlten Ergebnissen von Suchmaschinen wie Google besser gefunden wird. Dazu gehören gute Inhalte, eine saubere Technik und Signale, die Vertrauen schaffen.",
+  "fakten": [
+    "Drei Bereiche: Inhalte, Technik, Vertrauen und Verweise",
+    "Wirkt mittelfristig, meist über Monate statt Tage",
+    "Niemand kann seriös einen bestimmten Platz garantieren"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie SEO bei einem kleinen Betrieb aussieht",
+      "html": "<p>Eine Schlosserei im Waldviertel wird bei Google kaum gefunden, obwohl sie Stiegengeländer und Vordächer baut. Die Website hat nur eine Startseite mit „Willkommen“ und Telefonnummer. Nach der Überarbeitung gibt es eigene Seiten für Geländer, Tore und Reparaturen, jede mit klarer Überschrift, Fotos echter Arbeiten und den Orten, in denen der Betrieb tätig ist.</p><p>Dazu kommen technische Grundlagen: schnelle Ladezeit, saubere <a href=\"/glossar/title-tag/\">Title-Tags</a>, eine <a href=\"/glossar/xml-sitemap/\">XML-Sitemap</a> und ein gepflegtes <a href=\"/glossar/google-unternehmensprofil/\">Google-Unternehmensprofil</a>.</p>"
+    },
+    {
+      "h2": "Warum SEO für KMU wichtig ist",
+      "html": "<p>Wer bei Google nach einer Leistung in der Nähe sucht, hat meist einen konkreten Bedarf. Diese Anfragen sind wertvoll, weil der Kunde von sich aus kommt. Anders als bei Anzeigen zahlen Sie nicht für jeden Klick, dafür braucht SEO Geduld und laufende Pflege.</p><p>Einen Einstieg bietet der Ratgeber <a href=\"/wissen/seo-grundlagen/\">SEO-Grundlagen</a>. Wie es um Ihre Seite steht, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>; die Betreuung beschreibt die Seite <a href=\"/leistungen/seo/\">SEO-Leistungen</a>. Eng verwandt ist <a href=\"/glossar/geo/\">GEO</a> für KI-Suchen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lange dauert es, bis SEO wirkt?",
+      "a": "Erste Verbesserungen sind oft nach einigen Wochen sichtbar, etwa wenn technische Fehler behoben werden. Für stabile Platzierungen bei umkämpften Begriffen braucht es meist mehrere Monate. Das hängt von der Konkurrenz, dem Zustand der Website und der Regelmäßigkeit der Arbeit ab. Lokale Suchen in einer kleineren Region gehen in der Regel schneller als landesweite."
+    },
+    {
+      "q": "Kann ich SEO als Betrieb selbst machen?",
+      "a": "Einiges ja: verständliche Texte zu Ihren Leistungen schreiben, Fotos echter Arbeiten einbauen, das Google-Unternehmensprofil pflegen und um Bewertungen bitten. Technische Themen wie Ladezeit, strukturierte Daten oder Indexierungsprobleme sind ohne Erfahrung schwieriger. Viele Betriebe kombinieren beides: Sie liefern Inhalte und Wissen, ein Dienstleister kümmert sich um Technik und Auswertung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/seo-grundlagen/",
+    "/leistungen/seo/",
+    "/glossar/local-seo/",
+    "/vergleiche/seo-oder-google-ads/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

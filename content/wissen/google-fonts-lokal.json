@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/google-fonts-lokal/",
+  "title": "Google Fonts lokal einbinden: Anleitung für Betriebe",
+  "description": "Google Fonts lokal einbinden statt von Google laden: warum das Datenschutz und Ladezeit verbessert, wie Sie es prüfen und Schritt für Schritt umstellen.",
+  "h1": "Google Fonts lokal einbinden",
+  "kicker": "Ratgeber · Datenschutz & Technik",
+  "lead": "Google Fonts binden Sie lokal ein, indem Sie die Schriftdateien herunterladen, auf Ihrem eigenen Webserver ablegen und von dort laden, statt sie bei jedem Seitenaufruf von Google-Servern abzurufen. Damit wird die IP-Adresse Ihrer Besucher nicht mehr an Google übertragen. Das ist datenschutzrechtlich die sauberere Lösung und macht die Seite oft auch schneller.",
+  "fakten": [
+    "Extern geladene Google Fonts übertragen bei jedem Aufruf die IP-Adresse an Google",
+    "Lokal eingebunden liegen die Schriften auf Ihrem Server, keine Verbindung zu Google nötig",
+    "Google Fonts stehen unter freien Lizenzen und dürfen selbst gehostet werden",
+    "Prüfen geht schnell über die Netzwerkansicht im Browser",
+    "Auch Themes, Plugins und eingebettete Dienste können Schriften nachladen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum das Thema so viele Betriebe betroffen hat",
+      "html": "<p>Google Fonts sind beliebt, weil sie kostenlos sind und gut aussehen. Lange war es üblich, sie direkt von Google-Servern zu laden. Dabei baut der Browser jedes Besuchers eine Verbindung zu Google auf und überträgt seine IP-Adresse, ohne dass der Besucher davon weiß.</p><p>Ein deutsches Landgericht hat Anfang 2022 entschieden, dass diese Übertragung ohne Einwilligung unzulässig sein kann, und einem Besucher Schadenersatz zugesprochen. Danach erhielten auch in Österreich viele Websitebetreiber Schreiben mit Zahlungsforderungen wegen Google Fonts. Ob diese Forderungen im Einzelfall berechtigt waren, war umstritten. Unabhängig davon gilt: Die lokale Einbindung ist einfach und beseitigt das Problem an der Wurzel.</p>"
+    },
+    {
+      "h2": "So prüfen Sie, ob Ihre Website Schriften von Google lädt",
+      "html": "<p>Die Prüfung dauert wenige Minuten und braucht keine Programmierkenntnisse:</p><ol><li>Öffnen Sie Ihre Website in Chrome, Firefox oder Edge und drücken Sie F12, um die Entwicklerwerkzeuge zu öffnen.</li><li>Wechseln Sie in den Reiter „Netzwerk“ und laden Sie die Seite neu.</li><li>Geben Sie im Filterfeld „fonts.googleapis“ und danach „fonts.gstatic“ ein.</li><li>Erscheinen Einträge, lädt die Seite Schriften von Google.</li><li>Wiederholen Sie das auf mehreren Unterseiten, etwa Kontakt, Blog und Shop.</li></ol><p>Achten Sie darauf, dass auch eingebettete Dienste wie Karten, Videos oder Spamschutz-Lösungen eigene Schriften von Google nachladen können. Diese Verbindungen verschwinden erst, wenn Sie den jeweiligen Dienst datensparsam einbinden, mehr dazu im Ratgeber zum <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a>.</p>"
+    },
+    {
+      "h2": "Schritt für Schritt: Schriften lokal einbinden",
+      "html": "<p>Bei einer selbst programmierten oder individuell erstellten Website läuft die Umstellung so ab:</p><ol><li><strong>Schriften auswählen:</strong> Notieren Sie, welche Schriftfamilien und Schriftschnitte, etwa normal, fett und kursiv, die Seite wirklich verwendet.</li><li><strong>Dateien herunterladen:</strong> Laden Sie genau diese Schnitte herunter, am besten im modernen, kompakten Format WOFF2.</li><li><strong>Auf den Server legen:</strong> Speichern Sie die Dateien in einem eigenen Ordner Ihrer Website.</li><li><strong>Im Stylesheet einbinden:</strong> Mit einer @font-face-Regel im CSS geben Sie an, wo die Dateien liegen. Die Einstellung „font-display: swap“ sorgt dafür, dass Text sofort sichtbar ist.</li><li><strong>Alte Verweise entfernen:</strong> Löschen Sie die Einbindung von fonts.googleapis.com im Kopfbereich der Seite, ebenso vorbereitende Verbindungen zu Google-Servern.</li><li><strong>Testen:</strong> Prüfen Sie wie oben beschrieben, ob keine Verbindung zu Google mehr besteht, und leeren Sie vorher den Cache.</li></ol>"
+    },
+    {
+      "h2": "WordPress, Page-Builder und Baukästen",
+      "html": "<p>Bei WordPress kommen Schriften oft über mehrere Wege: das Theme, einen Page-Builder und einzelne Plugins. Viele Themes und Page-Builder bieten inzwischen eine Einstellung, Google Fonts lokal zu laden. Daneben gibt es Plugins, die externe Schriften automatisch herunterladen und lokal ausliefern. Prüfen Sie nach der Umstellung trotzdem alle Seitentypen, weil einzelne Plugins eigene Verbindungen behalten können. Weitere Hinweise zur Pflege finden Sie unter <a href=\"/wissen/wordpress-sicher-halten/\">WordPress sicher halten</a>.</p><p>Bei Baukasten-Systemen haben Sie weniger Einfluss. Manche Anbieter laden Schriften bereits von eigenen Servern, andere nicht. Fragen Sie beim Anbieter nach oder prüfen Sie es selbst über die Netzwerkansicht.</p>"
+    },
+    {
+      "h2": "Typische Stolperfallen",
+      "html": "<ul><li><strong>Cache:</strong> Ein Caching-Plugin oder ein Content Delivery Network liefert noch die alte Version aus. Nach der Umstellung den Cache leeren.</li><li><strong>Zu viele Schriftschnitte:</strong> Wer alle Varianten lokal einbindet, macht die Seite unnötig schwer.</li><li><strong>Nur die Startseite geprüft:</strong> Unterseiten mit anderem Layout laden oft andere Schriften.</li><li><strong>Übersehene Dienste:</strong> Karten, Videos oder Formular-Schutz bringen eigene Schriften mit.</li><li><strong>Datenschutzerklärung vergessen:</strong> Steht dort noch, dass Google Fonts von Google geladen werden, sollte der Text angepasst werden.</li></ul><p>Zur Lizenz: Google Fonts stehen überwiegend unter freien Lizenzen wie der SIL Open Font License, die das Selbsthosten erlauben. Die Lizenz der jeweiligen Schrift finden Sie auf deren Infoseite.</p>"
+    },
+    {
+      "h2": "Nebeneffekt: schnellere Seite und klareres Design",
+      "html": "<p>Lokal eingebundene Schriften sparen den Verbindungsaufbau zu einem fremden Server. Wer gleichzeitig die Zahl der Schriftschnitte reduziert, gewinnt oft spürbar an Ladezeit, besonders am Handy mit mobilem Netz. Mehr dazu im Ratgeber <a href=\"/wissen/website-ladezeit-verbessern/\">Website-Ladezeit verbessern</a>.</p><p>Die Umstellung ist auch ein guter Anlass, das Schriftkonzept zu überdenken. Zwei Schriften, eine für Überschriften und eine für Fließtext, reichen den meisten Betrieben. Hinweise zur Auswahl finden Sie unter <a href=\"/wissen/farben-und-schriften/\">Farben und Schriften</a>.</p>"
+    },
+    {
+      "h2": "Wer die Umstellung übernehmen kann",
+      "html": "<p>Für eine technisch versierte Person ist die Umstellung eine Sache von ein bis zwei Stunden. Wer keine Zeit oder keinen Zugang zu den Dateien hat, kann sie im Rahmen von <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a> erledigen lassen. Bei neuen Websites, die Mühlberger Digital über Pipeline AI Solutions vermittelt, werden Schriften von Anfang an lokal eingebunden.</p><p>Ob Ihre Seite noch weitere Baustellen hat, zeigt der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>. Dieser Ratgeber ist eine allgemeine Orientierung. Bei rechtlichen Fragen, etwa zu einem erhaltenen Forderungsschreiben, wenden Sie sich an die WKO oder eine Anwältin bzw. einen Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sind extern geladene Google Fonts in Österreich verboten?",
+      "a": "Ein ausdrückliches Verbot gibt es nicht. Problematisch ist, dass beim externen Laden die IP-Adresse der Besucher ohne deren Wissen an Google übertragen wird, wofür es eine Rechtsgrundlage braucht. Gerichte und Fachleute haben das kritisch beurteilt. Da die lokale Einbindung einfach ist und das Problem vollständig vermeidet, ist sie die empfohlene Lösung. Für eine verbindliche Einschätzung Ihres Falls fragen Sie WKO oder Rechtsberatung."
+    },
+    {
+      "q": "Ich habe ein Schreiben wegen Google Fonts bekommen. Was soll ich tun?",
+      "a": "Reagieren Sie nicht überstürzt und zahlen Sie nicht ungeprüft. Stellen Sie zuerst sicher, dass Ihre Website die Schriften inzwischen lokal lädt, und dokumentieren Sie die Umstellung mit Datum. Lassen Sie das Schreiben dann von einer Anwältin, einem Anwalt oder der Rechtsberatung der WKO prüfen. Nur dort bekommen Sie eine verlässliche Einschätzung, ob und wie Sie antworten sollten."
+    },
+    {
+      "q": "Verliert die Website durch lokale Schriften an Qualität?",
+      "a": "Nein. Die Schrift sieht genau gleich aus, weil Sie dieselben Dateien verwenden, nur von Ihrem eigenen Server. Oft wird die Seite sogar schneller, weil keine zusätzliche Verbindung zu einem fremden Server aufgebaut werden muss. Wichtig ist, alle tatsächlich verwendeten Schriftschnitte einzubinden, sonst ersetzt der Browser fehlende Varianten durch künstlich erzeugte Fett- oder Kursivdarstellungen."
+    },
+    {
+      "q": "Muss ich nach der Umstellung die Datenschutzerklärung ändern?",
+      "a": "Ja, wenn darin bisher beschrieben ist, dass Schriften von Google-Servern geladen werden. Nach der Umstellung findet diese Übertragung nicht mehr statt, und die Datenschutzerklärung sollte den tatsächlichen Zustand Ihrer Website wiedergeben. Entfernen Sie den Abschnitt oder passen Sie ihn an. Bei der Gelegenheit lohnt sich ein Abgleich, ob alle anderen beschriebenen Dienste noch aktuell sind."
+    }
+  ],
+  "verwandt": [
+    "/wissen/cookie-banner/",
+    "/wissen/datenschutzerklaerung/",
+    "/wissen/website-ladezeit-verbessern/",
+    "/wissen/wordpress-sicher-halten/",
+    "/leistungen/website-wartung-hosting/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/website-projekt-ablauf/",
+  "title": "So läuft ein Website-Projekt ab: Schritt für Schritt",
+  "description": "So läuft ein Website-Projekt ab: von der Bedarfsklärung über Inhalte und Entwurf bis zum Start – mit Aufgaben für Sie und typischen Verzögerungen.",
+  "h1": "So läuft ein Website-Projekt ab",
+  "kicker": "Ratgeber · Website-Projekt",
+  "lead": "Ein Website-Projekt läuft in klaren Schritten ab: Bedarf klären, Inhalte sammeln, Entwurf abstimmen, umsetzen, prüfen und veröffentlichen. Der Zeitplan hängt weniger von der Technik ab als davon, wie schnell Texte, Fotos und Rückmeldungen vorliegen. Wer weiß, was in welcher Phase von ihm erwartet wird, bekommt seine Website schneller und mit weniger Nacharbeit.",
+  "fakten": [
+    "Sechs Phasen: Bedarf, Inhalte, Entwurf, Umsetzung, Prüfung, Start",
+    "Größter Zeitfaktor sind meist Texte, Fotos und Freigaben",
+    "Eine feste Ansprechperson im Betrieb spart viele Rückfragen",
+    "Nach dem Start: Wartung, kleine Änderungen, Auswertung"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Phase 1: Bedarf und Ziele klären",
+      "html": "<p>Am Anfang steht die Frage, wofür die Website da sein soll. Soll das Telefon öfter läuten? Sollen Bewerbungen kommen? Sollen Gäste reservieren können? Daraus ergibt sich, welche Seiten es braucht und was auf der Startseite ganz oben stehen muss.</p><p>In diesem Schritt wird auch geklärt, was es schon gibt: eine alte Website, ein Logo, Fotos, ein Google-Unternehmensprofil. Bei Mühlberger Digital passiert das im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>; danach folgt ein schriftliches Angebot mit klarem Preis. Den gesamten Ablauf der Zusammenarbeit finden Sie auf der Seite <a href=\"/ablauf/\">So arbeiten wir</a>.</p>"
+    },
+    {
+      "h2": "Phase 2: Inhalte sammeln",
+      "html": "<p>Das ist die Phase, in der die meisten Projekte ins Stocken geraten. Nicht weil sie schwierig ist, sondern weil sie neben dem Tagesgeschäft passiert. Was in der Regel gebraucht wird:</p><ul><li>Texte oder Stichpunkte zu Leistungen, Betrieb und Team</li><li>Fotos von Betrieb, Arbeiten, Team und Produkten</li><li>Logo in guter Auflösung</li><li>Daten für Impressum und Kontakt</li><li>Öffnungszeiten, Einzugsgebiet, Preise (falls gewünscht)</li></ul><p>Tipp: Bestimmen Sie im Betrieb eine Person, die alles sammelt und Rückfragen beantwortet. Wenn Sie Texte nicht selbst schreiben wollen, klären Sie früh, ob die Texterstellung Teil des Auftrags ist. Hilfe zum Schreiben bietet der Ratgeber <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p>"
+    },
+    {
+      "h2": "Phase 3: Entwurf und Struktur abstimmen",
+      "html": "<p>Bevor alle Seiten gebaut werden, sehen Sie einen Entwurf, meist von der Startseite. Hier geht es um Aufbau, Farben, Schrift und Bildsprache. Jetzt sind Änderungen noch günstig; später kostet jede Grundsatzänderung deutlich mehr Aufwand.</p><p>Achten Sie beim Entwurf weniger auf Ihren persönlichen Geschmack als auf die Frage: Findet ein Kunde in wenigen Sekunden, was Sie anbieten, wo Sie sind und wie er Sie erreicht? Wer vorab sehen will, wie das aussehen kann, lässt sich mit dem <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a> in wenigen Minuten einen Entwurf aus der bestehenden Website erstellen.</p>"
+    },
+    {
+      "h2": "Phase 4: Umsetzung",
+      "html": "<p>Ist der Entwurf freigegeben, werden alle Seiten gebaut und mit Inhalten befüllt. Dazu gehören auch Dinge, die man nicht sieht, die aber wichtig sind:</p><ul><li>Anpassung für Smartphone, Tablet und Computer</li><li>Seitentitel und Beschreibungen für Google und KI-Suchen</li><li>Kontaktformular mit Datenschutzhinweis</li><li>schnelle Ladezeiten durch passend verkleinerte Bilder</li><li>Impressum und Datenschutzerklärung</li></ul><p>In dieser Phase sind Sie meist wenig gefordert, außer bei Rückfragen zu Details.</p>"
+    },
+    {
+      "h2": "Phase 5: Prüfen und freigeben",
+      "html": "<p>Vor dem Start sehen Sie die fertige Website auf einer Testadresse. Nehmen Sie sich dafür bewusst Zeit und prüfen Sie mit einer Liste:</p><ul><li>Stimmen Telefonnummer, Adresse und Öffnungszeiten?</li><li>Funktioniert das Kontaktformular, kommt die Nachricht an?</li><li>Sieht alles am eigenen Handy gut aus?</li><li>Sind alle Namen richtig geschrieben?</li><li>Gibt es Texte, die noch Platzhalter sind?</li></ul><p>Sammeln Sie Korrekturen in einer einzigen Nachricht statt in zehn einzelnen. Das spart beiden Seiten Zeit und verhindert, dass etwas übersehen wird.</p>"
+    },
+    {
+      "h2": "Phase 6: Start und die Zeit danach",
+      "html": "<p>Beim Start wird die Domain auf die neue Website umgestellt. Gab es vorher eine alte Seite, sollten deren Adressen auf die neuen Seiten weitergeleitet werden, damit Google-Verweise nicht ins Leere führen. Mehr dazu steht in der <a href=\"/wissen/website-relaunch-checkliste/\">Relaunch-Checkliste</a>.</p><p>Nach dem Start ist die Website nicht fertig, sondern in Betrieb. Updates, Sicherungen und kleine Änderungen gehören dazu. Aktualisieren Sie auch Ihr Google-Unternehmensprofil mit der neuen Adresse, falls sich etwas geändert hat. Nach einigen Wochen lohnt ein Blick in die Statistik: Woher kommen Besucher, welche Seiten werden gelesen?</p>"
+    },
+    {
+      "h2": "Was ein Projekt typischerweise verzögert",
+      "html": "<p>Aus Erfahrung sind es selten technische Probleme. Häufiger sind es:</p><ul><li>Texte, die „nächste Woche“ kommen sollen</li><li>Fotos, die erst gemacht werden müssen</li><li>mehrere Personen im Betrieb, die unterschiedliche Wünsche haben</li><li>grundlegende Änderungswünsche nach der Entwurfsfreigabe</li></ul><p>Ein Installateur, der zwischen Baustellen kaum ins Büro kommt, plant am besten einen fixen Termin pro Woche, an dem er Rückfragen beantwortet. Das klingt banal, hält ein Projekt aber zuverlässig in Bewegung. Wenn Sie mit einer neuen Website starten möchten, finden Sie alle Details unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lange dauert ein Website-Projekt?",
+      "a": "Das hängt vor allem vom Umfang und davon ab, wie schnell Inhalte und Rückmeldungen vorliegen. Eine kleine Website mit wenigen Seiten ist deutlich schneller fertig als ein Onlineshop. In der Praxis verzögern meist fehlende Texte, Fotos oder Freigaben das Projekt, nicht die Technik. Wer Material früh bereitstellt und Rückfragen zügig beantwortet, verkürzt die Dauer spürbar."
+    },
+    {
+      "q": "Was muss ich als Auftraggeber bei einem Website-Projekt liefern?",
+      "a": "In der Regel liefern Sie Informationen zu Leistungen und Betrieb, Fotos, Ihr Logo, die Daten für Impressum und Kontakt sowie Öffnungszeiten. Ob Sie die Texte selbst schreiben oder ob das Teil des Auftrags ist, sollte im Angebot geklärt sein. Außerdem braucht es eine Person im Betrieb, die Entwürfe freigibt und Rückfragen beantwortet."
+    },
+    {
+      "q": "Kann ich während des Projekts noch Änderungen machen?",
+      "a": "Ja, aber der Zeitpunkt zählt. Änderungen am Entwurf sind einfach und meist im Preis enthalten. Grundsätzliche Änderungen nach der Freigabe, etwa ein völlig anderer Aufbau, bedeuten Mehraufwand und können zusätzliche Kosten verursachen. Deshalb lohnt es sich, den Entwurf gründlich zu prüfen, bevor Sie ihn freigeben."
+    },
+    {
+      "q": "Was passiert nach dem Start der Website?",
+      "a": "Nach dem Start wird die Website laufend betreut: technische Updates, Sicherungen und kleinere inhaltliche Änderungen. Außerdem sollten Sie Ihr Google-Unternehmensprofil prüfen und nach einigen Wochen auswerten, wie Besucher die Seite nutzen. So erkennen Sie, ob die Website ihr Ziel erreicht, etwa mehr Anfragen oder Reservierungen."
+    }
+  ],
+  "verwandt": [
+    "/ablauf/",
+    "/wissen/website-briefing/",
+    "/wissen/erstgespraech-vorbereiten/",
+    "/leistungen/website-erstellen/",
+    "/gratis-check/website-entwurf/"
+  ],
+  "checks": ["website-entwurf"]
+}

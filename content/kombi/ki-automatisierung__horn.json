@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/horn/",
+  "title": "KI-Automatisierung in Horn für Kanzleien und Büros",
+  "description": "Prozessautomatisierung mit KI in Horn: Postfach vorsortieren, Kundengespräche mit noteit protokollieren, Rückfragen schneller erledigen. Für Dienstleister.",
+  "h1": "Prozessautomatisierung mit KI in Horn",
+  "kicker": "KI-Automatisierung · Horn",
+  "lead": "Horn ist Bezirkshauptstadt und Anlaufstelle für Dienstleister aus der Umgebung, von Versicherungsmaklern über Kanzleien bis zu Planungsbüros. Hier bringt KI-Automatisierung am meisten beim vorsortierten E-Mail-Postfach und bei Kundengesprächen, die sich wie von selbst protokollieren.",
+  "fakten": [
+    "Postfach: Anfragen erkennen, zuordnen, Antwortentwurf vorbereiten",
+    "Kundengespräche online mit noteit protokollieren, ohne Bot im Call",
+    "noteit: Starter 0 €, Pro 14 €/Monat, Team 24 € pro Person/Monat",
+    "Individuelle Automatisierung: Preis nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Horn als Dienstleistungszentrum für die Umgebung",
+      "html": "<p>Als Bezirkshauptstadt im Waldviertel, am Übergang zum Kamptal, ist Horn für viele Menschen aus dem Umland der Ort für Ämter, Schulen, Einkauf und Beratung. Entsprechend arbeiten hier viele Büros, deren Kapital Gespräche und Schriftverkehr sind. Mehr über die Region finden Sie auf der Seite <a href=\"/regionen/bezirk-horn/\">Bezirk Horn</a>.</p>"
+    },
+    {
+      "h2": "Das Postfach sortiert sich vor",
+      "html": "<p>Im Büro beginnt der Tag oft mit dem Postfach. Eine Automatisierung kann neue E-Mails lesen, erkennen, ob es um eine Neuanfrage, eine Unterlagenlieferung oder eine Terminänderung geht, und sie entsprechend ablegen. Für Standardfälle liegt ein Antwortentwurf bereit, angehängte Dokumente landen gleich im richtigen Kundenordner.</p><p>Wie man ein Postfach mit Regeln und KI sortiert, beschreibt der Ratgeber <a href=\"/wissen/e-mails-sortieren/\">E-Mails sortieren</a>. Grundsätzliches zur Leistung steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Kundengespräche ohne Mitschreiben",
+      "html": "<p>Ein großer Teil der Beratung findet inzwischen per Video-Call statt. Mit <a href=\"https://noteit.at/\">noteit</a> entsteht aus Teams, Zoom, Google Meet oder Webex etwa zwei Minuten nach dem Gespräch ein fertiges Protokoll, ohne dass ein Bot im Call sitzt. Gespeichert wird in Frankfurt.</p><ul><li><strong>Starter:</strong> 0 €, 3 Stunden im Monat</li><li><strong>Pro:</strong> 14 € im Monat</li><li><strong>Team:</strong> 24 € pro Person und Monat</li></ul><p>Das Protokoll kann in eine Automatisierung weiterlaufen: Aufgaben werden angelegt, die Zusammenfassung landet beim Kunden im Ordner.</p>"
+    },
+    {
+      "h2": "Wie ein Projekt abläuft",
+      "html": "<p>Mühlberger Digital berät, klärt den Bedarf und zeigt Lösungen live mit Ihren eigenen Daten. Die technische Umsetzung übernimmt Pipeline AI Solutions, Sie bekommen vorab ein schriftliches Angebot. Den Ablauf in fünf Schritten beschreibt die Seite <a href=\"/ablauf/\">Ablauf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Liest die KI dann alle unsere E-Mails mit?",
+      "a": "Die KI verarbeitet die E-Mails, die Sie für die Automatisierung freigeben, etwa ein bestimmtes Postfach oder einen Ordner. Private oder besonders vertrauliche Postfächer können Sie bewusst ausnehmen. Welche Dienste dabei genutzt werden und wo Daten verarbeitet werden, wird im Projekt offengelegt, damit Sie das gegenüber Ihren Kunden vertreten können."
+    },
+    {
+      "q": "Muss ich Kunden sagen, dass ein Gespräch protokolliert wird?",
+      "a": "Ja, Offenheit ist hier der richtige Weg. Ob und wie eine Einwilligung nötig ist, hängt davon ab, was genau aufgezeichnet und verarbeitet wird. Eine allgemeine Orientierung gibt der Ratgeber zur Gesprächsaufzeichnung auf dieser Website. Für Ihren konkreten Fall wenden Sie sich bitte an die Datenschutzbehörde, Ihre Kammer oder einen Anwalt."
+    },
+    {
+      "q": "Welcher noteit-Tarif passt für ein kleines Büro in Horn?",
+      "a": "Für den Anfang reicht oft Starter um 0 € mit drei Stunden pro Monat, um zu sehen, ob die Protokolle für Ihre Gespräche passen. Wer regelmäßig mehrere Kundengespräche pro Woche führt, landet meist bei Pro um 14 € im Monat. Arbeiten mehrere Personen mit gemeinsamen Protokollen, ist Team um 24 € pro Person und Monat gedacht."
+    },
+    {
+      "q": "Klingen die Antwortentwürfe dann nach uns oder nach Maschine?",
+      "a": "Das hängt davon ab, womit die KI gefüttert wird. Im Projekt sammelt man einige typische E-Mails aus Ihrem Büro, an denen sich Ton, Anrede und Länge orientieren. Daraus entstehen Entwürfe, die nach Ihnen klingen. Fachliche Aussagen, etwa zu Versicherungsfragen oder Fristen, prüfen Sie trotzdem selbst, bevor etwas an Kunden geht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-horn/",
+    "/produkte/noteit/",
+    "/wissen/e-mails-sortieren/",
+    "/wissen/gespraechsaufzeichnung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

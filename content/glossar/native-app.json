@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/native-app/",
+  "title": "Native App einfach erklärt: App aus dem Store",
+  "description": "Native App einfach erklärt: Was Apps für iPhone und Android von Web-Apps unterscheidet, welche Vorteile sie bieten und wann sich der Aufwand lohnt.",
+  "h1": "Native App",
+  "kicker": "Glossar · Apps",
+  "lead": "Eine native App ist eine Anwendung, die speziell für ein Betriebssystem wie iOS oder Android entwickelt und über den jeweiligen App-Store installiert wird. Sie kann alle Gerätefunktionen wie Kamera, Standort und Push-Nachrichten voll nutzen.",
+  "fakten": [
+    "Installation über App Store oder Google Play",
+    "Voller Zugriff auf Gerätefunktionen, auch offline gut nutzbar",
+    "Aufwendiger: Entwicklung, Store-Freigabe und Updates"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wann eine native App die richtige Wahl ist",
+      "html": "<p>Ein Bauunternehmen möchte, dass Poliere auf der Baustelle Fotos machen, Mängel mit Standort erfassen und Tagesberichte auch ohne Netz ausfüllen können. Die Daten sollen später automatisch übertragen werden. Hier spielt eine native App ihre Stärken aus: zuverlässiger Kamerazugriff, gute Offline-Funktion und Bedienung, die sich wie gewohnt anfühlt.</p><p>Für einen Friseursalon, der nur Termine anbieten möchte, wäre eine eigene App dagegen meist überdimensioniert. Kaum ein Kunde installiert eine App für einen einzigen Betrieb, den er alle paar Wochen besucht.</p>"
+    },
+    {
+      "h2": "Was KMU vor dem Start wissen sollten",
+      "html": "<p>Eine native App bringt laufende Aufgaben mit sich: Anpassungen an neue Betriebssystem-Versionen, Freigaben durch die Stores und Pflege für zwei Plattformen. Das ist sinnvoll, wenn die App regelmäßig genutzt wird, etwa von Mitarbeitern oder Stammkunden. Oft reicht eine <a href=\"/glossar/web-app/\">Web-App</a> oder <a href=\"/glossar/pwa/\">PWA</a>.</p><p>Eine ehrliche Einschätzung gibt der Ratgeber <a href=\"/wissen/eigene-app-sinnvoll/\">Ist eine eigene App sinnvoll?</a>, Kosten erklärt <a href=\"/wissen/app-kosten/\">Was kostet eine App?</a>, den Weg in die Stores <a href=\"/wissen/app-store-veroeffentlichung/\">App-Store-Veröffentlichung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich eine App für iPhone und Android getrennt entwickeln lassen?",
+      "a": "Nicht unbedingt. Mit plattformübergreifenden Frameworks lässt sich ein großer Teil des Codes für beide Systeme gemeinsam nutzen. Das spart Zeit und Kosten, und die Apps fühlen sich trotzdem weitgehend nativ an. Für sehr spezielle Gerätefunktionen kann eine getrennte Entwicklung nötig sein. Welche Variante passt, hängt von Ihren Anforderungen ab."
+    },
+    {
+      "q": "Gibt es laufende Kosten für eine native App?",
+      "a": "Ja. Für die Veröffentlichung in den Stores fallen Gebühren für Entwicklerkonten an, dazu kommen Wartung, Anpassungen an neue Betriebssystem-Versionen, Server für Daten und gegebenenfalls Weiterentwicklung. Diese Kosten sollten Sie vorab einplanen und im Angebot klar ausweisen lassen. Eine App, die nach dem Start nicht mehr gepflegt wird, funktioniert oft nach einiger Zeit nicht mehr richtig."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/native-app-oder-web-app/",
+    "/wissen/eigene-app-sinnvoll/",
+    "/wissen/app-kosten/",
+    "/leistungen/app-entwicklung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

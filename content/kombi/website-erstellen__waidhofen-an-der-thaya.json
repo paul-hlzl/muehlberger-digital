@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/waidhofen-an-der-thaya/",
+  "title": "Website erstellen lassen in Waidhofen an der Thaya",
+  "description": "Website erstellen lassen in Waidhofen an der Thaya: für Betriebe im nördlichen Waldviertel, die Kunden auch weit über den Bezirk hinaus erreichen wollen.",
+  "h1": "Website erstellen lassen in Waidhofen an der Thaya",
+  "kicker": "Website · Bezirk Waidhofen an der Thaya",
+  "lead": "Im nördlichen Waldviertel rund um Waidhofen an der Thaya ist die Kundschaft vor Ort begrenzt. Wer wachsen will, muss oft Menschen erreichen, die weit entfernt wohnen: mit Produkten, die verschickt werden, oder mit Angeboten für Gäste. Mühlberger Digital vermittelt Websites ab 2.500 € und klärt ehrlich, ob ein kleiner Shop dazu passt.",
+  "fakten": [
+    "Ländlicher Grenzbezirk im nördlichen Waldviertel",
+    "Wachstum oft nur mit Kundschaft von außerhalb möglich",
+    "Website, Bestellformular oder kleiner Shop: je nach Produkt",
+    "Mühlberger Digital ist selbst im Waldviertel zu Hause"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenn der eigene Bezirk zu klein wird",
+      "html": "<p>Im nördlichen Waldviertel gibt es viele Betriebe mit besonderen Produkten oder Fertigkeiten: regionale Spezialitäten, Handwerk, Unterkünfte in ruhiger Lage. Die Nachfrage im Bezirk allein reicht aber oft nicht, um davon gut zu leben. Die Website wird dann zur Verbindung nach Wien, Linz oder St. Pölten.</p><p>Welche Chancen und Grenzen das im ländlichen Raum hat, beschreibt der Ratgeber <a href=\"/wissen/laendlicher-raum/\">Digitalisierung im ländlichen Raum</a>.</p>"
+    },
+    {
+      "h2": "Drei Wege, Kunden von weiter weg zu bedienen",
+      "html": "<table><thead><tr><th>Weg</th><th>Passt, wenn …</th></tr></thead><tbody><tr><td>Website mit Bestellformular</td><td>wenige Bestellungen, Bezahlung per Rechnung ist für Sie in Ordnung</td></tr><tr><td>Kleiner Onlineshop</td><td>regelmäßige Bestellungen, Kunden wollen sofort bezahlen</td></tr><tr><td>Website mit Anfrage und Beratung</td><td>Produkte werden individuell gefertigt, etwa Möbel</td></tr></tbody></table><p>Was ein Shop braucht und kostet, erklärt der Ratgeber <a href=\"/wissen/onlineshop-starten/\">Onlineshop starten</a>.</p>"
+    },
+    {
+      "h2": "Typische Situationen",
+      "html": "<p>Ein <strong>Direktvermarkter</strong> mit haltbaren Spezialitäten verschickt Pakete an Stammkunden in ganz Österreich, die ihn einmal im Urlaub kennengelernt haben. Eine <strong>Tischlerei</strong> fertigt Einzelstücke und berät per Video, bevor sie zur Montage anreist. Ein <strong>Ferienhaus</strong> in Grenznähe spricht Menschen an, die Ruhe suchen, und zeigt Anfahrt und Umgebung ehrlich.</p>"
+    },
+    {
+      "h2": "Ehrlich zu Kosten und Aufwand",
+      "html": "<p>Ein Shop bedeutet laufenden Aufwand: Bestellungen abarbeiten, Versand organisieren, Rechtliches wie AGB und Rücktrittsrecht beachten. Wer nur gelegentlich verschickt, fährt mit einem Bestellformular besser. Die Starter-Website beginnt bei 2.500 €, ein <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop</a> ist ein individuelles Projekt mit Preis nach dem Erstgespräch. Mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> und <a href=\"/regionen/bezirk-waidhofen-an-der-thaya/\">Bezirk Waidhofen an der Thaya</a>, etwa auch für Betriebe rund um <a href=\"/regionen/raabs-an-der-thaya/\">Raabs an der Thaya</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ab wann lohnt sich ein eigener Onlineshop?",
+      "a": "Als Faustregel dann, wenn regelmäßig Bestellungen kommen und Sie bereit sind, diese zügig zu bearbeiten. Bei wenigen Bestellungen im Monat ist ein einfaches Formular günstiger und weniger aufwendig. Ein Shop bringt neben den Erstellungskosten auch Gebühren für Zahlungsanbieter und Pflichten wie AGB mit sich. Im Erstgespräch rechnen wir das ehrlich mit Ihnen durch."
+    },
+    {
+      "q": "Werde ich mit einer Website auch in Wien gefunden?",
+      "a": "Möglich ist das, aber nicht von selbst. Wer außerhalb der eigenen Region gefunden werden will, braucht Inhalte, nach denen dort gesucht wird, etwa zu einem besonderen Produkt oder Angebot. Auch Erwähnungen auf anderen Seiten und Bewertungen helfen. Garantieren kann das niemand, aber die Website ist die Grundlage dafür."
+    },
+    {
+      "q": "Wie läuft die Beratung, wenn ich weit weg von Ottenschlag wohne?",
+      "a": "Waidhofen an der Thaya liegt im Waldviertel und damit im persönlichen Schwerpunktgebiet von Mühlberger Digital, ein Termin vor Ort ist also gut möglich. Wer lieber Zeit spart, führt das kostenlose Erstgespräch per Telefon oder Video. Es dauert etwa 30 Minuten, Termine gibt es Montag bis Freitag abends von 18:00 bis 21:30 Uhr."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-waidhofen-an-der-thaya/",
+    "/regionen/waldviertel/",
+    "/leistungen/onlineshop-erstellen/",
+    "/wissen/laendlicher-raum/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/meeting-protokoll-schreiben/",
+  "title": "Ein gutes Meeting-Protokoll schreiben: Anleitung",
+  "description": "Ein gutes Meeting-Protokoll schreiben: Aufbau, Vorlage, Tipps fürs Mitschreiben und Verschicken – mit Beispielen aus kleinen Betrieben und typischen Fehlern.",
+  "h1": "Ein gutes Meeting-Protokoll schreiben",
+  "kicker": "Ratgeber · Besprechungen",
+  "lead": "Ein gutes Meeting-Protokoll hält nicht fest, wer was gesagt hat, sondern was entschieden wurde, wer bis wann was erledigt und welche Fragen noch offen sind. Wer diese drei Punkte klar notiert, das Protokoll am selben Tag verschickt und beim nächsten Termin die Aufgaben durchgeht, hat ein Protokoll, das wirklich gelesen wird.",
+  "fakten": [
+    "Kern jedes Protokolls: Entscheidungen, Aufgaben mit Verantwortlichen und Frist, offene Fragen",
+    "Im Betriebsalltag reicht meist ein Ergebnisprotokoll statt eines ausführlichen Verlaufsprotokolls",
+    "Am selben Tag verschicken – je später, desto weniger verbindlich",
+    "Aufgaben immer mit einem Namen und einem Datum versehen, nie mit „man“",
+    "KI-Werkzeuge nehmen das Mitschreiben ab, die Kontrolle bleibt beim Menschen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür ein Protokoll im kleinen Betrieb da ist",
+      "html": "<p>Ein Protokoll ist das gemeinsame Gedächtnis einer Besprechung. Es sorgt dafür, dass sich drei Wochen später alle an dieselbe Entscheidung erinnern, dass Kollegen, die nicht dabei waren, auf dem gleichen Stand sind, und dass Zusagen verbindlich werden.</p><p>Gerade im Kontakt mit Kunden schützt ein Protokoll beide Seiten. Ein Installateur, der nach einer Baubesprechung mit Bauherr und Elektriker festhält, wer die Leerverrohrung bis wann verlegt, vermeidet später die Diskussion, wer für die Verzögerung verantwortlich ist.</p>"
+    },
+    {
+      "h2": "Ergebnisprotokoll oder Verlaufsprotokoll?",
+      "html": "<p>Ein <strong>Ergebnisprotokoll</strong> hält nur die Resultate fest: Beschlüsse, Aufgaben, offene Punkte. Es ist kurz, schnell zu schreiben und für die meisten Teamrunden, Projekttermine und Kundenbesprechungen genau richtig.</p><p>Ein <strong>Verlaufsprotokoll</strong> gibt zusätzlich wieder, wie es zu einer Entscheidung kam, welche Argumente es gab und wer welche Position vertreten hat. Das ist sinnvoll, wenn der Weg zur Entscheidung später nachvollziehbar sein muss, etwa bei Vorstandssitzungen eines Vereins, bei strittigen Themen oder wenn Statuten oder Verträge eine bestimmte Form vorschreiben.</p><p>Im Zweifel beginnen Sie mit dem Ergebnisprotokoll und ergänzen bei heiklen Punkten einen Satz zur Begründung.</p>"
+    },
+    {
+      "h2": "Der Aufbau: eine Vorlage zum Übernehmen",
+      "html": "<p>Eine feste Vorlage spart Zeit und macht Protokolle vergleichbar. Diese Gliederung passt für fast jede Besprechung:</p><ol><li><strong>Kopf:</strong> Datum, Uhrzeit, Ort oder Online-Plattform, Teilnehmende, wer protokolliert</li><li><strong>Themen:</strong> die Punkte der Tagesordnung in der besprochenen Reihenfolge</li><li><strong>Entscheidungen:</strong> je Thema ein klarer Satz, was beschlossen wurde</li><li><strong>Aufgaben:</strong> was, wer, bis wann – am besten als kleine Tabelle</li><li><strong>Offene Fragen:</strong> was noch geklärt werden muss und von wem</li><li><strong>Nächster Termin:</strong> Datum und gegebenenfalls Themen</li></ol><p>Formulieren Sie Entscheidungen aktiv und eindeutig: „Wir bestellen die Fenster bei Lieferant A, Frau Huber gibt die Bestellung bis Freitag auf“ statt „Es wurde über die Fensterbestellung gesprochen“.</p>"
+    },
+    {
+      "h2": "Während der Besprechung: so schreiben Sie mit",
+      "html": "<p>Legen Sie vor Beginn fest, wer protokolliert. Wer gleichzeitig moderiert und mitschreibt, macht beides schlechter. In kleinen Teams kann die Rolle reihum gehen.</p><ul><li>Schreiben Sie nicht wörtlich mit, sondern nur Ergebnisse und Aufgaben.</li><li>Bitten Sie am Ende jedes Punktes um eine kurze Zusammenfassung: „Halten wir fest: …“</li><li>Fragen Sie nach, wenn eine Aufgabe keinen Namen oder kein Datum hat.</li><li>Markieren Sie offene Fragen sofort, damit sie nicht im Text untergehen.</li><li>Verwenden Sie die Vorlage direkt im Termin, dann ist das Protokoll beim Aufstehen fast fertig.</li></ul><p>Bei Besprechungen vor Ort, etwa in der Werkstatt oder auf der Baustelle, helfen Fotos von Skizzen am Whiteboard oder auf Papier. Sie ersetzen lange Beschreibungen.</p>"
+    },
+    {
+      "h2": "Nach der Besprechung: verschicken, ablegen, nachhalten",
+      "html": "<p>Verschicken Sie das Protokoll möglichst am selben Tag. Je länger es dauert, desto eher hat jeder schon seine eigene Version im Kopf. Ein kurzer Satz wie „Bitte melden Sie sich bis morgen, falls etwas fehlt oder falsch ist“ macht das Protokoll verbindlich.</p><p>Legen Sie Protokolle an einem festen Ort ab, an dem alle Beteiligten sie finden, etwa im Projektordner. Und beginnen Sie die nächste Besprechung mit einem Blick auf die offenen Aufgaben. Erst dadurch wird das Protokoll vom Archivdokument zum Arbeitswerkzeug. Wie Sie Besprechungen insgesamt kürzer und zielgerichteter gestalten, lesen Sie unter <a href=\"/wissen/besprechungen-effizient/\">Besprechungen effizienter machen</a>.</p>"
+    },
+    {
+      "h2": "Typische Fehler im Protokoll",
+      "html": "<ul><li><strong>Romane statt Ergebnisse:</strong> Niemand liest drei Seiten Gesprächsverlauf.</li><li><strong>Passive Sätze:</strong> „Es wird geprüft“ bedeutet in der Praxis oft, dass es niemand prüft.</li><li><strong>Aufgaben ohne Frist:</strong> „Zeitnah“ ist keine Frist.</li><li><strong>Meinungen im Protokoll:</strong> Bewertungen über Personen haben dort nichts verloren.</li><li><strong>Falscher Verteiler:</strong> Vertrauliche Punkte, etwa zu Personal oder Preisen, gehören nicht an jeden Empfänger.</li><li><strong>Zu spät verschickt:</strong> Ein Protokoll nach einer Woche wird kaum noch beachtet.</li></ul>"
+    },
+    {
+      "h2": "Wenn das Mitschreiben zu viel wird: KI als Hilfe",
+      "html": "<p>Wer viele Termine hat, kennt das Problem: Während man mitschreibt, hört man nur halb zu. Hier helfen KI-Werkzeuge, die ein Online-Gespräch erfassen und daraus ein Protokoll mit Entscheidungen und Aufgaben erstellen. Welche Vor- und Nachteile das hat, lesen Sie im Beitrag <a href=\"/wissen/ki-meeting-protokoll/\">KI-Meeting-Protokolle</a>, einen direkten Vergleich unter <a href=\"/vergleiche/protokoll-manuell-oder-ki/\">Meeting-Protokoll: von Hand oder mit KI?</a>.</p><p>Ein Beispiel ist <a href=\"/produkte/noteit/\">noteit</a>: Es funktioniert mit Teams, Zoom, Google Meet, Webex und weiteren Plattformen, ohne dass ein Bot in den Call kommt, speichert in Frankfurt und liefert das Protokoll etwa zwei Minuten nach dem Gespräch. Den Starter-Tarif mit drei Stunden pro Monat gibt es kostenlos auf <a href=\"https://noteit.at/\">noteit.at</a>. Wichtig bleibt: Informieren Sie die Teilnehmenden, wenn ein Gespräch erfasst wird, und lesen Sie das Ergebnis vor dem Versand kurz gegen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was muss in einem Meeting-Protokoll unbedingt stehen?",
+      "a": "Ein Meeting-Protokoll braucht mindestens Datum, Teilnehmende, die besprochenen Themen, die getroffenen Entscheidungen, die vereinbarten Aufgaben mit Verantwortlichen und Frist sowie offene Fragen. Ein Hinweis auf den nächsten Termin rundet es ab. Alles Weitere, etwa der Gesprächsverlauf, ist nur nötig, wenn die Begründung einer Entscheidung später nachvollziehbar sein muss."
+    },
+    {
+      "q": "Wer sollte das Protokoll schreiben?",
+      "a": "Am besten eine Person, die nicht gleichzeitig moderiert, denn beides zugleich gelingt selten gut. In kleinen Teams kann die Aufgabe reihum gehen, damit nicht immer dieselbe Person belastet wird. Wichtig ist, dass vor Beginn feststeht, wer protokolliert, und dass diese Person bei unklaren Aufgaben oder Entscheidungen nachfragen darf."
+    },
+    {
+      "q": "Wie lang sollte ein Meeting-Protokoll sein?",
+      "a": "So kurz wie möglich, so lang wie nötig. Für eine einstündige Teambesprechung reicht als Ergebnisprotokoll in der Regel eine Seite. Wird es deutlich länger, steht meist zu viel Gesprächsverlauf darin. Ein guter Test: Kann jemand, der nicht dabei war, in zwei Minuten erfassen, was entschieden wurde und was er zu tun hat?"
+    },
+    {
+      "q": "Muss ich ein Protokoll von allen bestätigen lassen?",
+      "a": "Eine formale Unterschrift ist bei normalen Teambesprechungen selten nötig. Bewährt hat sich, das Protokoll mit der Bitte zu verschicken, Korrekturen innerhalb einer kurzen Frist zu melden. Kommt nichts zurück, gilt es als angenommen. Bei Vereinen, Gesellschafterversammlungen oder Verträgen können Statuten oder Vereinbarungen eine bestimmte Form vorschreiben."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-meeting-protokoll/",
+    "/vergleiche/protokoll-manuell-oder-ki/",
+    "/wissen/besprechungen-effizient/",
+    "/leistungen/meeting-protokolle-ki/",
+    "/produkte/noteit/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "pfad": "/wissen/praxis-website/",
+  "title": "Was eine Praxis-Website braucht: Checkliste",
+  "description": "Was eine Praxis-Website braucht: Ordinationszeiten, Kassen, Terminbuchung, Anfahrt, Barrierefreiheit und Datenschutz – Checkliste für Ärzte und Therapeuten.",
+  "h1": "Was eine Praxis-Website braucht",
+  "kicker": "Ratgeber · Gesundheit",
+  "lead": "Eine Praxis-Website braucht vor allem schnell auffindbare Antworten auf praktische Fragen: Ordinationszeiten, Kassen oder Wahlarzt, Terminvereinbarung, Anfahrt, Vertretung im Urlaub und Leistungen. Dazu kommen ein seriöser, ruhiger Auftritt, Barrierefreiheit und ein sorgfältiger Umgang mit Gesundheitsdaten. Werbung ist im Gesundheitsbereich nur eingeschränkt erlaubt, Information schon.",
+  "fakten": [
+    "Ordinationszeiten und Telefonnummer gehören ganz nach oben",
+    "Kassenverträge oder Wahlarzt-Status klar angeben",
+    "Urlaub und Vertretung aktuell halten spart viele Anrufe",
+    "Keine Gesundheitsdaten über ungeschützte Formulare abfragen",
+    "Standesrechtliche Werberegeln vorab mit der Kammer klären"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Fragen, die Patienten zuerst haben",
+      "html": "<p>Wer eine Praxis-Website öffnet, sucht meist etwas Konkretes. Die häufigsten Fragen:</p><ul><li>Wann ist geöffnet, und muss ich einen Termin haben?</li><li>Welche Kassen werden angenommen, oder ist es eine Wahlarztpraxis?</li><li>Wie bekomme ich einen Termin, und wie schnell?</li><li>Wo ist die Praxis, wo kann ich parken, gibt es einen Lift?</li><li>Ist die Praxis gerade auf Urlaub, und wer vertritt?</li><li>Welche Leistungen werden angeboten?</li></ul><p>Diese Antworten gehören auf die Startseite oder sind von dort mit einem Klick erreichbar. Eine Zahnarztpraxis, die ihre Ordinationszeiten erst im dritten Menüpunkt versteckt, bekommt dieselben Fragen täglich am Telefon.</p>"
+    },
+    {
+      "h2": "Checkliste: Inhalte einer Praxis-Website",
+      "html": "<ul><li><strong>Startseite:</strong> Fachrichtung, Ort, Ordinationszeiten, Telefonnummer, Hinweis auf Termine.</li><li><strong>Team:</strong> Ärztin oder Therapeut mit Foto, Ausbildung und Schwerpunkten; Assistenz mit Vornamen, wenn gewünscht.</li><li><strong>Leistungen:</strong> verständlich erklärt, ohne Heilversprechen.</li><li><strong>Kassen und Kosten:</strong> Kassenverträge, Wahlarzt-Hinweis, Privatleistungen.</li><li><strong>Termine:</strong> wie man einen Termin bekommt, Absageregeln.</li><li><strong>Anfahrt:</strong> Adresse, Karte, Parken, öffentliche Verkehrsmittel, Barrierefreiheit.</li><li><strong>Aktuelles:</strong> Urlaub, Vertretung, Impftermine.</li><li><strong>Rechtliches:</strong> Impressum, Datenschutzerklärung.</li></ul><p>Fachspezifische Hinweise stehen auf den Seiten für <a href=\"/branchen/arztpraxis/\">Arztpraxen</a> und <a href=\"/branchen/physiotherapie/\">Physiotherapie</a>.</p>"
+    },
+    {
+      "h2": "Termine online vereinbaren",
+      "html": "<p>Online-Terminbuchung kann die Telefonzeiten deutlich entlasten. Patienten wählen einen freien Termin, wann es ihnen passt, und bekommen eine Bestätigung. Das eignet sich besonders für planbare Termine wie Kontrollen, Behandlungsserien in der Physiotherapie oder Erstgespräche in der Psychotherapie.</p><p>Nicht jede Praxis will alle Termine online freigeben. Eine gängige Lösung ist, einen Teil der Termine online buchbar zu machen und Akut- oder Spezialtermine weiterhin telefonisch zu vergeben. Achten Sie bei der Wahl des Systems darauf, wo Daten gespeichert werden und dass nur die nötigsten Angaben abgefragt werden. Mehr dazu im Ratgeber <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz: Gesundheitsdaten sind besonders sensibel",
+      "html": "<p>Gesundheitsdaten gehören zu den besonders geschützten Daten. Für die Website bedeutet das als allgemeine Orientierung:</p><ul><li>Fragen Sie im normalen Kontaktformular keine Symptome, Diagnosen oder Befunde ab.</li><li>Weisen Sie darauf hin, dass Patienten keine medizinischen Details per Formular oder unverschlüsselter E-Mail senden sollen.</li><li>Prüfen Sie, welche externen Dienste auf der Website eingebunden sind, etwa Karten, Schriftarten oder Statistik.</li><li>Halten Sie die Datenschutzerklärung aktuell.</li></ul><p>Für Ihren konkreten Fall wenden Sie sich an die zuständige Kammer, einen Anwalt oder die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>. Einen Überblick zum Formular bietet der Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Werbung und Standesrecht",
+      "html": "<p>Für Ärztinnen und Ärzte, Zahnärzte und viele Gesundheitsberufe gelten standesrechtliche Regeln für Werbung. Sachliche Information über Leistungen, Ausbildung und Ordination ist in der Regel erlaubt. Problematisch können etwa Heilversprechen, reißerische Formulierungen, Vergleiche mit Kollegen oder bestimmte Vorher-nachher-Darstellungen sein.</p><p>Die genauen Regeln unterscheiden sich je nach Beruf. Klären Sie im Zweifel mit Ihrer Kammer, was zulässig ist, bevor die Website online geht. Ein ruhiger, informativer Ton ist ohnehin das, was Patienten von einer Praxis erwarten: Wer krank ist oder Schmerzen hat, will Klarheit, keine Werbesprüche.</p><p>Gut funktionieren zum Beispiel kurze Erklärungen, wie eine Behandlung abläuft, was Patienten vorher beachten sollten und wie lange ein Termin ungefähr dauert. Eine Physiotherapiepraxis, die beschreibt, was beim ersten Termin passiert und welche Kleidung sinnvoll ist, nimmt neuen Patienten die Unsicherheit, ohne etwas zu versprechen.</p>"
+    },
+    {
+      "h2": "Barrierefreiheit und Verständlichkeit",
+      "html": "<p>Viele Patienten sind älter, sehen schlechter oder sind gerade gesundheitlich eingeschränkt. Eine Praxis-Website sollte deshalb besonders zugänglich sein:</p><ul><li>gut lesbare Schriftgröße und starke Kontraste</li><li>klare Sprache statt Fachbegriffen, oder Fachbegriffe kurz erklärt</li><li>Bilder mit Beschreibungen für Screenreader</li><li>eine Struktur, die auch per Tastatur bedienbar ist</li><li>Hinweise zur baulichen Barrierefreiheit der Praxis selbst</li></ul><p>Was eine barrierefreie Website ausmacht, beschreibt der Ratgeber <a href=\"/wissen/barrierefreie-website/\">Barrierefreie Website</a>.</p>"
+    },
+    {
+      "h2": "Das Telefon entlasten",
+      "html": "<p>In vielen Praxen ist das Telefon der größte Engpass. Ein Teil der Anrufe lässt sich mit der Website abfangen: aktuelle Ordinationszeiten, Urlaubshinweise, Rezeptbestellung nach festem Ablauf, Antworten auf häufige Fragen.</p><p>Ein KI-Chatbot kann organisatorische Fragen rund um die Uhr beantworten, etwa zu Öffnungszeiten, Parken oder mitzubringenden Unterlagen. Pipebot antwortet dabei nur mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit dem Team; medizinische Beratung gehört nicht in einen Chatbot. Er kostet 19 € pro Monat, die ersten 30 Tage sind gratis. Wie er mit Ihren Inhalten antwortet, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was muss auf der Website einer Arztpraxis stehen?",
+      "a": "Wichtig sind Fachrichtung, Ordinationszeiten, Telefonnummer, Kassenverträge oder Wahlarzt-Status, die Art der Terminvereinbarung, Anfahrt mit Hinweisen zu Parken und Barrierefreiheit, Urlaubszeiten mit Vertretung sowie die angebotenen Leistungen. Dazu kommen Impressum und Datenschutzerklärung. Die praktischen Angaben sollten von der Startseite aus mit einem Klick erreichbar sein."
+    },
+    {
+      "q": "Darf eine Arztpraxis auf ihrer Website werben?",
+      "a": "Sachliche Information über Leistungen, Ausbildung, Schwerpunkte und Ordination ist in der Regel erlaubt. Für Ärztinnen, Ärzte und viele Gesundheitsberufe gelten aber standesrechtliche Werberegeln, die etwa Heilversprechen oder reißerische Darstellungen einschränken. Die Details unterscheiden sich je nach Beruf. Klären Sie deshalb mit Ihrer Kammer, was zulässig ist, bevor die Website online geht."
+    },
+    {
+      "q": "Darf ich über das Kontaktformular Symptome abfragen?",
+      "a": "Davon ist in der Regel abzuraten. Gesundheitsdaten sind besonders geschützt, und ein normales Kontaktformular oder eine unverschlüsselte E-Mail bietet dafür meist keinen ausreichenden Schutz. Fragen Sie im Formular nur organisatorische Angaben ab und weisen Sie darauf hin, keine medizinischen Details zu senden. Im Einzelfall klären Sie das mit Kammer, Anwalt oder Datenschutzbehörde."
+    },
+    {
+      "q": "Lohnt sich Online-Terminbuchung für eine kleine Praxis?",
+      "a": "Häufig ja, besonders wenn das Telefon oft besetzt ist und viele Termine planbar sind, etwa Kontrollen oder Behandlungsserien. Patienten können dann auch abends buchen, und das Team wird entlastet. Viele Praxen geben nur einen Teil der Termine online frei und vergeben Akuttermine weiterhin telefonisch. Achten Sie auf ein System mit sorgfältigem Datenschutz."
+    }
+  ],
+  "verwandt": [
+    "/branchen/arztpraxis/",
+    "/branchen/physiotherapie/",
+    "/wissen/seo-praxen/",
+    "/wissen/online-terminbuchung/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

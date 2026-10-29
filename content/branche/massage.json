@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/massage/",
+  "title": "Massagepraxen digital: Termine, Firmenmassage, Website",
+  "description": "Für Massagepraxen: Wie Sie Termine ohne Telefonstress vergeben, Massagearten verständlich erklären und Betriebe für Firmenmassagen gezielt finden.",
+  "h1": "Digitale Lösungen für Massagepraxen",
+  "kicker": "Branche · Massage",
+  "lead": "Massagepraxen brauchen digital vor allem eines: Termine vergeben, ohne die Behandlung zu unterbrechen. Dazu kommen verständliche Beschreibungen der Massagearten und, wenn Sie wachsen wollen, ein zweites Standbein mit Firmenmassagen. Eine schlanke Website, eine Online-Terminbuchung und ein gezielter Blick auf Betriebe in der Nähe reichen dafür oft aus.",
+  "fakten": [
+    "Während der Behandlung bleibt das Handy stumm: Termine besser online vergeben",
+    "Gewerbliche Massage und Heilmassage auf der Website klar unterscheiden",
+    "SightUp findet Firmen in der Nähe für Firmenmassagen, Gratis-Paket mit 3 Suchen",
+    "Kostenloses Erstgespräch abends von 18:00 bis 21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ruhe im Raum, Stille am Telefon",
+      "html": "<p>Eine Massage lebt von Ruhe. Wer mitten in einer Rückenbehandlung zum Handy greift, stört die Person auf der Liege und verliert den Faden. Viele Masseurinnen und Masseure arbeiten allein, ohne Empfang, und hören am Abend die Mailbox ab, während potenzielle Kunden längst woanders gebucht haben.</p><p>Hier helfen zwei Wege, je nach Arbeitsweise:</p><ul><li>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>, in der freie Zeiten sichtbar sind und Pausen zwischen den Behandlungen eingeplant werden</li><li>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a>, der Anrufe annimmt, Wünsche aufnimmt und Ihnen eine Zusammenfassung schickt</li></ul><p>Für die meisten Einzelpraxen reicht die Terminbuchung. Der Telefonassistent lohnt sich eher, wenn viele ältere Stammkunden lieber anrufen als online zu buchen. Sein Preis wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Gewerbliche Massage oder Heilmassage: klar sagen, was Sie anbieten",
+      "html": "<p>Für Laien ist oft nicht klar, ob sie bei Ihnen eine Wellnessmassage, eine gewerbliche Massage oder eine Heilmassage auf ärztliche Zuweisung bekommen. Das führt zu Fragen wie „Bekomme ich dafür etwas von der Krankenkasse zurück?“, die Sie nicht pauschal beantworten können.</p><p>Schreiben Sie auf der Website ehrlich, welche Ausbildung Sie haben, welche Leistungen Sie anbieten und ob Sie mit Zuweisung arbeiten. Zu Kostenrückerstattungen verweisen Sie am besten auf die jeweilige Krankenkasse, statt selbst Zusagen zu machen. Diese Klarheit erspart Ihnen Diskussionen und zieht genau die Menschen an, die zu Ihrem Angebot passen.</p>"
+    },
+    {
+      "h2": "Massagearten so beschreiben, dass Menschen die richtige wählen",
+      "html": "<p>Sportmassage, Lymphdrainage, Triggerpunktbehandlung, Hot Stone, klassische Massage: Wer zum ersten Mal kommt, weiß oft nicht, was zu ihm passt. Eine kurze Übersicht mit drei Fragen hilft sehr:</p><ul><li>Wie fühlt sich die Massage an, eher sanft oder kräftig?</li><li>Wie lange dauert sie und was sollte man vorher beachten?</li><li>In welchen Fällen sollte man vorher mit einem Arzt sprechen?</li></ul><p>Formulieren Sie sachlich und ohne Heilversprechen. Diese Texte kann ein Chatbot später nutzen: <a href=\"/produkte/pipebot/\">Pipebot</a> beantwortet Fragen nur mit Ihren hinterlegten Inhalten und verbindet bei Unsicherheit mit Ihnen. Ob das für Ihre Praxis sinnvoll ist, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Firmenmassage: Betriebe in der Nähe gezielt ansprechen",
+      "html": "<p>Massagen am Arbeitsplatz, etwa einmal im Monat im Büro oder in der Werkstatt, sind für viele Praxen ein planbares zweites Standbein. Die Schwierigkeit ist, die richtigen Betriebe zu finden und sie sinnvoll anzusprechen, ohne aufdringlich zu wirken.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in Ihrer Umgebung, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch, Sie entscheiden selbst, wen Sie kontaktieren. Das Gratis-Paket umfasst 3 Suchen pro Monat, danach gibt es Pakete ab 19 € monatlich. Was bei der Kontaktaufnahme mit Firmen erlaubt ist, erklärt der Ratgeber zu <a href=\"/wissen/kaltakquise-regeln/\">Regeln der Kaltakquise</a>.</p>"
+    },
+    {
+      "h2": "Womit Sie am besten anfangen",
+      "html": "<p>Wenn Sie noch keine eigene Website haben, ist eine einfache Seite mit Massagearten, Preisen, Öffnungszeiten und Buchungsmöglichkeit der wichtigste Schritt. Eine Starter-Website kostet ab 2.500 € einmalig. Wer bereits gut gebucht ist, braucht vielleicht gar nichts Neues, sondern nur ein gepflegtes Google-Unternehmensprofil.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns gemeinsam an, wo bei Ihnen Zeit verloren geht. Es dauert etwa 30 Minuten und ist auch abends nach Ihrem letzten Termin möglich.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Masseurin ohne Empfang eine Online-Terminbuchung?",
+      "a": "Wenn Sie allein arbeiten und während der Behandlungen nicht telefonieren können, ist eine Online-Terminbuchung meist die größte Entlastung. Kunden sehen freie Zeiten selbst und buchen auch abends. Wichtig ist, Pausen und Vorbereitungszeit einzuplanen. Wenn Sie fast nur Stammkunden mit fixen Terminen haben, reicht oft eine klare Telefonzeit, zu der Sie sicher erreichbar sind."
+    },
+    {
+      "q": "Was sollte ich auf der Website über Heilmassage schreiben?",
+      "a": "Beschreiben Sie sachlich, welche Ausbildung Sie haben, welche Behandlungen Sie anbieten und ob Sie mit ärztlicher Zuweisung arbeiten. Zu Kostenzuschüssen der Krankenkasse sollten Sie keine pauschalen Zusagen machen, sondern auf die jeweilige Kasse verweisen. Vermeiden Sie Heilversprechen. Bei rechtlichen Fragen zur Werbung hilft die Wirtschaftskammer oder Ihre Berufsvertretung weiter."
+    },
+    {
+      "q": "Wie finde ich Firmen für Massagen am Arbeitsplatz?",
+      "a": "Sinnvoll ist ein gezielter Blick auf Betriebe in Ihrer Nähe, die von der Größe her passen, etwa Büros, Werkstätten oder Produktionsbetriebe. SightUp sucht solche Firmen, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket mit 3 Suchen pro Monat reicht für einen ersten Test."
+    },
+    {
+      "q": "Was kostet die digitale Grundausstattung für eine Massagepraxis?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer, inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Ein Chatbot wie Pipebot kommt auf 19 € pro Monat, die ersten 30 Tage sind gratis. Eine Terminbuchung oder ein Telefonassistent wird nach dem Erstgespräch individuell angeboten, je nachdem, was Sie wirklich brauchen."
+    }
+  ],
+  "verwandt": ["/branchen/physiotherapie/", "/wissen/online-terminbuchung/", "/produkte/sightup/", "/leistungen/website-erstellen/"],
+  "checks": ["neukunden-finden", "website-entwurf"]
+}

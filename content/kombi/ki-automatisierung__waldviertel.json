@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/waldviertel/",
+  "title": "KI-Automatisierung im Waldviertel: wo anfangen?",
+  "description": "Prozessautomatisierung mit KI im Waldviertel: welcher Ablauf zuerst, typische erste Projekte für Handwerk, Hof und Gästehaus, und wann wir abraten.",
+  "h1": "KI & Prozessautomatisierung im Waldviertel",
+  "kicker": "KI-Automatisierung · Waldviertel",
+  "lead": "Im Waldviertel sind die Wege weit und die Teams klein, deshalb muss Automatisierung dort vor allem eines: Arbeit abnehmen, ohne neue zu machen. Die wichtigste Frage ist meist nicht welches Tool, sondern welcher Ablauf zuerst, und manchmal lautet die ehrliche Antwort: noch keiner.",
+  "fakten": [
+    "Mühlberger Digital sitzt in Ottenschlag, mitten im Waldviertel",
+    "Vier Fragen zeigen, welcher Ablauf sich zuerst lohnt",
+    "Typische Startprojekte für Handwerk, Hof und Gästehaus",
+    "Erstgespräch persönlich, kostenlos, rund 30 Minuten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Weite Wege, wenige Hände",
+      "html": "<p>Das <a href=\"/regionen/waldviertel/\">Waldviertel</a> im Nordwesten Niederösterreichs ist ländlich geprägt: Landwirtschaft, Holz, Granit, Handwerk, Familienbetriebe und Tourismus in einer weitläufigen Landschaft. Fachkräfte sind gesucht, und viele Betriebe werden von wenigen Menschen getragen. Was ein Unternehmen hier digital braucht, beschreibt auch der Ratgeber <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Welcher Ablauf zuerst? Vier Fragen",
+      "html": "<p>Bevor über Technik gesprochen wird, hilft eine einfache Prüfung. Nehmen Sie eine Aufgabe, die Sie stört, und fragen Sie:</p><ol><li><strong>Wie oft?</strong> Kommt sie jede Woche vor oder nur ein paarmal im Jahr?</li><li><strong>Wie gleich?</strong> Läuft sie meistens nach demselben Muster ab?</li><li><strong>Wie lange?</strong> Wie viel Zeit kostet sie jedes Mal, inklusive Suchen?</li><li><strong>Wie riskant?</strong> Was passiert, wenn einmal etwas schiefgeht?</li></ol><p>Häufig, gleichförmig, zeitraubend und mit überschaubarem Risiko: Das ist ein guter Kandidat für <a href=\"/leistungen/ki-automatisierung/\">KI-gestützte Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Typische erste Projekte",
+      "html": "<ul><li><strong>Handwerk:</strong> Kostenvoranschläge aus Aufmaß-Notizen, wie auf der Seite <a href=\"/leistungen/ki-automatisierung/zwettl/\">KI-Automatisierung in Zwettl</a> beschrieben.</li><li><strong>Hof und Direktvermarktung:</strong> Bestellungen aus Nachrichten sammeln und eine Abholliste erstellen.</li><li><strong>Gästehaus und Ferienwohnung:</strong> Anfragen mit Verfügbarkeit und Preis vorbeantworten.</li><li><strong>Büro und Verein:</strong> Besprechungen mit noteit protokollieren, Aufgaben automatisch verteilen.</li></ul>"
+    },
+    {
+      "h2": "Wann wir abraten",
+      "html": "<p>Wenn eine Aufgabe selten vorkommt, jedes Mal anders ist oder schon mit einer guten Vorlage in Minuten erledigt ist, lohnt sich keine Automatisierung. Auch wenn Daten noch in Schuhschachteln liegen, kommt zuerst die Ordnung. „Was Sie nicht brauchen, empfehlen wir nicht“, ist der Grundsatz von Mühlberger Digital. Wie man ländliche Betriebe sinnvoll digitalisiert, beschreibt der Ratgeber <a href=\"/wissen/laendlicher-raum/\">Ländlicher Raum</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich schnelles Internet für KI-Automatisierung?",
+      "a": "Für die meisten Abläufe nicht. Automatisierungen laufen in der Regel auf Servern im Hintergrund, Ihr Betrieb schickt nur E-Mails, Fotos oder Sprachnachrichten und bekommt Ergebnisse zurück. Dafür reicht eine normale Verbindung, auch über das Handynetz. Größere Datenmengen wie lange Videos sind die Ausnahme. Im Erstgespräch klären wir, ob Ihre Verbindung genügt."
+    },
+    {
+      "q": "Gibt es Förderungen für Automatisierungsprojekte?",
+      "a": "Es gibt immer wieder Förderprogramme für Digitalisierung, die sich aber ändern und an Bedingungen geknüpft sind. Konkrete Beträge oder Fristen nennen wir deshalb nicht pauschal. Einen Überblick gibt der Ratgeber zu Förderungen für Digitalisierung auf dieser Website. Aktuelle Informationen erhalten Sie bei der Wirtschaftskammer, idealerweise bevor ein Projekt beauftragt wird."
+    },
+    {
+      "q": "Wie viel Zeit muss ich selbst investieren?",
+      "a": "Am meisten zu Beginn: Im Erstgespräch und in ein, zwei Abstimmungen zeigen Sie, wie Sie heute arbeiten, und stellen Beispiele, Vorlagen und Preise bereit. Die technische Umsetzung übernimmt Pipeline AI Solutions. Danach sollte die Automatisierung Zeit sparen, nicht kosten. Wenn ein Ablauf dauerhaft Betreuung braucht, ist er schlecht gebaut."
+    },
+    {
+      "q": "Kommt Mühlberger Digital zu uns in den Betrieb?",
+      "a": "Im Waldviertel ist das der Normalfall, der Sitz liegt in Ottenschlag im Bezirk Zwettl. Das kostenlose Erstgespräch dauert etwa 30 Minuten, Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Alternativ geht es am Telefon oder per Video-Call. Erreichbar ist Mühlberger Digital unter +43 677 6219 2776."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/waldviertel/",
+    "/wissen/digitalisierung-waldviertel/",
+    "/leistungen/ki-automatisierung/zwettl/",
+    "/wissen/foerderungen-digitalisierung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

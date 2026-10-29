@@ -1,0 +1,71 @@
+{
+  "pfad": "/wissen/ki-bilder-website/",
+  "title": "KI-Bilder auf der Website: Wann sinnvoll, wann nicht",
+  "description": "KI-Bilder auf der Website: wofür generierte Bilder passen, wo sie Kunden täuschen und was bei Rechten, Kennzeichnung und Qualität zu beachten ist.",
+  "h1": "KI-Bilder auf der Website",
+  "kicker": "Ratgeber · KI & Bilder",
+  "lead": "KI-Bilder eignen sich auf der Website für Illustrationen, Hintergründe, Symbolbilder und Grafiken, also überall dort, wo es nicht um echte Menschen, Räume oder Arbeiten geht. Für Team, Betrieb, Produkte und Referenzen sind sie ungeeignet, weil sie Kunden etwas zeigen, das es so nicht gibt. Wer KI-Bilder nutzt, sollte Rechte, Qualität und Kennzeichnung im Blick haben.",
+  "fakten": [
+    "Gut für Illustrationen, Hintergründe und erklärende Grafiken",
+    "Ungeeignet für Team, Räume, Produkte und Referenzen",
+    "Rechtlicher Schutz von KI-Bildern ist eingeschränkt",
+    "Typische Fehler wie Hände, Schrift und Details prüfen",
+    "Täuschend echte Darstellungen im Zweifel kennzeichnen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wofür KI-Bilder gut geeignet sind",
+      "html": "<p>Bildgeneratoren erstellen heute in Sekunden Bilder nach einer Beschreibung. Für kleine Betriebe ist das eine günstige Alternative zu Bilddatenbanken, wenn es um Bilder geht, die nichts Reales zeigen müssen:</p><ul><li><strong>Illustrationen</strong> für Blogbeiträge oder Ratgeberseiten</li><li><strong>Hintergründe und Stimmungsbilder</strong>, etwa eine abstrakte Landschaft hinter einem Text</li><li><strong>Erklärgrafiken</strong>, die einen Ablauf oder ein Prinzip veranschaulichen</li><li><strong>Symbolbilder</strong> für Themen wie Datenschutz, Energie sparen oder Planung</li><li><strong>Vorschaubilder</strong> für Social Media und Newsletter</li></ul><p>Ein Steuerberater, der einen Beitrag über die Arbeitnehmerveranlagung schreibt, kann so ein passendes, neutrales Titelbild erstellen, statt das hundertste Foto eines Taschenrechners zu verwenden.</p>"
+    },
+    {
+      "h2": "Wo KI-Bilder fehl am Platz sind",
+      "html": "<p>Überall dort, wo Kunden erwarten, die Wirklichkeit zu sehen, sind KI-Bilder irreführend:</p><ul><li><strong>Team und Inhaber:</strong> Kunden wollen wissen, wer zu ihnen kommt.</li><li><strong>Räume:</strong> Hotelzimmer, Gastraum, Praxis, Werkstatt.</li><li><strong>Produkte:</strong> ein generiertes Brot, eine generierte Torte oder ein generiertes Möbelstück weckt falsche Erwartungen.</li><li><strong>Referenzen:</strong> ein generiertes „fertiges Bad“ als eigene Arbeit auszugeben, ist eine Täuschung.</li><li><strong>Speisen:</strong> Gäste bestellen, was sie auf dem Bild gesehen haben.</li></ul><p>Abgesehen vom Vertrauensverlust kann das auch rechtlich problematisch sein, wenn es Kunden in die Irre führt. Echte Fotos sind hier durch nichts zu ersetzen; Tipps dazu stehen im Ratgeber <a href=\"/wissen/website-fotos/\">Fotos für die Website</a>.</p>"
+    },
+    {
+      "h2": "Rechte und Kennzeichnung",
+      "html": "<p>Bei KI-Bildern gibt es einige rechtliche Fragen, die noch nicht in allen Punkten geklärt sind. Als allgemeine Orientierung:</p><ul><li>Bilder, die ohne wesentlichen menschlichen Beitrag von einer KI erzeugt werden, sind nach überwiegender Ansicht nur eingeschränkt urheberrechtlich geschützt. Andere könnten sie also unter Umständen ebenfalls verwenden.</li><li>Prüfen Sie die Nutzungsbedingungen des Werkzeugs, besonders bei gewerblicher Nutzung.</li><li>Erzeugen Sie keine Bilder, die echte Personen, Marken oder bekannte Werke nachahmen.</li><li>Der EU AI Act sieht Transparenzpflichten für bestimmte KI-erzeugte Inhalte vor, etwa für täuschend echte Darstellungen.</li></ul><p>Einen Überblick geben die Ratgeber <a href=\"/wissen/eu-ai-act/\">EU AI Act</a> und <a href=\"/wissen/bildrechte/\">Bildrechte</a>. Im Einzelfall fragen Sie die <a href=\"https://www.wko.at/\">WKO</a> oder einen Anwalt.</p>"
+    },
+    {
+      "h2": "So entstehen brauchbare KI-Bilder",
+      "html": "<p>Die Qualität hängt stark von der Beschreibung ab, dem sogenannten Prompt. Hilfreich ist:</p><ul><li><strong>Motiv genau beschreiben:</strong> „Eine Holzwerkbank mit Hobel und Hobelspänen, warmes Morgenlicht durch ein Fenster“ statt „Werkstatt“.</li><li><strong>Stil festlegen:</strong> Foto, Illustration, Aquarell, flache Grafik.</li><li><strong>Format angeben:</strong> Querformat für Kopfbilder, Quadrat für Social Media.</li><li><strong>Farben abstimmen:</strong> passend zu den Farben Ihrer Website.</li><li><strong>Mehrere Varianten erzeugen</strong> und die beste auswählen.</li></ul><p>Bleiben Sie bei einem einheitlichen Stil. Fünf Bilder in fünf verschiedenen Stilen wirken auf einer Website unruhig. Speichern Sie gelungene Beschreibungen ab, damit spätere Bilder im selben Stil entstehen.</p>"
+    },
+    {
+      "h2": "Typische Fehler erkennen",
+      "html": "<p>KI-Bilder sehen auf den ersten Blick oft perfekt aus. Auf den zweiten zeigen sich Fehler, die Besucher irritieren:</p><ul><li>Hände mit zu vielen oder verschmolzenen Fingern</li><li>Schrift, die wie Text aussieht, aber keinen Sinn ergibt</li><li>Werkzeuge oder Geräte, die es so nicht gibt</li><li>Gebäude und Landschaften, die nicht zu Österreich passen</li><li>ein übertrieben glatter, künstlicher Look</li></ul><p>Ein Elektriker merkt sofort, wenn auf einem Bild ein Sicherungskasten völlig unrealistisch verdrahtet ist. Seine Kunden vielleicht nicht, aber Fachleute und Bewerber schon. Sehen Sie sich jedes Bild in voller Größe an, bevor Sie es verwenden.</p>"
+    },
+    {
+      "h2": "Technik: Größe, Dateiname und Beschreibung",
+      "html": "<p>KI-Bilder sind oft sehr groß. Bevor sie auf die Website kommen:</p><ul><li>auf die tatsächlich benötigte Größe verkleinern</li><li>in ein modernes, platzsparendes Format umwandeln</li><li>einen sprechenden Dateinamen vergeben, etwa „werkbank-tischlerei.webp“</li><li>einen Alternativtext schreiben, der beschreibt, was zu sehen ist</li></ul><p>Das verbessert die Ladezeit und hilft Suchmaschinen und Menschen mit Screenreader. Mehr dazu im Ratgeber <a href=\"/wissen/bilder-seo/\">Bilder-SEO</a>. Wenn Sie wissen wollen, wo Ihre Website technisch steht, hilft der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a>.</p>"
+    },
+    {
+      "h2": "Die gute Mischung",
+      "html": "<p>Die überzeugendsten Websites kleiner Betriebe kombinieren beides: echte Fotos für alles, was den Betrieb zeigt, und KI-Bilder oder Grafiken für erklärende und gestalterische Elemente. So bleibt die Website ehrlich und wirkt trotzdem stimmig.</p><p>Eine Faustregel: Würde sich ein Kunde getäuscht fühlen, wenn er wüsste, dass das Bild generiert ist? Dann verwenden Sie ein echtes Foto. Wenn Sie Ihre Website neu aufstellen möchten, zeigt der <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a>, wie das aussehen könnte. Für regelmäßige Social-Media-Beiträge mit Bild aus Ihrer Website gibt es <a href=\"https://pipeflow.at/\">Pipeflow</a>, in der Pilotphase kostenlos.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich KI-Bilder auf meiner Firmenwebsite verwenden?",
+      "a": "Grundsätzlich ja, wenn die Nutzungsbedingungen des Werkzeugs die gewerbliche Nutzung erlauben und die Bilder keine echten Personen, Marken oder fremden Werke nachahmen. Verwenden Sie KI-Bilder aber nicht für Team, Räume, Produkte oder Referenzen, weil das Kunden täuschen kann. Rechtliche Fragen im Einzelfall klären Sie mit WKO oder einem Anwalt."
+    },
+    {
+      "q": "Muss ich KI-Bilder auf der Website kennzeichnen?",
+      "a": "Der EU AI Act sieht Transparenzpflichten für bestimmte KI-erzeugte Inhalte vor, besonders für täuschend echte Darstellungen von Personen, Orten oder Ereignissen. Für eine klar erkennbare Illustration ist die Lage anders als für ein fotorealistisches Bild. Im Zweifel ist eine kurze Kennzeichnung die ehrliche Wahl. Für Ihren Einzelfall fragen Sie WKO oder einen Anwalt."
+    },
+    {
+      "q": "Sind KI-Bilder urheberrechtlich geschützt?",
+      "a": "Nach überwiegender Ansicht sind Bilder, die ohne wesentlichen menschlichen Beitrag von einer KI erzeugt werden, nur eingeschränkt urheberrechtlich geschützt. Das kann bedeuten, dass andere sie unter Umständen ebenfalls verwenden dürfen. Die Rechtslage ist nicht in allen Punkten geklärt. Prüfen Sie zusätzlich die Nutzungsbedingungen Ihres Werkzeugs und holen Sie im Einzelfall rechtlichen Rat ein."
+    },
+    {
+      "q": "Sind KI-Bilder besser als Bilder aus Bilddatenbanken?",
+      "a": "Für Illustrationen und Symbolbilder können sie eine gute, individuellere Alternative sein, weil nicht dasselbe Bild auf vielen anderen Websites auftaucht. Für echte Menschen, Räume und Arbeiten sind beide schlechter als eigene Fotos. Bilddatenbanken bieten dafür oft klarere Lizenzbedingungen. Am überzeugendsten ist eine Mischung aus echten Fotos und gezielt eingesetzten Grafiken."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-fotos/",
+    "/wissen/bildrechte/",
+    "/wissen/eu-ai-act/",
+    "/wissen/website-texte-mit-ki/",
+    "/gratis-check/website-entwurf/"
+  ],
+  "checks": ["website-entwurf"]
+}

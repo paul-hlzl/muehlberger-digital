@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/erreichbarkeit/",
+  "title": "Erreichbar sein außerhalb der Öffnungszeiten",
+  "description": "Erreichbar außerhalb der Öffnungszeiten, ohne rund um die Uhr zu arbeiten: Website, Chatbot, Terminbuchung, Telefonassistent und klare Zusagen im Überblick.",
+  "h1": "Erreichbar sein außerhalb der Öffnungszeiten – ohne Dauereinsatz",
+  "kicker": "Ratgeber · Erreichbarkeit",
+  "lead": "Außerhalb der Öffnungszeiten erreichbar zu sein heißt nicht, selbst rund um die Uhr abzuheben. Es heißt, dass jede Anfrage ankommt und eine Reaktion bekommt: durch eine Website mit den wichtigsten Antworten, einen Chatbot, Online-Terminbuchung, einen Anrufbeantworter oder KI-Telefonassistenten und eine klare Zusage, wann Sie sich melden.",
+  "fakten": [
+    "Kunden erwarten meist eine Reaktion, nicht sofort eine Lösung",
+    "Website, Chatbot, Terminbuchung und Telefonassistent ergänzen sich",
+    "Notfälle und normale Anfragen klar trennen",
+    "Eine verlässliche Rückmeldezeit schützt auch Ihre Freizeit"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Kunden außerhalb der Öffnungszeiten wirklich erwarten",
+      "html": "<p>Viele Menschen kümmern sich abends oder am Wochenende um Dinge, für die sie tagsüber keine Zeit haben: einen Handwerker suchen, einen Tisch reservieren, einen Termin ausmachen. Sie erwarten dabei selten, dass um 21 Uhr jemand persönlich antwortet. Was sie erwarten, ist:</p><ul> <li>dass sie die wichtigsten Informationen sofort finden,</li><li>dass ihre Anfrage sicher ankommt,</li><li>dass sie wissen, wann sie eine Antwort bekommen.</li></ul> <p>Wer das bietet, wirkt verlässlich, ohne sein Privatleben aufzugeben. Wer dagegen nur eine Mailbox hat, die voll ist, oder eine Website ohne Öffnungszeiten, verliert genau die Kunden, die gerade bereit waren anzufragen.</p>"
+    },
+    {
+      "h2": "Die Bausteine im Überblick",
+      "html": "<table><thead><tr><th>Baustein</th><th>Gut für</th><th>Grenzen</th></tr></thead><tbody> <tr><td>Website mit klaren Infos</td><td>Öffnungszeiten, Leistungen, Preise, Anfahrt</td><td>Beantwortet nur, was dort steht</td></tr><tr><td>Kontaktformular mit Bestätigung</td><td>Anfragen vollständig aufnehmen</td><td>Keine sofortige Antwort auf Fragen</td></tr><tr><td>KI-Chatbot</td><td>Häufige Fragen sofort beantworten</td><td>Braucht gute Website-Inhalte</td></tr><tr><td>Online-Terminbuchung</td><td>Standardtermine ohne Rückfrage</td><td>Nur für planbare Termine</td></tr><tr><td>KI-Telefonassistent</td><td>Anrufe annehmen und Anliegen aufnehmen</td><td>Keine verbindlichen Zusagen</td></tr><tr><td>Google-Unternehmensprofil</td><td>Öffnungszeiten und Kontakt in der Suche</td><td>Muss aktuell gehalten werden</td></tr></tbody> </table><p>Nicht jeder Betrieb braucht alles. Oft reichen zwei oder drei Bausteine, die gut zusammenspielen. Wie Sie das Google-Profil aktuell halten, erklärt der Ratgeber <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>.</p>"
+    },
+    {
+      "h2": "Notfall oder normale Anfrage: klar trennen",
+      "html": "<p>In manchen Branchen gibt es echte Notfälle, die nicht bis Montag warten können: Wasserrohrbruch, Heizungsausfall im Winter, ein Tier, das dringend Hilfe braucht. Wer Notdienst anbietet, muss diese Fälle schnell erkennen und weiterleiten, ohne dass jeder Anruf zum Notfall wird.</p><p>Typische Situation: Ein <a href=\"/branchen/installateur/\">Installateur</a> lässt abends einen KI-Telefonassistenten die Anrufe annehmen. Der Assistent fragt gezielt nach: Tritt gerade Wasser aus? Ist die Heizung komplett ausgefallen? Nur dann wird an das Bereitschaftshandy weiterverbunden. Die Frage nach einem Angebot für ein neues Bad landet als Notiz im Postfach für den nächsten Morgen.</p><p>Wichtig ist, die Regeln vorher festzulegen und auf der Website offen zu kommunizieren: Was gilt als Notfall, unter welcher Nummer, zu welchen Bedingungen?</p>"
+    },
+    {
+      "h2": "Erreichbarkeit und Freizeit unter einen Hut bringen",
+      "html": "<p>Die größte Gefahr ist nicht, zu wenig erreichbar zu sein, sondern zu viel. Wer abends jede WhatsApp-Nachricht beantwortet, erzieht Kunden dazu, das zu erwarten. Besser:</p><ul> <li><strong>Klare Zeiten nennen:</strong> „Anfragen beantworten wir werktags bis 17 Uhr, sonst am nächsten Werktag.“</li><li><strong>Automatische Bestätigungen:</strong> Formular, E-Mail und WhatsApp bestätigen den Eingang mit dieser Zusage.</li><li><strong>Benachrichtigungen ausschalten:</strong> Am Diensthandy nach Feierabend nur noch Notfälle durchlassen.</li><li><strong>Zusagen einhalten:</strong> Lieber realistisch versprechen als gelegentlich überraschen.</li></ul> <p>Digitale Werkzeuge sind hier keine Belastung, sondern ein Schutz: Sie nehmen die Anfrage an, damit Sie es nicht selbst tun müssen.</p>"
+    },
+    {
+      "h2": "In welcher Reihenfolge Sie starten",
+      "html": "<ol><li><strong>Website prüfen:</strong> Stehen Öffnungszeiten, Leistungen, Einsatzgebiet und Kontaktwege klar drauf? Das ist die Grundlage für alles andere.</li><li><strong>Google-Profil aktualisieren:</strong> Viele sehen Ihre Öffnungszeiten zuerst in der Suche.</li><li><strong>Automatische Bestätigungen einrichten:</strong> für Formular, E-Mail und WhatsApp.</li><li><strong>Häufige Fragen abfangen:</strong> mit einem <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf der Website.</li><li><strong>Termine digital buchbar machen:</strong> wenn Ihre Termine planbar sind, siehe <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung einführen</a>.</li><li><strong>Telefon entlasten:</strong> wenn viele Anrufe ins Leere gehen, mit einem KI-Telefonassistenten.</li></ol> <p>So bauen Sie Schritt für Schritt auf, und jeder Baustein profitiert vom vorherigen.</p>"
+    },
+    {
+      "h2": "Passende Lösungen ausprobieren",
+      "html": "<p>Für Fragen auf der Website gibt es <a href=\"/produkte/pipebot/\">Pipebot</a>: Der Chatbot antwortet rund um die Uhr nur mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit Ihrem Team. Er kostet 19 € pro Monat, ist monatlich kündbar, die ersten 30 Tage sind gratis. Ob Ihre Inhalte reichen, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p><p>Wenn vor allem das Telefon das Problem ist, erklärt der Ratgeber <a href=\"/wissen/ki-telefonassistent-erklaert/\">KI-Telefonassistent: So funktioniert er</a>, wie Anrufe außerhalb der Zeiten angenommen werden. Telefonassistent und WhatsApp-Bot werden über Pipeline AI Solutions umgesetzt, Preis auf Anfrage. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, welche Kombination zu Ihrem Betrieb passt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich als kleiner Betrieb rund um die Uhr erreichbar sein?",
+      "a": "Nein. Kunden erwarten in der Regel nicht, dass Sie selbst rund um die Uhr antworten, sondern dass ihre Anfrage ankommt und sie wissen, wann sie eine Rückmeldung bekommen. Eine gute Website, automatische Eingangsbestätigungen und eventuell ein Chatbot oder Telefonassistent reichen dafür meist aus. Ausnahmen sind Betriebe mit Notdienst, die Notfälle gesondert regeln müssen."
+    },
+    {
+      "q": "Wie gehe ich mit Anrufen nach Feierabend um?",
+      "a": "Die einfachste Lösung ist ein Anrufbeantworter mit klarer Ansage: Öffnungszeiten, Hinweis auf die Website und wann Sie zurückrufen. Komfortabler ist ein KI-Telefonassistent, der Anliegen aufnimmt, Standardfragen beantwortet und echte Notfälle weiterleitet. In beiden Fällen sollten Sie die Nachrichten am nächsten Werktag zuverlässig abarbeiten."
+    },
+    {
+      "q": "Ist ein Chatbot besser als ein Kontaktformular?",
+      "a": "Beide haben ihren Platz. Ein Kontaktformular nimmt Anfragen strukturiert auf, beantwortet aber keine Fragen. Ein Chatbot antwortet sofort auf häufige Fragen und kann bei Bedarf ebenfalls Kontaktdaten aufnehmen. Viele Betriebe nutzen beides: den Chatbot für schnelle Fragen, das Formular für ausführliche Anfragen mit Fotos oder Unterlagen."
+    },
+    {
+      "q": "Wie verhindere ich, dass Kunden ständige Erreichbarkeit erwarten?",
+      "a": "Nennen Sie klare Antwortzeiten auf Website, in automatischen Bestätigungen und in der WhatsApp-Abwesenheitsnachricht, und halten Sie sich selbst daran. Wer abends gelegentlich sofort antwortet, weckt die Erwartung, dass das immer so ist. Verlässliche, gut kommunizierte Zeiten wirken professioneller als unregelmäßige Blitzantworten."
+    },
+    {
+      "q": "Was sollte eine Abwesenheitsnachricht enthalten?",
+      "a": "Einen Dank für die Nachricht, wann Sie wieder erreichbar sind, wann mit einer Antwort zu rechnen ist, einen Hinweis auf die Website für häufige Fragen und, falls vorhanden, eine Notfallnummer mit klarer Angabe, wofür sie gedacht ist. Halten Sie die Nachricht kurz und freundlich und passen Sie sie bei Urlaub oder Betriebsschließungen an."
+    }
+  ],
+  "verwandt": [
+    "/wissen/online-terminbuchung/",
+    "/wissen/ki-telefonassistent-erklaert/",
+    "/leistungen/ki-chatbot/",
+    "/wissen/whatsapp-business/",
+    "/branchen/installateur/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

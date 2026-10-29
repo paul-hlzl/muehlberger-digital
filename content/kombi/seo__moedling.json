@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/moedling/",
+  "title": "SEO in Mödling: herausstechen bei viel Konkurrenz",
+  "description": "SEO für Betriebe im Bezirk Mödling: wie Sie sich bei vielen ähnlichen Anbietern südlich von Wien abheben, ohne austauschbare Ortsseiten zu bauen.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Mödling",
+  "kicker": "SEO · Bezirk Mödling",
+  "lead": "Im Bezirk Mödling liegen viele Gemeinden dicht beieinander, und für fast jede Leistung gibt es mehrere Anbieter, dazu die Konkurrenz aus dem Süden Wiens. SEO in Mödling gelingt deshalb nicht mit mehr Seiten, sondern mit besseren: klares Profil, echtes Fachwissen, überzeugende Bewertungen. Seiten, die sich nur im Ortsnamen unterscheiden, schaden eher.",
+  "fakten": [
+    "Der Bezirk Mödling grenzt südlich an Wien und ist dicht besiedelt",
+    "Viele ähnliche Anbieter auf engem Raum, auch aus Wien",
+    "Seiten mit getauschten Ortsnamen gelten bei Google als minderwertig",
+    "Fachwissen und Bewertungen unterscheiden mehr als Schlagworte"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Anbieter auf engem Raum",
+      "html": "<p>Wer in Perchtoldsdorf, Brunn am Gebirge oder Mödling selbst nach einer Psychotherapeutin oder einem Architekten sucht, bekommt schnell ein Dutzend Ergebnisse, viele davon aus Wien. In der Kartensuche entscheidet neben der Entfernung vor allem, wie relevant und bekannt ein Betrieb wirkt.</p><p>Relevanz entsteht durch klare Inhalte zu Ihren Leistungen, Bekanntheit durch Bewertungen, Erwähnungen und Verlinkungen. Wie die <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> beide Seiten stärkt, lesen Sie auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Die Versuchung: eine Seite pro Gemeinde",
+      "html": "<p>Naheliegend scheint, für jede Gemeinde des Bezirks eine eigene Seite anzulegen. Wenn diese Seiten aber denselben Text mit anderem Ortsnamen enthalten, wertet Google sie als sogenannte Doorway Pages ab. Im schlimmsten Fall leidet die ganze Website.</p><p>Besser ist eine starke Seite pro Leistung und eine ehrliche Beschreibung des Einzugsgebiets. Warum doppelte Inhalte problematisch sind, erklärt der Ratgeber <a href=\"/wissen/duplicate-content/\">Duplicate Content</a>.</p>"
+    },
+    {
+      "h2": "Was im Bezirk Mödling wirklich unterscheidet",
+      "html": "<h3>Psychotherapie-Praxis</h3><p>Menschen suchen nach Methode, Schwerpunkt und Wartezeit. Wer erklärt, wie ein Erstgespräch abläuft und mit welchen Anliegen man kommen kann, nimmt Hemmschwellen. Weitere Ideen auf der Branchenseite <a href=\"/branchen/psychotherapie/\">Psychotherapie</a>.</p><h3>Architekturbüro</h3><p>Hier zählen Referenzprojekte mit Fotos und Beschreibung, idealerweise mit Bezug zu Bauaufgaben, die in der Gegend häufig sind, etwa Umbau oder Erweiterung bestehender Häuser.</p><h3>Yoga-Studio</h3><p>Kursplan, Preise und Probestunde gehören auf die Startseite. Bewertungen, die konkrete Kurse erwähnen, wirken glaubwürdiger als allgemeines Lob.</p><p>In allen drei Fällen gilt: Vertrauen entsteht durch Echtheit, mehr dazu im Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</p>"
+    },
+    {
+      "h2": "KI-Antworten nennen oft nur wenige Namen",
+      "html": "<p>Fragt jemand eine KI nach einer guten Praxis südlich von Wien, erscheinen meist nur zwei oder drei Empfehlungen. Bei so viel Konkurrenz lohnt es sich, auch diese Sichtbarkeit zu messen. Der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a> mit Hittaro zeigt, wie oft Ihr Betrieb genannt wird. Wie wir in der Region arbeiten, steht auf der Seite <a href=\"/regionen/bezirk-moedling/\">Bezirk Mödling</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll ich für jede Gemeinde im Bezirk eine eigene Seite anlegen?",
+      "a": "In der Regel nicht. Seiten, die sich nur im Ortsnamen unterscheiden, bringen keinen Mehrwert und werden von Google als Doorway Pages abgewertet. Sinnvoll ist eine eigene Ortsseite nur, wenn Sie dort einen Standort haben oder wirklich eigene Inhalte bieten können, etwa Projekte mit Fotos. Für die meisten Betriebe reicht eine klare Beschreibung des Einzugsgebiets."
+    },
+    {
+      "q": "Wie setze ich mich gegen Anbieter aus Wien durch?",
+      "a": "Nicht mit mehr Werbung, sondern mit Klarheit. Zeigen Sie, wofür genau Sie stehen, wen Sie betreuen und warum Kundinnen aus dem Bezirk zu Ihnen kommen. Echte Bewertungen von Menschen aus der Umgebung, Fotos aus Ihrem Betrieb und Fachwissen auf der Website wirken stärker als allgemeine Werbetexte. Die Nähe zum Wohnort ist ein Vorteil, den Sie aktiv nennen sollten."
+    },
+    {
+      "q": "Dauert SEO im Bezirk Mödling länger als anderswo?",
+      "a": "Oft ja, weil mehr Betriebe um dieselben Suchanfragen konkurrieren. Während in ländlichen Bezirken schon wenige Verbesserungen sichtbar wirken, braucht es hier meist mehrere Monate kontinuierlicher Arbeit. Wie lange es in Ihrem Fall dauert, lässt sich nicht seriös vorhersagen. Wir sagen zu, was wir tun, und die Entwicklung sehen Sie in regelmäßigen Berichten."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-moedling/",
+    "/wissen/lokale-landingpages/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/leistungen/website-erstellen/moedling/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

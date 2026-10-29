@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/rauchfangkehrer/",
+  "title": "Digitale Lösungen für Rauchfangkehrer: Kehrtermine & Fragen",
+  "description": "Kehrtermine ankündigen, Fragen zu Heizungstausch und Kachelofen beantworten, Nachwuchs finden: Digitale Hilfe für Rauchfangkehrerbetriebe.",
+  "h1": "Digitale Lösungen für Rauchfangkehrer",
+  "kicker": "Branche · Rauchfangkehrer",
+  "lead": "Rauchfangkehrer müssen Kunden selten gewinnen, aber sie müssen sehr viele Kunden zuverlässig erreichen: Termine ankündigen, verschieben, Fragen zu Heizungsumstellung und Ofen beantworten. Digital lohnt sich deshalb vor allem alles, was Terminkommunikation und wiederkehrende Fragen erleichtert, und eine bessere Sichtbarkeit bei Bewerbern.",
+  "fakten": [
+    "Terminverschiebungen automatisch aufnehmen statt jedes Mal zurückrufen",
+    "Häufige Fragen zu Kehrung, Ofen und Heizungstausch auf der Website beantworten",
+    "Chatbot Pipebot: 19 € pro Monat, monatlich kündbar, 30 Tage gratis",
+    "Lehrlinge und Gesellen über eine Karriereseite und zusage.at ansprechen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine besondere Branche: feste Kunden, viele Termine",
+      "html": "<p>Rauchfangkehrer arbeiten in Österreich in der Regel in einem festen Kehrgebiet und betreuen dort viele Haushalte wiederkehrend. Neukundengewinnung ist deshalb nicht das Hauptthema. Die eigentliche Arbeit ist Organisation: Sehr viele Termine im Jahr, angekündigt per Zettel, Brief oder Anruf, und dann die Rückmeldungen „Da bin ich nicht zuhause“.</p><p>Genau diese Rückmeldungen lassen sich digital vereinfachen. Ein Hinweis auf dem Ankündigungszettel mit Telefonnummer und Link, über den der Kunde einen Ausweichtermin wünschen kann, spart viele Rückrufe. Welche Regeln für Ihr Kehrgebiet gelten, klären Sie wie gewohnt mit Ihrer Innung oder der Wirtschaftskammer.</p>"
+    },
+    {
+      "h2": "Terminverschiebungen ohne Rückrufschleife",
+      "html": "<p>Ein typischer Morgen: fünf Nachrichten auf der Mobilbox, alle wollen den angekündigten Termin verschieben, und Sie sind am Dach. Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> kann solche Anrufe annehmen, Name, Adresse und Wunschzeitraum aufnehmen und dem Kunden sagen, dass er eine Bestätigung bekommt. Sie bekommen eine geordnete Liste statt einer vollen Mobilbox.</p><p>Wie wichtig Erreichbarkeit ist und welche Möglichkeiten es gibt, beschreibt der Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>. Der Preis für einen Telefonassistenten ist auf Anfrage und hängt davon ab, wie viel er selbst erledigen soll.</p>"
+    },
+    {
+      "h2": "Die Fragen, die nur Rauchfangkehrer bekommen",
+      "html": "<p>Neben Terminen gibt es Fragen, die immer wieder kommen und für die Kunden oft keinen anderen Ansprechpartner kennen:</p><ul><li>„Darf ich meinen alten Kachelofen weiter betreiben, oder muss er überprüft werden?“</li><li>„Wir stellen von Öl auf Pellets um, was muss beim Kamin beachtet werden?“</li><li>„Muss ich bei der Kehrung zuhause sein, und muss der Ofen aus sein?“</li></ul><p>Solche Fragen lassen sich auf der Website allgemein beantworten, ergänzt um den Hinweis, dass die Beurteilung im Einzelfall vor Ort passiert. Ein Chatbot wie <a href=\"/produkte/pipebot/\">Pipebot</a> beantwortet sie abends mit Ihren eigenen Texten und verbindet bei Unsicherheit mit Ihnen.</p>"
+    },
+    {
+      "h2": "Beratung bei Heizungsumstellung sichtbar machen",
+      "html": "<p>Viele Haushalte stellen ihre Heizung um, und der Rauchfangkehrer ist dabei ein wichtiger Ansprechpartner, etwa bei Abgasmessung, neuen Feuerstätten oder der Frage, ob ein bestehender Kamin passt. Diese Beratungsleistung kennen viele Kunden nicht.</p><p>Eine eigene Seite „Neue Heizung? Sprechen Sie vorher mit uns“ zeigt, wobei Sie helfen, und vermeidet, dass Kunden erst nach dem Kauf eines Ofens anrufen. Formulieren Sie das allgemein und ohne konkrete Vorschriften zu zitieren, die sich ändern können oder je nach Bundesland unterschiedlich sind.</p>"
+    },
+    {
+      "h2": "Nachwuchs finden: ein Beruf, den viele nicht kennen",
+      "html": "<p>Der Beruf hat ein starkes Bild, aber kaum jemand weiß, wie der Alltag aussieht. Eine Karriereseite mit Fotos, einem kurzen Text zur Lehre und ehrlichen Angaben zu Arbeitszeiten macht neugierig. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben, der Bewerbungsplattform von Pipeline.</p><p>Weitere Tipps gibt der Ratgeber <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p>"
+    },
+    {
+      "h2": "Was ein Rauchfangkehrerbetrieb nicht braucht",
+      "html": "<p>Werbung für Neukunden, Social-Media-Kampagnen oder SEO-Optimierung sind für die meisten Betriebe mit festem Kehrgebiet unnötig. Wichtiger ist, dass Kunden Sie erreichen und Antworten finden. Eine einfache Website mit Kontakt, Ablauf und häufigen Fragen reicht oft, eventuell ergänzt um Chatbot oder Telefonassistent.</p><p>Wie Inhalte so geschrieben werden, dass auch KI-Suchen sie verstehen, erklärt der Ratgeber <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a>. Im Erstgespräch klären wir, was bei Ihnen zuerst Sinn ergibt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht ein Rauchfangkehrer überhaupt eine Website?",
+      "a": "Eine große Website nicht, eine einfache schon. Kunden suchen Telefonnummer, Erreichbarkeit und Antworten auf Fragen zu Kehrung, Ofen und Heizungsumstellung. Wenn diese Informationen gut auffindbar sind, kommen weniger Anrufe mit Standardfragen. Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Hosting, Impressum und Datenschutz."
+    },
+    {
+      "q": "Kann ein Telefonassistent Kehrtermine selbst verschieben?",
+      "a": "Er kann den Wunsch aufnehmen, also Name, Adresse und bevorzugten Zeitraum, und dem Kunden bestätigen, dass sich der Betrieb meldet. Ob er Termine direkt in Ihren Kalender einträgt, hängt davon ab, wie Sie heute planen und welches System Sie verwenden. Das klären wir im Erstgespräch. Wichtig ist, dass Sie die Kontrolle über die Tourenplanung behalten."
+    },
+    {
+      "q": "Darf ein Chatbot Fragen zu Vorschriften für Öfen beantworten?",
+      "a": "Er sollte nur allgemeine Informationen geben, die Sie selbst auf der Website formuliert haben, und bei konkreten Fragen auf eine Beurteilung vor Ort verweisen. Vorschriften zu Feuerstätten können sich ändern und sind je nach Bundesland unterschiedlich. Pipebot antwortet ausschließlich mit Ihren Inhalten und verbindet bei Unsicherheit mit Ihrem Team, das verhindert falsche Auskünfte."
+    },
+    {
+      "q": "Wie finde ich als Rauchfangkehrer Lehrlinge?",
+      "a": "Indem Sie den Beruf zeigen, wie er wirklich ist: Fotos vom Arbeitsalltag, ein kurzer Text von jemandem aus dem Team, ehrliche Angaben zu Arbeitszeiten und Ausbildung. Das gehört auf eine eigene Karriereseite. Stellen können Sie kostenlos auf zusage.at ausschreiben. Ergänzend helfen Kontakte zu Schulen in der Region und das Google-Profil mit aktuellen Bildern."
+    }
+  ],
+  "verwandt": ["/leistungen/ki-telefonassistent/", "/wissen/erreichbarkeit/", "/produkte/pipebot/", "/wissen/mitarbeiter-finden-online/", "/branchen/installateur/"],
+  "checks": ["chatbot-test"]
+}

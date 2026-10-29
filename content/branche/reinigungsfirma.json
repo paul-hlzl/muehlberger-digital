@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/reinigungsfirma/",
+  "title": "Reinigungsfirmen digital: Angebote, Kunden, Personal",
+  "description": "Für Reinigungsfirmen: Anfragen mit Fläche und Intervall sammeln, Angebote schneller schreiben, Büros und Hausverwaltungen finden und Personal online gewinnen.",
+  "h1": "Digitale Lösungen für Reinigungsfirmen",
+  "kicker": "Branche · Reinigung",
+  "lead": "Reinigungsfirmen verlieren viel Zeit, weil Anfragen ohne Fläche, Intervall und Besonderheiten kommen und jedes Angebot von Hand entsteht. Ein gut aufgebautes Anfrageformular, teilweise automatisierte Angebote, eine gezielte Suche nach Gewerbekunden und ein klarer Weg für Bewerbungen lösen die typischen Engpässe dieser Branche.",
+  "fakten": [
+    "Anfrageformular fragt Quadratmeter, Intervall und Art der Reinigung ab",
+    "Angebote aus Formularangaben teilweise automatisch vorbereiten",
+    "SightUp findet Büros, Praxen und Hausverwaltungen in der Nähe",
+    "Stellen kostenlos auf zusage.at ausschreiben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Angebote brauchen Zahlen: Fläche, Intervall, Besonderheiten",
+      "html": "<p>„Was kostet bei Ihnen eine Büroreinigung?“ Diese Frage lässt sich ohne Angaben nicht beantworten. Also folgt ein Rückruf, dann eine Besichtigung, dann ein Angebot, und bis dahin hat der Interessent drei andere Firmen gefragt.</p><p>Ein Anfrageformular, das gleich die richtigen Fragen stellt, verkürzt diesen Weg deutlich:</p><ul><li>Art der Reinigung: Unterhaltsreinigung, Fenster, Stiegenhaus, Grundreinigung, Bauendreinigung</li><li>ungefähre Fläche in Quadratmetern und Anzahl der Räume oder Stockwerke</li><li>gewünschtes Intervall, etwa täglich, wöchentlich, einmalig</li><li>Besonderheiten wie Teppichböden, Glasflächen, Sanitärbereiche, Zugang außerhalb der Geschäftszeiten</li><li>Möglichkeit, Fotos hochzuladen</li></ul><p>Bei vielen kleineren Aufträgen können Sie damit ohne Besichtigung ein erstes Angebot schicken.</p>"
+    },
+    {
+      "h2": "Angebote schneller schreiben",
+      "html": "<p>Wenn die Angaben strukturiert ankommen, liegt der nächste Schritt nahe: Ein Angebot wird aus Ihren Stundensätzen und Erfahrungswerten automatisch vorbereitet, und Sie prüfen es nur noch. Ihre Kalkulation bleibt dabei in Ihrer Hand, die Automatisierung übernimmt das Tippen.</p><p>Wie das grundsätzlich funktioniert, beschreibt der Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>. Umgesetzt wird so etwas von Pipeline AI Solutions, Beispiele zeigt die Seite <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline</a>. Der Preis hängt vom Aufwand ab und wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Vertrauen: Schlüssel, Versicherung, fixe Ansprechperson",
+      "html": "<p>Wer einer Reinigungsfirma den Büroschlüssel oder den Zugang zur Wohnung gibt, will wissen, wer da hineingeht. Auf der Website sollte deshalb stehen:</p><ul><li>wie die Schlüsselübergabe geregelt ist</li><li>ob ein fixes Team oder eine fixe Ansprechperson zuständig ist</li><li>ob eine Betriebshaftpflichtversicherung besteht</li><li>wie Sie mit Reklamationen umgehen</li></ul><p>Echte Fotos Ihres Teams wirken dabei stärker als Bilder aus Bildarchiven. Weitere Hinweise gibt der Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</p>"
+    },
+    {
+      "h2": "Gewerbekunden finden: Büros, Praxen, Hausverwaltungen",
+      "html": "<p>Laufende Verträge mit Gewerbekunden sind für Reinigungsfirmen planbarer als Einzelaufträge. Die Frage ist, welche Betriebe in Ihrem Einsatzgebiet überhaupt in Frage kommen.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in der Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor. Sie entscheiden, wen Sie kontaktieren, verschickt wird nichts automatisch. Das Gratis-Paket umfasst 3 Suchen pro Monat. Mehr zur Vorgangsweise auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Personal finden in einer Branche mit viel Wechsel",
+      "html": "<p>Gute Reinigungskräfte zu finden und zu halten, ist eine der größten Aufgaben der Branche. Viele Bewerberinnen und Bewerber suchen am Handy, manche sprechen besser eine andere Sprache als Deutsch. Eine Stellenanzeige, die Arbeitszeiten, Einsatzorte und Anfahrt klar beschreibt, bringt passendere Bewerbungen.</p><p>Tipps dazu gibt der Ratgeber <a href=\"/wissen/stellenanzeige-schreiben/\">Stellenanzeige schreiben</a>. Ausschreiben können Sie Stellen kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a>, der Bewerbungsplattform von Pipeline. Ob eine zweite Sprache auf Ihrer Karriereseite sinnvoll ist, klärt der Ratgeber <a href=\"/wissen/mehrsprachige-website/\">Mehrsprachige Website</a>.</p>"
+    },
+    {
+      "h2": "Womit Sie anfangen sollten",
+      "html": "<p>Wenn Sie noch keine Website haben, ist eine Starter-Website mit Leistungen, Einsatzgebiet, Anfrageformular und Karriereseite der wichtigste Schritt. Sie kostet ab 2.500 € einmalig, mit bis zu fünf Seiten. Automatisierte Angebote lohnen sich erst, wenn regelmäßig Anfragen hereinkommen.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, wo bei Ihnen am meisten Zeit liegen bleibt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Angaben braucht ein Anfrageformular für eine Reinigungsfirma?",
+      "a": "Wichtig sind die Art der Reinigung, die ungefähre Fläche, die Zahl der Räume oder Stockwerke, das gewünschte Intervall und Besonderheiten wie große Glasflächen oder Zugang außerhalb der Geschäftszeiten. Eine Fotomöglichkeit hilft zusätzlich. Mit diesen Angaben können Sie bei kleineren Aufträgen oft ohne Besichtigung ein erstes Angebot schicken und sparen sich mehrere Telefonate."
+    },
+    {
+      "q": "Lohnt sich die Automatisierung von Angeboten für eine kleine Reinigungsfirma?",
+      "a": "Das hängt von der Zahl der Anfragen ab. Wenn Sie jede Woche mehrere ähnliche Angebote schreiben, spart eine automatische Vorbereitung aus den Formularangaben spürbar Zeit, und Sie antworten schneller als andere. Kommen nur wenige Anfragen im Monat, reicht oft eine gute Angebotsvorlage. Das besprechen wir ehrlich im Erstgespräch."
+    },
+    {
+      "q": "Wie finde ich als Reinigungsfirma neue Gewerbekunden?",
+      "a": "Neben Empfehlungen hilft eine gezielte Suche nach Büros, Praxen, Geschäften oder Hausverwaltungen in Ihrem Einsatzgebiet. SightUp findet solche Firmen, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket mit 3 Suchen pro Monat reicht für einen ersten Test."
+    },
+    {
+      "q": "Was sollte auf der Website einer Reinigungsfirma stehen?",
+      "a": "Die angebotenen Reinigungsarten, das Einsatzgebiet, ein Anfrageformular mit den wichtigsten Angaben sowie Informationen, die Vertrauen schaffen: Schlüsselübergabe, fixe Ansprechperson, Versicherung und Umgang mit Reklamationen. Eine Karriereseite hilft bei der Personalsuche. Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer."
+    }
+  ],
+  "verwandt": ["/branchen/transportunternehmen/", "/wissen/angebote-automatisieren/", "/leistungen/neukundengewinnung-b2b/", "/wissen/karriereseite/", "/produkte/zusage/"],
+  "checks": ["neukunden-finden", "website-entwurf"]
+}

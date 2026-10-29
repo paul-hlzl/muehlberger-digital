@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/website-erstellen/bruck-an-der-leitha/",
+  "title": "Website erstellen lassen in Bruck an der Leitha",
+  "description": "Website erstellen lassen in Bruck an der Leitha: überzeugender Auftritt für Dienstleister mit Firmenkunden zwischen Wien und Burgenland. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Bruck an der Leitha",
+  "kicker": "Website · Bezirk Bruck an der Leitha",
+  "lead": "Betriebe im Bezirk Bruck an der Leitha arbeiten oft für Kunden aus mehreren Richtungen: Wien, Burgenland und das Umland bis zur slowakischen Grenze. Die Website muss deshalb rasch zeigen, wo Sie tätig sind und für wen. Mühlberger Digital vermittelt solche Auftritte ab 2.500 €, technisch umgesetzt von Pipeline AI Solutions.",
+  "fakten": [
+    "Lage zwischen Wien, Burgenland und Slowakei: Einsatzgebiet klar benennen",
+    "Für Dienstleister mit Firmenkunden zählt der erste seriöse Eindruck",
+    "Weinbaugebiet Carnuntum: Weingüter brauchen andere Inhalte als Gewerbebetriebe",
+    "Starter-Website ab 2.500 €, größere Projekte auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Einsatzgebiet statt Ortsangabe",
+      "html": "<p>Bruck an der Leitha liegt an der Grenze zum Burgenland, Wien ist nicht weit, die Slowakei ebenso. Viele Betriebe hier arbeiten deshalb nicht nur im eigenen Ort. Eine Website, die nur die Adresse nennt, lässt offen, ob Sie auch nach Schwechat, Neusiedl oder in den Wiener Süden fahren.</p><p>Besser: Ein kurzer Absatz oder eine kleine Liste, welche Gegenden Sie regelmäßig betreuen. Das hilft Interessenten und gleichzeitig Google, Sie richtig einzuordnen.</p>"
+    },
+    {
+      "h2": "Wenn Ihre Kunden Firmen sind",
+      "html": "<p>Für Dienstleister, die vor allem für Unternehmen arbeiten, ist die Website eine Art Vorstellungsgespräch. Typische Situationen:</p><ul><li>Eine <a href=\"/branchen/reinigungsfirma/\">Reinigungsfirma</a> bewirbt sich um die Betreuung von Büros und Gewerbeflächen. Der Facility-Manager des Kunden will Leistungsumfang, Erreichbarkeit und Versicherungsschutz sehen.</li><li>Ein <a href=\"/branchen/transportunternehmen/\">Transportunternehmen</a> wird von einem Logistiker als Subunternehmer geprüft. Fuhrpark, Fahrzeugklassen und ein direkter Ansprechpartner gehören auf die Startseite.</li><li>Ein Sicherheits- oder Hausbetreuungsdienst wird über eine Ausschreibung gefunden und braucht eine Seite, die zur Bewerbung passt.</li></ul>"
+    },
+    {
+      "h2": "Weingüter im Carnuntum brauchen einen anderen Ton",
+      "html": "<p>Neben dem Gewerbe prägt das Weinbaugebiet Carnuntum den Bezirk. Ein Weingut spricht Genießer an, nicht Einkäufer: Hier zählen Sortiment, Ab-Hof-Zeiten, Fotos aus dem Keller und die Geschichte der Familie. Anregungen dazu finden Sie auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a>.</p>"
+    },
+    {
+      "h2": "Website und aktive Kundensuche verbinden",
+      "html": "<p>Eine gute Website wartet, bis jemand kommt. Wer selbst neue Firmenkunden ansprechen will, kann das ergänzen: <a href=\"https://sightup.at/\">SightUp</a> findet passende Unternehmen in der Nähe, bewertet sie von 0 bis 100 und schreibt einen ersten Nachrichtenentwurf, verschickt aber nichts automatisch. Mehr dazu unter <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p><p>Ablauf und Leistungsumfang der Website selbst beschreibt die Seite <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, regionale Infos stehen unter <a href=\"/regionen/bezirk-bruck-an-der-leitha/\">Bezirk Bruck an der Leitha</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sollen wir alle Orte, in denen wir arbeiten, auf der Website aufzählen?",
+      "a": "Eine lange Liste von Ortsnamen wirkt schnell wie Werbung für Suchmaschinen und hilft Lesern wenig. Besser ist ein natürlicher Satz mit den wichtigsten Gegenden und, wenn sinnvoll, einer einfachen Karte. Wer in einzelnen Orten besonders aktiv ist, kann später eigene Seiten mit echtem Mehrwert ergänzen, zum Beispiel mit Referenzarbeiten aus genau dieser Gegend."
+    },
+    {
+      "q": "Was erwarten Firmenkunden von der Website eines Dienstleisters?",
+      "a": "Vor allem Klarheit: welche Leistungen Sie anbieten, in welchem Umfang, wer zuständig ist und wie schnell Sie reagieren. Zertifikate, Versicherungen oder Mitgliedschaften gehören dazu, wenn sie vorhanden sind. Lange Werbetexte werden selten gelesen. Ein klarer Ansprechpartner mit Foto, Telefon und E-Mail schafft oft mehr Vertrauen als jede Aufzählung von Vorteilen."
+    },
+    {
+      "q": "Ist SightUp ein Ersatz für die Website?",
+      "a": "Nein. SightUp hilft dabei, passende Firmen in der Umgebung zu finden und eine erste Nachricht vorzubereiten. Wer daraufhin neugierig wird, schaut sich in aller Regel zuerst Ihre Website an. Ohne überzeugenden Auftritt verpufft ein Teil der Kontaktaufnahmen. Beides ergänzt sich also. Das Gratis-Paket mit drei Suchen im Monat reicht, um es auszuprobieren."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-bruck-an-der-leitha/",
+    "/leistungen/neukundengewinnung-b2b/",
+    "/branchen/reinigungsfirma/",
+    "/branchen/weingut/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "neukunden-finden"
+  ]
+}

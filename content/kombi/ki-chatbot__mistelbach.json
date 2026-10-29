@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/mistelbach/",
+  "title": "KI-Chatbot für Geschäfte in Mistelbach",
+  "description": "Lagernd, Gutscheine, Samstag offen? Wie ein KI-Chatbot Fachgeschäften und Händlern in Mistelbach Kundenfragen beantwortet und wo seine Grenzen liegen.",
+  "h1": "KI-Chatbot für die Website in Mistelbach",
+  "kicker": "KI-Chatbot · Bezirk Mistelbach",
+  "lead": "Für Fachgeschäfte und Händler in Mistelbach beantwortet ein KI-Chatbot die Fragen, die Kunden vor dem Weg ins Geschäft stellen: Öffnungszeiten, Marken, Service, Gutscheine. Pipebot nutzt dafür nur Ihre Website, arbeitet rund um die Uhr und kostet 19 € im Monat. Einen Lagerstand in Echtzeit kennt er allerdings nicht.",
+  "fakten": [
+    "Mistelbach: Bezirkshauptstadt im Weinviertel mit Handel für das Umland",
+    "Typische Fragen: Öffnungszeiten, Marken, Reparaturen, Gutscheine",
+    "Kein Echtzeit-Lagerstand, nur das, was auf der Website steht",
+    "19 € pro Monat, erste 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Erst online fragen, dann ins Geschäft fahren",
+      "html": "<p>Mistelbach ist Bezirkshauptstadt im <a href=\"/regionen/bezirk-mistelbach/\">Bezirk Mistelbach</a>, und viele Menschen aus den umliegenden Weinviertler Gemeinden kaufen hier ein. Bevor sie sich ins Auto setzen, schauen sie auf die Website. Finden sie dort keine Antwort, rufen sie an oder bestellen gleich im Internet.</p><p>Ein Chatbot hilft, diese Kunden ins Geschäft zu holen: Er beantwortet die Frage sofort und gibt einen guten Grund, vorbeizukommen.</p>"
+    },
+    {
+      "h2": "Drei Geschäfte, drei Fragenlisten",
+      "html": "<ul><li><strong>Fahrradgeschäft:</strong> „Kann ich ein E-Bike probefahren?“, „Wie lange dauert ein Service?“, „Reparieren Sie auch Räder, die ich woanders gekauft habe?“</li><li><strong>Blumenhandlung:</strong> „Machen Sie Hochzeitsfloristik, und wann sollte man sich melden?“, „Liefern Sie in die Nachbargemeinden?“</li><li><strong>Elektrofachhandel:</strong> „Gibt es einen Reparaturservice?“, „Führen Sie diese Marke?“</li></ul><p>Was diese Geschäfte verbindet: Die Antworten stehen oft schon im Kopf der Inhaber, aber nicht auf der Website. Genau das ist der erste Schritt. Mehr dazu auf der Seite für den <a href=\"/branchen/einzelhandel/\">Einzelhandel</a>.</p>"
+    },
+    {
+      "h2": "Die Frage nach dem Lagerstand",
+      "html": "<p>Die häufigste Frage im Handel kann Pipebot nur eingeschränkt beantworten: „Haben Sie das lagernd?“ Der Bot kennt Ihr Warenwirtschaftssystem nicht, sondern nur Ihre Website. Er kann sagen, welche Marken und Produktgruppen Sie führen, und auf eine Reservierung per Telefon verweisen.</p><p>Wer Lagerbestände online zeigen will, braucht einen Shop. Was dazu gehört, steht auf der Seite <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>.</p>"
+    },
+    {
+      "h2": "Gutscheine, Aktionen und Feiertage",
+      "html": "<p>Vor Weihnachten und Muttertag fragen viele nach Gutscheinen, Sonderöffnungszeiten und Aktionen. Steht das auf Ihrer Website, beantwortet der Bot es zuverlässig. Wie Sie Gutscheine online anbieten, beschreibt der Ratgeber <a href=\"/wissen/gutscheine-online/\">Gutscheine online verkaufen</a>.</p><p>Ob der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> Ihre Kundenfragen schon mit der heutigen Website beantworten kann, prüft der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot sagen, ob ein Produkt vorrätig ist?",
+      "a": "Nur eingeschränkt. Pipebot hat keinen Zugriff auf Ihr Lager oder Ihre Kasse, er antwortet mit den Inhalten Ihrer Website. Er kann sagen, welche Marken und Produktgruppen Sie führen und wie man ein bestimmtes Produkt reservieren oder bestellen kann. Für einen tagesaktuellen Lagerstand braucht es einen Onlineshop oder eine eigene Anbindung, die im Erstgespräch besprochen werden kann."
+    },
+    {
+      "q": "Was ist, wenn ich eine Aktion nur für eine Woche habe?",
+      "a": "Dann schreiben Sie die Aktion mit Zeitraum auf die Website und nehmen sie danach wieder herunter. Pipebot gibt nur weiter, was dort steht. Ein fester Bereich für Aktuelles hat sich bewährt, weil Sie ihn schnell ändern können. Steht kein Enddatum dabei, könnte der Bot die Aktion auch später noch nennen. Ein Datum schützt vor Missverständnissen."
+    },
+    {
+      "q": "Brauche ich einen Onlineshop, um einen Chatbot zu nutzen?",
+      "a": "Nein. Pipebot funktioniert auf jeder Website, auch auf einer einfachen Seite mit Öffnungszeiten, Sortiment und Kontakt. Gerade Geschäfte ohne Shop profitieren, weil der Bot Fragen beantwortet, die sonst am Telefon landen. Ein Onlineshop ist erst dann sinnvoll, wenn Sie wirklich online verkaufen wollen. Das ist eine eigene Entscheidung mit eigenem Aufwand."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-mistelbach/",
+    "/branchen/einzelhandel/",
+    "/branchen/blumen/",
+    "/wissen/gutscheine-online/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

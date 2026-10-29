@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-schulung/",
+  "title": "Mitarbeiter für KI fit machen: Plan für KMU",
+  "description": "Mitarbeiter für KI fit machen, ohne Theorie-Marathon: Regeln, kurze Übungen an echten Aufgaben, Rollen im Team und was der EU AI Act dazu verlangt.",
+  "h1": "Mitarbeiter für KI fit machen: So gelingt es im kleinen Betrieb",
+  "kicker": "Ratgeber · KI im Team",
+  "lead": "Mitarbeiter werden am schnellsten fit für KI mit kurzen, praxisnahen Einheiten an echten Aufgaben aus dem eigenen Betrieb, einer Seite mit klaren Regeln und einer Ansprechperson für Fragen. Theorie-Tage bringen wenig. Der EU AI Act verlangt von Betrieben, die KI einsetzen, ohnehin ausreichende KI-Kompetenz der Beschäftigten.",
+  "fakten": [
+    "Üben an echten Aufgaben statt allgemeiner Vorträge",
+    "Eine Seite mit Regeln vor dem Start: Daten, Kontrolle, Werkzeuge",
+    "Der EU AI Act fordert KI-Kompetenz bei Personen, die KI im Betrieb nutzen",
+    "Eine Ansprechperson im Team sammelt Fragen und gute Vorlagen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Schulung sich auch im Kleinbetrieb lohnt",
+      "html": "<p>In vielen Betrieben nutzen Mitarbeitende KI längst, nur jeder auf eigene Faust: am privaten Handy, mit Gratis-Konten, ohne Regeln. Das Ergebnis reicht von großartig bis riskant. Eine gemeinsame Einführung sorgt dafür, dass alle die Vorteile nutzen und dieselben Fehler vermeiden.</p><p>Dazu kommt die rechtliche Seite: Der <a href=\"/wissen/eu-ai-act/\">EU AI Act</a> verlangt von Unternehmen, die KI einsetzen, dass ihr Personal über ausreichende KI-Kompetenz verfügt, angepasst an Aufgabe und Risiko. Für einen kleinen Betrieb heißt das in der Regel keine Zertifikate, sondern nachvollziehbar zu zeigen, dass die Leute wissen, was sie tun. Aktuelle Informationen dazu bietet die <a href=\"https://www.wko.at/\">WKO</a>.</p>"
+    },
+    {
+      "h2": "Vor der Schulung: Regeln auf einer Seite",
+      "html": "<p>Bevor jemand übt, sollte klar sein, was erlaubt ist. Eine kurze KI-Richtlinie beantwortet fünf Fragen:</p><ol> <li><strong>Welche Werkzeuge</strong> sind freigegeben, mit welchem Konto?</li><li><strong>Welche Daten</strong> dürfen nicht hinein? Etwa Gesundheitsdaten, Gehälter, Passwörter, vollständige Kundenlisten.</li><li><strong>Wer prüft</strong> Ergebnisse, bevor sie an Kunden gehen?</li><li><strong>Wofür</strong> wird KI nicht verwendet? Zum Beispiel Entscheidungen über Bewerber.</li><li><strong>Wen</strong> fragt man bei Unsicherheit?</li></ol> <p>Hängen Sie die Seite aus oder legen Sie sie in den gemeinsamen Ordner. Welche Risiken dahinterstehen, erklärt der Ratgeber <a href=\"/wissen/ki-grenzen/\">Grenzen und Risiken von KI</a>.</p>"
+    },
+    {
+      "h2": "Der Schulungsplan in vier Schritten",
+      "html": "<ol><li><strong>Grundlagen (ca. eine Stunde):</strong> Was ist ein Sprachmodell, warum erfindet es manchmal Dinge, wie schreibt man eine gute Anweisung? Live vorgeführt an einem Beispiel aus dem Betrieb.</li><li><strong>Anwendungsfälle je Rolle:</strong> Jede Person sucht sich zwei Aufgaben aus ihrem Alltag, die sie mit KI probieren möchte.</li><li><strong>Übungsphase (zwei Wochen):</strong> Ausprobieren im echten Arbeitsalltag, Ergebnisse und gute Anweisungen sammeln.</li><li><strong>Austausch (eine halbe Stunde):</strong> Was hat funktioniert, was nicht? Die besten Vorlagen werden für alle gespeichert.</li></ol> <p>Dieser Rhythmus lässt sich wiederholen, wenn neue Werkzeuge dazukommen. Er passt in den Alltag und zeigt nach wenigen Wochen, wo KI wirklich hilft.</p>"
+    },
+    {
+      "h2": "Was welche Rolle im Betrieb lernen sollte",
+      "html": "<ul><li><strong>Büro und Verwaltung:</strong> E-Mails entwerfen, Texte zusammenfassen, Protokolle prüfen, Vorlagen erstellen. Mehr dazu unter <a href=\"/wissen/ki-im-buero/\">KI im Büroalltag</a>.</li><li><strong>Werkstatt und Baustelle:</strong> Sprachnotizen in Berichte verwandeln, Fotos beschreiben lassen, Checklisten abrufen.</li><li><strong>Verkauf und Beratung:</strong> Angebotstexte, Gesprächsvorbereitung, Antworten auf häufige Kundenfragen.</li><li><strong>Chefin oder Chef:</strong> Überblick über Möglichkeiten und Grenzen, Regeln festlegen, Ergebnisse stichprobenartig prüfen.</li></ul> <p>Typische Situation: In einem Malerbetrieb mit sechs Leuten lernt der Vorarbeiter, Baustellenberichte per Sprachnotiz zu diktieren und von der KI ordnen zu lassen. Die Bürokraft lernt, daraus Rechnungstexte vorzubereiten. Beide brauchen dafür eine andere Einführung.</p>"
+    },
+    {
+      "h2": "Ängste und Skepsis ernst nehmen",
+      "html": "<p>Nicht alle freuen sich über KI. Manche fürchten um ihren Arbeitsplatz, andere halten alles für Spielerei, wieder andere trauen sich nicht, Fehler zu machen. Alle drei Haltungen verdienen eine ehrliche Antwort.</p><ul> <li>Sagen Sie klar, wofür KI im Betrieb eingesetzt wird und wofür nicht.</li><li>Beginnen Sie mit lästigen Aufgaben, die niemand gern macht, etwa Protokolle.</li><li>Lassen Sie Skeptiker vergleichen: Ihr eigenes Ergebnis gegen das der KI.</li><li>Fehler beim Üben sind erwünscht, solange nichts ungeprüft rausgeht.</li></ul> <p>Wer erlebt, dass KI ihm eine ungeliebte Aufgabe abnimmt, wird meist vom Skeptiker zum Fürsprecher.</p>"
+    },
+    {
+      "h2": "Fortschritt sehen und dranbleiben",
+      "html": "<p>Sie brauchen keine aufwendigen Kennzahlen. Drei einfache Fragen reichen, alle paar Wochen gestellt: Welche Aufgabe erledigen Sie jetzt mit KI? Wie viel Zeit spart das ungefähr? Wo hat die KI Fehler gemacht?</p><p>Halten Sie fest, wer an welcher Einführung teilgenommen hat. Das ist praktisch für neue Mitarbeitende und hilft zu zeigen, dass der Betrieb sich um KI-Kompetenz kümmert.</p><p>Wenn Sie Unterstützung bei Auswahl und Einführung möchten, ist die <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a> der passende Rahmen. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir Ihnen live, wie KI mit Ihren eigenen Beispielen arbeitet, und sagen ehrlich, wo es sich nicht lohnt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist KI-Schulung für Mitarbeiter Pflicht?",
+      "a": "Der EU AI Act verpflichtet Unternehmen, die KI-Systeme einsetzen, Maßnahmen zu treffen, damit ihr Personal über ausreichende KI-Kompetenz verfügt. Wie umfangreich das sein muss, hängt von Aufgabe und Risiko ab. Eine bestimmte Kursform oder ein Zertifikat ist nicht vorgeschrieben. Für Einzelheiten wenden Sie sich am besten an die WKO oder eine fachkundige Beratung."
+    },
+    {
+      "q": "Wie lange dauert eine KI-Einführung für ein kleines Team?",
+      "a": "Für die Grundlagen reicht meist eine Stunde, danach folgen etwa zwei Wochen Übung im Alltag und eine kurze Austauschrunde. In Summe kostet das jede Person nur wenige Stunden, verteilt über einen Monat. Wichtiger als die Dauer ist, dass an echten Aufgaben geübt wird und die Ergebnisse gemeinsam besprochen werden."
+    },
+    {
+      "q": "Brauche ich dafür einen externen Trainer?",
+      "a": "Nicht unbedingt. Wenn eine Person im Betrieb sich gut auskennt und Freude daran hat, kann sie die Einführung übernehmen. Externe Unterstützung lohnt sich, wenn niemand Zeit hat, wenn rechtliche Fragen geklärt werden müssen oder wenn KI fest in Abläufe eingebunden werden soll, etwa über Chatbots oder Automatisierungen."
+    },
+    {
+      "q": "Was gehört in eine KI-Richtlinie für den Betrieb?",
+      "a": "Eine KI-Richtlinie legt fest, welche Werkzeuge mit welchem Konto erlaubt sind, welche Daten nicht eingegeben werden dürfen, wer Ergebnisse prüft, wofür KI nicht verwendet wird und wer bei Fragen hilft. Für einen kleinen Betrieb reicht eine Seite. Wichtig ist, dass alle sie kennen und sie bei neuen Werkzeugen angepasst wird."
+    },
+    {
+      "q": "Wie gehe ich mit Mitarbeitern um, die KI ablehnen?",
+      "a": "Hören Sie zu, warum. Oft stecken Sorge um den Arbeitsplatz oder schlechte Erfahrungen dahinter. Zeigen Sie konkret, welche ungeliebte Aufgabe die KI abnehmen soll, und lassen Sie die Person selbst vergleichen. Zwang bringt wenig. Wer sieht, dass KI ein Werkzeug ist und keine Kontrolle über die eigene Arbeit, ist meist offener."
+    }
+  ],
+  "verwandt": [
+    "/wissen/eu-ai-act/",
+    "/wissen/ki-im-buero/",
+    "/wissen/chatgpt-im-betrieb/",
+    "/leistungen/digitalisierungsberatung/",
+    "/wissen/ki-grenzen/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

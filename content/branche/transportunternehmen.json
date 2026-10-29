@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/transportunternehmen/",
+  "title": "Digitale Lösungen für Transportunternehmen & Frächter",
+  "description": "Ladungsanfragen sortieren, Fahrer finden, Firmenkunden gewinnen: Wie Transportunternehmen Disposition und Vertrieb mit digitalen Werkzeugen entlasten.",
+  "h1": "Digitale Lösungen für Transportunternehmen",
+  "kicker": "Branche · Transport & Logistik",
+  "lead": "Transportunternehmen haben drei wiederkehrende Engpässe: Fahrer, eine Disposition voller unvollständiger Anfragen und die Abhängigkeit von wenigen großen Auftraggebern. Digitale Werkzeuge helfen, eingehende Ladungsanfragen automatisch zu ordnen, Bewerber besser zu erreichen und gezielt neue Firmenkunden in der Region anzusprechen.",
+  "fakten": [
+    "Ladungsanfragen aus E-Mails automatisch auslesen und strukturiert ablegen",
+    "Lkw-Fahrer über Karriereseite und kostenlose Stellen auf zusage.at ansprechen",
+    "SightUp findet Firmenkunden in der Nähe, Gratis-Paket mit 3 Suchen pro Monat",
+    "Automatisierungen sind individuelle Projekte, Preis nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Disposition ertrinkt in unvollständigen Anfragen",
+      "html": "<p>Eine typische Anfrage per E-Mail: „Brauchen nächste Woche einen Transport nach Linz, bitte um Preis.“ Es fehlen Gewicht, Maße, Anzahl der Paletten, Ladezeitfenster, ob ein Hebebühnen-Lkw nötig ist. Die Disponentin telefoniert nach, und in der Zwischenzeit kommen drei weitere Anfragen.</p><p>Zwei Hebel helfen. Erstens ein Anfrageformular auf der Website, das genau diese Angaben abfragt. Zweitens eine <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>, die eingehende E-Mails liest, die Angaben herauszieht, fehlende Punkte markiert und alles in eine Liste oder Ihr System überträgt. Wie das in kleinen Betrieben aussieht, beschreibt der Ratgeber <a href=\"/wissen/e-mails-sortieren/\">E-Mails sortieren</a>.</p>"
+    },
+    {
+      "h2": "„Wo ist meine Lieferung?“ – die Frage, die jeden Tag kommt",
+      "html": "<p>Viele Anrufe im Büro drehen sich nicht um neue Aufträge, sondern um laufende: Wann kommt der Lkw, ist die Ware schon geladen, kann der Fahrer zehn Minuten früher kommen? Jeder dieser Anrufe unterbricht die Disposition.</p><p>Wie weit sich das automatisieren lässt, hängt davon ab, welche Daten Sie heute schon haben, etwa aus einem Flottensystem. Manchmal reicht eine automatische Nachricht an den Empfänger, sobald der Fahrer losfährt. Manchmal braucht es eine kleine Web-App. Das ist ein individuelles Projekt, das wir im Erstgespräch gemeinsam einschätzen, bevor irgendetwas kostet.</p>"
+    },
+    {
+      "h2": "Fahrer finden: Der Arbeitsplatz Lkw braucht ein Gesicht",
+      "html": "<p>Fahrer mit dem passenden Führerschein sind für viele Frächter der größte Engpass. Bewerber wollen wissen, was sie erwartet: Nahverkehr oder Fernverkehr, jeden Abend daheim oder Wochentouren, welche Fahrzeuge, wie die Dienstzeiten aussehen.</p><ul><li>Eine eigene Karriereseite mit Fotos der Flotte und ehrlichen Angaben zu Touren.</li><li>Stellen kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben, der Bewerbungsplattform von Pipeline.</li><li>Eine kurze, klare Stellenanzeige statt einer Liste von Anforderungen.</li></ul><p>Wie man eine Anzeige formuliert, die gelesen wird, erklärt der Ratgeber <a href=\"/wissen/stellenanzeige-schreiben/\">Stellenanzeige schreiben</a>.</p>"
+    },
+    {
+      "h2": "Weniger abhängig von einem Großkunden",
+      "html": "<p>Viele kleinere Transportunternehmen fahren zu einem großen Teil für ein, zwei Auftraggeber. Fällt einer weg, wird es eng. Neue Firmenkunden in der Region, etwa Produktionsbetriebe, Großhändler oder Baustoffhändler, finden Sie selten über Google, sondern über gezielte Ansprache.</p><p><a href=\"https://sightup.at/\">SightUp</a> sucht passende Firmen in Ihrer Umgebung, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst drei Suchen pro Monat. Mehr zum Vorgehen unter <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Kundenkontakte ordnen",
+      "html": "<p>Wer welche Strecke regelmäßig braucht, wer nur saisonal anfragt, welche Angebote offen sind: In vielen Frächterbetrieben steckt das im Kopf des Chefs oder in der E-Mail-Ablage. Eine einfache Kundenverwaltung macht das sichtbar und hilft, Angebote nachzufassen. Einen Überblick gibt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>.</p><p>Ein praktischer Nebeneffekt: Leerfahrten werden sichtbar. Wenn Sie wissen, welche Kunden regelmäßig in welche Richtung liefern, können Sie Rückfrachten gezielter anbieten.</p>"
+    },
+    {
+      "h2": "Wann sich das nicht rechnet",
+      "html": "<p>Ein Betrieb mit zwei Lkw und festen Touren für einen Auftraggeber braucht keine Automatisierung der Disposition. Da reicht eine saubere Website, die zeigt, was Sie fahren, und eine Karriereseite. Die Automatisierung lohnt sich ab dem Punkt, an dem jemand einen großen Teil seiner Zeit mit Abtippen und Nachfragen verbringt.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir Ihnen live, wie eine automatische Auslesung mit Ihren eigenen Anfragen aussehen würde.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann KI Ladungsanfragen aus E-Mails zuverlässig auslesen?",
+      "a": "Für gut lesbare E-Mails und Anhänge funktioniert das in der Regel gut: Abholort, Zielort, Gewicht, Paletten und Termin werden herausgezogen und strukturiert abgelegt. Fehlende Angaben werden markiert, damit jemand gezielt nachfragen kann. Eine menschliche Kontrolle sollte bleiben, gerade bei Preisen und Sonderwünschen. Wie gut es mit Ihren Anfragen klappt, zeigen wir im Erstgespräch live an echten Beispielen."
+    },
+    {
+      "q": "Was kostet eine Automatisierung für die Disposition?",
+      "a": "Das hängt davon ab, wie viele Anfragen kommen, in welcher Form und wohin die Daten danach sollen, etwa in eine Tabelle oder eine bestehende Software. Automatisierungen sind individuelle Projekte von Pipeline AI Solutions, der Preis wird nach dem Erstgespräch schriftlich angeboten. Bei sehr wenigen Anfragen pro Woche raten wir ehrlich davon ab, weil sich der Aufwand nicht rechnet."
+    },
+    {
+      "q": "Wie finde ich als Frächter neue Fahrer?",
+      "a": "Indem Sie zeigen, wie der Arbeitsplatz wirklich aussieht: Fotos der Fahrzeuge, ehrliche Angaben zu Touren, Dienstzeiten und Heimfahrten, ein Ansprechpartner mit Telefonnummer. Das gehört auf eine eigene Karriereseite. Stellen können Sie kostenlos auf zusage.at ausschreiben. Viele Bewerber lesen am Handy, deshalb sollte die Bewerbung ohne lange Formulare und ohne Lebenslauf-Pflicht möglich sein."
+    },
+    {
+      "q": "Darf ich mit SightUp gefundene Firmen anrufen oder anschreiben?",
+      "a": "SightUp schlägt Firmen und eine erste Nachricht vor, verschickt aber nichts automatisch. Für Werbung per E-Mail und Telefon gelten in Österreich Regeln, die Sie beachten müssen. Ein persönlicher Anruf mit konkretem Bezug oder ein Besuch ist oft der bessere Weg als eine Massenmail. Für die rechtliche Einschätzung im Einzelfall fragen Sie die Wirtschaftskammer oder einen Anwalt."
+    }
+  ],
+  "verwandt": ["/leistungen/ki-automatisierung/", "/wissen/e-mails-sortieren/", "/wissen/stellenanzeige-schreiben/", "/leistungen/neukundengewinnung-b2b/", "/wissen/kaltakquise-regeln/"],
+  "checks": ["neukunden-finden"]
+}

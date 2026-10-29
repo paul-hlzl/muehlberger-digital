@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/chatgpt-empfiehlt-firmen/",
+  "title": "Wie ChatGPT Firmen empfiehlt und auswählt",
+  "description": "Wie ChatGPT Firmen empfiehlt: welche Quellen das System nutzt, warum manche Betriebe genannt werden und andere nicht und was Betriebe daraus lernen können.",
+  "h1": "Wie ChatGPT Firmen empfiehlt",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "ChatGPT empfiehlt Firmen, indem es Informationen aus seinem Trainingswissen und, je nach Frage, aus einer aktuellen Websuche zusammenführt. Genannt werden meist Betriebe, deren Leistung, Ort und Ruf aus mehreren Quellen klar und übereinstimmend hervorgehen. Eine feste Rangliste oder bezahlte Plätze gibt es dabei nicht.",
+  "fakten": [
+    "ChatGPT kombiniert Trainingswissen mit einer Websuche, wenn die Frage aktuelle Infos braucht",
+    "Bei Suchen nach Betrieben werden oft nur wenige Namen genannt",
+    "Klare Fakten, übereinstimmende Quellen und Bewertungen erhöhen die Chance",
+    "Antworten schwanken je nach Formulierung, Zeitpunkt und Version",
+    "Fehler kommen vor, deshalb lohnt es sich, die eigenen Daten überall richtig zu halten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was passiert, wenn jemand nach einer Firma fragt",
+      "html": "<p>Angenommen, jemand tippt in ChatGPT: „Ich suche einen Elektriker im Bezirk Zwettl, der auch Photovoltaik macht.“ Das System erkennt, dass es um einen aktuellen, örtlichen Anbieter geht. In solchen Fällen startet es häufig eine Websuche, liest einige gefundene Seiten und schreibt daraus eine Antwort, oft mit Quellenangaben.</p> <p>Bei allgemeineren Fragen, etwa „Worauf achte ich bei einem Elektriker?“, antwortet es eher aus seinem Trainingswissen. Für Ihren Betrieb heißt das: Für Empfehlungen sind vor allem die Inhalte entscheidend, die aktuell im Web gefunden werden, also Ihre Website, Ihr Google-Profil, Verzeichnisse und Erwähnungen.</p>"
+    },
+    {
+      "h2": "Welche Signale eine Rolle spielen",
+      "html": "<p>OpenAI legt nicht im Detail offen, wie Empfehlungen zustande kommen. Aus der Art, wie solche Systeme arbeiten, lassen sich aber einige Muster ableiten:</p> <ul> <li><strong>Passgenauigkeit:</strong> Steht auf Ihrer Website klar, dass Sie genau diese Leistung in genau dieser Region anbieten?</li> <li><strong>Übereinstimmung:</strong> Sagen Website, Google-Profil, Herold und andere Quellen dasselbe über Sie?</li> <li><strong>Ruf:</strong> Bewertungen und deren Inhalt, Erwähnungen in Medien, bei Partnern oder Vereinen.</li> <li><strong>Aussagekraft:</strong> Konkrete Angaben wie Spezialgebiete, Erfahrung, Referenzen und Preisrahmen sind leichter zu übernehmen als Werbefloskeln.</li> <li><strong>Erreichbarkeit für Crawler:</strong> Ist Ihre Website technisch lesbar und nicht für KI-Suchdienste gesperrt?</li> </ul>"
+    },
+    {
+      "h2": "Warum manche Betriebe genannt werden und andere nicht",
+      "html": "<p>Ein typisches Bild: Zwei Tischlereien in derselben Gegend, beide mit guter Arbeit. Die eine hat eine Website mit eigenen Seiten für Küchen, Stiegen und Möbel, viele Bewertungen und wird auf der Seite eines Küchenherstellers als Partner gelistet. Die andere hat eine Startseite mit „Wir machen alles aus Holz“ und eine alte Telefonnummer im Verzeichnis. Fragt jemand nach Küchen nach Maß, ist die erste deutlich wahrscheinlicher in der Antwort.</p> <p>Die Größe des Betriebs ist dabei weniger entscheidend als die Klarheit. Ein kleiner, spezialisierter Betrieb mit präzisen Angaben kann neben großen Anbietern auftauchen, wenn er genau zur Frage passt.</p>"
+    },
+    {
+      "h2": "Wenn ChatGPT Falsches über Ihren Betrieb sagt",
+      "html": "<p>Sprachmodelle können sich irren. Sie nennen manchmal veraltete Öffnungszeiten, verwechseln ähnliche Firmennamen oder erfinden Details, was Fachleute <a href=\"/glossar/halluzination/\">Halluzination</a> nennen. Bei Betrieben passiert das vor allem, wenn im Netz widersprüchliche oder alte Daten stehen.</p> <ul> <li>Korrigieren Sie die Quelle, nicht die Antwort: Website, Google-Profil, Verzeichnisse.</li> <li>Halten Sie Ihre <a href=\"/wissen/nap-daten/\">Firmendaten einheitlich</a>.</li> <li>Stellen Sie die richtigen Fakten deutlich als Text auf Ihre Website.</li> <li>Prüfen Sie nach einigen Wochen erneut. Systeme mit Websuche übernehmen Änderungen eher als reines Trainingswissen.</li> </ul>"
+    },
+    {
+      "h2": "Was Sie konkret beeinflussen können",
+      "html": "<ol> <li><strong>Eindeutige Leistungsseiten:</strong> Jede Leistung mit Ort, Zielgruppe und Besonderheiten.</li> <li><strong>Direkte Antworten:</strong> Jede Seite beantwortet am Anfang die wichtigste Frage in zwei, drei Sätzen.</li> <li><strong>Häufige Fragen als Text</strong>, so formuliert, wie Kunden fragen.</li> <li><strong>Bewertungen</strong> regelmäßig sammeln, mit konkreten Inhalten statt nur Sternen.</li> <li><strong>Erwähnungen</strong> bei Partnern, Lieferanten, Vereinen, Gemeinde und regionalen Medien. Mehr dazu unter <a href=\"/wissen/markenerwaehnungen/\">Erwähnungen im Netz</a>.</li> <li><strong>Technischer Zugang:</strong> KI-Suchdienste nicht aussperren, siehe <a href=\"/wissen/ki-crawler/\">KI-Crawler zulassen oder sperren</a>.</li> </ol>"
+    },
+    {
+      "h2": "Was Sie nicht beeinflussen können",
+      "html": "<p>Ehrlich gesagt: einiges. Sie können nicht festlegen, welche Formulierung jemand verwendet, welche Version von ChatGPT läuft oder ob das System bei einer Frage überhaupt sucht. Dieselbe Frage kann am Vormittag andere Namen liefern als am Abend. Dazu kommt, dass Nutzer ihre Fragen sehr unterschiedlich stellen, von „Installateur in der Nähe“ bis „Wer tauscht in Gföhl kurzfristig eine Gastherme?“.</p> <p>Deshalb ist es wenig sinnvoll, einzelne Antworten zu bewerten. Aussagekräftiger ist, viele typische Fragen regelmäßig zu stellen und zu beobachten, wie oft Ihr Betrieb vorkommt. Wie das geht, steht unter <a href=\"/wissen/ki-sichtbarkeit-messen/\">KI-Sichtbarkeit messen</a>.</p>"
+    },
+    {
+      "h2": "So finden Sie heraus, wo Sie stehen",
+      "html": "<p>Ein erster Test kostet nur ein paar Minuten: Fragen Sie ChatGPT nach Ihrer Leistung in Ihrer Region, wie es ein Kunde tun würde, und danach direkt nach Ihrem Betrieb. Notieren Sie, wer genannt wird und ob die Angaben über Sie stimmen.</p> <p>Systematischer geht das mit dem <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>, der zeigt, wie oft Google und KI-Suchen Ihren Betrieb nennen, mit Bericht innerhalb von 24 Stunden. Wenn Lücken sichtbar werden, hilft die Leistung <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen</a>, sie gezielt zu schließen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woher hat ChatGPT seine Informationen über Firmen?",
+      "a": "ChatGPT nutzt zwei Quellen: Wissen aus den Texten, mit denen das Modell trainiert wurde, und bei vielen Fragen eine aktuelle Websuche. Bei der Suche nach konkreten Betrieben in einer Region spielt die Websuche meist die größere Rolle. Dabei werden Inhalte von Firmenwebsites, Verzeichnissen, Bewertungsplattformen, Medien und anderen öffentlich zugänglichen Seiten gelesen und zu einer Antwort zusammengefasst."
+    },
+    {
+      "q": "Kann ich bei ChatGPT eine Empfehlung für meinen Betrieb kaufen?",
+      "a": "Nein. Empfehlungen in den Antworten lassen sich nicht direkt kaufen, und niemand kann garantieren, dass ChatGPT einen bestimmten Betrieb nennt. Die Auswahl ergibt sich aus den Inhalten, die das System findet und für passend hält. Sie können die Chancen verbessern, indem Ihre Website klar beschreibt, was Sie wo anbieten, und andere Quellen das übereinstimmend bestätigen."
+    },
+    {
+      "q": "Warum nennt ChatGPT meine Konkurrenz und nicht mich?",
+      "a": "Häufige Gründe sind, dass die Website des Mitbewerbers die gesuchte Leistung und Region klarer beschreibt, dass er mehr Bewertungen oder Erwähnungen hat oder dass Ihre eigenen Daten im Netz widersprüchlich sind. Manchmal ist Ihre Website auch technisch schwer lesbar oder für KI-Suchdienste gesperrt. Ein Vergleich beider Websites aus Kundensicht zeigt oft schnell, wo die Unterschiede liegen."
+    },
+    {
+      "q": "Wie oft ändern sich die Empfehlungen von ChatGPT?",
+      "a": "Die Antworten können sich bei jeder Frage ändern, weil sie jedes Mal neu formuliert werden, je nach Wortlaut, Zeitpunkt, Gesprächsverlauf und Version des Systems. Bei Fragen mit Websuche fließen zudem neue Inhalte aus dem Netz ein. Deshalb ist es sinnvoller, regelmäßig viele typische Fragen zu stellen und die Häufigkeit Ihrer Nennungen zu beobachten, als einzelne Antworten zu bewerten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/was-ist-geo/",
+    "/wissen/in-chatgpt-gefunden-werden/",
+    "/wissen/ki-sichtbarkeit-messen/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

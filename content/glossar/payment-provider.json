@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/payment-provider/",
+  "title": "Payment-Provider: Zahlungsdienst im Shop erklärt",
+  "description": "Payment-Provider einfach erklärt: Wie Zahlungsdienstleister Karte, PayPal und Co. in Ihren Onlineshop bringen und worauf Sie bei der Auswahl achten.",
+  "h1": "Payment-Provider – Zahlungsdienstleister",
+  "kicker": "Glossar · E-Commerce",
+  "lead": "Ein Payment-Provider ist ein Zahlungsdienstleister, der Onlinezahlungen für Ihren Shop oder Ihre Website abwickelt, etwa per Kreditkarte, Debitkarte, PayPal, Apple Pay oder Online-Überweisung. Er prüft Zahlungen, leitet das Geld weiter und übernimmt viele Sicherheitsanforderungen.",
+  "fakten": [
+    "Bekannte Anbieter: Stripe, PayPal, Klarna, Mollie, Adyen",
+    "Kosten meist als Gebühr pro Transaktion, je nach Anbieter",
+    "Kartendaten bleiben beim Anbieter, nicht auf Ihrer Website"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So arbeitet ein Payment-Provider",
+      "html": "<p>Ein Kletterzentrum verkauft Gutscheine und Kursplätze online. Klickt ein Kunde auf „Bezahlen“, öffnet sich das Zahlungsfenster des Payment-Providers. Dort gibt er seine Kartendaten ein oder wählt PayPal. Der Anbieter prüft die Zahlung, sorgt für die vorgeschriebene starke Kundenauthentifizierung, etwa per Bestätigung in der Banking-App, und meldet dem Shop „bezahlt“. Das Geld wird gesammelt auf das Firmenkonto überwiesen.</p><p>Das Kletterzentrum muss so keine Kartendaten selbst speichern, was die Sicherheitsanforderungen stark vereinfacht.</p>"
+    },
+    {
+      "h2": "Worauf KMU bei der Auswahl achten sollten",
+      "html": "<p>Wichtig sind die Zahlungsarten, die Ihre Kunden erwarten, die Gebühren pro Zahlung und eventuelle Fixkosten, die Dauer bis zur Auszahlung und eine gute Anbindung an Ihr Shopsystem. Für österreichische Kunden sind Karte und PayPal fast immer Pflicht, Kauf auf Rechnung wird je nach Zielgruppe gern genutzt.</p><p>Einen Überblick über sinnvolle Zahlungsarten gibt der Ratgeber <a href=\"/wissen/zahlungsarten-onlineshop/\">Zahlungsarten im Onlineshop</a>. Die Einbindung ist Teil von <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>; Grundlagen bietet der Eintrag <a href=\"/glossar/onlineshop/\">Onlineshop</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Zahlungsarten sollte mein Onlineshop anbieten?",
+      "a": "Das hängt von Ihren Kunden ab. Für die meisten Shops in Österreich sind Kredit- und Debitkarte sowie PayPal eine gute Basis. Apple Pay und Google Pay erleichtern den Kauf am Handy. Kauf auf Rechnung kann die Kaufbereitschaft erhöhen, bringt aber ein Ausfallrisiko, das Anbieter wie Klarna gegen Gebühr übernehmen. Zu viele Optionen verwirren eher."
+    },
+    {
+      "q": "Brauche ich für einen Payment-Provider ein Firmenkonto?",
+      "a": "In der Regel verlangen Zahlungsdienstleister ein Konto, auf das die Einnahmen ausgezahlt werden, und eine Prüfung Ihres Unternehmens samt Ausweis und Firmendaten. Ein eigenes Geschäftskonto ist für die Buchhaltung ohnehin sinnvoll. Die genauen Anforderungen unterscheiden sich je nach Anbieter und Rechtsform. Planen Sie für die Prüfung einige Tage vor dem Shopstart ein."
+    }
+  ],
+  "verwandt": [
+    "/wissen/zahlungsarten-onlineshop/",
+    "/glossar/onlineshop/",
+    "/leistungen/onlineshop-erstellen/",
+    "/wissen/gutscheine-online/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

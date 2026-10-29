@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/farben-und-schriften/",
+  "title": "Farben und Schriften für die Website richtig wählen",
+  "description": "So wählen Sie Farben und Schriften für Ihre Firmenwebsite: ein einfaches Farbsystem, gut lesbare Schriften, genug Kontrast und Beispiele aus der Praxis.",
+  "h1": "Farben und Schriften für die Website wählen",
+  "kicker": "Ratgeber · Gestaltung",
+  "lead": "Wählen Sie für Ihre Website eine Hauptfarbe aus Logo oder Betrieb, ergänzt um eine Akzentfarbe für Schaltflächen und neutrale Töne für Text und Hintergrund. Bei Schriften genügen eine gut lesbare Schrift für den Fließtext und höchstens eine zweite für Überschriften. Lesbarkeit und Kontrast gehen dabei immer vor persönlichem Geschmack.",
+  "fakten": [
+    "Ausgangspunkt sind Logo, Firmenauto, Arbeitskleidung und Räume",
+    "Wenige Farben mit klaren Aufgaben statt bunter Vielfalt",
+    "Höchstens zwei Schriftfamilien auf der ganzen Website",
+    "Kontrast und Schriftgröße sind wichtiger als Trends"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Von Ihrer Marke ausgehen",
+      "html": "<p>Die meisten Betriebe haben bereits Farben, auch wenn sie nie darüber nachgedacht haben: im Logo, auf dem Firmenauto, auf der Arbeitskleidung, auf dem Schild über der Tür. Kunden verbinden diese Farben mit Ihnen. Die Website sollte sie aufgreifen, damit online und vor Ort ein stimmiges Bild entsteht.</p><p>Wenn Ihr Logo veraltet ist oder es gar keines gibt, ist der Website-Start ein guter Anlass, das Erscheinungsbild zu überdenken. Dann sollten Logo, Farben und Schriften gemeinsam entstehen, nicht nacheinander.</p>"
+    },
+    {
+      "h2": "Ein einfaches Farbsystem",
+      "html": "<p>Statt vieler Farben brauchen Sie ein paar mit klaren Aufgaben:</p><ul><li><strong>Hauptfarbe:</strong> prägt den Auftritt, etwa in Kopfbereich und Überschriften.</li><li><strong>Akzentfarbe:</strong> nur für das, was auffallen soll, vor allem Schaltflächen und wichtige Links.</li><li><strong>Neutrale Töne:</strong> ein dunkles Grau oder fast Schwarz für Text, Weiß oder ein sehr helles Grau für Hintergründe.</li><li><strong>Signalfarben:</strong> für Fehlermeldungen oder Hinweise, sparsam eingesetzt.</li></ul><p>Eine verbreitete Faustregel aus der Gestaltung: Den größten Teil der Fläche nehmen neutrale Töne ein, einen kleineren die Hauptfarbe, und nur einen kleinen Rest die Akzentfarbe. So bleibt die Akzentfarbe wirksam.</p>"
+    },
+    {
+      "h2": "Farbwirkung und Branche",
+      "html": "<p>Farben lösen Stimmungen aus, aber nicht nach festen Gesetzen. Ruhige, helle Töne wirken bei Praxen und Beratung meist angenehm, kräftige Farben passen oft zu Handwerk und Gastronomie. Wichtiger als Farbpsychologie ist, dass die Farbe zu Ihnen passt und Sie sich von Mitbewerbern unterscheiden.</p><p>Schauen Sie sich die Websites anderer Betriebe in Ihrer Branche und Region an. Wenn alle Installateure in Blau auftreten, kann eine andere Hauptfarbe helfen, in Erinnerung zu bleiben. Vermeiden Sie aber Farben, die der Erwartung völlig widersprechen.</p>"
+    },
+    {
+      "h2": "Kontrast und Lesbarkeit",
+      "html": "<p>Die schönste Farbe nützt nichts, wenn der Text darauf nicht lesbar ist. Hellgraue Schrift auf weißem Hintergrund, weißer Text auf hellem Foto oder Gelb auf Weiß sind typische Fehler. Für Fließtext ist dunkle Schrift auf hellem Hintergrund fast immer die beste Wahl.</p><p>Prüfen Sie Ihre Farbkombinationen mit einem Kontrast-Rechner, wie es sie kostenlos im Internet gibt, und orientieren Sie sich an den Empfehlungen der WCAG-Richtlinien. Warum das nicht nur Geschmackssache ist, erklärt der Ratgeber <a href=\"/wissen/barrierefreie-website/\">Barrierefreie Website</a>. Schaltflächen sollten sich deutlich vom Hintergrund abheben, siehe auch <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</p>"
+    },
+    {
+      "h2": "Schriften wählen",
+      "html": "<p>Für Bildschirme haben sich klare, serifenlose Schriften für den Fließtext bewährt; Serifenschriften können für Überschriften einen wertigen Akzent setzen. Achten Sie auf diese Punkte:</p><ul><li><strong>Höchstens zwei Schriftfamilien</strong> auf der ganzen Website.</li><li><strong>Ausreichende Größe:</strong> Fließtext eher größer als kleiner, damit er am Handy ohne Zoomen lesbar ist.</li><li><strong>Zeilenlänge:</strong> nicht zu breit, sonst verliert das Auge beim Zeilenwechsel den Anschluss.</li><li><strong>Zeilenabstand:</strong> großzügig genug, damit der Text atmen kann.</li><li><strong>Wenige Schnitte:</strong> normal und fett reichen meist; jede Variante muss geladen werden.</li></ul>"
+    },
+    {
+      "h2": "Schriften technisch und rechtlich richtig einbinden",
+      "html": "<p>Viele Websites laden Schriften von externen Servern, etwa von Google Fonts. Dabei wird die IP-Adresse der Besucher an den Anbieter übertragen, was in Österreich und Deutschland bereits zu Abmahnungen geführt hat. Sicherer ist es, die Schriften auf dem eigenen Server abzulegen. Wie das geht, beschreibt <a href=\"/wissen/google-fonts-lokal/\">Google Fonts lokal einbinden</a>.</p><p>Achten Sie außerdem auf die Lizenz: Nicht jede Schrift darf auf Websites verwendet werden. Und jede zusätzliche Schriftdatei verlängert die Ladezeit, siehe <a href=\"/wissen/website-ladezeit-verbessern/\">Website-Ladezeit verbessern</a>.</p>"
+    },
+    {
+      "h2": "Drei Beispiele aus der Praxis",
+      "html": "<p><strong>Die Zimmerei:</strong> Ein warmes Holzbraun aus dem Logo als Hauptfarbe, ein kräftiges Grün als Akzent für Schaltflächen, viel Weiß und große Projektfotos. Eine robuste, serifenlose Schrift passt zum Handwerk.</p><p><strong>Das Kosmetikstudio:</strong> Ein zurückhaltendes Altrosa oder Salbeigrün, dazu eine elegante Serifenschrift für Überschriften und eine schlichte für den Text. Die Akzentfarbe ist nur der Buchungsschaltfläche vorbehalten.</p><p><strong>Die Steuerberatung:</strong> Ein gedecktes Dunkelblau oder Petrol, sehr klare Schriften, ruhige Flächen. Hier steht Seriosität vor Originalität. Wie das in einem ersten Entwurf aussehen kann, zeigt der <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline AI Solutions</a>; für die vollständige Umsetzung siehe <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Farben sollte eine Website haben?",
+      "a": "Für die meisten Firmenwebsites reichen eine Hauptfarbe, eine Akzentfarbe und neutrale Töne für Text und Hintergrund, ergänzt um eine Signalfarbe für Fehlermeldungen. Mehr Farben machen die Seite schnell unruhig und schwächen die Wirkung wichtiger Elemente. Entscheidend ist, dass jede Farbe eine klare Aufgabe hat und konsequent gleich verwendet wird."
+    },
+    {
+      "q": "Welche Schriftart ist am besten für Websites?",
+      "a": "Eine einzige beste Schrift gibt es nicht. Für Fließtext haben sich klare, serifenlose Schriften bewährt, die auf Bildschirmen gut lesbar sind und verschiedene Zeichen wie Umlaute sauber darstellen. Für Überschriften kann eine zweite Schrift Charakter geben. Wichtiger als die konkrete Schrift sind ausreichende Größe, guter Zeilenabstand und eine überschaubare Zeilenlänge."
+    },
+    {
+      "q": "Muss die Website dieselben Farben wie mein Logo haben?",
+      "a": "Sie sollte sie aufgreifen, damit Kunden Ihren Betrieb wiedererkennen. Das heißt aber nicht, dass jede Logofarbe großflächig vorkommen muss. Oft wird eine Logofarbe zur Hauptfarbe, eine zweite zur Akzentfarbe, und der Rest der Seite bleibt neutral. Wenn eine Logofarbe auf dem Bildschirm schlecht lesbar ist, wird sie nur für Flächen, nicht für Text verwendet."
+    },
+    {
+      "q": "Darf ich Google Fonts auf meiner Website verwenden?",
+      "a": "Die Schriften selbst dürfen in der Regel frei verwendet werden. Problematisch kann es sein, sie direkt von Googles Servern zu laden, weil dabei Daten der Besucher übertragen werden. Deshalb empfiehlt es sich, die Schriftdateien auf dem eigenen Server abzulegen. Für eine verbindliche rechtliche Einschätzung im Einzelfall wenden Sie sich an die Wirtschaftskammer oder einen Anwalt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/barrierefreie-website/",
+    "/wissen/google-fonts-lokal/",
+    "/wissen/call-to-action/",
+    "/leistungen/website-erstellen/",
+    "/gratis-check/website-entwurf/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

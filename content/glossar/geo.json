@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/geo/",
+  "title": "GEO: Generative Engine Optimization erklärt",
+  "description": "GEO einfach erklärt: Was Generative Engine Optimization ist, wie ChatGPT, Gemini und Co. Betriebe empfehlen und was KMU für ihre KI-Sichtbarkeit tun können.",
+  "h1": "GEO – Generative Engine Optimization",
+  "kicker": "Glossar · KI-Suche",
+  "lead": "GEO (Generative Engine Optimization) ist die Optimierung von Inhalten, damit KI-Systeme wie ChatGPT, Gemini oder Perplexity einen Betrieb in ihren Antworten nennen und richtig beschreiben. Es ergänzt klassisches SEO um den Blick auf KI-generierte Antworten.",
+  "fakten": [
+    "Ziel: in KI-Antworten genannt und korrekt beschrieben werden",
+    "Baut auf SEO auf: gute Inhalte bleiben die Grundlage",
+    "Wichtig sind klare Fakten, Fragen-Antworten und Erwähnungen im Netz"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie GEO in der Praxis funktioniert",
+      "html": "<p>Jemand fragt eine KI: „Welcher Dachdecker in der Nähe von Zwettl macht auch Blechdächer?“ Die KI durchsucht Websites, Verzeichnisse und Bewertungen und formuliert eine Antwort mit wenigen Namen. Ein Dachdeckerbetrieb, dessen Website klar sagt, welche Leistungen er wo anbietet, und der in Verzeichnissen mit denselben <a href=\"/glossar/nap-daten/\">NAP-Daten</a> auftaucht, hat bessere Chancen, genannt zu werden.</p><p>Hilfreich sind Seiten mit direkten Antworten, gut strukturierte FAQ, <a href=\"/glossar/schema-markup/\">Schema-Markup</a> und Erwähnungen auf anderen vertrauenswürdigen Seiten.</p>"
+    },
+    {
+      "h2": "Warum GEO für KMU an Bedeutung gewinnt",
+      "html": "<p>Immer mehr Menschen stellen Fragen direkt an KI-Assistenten oder lesen bei Google zuerst die <a href=\"/glossar/ki-uebersicht/\">KI-Übersicht</a>. Wer dort fehlt, wird seltener angeklickt, auch wenn die Website bei Google gut platziert ist. Für kleine Betriebe ist das eine Chance, weil viele Mitbewerber das Thema noch nicht angehen.</p><p>Den Hintergrund erklärt der Ratgeber <a href=\"/wissen/was-ist-geo/\">Was ist GEO?</a>. Wie oft KI-Suchen Ihren Betrieb nennen, misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden; die Betreuung beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ersetzt GEO die klassische Suchmaschinenoptimierung?",
+      "a": "Nein. KI-Systeme stützen sich zu einem großen Teil auf dieselben Inhalte, die auch Google auswertet. Eine Website mit guten Texten, sauberer Technik und klaren Fakten ist die Basis für beides. GEO legt zusätzlich Wert auf direkte, zitierfähige Antworten, einheitliche Angaben im ganzen Netz und Erwähnungen außerhalb der eigenen Website."
+    },
+    {
+      "q": "Kann man garantieren, dass ChatGPT meinen Betrieb empfiehlt?",
+      "a": "Nein, das kann niemand seriös versprechen. KI-Antworten ändern sich je nach Frage, Ort und Zeitpunkt. Man kann aber messen, wie oft ein Betrieb genannt wird, und gezielt die Grundlagen verbessern, auf die KI-Systeme zugreifen. Ob die Maßnahmen wirken, sieht man dann an der Entwicklung im Bericht über die folgenden Wochen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/was-ist-geo/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/vergleiche/seo-oder-geo/",
+    "/glossar/seo/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

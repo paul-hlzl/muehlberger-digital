@@ -1,0 +1,5070 @@
+[
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/website-erstellen/",
+  "slug": "website-erstellen",
+  "titel": "Website erstellen lassen",
+  "keyword": "website erstellen lassen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/website-relaunch/",
+  "slug": "website-relaunch",
+  "titel": "Website-Relaunch",
+  "keyword": "website relaunch",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/landingpage-erstellen/",
+  "slug": "landingpage-erstellen",
+  "titel": "Landingpage erstellen lassen",
+  "keyword": "landingpage erstellen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/onlineshop-erstellen/",
+  "slug": "onlineshop-erstellen",
+  "titel": "Onlineshop erstellen lassen",
+  "keyword": "onlineshop erstellen lassen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/app-entwicklung/",
+  "slug": "app-entwicklung",
+  "titel": "App-Entwicklung für Unternehmen",
+  "keyword": "app entwickeln lassen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/individuelle-software/",
+  "slug": "individuelle-software",
+  "titel": "Individuelle Software & Web-Apps",
+  "keyword": "individuelle software kmu",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/ki-chatbot/",
+  "slug": "ki-chatbot",
+  "titel": "KI-Chatbot für die Website",
+  "keyword": "ki chatbot website",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/whatsapp-bot/",
+  "slug": "whatsapp-bot",
+  "titel": "WhatsApp-Bot für Betriebe",
+  "keyword": "whatsapp bot unternehmen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/ki-telefonassistent/",
+  "slug": "ki-telefonassistent",
+  "titel": "KI-Telefonassistent",
+  "keyword": "ki telefonassistent",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/ki-automatisierung/",
+  "slug": "ki-automatisierung",
+  "titel": "KI & Prozessautomatisierung",
+  "keyword": "prozessautomatisierung ki",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/seo/",
+  "slug": "seo",
+  "titel": "Suchmaschinenoptimierung (SEO)",
+  "keyword": "seo agentur",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/geo-ki-sichtbarkeit/",
+  "slug": "geo-ki-sichtbarkeit",
+  "titel": "Sichtbarkeit in KI-Suchen (GEO)",
+  "keyword": "generative engine optimization",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/google-unternehmensprofil/",
+  "slug": "google-unternehmensprofil",
+  "titel": "Google-Unternehmensprofil einrichten & pflegen",
+  "keyword": "google unternehmensprofil",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/social-media-automatisierung/",
+  "slug": "social-media-automatisierung",
+  "titel": "Social-Media-Automatisierung",
+  "keyword": "social media automatisieren",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/meeting-protokolle-ki/",
+  "slug": "meeting-protokolle-ki",
+  "titel": "KI-Meeting-Protokolle",
+  "keyword": "ki meeting protokoll",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/neukundengewinnung-b2b/",
+  "slug": "neukundengewinnung-b2b",
+  "titel": "B2B-Neukundengewinnung mit KI",
+  "keyword": "neukunden finden b2b",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/website-wartung-hosting/",
+  "slug": "website-wartung-hosting",
+  "titel": "Website-Wartung & Hosting",
+  "keyword": "website wartung",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "leistung",
+  "pfad": "/leistungen/digitalisierungsberatung/",
+  "slug": "digitalisierungsberatung",
+  "titel": "Digitalisierungsberatung für KMU",
+  "keyword": "digitalisierung beratung kmu",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/pipebot/",
+  "slug": "pipebot",
+  "titel": "Pipebot – KI-Chatbot für Websites",
+  "keyword": "Pipebot – KI-Chatbot für Websites",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/noteit/",
+  "slug": "noteit",
+  "titel": "noteit – KI-Gesprächsnotizen",
+  "keyword": "noteit – KI-Gesprächsnotizen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/sightup/",
+  "slug": "sightup",
+  "titel": "SightUp – Firmenkunden in der Region finden",
+  "keyword": "SightUp – Firmenkunden in der Region finden",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/pipeflow/",
+  "slug": "pipeflow",
+  "titel": "Pipeflow – Social-Media-Beiträge aus der Website",
+  "keyword": "Pipeflow – Social-Media-Beiträge aus der Website",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/hittaro/",
+  "slug": "hittaro",
+  "titel": "Hittaro – Sichtbarkeit in Google & KI-Suchen",
+  "keyword": "Hittaro – Sichtbarkeit in Google & KI-Suchen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "produkt",
+  "pfad": "/produkte/zusage/",
+  "slug": "zusage",
+  "titel": "zusage.at – Bewerbungsplattform für Österreich",
+  "keyword": "zusage.at – Bewerbungsplattform für Österreich",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/website-entwurf/",
+  "slug": "website-entwurf",
+  "titel": "Gratis-Test: Neuer Startseiten-Entwurf",
+  "keyword": "website gratis test",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/seo-check/",
+  "slug": "seo-check",
+  "titel": "Gratis-SEO-Check",
+  "keyword": "seo check kostenlos",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/ki-sichtbarkeit/",
+  "slug": "ki-sichtbarkeit",
+  "titel": "Gratis-Check: Nennt ChatGPT Ihren Betrieb?",
+  "keyword": "chatgpt sichtbarkeit check",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/chatbot-test/",
+  "slug": "chatbot-test",
+  "titel": "Gratis-Check: KI-Chatbot für Ihre Website",
+  "keyword": "chatbot testen kostenlos",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/neukunden-finden/",
+  "slug": "neukunden-finden",
+  "titel": "Gratis: Passende Firmenkunden finden",
+  "keyword": "firmenkunden finden kostenlos",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "check",
+  "pfad": "/gratis-check/social-media-test/",
+  "slug": "social-media-test",
+  "titel": "Gratis: Social-Media-Beiträge aus Ihrer Website",
+  "keyword": "social media beiträge automatisch",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/ueber-jonas-muehlberger/",
+  "slug": "ueber-jonas-muehlberger",
+  "titel": "Über Jonas Mühlberger",
+  "keyword": "Über Jonas Mühlberger",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/erstgespraech/",
+  "slug": "erstgespraech",
+  "titel": "Kostenloses Erstgespräch",
+  "keyword": "Kostenloses Erstgespräch",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/preise/",
+  "slug": "preise",
+  "titel": "Preise & Richtpreise",
+  "keyword": "Preise & Richtpreise",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/ablauf/",
+  "slug": "ablauf",
+  "titel": "So läuft die Zusammenarbeit ab",
+  "keyword": "So läuft die Zusammenarbeit ab",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/vertriebspartner/",
+  "slug": "vertriebspartner",
+  "titel": "Vertriebspartner werden",
+  "keyword": "Vertriebspartner werden",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "sonstige",
+  "pfad": "/haeufige-fragen/",
+  "slug": "haeufige-fragen",
+  "titel": "Häufige Fragen",
+  "keyword": "Häufige Fragen",
+  "batch": "a-kern"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/installateur/",
+  "slug": "installateur",
+  "titel": "Installateure",
+  "keyword": "Installateure",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/elektriker/",
+  "slug": "elektriker",
+  "titel": "Elektriker",
+  "keyword": "Elektriker",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/tischler/",
+  "slug": "tischler",
+  "titel": "Tischlereien",
+  "keyword": "Tischlereien",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/maler/",
+  "slug": "maler",
+  "titel": "Malerbetriebe",
+  "keyword": "Malerbetriebe",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/dachdecker/",
+  "slug": "dachdecker",
+  "titel": "Dachdecker & Spengler",
+  "keyword": "Dachdecker & Spengler",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/baumeister/",
+  "slug": "baumeister",
+  "titel": "Baumeister & Baufirmen",
+  "keyword": "Baumeister & Baufirmen",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/zimmerei/",
+  "slug": "zimmerei",
+  "titel": "Zimmereien & Holzbau",
+  "keyword": "Zimmereien & Holzbau",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/fliesenleger/",
+  "slug": "fliesenleger",
+  "titel": "Fliesenleger",
+  "keyword": "Fliesenleger",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/metallbau/",
+  "slug": "metallbau",
+  "titel": "Schlossereien & Metallbau",
+  "keyword": "Schlossereien & Metallbau",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/gartengestaltung/",
+  "slug": "gartengestaltung",
+  "titel": "Gartengestaltung & Landschaftsbau",
+  "keyword": "Gartengestaltung & Landschaftsbau",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/kfz-werkstatt/",
+  "slug": "kfz-werkstatt",
+  "titel": "Kfz-Werkstätten",
+  "keyword": "Kfz-Werkstätten",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/rauchfangkehrer/",
+  "slug": "rauchfangkehrer",
+  "titel": "Rauchfangkehrer",
+  "keyword": "Rauchfangkehrer",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/bodenleger/",
+  "slug": "bodenleger",
+  "titel": "Bodenleger",
+  "keyword": "Bodenleger",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/transportunternehmen/",
+  "slug": "transportunternehmen",
+  "titel": "Transportunternehmen",
+  "keyword": "Transportunternehmen",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/restaurant/",
+  "slug": "restaurant",
+  "titel": "Restaurants & Gasthäuser",
+  "keyword": "Restaurants & Gasthäuser",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/cafe/",
+  "slug": "cafe",
+  "titel": "Cafés & Konditoreien",
+  "keyword": "Cafés & Konditoreien",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/heuriger/",
+  "slug": "heuriger",
+  "titel": "Heurige & Buschenschanken",
+  "keyword": "Heurige & Buschenschanken",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/hotel/",
+  "slug": "hotel",
+  "titel": "Hotels",
+  "keyword": "Hotels",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/ferienwohnung/",
+  "slug": "ferienwohnung",
+  "titel": "Ferienwohnungen & Pensionen",
+  "keyword": "Ferienwohnungen & Pensionen",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/baeckerei/",
+  "slug": "baeckerei",
+  "titel": "Bäckereien",
+  "keyword": "Bäckereien",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/fleischerei/",
+  "slug": "fleischerei",
+  "titel": "Fleischereien",
+  "keyword": "Fleischereien",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/catering/",
+  "slug": "catering",
+  "titel": "Catering",
+  "keyword": "Catering",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/arztpraxis/",
+  "slug": "arztpraxis",
+  "titel": "Arztpraxen",
+  "keyword": "Arztpraxen",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/zahnarzt/",
+  "slug": "zahnarzt",
+  "titel": "Zahnarztpraxen",
+  "keyword": "Zahnarztpraxen",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/physiotherapie/",
+  "slug": "physiotherapie",
+  "titel": "Physiotherapie",
+  "keyword": "Physiotherapie",
+  "batch": "b-branchen-1"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/tierarzt/",
+  "slug": "tierarzt",
+  "titel": "Tierarztpraxen",
+  "keyword": "Tierarztpraxen",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/friseur/",
+  "slug": "friseur",
+  "titel": "Friseursalons",
+  "keyword": "Friseursalons",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/kosmetikstudio/",
+  "slug": "kosmetikstudio",
+  "titel": "Kosmetikstudios",
+  "keyword": "Kosmetikstudios",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/massage/",
+  "slug": "massage",
+  "titel": "Massagepraxen",
+  "keyword": "Massagepraxen",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/fitnessstudio/",
+  "slug": "fitnessstudio",
+  "titel": "Fitnessstudios",
+  "keyword": "Fitnessstudios",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/psychotherapie/",
+  "slug": "psychotherapie",
+  "titel": "Psychotherapie & Beratung",
+  "keyword": "Psychotherapie & Beratung",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/yoga-studio/",
+  "slug": "yoga-studio",
+  "titel": "Yoga- & Bewegungsstudios",
+  "keyword": "Yoga- & Bewegungsstudios",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/steuerberater/",
+  "slug": "steuerberater",
+  "titel": "Steuerberatung",
+  "keyword": "Steuerberatung",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/rechtsanwalt/",
+  "slug": "rechtsanwalt",
+  "titel": "Rechtsanwaltskanzleien",
+  "keyword": "Rechtsanwaltskanzleien",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/versicherungsmakler/",
+  "slug": "versicherungsmakler",
+  "titel": "Versicherungsmakler",
+  "keyword": "Versicherungsmakler",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/immobilienmakler/",
+  "slug": "immobilienmakler",
+  "titel": "Immobilienmakler",
+  "keyword": "Immobilienmakler",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/architekt/",
+  "slug": "architekt",
+  "titel": "Architekturbüros",
+  "keyword": "Architekturbüros",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/unternehmensberater/",
+  "slug": "unternehmensberater",
+  "titel": "Unternehmensberatung",
+  "keyword": "Unternehmensberatung",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/reinigungsfirma/",
+  "slug": "reinigungsfirma",
+  "titel": "Reinigungsfirmen",
+  "keyword": "Reinigungsfirmen",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/fahrschule/",
+  "slug": "fahrschule",
+  "titel": "Fahrschulen",
+  "keyword": "Fahrschulen",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/nachhilfe/",
+  "slug": "nachhilfe",
+  "titel": "Nachhilfe & Lernstudios",
+  "keyword": "Nachhilfe & Lernstudios",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/fotograf/",
+  "slug": "fotograf",
+  "titel": "Fotografen",
+  "keyword": "Fotografen",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/einzelhandel/",
+  "slug": "einzelhandel",
+  "titel": "Einzelhandel",
+  "keyword": "Einzelhandel",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/hofladen/",
+  "slug": "hofladen",
+  "titel": "Hofläden & Direktvermarkter",
+  "keyword": "Hofläden & Direktvermarkter",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/landwirtschaft/",
+  "slug": "landwirtschaft",
+  "titel": "Landwirtschaft",
+  "keyword": "Landwirtschaft",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/weingut/",
+  "slug": "weingut",
+  "titel": "Weingüter",
+  "keyword": "Weingüter",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/autohaus/",
+  "slug": "autohaus",
+  "titel": "Autohäuser",
+  "keyword": "Autohäuser",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/blumen/",
+  "slug": "blumen",
+  "titel": "Blumengeschäfte & Gärtnereien",
+  "keyword": "Blumengeschäfte & Gärtnereien",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/vereine/",
+  "slug": "vereine",
+  "titel": "Vereine",
+  "keyword": "Vereine",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "branche",
+  "pfad": "/branchen/gemeinden/",
+  "slug": "gemeinden",
+  "titel": "Gemeinden",
+  "keyword": "Gemeinden",
+  "batch": "b-branchen-2"
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/niederoesterreich/",
+  "slug": "niederoesterreich",
+  "titel": "Niederösterreich",
+  "keyword": "digitalagentur niederösterreich",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/wien/",
+  "slug": "wien",
+  "titel": "Wien",
+  "keyword": "digitalagentur wien",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/burgenland/",
+  "slug": "burgenland",
+  "titel": "Burgenland",
+  "keyword": "digitalagentur burgenland",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/steiermark/",
+  "slug": "steiermark",
+  "titel": "Steiermark",
+  "keyword": "digitalagentur steiermark",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/kaernten/",
+  "slug": "kaernten",
+  "titel": "Kärnten",
+  "keyword": "digitalagentur kärnten",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/salzburg/",
+  "slug": "salzburg",
+  "titel": "Salzburg",
+  "keyword": "digitalagentur salzburg",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/tirol/",
+  "slug": "tirol",
+  "titel": "Tirol",
+  "keyword": "digitalagentur tirol",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/vorarlberg/",
+  "slug": "vorarlberg",
+  "titel": "Vorarlberg",
+  "keyword": "digitalagentur vorarlberg",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/oberoesterreich/",
+  "slug": "oberoesterreich",
+  "titel": "Oberösterreich",
+  "keyword": "digitalagentur oberösterreich",
+  "batch": "c-regionen-1",
+  "ebene": "bundesland",
+  "eltern": [],
+  "pipeline": true,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/waldviertel/",
+  "slug": "waldviertel",
+  "titel": "Waldviertel",
+  "keyword": "digitalagentur waldviertel",
+  "batch": "c-regionen-1",
+  "ebene": "viertel",
+  "eltern": [
+   "niederoesterreich"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/weinviertel/",
+  "slug": "weinviertel",
+  "titel": "Weinviertel",
+  "keyword": "digitalagentur weinviertel",
+  "batch": "c-regionen-1",
+  "ebene": "viertel",
+  "eltern": [
+   "niederoesterreich"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/mostviertel/",
+  "slug": "mostviertel",
+  "titel": "Mostviertel",
+  "keyword": "digitalagentur mostviertel",
+  "batch": "c-regionen-1",
+  "ebene": "viertel",
+  "eltern": [
+   "niederoesterreich"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/industrieviertel/",
+  "slug": "industrieviertel",
+  "titel": "Industrieviertel",
+  "keyword": "digitalagentur industrieviertel",
+  "batch": "c-regionen-1",
+  "ebene": "viertel",
+  "eltern": [
+   "niederoesterreich"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-amstetten/",
+  "slug": "bezirk-amstetten",
+  "titel": "Bezirk Amstetten",
+  "keyword": "digitalagentur bezirk amstetten",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-baden/",
+  "slug": "bezirk-baden",
+  "titel": "Bezirk Baden",
+  "keyword": "digitalagentur bezirk baden",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-bruck-an-der-leitha/",
+  "slug": "bezirk-bruck-an-der-leitha",
+  "titel": "Bezirk Bruck an der Leitha",
+  "keyword": "digitalagentur bezirk bruck an der leitha",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-gaenserndorf/",
+  "slug": "bezirk-gaenserndorf",
+  "titel": "Bezirk Gänserndorf",
+  "keyword": "digitalagentur bezirk gänserndorf",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "weinviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-gmuend/",
+  "slug": "bezirk-gmuend",
+  "titel": "Bezirk Gmünd",
+  "keyword": "digitalagentur bezirk gmünd",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-hollabrunn/",
+  "slug": "bezirk-hollabrunn",
+  "titel": "Bezirk Hollabrunn",
+  "keyword": "digitalagentur bezirk hollabrunn",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "weinviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-horn/",
+  "slug": "bezirk-horn",
+  "titel": "Bezirk Horn",
+  "keyword": "digitalagentur bezirk horn",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-korneuburg/",
+  "slug": "bezirk-korneuburg",
+  "titel": "Bezirk Korneuburg",
+  "keyword": "digitalagentur bezirk korneuburg",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "weinviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-krems-land/",
+  "slug": "bezirk-krems-land",
+  "titel": "Bezirk Krems-Land",
+  "keyword": "digitalagentur bezirk krems-land",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-lilienfeld/",
+  "slug": "bezirk-lilienfeld",
+  "titel": "Bezirk Lilienfeld",
+  "keyword": "digitalagentur bezirk lilienfeld",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-melk/",
+  "slug": "bezirk-melk",
+  "titel": "Bezirk Melk",
+  "keyword": "digitalagentur bezirk melk",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-mistelbach/",
+  "slug": "bezirk-mistelbach",
+  "titel": "Bezirk Mistelbach",
+  "keyword": "digitalagentur bezirk mistelbach",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "weinviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-moedling/",
+  "slug": "bezirk-moedling",
+  "titel": "Bezirk Mödling",
+  "keyword": "digitalagentur bezirk mödling",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-neunkirchen/",
+  "slug": "bezirk-neunkirchen",
+  "titel": "Bezirk Neunkirchen",
+  "keyword": "digitalagentur bezirk neunkirchen",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-st-poelten-land/",
+  "slug": "bezirk-st-poelten-land",
+  "titel": "Bezirk St. Pölten-Land",
+  "keyword": "digitalagentur bezirk st. pölten-land",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-scheibbs/",
+  "slug": "bezirk-scheibbs",
+  "titel": "Bezirk Scheibbs",
+  "keyword": "digitalagentur bezirk scheibbs",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-tulln/",
+  "slug": "bezirk-tulln",
+  "titel": "Bezirk Tulln",
+  "keyword": "digitalagentur bezirk tulln",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-waidhofen-an-der-thaya/",
+  "slug": "bezirk-waidhofen-an-der-thaya",
+  "titel": "Bezirk Waidhofen an der Thaya",
+  "keyword": "digitalagentur bezirk waidhofen an der thaya",
+  "batch": "c-regionen-1",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-wiener-neustadt-land/",
+  "slug": "bezirk-wiener-neustadt-land",
+  "titel": "Bezirk Wiener Neustadt-Land",
+  "keyword": "digitalagentur bezirk wiener neustadt-land",
+  "batch": "c-regionen-2",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bezirk-zwettl/",
+  "slug": "bezirk-zwettl",
+  "titel": "Bezirk Zwettl",
+  "keyword": "digitalagentur bezirk zwettl",
+  "batch": "c-regionen-2",
+  "ebene": "bezirk",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/st-poelten/",
+  "slug": "st-poelten",
+  "titel": "St. Pölten",
+  "keyword": "digitalagentur st. pölten",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/krems-an-der-donau/",
+  "slug": "krems-an-der-donau",
+  "titel": "Krems an der Donau",
+  "keyword": "digitalagentur krems an der donau",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/waidhofen-an-der-ybbs/",
+  "slug": "waidhofen-an-der-ybbs",
+  "titel": "Waidhofen an der Ybbs",
+  "keyword": "digitalagentur waidhofen an der ybbs",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "niederoesterreich",
+   "mostviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/wiener-neustadt/",
+  "slug": "wiener-neustadt",
+  "titel": "Wiener Neustadt",
+  "keyword": "digitalagentur wiener neustadt",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "niederoesterreich",
+   "industrieviertel"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/ottenschlag/",
+  "slug": "ottenschlag",
+  "titel": "Ottenschlag",
+  "keyword": "digitalagentur ottenschlag",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": true
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/gfoehl/",
+  "slug": "gfoehl",
+  "titel": "Gföhl",
+  "keyword": "digitalagentur gföhl",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-krems-land"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/poeggstall/",
+  "slug": "poeggstall",
+  "titel": "Pöggstall",
+  "keyword": "digitalagentur pöggstall",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-melk"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/martinsberg/",
+  "slug": "martinsberg",
+  "titel": "Martinsberg",
+  "keyword": "digitalagentur martinsberg",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/grafenschlag/",
+  "slug": "grafenschlag",
+  "titel": "Grafenschlag",
+  "keyword": "digitalagentur grafenschlag",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bad-traunstein/",
+  "slug": "bad-traunstein",
+  "titel": "Bad Traunstein",
+  "keyword": "digitalagentur bad traunstein",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/kottes-purk/",
+  "slug": "kottes-purk",
+  "titel": "Kottes-Purk",
+  "keyword": "digitalagentur kottes-purk",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/gross-gerungs/",
+  "slug": "gross-gerungs",
+  "titel": "Groß Gerungs",
+  "keyword": "digitalagentur groß gerungs",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/allentsteig/",
+  "slug": "allentsteig",
+  "titel": "Allentsteig",
+  "keyword": "digitalagentur allentsteig",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/schweiggers/",
+  "slug": "schweiggers",
+  "titel": "Schweiggers",
+  "keyword": "digitalagentur schweiggers",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/rappottenstein/",
+  "slug": "rappottenstein",
+  "titel": "Rappottenstein",
+  "keyword": "digitalagentur rappottenstein",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/sallingberg/",
+  "slug": "sallingberg",
+  "titel": "Sallingberg",
+  "keyword": "digitalagentur sallingberg",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/schoenbach/",
+  "slug": "schoenbach",
+  "titel": "Schönbach",
+  "keyword": "digitalagentur schönbach",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-zwettl"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/weitra/",
+  "slug": "weitra",
+  "titel": "Weitra",
+  "keyword": "digitalagentur weitra",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-gmuend"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/heidenreichstein/",
+  "slug": "heidenreichstein",
+  "titel": "Heidenreichstein",
+  "keyword": "digitalagentur heidenreichstein",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-gmuend"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/raabs-an-der-thaya/",
+  "slug": "raabs-an-der-thaya",
+  "titel": "Raabs an der Thaya",
+  "keyword": "digitalagentur raabs an der thaya",
+  "batch": "c-regionen-2",
+  "ebene": "gemeinde",
+  "eltern": [
+   "niederoesterreich",
+   "waldviertel",
+   "bezirk-waidhofen-an-der-thaya"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/graz/",
+  "slug": "graz",
+  "titel": "Graz",
+  "keyword": "digitalagentur graz",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "steiermark"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/klagenfurt/",
+  "slug": "klagenfurt",
+  "titel": "Klagenfurt",
+  "keyword": "digitalagentur klagenfurt",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "kaernten"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/salzburg-stadt/",
+  "slug": "salzburg-stadt",
+  "titel": "Stadt Salzburg",
+  "keyword": "digitalagentur stadt salzburg",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "salzburg"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/innsbruck/",
+  "slug": "innsbruck",
+  "titel": "Innsbruck",
+  "keyword": "digitalagentur innsbruck",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "tirol"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/bregenz/",
+  "slug": "bregenz",
+  "titel": "Bregenz",
+  "keyword": "digitalagentur bregenz",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "vorarlberg"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/eisenstadt/",
+  "slug": "eisenstadt",
+  "titel": "Eisenstadt",
+  "keyword": "digitalagentur eisenstadt",
+  "batch": "c-regionen-2",
+  "ebene": "stadt",
+  "eltern": [
+   "burgenland"
+  ],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/deutschland/",
+  "slug": "deutschland",
+  "titel": "Deutschland",
+  "keyword": "digitalagentur deutschland",
+  "batch": "c-regionen-2",
+  "ebene": "land",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "region",
+  "pfad": "/regionen/schweiz/",
+  "slug": "schweiz",
+  "titel": "Schweiz",
+  "keyword": "digitalagentur schweiz",
+  "batch": "c-regionen-2",
+  "ebene": "land",
+  "eltern": [],
+  "pipeline": false,
+  "sitz": false
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/amstetten/",
+  "slug": "website-erstellen/amstetten",
+  "titel": "Website erstellen lassen in Amstetten",
+  "keyword": "website erstellen lassen amstetten",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "amstetten",
+  "ortName": "Amstetten",
+  "regionen": [
+   "bezirk-amstetten"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/baden/",
+  "slug": "website-erstellen/baden",
+  "titel": "Website erstellen lassen in Baden",
+  "keyword": "website erstellen lassen baden",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "baden",
+  "ortName": "Baden",
+  "regionen": [
+   "bezirk-baden"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/bruck-an-der-leitha/",
+  "slug": "website-erstellen/bruck-an-der-leitha",
+  "titel": "Website erstellen lassen in Bruck an der Leitha",
+  "keyword": "website erstellen lassen bruck an der leitha",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "bruck-an-der-leitha",
+  "ortName": "Bruck an der Leitha",
+  "regionen": [
+   "bezirk-bruck-an-der-leitha"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/gaenserndorf/",
+  "slug": "website-erstellen/gaenserndorf",
+  "titel": "Website erstellen lassen in Gänserndorf",
+  "keyword": "website erstellen lassen gänserndorf",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "gaenserndorf",
+  "ortName": "Gänserndorf",
+  "regionen": [
+   "bezirk-gaenserndorf"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/gmuend/",
+  "slug": "website-erstellen/gmuend",
+  "titel": "Website erstellen lassen in Gmünd",
+  "keyword": "website erstellen lassen gmünd",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "gmuend",
+  "ortName": "Gmünd",
+  "regionen": [
+   "bezirk-gmuend"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/hollabrunn/",
+  "slug": "website-erstellen/hollabrunn",
+  "titel": "Website erstellen lassen in Hollabrunn",
+  "keyword": "website erstellen lassen hollabrunn",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "hollabrunn",
+  "ortName": "Hollabrunn",
+  "regionen": [
+   "bezirk-hollabrunn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/horn/",
+  "slug": "website-erstellen/horn",
+  "titel": "Website erstellen lassen in Horn",
+  "keyword": "website erstellen lassen horn",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "horn",
+  "ortName": "Horn",
+  "regionen": [
+   "bezirk-horn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/korneuburg/",
+  "slug": "website-erstellen/korneuburg",
+  "titel": "Website erstellen lassen in Korneuburg",
+  "keyword": "website erstellen lassen korneuburg",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "korneuburg",
+  "ortName": "Korneuburg",
+  "regionen": [
+   "bezirk-korneuburg"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/krems/",
+  "slug": "website-erstellen/krems",
+  "titel": "Website erstellen lassen in Krems",
+  "keyword": "website erstellen lassen krems",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "krems",
+  "ortName": "Krems",
+  "regionen": [
+   "krems-an-der-donau",
+   "bezirk-krems-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/lilienfeld/",
+  "slug": "website-erstellen/lilienfeld",
+  "titel": "Website erstellen lassen in Lilienfeld",
+  "keyword": "website erstellen lassen lilienfeld",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "lilienfeld",
+  "ortName": "Lilienfeld",
+  "regionen": [
+   "bezirk-lilienfeld"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/melk/",
+  "slug": "website-erstellen/melk",
+  "titel": "Website erstellen lassen in Melk",
+  "keyword": "website erstellen lassen melk",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "melk",
+  "ortName": "Melk",
+  "regionen": [
+   "bezirk-melk"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/mistelbach/",
+  "slug": "website-erstellen/mistelbach",
+  "titel": "Website erstellen lassen in Mistelbach",
+  "keyword": "website erstellen lassen mistelbach",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "mistelbach",
+  "ortName": "Mistelbach",
+  "regionen": [
+   "bezirk-mistelbach"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/moedling/",
+  "slug": "website-erstellen/moedling",
+  "titel": "Website erstellen lassen in Mödling",
+  "keyword": "website erstellen lassen mödling",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "moedling",
+  "ortName": "Mödling",
+  "regionen": [
+   "bezirk-moedling"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/neunkirchen/",
+  "slug": "website-erstellen/neunkirchen",
+  "titel": "Website erstellen lassen in Neunkirchen",
+  "keyword": "website erstellen lassen neunkirchen",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "neunkirchen",
+  "ortName": "Neunkirchen",
+  "regionen": [
+   "bezirk-neunkirchen"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/st-poelten/",
+  "slug": "website-erstellen/st-poelten",
+  "titel": "Website erstellen lassen in St. Pölten",
+  "keyword": "website erstellen lassen st. pölten",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "st-poelten",
+  "ortName": "St. Pölten",
+  "regionen": [
+   "st-poelten",
+   "bezirk-st-poelten-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/scheibbs/",
+  "slug": "website-erstellen/scheibbs",
+  "titel": "Website erstellen lassen in Scheibbs",
+  "keyword": "website erstellen lassen scheibbs",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "scheibbs",
+  "ortName": "Scheibbs",
+  "regionen": [
+   "bezirk-scheibbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/tulln/",
+  "slug": "website-erstellen/tulln",
+  "titel": "Website erstellen lassen in Tulln",
+  "keyword": "website erstellen lassen tulln",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "tulln",
+  "ortName": "Tulln",
+  "regionen": [
+   "bezirk-tulln"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/waidhofen-an-der-thaya/",
+  "slug": "website-erstellen/waidhofen-an-der-thaya",
+  "titel": "Website erstellen lassen in Waidhofen an der Thaya",
+  "keyword": "website erstellen lassen waidhofen an der thaya",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "waidhofen-an-der-thaya",
+  "ortName": "Waidhofen an der Thaya",
+  "regionen": [
+   "bezirk-waidhofen-an-der-thaya"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/wiener-neustadt/",
+  "slug": "website-erstellen/wiener-neustadt",
+  "titel": "Website erstellen lassen in Wiener Neustadt",
+  "keyword": "website erstellen lassen wiener neustadt",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "wiener-neustadt",
+  "ortName": "Wiener Neustadt",
+  "regionen": [
+   "wiener-neustadt",
+   "bezirk-wiener-neustadt-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/zwettl/",
+  "slug": "website-erstellen/zwettl",
+  "titel": "Website erstellen lassen in Zwettl",
+  "keyword": "website erstellen lassen zwettl",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "zwettl",
+  "ortName": "Zwettl",
+  "regionen": [
+   "bezirk-zwettl"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/waidhofen-an-der-ybbs/",
+  "slug": "website-erstellen/waidhofen-an-der-ybbs",
+  "titel": "Website erstellen lassen in Waidhofen an der Ybbs",
+  "keyword": "website erstellen lassen waidhofen an der ybbs",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "waidhofen-an-der-ybbs",
+  "ortName": "Waidhofen an der Ybbs",
+  "regionen": [
+   "waidhofen-an-der-ybbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/wien/",
+  "slug": "website-erstellen/wien",
+  "titel": "Website erstellen lassen in Wien",
+  "keyword": "website erstellen lassen wien",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "wien",
+  "ortName": "Wien",
+  "regionen": [
+   "wien"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/waldviertel/",
+  "slug": "website-erstellen/waldviertel",
+  "titel": "Website erstellen lassen in Waldviertel",
+  "keyword": "website erstellen lassen waldviertel",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "waldviertel",
+  "ortName": "Waldviertel",
+  "regionen": [
+   "waldviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/weinviertel/",
+  "slug": "website-erstellen/weinviertel",
+  "titel": "Website erstellen lassen in Weinviertel",
+  "keyword": "website erstellen lassen weinviertel",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "weinviertel",
+  "ortName": "Weinviertel",
+  "regionen": [
+   "weinviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/website-erstellen/mostviertel/",
+  "slug": "website-erstellen/mostviertel",
+  "titel": "Website erstellen lassen in Mostviertel",
+  "keyword": "website erstellen lassen mostviertel",
+  "batch": "d-kombi-1",
+  "leistung": "website-erstellen",
+  "ort": "mostviertel",
+  "ortName": "Mostviertel",
+  "regionen": [
+   "mostviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/amstetten/",
+  "slug": "ki-chatbot/amstetten",
+  "titel": "KI-Chatbot für die Website in Amstetten",
+  "keyword": "ki chatbot website amstetten",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "amstetten",
+  "ortName": "Amstetten",
+  "regionen": [
+   "bezirk-amstetten"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/baden/",
+  "slug": "ki-chatbot/baden",
+  "titel": "KI-Chatbot für die Website in Baden",
+  "keyword": "ki chatbot website baden",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "baden",
+  "ortName": "Baden",
+  "regionen": [
+   "bezirk-baden"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/bruck-an-der-leitha/",
+  "slug": "ki-chatbot/bruck-an-der-leitha",
+  "titel": "KI-Chatbot für die Website in Bruck an der Leitha",
+  "keyword": "ki chatbot website bruck an der leitha",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "bruck-an-der-leitha",
+  "ortName": "Bruck an der Leitha",
+  "regionen": [
+   "bezirk-bruck-an-der-leitha"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/gaenserndorf/",
+  "slug": "ki-chatbot/gaenserndorf",
+  "titel": "KI-Chatbot für die Website in Gänserndorf",
+  "keyword": "ki chatbot website gänserndorf",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "gaenserndorf",
+  "ortName": "Gänserndorf",
+  "regionen": [
+   "bezirk-gaenserndorf"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/gmuend/",
+  "slug": "ki-chatbot/gmuend",
+  "titel": "KI-Chatbot für die Website in Gmünd",
+  "keyword": "ki chatbot website gmünd",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "gmuend",
+  "ortName": "Gmünd",
+  "regionen": [
+   "bezirk-gmuend"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/hollabrunn/",
+  "slug": "ki-chatbot/hollabrunn",
+  "titel": "KI-Chatbot für die Website in Hollabrunn",
+  "keyword": "ki chatbot website hollabrunn",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "hollabrunn",
+  "ortName": "Hollabrunn",
+  "regionen": [
+   "bezirk-hollabrunn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/horn/",
+  "slug": "ki-chatbot/horn",
+  "titel": "KI-Chatbot für die Website in Horn",
+  "keyword": "ki chatbot website horn",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "horn",
+  "ortName": "Horn",
+  "regionen": [
+   "bezirk-horn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/korneuburg/",
+  "slug": "ki-chatbot/korneuburg",
+  "titel": "KI-Chatbot für die Website in Korneuburg",
+  "keyword": "ki chatbot website korneuburg",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "korneuburg",
+  "ortName": "Korneuburg",
+  "regionen": [
+   "bezirk-korneuburg"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/krems/",
+  "slug": "ki-chatbot/krems",
+  "titel": "KI-Chatbot für die Website in Krems",
+  "keyword": "ki chatbot website krems",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "krems",
+  "ortName": "Krems",
+  "regionen": [
+   "krems-an-der-donau",
+   "bezirk-krems-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/lilienfeld/",
+  "slug": "ki-chatbot/lilienfeld",
+  "titel": "KI-Chatbot für die Website in Lilienfeld",
+  "keyword": "ki chatbot website lilienfeld",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "lilienfeld",
+  "ortName": "Lilienfeld",
+  "regionen": [
+   "bezirk-lilienfeld"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/melk/",
+  "slug": "ki-chatbot/melk",
+  "titel": "KI-Chatbot für die Website in Melk",
+  "keyword": "ki chatbot website melk",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "melk",
+  "ortName": "Melk",
+  "regionen": [
+   "bezirk-melk"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/mistelbach/",
+  "slug": "ki-chatbot/mistelbach",
+  "titel": "KI-Chatbot für die Website in Mistelbach",
+  "keyword": "ki chatbot website mistelbach",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "mistelbach",
+  "ortName": "Mistelbach",
+  "regionen": [
+   "bezirk-mistelbach"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/moedling/",
+  "slug": "ki-chatbot/moedling",
+  "titel": "KI-Chatbot für die Website in Mödling",
+  "keyword": "ki chatbot website mödling",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "moedling",
+  "ortName": "Mödling",
+  "regionen": [
+   "bezirk-moedling"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/neunkirchen/",
+  "slug": "ki-chatbot/neunkirchen",
+  "titel": "KI-Chatbot für die Website in Neunkirchen",
+  "keyword": "ki chatbot website neunkirchen",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "neunkirchen",
+  "ortName": "Neunkirchen",
+  "regionen": [
+   "bezirk-neunkirchen"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/st-poelten/",
+  "slug": "ki-chatbot/st-poelten",
+  "titel": "KI-Chatbot für die Website in St. Pölten",
+  "keyword": "ki chatbot website st. pölten",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "st-poelten",
+  "ortName": "St. Pölten",
+  "regionen": [
+   "st-poelten",
+   "bezirk-st-poelten-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/scheibbs/",
+  "slug": "ki-chatbot/scheibbs",
+  "titel": "KI-Chatbot für die Website in Scheibbs",
+  "keyword": "ki chatbot website scheibbs",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "scheibbs",
+  "ortName": "Scheibbs",
+  "regionen": [
+   "bezirk-scheibbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/tulln/",
+  "slug": "ki-chatbot/tulln",
+  "titel": "KI-Chatbot für die Website in Tulln",
+  "keyword": "ki chatbot website tulln",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "tulln",
+  "ortName": "Tulln",
+  "regionen": [
+   "bezirk-tulln"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/waidhofen-an-der-thaya/",
+  "slug": "ki-chatbot/waidhofen-an-der-thaya",
+  "titel": "KI-Chatbot für die Website in Waidhofen an der Thaya",
+  "keyword": "ki chatbot website waidhofen an der thaya",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "waidhofen-an-der-thaya",
+  "ortName": "Waidhofen an der Thaya",
+  "regionen": [
+   "bezirk-waidhofen-an-der-thaya"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/wiener-neustadt/",
+  "slug": "ki-chatbot/wiener-neustadt",
+  "titel": "KI-Chatbot für die Website in Wiener Neustadt",
+  "keyword": "ki chatbot website wiener neustadt",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "wiener-neustadt",
+  "ortName": "Wiener Neustadt",
+  "regionen": [
+   "wiener-neustadt",
+   "bezirk-wiener-neustadt-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/zwettl/",
+  "slug": "ki-chatbot/zwettl",
+  "titel": "KI-Chatbot für die Website in Zwettl",
+  "keyword": "ki chatbot website zwettl",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "zwettl",
+  "ortName": "Zwettl",
+  "regionen": [
+   "bezirk-zwettl"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/waidhofen-an-der-ybbs/",
+  "slug": "ki-chatbot/waidhofen-an-der-ybbs",
+  "titel": "KI-Chatbot für die Website in Waidhofen an der Ybbs",
+  "keyword": "ki chatbot website waidhofen an der ybbs",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "waidhofen-an-der-ybbs",
+  "ortName": "Waidhofen an der Ybbs",
+  "regionen": [
+   "waidhofen-an-der-ybbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/wien/",
+  "slug": "ki-chatbot/wien",
+  "titel": "KI-Chatbot für die Website in Wien",
+  "keyword": "ki chatbot website wien",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "wien",
+  "ortName": "Wien",
+  "regionen": [
+   "wien"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/waldviertel/",
+  "slug": "ki-chatbot/waldviertel",
+  "titel": "KI-Chatbot für die Website in Waldviertel",
+  "keyword": "ki chatbot website waldviertel",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "waldviertel",
+  "ortName": "Waldviertel",
+  "regionen": [
+   "waldviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/weinviertel/",
+  "slug": "ki-chatbot/weinviertel",
+  "titel": "KI-Chatbot für die Website in Weinviertel",
+  "keyword": "ki chatbot website weinviertel",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "weinviertel",
+  "ortName": "Weinviertel",
+  "regionen": [
+   "weinviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-chatbot/mostviertel/",
+  "slug": "ki-chatbot/mostviertel",
+  "titel": "KI-Chatbot für die Website in Mostviertel",
+  "keyword": "ki chatbot website mostviertel",
+  "batch": "d-kombi-2",
+  "leistung": "ki-chatbot",
+  "ort": "mostviertel",
+  "ortName": "Mostviertel",
+  "regionen": [
+   "mostviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/amstetten/",
+  "slug": "seo/amstetten",
+  "titel": "Suchmaschinenoptimierung (SEO) in Amstetten",
+  "keyword": "seo agentur amstetten",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "amstetten",
+  "ortName": "Amstetten",
+  "regionen": [
+   "bezirk-amstetten"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/baden/",
+  "slug": "seo/baden",
+  "titel": "Suchmaschinenoptimierung (SEO) in Baden",
+  "keyword": "seo agentur baden",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "baden",
+  "ortName": "Baden",
+  "regionen": [
+   "bezirk-baden"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/bruck-an-der-leitha/",
+  "slug": "seo/bruck-an-der-leitha",
+  "titel": "Suchmaschinenoptimierung (SEO) in Bruck an der Leitha",
+  "keyword": "seo agentur bruck an der leitha",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "bruck-an-der-leitha",
+  "ortName": "Bruck an der Leitha",
+  "regionen": [
+   "bezirk-bruck-an-der-leitha"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/gaenserndorf/",
+  "slug": "seo/gaenserndorf",
+  "titel": "Suchmaschinenoptimierung (SEO) in Gänserndorf",
+  "keyword": "seo agentur gänserndorf",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "gaenserndorf",
+  "ortName": "Gänserndorf",
+  "regionen": [
+   "bezirk-gaenserndorf"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/gmuend/",
+  "slug": "seo/gmuend",
+  "titel": "Suchmaschinenoptimierung (SEO) in Gmünd",
+  "keyword": "seo agentur gmünd",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "gmuend",
+  "ortName": "Gmünd",
+  "regionen": [
+   "bezirk-gmuend"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/hollabrunn/",
+  "slug": "seo/hollabrunn",
+  "titel": "Suchmaschinenoptimierung (SEO) in Hollabrunn",
+  "keyword": "seo agentur hollabrunn",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "hollabrunn",
+  "ortName": "Hollabrunn",
+  "regionen": [
+   "bezirk-hollabrunn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/horn/",
+  "slug": "seo/horn",
+  "titel": "Suchmaschinenoptimierung (SEO) in Horn",
+  "keyword": "seo agentur horn",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "horn",
+  "ortName": "Horn",
+  "regionen": [
+   "bezirk-horn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/korneuburg/",
+  "slug": "seo/korneuburg",
+  "titel": "Suchmaschinenoptimierung (SEO) in Korneuburg",
+  "keyword": "seo agentur korneuburg",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "korneuburg",
+  "ortName": "Korneuburg",
+  "regionen": [
+   "bezirk-korneuburg"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/krems/",
+  "slug": "seo/krems",
+  "titel": "Suchmaschinenoptimierung (SEO) in Krems",
+  "keyword": "seo agentur krems",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "krems",
+  "ortName": "Krems",
+  "regionen": [
+   "krems-an-der-donau",
+   "bezirk-krems-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/lilienfeld/",
+  "slug": "seo/lilienfeld",
+  "titel": "Suchmaschinenoptimierung (SEO) in Lilienfeld",
+  "keyword": "seo agentur lilienfeld",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "lilienfeld",
+  "ortName": "Lilienfeld",
+  "regionen": [
+   "bezirk-lilienfeld"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/melk/",
+  "slug": "seo/melk",
+  "titel": "Suchmaschinenoptimierung (SEO) in Melk",
+  "keyword": "seo agentur melk",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "melk",
+  "ortName": "Melk",
+  "regionen": [
+   "bezirk-melk"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/mistelbach/",
+  "slug": "seo/mistelbach",
+  "titel": "Suchmaschinenoptimierung (SEO) in Mistelbach",
+  "keyword": "seo agentur mistelbach",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "mistelbach",
+  "ortName": "Mistelbach",
+  "regionen": [
+   "bezirk-mistelbach"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/moedling/",
+  "slug": "seo/moedling",
+  "titel": "Suchmaschinenoptimierung (SEO) in Mödling",
+  "keyword": "seo agentur mödling",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "moedling",
+  "ortName": "Mödling",
+  "regionen": [
+   "bezirk-moedling"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/neunkirchen/",
+  "slug": "seo/neunkirchen",
+  "titel": "Suchmaschinenoptimierung (SEO) in Neunkirchen",
+  "keyword": "seo agentur neunkirchen",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "neunkirchen",
+  "ortName": "Neunkirchen",
+  "regionen": [
+   "bezirk-neunkirchen"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/st-poelten/",
+  "slug": "seo/st-poelten",
+  "titel": "Suchmaschinenoptimierung (SEO) in St. Pölten",
+  "keyword": "seo agentur st. pölten",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "st-poelten",
+  "ortName": "St. Pölten",
+  "regionen": [
+   "st-poelten",
+   "bezirk-st-poelten-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/scheibbs/",
+  "slug": "seo/scheibbs",
+  "titel": "Suchmaschinenoptimierung (SEO) in Scheibbs",
+  "keyword": "seo agentur scheibbs",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "scheibbs",
+  "ortName": "Scheibbs",
+  "regionen": [
+   "bezirk-scheibbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/tulln/",
+  "slug": "seo/tulln",
+  "titel": "Suchmaschinenoptimierung (SEO) in Tulln",
+  "keyword": "seo agentur tulln",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "tulln",
+  "ortName": "Tulln",
+  "regionen": [
+   "bezirk-tulln"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/waidhofen-an-der-thaya/",
+  "slug": "seo/waidhofen-an-der-thaya",
+  "titel": "Suchmaschinenoptimierung (SEO) in Waidhofen an der Thaya",
+  "keyword": "seo agentur waidhofen an der thaya",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "waidhofen-an-der-thaya",
+  "ortName": "Waidhofen an der Thaya",
+  "regionen": [
+   "bezirk-waidhofen-an-der-thaya"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/wiener-neustadt/",
+  "slug": "seo/wiener-neustadt",
+  "titel": "Suchmaschinenoptimierung (SEO) in Wiener Neustadt",
+  "keyword": "seo agentur wiener neustadt",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "wiener-neustadt",
+  "ortName": "Wiener Neustadt",
+  "regionen": [
+   "wiener-neustadt",
+   "bezirk-wiener-neustadt-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/zwettl/",
+  "slug": "seo/zwettl",
+  "titel": "Suchmaschinenoptimierung (SEO) in Zwettl",
+  "keyword": "seo agentur zwettl",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "zwettl",
+  "ortName": "Zwettl",
+  "regionen": [
+   "bezirk-zwettl"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/waidhofen-an-der-ybbs/",
+  "slug": "seo/waidhofen-an-der-ybbs",
+  "titel": "Suchmaschinenoptimierung (SEO) in Waidhofen an der Ybbs",
+  "keyword": "seo agentur waidhofen an der ybbs",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "waidhofen-an-der-ybbs",
+  "ortName": "Waidhofen an der Ybbs",
+  "regionen": [
+   "waidhofen-an-der-ybbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/wien/",
+  "slug": "seo/wien",
+  "titel": "Suchmaschinenoptimierung (SEO) in Wien",
+  "keyword": "seo agentur wien",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "wien",
+  "ortName": "Wien",
+  "regionen": [
+   "wien"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/waldviertel/",
+  "slug": "seo/waldviertel",
+  "titel": "Suchmaschinenoptimierung (SEO) in Waldviertel",
+  "keyword": "seo agentur waldviertel",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "waldviertel",
+  "ortName": "Waldviertel",
+  "regionen": [
+   "waldviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/weinviertel/",
+  "slug": "seo/weinviertel",
+  "titel": "Suchmaschinenoptimierung (SEO) in Weinviertel",
+  "keyword": "seo agentur weinviertel",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "weinviertel",
+  "ortName": "Weinviertel",
+  "regionen": [
+   "weinviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/seo/mostviertel/",
+  "slug": "seo/mostviertel",
+  "titel": "Suchmaschinenoptimierung (SEO) in Mostviertel",
+  "keyword": "seo agentur mostviertel",
+  "batch": "d-kombi-3",
+  "leistung": "seo",
+  "ort": "mostviertel",
+  "ortName": "Mostviertel",
+  "regionen": [
+   "mostviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/amstetten/",
+  "slug": "ki-automatisierung/amstetten",
+  "titel": "KI & Prozessautomatisierung in Amstetten",
+  "keyword": "prozessautomatisierung ki amstetten",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "amstetten",
+  "ortName": "Amstetten",
+  "regionen": [
+   "bezirk-amstetten"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/baden/",
+  "slug": "ki-automatisierung/baden",
+  "titel": "KI & Prozessautomatisierung in Baden",
+  "keyword": "prozessautomatisierung ki baden",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "baden",
+  "ortName": "Baden",
+  "regionen": [
+   "bezirk-baden"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/bruck-an-der-leitha/",
+  "slug": "ki-automatisierung/bruck-an-der-leitha",
+  "titel": "KI & Prozessautomatisierung in Bruck an der Leitha",
+  "keyword": "prozessautomatisierung ki bruck an der leitha",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "bruck-an-der-leitha",
+  "ortName": "Bruck an der Leitha",
+  "regionen": [
+   "bezirk-bruck-an-der-leitha"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/gaenserndorf/",
+  "slug": "ki-automatisierung/gaenserndorf",
+  "titel": "KI & Prozessautomatisierung in Gänserndorf",
+  "keyword": "prozessautomatisierung ki gänserndorf",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "gaenserndorf",
+  "ortName": "Gänserndorf",
+  "regionen": [
+   "bezirk-gaenserndorf"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/gmuend/",
+  "slug": "ki-automatisierung/gmuend",
+  "titel": "KI & Prozessautomatisierung in Gmünd",
+  "keyword": "prozessautomatisierung ki gmünd",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "gmuend",
+  "ortName": "Gmünd",
+  "regionen": [
+   "bezirk-gmuend"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/hollabrunn/",
+  "slug": "ki-automatisierung/hollabrunn",
+  "titel": "KI & Prozessautomatisierung in Hollabrunn",
+  "keyword": "prozessautomatisierung ki hollabrunn",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "hollabrunn",
+  "ortName": "Hollabrunn",
+  "regionen": [
+   "bezirk-hollabrunn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/horn/",
+  "slug": "ki-automatisierung/horn",
+  "titel": "KI & Prozessautomatisierung in Horn",
+  "keyword": "prozessautomatisierung ki horn",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "horn",
+  "ortName": "Horn",
+  "regionen": [
+   "bezirk-horn"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/korneuburg/",
+  "slug": "ki-automatisierung/korneuburg",
+  "titel": "KI & Prozessautomatisierung in Korneuburg",
+  "keyword": "prozessautomatisierung ki korneuburg",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "korneuburg",
+  "ortName": "Korneuburg",
+  "regionen": [
+   "bezirk-korneuburg"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/krems/",
+  "slug": "ki-automatisierung/krems",
+  "titel": "KI & Prozessautomatisierung in Krems",
+  "keyword": "prozessautomatisierung ki krems",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "krems",
+  "ortName": "Krems",
+  "regionen": [
+   "krems-an-der-donau",
+   "bezirk-krems-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/lilienfeld/",
+  "slug": "ki-automatisierung/lilienfeld",
+  "titel": "KI & Prozessautomatisierung in Lilienfeld",
+  "keyword": "prozessautomatisierung ki lilienfeld",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "lilienfeld",
+  "ortName": "Lilienfeld",
+  "regionen": [
+   "bezirk-lilienfeld"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/melk/",
+  "slug": "ki-automatisierung/melk",
+  "titel": "KI & Prozessautomatisierung in Melk",
+  "keyword": "prozessautomatisierung ki melk",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "melk",
+  "ortName": "Melk",
+  "regionen": [
+   "bezirk-melk"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/mistelbach/",
+  "slug": "ki-automatisierung/mistelbach",
+  "titel": "KI & Prozessautomatisierung in Mistelbach",
+  "keyword": "prozessautomatisierung ki mistelbach",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "mistelbach",
+  "ortName": "Mistelbach",
+  "regionen": [
+   "bezirk-mistelbach"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/moedling/",
+  "slug": "ki-automatisierung/moedling",
+  "titel": "KI & Prozessautomatisierung in Mödling",
+  "keyword": "prozessautomatisierung ki mödling",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "moedling",
+  "ortName": "Mödling",
+  "regionen": [
+   "bezirk-moedling"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/neunkirchen/",
+  "slug": "ki-automatisierung/neunkirchen",
+  "titel": "KI & Prozessautomatisierung in Neunkirchen",
+  "keyword": "prozessautomatisierung ki neunkirchen",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "neunkirchen",
+  "ortName": "Neunkirchen",
+  "regionen": [
+   "bezirk-neunkirchen"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/st-poelten/",
+  "slug": "ki-automatisierung/st-poelten",
+  "titel": "KI & Prozessautomatisierung in St. Pölten",
+  "keyword": "prozessautomatisierung ki st. pölten",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "st-poelten",
+  "ortName": "St. Pölten",
+  "regionen": [
+   "st-poelten",
+   "bezirk-st-poelten-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/scheibbs/",
+  "slug": "ki-automatisierung/scheibbs",
+  "titel": "KI & Prozessautomatisierung in Scheibbs",
+  "keyword": "prozessautomatisierung ki scheibbs",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "scheibbs",
+  "ortName": "Scheibbs",
+  "regionen": [
+   "bezirk-scheibbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/tulln/",
+  "slug": "ki-automatisierung/tulln",
+  "titel": "KI & Prozessautomatisierung in Tulln",
+  "keyword": "prozessautomatisierung ki tulln",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "tulln",
+  "ortName": "Tulln",
+  "regionen": [
+   "bezirk-tulln"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/waidhofen-an-der-thaya/",
+  "slug": "ki-automatisierung/waidhofen-an-der-thaya",
+  "titel": "KI & Prozessautomatisierung in Waidhofen an der Thaya",
+  "keyword": "prozessautomatisierung ki waidhofen an der thaya",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "waidhofen-an-der-thaya",
+  "ortName": "Waidhofen an der Thaya",
+  "regionen": [
+   "bezirk-waidhofen-an-der-thaya"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/wiener-neustadt/",
+  "slug": "ki-automatisierung/wiener-neustadt",
+  "titel": "KI & Prozessautomatisierung in Wiener Neustadt",
+  "keyword": "prozessautomatisierung ki wiener neustadt",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "wiener-neustadt",
+  "ortName": "Wiener Neustadt",
+  "regionen": [
+   "wiener-neustadt",
+   "bezirk-wiener-neustadt-land"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/zwettl/",
+  "slug": "ki-automatisierung/zwettl",
+  "titel": "KI & Prozessautomatisierung in Zwettl",
+  "keyword": "prozessautomatisierung ki zwettl",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "zwettl",
+  "ortName": "Zwettl",
+  "regionen": [
+   "bezirk-zwettl"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/waidhofen-an-der-ybbs/",
+  "slug": "ki-automatisierung/waidhofen-an-der-ybbs",
+  "titel": "KI & Prozessautomatisierung in Waidhofen an der Ybbs",
+  "keyword": "prozessautomatisierung ki waidhofen an der ybbs",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "waidhofen-an-der-ybbs",
+  "ortName": "Waidhofen an der Ybbs",
+  "regionen": [
+   "waidhofen-an-der-ybbs"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/wien/",
+  "slug": "ki-automatisierung/wien",
+  "titel": "KI & Prozessautomatisierung in Wien",
+  "keyword": "prozessautomatisierung ki wien",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "wien",
+  "ortName": "Wien",
+  "regionen": [
+   "wien"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/waldviertel/",
+  "slug": "ki-automatisierung/waldviertel",
+  "titel": "KI & Prozessautomatisierung in Waldviertel",
+  "keyword": "prozessautomatisierung ki waldviertel",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "waldviertel",
+  "ortName": "Waldviertel",
+  "regionen": [
+   "waldviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/weinviertel/",
+  "slug": "ki-automatisierung/weinviertel",
+  "titel": "KI & Prozessautomatisierung in Weinviertel",
+  "keyword": "prozessautomatisierung ki weinviertel",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "weinviertel",
+  "ortName": "Weinviertel",
+  "regionen": [
+   "weinviertel"
+  ]
+ },
+ {
+  "typ": "kombi",
+  "pfad": "/leistungen/ki-automatisierung/mostviertel/",
+  "slug": "ki-automatisierung/mostviertel",
+  "titel": "KI & Prozessautomatisierung in Mostviertel",
+  "keyword": "prozessautomatisierung ki mostviertel",
+  "batch": "d-kombi-4",
+  "leistung": "ki-automatisierung",
+  "ort": "mostviertel",
+  "ortName": "Mostviertel",
+  "regionen": [
+   "mostviertel"
+  ]
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/was-kostet-eine-website/",
+  "slug": "was-kostet-eine-website",
+  "titel": "Was kostet eine Website in Österreich?",
+  "keyword": "Was kostet eine Website in Österreich?",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-laufende-kosten/",
+  "slug": "website-laufende-kosten",
+  "titel": "Laufende Kosten einer Website: Domain, Hosting, Wartung",
+  "keyword": "Laufende Kosten einer Website: Domain, Hosting, Wartung",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/at-domain-registrieren/",
+  "slug": "at-domain-registrieren",
+  "titel": ".at-Domain registrieren: So gehen Sie vor",
+  "keyword": ".at-Domain registrieren: So gehen Sie vor",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-selbst-oder-machen-lassen/",
+  "slug": "website-selbst-oder-machen-lassen",
+  "titel": "Website selbst bauen oder machen lassen?",
+  "keyword": "Website selbst bauen oder machen lassen?",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-baukasten-grenzen/",
+  "slug": "website-baukasten-grenzen",
+  "titel": "Website-Baukästen: Wo sie an Grenzen stoßen",
+  "keyword": "Website-Baukästen: Wo sie an Grenzen stoßen",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/wordpress-sicher-halten/",
+  "slug": "wordpress-sicher-halten",
+  "titel": "WordPress-Website sicher halten",
+  "keyword": "WordPress-Website sicher halten",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-relaunch-checkliste/",
+  "slug": "website-relaunch-checkliste",
+  "titel": "Checkliste für den Website-Relaunch",
+  "keyword": "Checkliste für den Website-Relaunch",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-ladezeit-verbessern/",
+  "slug": "website-ladezeit-verbessern",
+  "titel": "Website-Ladezeit verbessern",
+  "keyword": "Website-Ladezeit verbessern",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/mobile-optimierung/",
+  "slug": "mobile-optimierung",
+  "titel": "Mobile Optimierung: Warum das Smartphone zählt",
+  "keyword": "Mobile Optimierung: Warum das Smartphone zählt",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-texte-schreiben/",
+  "slug": "website-texte-schreiben",
+  "titel": "Website-Texte schreiben, die Anfragen bringen",
+  "keyword": "Website-Texte schreiben, die Anfragen bringen",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/startseite-aufbauen/",
+  "slug": "startseite-aufbauen",
+  "titel": "So bauen Sie eine gute Startseite auf",
+  "keyword": "So bauen Sie eine gute Startseite auf",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ueber-uns-seite/",
+  "slug": "ueber-uns-seite",
+  "titel": "Die Über-uns-Seite: Vertrauen aufbauen",
+  "keyword": "Die Über-uns-Seite: Vertrauen aufbauen",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/kontaktformular/",
+  "slug": "kontaktformular",
+  "titel": "Kontaktformular: Was ein gutes Formular ausmacht",
+  "keyword": "Kontaktformular: Was ein gutes Formular ausmacht",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/call-to-action/",
+  "slug": "call-to-action",
+  "titel": "Call-to-Action: Besucher zur Anfrage führen",
+  "keyword": "Call-to-Action: Besucher zur Anfrage führen",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-fotos/",
+  "slug": "website-fotos",
+  "titel": "Fotos für die Firmenwebsite",
+  "keyword": "Fotos für die Firmenwebsite",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/barrierefreie-website/",
+  "slug": "barrierefreie-website",
+  "titel": "Barrierefreie Website: Was Betriebe wissen sollten",
+  "keyword": "Barrierefreie Website: Was Betriebe wissen sollten",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/farben-und-schriften/",
+  "slug": "farben-und-schriften",
+  "titel": "Farben und Schriften für die Website wählen",
+  "keyword": "Farben und Schriften für die Website wählen",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/landingpage-oder-website/",
+  "slug": "landingpage-oder-website",
+  "titel": "Landingpage oder Website – was brauchen Sie?",
+  "keyword": "Landingpage oder Website – was brauchen Sie?",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/onepager-oder-mehrseitig/",
+  "slug": "onepager-oder-mehrseitig",
+  "titel": "Onepager oder mehrere Unterseiten?",
+  "keyword": "Onepager oder mehrere Unterseiten?",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-briefing/",
+  "slug": "website-briefing",
+  "titel": "Website-Briefing: Was die Agentur von Ihnen braucht",
+  "keyword": "Website-Briefing: Was die Agentur von Ihnen braucht",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-wartung/",
+  "slug": "website-wartung",
+  "titel": "Website-Wartung: Was dazugehört",
+  "keyword": "Website-Wartung: Was dazugehört",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ssl-https/",
+  "slug": "ssl-https",
+  "titel": "SSL und HTTPS einfach erklärt",
+  "keyword": "SSL und HTTPS einfach erklärt",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-backup/",
+  "slug": "website-backup",
+  "titel": "Backups für die Website",
+  "keyword": "Backups für die Website",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/hosting-in-europa/",
+  "slug": "hosting-in-europa",
+  "titel": "Hosting in Europa und Datenschutz",
+  "keyword": "Hosting in Europa und Datenschutz",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/e-mail-mit-eigener-domain/",
+  "slug": "e-mail-mit-eigener-domain",
+  "titel": "E-Mail-Adresse mit eigener Domain",
+  "keyword": "E-Mail-Adresse mit eigener Domain",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/e-mail-signatur/",
+  "slug": "e-mail-signatur",
+  "titel": "Die geschäftliche E-Mail-Signatur",
+  "keyword": "Die geschäftliche E-Mail-Signatur",
+  "batch": "e-wissen-1"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/social-vorschaubild/",
+  "slug": "social-vorschaubild",
+  "titel": "Vorschaubild für Links: So sieht Ihre Seite beim Teilen gut aus",
+  "keyword": "Vorschaubild für Links: So sieht Ihre Seite beim Teilen gut aus",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/besucheranalyse-ohne-cookies/",
+  "slug": "besucheranalyse-ohne-cookies",
+  "titel": "Besucher zählen ohne Cookie-Banner",
+  "keyword": "Besucher zählen ohne Cookie-Banner",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/analytics-alternativen/",
+  "slug": "analytics-alternativen",
+  "titel": "Alternativen zu Google Analytics",
+  "keyword": "Alternativen zu Google Analytics",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/cookie-banner/",
+  "slug": "cookie-banner",
+  "titel": "Cookie-Banner: Wann ist er nötig?",
+  "keyword": "Cookie-Banner: Wann ist er nötig?",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/impressum-pflicht/",
+  "slug": "impressum-pflicht",
+  "titel": "Impressumspflicht in Österreich: Die Grundlagen",
+  "keyword": "Impressumspflicht in Österreich: Die Grundlagen",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/datenschutzerklaerung/",
+  "slug": "datenschutzerklaerung",
+  "titel": "Datenschutzerklärung für die Website",
+  "keyword": "Datenschutzerklärung für die Website",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/dsgvo-kontaktformular/",
+  "slug": "dsgvo-kontaktformular",
+  "titel": "DSGVO und Kontaktformular",
+  "keyword": "DSGVO und Kontaktformular",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/bildrechte/",
+  "slug": "bildrechte",
+  "titel": "Bildrechte auf der Website",
+  "keyword": "Bildrechte auf der Website",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-fonts-lokal/",
+  "slug": "google-fonts-lokal",
+  "titel": "Google Fonts lokal einbinden",
+  "keyword": "Google Fonts lokal einbinden",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/agb-onlineshop/",
+  "slug": "agb-onlineshop",
+  "titel": "AGB im Onlineshop: Grundlagen",
+  "keyword": "AGB im Onlineshop: Grundlagen",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/eu-ai-act/",
+  "slug": "eu-ai-act",
+  "titel": "EU AI Act: Was KMU jetzt wissen sollten",
+  "keyword": "EU AI Act: Was KMU jetzt wissen sollten",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-und-datenschutz/",
+  "slug": "ki-und-datenschutz",
+  "titel": "KI im Betrieb und Datenschutz",
+  "keyword": "KI im Betrieb und Datenschutz",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/gespraechsaufzeichnung/",
+  "slug": "gespraechsaufzeichnung",
+  "titel": "Gespräche aufzeichnen: Information und Einwilligung",
+  "keyword": "Gespräche aufzeichnen: Information und Einwilligung",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-texte-urheberrecht/",
+  "slug": "ki-texte-urheberrecht",
+  "titel": "KI-Texte und KI-Bilder: Fragen zum Urheberrecht",
+  "keyword": "KI-Texte und KI-Bilder: Fragen zum Urheberrecht",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-grundlagen/",
+  "slug": "seo-grundlagen",
+  "titel": "SEO-Grundlagen für kleine Betriebe",
+  "keyword": "SEO-Grundlagen für kleine Betriebe",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/lokales-seo/",
+  "slug": "lokales-seo",
+  "titel": "Lokales SEO: In der Region gefunden werden",
+  "keyword": "Lokales SEO: In der Region gefunden werden",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-unternehmensprofil-optimieren/",
+  "slug": "google-unternehmensprofil-optimieren",
+  "titel": "Google-Unternehmensprofil optimieren",
+  "keyword": "Google-Unternehmensprofil optimieren",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-bewertungen-bekommen/",
+  "slug": "google-bewertungen-bekommen",
+  "titel": "Mehr Google-Bewertungen bekommen",
+  "keyword": "Mehr Google-Bewertungen bekommen",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/auf-bewertungen-antworten/",
+  "slug": "auf-bewertungen-antworten",
+  "titel": "Richtig auf Bewertungen antworten",
+  "keyword": "Richtig auf Bewertungen antworten",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/keywords-finden/",
+  "slug": "keywords-finden",
+  "titel": "Die richtigen Suchbegriffe finden",
+  "keyword": "Die richtigen Suchbegriffe finden",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/title-und-meta-description/",
+  "slug": "title-und-meta-description",
+  "titel": "Title und Meta-Description schreiben",
+  "keyword": "Title und Meta-Description schreiben",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/interne-verlinkung/",
+  "slug": "interne-verlinkung",
+  "titel": "Interne Verlinkung sinnvoll aufbauen",
+  "keyword": "Interne Verlinkung sinnvoll aufbauen",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/backlinks-kleine-betriebe/",
+  "slug": "backlinks-kleine-betriebe",
+  "titel": "Backlinks für kleine Betriebe",
+  "keyword": "Backlinks für kleine Betriebe",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-search-console/",
+  "slug": "google-search-console",
+  "titel": "Google Search Console einrichten",
+  "keyword": "Google Search Console einrichten",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-fehler/",
+  "slug": "seo-fehler",
+  "titel": "Typische SEO-Fehler vermeiden",
+  "keyword": "Typische SEO-Fehler vermeiden",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-dauer/",
+  "slug": "seo-dauer",
+  "titel": "Wie lange dauert SEO?",
+  "keyword": "Wie lange dauert SEO?",
+  "batch": "e-wissen-2"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-kosten/",
+  "slug": "seo-kosten",
+  "titel": "Was kostet SEO?",
+  "keyword": "Was kostet SEO?",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/strukturierte-daten/",
+  "slug": "strukturierte-daten",
+  "titel": "Strukturierte Daten (Schema.org) erklärt",
+  "keyword": "Strukturierte Daten (Schema.org) erklärt",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/bilder-seo/",
+  "slug": "bilder-seo",
+  "titel": "Bilder-SEO und Alt-Texte",
+  "keyword": "Bilder-SEO und Alt-Texte",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/lokale-landingpages/",
+  "slug": "lokale-landingpages",
+  "titel": "Lokale Landingpages richtig machen",
+  "keyword": "Lokale Landingpages richtig machen",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/branchenverzeichnisse/",
+  "slug": "branchenverzeichnisse",
+  "titel": "Branchenverzeichnisse in Österreich",
+  "keyword": "Branchenverzeichnisse in Österreich",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-handwerk/",
+  "slug": "seo-handwerk",
+  "titel": "SEO für Handwerksbetriebe",
+  "keyword": "SEO für Handwerksbetriebe",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-gastronomie/",
+  "slug": "seo-gastronomie",
+  "titel": "SEO für Gastronomie und Tourismus",
+  "keyword": "SEO für Gastronomie und Tourismus",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/seo-praxen/",
+  "slug": "seo-praxen",
+  "titel": "SEO für Praxen und Gesundheitsberufe",
+  "keyword": "SEO für Praxen und Gesundheitsberufe",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/nap-daten/",
+  "slug": "nap-daten",
+  "titel": "Name, Adresse, Telefon: Einheitliche Firmendaten",
+  "keyword": "Name, Adresse, Telefon: Einheitliche Firmendaten",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/duplicate-content/",
+  "slug": "duplicate-content",
+  "titel": "Doppelte Inhalte vermeiden",
+  "keyword": "Doppelte Inhalte vermeiden",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/indexierung-pruefen/",
+  "slug": "indexierung-pruefen",
+  "titel": "Ist meine Website bei Google indexiert?",
+  "keyword": "Ist meine Website bei Google indexiert?",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/was-ist-geo/",
+  "slug": "was-ist-geo",
+  "titel": "Was ist GEO (Generative Engine Optimization)?",
+  "keyword": "Was ist GEO (Generative Engine Optimization)?",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatgpt-empfiehlt-firmen/",
+  "slug": "chatgpt-empfiehlt-firmen",
+  "titel": "Wie ChatGPT Firmen empfiehlt",
+  "keyword": "Wie ChatGPT Firmen empfiehlt",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/in-chatgpt-gefunden-werden/",
+  "slug": "in-chatgpt-gefunden-werden",
+  "titel": "In ChatGPT gefunden werden: Erste Schritte",
+  "keyword": "In ChatGPT gefunden werden: Erste Schritte",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-ki-uebersichten/",
+  "slug": "google-ki-uebersichten",
+  "titel": "Google-KI-Übersichten und Ihr Betrieb",
+  "keyword": "Google-KI-Übersichten und Ihr Betrieb",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/llms-txt/",
+  "slug": "llms-txt",
+  "titel": "llms.txt einfach erklärt",
+  "keyword": "llms.txt einfach erklärt",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-crawler/",
+  "slug": "ki-crawler",
+  "titel": "KI-Crawler auf der Website zulassen oder sperren",
+  "keyword": "KI-Crawler auf der Website zulassen oder sperren",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/perplexity-gemini/",
+  "slug": "perplexity-gemini",
+  "titel": "Perplexity, Gemini & Co. für Betriebe",
+  "keyword": "Perplexity, Gemini & Co. für Betriebe",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/faq-fuer-ki-suchen/",
+  "slug": "faq-fuer-ki-suchen",
+  "titel": "FAQ-Inhalte, die KI-Suchen zitieren",
+  "keyword": "FAQ-Inhalte, die KI-Suchen zitieren",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/markenerwaehnungen/",
+  "slug": "markenerwaehnungen",
+  "titel": "Erwähnungen im Netz: Warum sie für KI zählen",
+  "keyword": "Erwähnungen im Netz: Warum sie für KI zählen",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-suche-trends/",
+  "slug": "ki-suche-trends",
+  "titel": "Wie sich die Suche durch KI verändert",
+  "keyword": "Wie sich die Suche durch KI verändert",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-sichtbarkeit-messen/",
+  "slug": "ki-sichtbarkeit-messen",
+  "titel": "KI-Sichtbarkeit messen",
+  "keyword": "KI-Sichtbarkeit messen",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-fuer-kleine-unternehmen/",
+  "slug": "ki-fuer-kleine-unternehmen",
+  "titel": "KI für kleine Unternehmen: Ein Überblick",
+  "keyword": "KI für kleine Unternehmen: Ein Überblick",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-beispiele-kmu/",
+  "slug": "ki-beispiele-kmu",
+  "titel": "KI im Betrieb: Konkrete Beispiele",
+  "keyword": "KI im Betrieb: Konkrete Beispiele",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatgpt-im-betrieb/",
+  "slug": "chatgpt-im-betrieb",
+  "titel": "ChatGPT im Betrieb sinnvoll nutzen",
+  "keyword": "ChatGPT im Betrieb sinnvoll nutzen",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-handwerk/",
+  "slug": "ki-handwerk",
+  "titel": "KI-Werkzeuge für Handwerksbetriebe",
+  "keyword": "KI-Werkzeuge für Handwerksbetriebe",
+  "batch": "e-wissen-3"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-gastronomie/",
+  "slug": "ki-gastronomie",
+  "titel": "KI in Gastronomie und Hotellerie",
+  "keyword": "KI in Gastronomie und Hotellerie",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-im-buero/",
+  "slug": "ki-im-buero",
+  "titel": "KI im Büroalltag",
+  "keyword": "KI im Büroalltag",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-texte-eigener-stil/",
+  "slug": "ki-texte-eigener-stil",
+  "titel": "KI-Texte im eigenen Stil",
+  "keyword": "KI-Texte im eigenen Stil",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-angebote-schreiben/",
+  "slug": "ki-angebote-schreiben",
+  "titel": "Angebote schneller schreiben mit KI",
+  "keyword": "Angebote schneller schreiben mit KI",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-grenzen/",
+  "slug": "ki-grenzen",
+  "titel": "Grenzen und Risiken von KI",
+  "keyword": "Grenzen und Risiken von KI",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-schulung/",
+  "slug": "ki-schulung",
+  "titel": "Mitarbeiter für KI fit machen",
+  "keyword": "Mitarbeiter für KI fit machen",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-kosten/",
+  "slug": "ki-kosten",
+  "titel": "Was kostet KI im Betrieb?",
+  "keyword": "Was kostet KI im Betrieb?",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-projekt-starten/",
+  "slug": "ki-projekt-starten",
+  "titel": "Ein KI-Projekt richtig starten",
+  "keyword": "Ein KI-Projekt richtig starten",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatbot-vorteile/",
+  "slug": "chatbot-vorteile",
+  "titel": "Vorteile eines KI-Chatbots auf der Website",
+  "keyword": "Vorteile eines KI-Chatbots auf der Website",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatbot-kosten/",
+  "slug": "chatbot-kosten",
+  "titel": "Was kostet ein KI-Chatbot?",
+  "keyword": "Was kostet ein KI-Chatbot?",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatbot-datenschutz/",
+  "slug": "chatbot-datenschutz",
+  "titel": "KI-Chatbot und Datenschutz",
+  "keyword": "KI-Chatbot und Datenschutz",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatbot-inhalte/",
+  "slug": "chatbot-inhalte",
+  "titel": "Mit welchen Inhalten ein Chatbot antwortet",
+  "keyword": "Mit welchen Inhalten ein Chatbot antwortet",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/chatbot-fehler/",
+  "slug": "chatbot-fehler",
+  "titel": "Fehler bei Website-Chatbots vermeiden",
+  "keyword": "Fehler bei Website-Chatbots vermeiden",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/whatsapp-business/",
+  "slug": "whatsapp-business",
+  "titel": "WhatsApp Business für Betriebe",
+  "keyword": "WhatsApp Business für Betriebe",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/whatsapp-kundenservice/",
+  "slug": "whatsapp-kundenservice",
+  "titel": "Kundenservice über WhatsApp",
+  "keyword": "Kundenservice über WhatsApp",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-telefonassistent-erklaert/",
+  "slug": "ki-telefonassistent-erklaert",
+  "titel": "KI-Telefonassistent: So funktioniert er",
+  "keyword": "KI-Telefonassistent: So funktioniert er",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/erreichbarkeit/",
+  "slug": "erreichbarkeit",
+  "titel": "Erreichbar sein außerhalb der Öffnungszeiten",
+  "keyword": "Erreichbar sein außerhalb der Öffnungszeiten",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/online-terminbuchung/",
+  "slug": "online-terminbuchung",
+  "titel": "Online-Terminbuchung einführen",
+  "keyword": "Online-Terminbuchung einführen",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/prozessautomatisierung-erklaert/",
+  "slug": "prozessautomatisierung-erklaert",
+  "titel": "Was ist Prozessautomatisierung?",
+  "keyword": "Was ist Prozessautomatisierung?",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/automatisierung-beispiele/",
+  "slug": "automatisierung-beispiele",
+  "titel": "Automatisierung: Beispiele aus kleinen Betrieben",
+  "keyword": "Automatisierung: Beispiele aus kleinen Betrieben",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/angebote-automatisieren/",
+  "slug": "angebote-automatisieren",
+  "titel": "Angebote und Nachfassen automatisieren",
+  "keyword": "Angebote und Nachfassen automatisieren",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/belege-digital/",
+  "slug": "belege-digital",
+  "titel": "Rechnungen und Belege digital ablegen",
+  "keyword": "Rechnungen und Belege digital ablegen",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/e-mails-sortieren/",
+  "slug": "e-mails-sortieren",
+  "titel": "E-Mails automatisch vorsortieren",
+  "keyword": "E-Mails automatisch vorsortieren",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/crm-kleine-betriebe/",
+  "slug": "crm-kleine-betriebe",
+  "titel": "CRM für kleine Betriebe",
+  "keyword": "CRM für kleine Betriebe",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/automatisierung-ohne-programmieren/",
+  "slug": "automatisierung-ohne-programmieren",
+  "titel": "Automatisierung ohne Programmieren",
+  "keyword": "Automatisierung ohne Programmieren",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/automatisierung-nutzen/",
+  "slug": "automatisierung-nutzen",
+  "titel": "Kosten und Nutzen von Automatisierung",
+  "keyword": "Kosten und Nutzen von Automatisierung",
+  "batch": "e-wissen-4"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/papierloses-buero/",
+  "slug": "papierloses-buero",
+  "titel": "Das papierlose Büro",
+  "keyword": "Das papierlose Büro",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/meeting-protokoll-schreiben/",
+  "slug": "meeting-protokoll-schreiben",
+  "titel": "Ein gutes Meeting-Protokoll schreiben",
+  "keyword": "Ein gutes Meeting-Protokoll schreiben",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-meeting-protokoll/",
+  "slug": "ki-meeting-protokoll",
+  "titel": "KI-Meeting-Protokolle: Vor- und Nachteile",
+  "keyword": "KI-Meeting-Protokolle: Vor- und Nachteile",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/kundengespraeche-dokumentieren/",
+  "slug": "kundengespraeche-dokumentieren",
+  "titel": "Kundengespräche dokumentieren",
+  "keyword": "Kundengespräche dokumentieren",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/besprechungen-effizient/",
+  "slug": "besprechungen-effizient",
+  "titel": "Besprechungen effizienter machen",
+  "keyword": "Besprechungen effizienter machen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/social-media-kleine-betriebe/",
+  "slug": "social-media-kleine-betriebe",
+  "titel": "Social Media für kleine Betriebe",
+  "keyword": "Social Media für kleine Betriebe",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/instagram-unternehmen/",
+  "slug": "instagram-unternehmen",
+  "titel": "Instagram für Unternehmen",
+  "keyword": "Instagram für Unternehmen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/linkedin-kmu/",
+  "slug": "linkedin-kmu",
+  "titel": "LinkedIn für KMU",
+  "keyword": "LinkedIn für KMU",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/redaktionsplan/",
+  "slug": "redaktionsplan",
+  "titel": "Social-Media-Redaktionsplan erstellen",
+  "keyword": "Social-Media-Redaktionsplan erstellen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/wie-oft-posten/",
+  "slug": "wie-oft-posten",
+  "titel": "Wie oft sollte ein Betrieb posten?",
+  "keyword": "Wie oft sollte ein Betrieb posten?",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/social-media-ideen-handwerk/",
+  "slug": "social-media-ideen-handwerk",
+  "titel": "Social-Media-Ideen fürs Handwerk",
+  "keyword": "Social-Media-Ideen fürs Handwerk",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/social-media-automatisieren/",
+  "slug": "social-media-automatisieren",
+  "titel": "Social Media automatisieren",
+  "keyword": "Social Media automatisieren",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/facebook-fuer-betriebe/",
+  "slug": "facebook-fuer-betriebe",
+  "titel": "Ist Facebook für Betriebe noch sinnvoll?",
+  "keyword": "Ist Facebook für Betriebe noch sinnvoll?",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/social-media-bildrechte/",
+  "slug": "social-media-bildrechte",
+  "titel": "Bilder und Musik auf Social Media: Rechte beachten",
+  "keyword": "Bilder und Musik auf Social Media: Rechte beachten",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/neukunden-gewinnen/",
+  "slug": "neukunden-gewinnen",
+  "titel": "Neukunden gewinnen als kleiner Betrieb",
+  "keyword": "Neukunden gewinnen als kleiner Betrieb",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/b2b-kunden-finden/",
+  "slug": "b2b-kunden-finden",
+  "titel": "B2B-Kunden in der Region finden",
+  "keyword": "B2B-Kunden in der Region finden",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/kaltakquise-regeln/",
+  "slug": "kaltakquise-regeln",
+  "titel": "Kaltakquise per E-Mail und Telefon: Regeln in Österreich",
+  "keyword": "Kaltakquise per E-Mail und Telefon: Regeln in Österreich",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/empfehlungsmarketing/",
+  "slug": "empfehlungsmarketing",
+  "titel": "Empfehlungsmarketing gezielt nutzen",
+  "keyword": "Empfehlungsmarketing gezielt nutzen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/angebot-nachfassen/",
+  "slug": "angebot-nachfassen",
+  "titel": "Angebote richtig nachfassen",
+  "keyword": "Angebote richtig nachfassen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/vertriebspartner-werden/",
+  "slug": "vertriebspartner-werden",
+  "titel": "Vertriebspartner für digitale Lösungen werden",
+  "keyword": "Vertriebspartner für digitale Lösungen werden",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/provision-vertriebspartner/",
+  "slug": "provision-vertriebspartner",
+  "titel": "Provision als Vertriebspartner: So funktioniert es",
+  "keyword": "Provision als Vertriebspartner: So funktioniert es",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/nebenberuflich-vermitteln/",
+  "slug": "nebenberuflich-vermitteln",
+  "titel": "Nebenberuflich digitale Lösungen vermitteln",
+  "keyword": "Nebenberuflich digitale Lösungen vermitteln",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/anfragen-qualitaet/",
+  "slug": "anfragen-qualitaet",
+  "titel": "Bessere Anfragen statt mehr Anfragen",
+  "keyword": "Bessere Anfragen statt mehr Anfragen",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/eigene-app-sinnvoll/",
+  "slug": "eigene-app-sinnvoll",
+  "titel": "Wann ist eine eigene App sinnvoll?",
+  "keyword": "Wann ist eine eigene App sinnvoll?",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/app-kosten/",
+  "slug": "app-kosten",
+  "titel": "Was kostet eine App?",
+  "keyword": "Was kostet eine App?",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/app-oder-website/",
+  "slug": "app-oder-website",
+  "titel": "App oder Website – was passt?",
+  "keyword": "App oder Website – was passt?",
+  "batch": "e-wissen-5"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/app-store-veroeffentlichung/",
+  "slug": "app-store-veroeffentlichung",
+  "titel": "Eine App im App Store veröffentlichen",
+  "keyword": "Eine App im App Store veröffentlichen",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/app-fuer-mitarbeiter/",
+  "slug": "app-fuer-mitarbeiter",
+  "titel": "Apps für Mitarbeiter",
+  "keyword": "Apps für Mitarbeiter",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/onlineshop-starten/",
+  "slug": "onlineshop-starten",
+  "titel": "Einen Onlineshop starten",
+  "keyword": "Einen Onlineshop starten",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/onlineshop-kosten/",
+  "slug": "onlineshop-kosten",
+  "titel": "Was kostet ein Onlineshop?",
+  "keyword": "Was kostet ein Onlineshop?",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/zahlungsarten-onlineshop/",
+  "slug": "zahlungsarten-onlineshop",
+  "titel": "Zahlungsarten im Onlineshop",
+  "keyword": "Zahlungsarten im Onlineshop",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/versand-onlineshop/",
+  "slug": "versand-onlineshop",
+  "titel": "Versand im Onlineshop organisieren",
+  "keyword": "Versand im Onlineshop organisieren",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-wo-anfangen/",
+  "slug": "digitalisierung-wo-anfangen",
+  "titel": "Digitalisierung im Betrieb: Wo anfangen?",
+  "keyword": "Digitalisierung im Betrieb: Wo anfangen?",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-waldviertel/",
+  "slug": "digitalisierung-waldviertel",
+  "titel": "Digitalisierung im Waldviertel",
+  "keyword": "Digitalisierung im Waldviertel",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/foerderungen-digitalisierung/",
+  "slug": "foerderungen-digitalisierung",
+  "titel": "Förderungen für Digitalisierung in Österreich",
+  "keyword": "Förderungen für Digitalisierung in Österreich",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-handwerk/",
+  "slug": "digitalisierung-handwerk",
+  "titel": "Digitalisierung im Handwerk",
+  "keyword": "Digitalisierung im Handwerk",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-landwirtschaft/",
+  "slug": "digitalisierung-landwirtschaft",
+  "titel": "Digitalisierung in der Landwirtschaft",
+  "keyword": "Digitalisierung in der Landwirtschaft",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-gemeinden/",
+  "slug": "digitalisierung-gemeinden",
+  "titel": "Digitale Angebote für Gemeinden",
+  "keyword": "Digitale Angebote für Gemeinden",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalisierung-vereine/",
+  "slug": "digitalisierung-vereine",
+  "titel": "Digitalisierung für Vereine",
+  "keyword": "Digitalisierung für Vereine",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/it-sicherheit/",
+  "slug": "it-sicherheit",
+  "titel": "IT-Sicherheit für kleine Betriebe",
+  "keyword": "IT-Sicherheit für kleine Betriebe",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/passwort-manager/",
+  "slug": "passwort-manager",
+  "titel": "Passwort-Manager im Betrieb",
+  "keyword": "Passwort-Manager im Betrieb",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/phishing-erkennen/",
+  "slug": "phishing-erkennen",
+  "titel": "Phishing-Mails erkennen",
+  "keyword": "Phishing-Mails erkennen",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/cloud-speicher/",
+  "slug": "cloud-speicher",
+  "titel": "Cloud-Speicher und Datenschutz",
+  "keyword": "Cloud-Speicher und Datenschutz",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/mitarbeiter-finden-online/",
+  "slug": "mitarbeiter-finden-online",
+  "titel": "Mitarbeiter online finden",
+  "keyword": "Mitarbeiter online finden",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/stellenanzeige-schreiben/",
+  "slug": "stellenanzeige-schreiben",
+  "titel": "Eine gute Stellenanzeige schreiben",
+  "keyword": "Eine gute Stellenanzeige schreiben",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/karriereseite/",
+  "slug": "karriereseite",
+  "titel": "Die Karriereseite auf der Firmenwebsite",
+  "keyword": "Die Karriereseite auf der Firmenwebsite",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/arbeitgebermarke/",
+  "slug": "arbeitgebermarke",
+  "titel": "Arbeitgebermarke für kleine Betriebe",
+  "keyword": "Arbeitgebermarke für kleine Betriebe",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitale-visitenkarte/",
+  "slug": "digitale-visitenkarte",
+  "titel": "Visitenkarte mit QR-Code",
+  "keyword": "Visitenkarte mit QR-Code",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/newsletter-kmu/",
+  "slug": "newsletter-kmu",
+  "titel": "Newsletter für kleine Betriebe",
+  "keyword": "Newsletter für kleine Betriebe",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/online-ruf/",
+  "slug": "online-ruf",
+  "titel": "Den guten Ruf im Netz pflegen",
+  "keyword": "Den guten Ruf im Netz pflegen",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-pruefen/",
+  "slug": "website-pruefen",
+  "titel": "Die eigene Website prüfen: Eine Checkliste",
+  "keyword": "Die eigene Website prüfen: Eine Checkliste",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/agentur-auswaehlen/",
+  "slug": "agentur-auswaehlen",
+  "titel": "Die passende Digitalagentur auswählen",
+  "keyword": "Die passende Digitalagentur auswählen",
+  "batch": "e-wissen-6"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-angebote-vergleichen/",
+  "slug": "website-angebote-vergleichen",
+  "titel": "Website-Angebote richtig vergleichen",
+  "keyword": "Website-Angebote richtig vergleichen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-projekt-ablauf/",
+  "slug": "website-projekt-ablauf",
+  "titel": "So läuft ein Website-Projekt ab",
+  "keyword": "So läuft ein Website-Projekt ab",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/erstgespraech-vorbereiten/",
+  "slug": "erstgespraech-vorbereiten",
+  "titel": "Das Erstgespräch gut vorbereiten",
+  "keyword": "Das Erstgespräch gut vorbereiten",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitalberater/",
+  "slug": "digitalberater",
+  "titel": "Was macht ein Digitalberater?",
+  "keyword": "Was macht ein Digitalberater?",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/laendlicher-raum/",
+  "slug": "laendlicher-raum",
+  "titel": "Digital erfolgreich im ländlichen Raum",
+  "keyword": "Digital erfolgreich im ländlichen Raum",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/google-ads-grundlagen/",
+  "slug": "google-ads-grundlagen",
+  "titel": "Google Ads: Grundlagen für kleine Betriebe",
+  "keyword": "Google Ads: Grundlagen für kleine Betriebe",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-statistik-lesen/",
+  "slug": "website-statistik-lesen",
+  "titel": "Website-Statistik richtig lesen",
+  "keyword": "Website-Statistik richtig lesen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/conversion-verbessern/",
+  "slug": "conversion-verbessern",
+  "titel": "Mehr Anfragen aus denselben Besuchern",
+  "keyword": "Mehr Anfragen aus denselben Besuchern",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/vertrauen-online/",
+  "slug": "vertrauen-online",
+  "titel": "Vertrauen online aufbauen",
+  "keyword": "Vertrauen online aufbauen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/referenzen-zeigen/",
+  "slug": "referenzen-zeigen",
+  "titel": "Referenzen und Kundenstimmen zeigen",
+  "keyword": "Referenzen und Kundenstimmen zeigen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/preise-auf-website/",
+  "slug": "preise-auf-website",
+  "titel": "Preise auf der Website zeigen?",
+  "keyword": "Preise auf der Website zeigen?",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/mehrsprachige-website/",
+  "slug": "mehrsprachige-website",
+  "titel": "Mehrsprachige Website: Wann lohnt sie sich?",
+  "keyword": "Mehrsprachige Website: Wann lohnt sie sich?",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-fuer-tourismus/",
+  "slug": "website-fuer-tourismus",
+  "titel": "Die Website im Tourismus",
+  "keyword": "Die Website im Tourismus",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/saisonbetrieb-digital/",
+  "slug": "saisonbetrieb-digital",
+  "titel": "Digital durch die Nebensaison",
+  "keyword": "Digital durch die Nebensaison",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/regionale-produkte-online/",
+  "slug": "regionale-produkte-online",
+  "titel": "Regionale Produkte online verkaufen",
+  "keyword": "Regionale Produkte online verkaufen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/gutscheine-online/",
+  "slug": "gutscheine-online",
+  "titel": "Gutscheine online verkaufen",
+  "keyword": "Gutscheine online verkaufen",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/veranstaltungen-bewerben/",
+  "slug": "veranstaltungen-bewerben",
+  "titel": "Veranstaltungen online bewerben",
+  "keyword": "Veranstaltungen online bewerben",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/digitale-speisekarte/",
+  "slug": "digitale-speisekarte",
+  "titel": "Die digitale Speisekarte",
+  "keyword": "Die digitale Speisekarte",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/online-reservierung/",
+  "slug": "online-reservierung",
+  "titel": "Online-Reservierung für Gastronomie",
+  "keyword": "Online-Reservierung für Gastronomie",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/praxis-website/",
+  "slug": "praxis-website",
+  "titel": "Was eine Praxis-Website braucht",
+  "keyword": "Was eine Praxis-Website braucht",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/handwerker-website/",
+  "slug": "handwerker-website",
+  "titel": "Was eine Handwerker-Website braucht",
+  "keyword": "Was eine Handwerker-Website braucht",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/kanzlei-website/",
+  "slug": "kanzlei-website",
+  "titel": "Was eine Kanzlei-Website braucht",
+  "keyword": "Was eine Kanzlei-Website braucht",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/website-texte-mit-ki/",
+  "slug": "website-texte-mit-ki",
+  "titel": "Website-Texte mit KI schreiben",
+  "keyword": "Website-Texte mit KI schreiben",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "wissen",
+  "pfad": "/wissen/ki-bilder-website/",
+  "slug": "ki-bilder-website",
+  "titel": "KI-Bilder auf der Website",
+  "keyword": "KI-Bilder auf der Website",
+  "batch": "e-wissen-7"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/cms/",
+  "slug": "cms",
+  "titel": "CMS",
+  "keyword": "cms erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/domain/",
+  "slug": "domain",
+  "titel": "Domain",
+  "keyword": "domain erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/dns/",
+  "slug": "dns",
+  "titel": "DNS",
+  "keyword": "dns erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/hosting/",
+  "slug": "hosting",
+  "titel": "Hosting",
+  "keyword": "hosting erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/ssl-zertifikat/",
+  "slug": "ssl-zertifikat",
+  "titel": "SSL-Zertifikat",
+  "keyword": "ssl-zertifikat erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/responsive-design/",
+  "slug": "responsive-design",
+  "titel": "Responsive Design",
+  "keyword": "responsive design erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/landingpage/",
+  "slug": "landingpage",
+  "titel": "Landingpage",
+  "keyword": "landingpage erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/call-to-action/",
+  "slug": "call-to-action",
+  "titel": "Call-to-Action",
+  "keyword": "call-to-action erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/conversion/",
+  "slug": "conversion",
+  "titel": "Conversion",
+  "keyword": "conversion erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/absprungrate/",
+  "slug": "absprungrate",
+  "titel": "Absprungrate",
+  "keyword": "absprungrate erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/seo/",
+  "slug": "seo",
+  "titel": "SEO",
+  "keyword": "seo erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/geo/",
+  "slug": "geo",
+  "titel": "GEO",
+  "keyword": "geo erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/keyword/",
+  "slug": "keyword",
+  "titel": "Keyword",
+  "keyword": "keyword erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/meta-description/",
+  "slug": "meta-description",
+  "titel": "Meta-Description",
+  "keyword": "meta-description erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/title-tag/",
+  "slug": "title-tag",
+  "titel": "Title-Tag",
+  "keyword": "title-tag erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/backlink/",
+  "slug": "backlink",
+  "titel": "Backlink",
+  "keyword": "backlink erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/interne-verlinkung/",
+  "slug": "interne-verlinkung",
+  "titel": "Interne Verlinkung",
+  "keyword": "interne verlinkung erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/xml-sitemap/",
+  "slug": "xml-sitemap",
+  "titel": "XML-Sitemap",
+  "keyword": "xml-sitemap erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/robots-txt/",
+  "slug": "robots-txt",
+  "titel": "robots.txt",
+  "keyword": "robots.txt erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/llms-txt/",
+  "slug": "llms-txt",
+  "titel": "llms.txt",
+  "keyword": "llms.txt erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/indexierung/",
+  "slug": "indexierung",
+  "titel": "Indexierung",
+  "keyword": "indexierung erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/crawler/",
+  "slug": "crawler",
+  "titel": "Crawler",
+  "keyword": "crawler erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/core-web-vitals/",
+  "slug": "core-web-vitals",
+  "titel": "Core Web Vitals",
+  "keyword": "core web vitals erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/schema-markup/",
+  "slug": "schema-markup",
+  "titel": "Schema-Markup",
+  "keyword": "schema-markup erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/rich-snippet/",
+  "slug": "rich-snippet",
+  "titel": "Rich Snippet",
+  "keyword": "rich snippet erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/local-seo/",
+  "slug": "local-seo",
+  "titel": "Local SEO",
+  "keyword": "local seo erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/google-unternehmensprofil/",
+  "slug": "google-unternehmensprofil",
+  "titel": "Google-Unternehmensprofil",
+  "keyword": "google-unternehmensprofil erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/nap-daten/",
+  "slug": "nap-daten",
+  "titel": "NAP-Daten",
+  "keyword": "nap-daten erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/serp/",
+  "slug": "serp",
+  "titel": "SERP",
+  "keyword": "serp erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/ki-uebersicht/",
+  "slug": "ki-uebersicht",
+  "titel": "KI-Übersicht",
+  "keyword": "ki-übersicht erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/large-language-model/",
+  "slug": "large-language-model",
+  "titel": "Large Language Model",
+  "keyword": "large language model erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/prompt/",
+  "slug": "prompt",
+  "titel": "Prompt",
+  "keyword": "prompt erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/chatbot/",
+  "slug": "chatbot",
+  "titel": "Chatbot",
+  "keyword": "chatbot erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/rag/",
+  "slug": "rag",
+  "titel": "RAG",
+  "keyword": "rag erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/halluzination/",
+  "slug": "halluzination",
+  "titel": "Halluzination",
+  "keyword": "halluzination erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/token/",
+  "slug": "token",
+  "titel": "Token",
+  "keyword": "token erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/api/",
+  "slug": "api",
+  "titel": "API",
+  "keyword": "api erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/automatisierung/",
+  "slug": "automatisierung",
+  "titel": "Automatisierung",
+  "keyword": "automatisierung erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/workflow/",
+  "slug": "workflow",
+  "titel": "Workflow",
+  "keyword": "workflow erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/webhook/",
+  "slug": "webhook",
+  "titel": "Webhook",
+  "keyword": "webhook erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/crm/",
+  "slug": "crm",
+  "titel": "CRM",
+  "keyword": "crm erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/lead/",
+  "slug": "lead",
+  "titel": "Lead",
+  "keyword": "lead erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/leadgenerierung/",
+  "slug": "leadgenerierung",
+  "titel": "Leadgenerierung",
+  "keyword": "leadgenerierung erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/kaltakquise/",
+  "slug": "kaltakquise",
+  "titel": "Kaltakquise",
+  "keyword": "kaltakquise erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/inbound-marketing/",
+  "slug": "inbound-marketing",
+  "titel": "Inbound-Marketing",
+  "keyword": "inbound-marketing erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/sales-funnel/",
+  "slug": "sales-funnel",
+  "titel": "Sales Funnel",
+  "keyword": "sales funnel erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/a-b-test/",
+  "slug": "a-b-test",
+  "titel": "A/B-Test",
+  "keyword": "a/b-test erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/dsgvo/",
+  "slug": "dsgvo",
+  "titel": "DSGVO",
+  "keyword": "dsgvo erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/cookie/",
+  "slug": "cookie",
+  "titel": "Cookie",
+  "keyword": "cookie erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/impressum/",
+  "slug": "impressum",
+  "titel": "Impressum",
+  "keyword": "impressum erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/barrierefreiheit/",
+  "slug": "barrierefreiheit",
+  "titel": "Barrierefreiheit",
+  "keyword": "barrierefreiheit erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/web-app/",
+  "slug": "web-app",
+  "titel": "Web-App",
+  "keyword": "web-app erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/native-app/",
+  "slug": "native-app",
+  "titel": "Native App",
+  "keyword": "native app erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/pwa/",
+  "slug": "pwa",
+  "titel": "PWA",
+  "keyword": "pwa erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/saas/",
+  "slug": "saas",
+  "titel": "SaaS",
+  "keyword": "saas erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/onlineshop/",
+  "slug": "onlineshop",
+  "titel": "Onlineshop",
+  "keyword": "onlineshop erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/payment-provider/",
+  "slug": "payment-provider",
+  "titel": "Payment-Provider",
+  "keyword": "payment-provider erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/redaktionsplan/",
+  "slug": "redaktionsplan",
+  "titel": "Redaktionsplan",
+  "keyword": "redaktionsplan erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/engagement/",
+  "slug": "engagement",
+  "titel": "Engagement",
+  "keyword": "engagement erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "glossar",
+  "pfad": "/glossar/vertriebspartner/",
+  "slug": "vertriebspartner",
+  "titel": "Vertriebspartner",
+  "keyword": "vertriebspartner erklärung",
+  "batch": "f-glossar"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/wix-oder-eigene-website/",
+  "slug": "wix-oder-eigene-website",
+  "titel": "Wix oder eigene Website?",
+  "keyword": "Wix oder eigene Website?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/wordpress-oder-individuell/",
+  "slug": "wordpress-oder-individuell",
+  "titel": "WordPress oder individuelle Website?",
+  "keyword": "WordPress oder individuelle Website?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/baukasten-oder-agentur/",
+  "slug": "baukasten-oder-agentur",
+  "titel": "Baukasten oder Agentur?",
+  "keyword": "Baukasten oder Agentur?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/agentur-oder-freelancer/",
+  "slug": "agentur-oder-freelancer",
+  "titel": "Agentur oder Freelancer?",
+  "keyword": "Agentur oder Freelancer?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/chatgpt-oder-claude/",
+  "slug": "chatgpt-oder-claude",
+  "titel": "ChatGPT oder Claude im Betrieb?",
+  "keyword": "ChatGPT oder Claude im Betrieb?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/chatbot-oder-faq-seite/",
+  "slug": "chatbot-oder-faq-seite",
+  "titel": "KI-Chatbot oder FAQ-Seite?",
+  "keyword": "KI-Chatbot oder FAQ-Seite?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/whatsapp-oder-e-mail/",
+  "slug": "whatsapp-oder-e-mail",
+  "titel": "WhatsApp oder E-Mail im Kundenservice?",
+  "keyword": "WhatsApp oder E-Mail im Kundenservice?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/native-app-oder-web-app/",
+  "slug": "native-app-oder-web-app",
+  "titel": "Native App oder Web-App?",
+  "keyword": "Native App oder Web-App?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/shopify-oder-woocommerce/",
+  "slug": "shopify-oder-woocommerce",
+  "titel": "Shopify oder WooCommerce?",
+  "keyword": "Shopify oder WooCommerce?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/eigener-shop-oder-marktplatz/",
+  "slug": "eigener-shop-oder-marktplatz",
+  "titel": "Eigener Onlineshop oder Marktplatz?",
+  "keyword": "Eigener Onlineshop oder Marktplatz?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/seo-oder-google-ads/",
+  "slug": "seo-oder-google-ads",
+  "titel": "SEO oder Google Ads?",
+  "keyword": "SEO oder Google Ads?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/seo-oder-geo/",
+  "slug": "seo-oder-geo",
+  "titel": "SEO oder GEO?",
+  "keyword": "SEO oder GEO?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/instagram-oder-linkedin/",
+  "slug": "instagram-oder-linkedin",
+  "titel": "Instagram oder LinkedIn?",
+  "keyword": "Instagram oder LinkedIn?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/zapier-make-n8n/",
+  "slug": "zapier-make-n8n",
+  "titel": "Zapier, Make oder n8n?",
+  "keyword": "Zapier, Make oder n8n?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/protokoll-manuell-oder-ki/",
+  "slug": "protokoll-manuell-oder-ki",
+  "titel": "Meeting-Protokoll: von Hand oder mit KI?",
+  "keyword": "Meeting-Protokoll: von Hand oder mit KI?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/kaltakquise-oder-inbound/",
+  "slug": "kaltakquise-oder-inbound",
+  "titel": "Kaltakquise oder Inbound-Marketing?",
+  "keyword": "Kaltakquise oder Inbound-Marketing?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/eigene-domain-oder-gmail/",
+  "slug": "eigene-domain-oder-gmail",
+  "titel": "Eigene Domain oder Gmail-Adresse?",
+  "keyword": "Eigene Domain oder Gmail-Adresse?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/hosting-europa-oder-usa/",
+  "slug": "hosting-europa-oder-usa",
+  "titel": "Hosting in Europa oder in den USA?",
+  "keyword": "Hosting in Europa oder in den USA?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/telefonassistent-oder-callcenter/",
+  "slug": "telefonassistent-oder-callcenter",
+  "titel": "KI-Telefonassistent oder Callcenter?",
+  "keyword": "KI-Telefonassistent oder Callcenter?",
+  "batch": "g-vergleiche"
+ },
+ {
+  "typ": "vergleich",
+  "pfad": "/vergleiche/website-mieten-oder-kaufen/",
+  "slug": "website-mieten-oder-kaufen",
+  "titel": "Website mieten oder kaufen?",
+  "keyword": "Website mieten oder kaufen?",
+  "batch": "g-vergleiche"
+ }
+]

@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/weinviertel/",
+  "title": "KI-Automatisierung im Weinviertel für Weingut & Heurigen",
+  "description": "Prozessautomatisierung mit KI im Weinviertel: Ausg’steckt-Termine verteilen, Weinbestellungen ohne Zettelwirtschaft, Anmeldungen für Veranstaltungen sammeln.",
+  "h1": "Prozessautomatisierung mit KI im Weinviertel",
+  "kicker": "KI-Automatisierung · Weinviertel",
+  "lead": "Im Weinviertel mit seinen Kellergassen, Heurigen und Weingütern hängt viel an Terminen: wann ausg’steckt ist, wann die Kellergasse feiert, wann der neue Jahrgang da ist. KI-Automatisierung verteilt diese Infos auf alle Kanäle, nimmt Weinbestellungen geordnet auf und sammelt Anmeldungen, damit mehr Zeit für Keller und Gäste bleibt.",
+  "fakten": [
+    "Ausg’steckt-Termine einmal eintragen, überall aktuell",
+    "Weinbestellungen aus Mail, Telefon und Nachricht in einer Liste",
+    "Anmeldungen für Verkostungen und Feste automatisch bestätigt",
+    "Social-Media-Beiträge aus der Website mit Pipeflow, Pilotphase kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kellergasse, Heuriger, Ab-Hof: das Weinviertel lebt von Terminen",
+      "html": "<p>Das <a href=\"/regionen/weinviertel/\">Weinviertel</a> im Nordosten Niederösterreichs ist das größte Weinbaugebiet Österreichs und bekannt für seine Kellergassen. Viele Weinbaubetriebe sind Familienbetriebe mit Heurigen oder Ab-Hof-Verkauf. Wer ausg’steckt hat, arbeitet ohnehin schon am Limit, und trotzdem wollen Gäste wissen, wann offen ist und ob der Lieblingswein noch da ist.</p>"
+    },
+    {
+      "h2": "Ausg’steckt-Zeiten an alle Kanäle",
+      "html": "<p>Statt dieselbe Info auf Website, Google-Profil, Facebook und in die WhatsApp-Gruppe zu tippen, tragen Sie die Termine einmal ein. Die Automatisierung aktualisiert die Website, bereitet Beiträge vor und verschickt auf Wunsch eine Info an Stammgäste, die zugestimmt haben. Für regelmäßige Social-Media-Beiträge aus Ihren Website-Inhalten gibt es <a href=\"https://pipeflow.at/\">Pipeflow</a>, das in der Pilotphase kostenlos ist. Mehr Ideen liefert die Branchenseite <a href=\"/branchen/heuriger/\">Heuriger</a>.</p>"
+    },
+    {
+      "h2": "Weinbestellungen ohne Zettelwirtschaft",
+      "html": "<p>Bestellungen kommen per Mail, Telefon oder Nachricht, oft mit Angaben wie „wieder sechs vom Veltliner“. Die KI ordnet sie dem Kunden zu, erkennt Sorte, Jahrgang und Menge und legt eine Bestellliste mit Lieferschein- oder Rechnungsentwurf an. Unklares wird markiert. Wer seine Weine online verkaufen will, findet Grundlagen im Ratgeber <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Veranstaltungen und Anmeldungen",
+      "html": "<p>Verkostungen, Kellergassenfeste, Jahrgangspräsentationen: Anmeldungen werden automatisch bestätigt, Teilnehmerlisten gepflegt und Erinnerungen am Vortag verschickt. Ist eine Veranstaltung voll, kommt eine freundliche Absage mit Hinweis auf den nächsten Termin. Grundsätzliches zur Leistung steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann die KI unsere Ausg’steckt-Termine selbst veröffentlichen?",
+      "a": "Sie kann die Termine auf der Website aktualisieren und Beiträge für Social Media vorbereiten. Ob diese automatisch veröffentlicht oder erst von Ihnen freigegeben werden, legen Sie fest. Bei Pipeflow geben Sie Beiträge grundsätzlich frei. Wichtig ist, dass es eine zentrale Stelle gibt, an der die Termine gepflegt werden, sonst widersprechen sich die Kanäle."
+    },
+    {
+      "q": "Wie läuft eine automatisierte Weinbestellung ab?",
+      "a": "Der Kunde schreibt wie gewohnt, etwa per Mail oder über ein Formular. Die KI liest Sorte, Menge und gewünschte Abholung oder Lieferung, gleicht mit Ihrer Preisliste ab und legt einen Bestell- und Rechnungsentwurf an. Sie prüfen und bestätigen. Fragt jemand nach einem ausverkauften Wein, schlägt die KI eine passende Alternative aus Ihrem Sortiment vor."
+    },
+    {
+      "q": "Was kostet das für einen kleinen Heurigenbetrieb?",
+      "a": "Pipeflow ist in der Pilotphase kostenlos, ein Website-Chatbot wie Pipebot kostet 19 € im Monat mit 30 Tagen gratis. Eine individuelle Automatisierung für Bestellungen oder Anmeldungen ist ein eigenes Projekt, dessen Preis nach dem kostenlosen Erstgespräch schriftlich feststeht. Für sehr kleine Betriebe reichen oft schon die fertigen Werkzeuge."
+    },
+    {
+      "q": "Dürfen wir Stammgäste per WhatsApp oder Newsletter informieren?",
+      "a": "Ja, wenn die Gäste dem zugestimmt haben. Am einfachsten sammeln Sie die Zustimmung direkt beim Heurigen oder über ein Formular auf der Website und dokumentieren sie. Ohne Zustimmung sollten Sie keine Werbenachrichten verschicken. Für Detailfragen zu Einwilligung und Datenschutz wenden Sie sich bitte an die Wirtschaftskammer oder die Datenschutzbehörde."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/weinviertel/",
+    "/branchen/heuriger/",
+    "/branchen/weingut/",
+    "/wissen/veranstaltungen-bewerben/"
+  ],
+  "checks": [
+    "social-media-test"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/website-erstellen/weinviertel/",
+  "title": "Website erstellen lassen im Weinviertel für Wein und Feste",
+  "description": "Website erstellen lassen im Weinviertel: für Heurige, Weingüter und Betriebe, die Kellergassenfeste und Veranstaltungen online bewerben. Ab 2.500 €.",
+  "h1": "Website erstellen lassen im Weinviertel",
+  "kicker": "Website · Weinviertel",
+  "lead": "Das Weinviertel ist das größte Weinbaugebiet Österreichs, bekannt für Kellergassen, Heurige und Feste übers ganze Jahr. Für viele Betriebe hier ist die wichtigste Aufgabe der Website, Termine zuverlässig zu kommunizieren: wann ausg’steckt ist, wann ein Fest stattfindet, wann ab Hof verkauft wird. Websites mit selbst pflegbarem Terminbereich vermittelt Mühlberger Digital ab 2.500 €.",
+  "fakten": [
+    "Größtes Weinbaugebiet Österreichs mit vielen Kellergassen",
+    "Gäste kommen oft aus Wien und planen Ausflüge kurzfristig",
+    "Termine und Veranstaltungen sind die meistgesuchten Inhalte",
+    "Starter-Website ab 2.500 €, Terminbereich selbst pflegbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Termine sind das Wichtigste",
+      "html": "<p>Ob Kellergassenfest, Weintaufe, Hoffest oder einfach die nächsten Ausg’steckt-Tage: Gäste planen ihren Ausflug nach Terminen. Wer diese nur auf einem Zettel am Hoftor oder in einem sozialen Netzwerk veröffentlicht, wird von vielen nicht gefunden. Eine einfache Terminliste auf der Website, die Sie selbst pflegen, schafft Abhilfe.</p><p>Wie man Veranstaltungen online so bewirbt, dass Menschen auch kommen, erklärt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a>.</p>"
+    },
+    {
+      "h2": "Heuriger, Weingut, Gemeinschaft",
+      "html": "<h3>Heuriger</h3><p>Ausg’steckt-Kalender, Speisen, Platz für Gruppen, Hinweis auf Reservierung. Das sollte ohne Scrollen sichtbar sein. Mehr bei <a href=\"/branchen/heuriger/\">Heurigen</a>.</p><h3>Weingut mit Ab-Hof-Verkauf</h3><p>Sortiment, Preisliste, Verkaufszeiten, Bestellung für Stammkunden. Bei einem Weingut darf die Familie mit ihrer Geschichte ruhig im Vordergrund stehen. Anregungen auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a>.</p><h3>Kellergassen-Gemeinschaft oder Verein</h3><p>Mehrere Betriebe veranstalten gemeinsam ein Fest. Eine gemeinsame Seite mit Programm, Teilnehmern und Anfahrt kann dann sinnvoller sein als viele einzelne Hinweise.</p>"
+    },
+    {
+      "h2": "Gäste aus Wien richtig abholen",
+      "html": "<p>Viele Ausflügler kommen aus Wien, manche mit dem Rad, manche mit Öffis. Hinweise zu Bahnhof, Radwegen oder Parkplätzen sind für sie genauso wichtig wie das Weinangebot. Wer Gruppen bewirtet, sollte die maximale Größe und die Reservierungsbedingungen klar nennen.</p>"
+    },
+    {
+      "h2": "Kosten und Ablauf",
+      "html": "<p>Die Starter-Website beginnt bei 2.500 € und umfasst bis zu fünf Seiten, einen Bereich für Termine richten wir so ein, dass Sie ihn selbst ändern können. Mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Regionale Seiten gibt es etwa für den <a href=\"/regionen/bezirk-mistelbach/\">Bezirk Mistelbach</a> und das <a href=\"/regionen/weinviertel/\">Weinviertel</a> insgesamt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Reicht es nicht, Termine auf Facebook oder Instagram zu posten?",
+      "a": "Als Ergänzung ja, als einzige Quelle eher nicht. Beiträge in sozialen Netzwerken verschwinden schnell aus dem Blickfeld, und nicht jeder Gast nutzt diese Plattformen. Auf Ihrer Website sind die Termine dauerhaft und für alle auffindbar, auch über Google. Am besten tragen Sie Termine einmal auf der Website ein und verweisen in sozialen Netzwerken darauf."
+    },
+    {
+      "q": "Wie oft muss ich die Terminliste pflegen?",
+      "a": "Immer dann, wenn sich etwas ändert, und mindestens zu Beginn jeder Saison. Wichtig ist, vergangene Termine zu entfernen und neue früh genug einzutragen, damit Gäste planen können. Wenn Sie den Bereich selbst bearbeiten können, dauert eine Änderung nur wenige Minuten. Alternativ kann die Pflege als laufende Leistung vereinbart werden."
+    },
+    {
+      "q": "Lohnt sich eine Website für einen kleinen Heurigen mit wenigen Öffnungswochen?",
+      "a": "Gerade dann, weil Gäste die wenigen Termine sonst leicht verpassen. Eine einfache Seite mit Kalender, Adresse und ein paar Fotos genügt meist. Ein großer Auftritt mit vielen Unterseiten ist nicht nötig. Wenn das Budget knapp ist, sagen wir im Erstgespräch ehrlich, ob ein gut gepflegtes Google-Profil für den Anfang reicht."
+    },
+    {
+      "q": "Brauche ich für Feste eine Online-Reservierung?",
+      "a": "Das hängt von der Größe ab. Bei Veranstaltungen mit begrenzten Plätzen, etwa einer Weinverkostung mit Menü, erspart eine Online-Reservierung viele Telefonate und Listen. Für normale Ausg’steckt-Tage reicht meist ein Hinweis, ab welcher Gruppengröße man vorher anrufen soll. Ein einfaches Formular für Gruppenanfragen ist ein guter Mittelweg und lässt sich in die Starter-Website einbauen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/weinviertel/",
+    "/branchen/heuriger/",
+    "/branchen/weingut/",
+    "/wissen/veranstaltungen-bewerben/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "social-media-test"
+  ]
+}

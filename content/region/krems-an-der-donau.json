@@ -1,0 +1,57 @@
+{
+  "pfad": "/regionen/krems-an-der-donau/",
+  "title": "Digitalagentur Krems an der Donau: Wein & Gäste",
+  "description": "Für Weingüter, Heurige, Gastronomie und Handel in Krems: Websites, die Gäste vor dem Besuch informieren, dazu KI-Chatbot und Sichtbarkeit bei Google.",
+  "h1": "Digitalagentur für Krems an der Donau",
+  "kicker": "Region · Wachau und Waldviertel",
+  "lead": "Krems an der Donau ist für viele Gäste der Ausgangspunkt in die Wachau, und vor jedem Besuch stehen Fragen: Wann ist offen, wie reserviere ich, kann man Wein ab Hof kaufen? Mühlberger Digital hilft Kremser Betrieben, diese Fragen online zu beantworten – mit Website, Google-Eintrag und einem Chatbot, der auch abends Auskunft gibt.",
+  "fakten": [
+    "Statutarstadt an der Donau, am Eingang der Wachau",
+    "Schwerpunkt: Gastronomie, Weinbau, Handel und Tourismus",
+    "Pipebot: 19 € im Monat, die ersten 30 Tage gratis",
+    "Beratung persönlich in Krems, am Telefon oder per Video-Call"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ausflugsgäste entscheiden am Handy",
+      "html": "<p>In einer Stadt, die viele Ausflugs- und Urlaubsgäste anzieht, wird oft kurzfristig entschieden. Die Gäste stehen in der Altstadt oder sitzen schon im Auto und suchen am Handy. Wer dann aktuelle Öffnungszeiten, eine Speisekarte und eine Reservierungsmöglichkeit zeigt, wird eher besucht als ein Betrieb mit veralteten Angaben.</p><p>Heurige mit wechselnden Ausschankzeiten kennen das Problem: Die Termine hängen an der Tür, stehen aber nicht online. Wie man das löst, steht auf der Seite für <a href=\"/branchen/heuriger/\">Heurige</a>.</p>"
+    },
+    {
+      "h2": "Fragen beantworten, bevor das Telefon läutet",
+      "html": "<p>Viele Anrufe in Gastronomie und Weinbau drehen sich um dieselben Dinge: Gibt es noch einen Tisch, wann kann man Wein abholen, ist der Hund erlaubt? Ein Website-Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet solche Fragen rund um die Uhr, ausschließlich mit Ihren Inhalten und im Design Ihrer Website. Weiß er etwas nicht, verbindet er mit Ihnen.</p><p>Wie das für Kremser Betriebe konkret aussieht, beschreibt die Seite <a href=\"/leistungen/ki-chatbot/krems/\">KI-Chatbot in Krems</a>. Ob Ihre Website schon genug Inhalt für einen Bot hat, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Weingüter: Herkunft zeigen, Verkauf erleichtern",
+      "html": "<p>Ein Weingut verkauft nicht nur Flaschen, sondern Herkunft und Handschrift. Auf die Website gehören deshalb die Menschen dahinter, die Weine in Ihren eigenen Worten und die Wege zum Kauf: ab Hof, per Versand oder über den Handel. Ein kleiner Onlineshop lohnt sich, wenn Sie regelmäßig an Stammkunden versenden; für gelegentliche Bestellungen reicht oft ein gutes Bestellformular.</p><p>Mehr dazu auf der Seite für <a href=\"/branchen/weingut/\">Weingüter</a>.</p>"
+    },
+    {
+      "h2": "So arbeiten wir mit Betrieben in Krems",
+      "html": "<p>Krems liegt am südlichen Rand des Waldviertels und ist von Ottenschlag aus gut erreichbar. Jonas Mühlberger kommt für das kostenlose Erstgespräch gern zu Ihnen, alternativ telefonieren wir oder sprechen per Video. In der Saison, wenn tagsüber keine Zeit bleibt, passen die Abendtermine zwischen 18:00 und 21:30 Uhr.</p><p>Für Betriebe in den umliegenden Gemeinden gibt es die Seite zum <a href=\"/regionen/bezirk-krems-land/\">Bezirk Krems-Land</a>, für die größere Region die Seite zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Heuriger eine Website oder reicht Facebook?",
+      "a": "Facebook oder Instagram eignen sich gut für kurzfristige Hinweise, etwa wann ausgesteckt ist. Viele Gäste suchen aber über Google und erwarten dort feste Informationen: Adresse, Anfahrt, Ausschankzeiten und Kontakt. Eine kleine Website und ein gepflegter Google-Eintrag ergänzen die sozialen Kanäle. Wer nur wenige Wochen im Jahr offen hat, kommt mit einer sehr schlanken Seite aus."
+    },
+    {
+      "q": "Kann ein Chatbot Reservierungen annehmen?",
+      "a": "Pipebot beantwortet Fragen mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit Ihrem Team. Er kann also auf Ihr Reservierungsformular oder Ihre Telefonnummer hinweisen. Eine direkte Anbindung an ein Reservierungssystem ist ein individuelles Projekt, dessen Aufwand wir im Erstgespräch einschätzen. So zahlen Sie nicht für Funktionen, die Sie gar nicht brauchen."
+    },
+    {
+      "q": "Was kostet der Einstieg für einen Kremser Gastrobetrieb?",
+      "a": "Eine Starter-Website beginnt bei 2.500 € einmalig und enthält bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Der Chatbot Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis. Ob Sie beides brauchen, besprechen wir im kostenlosen Erstgespräch, bevor Sie irgendetwas beauftragen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-krems-land/",
+    "/regionen/waldviertel/",
+    "/regionen/niederoesterreich/",
+    "/leistungen/ki-chatbot/krems/",
+    "/branchen/weingut/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

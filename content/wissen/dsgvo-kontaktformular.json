@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/dsgvo-kontaktformular/",
+  "title": "DSGVO und Kontaktformular: So bleibt es sauber",
+  "description": "Kontaktformular DSGVO-konform gestalten: welche Felder nötig sind, ob Sie eine Checkbox brauchen, wie lange Sie Anfragen speichern und was technisch zählt.",
+  "h1": "DSGVO und Kontaktformular",
+  "kicker": "Ratgeber · Datenschutz",
+  "lead": "Ein Kontaktformular ist mit der DSGVO gut vereinbar, wenn Sie nur die nötigen Daten abfragen, die Übertragung verschlüsselt ist, in der Datenschutzerklärung darüber informieren und Anfragen nicht länger als nötig aufheben. Eine eigene Einwilligungs-Checkbox ist für die reine Beantwortung einer Anfrage meist nicht nötig, weil die Verarbeitung genau dem Zweck dient, den der Absender selbst verfolgt.",
+  "fakten": [
+    "Nur abfragen, was Sie für die Antwort wirklich brauchen, alles andere optional oder weglassen",
+    "Verschlüsselte Übertragung über HTTPS ist Pflichtprogramm",
+    "Ein Hinweis mit Link zur Datenschutzerklärung direkt beim Absende-Button ist üblich",
+    "Newsletter-Anmeldung immer getrennt und mit eigener Einwilligung",
+    "Anfragen nach Erledigung löschen, wenn keine Aufbewahrungspflicht besteht"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was beim Absenden eines Formulars mit den Daten passiert",
+      "html": "<p>Wer verstehen will, worauf es datenschutzrechtlich ankommt, sollte den Weg der Daten kennen. Der Besucher tippt Name, E-Mail und Nachricht ein. Die Daten gehen an Ihren Webserver, von dort meist per E-Mail an Ihr Postfach, manchmal zusätzlich in eine Datenbank, ein CRM oder ein Ticketsystem. An jeder Station liegt eine Kopie.</p><p>Jede dieser Stationen muss in Ihrer <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> beschrieben sein, und mit den Anbietern dahinter, etwa Hosting und E-Mail, sollte ein Auftragsverarbeitungsvertrag bestehen. Viele Formular-Plugins speichern Einträge zusätzlich in der Website-Datenbank, ohne dass es jemand bemerkt. Das ist oft der erste Punkt, den man bereinigen kann.</p>"
+    },
+    {
+      "h2": "Datensparsamkeit: welche Felder Sie wirklich brauchen",
+      "html": "<p>Die DSGVO verlangt, nur so viele Daten zu erheben, wie für den Zweck nötig sind. Für eine einfache Anfrage reichen meist drei Felder:</p><ul><li>Name, damit Sie die Person ansprechen können</li><li>E-Mail-Adresse oder Telefonnummer, damit Sie antworten können</li><li>Nachricht</li></ul><p>Alles Weitere sollte optional sein oder fehlen. Ein Elektriker braucht die Adresse vielleicht für ein Angebot vor Ort, aber nicht bei jeder allgemeinen Frage. Geburtsdatum, Anrede als Pflichtfeld oder die Firmengröße bei Privatkunden sind typische Felder, die man streichen kann. Kürzere Formulare werden übrigens auch häufiger ausgefüllt, mehr dazu im Ratgeber <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Hinweis, Checkbox oder Einwilligung: was es braucht",
+      "html": "<p>Wer eine Anfrage schickt, will eine Antwort. Die Verarbeitung der Daten dafür lässt sich in der Regel auf vorvertragliche Maßnahmen oder das berechtigte Interesse stützen, nicht auf eine Einwilligung. Deshalb ist eine Pflicht-Checkbox „Ich stimme der Datenschutzerklärung zu“ meist nicht erforderlich. Sie kann sogar verwirren, weil sie eine Einwilligung suggeriert, die jederzeit widerrufen werden könnte.</p><p>Üblich und ausreichend ist meist ein kurzer Hinweis direkt über dem Absende-Button, etwa: „Wir verwenden Ihre Angaben nur zur Bearbeitung Ihrer Anfrage. Details in der Datenschutzerklärung.“ mit Link. Anders ist es, wenn Sie die Daten für weitere Zwecke nutzen wollen, zum Beispiel für Werbung. Dafür brauchen Sie eine eigene, freiwillige Einwilligung. Im Zweifel klären Sie die Gestaltung mit Ihrer Rechtsberatung.</p>"
+    },
+    {
+      "h2": "Technik: Verschlüsselung, Spamschutz und Speicherort",
+      "html": "<p>Ein Formular ohne <a href=\"/wissen/ssl-https/\">HTTPS</a> überträgt Daten im Klartext. Das ist heute nicht mehr vertretbar und wird von Browsern auch deutlich als unsicher markiert. Achten Sie außerdem auf diese Punkte:</p><ul><li><strong>Spamschutz:</strong> Dienste wie reCAPTCHA übertragen Daten an Dritte und müssen in der Datenschutzerklärung stehen, oft auch im Cookie-Hinweis. Unsichtbare Fallen für Bots, sogenannte Honeypot-Felder, kommen ohne Drittanbieter aus.</li><li><strong>Speicherort:</strong> Liegen Website und Postfach bei Anbietern in der EU, wird die Dokumentation einfacher. Hintergründe im Ratgeber <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>.</li><li><strong>Datei-Uploads:</strong> Wenn Kunden Fotos oder Pläne hochladen können, klären Sie, wo die Dateien landen und wann sie gelöscht werden.</li></ul>"
+    },
+    {
+      "h2": "Nach dem Absenden: Speicherdauer und Zugriff im Betrieb",
+      "html": "<p>Datenschutz endet nicht beim Formular. Legen Sie fest, wer im Betrieb Anfragen lesen darf und wie lange sie aufbewahrt werden. Eine praktikable Regel für viele kleine Betriebe:</p><ol><li>Anfrage beantworten und, wenn daraus ein Auftrag wird, in die Kunden- bzw. Auftragsunterlagen übernehmen.</li><li>Wird kein Auftrag daraus, die Anfrage nach einer festgelegten Frist löschen, zum Beispiel nach einigen Monaten.</li><li>Kopien im Formular-Plugin oder in der Datenbank der Website regelmäßig leeren oder gar nicht erst speichern.</li></ol><p>Aufbewahrungspflichten aus dem Steuer- oder Unternehmensrecht betreffen Geschäftsunterlagen wie Angebote und Rechnungen, nicht jede unverbindliche Anfrage. Welche Fristen für Sie gelten, klären Sie mit Ihrer Steuerberatung.</p>"
+    },
+    {
+      "h2": "Sonderfälle: Bewerbungen, Gesundheit und Automatisierung",
+      "html": "<p>Einige Formulare verdienen mehr Aufmerksamkeit. Ein <strong>Bewerbungsformular</strong> sammelt Lebensläufe mit vielen persönlichen Angaben. Hier sind Zugriff, Speicherdauer nach einer Absage und die Frage, ob Sie Bewerbungen für spätere Stellen aufheben dürfen, sorgfältig zu regeln.</p><p>In einer <strong>Praxis</strong> schreiben Patienten oft Beschwerden ins Nachrichtenfeld. Das sind Gesundheitsdaten, die besonders geschützt sind. Ein Hinweis, keine medizinischen Details ins Formular zu schreiben, ist sinnvoll.</p><p>Wenn Anfragen <strong>automatisch weiterverarbeitet</strong> werden, etwa in ein <a href=\"/wissen/crm-kleine-betriebe/\">CRM</a> oder durch eine KI vorsortiert, gehört auch das in die Datenschutzerklärung, und mit den beteiligten Anbietern braucht es passende Verträge.</p>"
+    },
+    {
+      "h2": "Checkliste und nächster Schritt",
+      "html": "<ul><li>Nur nötige Pflichtfelder, alles andere optional</li><li>HTTPS aktiv, Formular funktioniert auch auf dem Handy</li><li>Hinweis mit Link zur Datenschutzerklärung beim Button</li><li>Formular, Speicherort und Empfänger in der Datenschutzerklärung beschrieben</li><li>Spamschutz bewusst gewählt</li><li>Löschregel für Anfragen festgelegt</li><li>Werbliche Nutzung nur mit separater Einwilligung</li></ul><p>Bei einer neuen Website ist ein so aufgebautes Kontaktformular Teil der Starter-Website ab 2.500 € einmalig, mehr dazu unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Diese Checkliste ist eine allgemeine Orientierung. Für Ihren konkreten Fall sind die Datenschutzbehörde, die WKO oder eine Anwältin bzw. ein Anwalt die richtigen Ansprechstellen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich beim Kontaktformular eine Checkbox für die Datenschutzerklärung?",
+      "a": "Für die reine Beantwortung einer Anfrage in der Regel nicht, weil die Verarbeitung dem Wunsch des Absenders dient und keine Einwilligung voraussetzt. Ein deutlicher Hinweis mit Link zur Datenschutzerklärung direkt beim Absende-Button gilt in der Praxis als übliche Lösung. Eine Checkbox brauchen Sie dann, wenn Sie die Daten zusätzlich für andere Zwecke nutzen möchten, etwa für einen Newsletter. Klären Sie Sonderfälle mit Ihrer Rechtsberatung."
+    },
+    {
+      "q": "Wie lange darf ich Anfragen aus dem Kontaktformular speichern?",
+      "a": "So lange, wie Sie sie für den Zweck brauchen. Wird aus der Anfrage ein Auftrag, wandert sie in die Auftragsunterlagen, für die eigene Aufbewahrungsfristen gelten können. Bleibt es bei einer unverbindlichen Frage, sollten Sie die Daten nach einer festgelegten, angemessenen Frist löschen. Wichtig ist, dass Sie die Regel tatsächlich anwenden und auch Kopien in Plugins oder Datenbanken mit einbeziehen."
+    },
+    {
+      "q": "Darf ich Absender des Kontaktformulars in meinen Newsletter aufnehmen?",
+      "a": "Nein, nicht ohne ausdrückliche Einwilligung. Wer eine Anfrage schickt, hat damit nicht zugestimmt, Werbung zu bekommen. Für einen Newsletter brauchen Sie eine eigene, freiwillige Anmeldung, idealerweise mit Bestätigung per E-Mail, dem sogenannten Double-Opt-in. Ein vorausgefülltes Häkchen im Kontaktformular reicht dafür nicht. So vermeiden Sie Beschwerden und haben gleichzeitig Empfänger, die Ihre Nachrichten wirklich lesen wollen."
+    },
+    {
+      "q": "Ist Google reCAPTCHA im Kontaktformular erlaubt?",
+      "a": "reCAPTCHA ist verbreitet, überträgt aber Daten über die Besucher an Google. Deshalb muss der Dienst in der Datenschutzerklärung beschrieben werden, und häufig wird dafür eine Einwilligung eingeholt, bevor er lädt. Viele kleine Websites kommen mit datensparsameren Methoden aus, etwa unsichtbaren Fallen für Bots oder einfachen Prüffragen. Ob reCAPTCHA in Ihrem Fall zulässig eingesetzt ist, lassen Sie im Zweifel rechtlich prüfen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/kontaktformular/",
+    "/wissen/datenschutzerklaerung/",
+    "/wissen/cookie-banner/",
+    "/wissen/ssl-https/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

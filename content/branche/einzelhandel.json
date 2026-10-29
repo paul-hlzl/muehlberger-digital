@@ -1,0 +1,69 @@
+{
+ "pfad": "/branchen/einzelhandel/",
+ "title": "Einzelhandel digital: lagernd, reservieren, Schaufenster",
+ "description": "Für Geschäfte im Einzelhandel: Fragen nach Lagerstand beantworten, Reservieren und Abholen anbieten, Öffnungszeiten richtig pflegen und ehrlich prüfen, ob.",
+ "h1": "Digitale Lösungen für den Einzelhandel",
+ "kicker": "Branche · Einzelhandel",
+ "lead": "Für den Einzelhandel geht es online selten darum, gegen große Versandhändler anzutreten, sondern darum, Kundschaft ins Geschäft zu holen. Wichtig sind richtige Öffnungszeiten bei Google, eine Antwort auf die Frage nach dem Lagerstand, die Möglichkeit zum Reservieren und Abholen sowie ein digitales Schaufenster mit Neuheiten. Ein eigener Onlineshop lohnt sich nur in bestimmten Fällen.",
+ "fakten": [
+  "Öffnungszeiten an Feiertagen und Fenstertagen bei Google aktuell halten",
+  "Reservieren und Abholen ist oft sinnvoller als ein voller Onlineshop",
+  "Pipeflow macht aus der Website wöchentlich Beiträge für Instagram",
+  "Lehrlinge kostenlos auf zusage.at suchen"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Die häufigste Frage: „Haben Sie das lagernd?“",
+   "html": "<p>Eine Kundin sucht eine bestimmte Wanderschuhgröße, eine Ersatzpatrone für ihren Drucker oder ein Spielzeug für den Geburtstag am Samstag. Bevor sie ins Auto steigt, will sie wissen, ob es das Produkt bei Ihnen gibt. Findet sie online keine Antwort, bestellt sie im Internet.</p><p>Sie müssen dafür nicht Ihr ganzes Sortiment online stellen. Oft reichen eine gut gegliederte Übersicht der Marken und Warengruppen, ein Hinweis auf Ihren Bestellservice und eine einfache Möglichkeit, nachzufragen. Ein Chatbot wie Pipebot kann Fragen zu Marken, Services und Öffnungszeiten rund um die Uhr beantworten, nur mit Ihren Inhalten und mit Weiterleitung an Sie bei Unsicherheit. Den Lagerstand kennt er nur, wenn Sie ihn hinterlegen. Ob das für Ihr Geschäft passt, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+  },
+  {
+   "h2": "Reservieren und abholen statt vollem Onlineshop",
+   "html": "<p>Für viele Geschäfte ist „online reservieren, im Geschäft abholen und bezahlen“ der bessere Weg als ein vollständiger Shop mit Versand. Der Vorteil: kein Verpackungsaufwand, keine Rücksendungen, und die Kundin kommt ins Geschäft, wo sie vielleicht noch etwas mitnimmt.</p><ul><li>Produkt oder Warengruppe auswählen</li><li>Name und Telefonnummer angeben</li><li>Sie bestätigen per E-Mail oder SMS, dass die Ware bereitliegt</li></ul><p>Eine solche Funktion wird nach dem Erstgespräch individuell angeboten und kostet deutlich weniger als ein vollständiger Onlineshop.</p>"
+  },
+  {
+   "h2": "Öffnungszeiten und Google-Profil: Fenstertage, Feiertage, Samstag",
+   "html": "<p>Nichts ärgert Kundschaft mehr, als vor verschlossener Tür zu stehen, obwohl Google „geöffnet“ angezeigt hat. Gerade an Fenstertagen, Feiertagen, im Sommer mit geänderten Zeiten oder an Einkaufssamstagen vor Weihnachten muss das Google-Unternehmensprofil stimmen.</p><p>Tragen Sie Sonderöffnungszeiten rechtzeitig ein, laden Sie aktuelle Fotos vom Geschäft hoch und beantworten Sie Bewertungen. Wie das geht, erklärt der Ratgeber <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>.</p>"
+  },
+  {
+   "h2": "Das digitale Schaufenster: Neuheiten zeigen",
+   "html": "<p>Ihr Schaufenster sehen nur Menschen, die vorbeigehen. Neue Kollektionen, frisch eingetroffene Ware oder saisonale Aktionen können Sie online einem viel größeren Kreis zeigen, vor allem auf Instagram und Facebook.</p><p>Pipeflow macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. Damit das funktioniert, sollten Neuheiten auch auf der Website stehen. In der Pilotphase ist Pipeflow kostenlos, der Start erfolgt unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>. Weitere Ideen gibt der Ratgeber <a href=\"/wissen/social-media-kleine-betriebe/\">Social Media für kleine Betriebe</a>.</p>"
+  },
+  {
+   "h2": "Wann sich ein eigener Onlineshop wirklich lohnt",
+   "html": "<p>Ein eigener Shop lohnt sich vor allem, wenn Sie Produkte haben, die es anderswo kaum gibt, etwa regionale Spezialitäten, eigene Marken oder ein besonderes Sortiment, und wenn Sie Zeit für Versand und Kundenservice haben. Für Standardware, die große Händler günstiger anbieten, ist der Aufwand oft höher als der Nutzen.</p><p>Eine Alternative ist der Verkauf über bestehende Marktplätze, mit eigenen Vor- und Nachteilen. Einen fairen Vergleich bietet die Seite <a href=\"/vergleiche/eigener-shop-oder-marktplatz/\">Eigener Shop oder Marktplatz</a>. Wenn ein Shop passt, finden Sie Details unter <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>; der Preis wird nach dem Erstgespräch genannt.</p>"
+  },
+  {
+   "h2": "Lehrlinge finden und der nächste Schritt",
+   "html": "<p>Viele Geschäfte suchen Lehrlinge oder Verkaufspersonal. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen.</p><p>Eine Starter-Website mit Sortiment, Öffnungszeiten, Anfahrt und Kontakt kostet ab 2.500 € einmalig. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns an, welche Fragen Ihre Kundschaft am häufigsten stellt, und welcher Baustein darauf die beste Antwort ist.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Brauche ich als kleines Geschäft einen Onlineshop?",
+   "a": "Nicht unbedingt. Für viele Geschäfte mit Standardware ist ein Shop mit Versand aufwendig und bringt wenig, weil große Händler günstiger liefern. Sinnvoller ist oft eine Website mit Sortimentsübersicht, richtigen Öffnungszeiten und der Möglichkeit, Ware zu reservieren und im Geschäft abzuholen. Ein eigener Shop lohnt sich eher bei besonderen oder regionalen Produkten."
+  },
+  {
+   "q": "Wie zeige ich online, welche Produkte ich lagernd habe?",
+   "a": "Sie müssen nicht jedes Produkt einzeln einpflegen. Oft reichen eine Übersicht über Marken und Warengruppen, ein Hinweis auf Ihren Bestellservice und eine einfache Möglichkeit zur Anfrage oder Reservierung. Wenn Ihr Kassensystem den Lagerstand digital führt, kann eine Anbindung an die Website sinnvoll sein. Das wird nach dem Erstgespräch individuell geprüft."
+  },
+  {
+   "q": "Wie wichtig ist das Google-Unternehmensprofil für ein Geschäft?",
+   "a": "Sehr wichtig, weil viele Menschen dort Öffnungszeiten, Adresse und Bewertungen nachsehen, bevor sie losfahren. Falsche Zeiten an Feiertagen oder Fenstertagen führen zu verärgerten Kunden vor verschlossener Tür. Pflegen Sie Sonderöffnungszeiten rechtzeitig, laden Sie aktuelle Fotos hoch und beantworten Sie Bewertungen sachlich. Das kostet nichts außer ein paar Minuten im Monat."
+  },
+  {
+   "q": "Was bringt Instagram einem Einzelhändler?",
+   "a": "Instagram funktioniert wie ein erweitertes Schaufenster: Neuheiten, Aktionen und Einblicke ins Geschäft erreichen Menschen, die nicht zufällig vorbeigehen. Entscheidend ist Regelmäßigkeit. Pipeflow erstellt aus Ihrer Website jede Woche fertige Beiträge mit Bild, die Sie nur freigeben, und ist in der Pilotphase kostenlos. Eigene Fotos neuer Ware bleiben dabei besonders wirksam."
+  }
+ ],
+ "verwandt": [
+  "/branchen/hofladen/",
+  "/branchen/blumen/",
+  "/wissen/google-unternehmensprofil-optimieren/",
+  "/vergleiche/eigener-shop-oder-marktplatz/",
+  "/leistungen/google-unternehmensprofil/"
+ ],
+ "checks": [
+  "social-media-test",
+  "chatbot-test"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/mistelbach/",
+  "title": "KI-Automatisierung in Mistelbach für Werkstatt & Handel",
+  "description": "Prozessautomatisierung mit KI in Mistelbach: an Pickerl und Service erinnern, Abholbereit-Nachrichten senden, Nachbestellungen vorbereiten.",
+  "h1": "Prozessautomatisierung mit KI in Mistelbach",
+  "kicker": "KI-Automatisierung · Mistelbach",
+  "lead": "Mistelbach ist Bezirkshauptstadt im Weinviertel und für das Umland ein wichtiger Ort für Einkauf, Werkstatt und Service. Für Kfz-Werkstätten und Händler bringt KI-Automatisierung vor allem Erinnerungen an Pickerl und Service, Nachrichten bei Abholbereitschaft und vorbereitete Nachbestellungen.",
+  "fakten": [
+    "Erinnerungen an Pickerl, Service und Reifenwechsel",
+    "Automatische Nachricht, wenn das Auto oder die Ware abholbereit ist",
+    "Nachbestellungen als Vorschlag aus Ihren Verkaufszahlen",
+    "Einwilligungen der Kunden für Nachrichten beachten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Einkaufs- und Werkstattstandort im Weinviertel",
+      "html": "<p>Wer im <a href=\"/regionen/bezirk-mistelbach/\">Bezirk Mistelbach</a> wohnt, fährt für vieles in die Bezirkshauptstadt. Werkstätten, Fachhändler und Dienstleister leben hier von Stammkunden aus dem ganzen Umland. Der Kontakt läuft oft übers Telefon, und genau das kostet im Alltag viel Zeit: nachfragen, erinnern, zurückrufen.</p>"
+    },
+    {
+      "h2": "Erinnern statt nachtelefonieren",
+      "html": "<p>Pickerl, Service, Reifenwechsel im Frühjahr und Herbst: Diese Termine sind planbar, und trotzdem werden Kunden oft einzeln angerufen. Eine Automatisierung prüft Ihre Kundendaten, erkennt fällige Termine und schickt eine persönliche Erinnerung mit Link oder Telefonnummer zur Terminvereinbarung.</p><p>Welche Werkzeuge kleine Werkstätten sonst noch digital nutzen, beschreibt die Branchenseite <a href=\"/branchen/kfz-werkstatt/\">Kfz-Werkstatt</a>.</p>"
+    },
+    {
+      "h2": "Wenn das Auto fertig ist",
+      "html": "<p>Ein kleiner Schritt mit großer Wirkung: Sobald der Auftrag in Ihrem System als erledigt markiert ist, bekommt der Kunde eine Nachricht, dass er sein Fahrzeug abholen kann, auf Wunsch mit Betrag und Öffnungszeiten. Das spart die Anrufe „Ist mein Auto schon fertig?“. Dasselbe Prinzip funktioniert im Handel bei bestellter Ware.</p><p>Ergibt sich während der Reparatur etwas Neues, etwa ein zusätzlicher Schaden, kann die KI eine kurze, verständliche Nachricht mit Kostenrahmen vorbereiten. Die Freigabe des Kunden holen Sie wie gewohnt ein, nur das Formulieren und Erinnern fällt weg.</p>"
+    },
+    {
+      "h2": "Für den Handel: Nachbestellungen vorbereiten",
+      "html": "<p>Im Fachhandel kann die KI aus Verkäufen und Lagerstand einen Vorschlag für die nächste Bestellung machen und gleich die Bestellmail an den Lieferanten entwerfen. Freigeben müssen Sie selbst. Weitere Ideen bietet der Ratgeber <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele</a>, die Grundlagen stehen unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p><p>Mühlberger Digital zeigt Ihnen im kostenlosen Erstgespräch, wie das mit Ihren Daten aussehen würde, die Umsetzung übernimmt Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Dürfen wir Kunden per SMS oder WhatsApp an Termine erinnern?",
+      "a": "Bei bestehenden Kunden und echten Serviceerinnerungen ist das häufig möglich, es kommt aber auf die Einwilligung und den Kanal an. Am sichersten ist es, die Zustimmung bei der Auftragsannahme einzuholen und zu dokumentieren. Für eine verbindliche Auskunft im Einzelfall wenden Sie sich bitte an die Wirtschaftskammer oder einen Anwalt."
+    },
+    {
+      "q": "Funktioniert das mit unserer Werkstattsoftware?",
+      "a": "Das hängt von der Software ab. Manche Programme bieten Schnittstellen oder Exporte von Kunden- und Auftragsdaten, damit kann eine Automatisierung arbeiten. Bei geschlossenen Systemen sind Umwege nötig, etwa über einen regelmäßigen Export. Im Erstgespräch schauen wir uns Ihre Software an und sagen offen, was realistisch ist."
+    },
+    {
+      "q": "Bringt das bei einer Werkstatt mit zwei Leuten überhaupt etwas?",
+      "a": "Oft gerade dort, weil jeder Anruf die Arbeit am Fahrzeug unterbricht. Abholnachrichten und Serviceerinnerungen sparen in einer kleinen Werkstatt viele kurze Unterbrechungen am Tag. Wenn Sie allerdings ohnehin wenige Stammkunden haben und alle persönlich kennen, ist eine Automatisierung vielleicht nicht nötig. Das besprechen wir ehrlich."
+    },
+    {
+      "q": "Welche Daten brauchen wir für automatische Serviceerinnerungen?",
+      "a": "Im Kern reichen Name, Kontaktweg, Kennzeichen oder Fahrzeug und das Datum des letzten Service oder der letzten Überprüfung. Aus diesen Angaben berechnet die Automatisierung, wann die nächste Erinnerung fällig ist. Fehlen bei manchen Kunden Daten, werden sie in einer Liste gesammelt, damit Sie diese beim nächsten Besuch ergänzen können."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-mistelbach/",
+    "/regionen/weinviertel/",
+    "/branchen/kfz-werkstatt/",
+    "/wissen/automatisierung-beispiele/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

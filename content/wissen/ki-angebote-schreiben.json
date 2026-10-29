@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-angebote-schreiben/",
+  "title": "Angebote schneller schreiben mit KI",
+  "description": "Angebote schneller schreiben mit KI: von der Notiz zur fertigen Leistungsbeschreibung, mit Textbausteinen und Vorlagen. Preise bleiben in Ihrer Hand.",
+  "h1": "Angebote schneller schreiben mit KI",
+  "kicker": "Ratgeber · KI im Vertrieb",
+  "lead": "KI beschleunigt Angebote vor allem beim Text: Sie macht aus Besichtigungsnotizen eine saubere Leistungsbeschreibung, formuliert das Begleitschreiben und hält Textbausteine einheitlich. Preise, Mengen und Bedingungen kommen weiterhin aus Ihrer Kalkulation, denn KI rechnet nicht verlässlich und kennt Ihre Kosten nicht.",
+  "fakten": [
+    "KI für Texte und Struktur, Kalkulation für Preise und Mengen",
+    "Aus Sprachnotiz oder Gesprächsprotokoll wird eine klare Leistungsbeschreibung",
+    "Eine Bibliothek mit Textbausteinen spart bei jedem Angebot Zeit",
+    "Kundendaten nur in Werkzeuge mit geklärtem Datenschutz eingeben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was KI beim Angebot übernehmen kann – und was nicht",
+      "html": "<p>Ein Angebot besteht aus zwei Teilen: Zahlen und Worten. Die Zahlen, also Positionen, Mengen, Preise und Fristen, gehören in Ihr Angebots- oder Kalkulationsprogramm. Die Worte, also Einleitung, Leistungsbeschreibung, Ausführungshinweise und Abschluss, kann KI sehr gut vorbereiten.</p><ul> <li><strong>Gut geeignet:</strong> Leistungsbeschreibung aus Notizen, Begleitschreiben, verständliche Erklärung von Varianten, Zusammenfassung für den Kunden.</li><li><strong>Mit Vorsicht:</strong> Gliederung von Positionen, Vorschläge für vergessene Leistungen (als Erinnerung, nicht als Wahrheit).</li><li><strong>Nicht geeignet:</strong> Preise schätzen, Mengen berechnen, Gewährleistung oder Zahlungsbedingungen festlegen.</li></ul> <p>Ein Angebot mit falschen Zahlen ist schlimmer als ein langsames. Die KI bleibt deshalb Schreibhilfe.</p>"
+    },
+    {
+      "h2": "Von der Besichtigung zum Angebot in fünf Schritten",
+      "html": "<ol><li><strong>Notizen festhalten:</strong> Nach dem Termin eine Sprachnotiz im Auto aufnehmen oder das Kundengespräch protokollieren lassen.</li><li><strong>Strukturieren lassen:</strong> Die KI ordnet die Notiz nach Räumen, Arbeitsschritten oder Gewerken und markiert offene Fragen.</li><li><strong>Kalkulieren:</strong> Positionen und Preise wie gewohnt im eigenen Programm erstellen.</li><li><strong>Texte ergänzen:</strong> Die KI formuliert Leistungsbeschreibung und Begleitschreiben auf Basis der Struktur.</li><li><strong>Prüfen und senden:</strong> Zahlen, Namen und Termine kontrollieren, dann persönlich abschicken.</li></ol> <p>Wie Sie Gespräche mit Kunden gut festhalten, beschreibt der Ratgeber <a href=\"/wissen/kundengespraeche-dokumentieren/\">Kundengespräche dokumentieren</a>.</p>"
+    },
+    {
+      "h2": "Beispiel: Ein Tischler und die Küchenanfrage",
+      "html": "<p>Ein Tischler mit drei Mitarbeitern war bei einer Familie, die eine neue Küche möchte. Seine Notiz: „Küche L-Form, ca. 4 m und 2,5 m, Eiche geölt, Insel gewünscht aber eher zu wenig Platz, Geräte bringt Kunde zum Teil selbst, Lieferung nach Ostern.“</p><p>Daraus erstellt die KI eine geordnete Liste: Maße, Material, Wünsche, offene Punkte („Insel: Platz prüfen, Alternative Halbinsel anbieten?“, „Welche Geräte stellt der Kunde?“). Der Tischler klärt die Fragen per Telefon, kalkuliert wie immer und lässt sich dann eine Leistungsbeschreibung schreiben, die erklärt, warum er eine Halbinsel empfiehlt.</p><p>Das Ergebnis wirkt durchdachter, und die Zeit am Schreibtisch am Abend wird kürzer. Der Kunde bekommt außerdem ein Angebot, in dem seine eigenen Wünsche wiederzufinden sind, auch die Insel, die nicht passt, samt Begründung. Das schafft Vertrauen, weil es zeigt, dass zugehört wurde.</p><p>Wichtig bleibt die Reihenfolge: zuerst Fragen klären und kalkulieren, dann Text. Wer die KI schon vor der Kalkulation das ganze Angebot schreiben lässt, bekommt schöne Sätze zu Positionen, die es so vielleicht gar nicht geben wird. Weitere Ideen für Handwerksbetriebe finden Sie unter <a href=\"/wissen/ki-handwerk/\">KI im Handwerk</a>.</p>"
+    },
+    {
+      "h2": "Textbausteine und Vorlagen aufbauen",
+      "html": "<p>Der größte Zeitgewinn entsteht nicht beim einzelnen Angebot, sondern durch eine gute Bibliothek. Lassen Sie die KI aus Ihren besten alten Angeboten wiederverwendbare Bausteine machen:</p><ul> <li>Einleitung für Neukunden und für Stammkunden</li><li>Beschreibungen Ihrer häufigsten Leistungen, verständlich für Laien</li><li>Hinweise zu Vorarbeiten, Zufahrt, Bauseits-Leistungen</li><li>Erklärungen zu Varianten („einfach“, „Standard“, „gehoben“)</li><li>Abschluss mit klarem nächsten Schritt</li></ul> <p>Eine einfache Anweisung dafür: <em>„Hier sind drei meiner Angebote. Erstelle daraus Textbausteine für wiederkehrende Leistungen, in meinem Ton, ohne Preise.“</em> Die Bausteine prüfen Sie einmal gründlich und verwenden sie dann immer wieder.</p>"
+    },
+    {
+      "h2": "Typische Fehler beim Angebot mit KI",
+      "html": "<ul><li><strong>Preise oder Mengen von der KI schätzen lassen:</strong> Das klingt plausibel und ist oft falsch.</li><li><strong>Kundendaten in private Gratis-Konten kopieren:</strong> Namen und Adressen weglassen oder ein Firmenkonto mit geklärtem Datenschutz nutzen.</li><li><strong>AGB oder Gewährleistung formulieren lassen:</strong> Rechtliche Texte gehören in fachkundige Hände, etwa mit Unterstützung der WKO.</li><li><strong>Zu lange Texte:</strong> KI schreibt gern ausführlich. Ein Angebot soll klar sein, nicht beeindrucken.</li><li><strong>Ungeprüft verschicken:</strong> Ein falscher Name oder eine fremde Leistung im Text kostet Vertrauen.</li></ul> <p>Mehr zu Risiken lesen Sie unter <a href=\"/wissen/ki-grenzen/\">Grenzen und Risiken von KI</a>.</p>"
+    },
+    {
+      "h2": "Nach dem Angebot: Nachfassen nicht vergessen",
+      "html": "<p>Viele Angebote gehen nicht verloren, weil sie schlecht sind, sondern weil niemand nachfragt. KI kann auch hier helfen: Sie formuliert eine freundliche Nachfrage, die nicht drängt. Noch besser ist ein Ablauf, der Sie automatisch erinnert. Wie das funktioniert, zeigen die Ratgeber <a href=\"/wissen/angebot-nachfassen/\">Angebot nachfassen</a> und <a href=\"/wissen/angebote-automatisieren/\">Angebote und Nachfassen automatisieren</a>.</p><p>Wenn Sie Kundengespräche ohnehin per Video oder Telefon führen, erstellt <a href=\"https://noteit.at/\">noteit</a> das Protokoll als Grundlage fürs Angebot, ohne Bot im Call. Und wer den ganzen Weg von der Anfrage bis zum fertigen Angebotsentwurf verbinden möchte, findet bei <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a> die passenden Bausteine, Preis nach dem Erstgespräch.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann KI ein komplettes Angebot erstellen?",
+      "a": "KI kann den Text eines Angebots weitgehend vorbereiten, aber kein verlässliches Angebot mit Preisen erstellen. Sie kennt Ihre Einkaufspreise, Stundensätze und Auslastung nicht und rechnet bei Mengen nicht zuverlässig. Sinnvoll ist eine Arbeitsteilung: Kalkulation im eigenen Programm, Texte und Struktur mit KI, und am Ende eine Kontrolle durch Sie."
+    },
+    {
+      "q": "Welche Informationen braucht die KI für einen guten Angebotstext?",
+      "a": "Am besten Ihre Notizen vom Termin, die Wünsche des Kunden, die geplanten Leistungen in Stichworten, Ihren Stil anhand eines älteren Angebots und den gewünschten Umfang. Je konkreter die Eingabe, desto weniger muss die KI raten. Ergänzen Sie die Anweisung, dass keine Fakten erfunden werden dürfen und fehlende Angaben als offene Frage markiert werden sollen."
+    },
+    {
+      "q": "Ist es ein Datenschutzproblem, Kundendaten in KI einzugeben?",
+      "a": "Es kann eines sein, weil Namen, Adressen und Telefonnummern personenbezogene Daten sind. Für Angebotstexte braucht die KI diese Daten meist gar nicht: Schreiben Sie „Kunde“ statt des Namens und ergänzen Sie die Angaben erst im Angebotsprogramm. Wer regelmäßig mit Kundendaten arbeitet, sollte ein Firmenkonto mit geklärten Vertragsbedingungen nutzen."
+    },
+    {
+      "q": "Lohnt sich KI für Angebote, wenn ich nur wenige im Monat schreibe?",
+      "a": "Auch bei wenigen Angeboten kann sich eine Textbaustein-Bibliothek lohnen, weil sie einmal entsteht und dann immer hilft. Eine eigene Automatisierung rechnet sich dagegen eher bei vielen gleichartigen Angeboten. Wer nur wenige, sehr individuelle Angebote schreibt, nutzt KI am besten gezielt für Begleitschreiben und verständliche Erklärungen."
+    },
+    {
+      "q": "Wie formuliere ich eine gute Anweisung für einen Angebotstext?",
+      "a": "Nennen Sie Zweck, Kunde und Leistung, fügen Sie Ihre geordneten Notizen ein und geben Sie ein älteres Angebot als Stilvorlage mit. Legen Sie die Länge fest und schreiben Sie dazu, dass keine Preise, Mengen oder Fakten erfunden werden dürfen. Bitten Sie die KI außerdem, offene Fragen am Ende aufzulisten. So erhalten Sie einen Entwurf, den Sie nur noch prüfen und ergänzen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/angebote-automatisieren/",
+    "/wissen/angebot-nachfassen/",
+    "/wissen/ki-handwerk/",
+    "/branchen/tischler/",
+    "/leistungen/ki-automatisierung/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

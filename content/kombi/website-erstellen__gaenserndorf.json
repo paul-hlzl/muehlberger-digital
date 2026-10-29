@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/gaenserndorf/",
+  "title": "Website erstellen lassen in Gänserndorf und im Marchfeld",
+  "description": "Website erstellen lassen in Gänserndorf: für Direktvermarkter, Hofläden und Gärtnereien im Marchfeld. Saisonware aktuell zeigen. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Gänserndorf",
+  "kicker": "Website · Bezirk Gänserndorf",
+  "lead": "Im Bezirk Gänserndorf prägt das Marchfeld mit seinem Gemüse- und Spargelanbau viele Betriebe. Wer ab Hof verkauft, braucht eine Website, die vor allem eine Frage beantwortet: Was gibt es gerade, und wann ist offen? Mühlberger Digital vermittelt einfache, pflegeleichte Websites ab 2.500 €, umgesetzt von Pipeline AI Solutions.",
+  "fakten": [
+    "Marchfeld: viele Gemüsebau- und Direktvermarktungsbetriebe",
+    "Saisonkalender und Öffnungszeiten sind die meistgesuchten Inhalte",
+    "Viele Kunden pendeln nach Wien und kaufen auf dem Heimweg ein",
+    "Erstgespräch kostenlos, auch vor Ort am Hof"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Kunden eines Hofladens wissen wollen",
+      "html": "<p>Die Fragen sind fast immer dieselben: Gibt es schon Spargel? Bis wann sind Erdäpfel da? Hat der Laden am Samstag offen? Wer diese Fragen auf der Website gut sichtbar beantwortet, bekommt weniger Anrufe und mehr Kundschaft, die wirklich vorbeikommt.</p><p>Eine Hofladen-Website muss deshalb nicht groß sein. Sie muss aktuell sein. Weitere Ideen finden Sie auf der Seite für <a href=\"/branchen/hofladen/\">Hofläden</a>.</p>"
+    },
+    {
+      "h2": "Der Saisonkalender als Herzstück",
+      "html": "<p>Ein übersichtlicher Kalender, welche Produkte in welchen Monaten erhältlich sind, ist für Direktvermarkter das nützlichste Element. So kann er aufgebaut sein:</p><ol><li>Monatsübersicht mit den Hauptprodukten, einfach als Liste oder Tabelle.</li><li>Ein Feld „Gerade frisch“, das Sie in einer Minute selbst ändern.</li><li>Hinweis auf Selbstbedienung, Kassenautomat oder Vorbestellung, falls vorhanden.</li></ol><p>Wie man regionale Produkte online zeigt, ohne gleich einen Shop zu brauchen, erklärt der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online</a>.</p>"
+    },
+    {
+      "h2": "Pendler als Kundschaft ernst nehmen",
+      "html": "<p>Viele Menschen im Bezirk arbeiten in Wien und erledigen Einkäufe am Abend oder am Wochenende. Für sie sind Öffnungszeiten am späten Nachmittag, ein Vorbestell-Formular oder eine Abholbox interessant. Wer das anbietet, sollte es auf der Startseite zeigen und nicht in einem Unterpunkt verstecken.</p>"
+    },
+    {
+      "h2": "Andere Betriebe im Bezirk",
+      "html": "<p>Nicht nur Landwirte profitieren von einem klaren Auftritt. Eine Gärtnerei mit Jungpflanzenverkauf hat ähnliche Saisonfragen, ein Gartengestalter braucht eher Bilder fertiger Projekte, eine Fleischerei mit Wochenangebot muss Termine aktuell halten. Gemeinsam ist allen: Die Website soll mit wenig Aufwand gepflegt werden können.</p><p>Die Starter-Website ab 2.500 € deckt das in der Regel ab. Was im Paket steckt, steht unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, mehr zur Gegend unter <a href=\"/regionen/bezirk-gaenserndorf/\">Bezirk Gänserndorf</a> und <a href=\"/regionen/weinviertel/\">Weinviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Direktvermarkter einen Onlineshop?",
+      "a": "Oft nicht. Viele Hofläden kommen mit einer Website plus Vorbestell-Formular gut aus, weil die Kundschaft ohnehin vorbeikommt. Ein Shop mit Bezahlung und Versand lohnt sich erst, wenn Sie Produkte verschicken wollen, die lange haltbar sind, oder wenn Abholtermine fest organisiert werden sollen. Das klären wir im Erstgespräch ehrlich, bevor Kosten entstehen."
+    },
+    {
+      "q": "Kann ich den Saisonkalender selbst ändern?",
+      "a": "Ja, das sollte sogar so sein. Bei der Umsetzung wird festgelegt, welche Bereiche Sie selbst bearbeiten, etwa das Feld „Gerade frisch“ oder die Öffnungszeiten. Diese Änderungen dauern dann nur wenige Minuten. Wenn Sie lieber gar nichts selbst machen wollen, kann die Pflege als laufende Leistung vereinbart werden."
+    },
+    {
+      "q": "Kommt das Erstgespräch auch zu uns auf den Hof?",
+      "a": "Das kostenlose Erstgespräch ist vor Ort, telefonisch oder per Video möglich und dauert etwa 30 Minuten. Termine gibt es Montag bis Freitag von 18:00 bis 21:30 Uhr. Gerade bei Hofläden ist ein Blick auf Verkaufsraum und Produkte hilfreich, weil man dabei schnell sieht, welche Fotos und Inhalte auf die Website gehören."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-gaenserndorf/",
+    "/branchen/hofladen/",
+    "/branchen/landwirtschaft/",
+    "/wissen/regionale-produkte-online/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

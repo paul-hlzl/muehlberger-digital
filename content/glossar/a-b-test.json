@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/a-b-test/",
+  "title": "A/B-Test einfach erklärt: Varianten vergleichen",
+  "description": "A/B-Test einfach erklärt: Wie Sie zwei Varianten einer Seite, Anzeige oder Mail vergleichen, wann das für kleine Betriebe sinnvoll ist.",
+  "h1": "A/B-Test",
+  "kicker": "Glossar · Marketing",
+  "lead": "Ein A/B-Test ist ein Experiment, bei dem zwei Varianten einer Webseite, Anzeige oder E-Mail zufällig verschiedenen Personen gezeigt werden, um zu messen, welche besser wirkt. Verändert wird dabei idealerweise nur ein Element.",
+  "fakten": [
+    "Variante A ist das Original, Variante B die Änderung",
+    "Nur ein Unterschied pro Test, sonst ist das Ergebnis unklar",
+    "Braucht genug Besucher für eine verlässliche Aussage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein A/B-Test aus der Praxis",
+      "html": "<p>Ein Yogastudio verschickt einen Newsletter für einen neuen Kurs. Die Hälfte der Empfänger bekommt den Betreff „Neuer Kurs ab März“, die andere Hälfte „Rückenfit in 8 Wochen: Kurs ab März“. Nach zwei Tagen zeigt sich, welcher Betreff häufiger geöffnet wurde und mehr Anmeldungen brachte. Künftig formuliert das Studio Betreffzeilen nach dem erfolgreicheren Muster.</p><p>Auf Websites werden etwa Überschriften, Bilder oder der Text des <a href=\"/glossar/call-to-action/\">Call-to-Action</a> getestet.</p>"
+    },
+    {
+      "h2": "Wann sich A/B-Tests für KMU lohnen",
+      "html": "<p>A/B-Tests ersetzen Bauchgefühl durch Messung. Sie brauchen aber eine gewisse Menge an Besuchern oder Empfängern, sonst ist das Ergebnis Zufall. Bei einer kleinen Website mit wenigen Besuchen pro Woche dauern Tests lange und sind wenig aussagekräftig. Dort bringen Kundengespräche und eine klare Seitenstruktur oft mehr.</p><p>Gut eignen sich Tests bei Newslettern, Werbeanzeigen und viel besuchten <a href=\"/glossar/landingpage/\">Landingpages</a>. Gemessen wird meist die <a href=\"/glossar/conversion/\">Conversion</a>. Allgemeine Hebel ohne Test zeigt der Ratgeber <a href=\"/wissen/conversion-verbessern/\">Conversion verbessern</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lange sollte ein A/B-Test laufen?",
+      "a": "So lange, bis genug Personen beide Varianten gesehen haben und sich ein klarer Unterschied zeigt. Bei Websites sind mindestens ein bis zwei volle Wochen sinnvoll, damit unterschiedliche Wochentage erfasst werden. Brechen Sie Tests nicht ab, nur weil eine Variante am ersten Tag vorne liegt. Viele Testwerkzeuge zeigen an, wann ein Ergebnis statistisch belastbar ist."
+    },
+    {
+      "q": "Was kann ich ohne viele Besucher stattdessen tun?",
+      "a": "Bitten Sie fünf Kunden oder Bekannte, eine bestimmte Aufgabe auf Ihrer Website zu erledigen, etwa einen Termin anzufragen, und beobachten Sie, wo sie zögern. Solche einfachen Nutzertests zeigen oft deutlichere Probleme als ein A/B-Test mit zu wenigen Daten. Ergänzend helfen Erfahrungswerte zu klaren Texten, kurzen Formularen und gut sichtbaren Kontaktmöglichkeiten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/conversion-verbessern/",
+    "/glossar/conversion/",
+    "/glossar/call-to-action/",
+    "/wissen/newsletter-kmu/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

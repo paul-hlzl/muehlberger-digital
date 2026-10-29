@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/datenschutzerklaerung/",
+  "title": "Datenschutzerklärung für die Website: Inhalt & Tipps",
+  "description": "Was in eine Datenschutzerklärung für die Website gehört, wie Sie alle eingesetzten Dienste erfassen und welche Fehler Betriebe in Österreich häufig machen.",
+  "h1": "Datenschutzerklärung für die Website",
+  "kicker": "Ratgeber · Datenschutz",
+  "lead": "Eine Datenschutzerklärung brauchen Sie, sobald Ihre Website personenbezogene Daten verarbeitet, und das tut praktisch jede Website, schon durch IP-Adressen beim Hosting oder ein Kontaktformular. Sie erfüllt die Informationspflicht nach Art. 13 DSGVO: Wer verarbeitet welche Daten, wozu, auf welcher Rechtsgrundlage, wie lange und welche Rechte haben die Besucher.",
+  "fakten": [
+    "Fast jede Website braucht eine: Hosting, Formulare und eingebundene Dienste verarbeiten Daten",
+    "Grundlage ist Art. 13 DSGVO, die Pflicht zur Information bei der Datenerhebung",
+    "Inhalt muss zu Ihrer Website passen: nur Dienste nennen, die wirklich laufen",
+    "Bei jedem neuen Tool, Plugin oder Formular die Erklärung mit anpassen",
+    "Ansprechstelle für Beschwerden in Österreich ist die Datenschutzbehörde"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum praktisch jede Website eine Datenschutzerklärung braucht",
+      "html": "<p>Personenbezogene Daten sind alle Angaben, die sich einer Person zuordnen lassen. Dazu zählen nicht nur Name und E-Mail-Adresse, sondern auch IP-Adressen. Schon beim Aufruf Ihrer Seite speichert der Server in der Regel solche Daten in Protokolldateien. Spätestens mit einem Kontaktformular, einer eingebetteten Karte oder einem Video verarbeiten Sie Daten, über die Sie informieren müssen.</p><p>Die <a href=\"/glossar/dsgvo/\">DSGVO</a> verlangt, dass diese Information bereits im Moment der Erhebung verfügbar ist. Deshalb gehört die Datenschutzerklärung als eigene Seite auf jede Website, verlinkt im Fußbereich neben dem <a href=\"/wissen/impressum-pflicht/\">Impressum</a>.</p>"
+    },
+    {
+      "h2": "Was in eine Datenschutzerklärung gehört",
+      "html": "<p>Art. 13 DSGVO gibt die Pflichtinhalte recht genau vor. Für eine typische Betriebswebsite sind das vor allem:</p><ul><li>Name und Kontaktdaten des Verantwortlichen, also Ihres Betriebs</li><li>Kontaktdaten eines Datenschutzbeauftragten, falls Sie einen bestellt haben</li><li>Zwecke der Verarbeitung und die jeweilige Rechtsgrundlage, etwa Vertrag, Einwilligung oder berechtigtes Interesse</li><li>Empfänger der Daten, zum Beispiel Hosting-Anbieter, E-Mail-Dienst oder Newsletter-Tool</li><li>Übermittlungen in Länder außerhalb der EU und auf welcher Grundlage sie erfolgen</li><li>Speicherdauer oder die Kriterien dafür</li><li>Rechte der Betroffenen: Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerspruch und Widerruf einer Einwilligung</li><li>Das Recht auf Beschwerde bei der Aufsichtsbehörde, in Österreich die Datenschutzbehörde</li></ul><p>Formulieren Sie verständlich. Eine Erklärung, die niemand versteht, erfüllt den Zweck der Transparenz nur auf dem Papier.</p>"
+    },
+    {
+      "h2": "Bestandsaufnahme: Welche Dienste laufen wirklich auf Ihrer Seite?",
+      "html": "<p>Der wichtigste Schritt passiert vor dem Schreiben. Eine Datenschutzerklärung ist nur so gut wie die Liste der Dienste, die sie beschreibt. Gehen Sie so vor:</p><ol><li>Notieren Sie alle Funktionen der Website: Formulare, Terminbuchung, Newsletter, Chat, Shop, Karten, Videos, Social-Media-Feeds.</li><li>Fragen Sie Ihren Webdienstleister nach allen Plugins, Schriften und externen Skripten.</li><li>Prüfen Sie, wo die Website gehostet wird und welcher Anbieter Ihre E-Mails verarbeitet.</li><li>Halten Sie fest, ob mit diesen Anbietern ein Auftragsverarbeitungsvertrag besteht.</li><li>Klären Sie, ob Daten in die USA oder andere Drittländer gehen.</li></ol><p>Oft zeigt sich dabei, dass Dienste eingebunden sind, die niemand mehr braucht, etwa ein altes Statistik-Skript. Entfernen ist dann die einfachste Lösung.</p>"
+    },
+    {
+      "h2": "Generator, Vorlage oder Anwalt: was sich wofür eignet",
+      "html": "<p>Für einfache Websites greifen viele Betriebe zu Generatoren oder Mustertexten. Das funktioniert, wenn Sie die Bestandsaufnahme sorgfältig gemacht haben und nur auswählen, was tatsächlich zutrifft. Der Nachteil: Generatoren kennen Ihre Website nicht, und allgemeine Textbausteine passen selten genau.</p><p>Sobald Sie sensible Daten verarbeiten, etwa Gesundheitsdaten in einer Praxis, Bewerbungen oder Daten von Kindern, oder wenn ein Shop mit Zahlungsanbietern, Versanddienstleistern und Marketing-Tools arbeitet, ist eine individuelle Prüfung durch eine Anwältin oder einen Anwalt mit Datenschutz-Schwerpunkt sinnvoll. Einen guten Einstieg in die Grundlagen bietet die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>, Informationen für Betriebe stellt auch die <a href=\"https://www.wko.at/\">WKO</a> bereit.</p>"
+    },
+    {
+      "h2": "Typische Fehler in Datenschutzerklärungen",
+      "html": "<ul><li><strong>Kopiert von einer anderen Seite:</strong> Dort laufen andere Dienste, die Erklärung passt nicht zu Ihrer Website.</li><li><strong>Dienste fehlen:</strong> Das eingebettete YouTube-Video oder die Google-Karte ist nicht erwähnt.</li><li><strong>Dienste stehen drin, die es nicht mehr gibt:</strong> Das verwirrt und wirkt ungepflegt.</li><li><strong>Keine Rechtsgrundlagen:</strong> Es wird beschrieben, was passiert, aber nicht, warum das erlaubt ist.</li><li><strong>Keine Speicherdauer:</strong> „So lange wie nötig“ ohne jede Konkretisierung hilft niemandem.</li><li><strong>Versteckt:</strong> Die Erklärung ist nur über Umwege oder gar nicht auf dem Handy erreichbar.</li></ul><p>Ein Teil dieser Fehler entsteht, weil sich die Website verändert und die Erklärung nicht mitwächst. Das ist eine Frage der Pflege, nicht des einmaligen Schreibens.</p>"
+    },
+    {
+      "h2": "Zwei Beispiele: Onepager und Praxis-Website",
+      "html": "<p><strong>Tischlerei mit Onepager:</strong> Die Seite zeigt Leistungen, Fotos und ein Kontaktformular, die Schriften sind lokal eingebunden, eine Statistik gibt es nicht. Die Datenschutzerklärung beschreibt Hosting und Server-Protokolle, das Kontaktformular mit Speicherdauer der Anfragen und die Rechte der Besucher. Das passt auf eine überschaubare Seite.</p><p><strong>Physiotherapie mit Online-Terminbuchung:</strong> Hier kommen ein externes Buchungssystem, eventuell Erinnerungen per SMS und möglicherweise Angaben zu Beschwerden dazu. Gesundheitsdaten gehören zu den besonders geschützten Datenkategorien. Die Erklärung muss den Buchungsanbieter, die Rechtsgrundlagen und die Speicherdauer genau beschreiben. In so einem Fall lohnt sich rechtliche Beratung besonders.</p>"
+    },
+    {
+      "h2": "Datenschutzerklärung aktuell halten",
+      "html": "<p>Planen Sie die Erklärung als lebendes Dokument. Jedes Mal, wenn Sie etwas Neues einbauen, etwa einen Chatbot, einen Newsletter oder eine Terminbuchung, prüfen Sie, ob die Erklärung ergänzt werden muss. Wie das bei einem Chatbot aussieht, lesen Sie unter <a href=\"/wissen/chatbot-datenschutz/\">Chatbot und Datenschutz</a>. Ob Sie einen Cookie-Hinweis brauchen, klärt der Ratgeber zum <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a>.</p><p>Bei einer neuen Website gehören Datenschutzerklärung und Impressum zur Grundausstattung, auch bei der Starter-Website ab 2.500 € einmalig. Mehr dazu unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Den Text stimmen wir mit Ihnen ab, die rechtliche Prüfung im Einzelfall bleibt bei Ihrer Rechtsberatung, der WKO oder der Datenschutzbehörde.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich eine Datenschutzerklärung, wenn meine Website kein Kontaktformular hat?",
+      "a": "In aller Regel ja. Auch ohne Formular verarbeitet der Webserver beim Seitenaufruf IP-Adressen und weitere technische Daten, häufig kommen eingebundene Schriften, Karten oder Videos dazu. Darüber müssen Sie informieren. Eine Website ganz ohne Verarbeitung personenbezogener Daten ist in der Praxis kaum zu betreiben. Die Erklärung kann bei einer schlichten Seite aber entsprechend kurz und übersichtlich ausfallen."
+    },
+    {
+      "q": "Darf ich die Datenschutzerklärung einer anderen Firma übernehmen?",
+      "a": "Davon ist abzuraten. Abgesehen davon, dass fremde Texte urheberrechtlich geschützt sein können, beschreibt die Erklärung eines anderen Betriebs dessen Dienste, Anbieter und Abläufe. Ihre Website nutzt mit hoher Wahrscheinlichkeit andere Werkzeuge. Eine unpassende Erklärung informiert Besucher falsch und erfüllt damit die Transparenzpflicht nicht. Besser ist eine eigene Bestandsaufnahme und darauf aufbauend ein eigener Text."
+    },
+    {
+      "q": "Muss die Datenschutzerklärung auf Deutsch sein?",
+      "a": "Die Erklärung muss für Ihre Besucher verständlich sein. Richtet sich Ihre Website an Kundschaft in Österreich, ist Deutsch die naheliegende Sprache. Bieten Sie die Seite auch auf Englisch oder in weiteren Sprachen an, etwa für Gäste im Tourismus, sollte die Datenschutzerklärung in diesen Sprachen ebenfalls verfügbar sein. Eine Erklärung nur auf Englisch bei einer deutschsprachigen Seite ist nicht empfehlenswert."
+    },
+    {
+      "q": "Wie oft sollte ich die Datenschutzerklärung überarbeiten?",
+      "a": "Immer dann, wenn sich auf der Website etwas ändert, das Daten betrifft: neues Plugin, neuer Hosting-Anbieter, Newsletter, Chatbot, Terminbuchung oder Statistik. Zusätzlich ist ein jährlicher Kontrolltermin sinnvoll, bei dem Sie die Liste der eingesetzten Dienste mit dem Text abgleichen. Notieren Sie das Datum der letzten Aktualisierung, das hilft bei späteren Fragen und zeigt Sorgfalt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/impressum-pflicht/",
+    "/wissen/cookie-banner/",
+    "/wissen/dsgvo-kontaktformular/",
+    "/glossar/dsgvo/",
+    "/wissen/chatbot-datenschutz/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

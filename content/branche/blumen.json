@@ -1,0 +1,69 @@
+{
+ "pfad": "/branchen/blumen/",
+ "title": "Blumengeschäfte und Gärtnereien: Bestellungen online",
+ "description": "Für Blumengeschäfte und Gärtnereien: Trauerfloristik einfühlsam annehmen, Spitzentage wie Allerheiligen vorplanen, Jungpflanzen ankündigen und Lieferungen.",
+ "h1": "Digitale Lösungen für Blumengeschäfte und Gärtnereien",
+ "kicker": "Branche · Blumen & Gärtnerei",
+ "lead": "Blumengeschäfte und Gärtnereien haben wenige, aber heftige Spitzen und viele Bestellungen, bei denen es auf Details ankommt. Digital helfen vor allem ein einfühlsames Bestellformular für Trauerfloristik, Vorbestellungen vor Valentinstag, Muttertag und Allerheiligen, klare Angaben zu Liefergebiet und Kosten sowie aktuelle Hinweise zu Jungpflanzen in der Gärtnerei.",
+ "fakten": [
+  "Formular für Trauerkränze mit Schleifentext, Datum und Friedhof",
+  "Vorbestellung vor Valentinstag, Muttertag und Allerheiligen entzerrt die Spitzen",
+  "Liefergebiet und Lieferkosten klar auf der Website angeben",
+  "Pipeflow macht aus der Website wöchentlich Beiträge mit Bild, Pilotphase kostenlos"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Trauerfloristik: einfühlsam und ohne Missverständnisse",
+   "html": "<p>Wer einen Kranz oder ein Gesteck für ein Begräbnis bestellt, ist oft in einer schwierigen Lage und hat wenig Zeit. Gleichzeitig muss alles stimmen: der Schleifentext, das Datum, der Friedhof oder die Bestattung, an die geliefert wird. Ein Tippfehler auf der Schleife ist nicht mehr gutzumachen.</p><p>Ein eigenes, ruhig gestaltetes Bestellformular hilft beiden Seiten:</p><ul><li>Auswahl von Kranz, Gesteck oder Sarggesteck mit Preisrahmen</li><li>Schleifentext in einem eigenen Feld, mit Bestätigung vor dem Absenden</li><li>Datum und Uhrzeit der Verabschiedung, Friedhof oder Bestattungsunternehmen</li><li>Rückrufmöglichkeit für Rückfragen</li></ul><p>Achten Sie auf eine zurückhaltende Sprache. Wie man Texte für sensible Situationen formuliert, finden Sie im Ratgeber <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p>"
+  },
+  {
+   "h2": "Spitzentage: Valentinstag, Muttertag, Allerheiligen",
+   "html": "<p>An wenigen Tagen im Jahr ist das Geschäft voll, das Telefon läutet ununterbrochen und jede Bestellung muss gleichzeitig gebunden werden. Vor Allerheiligen kommen dazu Grabgestecke und Schalen, die viele Kunden Jahr für Jahr wiederbestellen.</p><p>Eine Vorbestellung auf der Website, die einige Wochen vorher öffnet, entzerrt diese Spitzen. Sie sehen früh, wie viele Sträuße oder Gestecke Sie brauchen, und können Ware entsprechend einkaufen. Stammkunden lassen sich mit einer kurzen Erinnerung an ihre Bestellung vom Vorjahr ansprechen. Mehr zur Planung von Saisonspitzen im Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+  },
+  {
+   "h2": "Hochzeitsfloristik: Beratung vorbereiten",
+   "html": "<p>Brautstrauß, Anstecker, Tischdekoration und Kirchenschmuck: Hochzeiten werden Monate im Voraus geplant und brauchen ein ausführliches Gespräch. Ein Anfrageformular mit Datum, Ort, Farbwünschen, Stil und ungefährem Budget macht dieses Gespräch deutlich effizienter.</p><p>Eine Seite mit Fotos eigener Hochzeitsarbeiten, mit Einverständnis der Brautpaare, zeigt besser als jede Beschreibung, wofür Ihr Geschäft steht.</p>"
+  },
+  {
+   "h2": "Gärtnerei: Jungpflanzen und Gartenfragen",
+   "html": "<p>Im Frühjahr fragen Hobbygärtner: „Gibt es schon Paradeiserpflanzen?“, „Welche Kräuter haben Sie heuer?“, „Kann ich Balkonblumen schon setzen?“ Viele dieser Fragen wiederholen sich jedes Jahr.</p><p>Eine kurze Übersicht des aktuellen Pflanzenangebots und ein paar Grundhinweise zur Pflege beantworten die meisten davon. Ein Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> kann sie rund um die Uhr nutzen: Er antwortet nur mit Ihren Inhalten und verbindet bei Unsicherheit mit Ihnen. Er kostet 19 € pro Monat, die ersten 30 Tage sind gratis. Ob Ihre Gärtnerei in KI-Suchen bei Fragen nach Pflanzen in der Nähe genannt wird, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p>"
+  },
+  {
+   "h2": "Lieferung und Online-Bestellung: das Liefergebiet klären",
+   "html": "<p>„Liefern Sie auch ins Nachbardorf?“ und „Was kostet die Zustellung?“ gehören zu den häufigsten Fragen. Schreiben Sie auf der Website genau, welche Orte Sie beliefern, zu welchen Kosten und bis wann am Vortag bestellt werden muss.</p><p>Ob eine Online-Bestellung mit Bezahlung sinnvoll ist, hängt von Ihrer Kundschaft ab. Für Geschenksträuße, die jemand von weiter weg für Eltern oder Freunde bestellt, ist sie oft praktisch. Was dazu gehört, erklären die Seiten <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a> und der Ratgeber <a href=\"/wissen/zahlungsarten-onlineshop/\">Zahlungsarten im Onlineshop</a>.</p>"
+  },
+  {
+   "h2": "Sträuße zeigen und der nächste Schritt",
+   "html": "<p>Kaum ein Produkt eignet sich so gut für Instagram wie frische Blumen. Pipeflow macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. In der Pilotphase ist es kostenlos, Start unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>. Fotos Ihrer eigenen Sträuße bleiben trotzdem das Wirkungsvollste.</p><p>Eine Starter-Website kostet ab 2.500 € einmalig. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, welche Bestellwege Ihr Geschäft wirklich entlasten.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Wie nehme ich Bestellungen für Trauerkränze online an?",
+   "a": "Mit einem eigenen, ruhig gestalteten Formular, das Art des Gestecks, Schleifentext, Datum der Verabschiedung und Lieferadresse abfragt. Der Schleifentext sollte in einem eigenen Feld stehen und vor dem Absenden noch einmal angezeigt werden, damit keine Fehler passieren. Eine Rückrufmöglichkeit ist wichtig, weil viele Angehörige lieber kurz persönlich sprechen."
+  },
+  {
+   "q": "Lohnt sich eine Vorbestellung vor Allerheiligen oder Muttertag?",
+   "a": "Für die meisten Blumengeschäfte ja, weil sich die Arbeit dadurch auf mehrere Tage verteilt und Sie besser einkaufen können. Öffnen Sie die Vorbestellung einige Wochen vorher, nennen Sie Abholtermine und Preise. Stammkunden, die jedes Jahr ein Grabgesteck bestellen, freuen sich über eine kurze Erinnerung. Spontankunden bedienen Sie weiterhin im Geschäft."
+  },
+  {
+   "q": "Was sollte eine Gärtnerei auf ihrer Website zeigen?",
+   "a": "Öffnungszeiten, die je nach Saison oft wechseln, das aktuelle Pflanzenangebot, Hinweise zu Jungpflanzen und Saisonware sowie Anfahrt und Parkmöglichkeiten. Kurze Pflegetipps zu Ihren wichtigsten Pflanzen beantworten wiederkehrende Fragen und werden auch von Suchmaschinen gerne gefunden. Fotos aus Glashaus und Verkaufsfläche zeigen, was Kunden erwartet."
+  },
+  {
+   "q": "Brauche ich als Blumengeschäft einen Onlineshop?",
+   "a": "Nicht zwingend. Viele Geschäfte kommen mit einem Bestellformular und Bezahlung bei Abholung oder Lieferung gut aus. Ein Shop mit Online-Bezahlung lohnt sich, wenn regelmäßig Menschen von außerhalb Sträuße für Angehörige bestellen. Wichtig sind dann klare Angaben zu Liefergebiet, Kosten und Bestellschluss. Der Preis für einen Shop wird nach dem Erstgespräch genannt."
+  }
+ ],
+ "verwandt": [
+  "/branchen/einzelhandel/",
+  "/branchen/gartengestaltung/",
+  "/wissen/saisonbetrieb-digital/",
+  "/wissen/instagram-unternehmen/",
+  "/leistungen/onlineshop-erstellen/"
+ ],
+ "checks": [
+  "social-media-test",
+  "ki-sichtbarkeit"
+ ]
+}

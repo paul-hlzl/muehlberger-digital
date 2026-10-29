@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/allentsteig/",
+  "title": "Digitalagentur Allentsteig: alte Website erneuern",
+  "description": "Für Betriebe in Allentsteig im Bezirk Zwettl, deren Website in die Jahre gekommen ist: Relaunch, Gratis-Checks und persönliche Beratung im Waldviertel.",
+  "h1": "Digitalagentur für Allentsteig",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Viele Betriebe haben eine Website, die vor Jahren erstellt und seither kaum angefasst wurde. Für Betriebe in Allentsteig zeigt Mühlberger Digital, woran man erkennt, dass eine Erneuerung fällig ist, was dabei erhalten bleiben sollte und wann ein Auffrischen reicht. Beraten wird persönlich von Jonas Mühlberger aus Ottenschlag.",
+  "fakten": [
+    "Allentsteig ist eine Stadtgemeinde im Bezirk Zwettl, Waldviertel",
+    "Schwerpunkt: bestehende Websites prüfen und erneuern",
+    "Gratis: SEO-Test und Startseiten-Entwurf von Pipeline",
+    "Erstgespräch kostenlos, gern vor Ort"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Woran Sie erkennen, dass Ihre Website alt ist",
+      "html": "<ul><li>Auf dem Handy muss man zoomen, um etwas zu lesen.</li><li>Öffnungszeiten, Team oder Preise stimmen nicht mehr.</li><li>Niemand weiß mehr, wer die Zugangsdaten hat.</li><li>Der Browser zeigt „nicht sicher“ an.</li><li>Kundinnen und Kunden rufen an, um Dinge zu fragen, die eigentlich auf der Website stehen sollten.</li></ul><p>Trifft mehr als ein Punkt zu, lohnt sich ein genauer Blick. Der Ratgeber <a href=\"/wissen/website-pruefen/\">Website prüfen</a> hilft bei der Einschätzung.</p>"
+    },
+    {
+      "h2": "Gratis prüfen, bevor Sie Geld ausgeben",
+      "html": "<p>Bevor über einen Neubau gesprochen wird, sollte klar sein, wo die Website heute steht. Dafür gibt es zwei kostenlose Werkzeuge: den <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline</a>, der Schwächen für Google aufzeigt, und den <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Startseiten-Entwurf</a>, der in wenigen Minuten aus Ihrer bestehenden Website einen neuen Entwurf macht.</p><p>So sehen Sie vorab, wie eine erneuerte Startseite aussehen könnte, und können das Ergebnis im Erstgespräch mit Jonas Mühlberger besprechen.</p>"
+    },
+    {
+      "h2": "Erneuern, ohne Gutes zu verlieren",
+      "html": "<p>Bei einem Relaunch geht oft etwas verloren, das gut funktioniert hat: Seiten, die bei Google gefunden werden, bekannte Adressen oder Texte, die Kundschaft schätzt. Deshalb wird vorher festgehalten, was bleibt, was weg kann und wohin alte Adressen weitergeleitet werden. Eine Übersicht bietet die <a href=\"/wissen/website-relaunch-checkliste/\">Relaunch-Checkliste</a>.</p><p>Wie das im Detail läuft, beschreibt die Leistung <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a>. Manchmal reicht auch ein Auffrischen: neue Fotos, aktuelle Texte, ein gültiges Sicherheitszertifikat. Dann sagen wir das, statt einen Neubau zu verkaufen.</p>"
+    },
+    {
+      "h2": "Persönlich im Bezirk Zwettl",
+      "html": "<p>Allentsteig liegt im Bezirk Zwettl, wie Ottenschlag, der Sitz von Mühlberger Digital. Jonas Mühlberger kommt für das kostenlose Erstgespräch gern zu Ihnen, Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Bringen Sie, wenn vorhanden, die Zugangsdaten zu Domain und Website mit, das spart später Zeit.</p><p>Mehr zur Umgebung auf den Seiten zum <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Website-Relaunch?",
+      "a": "Das hängt davon ab, wie groß die bestehende Website ist und was übernommen werden soll. Für kleinere Betriebe ist oft die Starter-Website ab 2.500 € einmalig der passende Rahmen, mit bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Größere Websites mit vielen Unterseiten oder Shop werden nach dem Erstgespräch individuell angeboten, immer mit schriftlichem Angebot vorab."
+    },
+    {
+      "q": "Verliere ich bei einer neuen Website meine Google-Platzierung?",
+      "a": "Nicht, wenn der Umzug sorgfältig geplant wird. Wichtige Seiten bleiben erhalten oder werden auf passende neue Seiten weitergeleitet, damit Google und Besucher sie wiederfinden. Kurzfristige Schwankungen sind trotzdem möglich. Eine bestimmte Platzierung kann niemand zusagen, aber ein sauberer Relaunch verhindert die typischen Fehler, die zu Einbrüchen führen."
+    },
+    {
+      "q": "Ich habe keine Zugangsdaten mehr zu meiner alten Website. Was nun?",
+      "a": "Das kommt häufig vor. Meist lässt sich über den Anbieter von Domain oder Hosting klären, wer Inhaber ist und wie die Zugänge wiederhergestellt werden. Bei .at-Domains gibt nic.at als Registrierungsstelle Auskunft über den Ablauf. Im Erstgespräch gehen wir gemeinsam durch, welche Unterlagen Sie haben und was der nächste Schritt ist."
+    },
+    {
+      "q": "Muss ich für die neue Website meine Domain wechseln?",
+      "a": "In der Regel nicht. Die bestehende Domain bleibt, und auch Ihre E-Mail-Adressen können weiterlaufen. Das ist sogar wichtig, weil Kundschaft und Google Ihre Adresse kennen. Wichtig ist nur, vor dem Umzug zu klären, wo Domain und E-Mail derzeit liegen, damit beim Wechsel des Hostings nichts unterbrochen wird."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/leistungen/website-relaunch/",
+    "/wissen/website-relaunch-checkliste/",
+    "/gratis-check/seo-check/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/llms-txt/",
+  "title": "llms.txt erklärt: Wegweiser für KI-Sprachmodelle",
+  "description": "llms.txt einfach erklärt: Was die vorgeschlagene Datei für KI-Sprachmodelle enthält, was sie kann, was nicht, und ob sie sich für kleine Betriebe lohnt.",
+  "h1": "llms.txt",
+  "kicker": "Glossar · KI-Suche",
+  "lead": "Die llms.txt ist eine vorgeschlagene Textdatei im Hauptverzeichnis einer Website, die KI-Sprachmodellen in einfacher Form zusammenfasst, worum es auf der Seite geht und wo die wichtigsten Inhalte liegen. Sie ist kein offizieller Standard, und wie stark KI-Dienste sie nutzen, ist offen.",
+  "fakten": [
+    "Liegt unter /llms.txt und ist im Markdown-Format geschrieben",
+    "Enthält Kurzbeschreibung und Links zu zentralen Seiten",
+    "Ergänzt die robots.txt, ersetzt sie aber nicht"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was in einer llms.txt steht",
+      "html": "<p>Ein Steuerberatungsbüro mit drei Mitarbeiterinnen legt eine llms.txt an. Darin stehen in wenigen Zeilen: Name, Standort, Schwerpunkte wie Lohnverrechnung und Arbeitnehmerveranlagung, Einzugsgebiet sowie Links zu den Seiten mit Leistungen, Team und Kontakt. Eine KI, die die Datei liest, bekommt so eine saubere Zusammenfassung ohne Menüs, Cookie-Hinweise und Werbung.</p><p>Die Datei ist bewusst schlicht gehalten. Anders als die <a href=\"/glossar/robots-txt/\">robots.txt</a> regelt sie keine Zugriffe, sondern bietet Orientierung.</p>"
+    },
+    {
+      "h2": "Lohnt sich die llms.txt für KMU?",
+      "html": "<p>Die Erstellung ist mit wenig Aufwand verbunden und schadet nicht. Ehrlich gesagt sollten Sie aber keine Wunder erwarten: Ob und wie große KI-Anbieter die Datei auswerten, ist nicht verbindlich geklärt. Wichtiger für die <a href=\"/glossar/geo/\">GEO</a> bleiben klare Inhalte auf der Website selbst, einheitliche Angaben im Netz und gut erreichbare Seiten für <a href=\"/glossar/crawler/\">Crawler</a>.</p><p>Aufbau und Beispiele zeigt der Ratgeber <a href=\"/wissen/llms-txt/\">llms.txt anlegen</a>. Wie KI-Suchen Ihren Betrieb derzeit sehen, prüft der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich eine llms.txt haben, um in ChatGPT vorzukommen?",
+      "a": "Nein. KI-Systeme greifen vor allem auf normale Webseiten, Verzeichnisse und Erwähnungen im Netz zu. Eine llms.txt kann diese Inhalte übersichtlich zusammenfassen, ist aber keine Voraussetzung. Wenn Ihre Website verständlich aufgebaut ist und die wichtigsten Fakten klar nennt, haben Sie die wichtigste Grundlage bereits geschaffen. Die Datei ist eine sinnvolle, kleine Ergänzung."
+    },
+    {
+      "q": "Wie unterscheidet sich die llms.txt von einer Sitemap?",
+      "a": "Eine XML-Sitemap listet alle Seiten für Suchmaschinen vollständig und maschinenlesbar auf. Die llms.txt ist eine kurze, für Menschen und Sprachmodelle lesbare Zusammenfassung mit Beschreibung und Auswahl der wichtigsten Links. Die Sitemap hilft beim Finden, die llms.txt beim Verstehen. Beide können nebeneinander bestehen und ergänzen sich."
+    }
+  ],
+  "verwandt": [
+    "/wissen/llms-txt/",
+    "/glossar/robots-txt/",
+    "/glossar/geo/",
+    "/leistungen/geo-ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

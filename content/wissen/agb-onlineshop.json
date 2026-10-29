@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/agb-onlineshop/",
+  "title": "AGB im Onlineshop: Grundlagen für Österreich",
+  "description": "AGB im Onlineshop: was üblicherweise geregelt wird, welche Informationspflichten und Rücktrittsrechte gelten und was AGB gegenüber Verbrauchern nicht dürfen.",
+  "h1": "AGB im Onlineshop: Grundlagen",
+  "kicker": "Ratgeber · Recht & Onlineshop",
+  "lead": "Allgemeine Geschäftsbedingungen (AGB) sind für einen Onlineshop nicht ausdrücklich vorgeschrieben, in der Praxis aber fast immer sinnvoll: Sie regeln Vertragsabschluss, Lieferung, Zahlung und Gewährleistung einheitlich. Unabhängig von AGB müssen Sie Ihre Kundschaft vor der Bestellung über viele Punkte informieren, vor allem über Preise, Versandkosten und das Rücktrittsrecht nach dem Fern- und Auswärtsgeschäfte-Gesetz (FAGG).",
+  "fakten": [
+    "AGB sind freiwillig, gesetzliche Informationspflichten gelten trotzdem",
+    "Verbraucher haben bei Onlinekäufen in der Regel 14 Tage Rücktrittsrecht",
+    "Gewährleistung gegenüber Verbrauchern lässt sich nicht ausschließen",
+    "AGB müssen vor der Bestellung abrufbar und speicherbar sein",
+    "Nie AGB eines anderen Shops kopieren, sondern auf Ihr Sortiment abstimmen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "AGB und Informationspflichten: zwei verschiedene Dinge",
+      "html": "<p>Viele Shopbetreiber werfen zwei Themen zusammen. <strong>AGB</strong> sind Vertragsbedingungen, die Sie selbst vorgeben, damit nicht jeder Kauf einzeln verhandelt werden muss. <strong>Informationspflichten</strong> sind gesetzliche Vorgaben, was Kunden vor dem Kauf erfahren müssen, etwa wer Sie sind, was die Ware kostet, wie geliefert wird und wie sie vom Vertrag zurücktreten können.</p><p>Die Informationspflichten ergeben sich vor allem aus dem FAGG, dem E-Commerce-Gesetz und dem Konsumentenschutzgesetz. Sie gelten auch, wenn Sie keine AGB haben. In der Praxis werden viele dieser Informationen in AGB, Produktseiten, Versandinfos und Bestellübersicht verteilt. Wichtig ist, dass sie rechtzeitig und verständlich da sind.</p>"
+    },
+    {
+      "h2": "Was in AGB eines Onlineshops üblicherweise geregelt ist",
+      "html": "<ul><li><strong>Geltungsbereich:</strong> für wen die AGB gelten, etwa Verbraucher, Unternehmer oder beide</li><li><strong>Vertragsabschluss:</strong> ob die Bestellung ein Angebot ist und wann der Vertrag zustande kommt, etwa mit der Auftragsbestätigung</li><li><strong>Preise und Versandkosten:</strong> inklusive Steuern bzw. Hinweis auf die Kleinunternehmerregelung</li><li><strong>Zahlung:</strong> angebotene Zahlungsarten und Fälligkeit</li><li><strong>Lieferung:</strong> Liefergebiet, Lieferzeiten, Vorgehen bei Nichtverfügbarkeit</li><li><strong>Eigentumsvorbehalt:</strong> Ware bleibt bis zur vollständigen Bezahlung Eigentum des Shops</li><li><strong>Rücktrittsrecht:</strong> Belehrung, Muster-Formular, Ausnahmen, Rücksendekosten</li><li><strong>Gewährleistung und Haftung:</strong> im gesetzlich zulässigen Rahmen</li><li><strong>Verweis auf die Datenschutzerklärung</strong></li></ul>"
+    },
+    {
+      "h2": "Rücktrittsrecht und Bestellvorgang bei Verbrauchern",
+      "html": "<p>Verbraucher können bei Fernabsatzverträgen in der Regel binnen <strong>14 Tagen</strong> ohne Angabe von Gründen zurücktreten. Sie müssen darüber vor der Bestellung belehrt werden, inklusive Muster-Rücktrittsformular. Fehlt die Belehrung, verlängert sich die Frist deutlich, um bis zu zwölf Monate.</p><p>Es gibt Ausnahmen, etwa für schnell verderbliche Waren oder nach Kundenwünschen angefertigte Produkte. Ob eine Ausnahme greift, sollte vorab geklärt sein. Für den Bestellvorgang gilt außerdem: Der Bestell-Button muss eindeutig auf die Zahlungspflicht hinweisen, üblich ist die Beschriftung „zahlungspflichtig bestellen“. Vor dem Klick sehen Kunden eine Übersicht mit Ware, Gesamtpreis und Versandkosten.</p>"
+    },
+    {
+      "h2": "Was AGB gegenüber Verbrauchern nicht dürfen",
+      "html": "<p>AGB sind kein Freibrief. Gegenüber Verbrauchern schränken das Konsumentenschutzgesetz und das allgemeine Zivilrecht deutlich ein, was Sie regeln dürfen. Unwirksam sind zum Beispiel typischerweise:</p><ul><li>ein Ausschluss oder eine Verkürzung der gesetzlichen Gewährleistung, die bei Waren grundsätzlich zwei Jahre beträgt</li><li>Klauseln, die Kunden grob benachteiligen oder an versteckter Stelle überraschen</li><li>Einschränkungen des gesetzlichen Rücktrittsrechts</li><li>beliebige Preisänderungen nach Vertragsabschluss</li></ul><p>Unwirksame Klauseln schaden doppelt: Sie gelten nicht, und sie können Abmahnungen oder Verbandsklagen auslösen. Ein schlanker, korrekter Text ist besser als ein langer, der Rechte abschneidet.</p>"
+    },
+    {
+      "h2": "Shop für Privatkunden oder für Betriebe",
+      "html": "<p>Ob Sie an Verbraucher oder an Unternehmen verkaufen, verändert die AGB grundlegend. Im <strong>B2C-Shop</strong> stehen Verbraucherrechte im Vordergrund, viele Regeln sind zwingend. Im <strong>B2B-Shop</strong> haben Sie mehr Spielraum, etwa bei Gewährleistung, Haftung, Gerichtsstand und Zahlungszielen.</p><p>Wer beide Zielgruppen bedient, braucht klare Regeln, für wen welche Bedingungen gelten, oder getrennte AGB. Ein Großhändler für Ersatzteile, der gelegentlich an Private verkauft, sollte das nicht dem Zufall überlassen.</p>"
+    },
+    {
+      "h2": "Drei typische Situationen",
+      "html": "<p><strong>Hofladen mit Online-Bestellung:</strong> Ein Betrieb verkauft Fleischpakete und Eier zur Abholung oder Zustellung im Umkreis. Wichtig sind Regeln zu Abholzeiten, Kühlkette, verderblichen Waren beim Rücktritt und zur Bezahlung bei Abholung.</p><p><strong>Tischlerei mit konfigurierbaren Möbeln:</strong> Maße und Holzart wählt der Kunde. Hier ist zu klären, ob es sich um eine Anfertigung nach Kundenwunsch handelt und wie Anzahlung, Lieferzeit und Montage geregelt sind.</p><p><strong>Kosmetikstudio mit Gutscheinshop:</strong> Gutscheine werden online verkauft und per E-Mail verschickt. Gültigkeitsdauer, Einlösung und Rücktritt sind die zentralen Punkte. Mehr dazu unter <a href=\"/wissen/gutscheine-online/\">Gutscheine online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Woher Sie passende AGB bekommen und wie es weitergeht",
+      "html": "<p>Für den Start gibt es mehrere Wege: Informationen und teils Mustertexte bei der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>, Rechtstexte von spezialisierten Anbietern oder AGB, die eine Anwältin bzw. ein Anwalt für Ihren Shop erstellt. Je individueller Sortiment und Abläufe sind, desto mehr lohnt sich die anwaltliche Lösung. Gesetzestexte wie FAGG und KSchG finden Sie im <a href=\"https://www.ris.bka.gv.at/\">Rechtsinformationssystem des Bundes</a>.</p><p>Technisch gehören AGB vor der Bestellung verlinkt, sie müssen speicher- und ausdruckbar sein, und Kunden erhalten sie am besten mit der Bestellbestätigung. Wenn Sie einen Shop planen, lesen Sie <a href=\"/wissen/onlineshop-starten/\">Onlineshop starten</a> und <a href=\"/wissen/zahlungsarten-onlineshop/\">Zahlungsarten im Onlineshop</a>. Die Umsetzung vermittelt Mühlberger Digital über Pipeline AI Solutions, Preis auf Anfrage, siehe <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen lassen</a>. Die rechtliche Prüfung im Einzelfall bleibt bei WKO oder Rechtsberatung.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ein Onlineshop in Österreich AGB haben?",
+      "a": "Eine ausdrückliche Pflicht, AGB zu verwenden, gibt es nicht. Sie müssen aber die gesetzlichen Informationspflichten erfüllen, etwa zu Preisen, Lieferung, Zahlung und Rücktrittsrecht. AGB sind der übliche Weg, diese Punkte geordnet und einheitlich zu regeln. Ohne AGB gelten die gesetzlichen Regeln, was in manchen Fragen wie Vertragsabschluss oder Eigentumsvorbehalt Unklarheiten lassen kann. Lassen Sie im Zweifel beraten."
+    },
+    {
+      "q": "Darf ich die AGB eines anderen Onlineshops übernehmen?",
+      "a": "Davon ist abzuraten. Fremde AGB können urheberrechtlich geschützt sein, und vor allem passen sie selten zu Ihrem Sortiment, Ihren Lieferwegen und Zahlungsarten. Veraltete oder unpassende Klauseln können unwirksam sein oder Abmahnungen auslösen. Besser ist ein Text, der auf Ihren Shop abgestimmt ist, etwa auf Basis seriöser Muster mit anschließender Prüfung durch eine Anwältin oder einen Anwalt."
+    },
+    {
+      "q": "Wie lange haben Kunden beim Onlinekauf ein Rücktrittsrecht?",
+      "a": "Verbraucher haben bei Onlinekäufen in der Regel 14 Tage Zeit, ohne Angabe von Gründen vom Vertrag zurückzutreten. Bei Waren beginnt die Frist grundsätzlich mit Erhalt der Ware. Wurden sie nicht ordnungsgemäß über das Rücktrittsrecht belehrt, verlängert sich die Frist um bis zu zwölf Monate. Für bestimmte Waren, etwa schnell verderbliche oder individuell angefertigte, gibt es Ausnahmen, die im Einzelfall zu prüfen sind."
+    },
+    {
+      "q": "Kann ich in den AGB die Gewährleistung ausschließen?",
+      "a": "Gegenüber Verbrauchern nicht. Die gesetzliche Gewährleistung ist zwingend und lässt sich weder ausschließen noch verkürzen, für Waren beträgt sie grundsätzlich zwei Jahre. Eine freiwillige Garantie können Sie zusätzlich anbieten. Gegenüber Unternehmern ist mehr Spielraum vorhanden, die Gewährleistung kann dort unter Umständen eingeschränkt werden. Wie weit das geht, klären Sie mit Ihrer Rechtsberatung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/onlineshop-starten/",
+    "/wissen/zahlungsarten-onlineshop/",
+    "/wissen/versand-onlineshop/",
+    "/leistungen/onlineshop-erstellen/",
+    "/glossar/onlineshop/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

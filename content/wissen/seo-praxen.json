@@ -1,0 +1,78 @@
+{
+  "pfad": "/wissen/seo-praxen/",
+  "title": "SEO für Praxen und Gesundheitsberufe erklärt",
+  "description": "SEO für Arztpraxen, Physiotherapie und Gesundheitsberufe: wie Patienten Sie finden, was auf die Website gehört und welche Grenzen das Berufsrecht setzt.",
+  "h1": "SEO für Praxen und Gesundheitsberufe",
+  "kicker": "Ratgeber · SEO",
+  "lead": "Praxen werden vor allem gefunden, wenn Fachrichtung, Kassen- oder Wahlarztstatus, Ort, Ordinationszeiten und Terminmöglichkeiten klar auf Website und Google-Profil stehen und jede Leistung verständlich erklärt ist. Gleichzeitig gelten im Gesundheitsbereich strengere Regeln: sachliche Information statt Werbeversprechen, und das jeweilige Berufsrecht ist zu beachten.",
+  "fakten": [
+    "Patienten suchen nach Fachrichtung, Ort und oft nach „Kasse“ oder „Wahlarzt“",
+    "Ordinationszeiten, Urlaube und Vertretungen müssen überall aktuell sein",
+    "Gesundheitsinhalte prüft Google besonders streng auf Fachkompetenz",
+    "Berufsrechtliche Werberegeln der Kammer gelten auch online",
+    "Online-Terminbuchung und klare Anfahrt entlasten das Telefon"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Patienten nach Praxen suchen",
+      "html": "<p>Patienten suchen meist mit einer klaren Absicht: „Hautarzt Kasse St. Pölten“, „Physiotherapie Hausbesuch“, „Zahnarzt Notdienst Wochenende“. Für viele ist entscheidend, ob die Praxis neue Patienten nimmt, mit welcher Kasse sie abrechnet und wie schnell es einen Termin gibt.</p> <p>Diese Informationen gehören deshalb nicht versteckt auf eine Unterseite, sondern gut sichtbar auf die Startseite und ins Google-Unternehmensprofil. Eine Praxis, die klar sagt „Wahlarztordination, Termine nach Vereinbarung, derzeit Aufnahme neuer Patienten“, erspart sich und den Patienten viele Telefonate.</p>"
+    },
+    {
+      "h2": "Was auf eine Praxis-Website gehört",
+      "html": "<ul> <li><strong>Fachrichtung und Schwerpunkte</strong>, verständlich formuliert.</li> <li><strong>Kassenverträge oder Wahlarztstatus</strong> und was das für Patienten bedeutet.</li> <li><strong>Ordinationszeiten</strong>, Urlaube, Vertretungen.</li> <li><strong>Terminvereinbarung:</strong> telefonisch, online, Akutsprechstunde.</li> <li><strong>Anfahrt und Barrierefreiheit:</strong> Parkplätze, Lift, öffentliche Verbindung.</li> <li><strong>Team</strong> mit Ausbildung und Qualifikationen.</li> <li><strong>Leistungen</strong> mit je einer eigenen Seite, wenn sie für Patienten relevant sind.</li> </ul> <p>Eine ausführliche Übersicht gibt der Ratgeber <a href=\"/wissen/praxis-website/\">Was eine Praxis-Website braucht</a>.</p>"
+    },
+    {
+      "h2": "Gesundheitsinhalte mit Sorgfalt",
+      "html": "<p>Google bewertet Inhalte, die Gesundheit betreffen, besonders streng. Gemeint ist: Die Seite muss erkennen lassen, wer dahintersteht, welche Qualifikation diese Person hat und dass die Informationen sorgfältig sind. Für Praxen ist das ein Vorteil, denn Sie haben die Fachkompetenz.</p> <ul> <li>Nennen Sie bei Texten zu Behandlungen, wer sie verfasst oder geprüft hat.</li> <li>Erklären Sie sachlich, was eine Behandlung ist, für wen sie in Frage kommt und wie sie abläuft.</li> <li>Vermeiden Sie Heilversprechen und übertriebene Erfolgsaussagen.</li> <li>Verweisen Sie bei Beschwerden auf das persönliche Gespräch, statt Ferndiagnosen nahezulegen.</li> </ul>"
+    },
+    {
+      "h2": "Berufsrecht und Werberegeln beachten",
+      "html": "<p>Ärztinnen, Zahnärzte, Psychotherapeuten und andere Gesundheitsberufe unterliegen eigenen Regeln für Werbung und Außendarstellung. Diese gelten auch für Website, Google-Profil und soziale Netzwerke. Grundsätzlich sind sachliche Informationen erlaubt, reißerische oder irreführende Werbung nicht.</p> <p>Die genauen Vorgaben unterscheiden sich je nach Beruf. Dieser Ratgeber ersetzt keine Rechtsberatung: Klären Sie Einzelfragen bei Ihrer Kammer, Ihrem Berufsverband oder einer Anwältin. Auch beim Datenschutz gelten für Gesundheitsdaten besonders strenge Regeln, etwa bei Kontaktformularen. Grundlagen dazu finden Sie unter <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a> und bei der <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>.</p>"
+    },
+    {
+      "h2": "Google-Profil, Bewertungen und Verzeichnisse",
+      "html": "<p>Das Google-Unternehmensprofil ist für Praxen oft der erste Kontaktpunkt. Pflegen Sie Kategorie, Ordinationszeiten, Telefonnummer, Website-Link und Fotos von Eingang und Wartebereich. Sondertage wie Urlaube sollten rechtzeitig eingetragen sein.</p> <p>Bewertungen sind im Gesundheitsbereich heikel, weil Sie bei Antworten keine Details zur Behandlung nennen dürfen. Bleiben Sie allgemein und freundlich, etwa: „Danke für Ihre Rückmeldung. Bitte melden Sie sich gerne direkt in der Ordination, damit wir das persönlich besprechen können.“ Zusätzlich sollten Ihre Daten in der Arzt- oder Therapeutensuche Ihrer Kammer und in den üblichen <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnissen</a> stimmen.</p>"
+    },
+    {
+      "h2": "Terminbuchung und Erreichbarkeit",
+      "html": "<p>Das Telefon ist in vielen Praxen die größte Belastung. Patienten, die nicht durchkommen, suchen weiter. Digitale Bausteine können entlasten:</p> <ul> <li><strong>Online-Terminbuchung</strong> für Standardtermine, mehr dazu unter <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung einführen</a>.</li> <li><strong>Häufige Fragen</strong> auf der Website: Rezepte, Überweisungen, Befunde, Kosten bei Wahlärzten.</li> <li><strong>Ein Chatbot</strong>, der organisatorische Fragen rund um die Uhr mit den Inhalten der Praxis beantwortet, aber keine medizinische Beratung gibt.</li> <li><strong>Ein KI-Telefonassistent</strong>, der Anrufe annimmt und Anliegen aufnimmt; Preis auf Anfrage.</li> </ul>"
+    },
+    {
+      "h2": "So starten Sie",
+      "html": "<ol> <li>Google-Profil vollständig ausfüllen und Ordinationszeiten prüfen.</li> <li>Kassen- oder Wahlarztstatus und Terminwege auf die Startseite stellen.</li> <li>Für die wichtigsten Leistungen je eine sachliche Seite anlegen.</li> <li>Team mit Qualifikationen vorstellen.</li> <li>Technik prüfen: Handy-Darstellung, Ladezeit, sichere Verbindung.</li> </ol> <p>Einen ersten Überblick gibt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>. Branchentypische Lösungen zeigt die Seite für <a href=\"/branchen/arztpraxis/\">Arztpraxen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finden Patienten meine Praxis bei Google?",
+      "a": "Patienten finden Praxen vor allem über das Google-Unternehmensprofil und über Websites, die Fachrichtung, Ort und Kassen- oder Wahlarztstatus klar nennen. Wichtig sind aktuelle Ordinationszeiten, eine gut sichtbare Telefonnummer, Informationen zur Terminvereinbarung und je eine verständliche Seite für die wichtigsten Leistungen. Dazu kommen korrekte Einträge in der Arztsuche der Kammer und in gängigen Verzeichnissen."
+    },
+    {
+      "q": "Darf eine Arztpraxis überhaupt Werbung im Internet machen?",
+      "a": "Sachliche Information über Leistungen, Qualifikationen, Ordinationszeiten und Erreichbarkeit ist in der Regel erlaubt. Für Werbung gelten im Gesundheitsbereich aber strengere berufsrechtliche Regeln als in anderen Branchen, die sich je nach Beruf unterscheiden. Vermeiden Sie Heilversprechen und reißerische Aussagen. Klären Sie konkrete Fragen bei Ihrer Kammer oder Ihrem Berufsverband, dieser Ratgeber ist keine Rechtsberatung."
+    },
+    {
+      "q": "Wie antworte ich als Praxis auf Google-Bewertungen?",
+      "a": "Antworten Sie freundlich und allgemein, ohne Details zur Person oder Behandlung zu nennen, denn schon die Bestätigung, dass jemand Patient war, kann heikel sein. Bedanken Sie sich bei positiven Rückmeldungen. Bei Kritik bieten Sie an, das Anliegen persönlich in der Ordination zu besprechen. So zeigen Sie anderen Lesern, dass Sie Rückmeldungen ernst nehmen, und wahren die Verschwiegenheit."
+    },
+    {
+      "q": "Ist ein Chatbot für eine Praxis sinnvoll?",
+      "a": "Ein Chatbot kann organisatorische Fragen beantworten, etwa zu Ordinationszeiten, Rezepten, Anfahrt oder Kosten bei Wahlärzten, und so das Telefon entlasten. Er darf aber keine medizinische Beratung oder Diagnose geben und sollte bei Unsicherheit an die Ordination verweisen. Pipebot antwortet nur mit den Inhalten der Praxis, kostet 19 € pro Monat und lässt sich 30 Tage gratis testen."
+    },
+    {
+      "q": "Sollte jede Behandlung eine eigene Seite bekommen?",
+      "a": "Für die Leistungen, nach denen Patienten tatsächlich suchen, ist eine eigene Seite sinnvoll, etwa Stoßwellentherapie in der Physiotherapie oder Implantate in der Zahnarztpraxis. Jede Seite erklärt sachlich, worum es geht, für wen die Behandlung in Frage kommt, wie sie abläuft und wie Kosten geregelt sind. Selten gefragte Leistungen können gesammelt auf einer Übersichtsseite stehen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/praxis-website/",
+    "/wissen/online-terminbuchung/",
+    "/branchen/arztpraxis/",
+    "/leistungen/seo/",
+    "/wissen/lokales-seo/"
+  ],
+  "checks": [
+    "seo-check",
+    "chatbot-test"
+  ]
+}

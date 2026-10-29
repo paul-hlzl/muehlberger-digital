@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/ferienwohnung/",
+  "title": "Digitale Lösungen für Ferienwohnungen & Pensionen",
+  "description": "Verfügbarkeitsanfragen, Schlüsselübergabe, WLAN-Fragen und Nebensaison: Wie Vermieter von Ferienwohnungen und Pensionen Gäste digital gut betreuen.",
+  "h1": "Digitale Lösungen für Ferienwohnungen & Pensionen",
+  "kicker": "Branche · Privatvermietung, Pension",
+  "lead": "Ferienwohnungen und kleine Pensionen werden oft nebenbei oder als Familienbetrieb geführt, und genau deshalb fehlt die Zeit für die vielen kleinen Gästefragen. Eine schlanke eigene Website, automatische Infos zur Anreise und ein Chatbot oder WhatsApp-Bot für Standardfragen nehmen Vermietern viel Arbeit ab, ohne dass die persönliche Note verloren geht.",
+  "fakten": [
+    "Eigene Website als Ergänzung zu Plattformen, nicht als Ersatz",
+    "Anreise, Schlüsselbox und WLAN-Passwort automatisch vor der Ankunft schicken",
+    "Starter-Website ab 2.500 € einmalig ohne USt. inklusive Hosting",
+    "Pipebot beantwortet Gästefragen rund um die Uhr, 19 € pro Monat, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vermieten neben Beruf und Familie",
+      "html": "<p>Viele Ferienwohnungen gehören Familien, die nebenbei vermieten, oft im ehemaligen Austragshaus oder in der Wohnung über der Garage. Die Gäste schreiben aber nicht nur zu Bürozeiten: „Ist die Wohnung von 12. bis 15. frei? Gibt es ein Gitterbett? Wo ist der nächste Supermarkt?“</p><p>Jede dieser Fragen ist schnell beantwortet, aber in Summe frisst das Abende. Der erste Schritt ist eine Website, auf der die häufigsten Antworten stehen: Ausstattung, Kinder, Haustiere, Parken, Anreise, Hausregeln. Was so etwas kostet und was laufend dazukommt, beschreibt der Ratgeber <a href=\"/wissen/website-laufende-kosten/\">laufende Kosten einer Website</a>.</p>"
+    },
+    {
+      "h2": "Selbst-Check-in: Die Anleitung, die jeder Gast braucht",
+      "html": "<p>Viele Vermieter arbeiten mit Schlüsselbox oder Code, weil sie bei der Anreise nicht immer zuhause sind. Dann muss jeder Gast vorher wissen, wo die Box hängt, wie der Code lautet, wo er parkt und wie das WLAN heißt.</p><ul><li>Eine automatische Nachricht einige Tage vor Anreise mit Anfahrtsbeschreibung und Foto vom Eingang.</li><li>Am Anreisetag der Code und das WLAN-Passwort.</li><li>Eine kurze digitale Hausmappe mit Mülltrennung, Heizung und Ausflugstipps.</li></ul><p>Das lässt sich per E-Mail oder über einen <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> lösen. Grundsätzliches zu WhatsApp im Betrieb steht im Ratgeber <a href=\"/wissen/whatsapp-business/\">WhatsApp Business</a>.</p>"
+    },
+    {
+      "h2": "Plattform oder eigene Website?",
+      "html": "<p>Buchungsplattformen bringen Reichweite, die eine kleine Pension allein kaum schafft. Die eigene Website ersetzt sie deshalb meist nicht, sondern ergänzt sie: für Stammgäste, die direkt wieder buchen wollen, für Empfehlungen und für Gäste, die vor der Buchung mehr wissen wollen.</p><p>Ehrlich gesagt: Wer nur eine Wohnung vermietet und über Plattformen ausgebucht ist, braucht keine aufwendige Website. Eine einfache Seite mit Fotos, Beschreibung und Kontakt reicht. Wer dagegen mehrere Zimmer hat und viele Stammgäste, profitiert von einer eigenen <a href=\"/leistungen/website-erstellen/\">Website</a> mit Anfrageformular deutlich.</p>"
+    },
+    {
+      "h2": "Die Nebensaison füllen",
+      "html": "<p>Im Sommer und in den Ferien ist es oft voll, im November leer. Wer die Nebensaison füllen will, muss Gäste ansprechen, die dann reisen: Wanderer im Herbst, Radfahrer im Frühling, Monteure unter der Woche, Familien zu Besuch bei Verwandten im Ort.</p><p>Eine eigene Seite für jede dieser Gruppen, etwa „Für Monteure: Wochenpreis, Parkplatz für Transporter, früher Frühstück möglich“, kann Anfragen bringen, die über Plattformen gar nicht ankommen. Weitere Ideen sammelt der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+    },
+    {
+      "h2": "Ein Chatbot für die Fragen um Mitternacht",
+      "html": "<p>Gäste planen ihren Urlaub abends am Sofa. Wenn sie um elf wissen wollen, ob es einen Hochstuhl gibt, und erst am nächsten Tag Antwort bekommen, haben sie vielleicht schon woanders gebucht. <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet solche Fragen rund um die Uhr, ausschließlich mit Ihren eigenen Inhalten und im Design Ihrer Website. Bei Unsicherheit verbindet er mit Ihnen.</p><p>Er kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis. Ob er bei Ihnen genutzt wird, sehen Sie also ohne Risiko.</p>"
+    },
+    {
+      "h2": "Wie Sie anfangen",
+      "html": "<p>Für die meisten Vermieter ist die Reihenfolge: zuerst gute Fotos und eine einfache Website, dann die automatische Anreise-Info, dann bei Bedarf ein Chatbot. Wie Ihre Startseite aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">kostenlose Website-Entwurf</a>.</p><p>Im Erstgespräch, auch abends zwischen 18:00 und 21:30 Uhr, besprechen wir, was zu Ihrer Vermietung passt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als Vermieter einer einzelnen Ferienwohnung eine eigene Website?",
+      "a": "Nicht zwingend. Wenn Sie über Plattformen gut ausgelastet sind, reicht oft eine einfache Seite mit Fotos, Beschreibung und Kontakt, damit Stammgäste und Empfehlungen Sie direkt finden. Eine größere Website lohnt sich, wenn Sie mehrere Einheiten haben, Direktbuchungen steigern oder bestimmte Gästegruppen wie Monteure oder Wanderer gezielt ansprechen wollen."
+    },
+    {
+      "q": "Wie schicke ich Gästen automatisch die Infos zur Anreise?",
+      "a": "Am einfachsten mit einer automatischen E-Mail oder WhatsApp-Nachricht, die einige Tage vor der Anreise verschickt wird: Anfahrt, Foto vom Eingang, Parkplatz und Hinweise zur Schlüsselbox. Am Anreisetag folgen Code und WLAN-Passwort. Das funktioniert, wenn die Buchungsdaten an einer Stelle gesammelt sind. Wie das bei Ihnen umsetzbar ist, klären wir im Erstgespräch."
+    },
+    {
+      "q": "Kann ein Chatbot meine Verfügbarkeit prüfen?",
+      "a": "Pipebot beantwortet Fragen mit den Inhalten Ihrer Website, etwa zur Ausstattung, zu Kindern, Haustieren oder zur Anreise. Verfügbarkeiten kennt er nur, wenn diese Information für ihn hinterlegt ist; meist verweist er für konkrete Termine an Ihr Anfrageformular oder an Sie. Das ist bewusst so, damit Gäste keine falsche Zusage bekommen. Bei Unsicherheit verbindet er mit Ihnen."
+    },
+    {
+      "q": "Was kostet eine Website für eine Pension?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. Typisch wären Startseite, Zimmer oder Wohnungen, Umgebung und Ausflüge, Anreise und Kontakt mit Anfrageformular. Hosting, Impressum, Datenschutz und Optimierung für Google sind enthalten. Ein Buchungskalender, ein WhatsApp-Bot oder automatische Anreise-Infos werden nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/leistungen/website-erstellen/", "/leistungen/whatsapp-bot/", "/wissen/whatsapp-business/", "/wissen/saisonbetrieb-digital/", "/branchen/hotel/"],
+  "checks": ["website-entwurf", "chatbot-test"]
+}
