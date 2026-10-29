@@ -54,7 +54,7 @@ const NAV = `<header class="nav solid" id="nav">
   <div class="bar">
     <a class="brand" href="/" aria-label="Mühlberger Digital – Startseite"><img class="m" src="/img/md-zeichen.png" alt="" width="36" height="36"><img class="w" src="/img/md-schrift.png" alt="Mühlberger Digital" width="124" height="24"></a>
     <nav class="menu" aria-label="Hauptnavigation">
-      <a href="/leistungen/">Leistungen</a><a href="/branchen/">Branchen</a><a href="/regionen/">Regionen</a><a href="/wissen/">Wissen</a><a href="/preise/">Preise</a>
+      <a href="/leistungen/">Leistungen</a><a href="/branchen/">Branchen</a><a href="/regionen/">Regionen</a><a href="/wissen/">Wissen</a><a href="/gratis-check/">Gratis-Checks</a>
     </nav>
     <div class="right">
       <a class="btn light tel" href="tel:+4367762192776">+43 677 6219 2776</a>
@@ -65,7 +65,7 @@ const NAV = `<header class="nav solid" id="nav">
 </header>
 <div class="mmenu" id="mmenu">
   <nav>
-    <a class="big" href="/leistungen/">Leistungen</a><a class="big" href="/branchen/">Branchen</a><a class="big" href="/regionen/">Regionen</a><a class="big" href="/wissen/">Wissen</a><a class="big" href="/gratis-check/">Gratis-Checks</a><a class="big" href="/preise/">Preise</a>
+    <a class="big" href="/leistungen/">Leistungen</a><a class="big" href="/branchen/">Branchen</a><a class="big" href="/regionen/">Regionen</a><a class="big" href="/wissen/">Wissen</a><a class="big" href="/gratis-check/">Gratis-Checks</a>
   </nav>
   <div class="mm-foot"><a class="btn lg" href="/#termin">Erstgespräch buchen</a><a class="btn lg light" href="tel:+4367762192776">+43 677 6219 2776</a></div>
 </div>`;
