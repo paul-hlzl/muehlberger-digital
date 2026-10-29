@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/fahrschule/",
+  "title": "Fahrschulen digital: Kurstermine, Preise, WhatsApp",
+  "description": "Für Fahrschulen: Jugendliche und Eltern gleichzeitig ansprechen, Kurstermine und Pakete offen zeigen und Fragen per WhatsApp beantworten, während Sie im Auto sitzen.",
+  "h1": "Digitale Lösungen für Fahrschulen",
+  "kicker": "Branche · Fahrschule",
+  "lead": "Fahrschulen sprechen zwei Zielgruppen gleichzeitig an: Jugendliche, die am Handy suchen und per WhatsApp fragen, und Eltern, die vergleichen und zahlen. Digital hilft vor allem, Kurstermine und Pakete offen zu zeigen und Routinefragen automatisch zu beantworten, weil Fahrlehrer während der Fahrstunde nicht ans Telefon gehen können.",
+  "fakten": [
+    "Kurstermine mit freien Plätzen auf der Startseite, vor allem vor den Ferien",
+    "Pakete und Preise offen zeigen, damit Eltern vergleichen können",
+    "WhatsApp-Bot und Pipebot beantworten Fragen, während Fahrlehrer fahren",
+    "Fotos von Prüflingen nur mit Einwilligung, bei Minderjährigen der Eltern"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Zielgruppen: Jugendliche und Eltern",
+      "html": "<p>Eine Sechzehnjährige, die mit L17 starten will, sucht anders als ihr Vater, der die Kosten im Blick hat. Sie will wissen, wann der nächste Kurs beginnt und ob ihre Freundin mitkommen kann. Er will wissen, was das Ganze kostet, was im Preis enthalten ist und wie lange es dauert.</p><p>Eine gute Fahrschulwebsite bedient beide: kurze, klare Infos zu Kursstart und Anmeldung für die Jugendlichen, eine übersichtliche Seite zu Ablauf und Kosten für die Eltern. Beschreiben Sie die Ausbildungswege, etwa L17 oder die Mehrphasenausbildung, so, wie sie in Ihrer Fahrschule tatsächlich ablaufen, in einfachen Worten und ohne Fachchinesisch.</p>"
+    },
+    {
+      "h2": "Kurstermine und freie Plätze sichtbar machen",
+      "html": "<p>Die meisten Anfragen drehen sich um eine Frage: „Wann ist der nächste Kurs?“ Vor den Sommerferien und den Semesterferien wollen viele gleichzeitig starten. Wenn die Termine nur auf einem Aushang im Büro hängen, klingelt das Telefon ununterbrochen.</p><p>Eine Kursübersicht auf der Startseite mit Datum, Kursart und Hinweis auf freie Plätze spart diese Anrufe. Noch besser ist eine Online-Anmeldung, bei der die Grunddaten gleich mitkommen. Wichtig: Die Termine müssen aktuell sein. Ein Kurs, der seit Wochen als „noch Plätze frei“ angezeigt wird, obwohl er voll ist, verärgert mehr als jede fehlende Info.</p>"
+    },
+    {
+      "h2": "Was kostet der Führerschein? Pakete offen zeigen",
+      "html": "<p>Die Kostenfrage ist für Eltern entscheidend. Fahrschulen, die keine Preise nennen, werden oft gar nicht erst angefragt. Wenn Sie Pakete anbieten, zeigen Sie, was enthalten ist und was extra kostet, etwa zusätzliche Fahrstunden oder Prüfungsgebühren.</p><p>Ehrlich formulierte Spannbreiten mit Erklärung, warum es teurer werden kann, schaffen Vertrauen. Mehr dazu im Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website</a>.</p>"
+    },
+    {
+      "h2": "Fahrlehrer im Auto, Fragen per WhatsApp",
+      "html": "<p>Fahrlehrer sitzen den Großteil des Tages im Auto. Gleichzeitig kommen Fragen per WhatsApp: „Kann ich meine Fahrstunde morgen verschieben?“, „Was muss ich zur Prüfung mitnehmen?“, „Brauche ich für die Anmeldung einen Sehtest?“ Wer sofort antwortet, wird angemeldet.</p><p>Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> kann Standardfragen beantworten und Verschiebungswünsche sammeln, der Preis wird nach dem Erstgespräch genannt. Auf der Website übernimmt <a href=\"https://pipebot.at/\">Pipebot</a> dieselbe Aufgabe: Er antwortet rund um die Uhr nur mit Ihren Inhalten und verbindet bei Unsicherheit mit dem Büro. Pipebot kostet 19 € pro Monat, die ersten 30 Tage sind gratis.</p>"
+    },
+    {
+      "h2": "Instagram und Fotos von bestandenen Prüfungen",
+      "html": "<p>Das Foto mit dem frischen Führerschein ist ein Klassiker auf Instagram, und genau dort sind Ihre künftigen Fahrschüler. Holen Sie aber immer eine Einwilligung ein, bei Minderjährigen auch die der Eltern. Mehr dazu im Ratgeber zu <a href=\"/wissen/social-media-bildrechte/\">Bildrechten in Social Media</a>.</p><p>Für regelmäßige Beiträge zu Kursstarts, Tipps zur Prüfung oder Öffnungszeiten eignet sich Pipeflow: Es macht aus Ihrer Website jede Woche fertige Beiträge mit Bild, Sie geben nur frei. In der Pilotphase ist es kostenlos, Start unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>. Weitere Ideen bietet der Ratgeber <a href=\"/wissen/instagram-unternehmen/\">Instagram für Unternehmen</a>.</p>"
+    },
+    {
+      "h2": "Fahrlehrer finden und der nächste Schritt",
+      "html": "<p>Viele Fahrschulen suchen Fahrlehrerinnen und Fahrlehrer oder Bürokräfte. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen.</p><p>Eine Starter-Website mit Kursterminen, Preisen, Ablauf und Kontakt kostet ab 2.500 € einmalig. Welche Bausteine Ihr Büro wirklich entlasten, besprechen wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, gerne abends nach der letzten Fahrstunde.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sollte eine Fahrschule Preise auf der Website angeben?",
+      "a": "Ja, denn die Kosten sind für Eltern meist das wichtigste Kriterium. Zeigen Sie Ihre Pakete mit Inhalt und nennen Sie, was zusätzlich anfallen kann, etwa weitere Fahrstunden oder Gebühren. Eine ehrliche Spannbreite mit Erklärung wirkt seriöser als ein Lockpreis. So bekommen Sie Anfragen von Familien, für die Ihr Angebot passt, und weniger Diskussionen später."
+    },
+    {
+      "q": "Was bringt ein WhatsApp-Bot einer Fahrschule?",
+      "a": "Viele Fahrschüler fragen ohnehin per WhatsApp. Ein Bot kann Standardfragen zu Kursen, Unterlagen oder Prüfungen sofort beantworten und Verschiebungswünsche gesammelt an das Büro weitergeben. Das entlastet vor allem, wenn Fahrlehrer den ganzen Tag im Auto sitzen. Bei kleinen Fahrschulen mit wenigen Nachrichten reicht oft eine gute FAQ-Seite. Der Preis wird nach dem Erstgespräch genannt."
+    },
+    {
+      "q": "Darf ich Fotos von Fahrschülern nach der bestandenen Prüfung posten?",
+      "a": "Nur mit Einwilligung der abgebildeten Person, bei Minderjährigen zusätzlich mit Zustimmung der Eltern. Am sichersten ist eine kurze schriftliche Zustimmung, in der steht, wo das Bild erscheint. Wer nicht fotografiert werden will, kann den Führerschein allein in die Kamera halten. Bei rechtlichen Detailfragen hilft die Wirtschaftskammer oder ein Anwalt weiter."
+    },
+    {
+      "q": "Was gehört auf die Startseite einer Fahrschule?",
+      "a": "Ganz oben sollten die nächsten Kurstermine mit Hinweis auf freie Plätze, die Anmeldemöglichkeit und die Kontaktdaten stehen. Danach folgen die angebotenen Führerscheinklassen, die Pakete mit Preisen und ein kurz erklärter Ablauf. Fotos von Fahrzeugen und Team schaffen Vertrauen. Eine eigene Seite für Eltern mit Kosten und Ablauf hilft bei der Entscheidung."
+    }
+  ],
+  "verwandt": ["/branchen/nachhilfe/", "/leistungen/whatsapp-bot/", "/wissen/whatsapp-business/", "/wissen/preise-auf-website/", "/produkte/pipeflow/"],
+  "checks": ["chatbot-test", "social-media-test"]
+}

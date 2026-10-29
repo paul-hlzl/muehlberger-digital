@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/zwettl/",
+  "title": "SEO in Zwettl: Beratung direkt aus dem Bezirk",
+  "description": "SEO für Betriebe im Bezirk Zwettl: persönliche Beratung aus Ottenschlag, klare Schritte für einen großen Bezirk mit vielen kleinen Gemeinden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Zwettl",
+  "kicker": "SEO · Bezirk Zwettl",
+  "lead": "Mühlberger Digital sitzt in Ottenschlag und damit selbst im Bezirk Zwettl. Für Betriebe hier heißt das: persönliche Beratung ohne lange Anfahrt und jemand, der die Gegend kennt. SEO im Bezirk Zwettl dreht sich vor allem darum, in einem großen Gebiet mit vielen kleinen Orten gefunden zu werden, auch von Menschen, die nicht im eigenen Dorf wohnen.",
+  "fakten": [
+    "Sitz von Mühlberger Digital: Neuhof 26, 3631 Ottenschlag, Bezirk Zwettl",
+    "Flächenmäßig großer Bezirk mit vielen kleinen Gemeinden",
+    "Viele Menschen suchen mit „Zwettl“, auch wenn sie in einem Nachbarort wohnen",
+    "Erstgespräch gern persönlich vor Ort im Betrieb"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Heimvorteil: Beratung aus dem eigenen Bezirk",
+      "html": "<p>Jonas Mühlberger lebt und arbeitet in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>. Ein Termin in Ihrem Betrieb ist deshalb meist unkompliziert möglich, am Abend unter der Woche. Dort sehen wir uns Website und Google-Profil gemeinsam an, mit Ihren echten Daten statt mit Folien.</p><p>Die technische Umsetzung übernimmt Pipeline AI Solutions. Was die <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> genau umfasst, steht auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Großer Bezirk, viele Ortsnamen",
+      "html": "<p>Der Bezirk Zwettl ist flächenmäßig groß, mit vielen Gemeinden und noch mehr Ortschaften. Ein Dachdecker aus <a href=\"/regionen/gross-gerungs/\">Groß Gerungs</a> arbeitet vielleicht bis Allentsteig, wird aber nur gefunden, wenn er das auch sagt. Menschen suchen mal mit dem Namen ihres Dorfes, mal mit „Zwettl“, mal einfach mit „in der Nähe“.</p><p>Die Lösung ist kein langer Block mit Ortsnamen, sondern ein klarer Satz zum Einsatzgebiet, passende Gebiete im Google-Profil und Projektbeispiele mit Ortsbezug.</p>"
+    },
+    {
+      "h2": "Was wir bei einem Termin vor Ort durchgehen",
+      "html": "<ol><li>Wie Sie heute bei Google erscheinen, am Handy und am Computer</li><li>Ob Kategorie, Öffnungszeiten und Fotos im Profil stimmen</li><li>Welche Ihrer Leistungen eine eigene Seite verdienen</li><li>Wie oft Ihr Betrieb in KI-Antworten genannt wird</li><li>Was Sie selbst erledigen können und wofür sich Unterstützung lohnt</li></ol>"
+    },
+    {
+      "h2": "Beispiele aus dem Bezirk",
+      "html": "<p>Eine <strong>Physiotherapie-Praxis</strong> in Zwettl wird von Patientinnen aus dem ganzen Bezirk gesucht. Klare Angaben zu Behandlungen, Terminvergabe und Parkmöglichkeiten helfen hier mehr als lange Texte.</p><p>Ein <strong>Gasthaus</strong> in einer kleinen Gemeinde lebt von Stammgästen und Ausflüglern. Aktuelle Öffnungszeiten und Fotos im Google-Profil sind das Wichtigste.</p><p>Ein <strong>Dachdecker</strong> braucht Fotos echter Dächer aus der Region und eine Telefonnummer, die man am Handy antippen kann.</p>"
+    },
+    {
+      "h2": "Auch in KI-Suchen gefunden werden",
+      "html": "<p>Wie Ihr Betrieb in ChatGPT, Gemini und den KI-Übersichten von Google erscheint, erklärt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Wie oft das heute schon passiert, misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommen Sie für das Erstgespräch persönlich vorbei?",
+      "a": "Im Bezirk Zwettl gern, denn Mühlberger Digital sitzt selbst in Ottenschlag. Das Erstgespräch dauert rund 30 Minuten und ist kostenlos. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, wahlweise in Ihrem Betrieb, am Telefon oder per Video-Call. Vereinbaren können Sie ihn telefonisch unter +43 677 6219 2776 oder per E-Mail."
+    },
+    {
+      "q": "Mein Ort ist sehr klein – sucht da überhaupt jemand?",
+      "a": "Nach Ihrem Ortsnamen vielleicht selten, nach Ihrer Leistung in der Gegend aber schon. Viele Menschen suchen mit „in der Nähe“ oder mit dem Namen der Bezirkshauptstadt. Entscheidend ist, dass Ihr Google-Profil und Ihre Website das Einzugsgebiet klar beschreiben. Dann erscheinen Sie auch bei Suchen, die Ihren Ort gar nicht nennen."
+    },
+    {
+      "q": "Wer setzt die Optimierung um?",
+      "a": "Mühlberger Digital berät und vermittelt, die technische Umsetzung übernimmt Pipeline AI Solutions aus Kleinzell im Mühlkreis in Oberösterreich. Sie haben trotzdem einen festen Ansprechpartner in der Region. Den Preis bekommen Sie vor Beginn schriftlich, und Sie entscheiden, ob und in welchem Umfang Sie die Arbeit beauftragen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-zwettl/",
+    "/regionen/ottenschlag/",
+    "/erstgespraech/",
+    "/leistungen/website-erstellen/zwettl/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

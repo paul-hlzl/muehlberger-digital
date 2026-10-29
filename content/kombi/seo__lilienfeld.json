@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/lilienfeld/",
+  "title": "SEO im Bezirk Lilienfeld: sichtbar fürs Ausflugswochenende",
+  "description": "SEO für Betriebe im Bezirk Lilienfeld: wie Gastgeber und Handwerk in den Voralpen von kurzfristig planenden Ausflugsgästen und Einheimischen gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Lilienfeld",
+  "kicker": "SEO · Bezirk Lilienfeld",
+  "lead": "Im Bezirk Lilienfeld planen viele Gäste ihren Ausflug in die Voralpen kurzfristig, oft am Vorabend und am Handy. Wer dann mit aktuellen Öffnungszeiten, klaren Angaben und guten Bewertungen auftaucht, gewinnt den Besuch. Für Handwerksbetriebe im Traisental zählt dagegen vor allem, im eigenen Tal und bis nach St. Pölten gefunden zu werden.",
+  "fakten": [
+    "Der Bezirk Lilienfeld liegt in den Voralpen, im Traisental und rund um Annaberg",
+    "Ausflugsgäste kommen häufig aus Wien und St. Pölten",
+    "Aktualität schlägt Textlänge: Öffnungszeiten, Ruhetage, Saison",
+    "Handwerk und Tourismus brauchen unterschiedliche Strategien"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ausflüge werden kurzfristig geplant",
+      "html": "<p>Ob es am Wochenende in die Berge geht, entscheiden viele erst, wenn der Wetterbericht passt. Dann wird schnell gesucht: Wo kann man einkehren, hat die Hütte offen, gibt es eine Unterkunft für eine Nacht? Wer in diesem Moment nicht mit verlässlichen Informationen erscheint, wird übersprungen.</p><p>SEO im Bezirk Lilienfeld bedeutet für Gastgeber deshalb vor allem: Aktualität. Lange Texte sind weniger wichtig als richtige Öffnungszeiten, Ruhetage und Hinweise zur Saison. Was sonst noch dazugehört, erklärt unsere Seite zur <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p>"
+    },
+    {
+      "h2": "Was Gäste vor der Abfahrt wissen wollen",
+      "html": "<ul><li>Hat der Betrieb heute geöffnet, auch an Feiertagen?</li><li>Muss ich reservieren, und wie geht das am schnellsten?</li><li>Gibt es Parkplätze oder eine Anreise mit Öffis?</li><li>Sind Hunde willkommen, gibt es etwas für Kinder?</li></ul><p>Wer diese Fragen auf der Website und im Google-Unternehmensprofil beantwortet, spart sich Anrufe und wird häufiger gewählt. Für Vermieter hat die Branchenseite <a href=\"/branchen/ferienwohnung/\">Ferienwohnung</a> weitere Ideen, für Betriebe mit wechselnden Zeiten der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+    },
+    {
+      "h2": "Nicht nur Tourismus: Handwerk im Traisental",
+      "html": "<p>Eine Zimmerei oder ein Elektriker im Bezirk wird nicht von Ausflüglern gesucht, sondern von Hausbesitzern aus dem Tal und der Umgebung. Hier zählt, dass die Leistungen einzeln beschrieben sind und das Einsatzgebiet klar ist, etwa „im Traisental und bis in den Raum St. Pölten“.</p><p>Fotos eigener Arbeiten, eine schnelle Website und eine Telefonnummer zum Antippen bringen hier mehr als jeder Blog.</p>"
+    },
+    {
+      "h2": "Erste Schritte und KI-Suche",
+      "html": "<p>Viele Ausflügler fragen inzwischen auch KI-Assistenten nach Tipps für ein Wochenende in den Voralpen. Wie Sie dort genannt werden, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Den technischen Zustand Ihrer Website prüft der <a href=\"/gratis-check/seo-check/\">kostenlose SEO-Check</a>.</p><p>Mehr über unsere Arbeit in der Region erfahren Sie auf der Seite <a href=\"/regionen/bezirk-lilienfeld/\">Bezirk Lilienfeld</a>. Das Erstgespräch ist kostenlos und unverbindlich.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie halte ich saisonale Öffnungszeiten aktuell?",
+      "a": "Am einfachsten tragen Sie im Google-Unternehmensprofil reguläre Zeiten und zusätzlich Sonderöffnungszeiten für Feiertage und Saisonpausen ein. Auf der Website sollte an einer gut sichtbaren Stelle dasselbe stehen. Legen Sie sich dafür feste Termine im Kalender an, etwa vor Saisonbeginn und vor den Feiertagen. Widersprüchliche Angaben kosten Vertrauen und führen zu enttäuschten Gästen vor verschlossener Tür."
+    },
+    {
+      "q": "Lohnt sich SEO in einem kleinen Bezirk überhaupt?",
+      "a": "Für Betriebe, die von Gästen leben, meist ja, weil diese Gäste von außen kommen und den Betrieb nur online finden. Für Handwerksbetriebe mit vollem Auftragsbuch kann ein gepflegtes Unternehmensprofil reichen. Wir sagen Ihnen im Erstgespräch ehrlich, welcher Aufwand für Ihre Situation angemessen ist und wann sich mehr nicht rechnet."
+    },
+    {
+      "q": "Gehören Gästeinfos auf die Website oder ins Google-Profil?",
+      "a": "Am besten in beide. Das Google-Unternehmensprofil liefert die schnellen Antworten in der Kartensuche, etwa Öffnungszeiten und Telefonnummer. Die Website bietet Platz für Details wie Speisekarte, Zimmer, Anreise und Hausregeln. Außerdem greifen KI-Assistenten häufig auf Websites zurück, wenn sie Empfehlungen geben. Wichtig ist, dass beide Quellen dieselben Angaben machen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-lilienfeld/",
+    "/regionen/mostviertel/",
+    "/leistungen/google-unternehmensprofil/",
+    "/leistungen/website-erstellen/lilienfeld/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

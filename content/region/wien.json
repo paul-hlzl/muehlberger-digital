@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/wien/",
+  "title": "Digitalagentur Wien: Website & KI für kleine Betriebe",
+  "description": "Website, KI-Chatbot und lokale Sichtbarkeit für kleine Betriebe in Wien – persönlich beraten, online umgesetzt, mit Richtpreisen vorab.",
+  "h1": "Digitalagentur für Wien – persönlich, klar, ohne Agentur-Overhead",
+  "kicker": "Region · Bundesland",
+  "lead": "Für kleine Betriebe in Wien bietet Mühlberger Digital Beratung zu Website, Google-Sichtbarkeit und KI-Werkzeugen, meist per Video-Call und nach Absprache auch persönlich. Umgesetzt wird von Pipeline AI Solutions, die Preise sind vorab klar.",
+  "fakten": [
+    "Beratung meist per Video-Call, persönliche Termine in Wien nach Absprache",
+    "Schwerpunkt: kleine Betriebe, Praxen, Handwerk und Gastronomie",
+    "Starter-Website ab 2.500 € einmalig, schriftliches Angebot vorab",
+    "Erstgespräch kostenlos, Mo–Fr 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum ein kleiner Wiener Betrieb anders sichtbar werden muss",
+      "html": "<p>In Wien gibt es für fast jede Leistung Dutzende Anbieter in Reichweite. Wer „Friseur“ oder „Installateur“ sucht, meint meist den eigenen Bezirk oder das eigene Grätzl. Für kleine Betriebe heißt das: Es geht weniger darum, in ganz Wien vorne zu sein, sondern in der eigenen Umgebung klar erkennbar zu sein.</p><p>Das gelingt mit einer Website, die Bezirk, Leistungen und Erreichbarkeit eindeutig nennt, und mit einem gepflegten Google-Unternehmensprofil. Wie das im Detail funktioniert, erklärt der Ratgeber zu <a href=\"/wissen/lokales-seo/\">lokalem SEO</a>.</p>"
+    },
+    {
+      "h2": "Was Wiener Betriebe bei uns typischerweise anfragen",
+      "html": "<ul><li><strong>Erreichbarkeit nach Geschäftsschluss:</strong> Ein Kosmetikstudio bekommt Fragen zu Preisen und freien Terminen, während es behandelt. Ein <a href=\"/leistungen/ki-chatbot/wien/\">KI-Chatbot für Wiener Betriebe</a> beantwortet sie mit den eigenen Inhalten.</li><li><strong>Neue Website statt Baukasten-Provisorium:</strong> Eine Steuerberatungskanzlei will seriös auftreten und schneller laden. Mehr dazu unter <a href=\"/leistungen/website-erstellen/wien/\">Website erstellen in Wien</a>.</li><li><strong>Weniger Protokollarbeit:</strong> Ein Beratungsbüro mit vielen Online-Meetings lässt Gesprächsnotizen von noteit schreiben, ohne Bot im Call und mit Speicherung in Frankfurt.</li></ul>"
+    },
+    {
+      "h2": "So läuft die Zusammenarbeit von Ottenschlag nach Wien",
+      "html": "<p>Der Sitz von Mühlberger Digital liegt im Waldviertel. Für Wiener Betriebe läuft der Großteil deshalb online: Erstgespräch per Video-Call, Vorstellung der Lösung mit Ihren Daten am Bildschirm, Abstimmung per Telefon oder E-Mail. Persönliche Termine in Wien sind nach Absprache möglich, etwa wenn Fotos im Geschäft gemacht werden oder mehrere Personen mitentscheiden.</p><p>Viele Unternehmerinnen und Unternehmer schätzen die Abendtermine zwischen 18:00 und 21:30 Uhr, weil tagsüber das Geschäft läuft.</p>"
+    },
+    {
+      "h2": "Ehrlich gesagt: wann wir nicht die richtige Wahl sind",
+      "html": "<p>Wenn Sie eine große Kampagne mit Plakaten, Werbespots und einem eigenen Agentur-Team suchen, sind Sie bei einer klassischen Wiener Werbeagentur besser aufgehoben. Mühlberger Digital passt zu Betrieben, die eine solide Website, bessere Auffindbarkeit oder ein konkretes KI-Werkzeug wollen und dafür einen festen Ansprechpartner schätzen.</p><p>Die Technik kommt von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>. So bleibt das Angebot schlank, und Sie wissen vorab, was es kostet.</p>"
+    },
+    {
+      "h2": "Sichtbarkeit im eigenen Bezirk prüfen",
+      "html": "<p>Bevor Geld in eine neue Website fließt, lohnt sich ein ehrlicher Blick auf den Ist-Stand. Der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a> zeigt, ob Google Ihre Seite richtig versteht und welche Grundlagen fehlen. Weil immer mehr Menschen ChatGPT oder Gemini nach einem guten Lokal oder einer Praxis in ihrem Bezirk fragen, prüft der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> zusätzlich, ob KI-Suchen Ihren Betrieb nennen. Den Bericht bekommen Sie innerhalb von 24 Stunden.</p><p>Oft zeigt sich dabei: Ein paar gezielte Änderungen bringen mehr als ein kompletter Neustart.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es auch persönliche Termine in Wien?",
+      "a": "Ja, nach Absprache. Weil der Sitz von Mühlberger Digital in Ottenschlag im Waldviertel liegt, laufen die meisten Gespräche mit Wiener Betrieben per Video-Call. Das funktioniert gut, denn Lösungen wie Website-Entwürfe oder Chatbots werden ohnehin am Bildschirm gezeigt. Wenn ein Termin vor Ort mehr bringt, etwa bei mehreren Entscheidern oder für Fotos im Geschäft, wird er gemeinsam vereinbart."
+    },
+    {
+      "q": "Lohnt sich lokale Suchmaschinenoptimierung in Wien überhaupt?",
+      "a": "Für viele kleine Betriebe ja, gerade weil die Konkurrenz groß ist. Wer im eigenen Bezirk gefunden werden will, braucht eine Website, die Ort und Leistungen klar nennt, ein vollständiges Google-Unternehmensprofil und echte Bewertungen. Garantierte Platzierungen gibt es nicht. Sinnvoll ist, mit einem kostenlosen SEO-Check zu starten und dann gezielt die größten Lücken zu schließen."
+    },
+    {
+      "q": "Was kostet ein KI-Chatbot für einen Wiener Betrieb?",
+      "a": "Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis. Der Chatbot antwortet rund um die Uhr nur mit den Inhalten Ihrer Website, passt sich im Design an und verbindet bei Unsicherheit mit Ihrem Team. Ob sich das lohnt, hängt davon ab, wie viele wiederkehrende Fragen Sie bekommen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/wien/",
+    "/leistungen/ki-automatisierung/wien/",
+    "/regionen/niederoesterreich/",
+    "/wissen/google-unternehmensprofil-optimieren/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "seo-check",
+    "chatbot-test"
+  ]
+}

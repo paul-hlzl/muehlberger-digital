@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/tulln/",
+  "title": "KI-Chatbot in Tulln: Preisfragen ehrlich beantworten",
+  "description": "In der Gartenstadt Tulln fragen viele zuerst nach dem Preis. Wie ein KI-Chatbot das mit Ihren Richtwerten beantwortet, ohne Fantasiezahlen, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Tulln",
+  "kicker": "KI-Chatbot · Bezirk Tulln",
+  "lead": "Tulln ist als Gartenstadt an der Donau bekannt, und viele Anfragen an Gartenbetriebe, Gärtnereien und Handwerker beginnen mit derselben Frage: Was kostet das ungefähr? Ein KI-Chatbot wie Pipebot beantwortet sie nur mit den Richtwerten, die Sie selbst veröffentlichen, und verweist sonst auf ein persönliches Gespräch. Er kostet 19 € im Monat.",
+  "fakten": [
+    "Gartenstadt an der Donau, mit Kundschaft aus dem Bezirk und aus Wien",
+    "Viele Anfragen beginnen mit der Frage nach dem Preis",
+    "Pipebot nennt nur Preise, die auf Ihrer Website stehen",
+    "19 € pro Monat, erste 30 Tage gratis, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Gartenstadt mit kurzer Anfahrt aus Wien",
+      "html": "<p>Tulln liegt an der Donau im Tullnerfeld und ist als Gartenstadt bekannt. Im <a href=\"/regionen/bezirk-tulln/\">Bezirk Tulln</a> arbeiten viele Betriebe rund um Garten und Haus: Gartengestalter, Gärtnereien, Poolbauer, Zaun- und Pflasterbetriebe. Ihre Kunden kommen aus dem Bezirk, aber auch aus Wien.</p><p>Gemeinsam ist den meisten Anfragen ein Punkt: Bevor jemand einen Termin ausmacht, will er eine ungefähre Vorstellung von den Kosten.</p>"
+    },
+    {
+      "h2": "Die Preisfrage ehrlich beantworten",
+      "html": "<p>Ein Gartengestalter bekommt Fragen wie: „Was kostet ein Schwimmteich?“, „Wie teuer ist Rollrasen pro Quadratmeter?“ oder „Gibt es einen Pflegevertrag fürs ganze Jahr?“ Wer gar keine Zahl nennt, verliert Interessenten. Wer eine falsche nennt, verliert Vertrauen.</p><p>Der Mittelweg: Veröffentlichen Sie Richtwerte und erklären Sie, wovon der Preis abhängt. Pipebot gibt genau diese Angaben weiter und erfindet keine eigenen Zahlen. Warum sich offene Preise oft lohnen, beschreibt der Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website</a>.</p>"
+    },
+    {
+      "h2": "Wenn es keinen Richtpreis gibt",
+      "html": "<p>Bei vielen Projekten lässt sich ohne Besichtigung kein seriöser Preis nennen. Dann erklärt der Bot, welche Faktoren den Preis bestimmen, etwa Fläche, Hanglage oder Zufahrt, und was der nächste Schritt ist. Bei konkreten Wünschen verbindet er mit Ihnen.</p><p>Auch Rabattfragen gehören dazu: Was nicht auf der Website steht, verspricht Pipebot nicht. Mehr zur Branche finden Sie auf der Seite für <a href=\"/branchen/gartengestaltung/\">Gartengestaltung</a>.</p>"
+    },
+    {
+      "h2": "Anfragen vorsortieren, bevor Sie hinfahren",
+      "html": "<p>Jede Besichtigung kostet Zeit. Wenn Kunden vorab erfahren, ab welcher Auftragsgröße Sie arbeiten, in welchen Gemeinden Sie tätig sind und wann in der Saison Termine knapp werden, kommen weniger Anfragen, die am Ende nicht passen. Wie Sie die Qualität Ihrer Anfragen verbessern, beschreibt der Ratgeber <a href=\"/wissen/anfragen-qualitaet/\">bessere Anfragen bekommen</a>.</p><p>Wie Ihre Richtwerte im Chat ankommen, sehen Sie im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>. Alles Weitere zum <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> steht auf der Leistungsseite.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Nennt der Chatbot verbindliche Preise?",
+      "a": "Nein. Pipebot gibt nur die Preise und Richtwerte weiter, die auf Ihrer Website stehen, und kann auch dazusagen, dass es sich um Richtwerte handelt. Ein verbindliches Angebot entsteht weiterhin bei Ihnen, nach Besichtigung oder Gespräch. Wenn auf der Website keine Preise stehen, sagt der Bot das offen und erklärt, wie man ein Angebot bekommt."
+    },
+    {
+      "q": "Was antwortet der Bot, wenn jemand nach einem Rabatt fragt?",
+      "a": "Er antwortet mit dem, was auf Ihrer Website steht. Gibt es dort zum Beispiel einen Hinweis auf Aktionen im Herbst, nennt der Bot diesen. Steht nichts dazu da, verspricht er nichts und verweist an Sie. So entstehen keine Erwartungen, die Sie später enttäuschen müssen. Über Preise im Einzelfall entscheiden immer Sie selbst."
+    },
+    {
+      "q": "Lohnt sich ein Chatbot auch für eine Gärtnerei mit viel Laufkundschaft?",
+      "a": "Ja, wenn viele Kunden vorher auf die Website schauen. Typische Fragen sind Öffnungszeiten an Feiertagen, ob eine bestimmte Pflanze gerade da ist oder ob geliefert wird. Pipebot kann sie beantworten, solange die Website aktuell ist. Für den tagesaktuellen Bestand an Pflanzen reicht ein Chatbot allein nicht. Hier bleibt das Telefon oder ein Hinweis auf der Website die beste Lösung."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-tulln/",
+    "/branchen/gartengestaltung/",
+    "/wissen/preise-auf-website/",
+    "/wissen/chatbot-kosten/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

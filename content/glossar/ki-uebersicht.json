@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/ki-uebersicht/",
+  "title": "KI-Übersicht in Google: AI Overviews erklärt",
+  "description": "KI-Übersicht einfach erklärt: Wie Google mit KI zusammengefasste Antworten über den Suchergebnissen zeigt und was das für Betriebe bedeutet.",
+  "h1": "KI-Übersicht (AI Overviews)",
+  "kicker": "Glossar · KI-Suche",
+  "lead": "Die KI-Übersicht ist eine von Google mit künstlicher Intelligenz erstellte Zusammenfassung, die bei vielen Suchanfragen über den klassischen Ergebnissen erscheint und auf einige Quellen verlinkt. Im Englischen heißt sie „AI Overviews“.",
+  "fakten": [
+    "Antwortet direkt auf die Frage, oft vor allen anderen Ergebnissen",
+    "Nennt und verlinkt eine Auswahl an Quellen",
+    "Erscheint vor allem bei Fragen und Erklärthemen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie die KI-Übersicht aussieht",
+      "html": "<p>Jemand sucht „Wie oft muss ein Holzofen gekehrt werden?“. Statt sofort Websites zu sehen, liest er eine kurze, von KI formulierte Antwort mit Hinweisen und Links zu einigen Seiten. Ein Rauchfangkehrerbetrieb, dessen Website die Frage klar und verständlich beantwortet, kann dort als Quelle auftauchen.</p><p>Die Inhalte stammen aus Seiten, die Google bereits kennt. Wer in der KI-Übersicht genannt werden will, braucht also zuerst eine gut gefundene Website mit direkten, zitierfähigen Antworten.</p>"
+    },
+    {
+      "h2": "Was das für KMU bedeutet",
+      "html": "<p>Bei Erklärfragen klicken viele Menschen seltener auf Websites, weil die Antwort schon oben steht. Wer als Quelle genannt wird, gewinnt dagegen an Vertrauen. Für lokale Kaufabsichten wie „Rauchfangkehrer in der Nähe“ bleiben Kartenergebnisse und das <a href=\"/glossar/google-unternehmensprofil/\">Google-Unternehmensprofil</a> wichtig.</p><p>Wie Sie Inhalte darauf ausrichten, zeigen der Ratgeber <a href=\"/wissen/google-ki-uebersichten/\">Google-KI-Übersichten</a> und der Eintrag <a href=\"/glossar/geo/\">GEO</a>. Wie oft Ihr Betrieb in KI-Antworten vorkommt, misst der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich steuern, ob meine Seite in der KI-Übersicht erscheint?",
+      "a": "Direkt nicht. Google wählt die Quellen selbst aus. Sie können aber die Wahrscheinlichkeit erhöhen: Beantworten Sie typische Kundenfragen klar und am Anfang eines Abschnitts, halten Sie Fakten aktuell und sorgen Sie für eine technisch saubere, gut indexierte Website. Eine Garantie, genannt zu werden, gibt es nicht, auch nicht gegen Bezahlung."
+    },
+    {
+      "q": "Schadet die KI-Übersicht kleinen Betrieben?",
+      "a": "Das kommt auf die Suchanfrage an. Bei reinen Informationsfragen können Klicks auf Websites zurückgehen. Bei konkreten Anfragen nach einem Betrieb in der Nähe zeigt Google weiterhin Kartenergebnisse und Profile. Wer als Quelle in der Übersicht auftaucht, profitiert sogar von zusätzlichem Vertrauen. Wichtig ist, das Thema nicht zu ignorieren und die eigenen Inhalte entsprechend auszurichten."
+    }
+  ],
+  "verwandt": [
+    "/wissen/google-ki-uebersichten/",
+    "/glossar/geo/",
+    "/glossar/serp/",
+    "/leistungen/geo-ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

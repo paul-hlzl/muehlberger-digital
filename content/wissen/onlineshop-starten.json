@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/onlineshop-starten/",
+  "title": "Einen Onlineshop starten: Schritte für Betriebe",
+  "description": "Einen Onlineshop starten in Österreich: Sortiment, Plattform, Recht, Zahlung, Versand und erste Kunden – Schritt für Schritt erklärt für kleine Betriebe.",
+  "h1": "Einen Onlineshop starten: So gehen Sie vor",
+  "kicker": "Ratgeber · Onlineshop",
+  "lead": "Wer einen Onlineshop starten will, klärt zuerst, welche Produkte sich online verkaufen lassen und wer sie kauft, wählt dann eine passende Shop-Lösung und richtet Recht, Zahlung und Versand sauber ein. Erst danach kommt die Frage, wie Kunden den Shop finden. Planen Sie realistisch: Ein Shop ist ein zweites Geschäft, das täglich betreut werden will.",
+  "fakten": [
+    "Start mit einem kleinen, gut beschriebenen Sortiment statt dem ganzen Lager",
+    "Rechtliches vorab klären: Gewerbeberechtigung, Impressum, AGB, Rücktrittsrecht, Datenschutz",
+    "Zahlungsarten und Versand bestimmen, ob Besucher am Ende kaufen",
+    "Ohne Plan für Sichtbarkeit bleibt auch der schönste Shop leer",
+    "Täglicher Aufwand für Bestellungen, Anfragen und Retouren einplanen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schritt 1: Sortiment und Zielgruppe klären",
+      "html": "<p>Die wichtigste Frage zuerst: Was genau wollen Sie online verkaufen, und warum sollte jemand das bei Ihnen kaufen statt bei einem großen Händler? Gute Gründe sind eigene Produkte, regionale Herkunft, Beratung, besondere Auswahl oder Verfügbarkeit, die anderswo fehlt.</p><p>Beginnen Sie mit einer Auswahl, die sich gut verschicken lässt und bei der Sie die Ware verlässlich vorrätig haben. Ein Hofladen startet zum Beispiel mit haltbaren Produkten wie Säften, Nudeln und Geschenkkörben statt mit Frischfleisch, das Kühlversand braucht.</p><ul><li>Welche Produkte fragen Kunden heute schon telefonisch oder per Mail an?</li><li>Welche Ware ist versandtauglich, ohne dass Bruch oder Verderb droht?</li><li>Wer ist die Kundschaft: Stammkunden aus der Region oder Käufer in ganz Österreich?</li></ul>"
+    },
+    {
+      "h2": "Schritt 2: Die passende Shop-Lösung wählen",
+      "html": "<p>Grob gibt es drei Wege. <strong>Mietshops</strong> wie Shopify laufen als Abo, sind schnell eingerichtet und technisch betreut. <strong>Selbst gehostete Systeme</strong> wie WooCommerce geben mehr Freiheit, brauchen aber mehr Pflege. Und <strong>Marktplätze</strong> bringen Reichweite, nehmen Ihnen aber Kontrolle über Kundenbeziehung und Präsentation.</p><p>Welche Variante passt, hängt von Sortimentsgröße, Budget und dem eigenen Zeitaufwand ab. Die Vergleiche <a href=\"/vergleiche/shopify-oder-woocommerce/\">Shopify oder WooCommerce</a> und <a href=\"/vergleiche/eigener-shop-oder-marktplatz/\">Eigener Onlineshop oder Marktplatz</a> erklären die Unterschiede ausführlich.</p><p>Ehrlich gesagt: Bei sehr wenigen Produkten reicht oft ein Bestellformular auf der bestehenden Website oder ein Gutscheinverkauf. Ein vollwertiger Shop lohnt sich, wenn regelmäßig bestellt wird.</p>"
+    },
+    {
+      "h2": "Schritt 3: Rechtliches sauber aufsetzen",
+      "html": "<p>Ein Onlineshop richtet sich meist an Verbraucher, dafür gelten in Österreich und der EU besondere Pflichten. Als allgemeine Orientierung, ohne Anspruch auf Vollständigkeit:</p><ul><li><strong>Gewerbeberechtigung:</strong> Klären Sie, ob Ihre bestehende Berechtigung den Onlinehandel mit diesen Waren abdeckt.</li><li><strong>Impressum und Offenlegung</strong> mit allen Firmendaten, siehe <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>.</li><li><strong>AGB</strong> mit Lieferbedingungen, Zahlungsbedingungen und Gewährleistung, siehe <a href=\"/wissen/agb-onlineshop/\">AGB im Onlineshop</a>.</li><li><strong>Rücktrittsrecht:</strong> Verbraucher können Fernkäufe in der Regel binnen 14 Tagen widerrufen, darüber muss korrekt informiert werden.</li><li><strong>Preisangaben</strong> inklusive Steuern und Versandkosten, klar vor dem Kauf.</li><li><strong>Datenschutzerklärung</strong> für Bestellungen, Zahlungsanbieter und Newsletter.</li><li><strong>Verpackungen:</strong> Für Versandverpackungen bestehen Pflichten zur Entpflichtung bzw. Lizenzierung.</li></ul><p>Für Ihren konkreten Fall fragen Sie bitte die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> oder eine Anwältin. Rechtstexte aus dem Internet zu kopieren ist riskant, weil sie selten zu Ihrem Shop passen.</p>"
+    },
+    {
+      "h2": "Schritt 4: Zahlung, Versand und Produktseiten",
+      "html": "<p>Am Ende entscheidet sich der Kauf an der Kasse. Bieten Sie die Zahlungsarten an, die Ihre Kundschaft erwartet, und nennen Sie Versandkosten und Lieferzeit früh. Details dazu finden Sie in den Beiträgen zu <a href=\"/wissen/zahlungsarten-onlineshop/\">Zahlungsarten im Onlineshop</a> und <a href=\"/wissen/versand-onlineshop/\">Versand im Onlineshop</a>.</p><p>Jede Produktseite braucht gute Fotos, eine ehrliche Beschreibung, Maße oder Mengen, Verfügbarkeit und Preis. Schreiben Sie so, wie Sie im Geschäft beraten würden: Wofür eignet sich das Produkt, wofür nicht, was ist das Besondere?</p><ul><li>Mehrere Fotos, auch im Gebrauch und in der Hand für die Größenvorstellung</li><li>Eigene Texte statt kopierter Herstellerbeschreibungen</li><li>Klare Lieferzeit, lieber vorsichtig als zu optimistisch</li></ul>"
+    },
+    {
+      "h2": "Schritt 5: Testen, starten und bekannt machen",
+      "html": "<p>Vor dem Start bestellen Sie selbst, und zwar mehrmals: mit jeder Zahlungsart, mit Gutschein, mit Rücksendung. So sehen Sie, ob Bestätigungsmails ankommen, Rechnungen stimmen und der Lagerstand richtig zählt. Bitten Sie auch zwei oder drei Bekannte um einen Testkauf am Handy.</p><p>Ein neuer Shop wird nicht von selbst gefunden. Nutzen Sie bestehende Kontakte: Hinweis im Geschäft, auf Rechnungen, im Newsletter, auf Social Media und im Google-Unternehmensprofil. Langfristig bringen gute Produkttexte und <a href=\"/wissen/seo-grundlagen/\">Suchmaschinenoptimierung</a> Besucher, kurzfristig können Anzeigen helfen.</p><ol><li>Testkäufe mit allen Zahlungsarten</li><li>Rechtstexte und Pflichtangaben prüfen lassen</li><li>Stammkunden informieren</li><li>Nach vier Wochen auswerten: Was wird angesehen, was gekauft?</li></ol>"
+    },
+    {
+      "h2": "Den laufenden Aufwand realistisch einschätzen",
+      "html": "<p>Viele unterschätzen die tägliche Arbeit: Bestellungen kommissionieren, verpacken, Fragen beantworten, Retouren bearbeiten, Lagerstände pflegen, neue Produkte einstellen. Legen Sie fest, wer das macht und zu welchen Zeiten verschickt wird. Ein Shop, der Anfragen tagelang liegen lässt, schadet dem Ruf mehr als gar kein Shop.</p><p>Wenn Sie den Start gemeinsam planen möchten, finden Sie auf der Seite <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen lassen</a> unseren Ablauf. Die Kosten hängen stark vom Umfang ab, der Beitrag <a href=\"/wissen/onlineshop-kosten/\">Was kostet ein Onlineshop?</a> zeigt, womit Sie rechnen sollten. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, ob sich ein Shop für Ihr Sortiment wirklich lohnt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich für einen Onlineshop eine eigene Gewerbeberechtigung?",
+      "a": "Das hängt davon ab, was Sie verkaufen und welche Berechtigung Sie bereits haben. Viele Betriebe dürfen ihre eigenen Produkte auch online verkaufen, beim Handel mit zugekauften Waren kann eine Handelsberechtigung nötig sein. Für bestimmte Waren gelten zusätzliche Vorschriften. Klären Sie das vor dem Start mit der Wirtschaftskammer, die Auskunft ist für Mitglieder kostenlos."
+    },
+    {
+      "q": "Wie viele Produkte sollte ein Onlineshop zum Start haben?",
+      "a": "Es gibt keine Mindestzahl. Wichtiger als viele Artikel sind gut beschriebene, verlässlich lieferbare Produkte. Ein Start mit einer überschaubaren Auswahl hat Vorteile: Sie lernen die Abläufe kennen, sehen, was gefragt ist, und können Fotos und Texte sorgfältig machen. Danach erweitern Sie das Sortiment schrittweise anhand echter Nachfrage."
+    },
+    {
+      "q": "Wie lange dauert es, einen Onlineshop zu starten?",
+      "a": "Ein einfacher Shop mit wenigen Produkten auf einer Mietplattform ist technisch in einigen Wochen startklar. Meist dauern andere Dinge länger: Produktfotos, Texte, Rechtstexte, Verträge mit Zahlungs- und Versanddienstleistern. Bei größeren Sortimenten oder Anbindungen an Warenwirtschaft und Buchhaltung sollten Sie mehrere Monate einplanen."
+    },
+    {
+      "q": "Lohnt sich ein Onlineshop für ein kleines Geschäft?",
+      "a": "Er lohnt sich, wenn Ihre Produkte versandtauglich sind, eine Nachfrage über die Region hinaus besteht oder Stammkunden gern bequem nachbestellen möchten. Er lohnt sich weniger, wenn Ihre Stärke die persönliche Beratung vor Ort ist oder Sie keine Zeit für tägliche Bestellabwicklung haben. Dann kann eine Website mit Produktübersicht und Reservierung die bessere Wahl sein."
+    }
+  ],
+  "verwandt": ["/leistungen/onlineshop-erstellen/", "/wissen/onlineshop-kosten/", "/wissen/agb-onlineshop/", "/vergleiche/eigener-shop-oder-marktplatz/", "/glossar/onlineshop/"],
+  "checks": ["website-entwurf", "seo-check"]
+}

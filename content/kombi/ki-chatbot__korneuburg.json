@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/korneuburg/",
+  "title": "KI-Chatbot in Korneuburg: Antworten nach Feierabend",
+  "description": "Viele Kunden im Bezirk Korneuburg pendeln nach Wien und suchen erst abends nach Anbietern. Wie ein KI-Chatbot dann antwortet, ab 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Korneuburg",
+  "kicker": "KI-Chatbot · Bezirk Korneuburg",
+  "lead": "Korneuburg liegt direkt nördlich von Wien, und viele Menschen im Bezirk pendeln täglich in die Stadt. Sie suchen Handwerker, Kosmetik oder Nachhilfe meist erst am Abend, wenn Betriebe geschlossen haben. Ein KI-Chatbot wie Pipebot beantwortet ihre Fragen dann sofort mit Ihren Website-Inhalten, um 19 € im Monat.",
+  "fakten": [
+    "Bezirk am Stadtrand von Wien mit vielen Pendlerinnen und Pendlern",
+    "Anfragen kommen oft dann, wenn Ihr Betrieb geschlossen hat",
+    "Pipebot antwortet rund um die Uhr, nur mit Ihren Inhalten",
+    "19 € im Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Recherche nach Feierabend",
+      "html": "<p>Wer im <a href=\"/regionen/bezirk-korneuburg/\">Bezirk Korneuburg</a> wohnt und in <a href=\"/regionen/wien/\">Wien</a> arbeitet, hat tagsüber kaum Zeit, Anbieter anzurufen. Gesucht wird am Abend, am Sofa, am Handy. Wer dann eine klare Antwort bekommt, ist im Vorteil.</p><p>Ein Chatbot schließt diese Lücke. Er beantwortet die Frage um 21:30 Uhr genauso wie um 10 Uhr vormittags, und die Anfrage, die sich daraus ergibt, liegt am nächsten Morgen bei Ihnen.</p>"
+    },
+    {
+      "h2": "Beispiel: Kosmetikstudio mit Abendterminen",
+      "html": "<p>Ein Kosmetikstudio, das auch abends und samstags Termine anbietet, bekommt oft diese Fragen:</p><ul><li>Haben Sie auch nach 18 Uhr Termine frei?</li><li>Wie lange dauert eine Gesichtsbehandlung, und was kostet sie?</li><li>Kann ich einen Gutschein kaufen und gleich verschenken?</li></ul><p>Mit den Antworten auf der Website beantwortet Pipebot das sofort. Mehr dazu auf der Seite für <a href=\"/branchen/kosmetikstudio/\">Kosmetikstudios</a>.</p>"
+    },
+    {
+      "h2": "Beispiel: Elektriker für Sanierung und kleine Aufträge",
+      "html": "<p>Ein Elektrobetrieb mit drei Leuten hört andere Fragen: „Übernehmen Sie auch kleine Aufträge, etwa eine zusätzliche Steckdose?“, „Installieren Sie Wallboxen?“ oder „Wie lange muss ich auf einen Termin warten?“</p><p>Wenn Sie auf der Website beschreiben, welche Aufträge Sie annehmen und welche nicht, filtert der Bot ganz nebenbei. Anfragen, die nicht passen, landen gar nicht erst bei Ihnen. Weitere Beispiele zeigt die Seite für <a href=\"/branchen/elektriker/\">Elektriker</a>.</p>"
+    },
+    {
+      "h2": "Chatbot und Terminbuchung zusammen denken",
+      "html": "<p>Pipebot beantwortet Fragen, eine Terminbuchung ist ein eigenes Werkzeug. Beides ergänzt sich: Der Bot klärt die Vorfragen, die Buchung erledigt den Rest. Wie das aussehen kann, beschreibt der Ratgeber <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p><p>Ob ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> zu Ihnen passt, sehen Sie im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Merken Kunden, dass sie mit einem Bot schreiben?",
+      "a": "Das sollten sie. Ein Chatbot sollte offen als digitaler Assistent erkennbar sein, das schafft Vertrauen und ist auch rechtlich ein Thema. Pipebot erscheint im Design Ihrer Website, gibt sich aber nicht als Mitarbeiterin aus. Welche Pflichten im Einzelfall gelten, klären Sie am besten mit der Wirtschaftskammer oder einem Anwalt. Die meisten Kunden stört ein Bot nicht, solange die Antworten stimmen."
+    },
+    {
+      "q": "Was passiert, wenn jemand spätabends eine Frage hat, die der Bot nicht beantworten kann?",
+      "a": "Dann sagt Pipebot ehrlich, dass er dazu keine Information hat, und verbindet mit Ihrem Team. Der Kunde weiß, wie er Sie erreicht, etwa per Telefon zu den Bürozeiten oder per E-Mail. Er bekommt also keine erfundene Antwort, sondern einen klaren nächsten Schritt. Am nächsten Tag können Sie sich persönlich um die Anfrage kümmern."
+    },
+    {
+      "q": "Eignet sich der Chatbot auch für Betriebe mit wenigen Anfragen?",
+      "a": "Nur bedingt. Wer im Monat eine Handvoll Anfragen bekommt, kann sie meist selbst gut beantworten. Spannend wird ein Chatbot, wenn sich Fragen wiederholen oder viele Kunden außerhalb Ihrer Öffnungszeiten schreiben. Die ersten 30 Tage sind gratis, danach kostet Pipebot 19 € im Monat und ist monatlich kündbar. So lässt sich das ohne Risiko ausprobieren."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-korneuburg/",
+    "/branchen/kosmetikstudio/",
+    "/branchen/elektriker/",
+    "/wissen/erreichbarkeit/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

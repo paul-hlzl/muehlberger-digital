@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/neunkirchen/",
+  "title": "SEO in Neunkirchen: von Ternitz bis zum Semmering",
+  "description": "SEO für Betriebe im Bezirk Neunkirchen: wie Gastgeber an Rax, Schneeberg und Semmering und Handwerk in den Städten des Bezirks gezielt gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Neunkirchen",
+  "kicker": "SEO · Bezirk Neunkirchen",
+  "lead": "Der Bezirk Neunkirchen vereint Bergtourismus an Rax, Schneeberg und Semmering mit Städten wie Neunkirchen, Ternitz und Gloggnitz, in denen viele Handwerks- und Gewerbebetriebe arbeiten. SEO muss hier zwei sehr verschiedene Suchwelten bedienen. Wir helfen, die richtige für Ihren Betrieb zu wählen und gezielt auszubauen.",
+  "fakten": [
+    "Der Bezirk liegt im südlichen Industrieviertel und grenzt an die Steiermark",
+    "Rax, Schneeberg und Semmering ziehen viele Ausflugsgäste an",
+    "In den Städten des Bezirks dominieren Handwerk und Gewerbe",
+    "Ein Einzugsgebiet über die Landesgrenze sollte klar benannt sein"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Berge und Betriebe: zwei Arten von Suchanfragen",
+      "html": "<p>Wer von Wien aus einen Tag am Schneeberg plant, sucht nach Hütten, Unterkünften und Einkehrmöglichkeiten. Wer in Ternitz wohnt und einen neuen Sicherungskasten braucht, sucht nach einem Elektriker in der Nähe. Beide tippen vielleicht „Neunkirchen“ in die Suche, wollen aber etwas völlig anderes.</p><p>Für Ihren Betrieb heißt das: Klar sagen, wen Sie ansprechen, und dafür die passenden Inhalte liefern. Wie <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> dabei hilft, steht auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Tourismus rund um Rax, Schneeberg und Semmering",
+      "html": "<p>Gäste planen nach Wetter und Jahreszeit. Ein Hotel am Semmering sollte deshalb Sommer- und Winterangebote auf eigenen Seiten zeigen, mit Anreise, Ausstattung und aktuellen Preisen. Weitere Ideen bietet die Branchenseite <a href=\"/branchen/hotel/\">Hotel</a>.</p><p>Für Hütten und Gasthäuser zählen vor allem Öffnungszeiten, Saisonpausen und Hinweise zur Erreichbarkeit. Wer hier verlässlich informiert, bekommt auch bessere Bewertungen.</p>"
+    },
+    {
+      "h2": "Handwerk und Dienstleistung in den Städten",
+      "html": "<p>In Neunkirchen, Ternitz und Gloggnitz suchen Kundinnen meist nach Leistung plus Ort oder „in der Nähe“. Hier wirken ein vollständiges Google-Unternehmensprofil und eigene Seiten pro Leistung am stärksten.</p><ul><li>Ein <strong>Elektriker</strong> zeigt Leistungen wie Photovoltaik, E-Check oder Störungsbehebung einzeln.</li><li>Ein <strong>Rauchfangkehrer</strong> erklärt, welche Überprüfungen anstehen und wie man Termine vereinbart.</li><li>Ein <strong>Gewerbebetrieb</strong> mit Firmenkunden beschreibt Kapazitäten und Fachgebiete.</li></ul>"
+    },
+    {
+      "h2": "Kundschaft aus der Steiermark",
+      "html": "<p>Über den Semmering ist die <a href=\"/regionen/steiermark/\">Steiermark</a> nah. Wer regelmäßig auch dort arbeitet oder Gäste von dort bekommt, sollte das auf der Website und im Profil angeben, als natürlichen Satz, nicht als Ortsliste. Einen Überblick über das <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> finden Sie auf der Regionsseite.</p>"
+    },
+    {
+      "h2": "Der erste Schritt",
+      "html": "<p>Im kostenlosen Erstgespräch klären wir, welche Suchwelt für Sie zählt. Wie oft KI-Assistenten Ihren Betrieb bei Ausflugsfragen nennen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Mehr zu unserer Arbeit im Bezirk lesen Sie auf der Seite <a href=\"/regionen/bezirk-neunkirchen/\">Bezirk Neunkirchen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ich habe Ausflugsgäste und Einheimische – wie bediene ich beide?",
+      "a": "Mit getrennten Inhalten auf derselben Website. Gäste brauchen Informationen zu Anreise, Öffnungszeiten und Angeboten für den Besuch, Einheimische eher zu Stammtisch, Feiern oder Mittagstisch. Beides auf einer Seite zu mischen macht sie unübersichtlich. Im Google-Unternehmensprofil helfen aktuelle Beiträge, etwa zu Saisonbeginn oder besonderen Veranstaltungen."
+    },
+    {
+      "q": "Wie wichtig sind Fotos für Betriebe in den Bergen?",
+      "a": "Sehr wichtig. Gäste wollen sehen, wie Zimmer, Gaststube und Aussicht wirklich aussehen. Eigene, aktuelle Fotos im Google-Unternehmensprofil und auf der Website wirken glaubwürdiger als Bilder aus Datenbanken. Achten Sie auf aussagekräftige Dateinamen und kurze Beschreibungen, damit auch Suchmaschinen erkennen, was zu sehen ist."
+    },
+    {
+      "q": "Lohnt sich SEO für einen kleinen Handwerksbetrieb im Bezirk?",
+      "a": "Das hängt von Ihrer Auslastung und Ihren Zielen ab. Wenn Sie wachsen, neue Leistungen anbieten oder Personal suchen, lohnt sich eine solide Grundlage meist. Wenn Sie ausgebucht sind und von Empfehlungen leben, reicht oft ein gepflegtes Google-Unternehmensprofil. Im Erstgespräch sagen wir Ihnen ehrlich, welche Variante für Sie sinnvoll ist."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-neunkirchen/",
+    "/leistungen/google-unternehmensprofil/",
+    "/wissen/bilder-seo/",
+    "/leistungen/website-erstellen/neunkirchen/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

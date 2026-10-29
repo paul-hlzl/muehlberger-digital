@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-im-buero/",
+  "title": "KI im Büroalltag: Aufgaben, Werkzeuge, Regeln",
+  "description": "KI im Büroalltag sinnvoll nutzen: E-Mails, Zusammenfassungen, Protokolle und Vorlagen schneller erledigen – mit klaren Regeln für Daten und Kontrolle.",
+  "h1": "KI im Büroalltag: Was sie übernimmt und was Sie prüfen",
+  "kicker": "Ratgeber · KI",
+  "lead": "Im Büroalltag spart KI am meisten Zeit bei Texten: E-Mails entwerfen, lange Nachrichten zusammenfassen, Besprechungen protokollieren und Vorlagen erstellen. Sie liefert schnelle Entwürfe, die ein Mensch prüft und abschickt. Mit drei, vier klaren Regeln zu Daten und Kontrolle lässt sie sich sicher einsetzen.",
+  "fakten": [
+    "Stärken: Entwürfe, Zusammenfassungen, Protokolle, Umformulieren, Vorlagen",
+    "Schwächen: Fakten, Zahlen und Fristen müssen Sie selbst prüfen",
+    "Kundendaten nur in Werkzeuge mit geklärtem Datenschutz eingeben",
+    "Erst Abläufe ordnen, dann KI einsetzen – Chaos wird sonst nur schneller"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Diese Büroaufgaben erledigt KI gut",
+      "html": "<p>KI-Assistenten wie ChatGPT, Claude oder Microsoft Copilot sind Sprachwerkzeuge. Sie sind besonders gut darin, aus wenig Text mehr zu machen und aus viel Text weniger. Im Büro heißt das:</p><ul> <li><strong>E-Mails entwerfen:</strong> Stichworte rein, höflicher Entwurf raus, etwa für Terminverschiebungen oder Mahnungen in freundlichem Ton.</li><li><strong>Zusammenfassen:</strong> lange Mailverläufe, Ausschreibungen oder Rundschreiben auf die wichtigsten Punkte bringen.</li><li><strong>Umformulieren:</strong> einen schroffen Text entschärfen, einen langen kürzen, einen Fachtext verständlich machen.</li><li><strong>Vorlagen:</strong> Checklisten, Gesprächsleitfäden, Stellenbeschreibungen, Ablaufpläne.</li><li><strong>Tabellen:</strong> Formeln erklären lassen oder Daten in eine Struktur bringen.</li></ul> <p>Welche Assistenten sich wofür eignen, vergleicht der Beitrag <a href=\"/vergleiche/chatgpt-oder-claude/\">ChatGPT oder Claude</a>.</p>"
+    },
+    {
+      "h2": "Ein typischer Bürotag mit KI",
+      "html": "<p>Nehmen wir das Büro eines Baumeisterbetriebs mit einer Teilzeitkraft. Am Morgen liegen 30 Mails im Postfach. Die KI fasst einen langen Verlauf mit dem Architekten in fünf Punkten zusammen, die Mitarbeiterin sieht sofort, was zu tun ist.</p><p>Vormittags ist Baubesprechung im Video-Call. Statt mitzuschreiben, läuft ein Werkzeug für Gesprächsnotizen, das Protokoll mit Aufgaben ist kurz danach fertig. Mittags entwirft die KI drei Antworten auf Anfragen, die nur noch angepasst werden. Nachmittags entsteht aus einer Stichwortliste eine Checkliste für die Baustellenübergabe.</p><p>Nichts davon passiert automatisch. Die Mitarbeiterin entscheidet, prüft und schickt ab. Die KI nimmt ihr das Formulieren ab, nicht das Denken.</p>"
+    },
+    {
+      "h2": "Besprechungen und Telefonate protokollieren",
+      "html": "<p>Protokolle sind einer der klarsten Anwendungsfälle, weil Mitschreiben und Nacharbeiten viel Zeit kosten. KI-Werkzeuge machen aus der Aufnahme eine Zusammenfassung mit Entscheidungen und Aufgaben.</p><p><a href=\"/produkte/noteit/\">noteit</a> arbeitet mit Teams, Zoom, Google Meet, Webex und anderen, <strong>ohne Bot im Call</strong>. Die Daten liegen in Frankfurt, das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig. Die Starter-Version kostet 0 € (3 Stunden im Monat), Pro 14 € im Monat, Team 24 € pro Person und Monat; testen können Sie 7 Tage gratis.</p><p>Wichtig: Wer Gespräche aufzeichnet, muss die Beteiligten informieren. Worauf Sie dabei achten, steht im Ratgeber <a href=\"/wissen/ki-meeting-protokoll/\">KI-Meeting-Protokoll</a>.</p>"
+    },
+    {
+      "h2": "Vier Regeln für KI im Büro",
+      "html": "<p>Ohne Regeln nutzt jede Person KI anders, und irgendwann landet eine Kundenliste in einem Gratis-Chat. Eine Seite mit Regeln reicht für den Anfang:</p><ol> <li><strong>Keine sensiblen Daten in private oder kostenlose Konten:</strong> keine Gesundheitsdaten, Gehälter, Passwörter oder vollständige Kundenlisten.</li><li><strong>Alles prüfen, was rausgeht:</strong> Namen, Beträge, Daten und Fristen kontrolliert ein Mensch.</li><li><strong>Freigegebene Werkzeuge:</strong> Der Betrieb legt fest, welche Programme mit welchem Konto genutzt werden.</li><li><strong>Bei Unsicherheit fragen:</strong> Eine Ansprechperson im Betrieb sammelt Fragen und gute Beispiele.</li></ol> <p>Mehr zu Rechtsgrundlagen und Verträgen mit Anbietern finden Sie unter <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Wo KI im Büro nicht weiterhilft",
+      "html": "<p>KI verbessert gute Abläufe, aber sie repariert keine schlechten. Wenn Rechnungen in drei verschiedenen Ordnern liegen und niemand weiß, wer Anfragen beantwortet, bringt ein KI-Assistent wenig. Dann ist zuerst Ordnung gefragt, etwa mit klaren Postfächern oder einer gemeinsamen Ablage.</p><p>Auch bei Aufgaben, die vor allem Wissen über Ihren Betrieb brauchen, stößt eine allgemeine KI an Grenzen. Sie kennt Ihre Preise, Kunden und Gepflogenheiten nicht, solange Sie ihr diese nicht mitgeben. Und für wiederkehrende Abläufe nach festen Regeln, etwa Belege in einen Ordner verschieben, ist eine Automatisierung oft besser als ein Chat. Wie das geht, beschreibt <a href=\"/wissen/e-mails-sortieren/\">E-Mails automatisch vorsortieren</a>.</p>"
+    },
+    {
+      "h2": "Einstieg in vier Wochen",
+      "html": "<ul><li><strong>Woche 1:</strong> Zwei Personen probieren einen Assistenten mit einem Firmenkonto für E-Mails und Zusammenfassungen aus.</li><li><strong>Woche 2:</strong> Gute Anweisungen (Prompts) sammeln und als Vorlagen im Team teilen.</li><li><strong>Woche 3:</strong> Ein Besprechungsprotokoll pro Woche mit KI erstellen und mit dem eigenen vergleichen.</li><li><strong>Woche 4:</strong> Kurz besprechen: Was hat Zeit gespart, was nicht? Dann Regeln anpassen und erweitern.</li></ul> <p>Wenn Sie wissen möchten, welche Bausteine in Ihrem Büro den größten Unterschied machen, klären wir das im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>. Für Protokolle können Sie sofort selbst starten: <a href=\"https://noteit.at/registrieren\">noteit 7 Tage gratis testen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welches KI-Programm eignet sich für das Büro?",
+      "a": "Für allgemeine Texte reichen verbreitete Assistenten wie ChatGPT, Claude oder Microsoft Copilot, idealerweise mit einem Firmenkonto statt privater Gratis-Zugänge. Für wiederkehrende Spezialaufgaben wie Besprechungsprotokolle sind eigene Werkzeuge praktischer, weil sie Aufnahme, Zusammenfassung und Ablage verbinden. Entscheidend ist weniger das Programm als klare Regeln, wer es wofür nutzt."
+    },
+    {
+      "q": "Darf ich Kunden-E-Mails in ChatGPT kopieren?",
+      "a": "Vorsicht: Kunden-E-Mails enthalten personenbezogene Daten. Ob das zulässig ist, hängt vom Konto, den Vertragsbedingungen des Anbieters und Ihrer Datenschutzerklärung ab. Eine einfache Faustregel ist, Namen, Adressen und Telefonnummern vor dem Einfügen zu entfernen oder ein Firmenkonto mit geklärtem Datenschutz zu nutzen. Im Zweifel klären Sie das mit WKO oder einer Fachperson."
+    },
+    {
+      "q": "Kann KI E-Mails im Büro selbstständig beantworten?",
+      "a": "Technisch ist das möglich, für kleine Betriebe aber selten empfehlenswert. Sicherer ist, wenn die KI Antwortentwürfe vorbereitet und ein Mensch sie freigibt. Bei eindeutigen Standardfällen wie einer Eingangsbestätigung kann eine automatische Antwort sinnvoll sein. Sobald es um Preise, Termine, Reklamationen oder Zusagen geht, sollte immer eine Person aus dem Betrieb die Nachricht prüfen."
+    },
+    {
+      "q": "Wie viel Zeit spart KI im Büro wirklich?",
+      "a": "Das hängt stark davon ab, wie viel Ihr Büro schreibt, zusammenfasst und protokolliert. Seriös lässt sich das nur im eigenen Betrieb messen: Notieren Sie zwei Wochen lang, wie lange typische Aufgaben dauern, und vergleichen Sie nach der Einführung. Wer viele Mails und Besprechungen hat, merkt den Unterschied meist rasch, wer wenig schreibt, kaum."
+    },
+    {
+      "q": "Muss ich mein Team für KI im Büro schulen?",
+      "a": "Eine kurze, praxisnahe Einführung ist sinnvoll, auch weil der EU AI Act von Betrieben, die KI einsetzen, ausreichende KI-Kompetenz des Personals verlangt. Dafür braucht es keinen Kurs über Tage: Ein bis zwei Stunden an echten Aufgaben, eine Seite mit Regeln und eine Ansprechperson für Fragen sind für die meisten kleinen Büros ein guter Anfang."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatgpt-im-betrieb/",
+    "/wissen/ki-meeting-protokoll/",
+    "/wissen/e-mails-sortieren/",
+    "/produkte/noteit/",
+    "/wissen/ki-schulung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

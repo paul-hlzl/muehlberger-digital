@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/redaktionsplan/",
+  "title": "Redaktionsplan einfach erklärt: Inhalte planen",
+  "description": "Redaktionsplan einfach erklärt: Wie kleine Betriebe Social-Media-Beiträge und Website-Inhalte vorausplanen und damit regelmäßig sichtbar bleiben, ohne Stress.",
+  "h1": "Redaktionsplan",
+  "kicker": "Glossar · Social Media",
+  "lead": "Ein Redaktionsplan ist eine Übersicht, in der Sie festlegen, welche Inhalte wann auf welchem Kanal veröffentlicht werden, etwa Beiträge auf Instagram, LinkedIn oder der eigenen Website. Er sorgt für Regelmäßigkeit und nimmt den Druck, jeden Tag spontan etwas zu posten.",
+  "fakten": [
+    "Inhalt: Datum, Kanal, Thema, Text, Bild, Verantwortliche Person",
+    "Saison, Feiertage und Aktionen früh einplanen",
+    "Einfach starten: eine Tabelle reicht für den Anfang"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Redaktionsplan aus der Praxis",
+      "html": "<p>Eine Konditorei plant jeden Monat vorab: in der ersten Woche ein Blick in die Backstube, in der zweiten die Torte des Monats, in der dritten ein Mitarbeiterporträt, in der vierten ein Hinweis auf Bestellfristen vor Feiertagen. Im Dezember kommen Keksbestellungen und Öffnungszeiten über die Feiertage dazu. Fotos werden gesammelt geschossen, wenn es in der Backstube ruhiger ist.</p><p>Der Plan liegt als einfache Tabelle vor. Spontane Beiträge sind trotzdem möglich, aber nicht mehr nötig, damit der Kanal lebendig bleibt.</p>"
+    },
+    {
+      "h2": "Warum ein Redaktionsplan für KMU hilft",
+      "html": "<p>In kleinen Betrieben bleibt Social Media oft liegen, wenn viel zu tun ist. Ein Plan sorgt dafür, dass Beiträge vorbereitet sind, und hilft, verschiedene Themen abzuwechseln. Regelmäßige Beiträge fördern das <a href=\"/glossar/engagement/\">Engagement</a> und halten Ihren Betrieb im Gedächtnis.</p><p>Vorlagen und Tipps bietet der Ratgeber <a href=\"/wissen/redaktionsplan/\">Redaktionsplan erstellen</a>, zur Frequenz <a href=\"/wissen/wie-oft-posten/\">Wie oft posten?</a>. Wer die Arbeit abgeben möchte: <a href=\"https://pipeflow.at/\">Pipeflow</a> macht aus der Website jede Woche fertige Beiträge mit Bild, die Sie nur freigeben, in der Pilotphase kostenlos. Mehr unter <a href=\"/leistungen/social-media-automatisierung/\">Social-Media-Automatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie weit im Voraus sollte ich planen?",
+      "a": "Für kleine Betriebe hat sich ein Monat bewährt. So bleibt genug Spielraum für Saison und Aktionen, ohne dass der Plan zu starr wird. Wichtige Termine wie Feiertage, Messen oder Saisonstart tragen Sie zusätzlich für das ganze Jahr ein. Planen Sie auch Platz für spontane Beiträge ein, etwa ein besonders gelungenes Projekt oder eine kurzfristige Änderung."
+    },
+    {
+      "q": "Welche Themen passen in den Redaktionsplan eines Handwerksbetriebs?",
+      "a": "Bewährt haben sich Vorher-nachher-Bilder von Projekten, Einblicke in die Werkstatt, Vorstellungen von Mitarbeitern und Lehrlingen, Tipps zur Pflege und Wartung, saisonale Hinweise sowie Stellenangebote. Wechseln Sie zwischen Fachwissen, Menschen und Ergebnissen. Kundenfotos oder Adressen zeigen Sie nur mit Zustimmung, und bei fremden Bildern achten Sie auf die Rechte."
+    }
+  ],
+  "verwandt": [
+    "/wissen/redaktionsplan/",
+    "/leistungen/social-media-automatisierung/",
+    "/glossar/engagement/",
+    "/wissen/social-media-ideen-handwerk/"
+  ],
+  "checks": [
+    "social-media-test"
+  ]
+}

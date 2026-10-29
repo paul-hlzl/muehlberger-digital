@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/wiener-neustadt/",
+  "title": "SEO in Wiener Neustadt: Stadt und Bucklige Welt",
+  "description": "SEO für Betriebe in Wiener Neustadt und Wiener Neustadt-Land: unterschiedliche Strategien für die Stadt mit viel Konkurrenz und die ländlichen Gemeinden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Wiener Neustadt",
+  "kicker": "SEO · Wiener Neustadt und Wiener Neustadt-Land",
+  "lead": "Wiener Neustadt ist eine der größten Städte Niederösterreichs, umgeben vom ländlichen Bezirk Wiener Neustadt-Land mit Teilen der Buckligen Welt. In der Stadt konkurrieren viele Betriebe um dieselben Suchen, am Land sind es wenige. SEO braucht deshalb je nach Standort eine andere Strategie.",
+  "fakten": [
+    "Wiener Neustadt ist Statutarstadt im Industrieviertel",
+    "Der Bezirk Wiener Neustadt-Land reicht bis in die Bucklige Welt",
+    "In der Stadt: Profil schärfen, am Land: Einzugsgebiet benennen",
+    "Kostenloses Erstgespräch, auch persönlich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Markt, zwei Ausgangslagen",
+      "html": "<table><thead><tr><th></th><th>Stadt Wiener Neustadt</th><th>Wiener Neustadt-Land</th></tr></thead><tbody><tr><td>Konkurrenz</td><td>viele Anbieter pro Branche</td><td>wenige Anbieter, große Wege</td></tr><tr><td>Typische Suche</td><td>Leistung plus „in der Nähe“</td><td>Leistung plus Ort oder Region</td></tr><tr><td>Wichtigster Hebel</td><td>Spezialisierung und Bewertungen</td><td>klares Einzugsgebiet im Profil</td></tr></tbody></table><p>Die allgemeinen Grundlagen finden Sie auf der Seite zur <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p>"
+    },
+    {
+      "h2": "In der Stadt: Profil schärfen",
+      "html": "<p>Eine Zahnarztpraxis in Wiener Neustadt steht meist neben mehreren anderen in den Suchergebnissen. Wer sich abheben will, zeigt Schwerpunkte, etwa Angstpatienten, Kinder oder Implantologie, sofern das zutrifft, auf eigenen Seiten. Ideen dazu auf der Branchenseite <a href=\"/branchen/zahnarzt/\">Zahnarzt</a>.</p><p>Auch ein Fitnessstudio gewinnt durch Klarheit: Kurszeiten, Probetraining und Preise gehören gut sichtbar auf die Website. Allgemeines Lob ersetzt keine konkreten Angaben.</p>"
+    },
+    {
+      "h2": "Am Land: Einzugsgebiet benennen",
+      "html": "<p>Eine Zimmerei in der Buckligen Welt arbeitet oft in vielen kleinen Gemeinden. Wer das im Google-Profil und auf der Website klar beschreibt, wird auch in Orten gefunden, die nicht im Firmennamen stehen. Fotos von Projekten aus der Region machen das Angebot greifbar.</p><p>Mehr zum Bezirk auf der Seite <a href=\"/regionen/bezirk-wiener-neustadt-land/\">Bezirk Wiener Neustadt-Land</a>, zur Stadt auf der Seite <a href=\"/regionen/wiener-neustadt/\">Wiener Neustadt</a>.</p>"
+    },
+    {
+      "h2": "KI-Suche und erster Schritt",
+      "html": "<p>Ob Ihr Betrieb in Antworten von ChatGPT oder Gemini vorkommt, hängt von klaren, übereinstimmenden Informationen ab. Wie das funktioniert, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>, den Stand misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p><p>Im kostenlosen Erstgespräch klären wir, welche Strategie zu Ihrem Standort passt. Danach bekommen Sie ein schriftliches Angebot mit klarem Preis. Mehr zum <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> auf der Regionsseite.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hebe ich mich in der Stadt von vielen ähnlichen Anbietern ab?",
+      "a": "Durch Spezialisierung und Echtheit. Zeigen Sie auf eigenen Seiten, worin Sie besonders gut sind, und belegen Sie das mit Fotos, Abläufen und echten Bewertungen. Ein klarer Schwerpunkt wird von Google und von Menschen leichter erkannt als ein Bauchladen. Antworten Sie außerdem auf jede Bewertung, das zeigt, dass Sie sich kümmern."
+    },
+    {
+      "q": "Mein Betrieb liegt am Land – soll ich mit Wiener Neustadt werben?",
+      "a": "Wenn Sie Kundschaft in der Stadt betreuen, dürfen Sie das sagen, etwa als Satz zum Einsatzgebiet. Ihre echte Adresse sollte aber überall unverändert bleiben. Eine Scheinadresse in der Stadt verstößt gegen die Google-Richtlinien. Oft bringt es mehr, die eigenen Stärken am Land zu betonen, etwa kurze Wege oder persönliche Betreuung."
+    },
+    {
+      "q": "Wie lange dauert es, bis SEO in Wiener Neustadt wirkt?",
+      "a": "In der Stadt mit viel Konkurrenz meist mehrere Monate, am Land oft schneller. Änderungen am Google-Unternehmensprofil zeigen sich in der Regel früher als Verbesserungen an der Website. Eine verlässliche Vorhersage ist nicht möglich, deshalb versprechen wir keine Platzierungen. Sie bekommen regelmäßige Berichte, in denen Sie die Entwicklung selbst sehen."
+    },
+    {
+      "q": "Wie gehe ich als Praxis mit Bewertungen um?",
+      "a": "Bewertungen sind für Praxen besonders wichtig, weil viele Patientinnen sie lesen, bevor sie einen Termin vereinbaren. Antworten Sie freundlich und sachlich, auch auf Kritik. Gehen Sie dabei nie auf Details einer Behandlung ein, selbst wenn die Person sie in ihrer Bewertung nennt, denn das kann die Verschwiegenheit berühren. Im Zweifel hilft ein allgemeiner Satz mit dem Angebot, das Anliegen persönlich zu besprechen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/wiener-neustadt/",
+    "/regionen/bezirk-wiener-neustadt-land/",
+    "/wissen/google-bewertungen-bekommen/",
+    "/leistungen/website-erstellen/wiener-neustadt/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

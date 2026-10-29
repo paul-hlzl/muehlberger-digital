@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/yoga-studio/",
+  "title": "Yoga- und Bewegungsstudios: Kurse, Plätze, Retreats online",
+  "description": "Für Yoga-, Pilates- und Bewegungsstudios: Mattenplätze online vergeben, Kursreihen und Blöcke verständlich erklären und Retreats ohne Zettelwirtschaft füllen.",
+  "h1": "Digitale Lösungen für Yoga- und Bewegungsstudios",
+  "kicker": "Branche · Yoga & Bewegung",
+  "lead": "Yoga-, Pilates- und Bewegungsstudios haben meist wenige Plätze pro Stunde und viele unterschiedliche Angebote, von der Einzelstunde bis zum Wochenend-Retreat. Digital hilft vor allem eine Anmeldung, die Mattenplätze fair vergibt, eine klare Übersicht über Kursreihen und Blöcke sowie eine einladende Seite für Einsteiger, die sich noch nicht trauen.",
+  "fakten": [
+    "Online-Anmeldung verhindert überfüllte Räume und leere Matten",
+    "Kursreihe, 10er-Block und Drop-in auf einen Blick erklären",
+    "Eigene Seite für Einsteiger senkt die Hemmschwelle",
+    "Gratis-Startseiten-Entwurf aus Ihrer bestehenden Website in wenigen Minuten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Begrenzte Mattenplätze: Anmeldung statt Überraschung",
+      "html": "<p>In vielen Studios passen nur eine Handvoll Matten in den Raum. Kommen mehr Menschen als geplant, wird es eng, kommen weniger, bleibt die Stunde halb leer. Eine Anmeldung per WhatsApp-Nachricht an die Lehrerin funktioniert anfangs, wird aber schnell unübersichtlich, vor allem wenn mehrere Lehrende unterrichten.</p><p>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Anmeldung</a> zeigt freie Plätze pro Stunde, führt bei Bedarf eine Warteliste und erinnert Teilnehmende an ihren Termin. Wer sich abmeldet, macht den Platz automatisch frei. Für sehr kleine Studios mit festen Gruppen kann eine einfache Liste reichen; das besprechen wir ehrlich, bevor Sie Geld ausgeben.</p>"
+    },
+    {
+      "h2": "Kursreihe, Block oder Drop-in: Angebote verständlich machen",
+      "html": "<p>„Kann ich einfach einmal vorbeikommen?“, „Gilt mein 10er-Block auch für Pilates?“ und „Was passiert, wenn ich bei einer Kursreihe zwei Termine verpasse?“ Solche Fragen zeigen, dass das Angebot nicht klar genug beschrieben ist. Hilfreich ist eine Übersicht mit drei Spalten:</p><ul><li><strong>Drop-in:</strong> Einzelstunde ohne Bindung, gut zum Ausprobieren</li><li><strong>Block oder Karte:</strong> flexibel, mit Angabe der Gültigkeit</li><li><strong>Kursreihe:</strong> feste Gruppe über mehrere Wochen, Regeln für Nachholstunden</li></ul><p>Diese Regeln kann später auch ein Chatbot beantworten. <a href=\"/produkte/pipebot/\">Pipebot</a> nutzt nur Ihre Inhalte und verbindet bei Unsicherheit mit Ihnen; 19 € pro Monat, die ersten 30 Tage gratis.</p>"
+    },
+    {
+      "h2": "Einsteigern die Angst nehmen",
+      "html": "<p>Viele Menschen glauben, sie seien „zu unbeweglich für Yoga“ oder „zu alt für Pilates“. Diese Sorge hält mehr Leute ab als der Preis. Eine eigene Seite für Einsteiger beantwortet die stillen Fragen: Was ziehe ich an? Muss ich eine Matte mitbringen? Wie früh soll ich kommen? Was, wenn ich eine Übung nicht kann?</p><p>Fotos aus echten Stunden mit gemischten Altersgruppen wirken dabei ehrlicher als Bilder von Menschen im perfekten Spagat. Ob Ihre aktuelle Startseite Einsteiger anspricht, sehen Sie schnell mit dem <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline</a>, der in wenigen Minuten aus Ihrer bestehenden Website entsteht.</p>"
+    },
+    {
+      "h2": "Workshops und Retreats ohne Zettelwirtschaft füllen",
+      "html": "<p>Ein Wochenend-Workshop oder ein Retreat mit Übernachtung braucht mehr als eine Stundenanmeldung: Anzahlung, Zimmerwunsch, Verpflegung, Anreise. Wenn diese Infos über E-Mails und Nachrichten verstreut sind, geht leicht etwas verloren.</p><p>Bewährt hat sich pro Veranstaltung eine eigene Seite mit Programm, Preis, Leistungen und einem Anmeldeformular, das alle nötigen Angaben auf einmal abfragt. Wie Sie solche Termine rechtzeitig bekannt machen, beschreibt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a>. Ein <a href=\"/wissen/newsletter-kmu/\">Newsletter</a> an bisherige Teilnehmende ist für Retreats oft der wirksamste Kanal.</p>"
+    },
+    {
+      "h2": "Online-Stunden und der nächste Schritt",
+      "html": "<p>Manche Studios bieten Stunden zusätzlich per Video an, etwa für Teilnehmende, die weiter weg wohnen. Das ist technisch einfach, braucht aber klare Regeln auf der Website: Zugangslink, Zeitzone, ob Aufzeichnungen verfügbar sind.</p><p>Wenn Sie wissen möchten, welche dieser Bausteine Ihr Studio wirklich braucht, sprechen wir im kostenlosen Erstgespräch darüber. Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig. Einen ersten Eindruck liefert auch der <a href=\"/gratis-check/website-entwurf/\">Gratis-Check Website-Entwurf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als kleines Yoga-Studio eine Online-Anmeldung?",
+      "a": "Wenn Ihr Raum nur wenige Plätze hat und Sie regelmäßig zu viele oder zu wenige Teilnehmende haben, lohnt sich eine Online-Anmeldung meist. Sie zeigt freie Plätze, führt eine Warteliste und gibt abgemeldete Plätze automatisch frei. Haben Sie nur feste Gruppen, die sich kaum ändern, reicht oft eine einfache Liste, und Sie sparen sich die laufenden Kosten."
+    },
+    {
+      "q": "Wie erkläre ich Blöcke und Kursreihen auf der Website?",
+      "a": "Am besten in einer kurzen Übersicht, die Drop-in, Block oder Karte und Kursreihe nebeneinanderstellt. Zu jedem Modell gehören Preis, Gültigkeit und die Regel für verpasste Stunden. So sehen Interessierte sofort, was zu ihnen passt, und Sie bekommen weniger Rückfragen. Dieselben Regeln kann ein Chatbot wie Pipebot rund um die Uhr beantworten."
+    },
+    {
+      "q": "Wie bekomme ich mehr Einsteiger in meine Yoga-Stunden?",
+      "a": "Viele Einsteiger zögern aus Unsicherheit, nicht wegen des Preises. Eine eigene Seite, die einfache Fragen zu Kleidung, Matte, Ablauf und Vorkenntnissen beantwortet, senkt die Hemmschwelle deutlich. Echte Fotos aus Ihren Stunden und ein klar beschriebener Anfängerkurs helfen zusätzlich. Wichtig ist, dass die Anmeldung danach mit wenigen Klicks möglich ist."
+    },
+    {
+      "q": "Was kostet eine Website für ein Bewegungsstudio?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer, inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Typische Seiten sind Startseite, Stundenplan, Preise, Einsteiger und Kontakt. Eine Online-Anmeldung, Retreat-Seiten oder ein Newsletter werden nach dem Erstgespräch individuell kalkuliert und schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/branchen/fitnessstudio/", "/wissen/online-terminbuchung/", "/wissen/veranstaltungen-bewerben/", "/gratis-check/website-entwurf/"],
+  "checks": ["website-entwurf", "chatbot-test"]
+}

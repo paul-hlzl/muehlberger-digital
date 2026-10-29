@@ -1,0 +1,61 @@
+{
+  "pfad": "/branchen/elektriker/",
+  "title": "Website & KI für Elektriker: Anfragen besser vorsortieren",
+  "description": "PV-Anlage, Wallbox, E-Befund, Smart Home: Wie Elektriker erklärungsbedürftige Anfragen vorsortieren und nur noch vollständige Projekte bekommen.",
+  "h1": "Digitale Lösungen für Elektriker",
+  "kicker": "Branche · Elektrotechnik",
+  "lead": "Elektriker bekommen heute viele Anfragen, die zuerst eine Erklärung brauchen: Passt eine Wallbox zu meinem Hausanschluss, was kostet eine PV-Anlage, wann brauche ich einen E-Befund? Eine Website, die diese Fragen beantwortet, und eine Anfrage-Strecke, die die wichtigsten Eckdaten abfragt, sparen Ihnen Erstbesichtigungen, aus denen nie ein Auftrag wird.",
+  "fakten": [
+    "Wallbox-, PV- und Smart-Home-Anfragen mit Eckdaten statt „Was kostet das ungefähr?“",
+    "Foto vom Zählerkasten vorab spart so manchen Lokalaugenschein",
+    "Chatbot Pipebot: 19 € pro Monat, erste 30 Tage gratis",
+    "Starter-Website ab 2.500 € einmalig ohne USt.",
+    "Erstgespräch kostenlos, vor Ort, am Telefon oder per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Anfragen, wenige vollständige",
+      "html": "<p>Das typische Problem im Elektrikerbetrieb: Eine Nachricht lautet „Wir möchten eine Wallbox, bitte um Angebot“, und es fehlt alles, was Sie für eine Einschätzung brauchen. Welches Auto, wie weit ist der Stellplatz vom Verteiler entfernt, wie alt ist die Hausinstallation? Jede Rückfrage kostet einen Tag, und manche Interessenten melden sich dann nicht mehr.</p><p>Eine gut gebaute Anfrage-Strecke auf der Website fragt diese Punkte der Reihe nach ab, verständlich formuliert und mit der Möglichkeit, Fotos hochzuladen. Wie man aus vielen Kontakten die guten herausfiltert, beschreibt auch der Ratgeber zur <a href=\"/wissen/anfragen-qualitaet/\">Qualität von Anfragen</a>.</p>"
+    },
+    {
+      "h2": "Drei Anfragetypen, die nur Elektriker kennen",
+      "html": "<ul><li><strong>Wallbox:</strong> Die Frage, ob der bestehende Hausanschluss reicht, lässt sich mit einem Foto vom Zählerkasten und der Angabe zur Leitungslänge oft vorab grob einschätzen.</li><li><strong>Photovoltaik mit Speicher:</strong> Interessenten wollen wissen, ob sich das für ihren Verbrauch rechnet. Eine Seite, die erklärt, welche Daten Sie dafür brauchen (Jahresverbrauch, Dachausrichtung, Fotos), bringt vorbereitete Kunden.</li><li><strong>E-Befund bei Wohnungsübergabe oder Verkauf:</strong> Hier zählt Termintreue. Wer online klar sagt, was der Befund umfasst und wie schnell ein Termin möglich ist, wird angerufen.</li></ul><p>Für jeden dieser Bereiche eine eigene Unterseite zu haben, hilft Kunden und Suchmaschinen gleichermaßen.</p>"
+    },
+    {
+      "h2": "Der Chatbot als geduldiger Erklärer",
+      "html": "<p>Smart Home, Notstrom, Überspannungsschutz: Viele Themen sind für Laien schwer greifbar, und am Telefon dauert die Erklärung lang. Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf der Website kann abends die Grundfragen beantworten, aber ausschließlich mit Ihren eigenen Texten, nicht mit irgendetwas aus dem Internet.</p><p>Wichtig ist die Grenze: Sicherheitsfragen wie „Darf ich die Steckdose selbst tauschen?“ soll der Bot nicht beantworten, sondern an Sie verweisen. <a href=\"https://pipebot.at/\">Pipebot</a> ist genau dafür gebaut, bei Unsicherheit mit dem Team zu verbinden. Er kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis.</p>"
+    },
+    {
+      "h2": "Vertrauen bei einem unsichtbaren Handwerk",
+      "html": "<p>Gute Elektroarbeit sieht man nach dem Verputzen nicht mehr. Kunden entscheiden deshalb stark nach Vertrauen: Ist der Betrieb erreichbar, gibt es echte Fotos vom Team, sind die Konzessionen und Zuständigkeiten klar beschrieben, gibt es Bewertungen?</p><p>Eine <a href=\"/leistungen/website-erstellen/\">Website</a> sollte deshalb weniger mit Symbolbildern von Glühbirnen arbeiten und mehr zeigen, wie ordentlich ein Verteiler bei Ihnen aussieht. Einen Überblick, was auf eine Handwerker-Website gehört, bietet der Ratgeber zur <a href=\"/wissen/handwerker-website/\">Handwerker-Website</a>.</p>"
+    },
+    {
+      "h2": "Störungen: Wenn der FI-Schalter immer wieder fällt",
+      "html": "<p>Neben geplanten Projekten gibt es die kleinen, eiligen Fälle: Der FI-Schalter löst ständig aus, in der halben Wohnung ist der Strom weg, der Herd funktioniert nach dem Gewitter nicht mehr. Solche Anrufe kommen oft am Abend, wenn niemand im Büro ist.</p><p>Hier hilft eine klare Seite „Störung, was tun?“ mit Sicherheitshinweisen, die Sie selbst formulieren, etwa: Geräte abstecken, nichts aufschrauben, bei Brandgeruch sofort die Feuerwehr rufen. Dazu Ihre Erreichbarkeit und ob Sie Störungsdienst anbieten. Wer viele solcher Anrufe hat, kann sie mit einem <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistenten</a> aufnehmen lassen, der Rückrufwünsche geordnet sammelt.</p>"
+    },
+    {
+      "h2": "Wo anfangen – und was Sie nicht brauchen",
+      "html": "<p>Wer bisher fast nur über Empfehlungen und Bauträger arbeitet, braucht keinen Chatbot und keine Social-Media-Strategie. Dann reicht eine schlanke Website mit klaren Leistungen und Kontakt. Wer dagegen im Privatkundengeschäft mit PV und Wallboxen wachsen will, profitiert von einer guten Anfrage-Strecke deutlich.</p><p>Einen schnellen Eindruck gibt der kostenlose <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>. Im Erstgespräch zeigt Jonas Mühlberger Lösungen live mit Ihren eigenen Daten und sagt ehrlich, was sich für Ihre Betriebsgröße rechnet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Chatbot einem Kunden sagen, ob seine Elektroinstallation für eine Wallbox reicht?",
+      "a": "Nein, und das soll er auch nicht. Ein Chatbot kann erklären, welche Angaben Sie für eine Einschätzung brauchen, und den Kunden bitten, Fotos vom Zählerkasten oder Verteiler mitzuschicken. Die fachliche Beurteilung bleibt beim Elektriker. Pipebot antwortet nur mit den Inhalten, die Sie ihm geben, und verbindet bei Unsicherheit mit Ihrem Team. So bleiben heikle Fragen dort, wo sie hingehören."
+    },
+    {
+      "q": "Lohnt sich eine eigene Seite für PV-Anlagen oder Wallboxen?",
+      "a": "Wenn Sie diese Leistungen aktiv verkaufen wollen, ja. Menschen suchen gezielt nach solchen Themen, und eine eigene Seite mit verständlicher Erklärung, typischem Ablauf und den nötigen Unterlagen beantwortet ihre Frage besser als ein Satz in einer Leistungsliste. Wer PV nur nebenbei mitmacht, sollte dagegen keine Seite bauen, die mehr verspricht, als der Betrieb liefern will."
+    },
+    {
+      "q": "Wie bekomme ich vollständigere Anfragen über die Website?",
+      "a": "Indem das Formular die richtigen Fragen stellt, aber nicht zu viele. Für eine Wallbox sind das etwa Fahrzeugtyp, Abstand zum Verteiler, Baujahr des Hauses und ein Foto. Pflichtfelder sollten wenige sein, damit niemand abbricht. Ergänzend kann ein Chatbot nachfragen, was fehlt. Im Erstgespräch schauen wir gemeinsam, welche Angaben Sie wirklich brauchen, um ein seriöses Angebot zu legen."
+    },
+    {
+      "q": "Was kostet die Umsetzung für einen kleinen Elektrobetrieb?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Kontaktformular, Impressum, Datenschutz und Hosting. Pipebot kommt auf Wunsch um 19 € pro Monat dazu, die ersten 30 Tage sind gratis. Aufwendigere Anfrage-Strecken mit Foto-Upload und Weiterverarbeitung sind individuelle Projekte, deren Preis nach dem Erstgespräch schriftlich angeboten wird."
+    }
+  ],
+  "verwandt": ["/leistungen/ki-chatbot/", "/wissen/anfragen-qualitaet/", "/wissen/handwerker-website/", "/produkte/pipebot/", "/branchen/installateur/"],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

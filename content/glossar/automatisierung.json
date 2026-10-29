@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/automatisierung/",
+  "title": "Automatisierung im Betrieb einfach erklärt",
+  "description": "Automatisierung einfach erklärt: Welche wiederkehrenden Aufgaben Software in kleinen Betrieben übernehmen kann, wann es sich lohnt und wann nicht.",
+  "h1": "Automatisierung",
+  "kicker": "Glossar · Prozesse",
+  "lead": "Automatisierung bedeutet, dass wiederkehrende Arbeitsschritte von Software erledigt werden, statt händisch, etwa das Ablegen von Rechnungen oder das Verschicken von Terminbestätigungen. Oft verbindet sie mehrere Programme, die bisher getrennt genutzt wurden.",
+  "fakten": [
+    "Geeignet für häufige, gleichförmige Aufgaben mit klaren Regeln",
+    "Mit KI lassen sich auch Texte, Mails und Belege einordnen",
+    "Ungeeignet für seltene Sonderfälle und heikle Entscheidungen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Automatisierung im Betrieb aussieht",
+      "html": "<p>Bei einem Installateur kommen Anfragen per Formular, Mail und Telefon. Bisher überträgt die Bürokraft alles händisch in eine Liste. Nach der Automatisierung landet jede Formularanfrage automatisch im <a href=\"/glossar/crm/\">CRM</a>, der Kunde bekommt eine Eingangsbestätigung, und der Chef erhält eine Nachricht aufs Handy, wenn „Notdienst“ angekreuzt ist.</p><p>Ein solcher Ablauf ist ein <a href=\"/glossar/workflow/\">Workflow</a>: Auslöser, Schritte, Ergebnis. Möglich wird er über <a href=\"/glossar/api/\">APIs</a> und Werkzeuge, die Programme miteinander verbinden.</p>"
+    },
+    {
+      "h2": "Wann sich Automatisierung für KMU lohnt",
+      "html": "<p>Automatisierung lohnt sich bei Aufgaben, die oft vorkommen, immer gleich ablaufen und fehleranfällig sind. Sie spart Zeit, verhindert vergessene Rückrufe und entlastet das Team. Weniger sinnvoll ist sie für Abläufe, die alle paar Monate anders aussehen; dort kostet die Pflege mehr, als sie bringt.</p><p>Ideen liefern die Ratgeber <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele</a> und <a href=\"/wissen/prozessautomatisierung-erklaert/\">Prozessautomatisierung erklärt</a>. Umgesetzt wird das unter <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>; Beispiele zeigt auch die Seite zu den <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline AI Solutions</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Womit fange ich bei der Automatisierung an?",
+      "a": "Schreiben Sie eine Woche lang mit, welche Aufgaben sich ständig wiederholen und wie lange sie dauern. Wählen Sie dann eine Aufgabe, die häufig vorkommt, klare Regeln hat und bei der Fehler ärgerlich sind, etwa Anfragen erfassen oder Belege ablegen. Automatisieren Sie zuerst diesen einen Ablauf, testen Sie ihn gründlich und erweitern Sie erst danach."
+    },
+    {
+      "q": "Ersetzt Automatisierung Mitarbeiter?",
+      "a": "In kleinen Betrieben geht es selten darum, Personal zu ersetzen. Meist werden Mitarbeiter von Routinearbeit entlastet und haben mehr Zeit für Kunden, Beratung oder die eigentliche Arbeit. Gerade wenn Fachkräfte schwer zu finden sind, hilft Automatisierung, mit dem bestehenden Team mehr zu schaffen. Entscheidungen und Kundenkontakt bleiben beim Menschen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/automatisierung-beispiele/",
+    "/leistungen/ki-automatisierung/",
+    "/glossar/workflow/",
+    "/wissen/automatisierung-ohne-programmieren/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

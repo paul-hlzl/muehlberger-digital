@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/melk/",
+  "title": "SEO in Melk: zwischen Donau, Stift und Hinterland",
+  "description": "SEO für Betriebe im Bezirk Melk: wie Sie Gäste an Donau und Stift erreichen oder als Betrieb im Hinterland lokal sichtbar werden – mit klarer Gewichtung.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Melk",
+  "kicker": "SEO · Bezirk Melk",
+  "lead": "Der Bezirk Melk hat zwei Gesichter: an der Donau das Stift, der Donauradweg und viele Gäste, im Süden des Waldviertels ruhige Gemeinden mit Handwerk und Nahversorgung. SEO in Melk beginnt deshalb mit der Frage, zu welcher Welt Ihr Betrieb gehört, denn die Suchanfragen unterscheiden sich grundlegend.",
+  "fakten": [
+    "Melk mit seinem Stift liegt am westlichen Rand der Wachau",
+    "Der Donauradweg bringt Gäste, die unterwegs am Handy suchen",
+    "Zum Bezirk gehören auch Gemeinden im südlichen Waldviertel wie Pöggstall",
+    "Gewichtung vor Maßnahmen: Wer ist Ihre Kundschaft?"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Bezirk mit zwei Suchwelten",
+      "html": "<p>Wer an der Donau eine Pension, ein Café oder einen Radservice betreibt, wird vor allem von Menschen gesucht, die gerade unterwegs sind oder die Reise planen. Wer dagegen im Hinterland Häuser baut oder Brot backt, wird von Nachbarn aus den umliegenden Gemeinden gefunden, oder eben nicht.</p><p>Beide brauchen eine gute <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>, aber mit ganz anderen Schwerpunkten. Ein Mischmasch aus beidem bringt meist keinem etwas.</p>"
+    },
+    {
+      "h2": "An der Donau: Radfahrer und Tagesgäste",
+      "html": "<p>Radfahrerinnen am Donauradweg suchen oft spontan, am Smartphone und mit wenig Geduld: Wo gibt es ein Zimmer für heute? Wer repariert einen Platten? Wo kann man draußen sitzen?</p><ul><li>Aktuelle Öffnungszeiten und freie Zimmer gut sichtbar</li><li>Hinweise wie „Fahrradgarage“ oder „E-Bike-Laden möglich“, wenn es das gibt</li><li>Eine kurze englische Seite, weil viele Gäste aus dem Ausland kommen, Tipps dazu im Ratgeber <a href=\"/wissen/mehrsprachige-website/\">mehrsprachige Website</a></li><li>Ein vollständiges <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> mit Fotos</li></ul>"
+    },
+    {
+      "h2": "Im Hinterland: Handwerk und Nahversorgung",
+      "html": "<p>Ein Baumeister in der Gegend um <a href=\"/regionen/poeggstall/\">Pöggstall</a> wird von Bauherren aus dem südlichen Waldviertel gesucht, nicht von Touristen. Er braucht Seiten zu Neubau, Umbau und Sanierung, Fotos echter Projekte und eine klare Angabe, wie weit er fährt.</p><p>Eine Bäckerei mit mehreren Filialen sollte jede Filiale mit eigenem Google-Eintrag und eigenen Öffnungszeiten führen. Das ist wichtiger als jeder Text auf der Website.</p>"
+    },
+    {
+      "h2": "Wie wir die Gewichtung festlegen",
+      "html": "<ol><li>Woher kommen Ihre Anfragen heute? Das zeigen Profilstatistik und Search Console.</li><li>Woher sollen sie künftig kommen?</li><li>Welche Fragen stellen diese Menschen vor dem Kauf oder Besuch?</li><li>Welche Seiten fehlen dafür, welche können weg?</li></ol><p>Erst danach wird optimiert. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-melk/\">Bezirk Melk</a>.</p>"
+    },
+    {
+      "h2": "KI-Suchen an der Donau",
+      "html": "<p>Viele Gäste lassen sich ihre Etappen am Donauradweg inzwischen von KI-Assistenten planen. Ob Ihr Betrieb dabei vorkommt, hängt von klaren Angaben im Netz ab, mehr bei <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Den Stand prüft der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie erreiche ich Radfahrer am Donauradweg?",
+      "a": "Vor allem über die Kartensuche am Handy. Ein vollständiges Google-Unternehmensprofil mit richtiger Kategorie, Öffnungszeiten, Fotos und Bewertungen ist hier wichtiger als jede andere Maßnahme. Ergänzend hilft eine Website, die am Handy schnell lädt und radfahrerfreundliche Angebote klar nennt, sofern Sie solche haben. Eine kurze englische Seite erleichtert ausländischen Gästen die Entscheidung."
+    },
+    {
+      "q": "Kann ein Betrieb im Hinterland vom Tourismus profitieren?",
+      "a": "Manchmal, aber nicht automatisch. Ein Gasthaus oder Hofladen abseits der Donau kann Ausflügler gewinnen, wenn er einen Grund für den Umweg bietet und das klar kommuniziert. Für Handwerk und Dienstleistungen ist der Tourismus dagegen kaum relevant. Hier sollte die Optimierung auf die Menschen im eigenen Einzugsgebiet ausgerichtet sein, nicht auf Gäste."
+    },
+    {
+      "q": "Brauche ich für jede Filiale eine eigene Seite?",
+      "a": "Für jede Filiale sollten Sie einen eigenen Eintrag im Google-Unternehmensprofil haben, mit eigener Adresse und eigenen Öffnungszeiten. Auf der Website reicht oft eine Standortseite mit allen Filialen. Eigene Unterseiten lohnen sich erst, wenn es pro Standort tatsächlich unterschiedliche Angebote, Ansprechpersonen oder Besonderheiten gibt, die man beschreiben kann."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-melk/",
+    "/regionen/mostviertel/",
+    "/wissen/website-fuer-tourismus/",
+    "/leistungen/website-erstellen/melk/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

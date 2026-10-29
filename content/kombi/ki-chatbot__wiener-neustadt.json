@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/ki-chatbot/wiener-neustadt/",
+  "title": "KI-Chatbot für Arbeitgeber in Wiener Neustadt",
+  "description": "Bewerber fragen nach Arbeitszeiten, Lehrstellen und Ablauf. Wie ein KI-Chatbot Betrieben in Wiener Neustadt auf der Karriereseite hilft, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Wiener Neustadt",
+  "kicker": "KI-Chatbot · Wiener Neustadt",
+  "lead": "Viele Betriebe in Wiener Neustadt und im Umland suchen Fachkräfte und Lehrlinge, und Bewerber haben vorher Fragen, die sie ungern am Telefon stellen. Ein KI-Chatbot auf der Website beantwortet sie rund um die Uhr: Arbeitszeiten, Ablauf der Bewerbung, Lehrberufe. Pipebot nutzt dafür nur Ihre Inhalte und kostet 19 € im Monat.",
+  "fakten": [
+    "Zweitgrößte Stadt Niederösterreichs, mit vielen Arbeitgebern im Industrieviertel",
+    "Bewerber fragen lieber schriftlich und oft am Abend",
+    "Derselbe Bot beantwortet Fragen von Kunden und von Bewerbern",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Arbeitgeber, viele offene Stellen",
+      "html": "<p><a href=\"/regionen/wiener-neustadt/\">Wiener Neustadt</a> ist die zweitgrößte Stadt Niederösterreichs. In der Stadt und im <a href=\"/regionen/bezirk-wiener-neustadt-land/\">Bezirk Wiener Neustadt-Land</a> gibt es viele Gewerbe- und Produktionsbetriebe, die laufend Personal suchen.</p><p>Wer sich bewerben will, schaut zuerst auf die Website. Findet er dort keine Antworten auf seine Fragen, bewirbt er sich oft gar nicht oder woanders. Ein Chatbot senkt diese Hürde.</p>"
+    },
+    {
+      "h2": "Fragen, die Bewerber lieber schreiben",
+      "html": "<p>Ein Metallbaubetrieb mit zwanzig Mitarbeitern und zwei Lehrstellen bekommt immer wieder ähnliche Fragen:</p><ul><li>Arbeitet man bei Ihnen im Schichtbetrieb, oder gibt es fixe Arbeitszeiten?</li><li>Ist Teilzeit möglich?</li><li>Wie erreiche ich den Betrieb ohne Auto?</li><li>Welche Unterlagen brauche ich für die Bewerbung um eine Lehrstelle?</li></ul><p>Viele trauen sich nicht, das anzurufen, schon gar nicht beim künftigen Chef. Im Chat fällt das leichter. Pipebot beantwortet solche Fragen mit Ihren Angaben, auch am Sonntagabend.</p>"
+    },
+    {
+      "h2": "Karriereseite und Chatbot gehören zusammen",
+      "html": "<p>Der Bot kann nur beantworten, was auf der Website steht. Eine gute Karriereseite mit Arbeitszeiten, Ablauf und Ansprechperson ist daher die Grundlage. Wie sie aufgebaut sein sollte, beschreibt der Ratgeber <a href=\"/wissen/karriereseite/\">Karriereseite erstellen</a>.</p><p>Wer Stellen zusätzlich ausschreiben möchte, kann das kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> tun, der Bewerbungsplattform von Pipeline. Tipps zum Text liefert der Ratgeber <a href=\"/wissen/stellenanzeige-schreiben/\">Stellenanzeige schreiben</a>.</p>"
+    },
+    {
+      "h2": "Ein Bot für Kunden und Bewerber",
+      "html": "<p>Pipebot unterscheidet nicht zwischen Kundenfragen und Bewerberfragen, er antwortet mit allem, was auf Ihrer Website steht. Ein Produktionsbetrieb bekommt so einen Ansprechpartner für Firmenkunden, die nach Leistungen fragen, und für Bewerber, die nach Lehrstellen fragen.</p><p>Ob Ihre Karriereseite genug hergibt, damit der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> Bewerbern gute Antworten liefert, zeigt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot Bewerbungen entgegennehmen?",
+      "a": "Nein. Pipebot beantwortet Fragen, er ist kein Bewerbungsformular und speichert keine Lebensläufe. Er erklärt aber, wie man sich bei Ihnen bewirbt, welche Unterlagen nötig sind und an wen man sie schickt, sofern das auf der Website steht. Wer zusätzlich eine Plattform für Bewerbungen nutzen möchte, kann Stellen kostenlos auf zusage.at ausschreiben."
+    },
+    {
+      "q": "Darf der Bot Auskunft über das Gehalt geben?",
+      "a": "Er gibt das weiter, was Sie auf Ihrer Website oder in Ihren Stellenanzeigen veröffentlichen. Steht dort etwa ein Gehaltsrahmen, kann Pipebot ihn nennen. Über das individuelle Gehalt verhandelt der Bot nicht, das bleibt beim persönlichen Gespräch. Welche Angaben in Stellenanzeigen verpflichtend sind, klären Sie im Einzelfall am besten mit der Wirtschaftskammer."
+    },
+    {
+      "q": "Funktioniert derselbe Chatbot für Kunden und Bewerber?",
+      "a": "Ja. Pipebot antwortet mit allen Inhalten Ihrer Website. Wenn dort sowohl Ihre Leistungen als auch Ihre offenen Stellen beschrieben sind, beantwortet er beide Arten von Fragen. Es braucht also keinen zweiten Bot. Wichtig ist, dass die Karriereseite genauso gepflegt ist wie die Leistungsseiten, damit der Bot Bewerbern aktuelle Informationen geben kann."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/wiener-neustadt/",
+    "/regionen/bezirk-wiener-neustadt-land/",
+    "/wissen/karriereseite/",
+    "/wissen/mitarbeiter-finden-online/",
+    "/produkte/zusage/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

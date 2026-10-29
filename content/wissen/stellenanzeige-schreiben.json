@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/stellenanzeige-schreiben/",
+  "title": "Eine gute Stellenanzeige schreiben: Aufbau & Tipps",
+  "description": "Eine gute Stellenanzeige schreiben: Aufbau, ehrliche Texte, Pflichtangaben in Österreich wie Gehalt und geschlechtsneutrale Formulierung, plus Vorlage.",
+  "h1": "Eine gute Stellenanzeige schreiben",
+  "kicker": "Ratgeber · Personal",
+  "lead": "Eine gute Stellenanzeige beantwortet in wenigen Sekunden, was die Arbeit ist, wo und wann sie stattfindet, was sie bringt und wie man sich bewirbt, und zwar ehrlich und in der Sprache der Menschen, die Sie suchen. In Österreich gehören außerdem eine geschlechtsneutrale Ausschreibung und die Angabe des kollektivvertraglichen bzw. gesetzlichen Mindestentgelts samt Hinweis auf eine allfällige Bereitschaft zur Überzahlung dazu. Konkrete Einblicke in den Alltag überzeugen mehr als Floskeln wie „dynamisches Team“.",
+  "fakten": [
+    "Wichtigste Infos zuerst: Tätigkeit, Ort, Arbeitszeit, Gehalt, Bewerbungsweg",
+    "Pflicht in Österreich: geschlechtsneutrale Ausschreibung und Angabe zum Mindestentgelt",
+    "Konkrete Einblicke statt Floskeln wie „dynamisches Team“ oder „flache Hierarchien“",
+    "Anforderungen auf das Nötige beschränken, sonst schrecken Sie passende Leute ab",
+    "Bewerbung so einfach wie möglich, am besten in wenigen Minuten am Handy"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Aufbau einer Stellenanzeige",
+      "html": "<p>Bewährt hat sich ein klarer Aufbau, den Leser am Handy schnell überfliegen können:</p><ol><li><strong>Titel:</strong> die Berufsbezeichnung, wie Bewerber sie suchen, etwa „Elektriker (m/w/d)“ statt „Energy Technician“. Dazu Ort und Arbeitszeitmodell.</li><li><strong>Einstieg:</strong> zwei Sätze über den Betrieb, die Menschen und was ihn ausmacht.</li><li><strong>Aufgaben:</strong> konkret, was ein typischer Tag mit sich bringt.</li><li><strong>Was Sie mitbringen:</strong> nur, was wirklich nötig ist, getrennt von „schön wäre“.</li><li><strong>Was wir bieten:</strong> Gehalt, Arbeitszeiten, Ausstattung, Weiterbildung, echte Vorteile.</li><li><strong>Bewerbung:</strong> wie, bei wem, mit welchen Unterlagen, und was danach passiert.</li></ol><p>Halten Sie die Anzeige kurz. Lieber eine klare Seite als drei Seiten Text, der nicht gelesen wird.</p>"
+    },
+    {
+      "h2": "Pflichtangaben in Österreich",
+      "html": "<p>Als allgemeine Orientierung, ohne Ersatz für eine Beratung im Einzelfall:</p><ul><li><strong>Geschlechtsneutral ausschreiben:</strong> Die Anzeige muss sich an alle Geschlechter richten, etwa durch Zusätze wie (m/w/d) oder neutrale Formulierungen. Auch im Text sollte sie nicht nur ein Geschlecht ansprechen.</li><li><strong>Gehalt angeben:</strong> Zu nennen ist das kollektivvertragliche bzw. gesetzliche Mindestentgelt für die Stelle und, falls zutreffend, die Bereitschaft zur Überzahlung.</li><li><strong>Keine Diskriminierung:</strong> Anforderungen wie Alter, Herkunft oder Familienstand haben in einer Anzeige nichts verloren, auch nicht versteckt wie „junges Team sucht junge Verstärkung“.</li></ul><p>Bei Fragen zur korrekten Formulierung oder zum passenden Kollektivvertrag hilft die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>. Den Gesetzestext finden Sie im <a href=\"https://www.ris.bka.gv.at/\">Rechtsinformationssystem des Bundes</a>.</p>"
+    },
+    {
+      "h2": "Ehrlich und konkret statt Floskeln",
+      "html": "<p>Viele Anzeigen klingen gleich: „dynamisches Team“, „spannende Aufgaben“, „leistungsgerechte Bezahlung“. Das liest niemand mehr. Überzeugend sind konkrete Aussagen, die nur auf Ihren Betrieb zutreffen.</p><ul><li>Statt „moderne Ausstattung“: „Jeder Monteur hat sein eigenes Firmenauto und Akku-Werkzeug einer Marke.“</li><li>Statt „flexible Arbeitszeiten“: „Freitag ist ab 12 Uhr Schluss.“</li><li>Statt „familiäres Klima“: „Wir sind sechs Leute, Mittagessen gibt es meist gemeinsam.“</li><li>Statt „abwechslungsreiche Tätigkeit“: „Sie sind bei Neubauten ebenso dabei wie bei Reparaturen im Altbau.“</li></ul><p>Seien Sie auch ehrlich bei den Schattenseiten. Wenn es im Sommer Überstunden gibt oder Wochenenddienste, schreiben Sie es dazu. Wer sich trotzdem bewirbt, passt besser und bleibt länger.</p>"
+    },
+    {
+      "h2": "Anforderungen richtig formulieren",
+      "html": "<p>Lange Anforderungslisten schrecken ab, gerade Menschen, die sich ohnehin unterschätzen. Trennen Sie klar zwischen dem, was nötig ist, und dem, was man auch lernen kann.</p><ul><li><strong>Muss:</strong> etwa abgeschlossene Lehre, Führerschein B, Deutschkenntnisse für Kundengespräche</li><li><strong>Schön wäre:</strong> Erfahrung mit bestimmten Systemen, weitere Führerscheinklassen</li><li><strong>Lernen Sie bei uns:</strong> spezielle Programme, Abläufe, Produkte</li></ul><p>Ein Beispiel: Eine Bäckerei sucht eine Verkaufskraft. Statt „mehrjährige Erfahrung im Lebensmittelhandel“ schreibt sie „Freude am Kundenkontakt, alles andere zeigen wir Ihnen“. Plötzlich bewerben sich auch Quereinsteigerinnen, die vorher dachten, sie seien nicht gemeint.</p>"
+    },
+    {
+      "h2": "Vorlage für eine kurze Stellenanzeige",
+      "html": "<p>Diese Struktur können Sie für Ihre nächste Anzeige anpassen:</p><ul><li><strong>Titel:</strong> [Beruf] (m/w/d), [Vollzeit/Teilzeit], [Ort]</li><li><strong>Über uns:</strong> [Betrieb] in [Ort], [Anzahl] Mitarbeitende, wir [was Sie tun] seit [Jahr].</li><li><strong>Ihre Aufgaben:</strong> drei bis fünf konkrete Punkte</li><li><strong>Was Sie mitbringen:</strong> zwei bis vier Muss-Punkte, eventuell ein bis zwei „schön wäre“</li><li><strong>Was wir bieten:</strong> drei bis fünf echte Vorteile</li><li><strong>Gehalt:</strong> Für diese Position gilt ein kollektivvertragliches Mindestentgelt von [Betrag] brutto pro [Monat/Stunde], Bereitschaft zur Überzahlung je nach Qualifikation und Erfahrung.</li><li><strong>Bewerbung:</strong> Kurzes Formular, Anruf oder WhatsApp an [Name], [Telefon]. Wir melden uns innerhalb von [X] Tagen.</li></ul><p>Fügen Sie, wenn möglich, ein echtes Foto vom Team oder Arbeitsplatz hinzu. Das schafft Vertrauen und hebt die Anzeige in Listen hervor.</p>"
+    },
+    {
+      "h2": "Wo die Anzeige erscheinen sollte",
+      "html": "<p>Die beste Anzeige nützt nichts, wenn sie niemand sieht. Veröffentlichen Sie sie zuerst auf Ihrer eigenen <a href=\"/wissen/karriereseite/\">Karriereseite</a> und verlinken Sie von dort auf alle anderen Kanäle. Mit strukturierten Daten kann die Anzeige auch in der Jobsuche bei Google auftauchen, siehe <a href=\"/wissen/strukturierte-daten/\">Strukturierte Daten erklärt</a>.</p><p>Ergänzend eignen sich Jobbörsen, Social Media und Bewerbungsplattformen wie <a href=\"https://zusage.at/\">zusage.at</a>, auf der Sie kostenlos Stellen ausschreiben und Bewerbungen bekommen. Einen Überblick über alle Kanäle gibt der Beitrag <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>. Bei Bedarf helfen wir, Karriereseite und Website so aufzubauen, dass Bewerber Sie leicht finden, mehr im <a href=\"/erstgespraech/\">Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich in Österreich das Gehalt in der Stellenanzeige angeben?",
+      "a": "Ja. In Stellenanzeigen ist das für die Position geltende kollektivvertragliche bzw. gesetzliche Mindestentgelt anzugeben und, falls zutreffend, die Bereitschaft zur Überzahlung. Viele Betriebe nennen zusätzlich eine realistische Gehaltsspanne, weil das die Zahl passender Bewerbungen erhöhen kann. Bei Fragen zum richtigen Kollektivvertrag und zur Formulierung hilft die Wirtschaftskammer."
+    },
+    {
+      "q": "Was bedeutet (m/w/d) in Stellenanzeigen?",
+      "a": "Die Abkürzung steht für männlich, weiblich und divers und zeigt, dass sich die Stelle an alle Geschlechter richtet. In Österreich müssen Stellen geschlechtsneutral ausgeschrieben werden. Neben dem Zusatz sollte auch der Text alle ansprechen, etwa durch neutrale Formulierungen. Es gibt auch andere Schreibweisen, wichtig ist, dass niemand ausgeschlossen wird."
+    },
+    {
+      "q": "Wie lang sollte eine Stellenanzeige sein?",
+      "a": "So kurz wie möglich und so lang wie nötig. Die meisten Bewerber lesen Anzeigen am Handy und überfliegen sie in wenigen Sekunden. Eine klare Struktur mit Titel, kurzer Vorstellung, drei bis fünf Aufgaben, wenigen Anforderungen, echten Vorteilen, Gehaltsangabe und einfachem Bewerbungsweg reicht meist völlig. Mehr Details können im Gespräch folgen."
+    },
+    {
+      "q": "Warum bekomme ich auf meine Stellenanzeige keine Bewerbungen?",
+      "a": "Häufige Gründe sind eine Anzeige, die nur an wenigen Orten erscheint, zu viele Anforderungen, austauschbare Floskeln, fehlende Infos zu Gehalt und Arbeitszeit oder eine zu aufwendige Bewerbung. Prüfen Sie, ob Sie die Stelle auf Karriereseite, Social Media und Plattformen veröffentlicht haben, und lassen Sie jemanden aus der Zielgruppe die Anzeige ehrlich bewerten."
+    }
+  ],
+  "verwandt": ["/wissen/mitarbeiter-finden-online/", "/wissen/karriereseite/", "/wissen/arbeitgebermarke/", "/produkte/zusage/", "/wissen/website-texte-schreiben/"],
+  "checks": ["website-entwurf"]
+}

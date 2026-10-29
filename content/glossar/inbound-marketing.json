@@ -1,0 +1,43 @@
+{
+  "pfad": "/glossar/inbound-marketing/",
+  "title": "Inbound-Marketing: Kunden kommen von selbst",
+  "description": "Inbound-Marketing einfach erklärt: Wie kleine Betriebe mit hilfreichen Inhalten, guter Sichtbarkeit und Bewertungen erreichen, dass Kunden selbst anfragen.",
+  "h1": "Inbound-Marketing",
+  "kicker": "Glossar · Marketing",
+  "lead": "Inbound-Marketing ist ein Ansatz, bei dem ein Betrieb Kunden nicht aktiv anspricht, sondern mit hilfreichen Inhalten und guter Sichtbarkeit dafür sorgt, dass sie von selbst kommen und anfragen. Typische Bausteine sind Website-Ratgeber, Suchmaschinenoptimierung, Social Media und Bewertungen.",
+  "fakten": [
+    "Gegenstück zur aktiven Ansprache (Outbound, Kaltakquise)",
+    "Wirkt langsamer, aber oft nachhaltig",
+    "Basis: Antworten auf echte Fragen Ihrer Kunden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Inbound bei einem kleinen Betrieb aussieht",
+      "html": "<p>Ein Tischler schreibt auf seiner Website kurze Ratgeber: „Welches Holz eignet sich für die Küchenarbeitsplatte?“, „Was kostet ein Einbauschrank ungefähr?“, „Wie pflege ich geölte Möbel?“. Menschen, die genau das suchen, finden die Seiten über Google und KI-Suchen, lesen sich ein und fragen dann direkt bei ihm an.</p><p>Ergänzt wird das durch Fotos fertiger Arbeiten auf Instagram, ein gepflegtes <a href=\"/glossar/google-unternehmensprofil/\">Google-Unternehmensprofil</a> und die Bitte an zufriedene Kunden um eine Bewertung.</p>"
+    },
+    {
+      "h2": "Warum Inbound für KMU gut passt",
+      "html": "<p>Inbound-Marketing nutzt, was kleine Betriebe ohnehin haben: Fachwissen und echte Projekte. Kunden, die über hilfreiche Inhalte kommen, haben oft schon Vertrauen gefasst und sind gut vorinformiert. Der Nachteil: Es dauert, bis Inhalte gefunden werden, und es braucht Regelmäßigkeit.</p><p>Die Wirkung beruht auf <a href=\"/glossar/seo/\">SEO</a> und guten Inhalten, etwa mit einem <a href=\"/glossar/redaktionsplan/\">Redaktionsplan</a>. Den Vergleich mit aktiver Ansprache zeigt <a href=\"/vergleiche/kaltakquise-oder-inbound/\">Kaltakquise oder Inbound</a>; wie sich Social-Media-Beiträge aus der Website erzeugen lassen, zeigt <a href=\"/produkte/pipeflow/\">Pipeflow</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lange dauert es, bis Inbound-Marketing wirkt?",
+      "a": "Meist mehrere Monate. Neue Inhalte müssen erst von Suchmaschinen gefunden und bewertet werden, und Vertrauen in sozialen Netzwerken baut sich langsam auf. Dafür wirken gute Ratgeberseiten oft über Jahre, ohne dass laufend Werbekosten entstehen. Wer schnell Aufträge braucht, kombiniert Inbound am besten mit gezielter Ansprache oder zeitlich begrenzter Werbung."
+    },
+    {
+      "q": "Muss ich für Inbound-Marketing ständig Texte schreiben?",
+      "a": "Nicht ständig, aber regelmäßig. Ein paar sorgfältig geschriebene Seiten zu den häufigsten Kundenfragen bringen oft mehr als viele kurze Beiträge. Hilfreich ist eine Liste der Fragen, die Ihnen Kunden immer wieder stellen. KI-Werkzeuge können beim Entwurf helfen, die fachliche Prüfung und Ihre eigenen Erfahrungen sollten aber immer drinstecken."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/kaltakquise-oder-inbound/",
+    "/glossar/leadgenerierung/",
+    "/wissen/social-media-kleine-betriebe/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check",
+    "social-media-test"
+  ]
+}

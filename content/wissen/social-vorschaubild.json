@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/social-vorschaubild/",
+  "title": "Vorschaubild für Links: So wirkt Ihre Seite beim Teilen",
+  "description": "So sieht Ihre Website beim Teilen auf WhatsApp, Facebook und LinkedIn gut aus: Open-Graph-Angaben, die richtige Bildgröße und Lösungen für typische Probleme.",
+  "h1": "Vorschaubild für Links: So sieht Ihre Seite beim Teilen gut aus",
+  "kicker": "Ratgeber · Website & Social Media",
+  "lead": "Wie Ihre Seite beim Teilen auf WhatsApp, Facebook oder LinkedIn aussieht, steuern Sie über sogenannte Open-Graph-Angaben im Quelltext: Titel, Kurzbeschreibung und ein Vorschaubild. Fehlen sie, wählen die Plattformen selbst irgendein Bild und einen Textausschnitt. Mit einem Bild im Querformat, üblich sind 1200 × 630 Pixel, und einem klaren Titel wirkt jeder geteilte Link professionell.",
+  "fakten": [
+    "Open-Graph-Angaben legen Titel, Beschreibung und Bild für geteilte Links fest",
+    "Bewährtes Format: 1200 × 630 Pixel, wichtige Inhalte mittig platzieren",
+    "Jede wichtige Unterseite verdient ein eigenes, passendes Vorschaubild",
+    "Plattformen speichern Vorschauen zwischen, Änderungen brauchen manchmal einen Anstoß",
+    "Ein einfacher Test: den Link an sich selbst per WhatsApp schicken"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was passiert, wenn jemand Ihren Link teilt",
+      "html": "<p>Sobald ein Link in WhatsApp, Facebook, LinkedIn oder einem anderen Dienst eingefügt wird, ruft die Plattform Ihre Seite kurz auf und sucht nach Angaben für die Vorschau. Findet sie spezielle Einträge im Kopfbereich der Seite, nutzt sie diese. Findet sie nichts, rät sie: Oft landet dann das Logo in Briefmarkengröße, ein Foto vom Cookie-Hinweis oder gar kein Bild in der Vorschau.</p><p>Diese Vorschau ist für viele Menschen der erste Kontakt mit Ihrem Betrieb. Ein Kunde empfiehlt Sie in einer Familiengruppe, eine Gemeinde teilt Ihren Veranstaltungshinweis, ein Geschäftspartner postet Ihre Stellenanzeige. Ein gutes Vorschaubild entscheidet mit, ob jemand klickt.</p>"
+    },
+    {
+      "h2": "Die Angaben, auf die es ankommt",
+      "html": "<p>Das Open-Graph-Protokoll wurde ursprünglich von Facebook eingeführt und wird heute von fast allen Plattformen gelesen. Die wichtigsten Einträge:</p><ul><li><strong>og:title:</strong> der Titel in der Vorschau, kurz und eindeutig</li><li><strong>og:description:</strong> ein bis zwei Sätze, worum es auf der Seite geht</li><li><strong>og:image:</strong> die vollständige Adresse des Vorschaubilds</li><li><strong>og:url:</strong> die eindeutige Adresse der Seite</li><li><strong>og:type:</strong> etwa „website“ oder „article“</li></ul><p>Für die Plattform X gibt es zusätzlich eigene Angaben, die sogenannten Twitter Cards, die aber meist auf die Open-Graph-Daten zurückgreifen. Titel und Beschreibung können sich an Ihrem Seitentitel und Ihrer Meta-Description orientieren, dürfen aber etwas persönlicher klingen. Wie Sie diese schreiben, steht im Ratgeber <a href=\"/wissen/title-und-meta-description/\">Title und Meta-Description schreiben</a>.</p>"
+    },
+    {
+      "h2": "Das richtige Vorschaubild gestalten",
+      "html": "<p>Ein gutes Vorschaubild ist kein verkleinertes Logo, sondern ein Bild, das neugierig macht. Beachten Sie diese Punkte:</p><ul><li><strong>Format:</strong> Querformat im Verhältnis von etwa 1,91 zu 1, verbreitet sind 1200 × 630 Pixel.</li><li><strong>Sicherer Bereich:</strong> Manche Apps schneiden das Bild quadratisch zu. Wichtiges gehört deshalb in die Mitte.</li><li><strong>Wenig Text:</strong> Wenn überhaupt, ein kurzer Schriftzug in großer Schrift, der auch auf dem Handy lesbar bleibt.</li><li><strong>Echte Motive:</strong> Werkstatt, Team, Gastgarten oder ein fertiges Projekt wirken stärker als Symbolbilder.</li><li><strong>Dateigröße:</strong> komprimiert als JPG oder PNG, damit die Vorschau schnell lädt.</li><li><strong>Logo dezent:</strong> in einer Ecke, nicht als einziges Motiv.</li></ul>"
+    },
+    {
+      "h2": "Typische Probleme und ihre Lösungen",
+      "html": "<p><strong>Ein altes Bild erscheint:</strong> Plattformen speichern Vorschauen eine Zeit lang zwischen. Facebook bietet mit dem Sharing Debugger und LinkedIn mit dem Post Inspector Werkzeuge, mit denen Sie die Seite neu einlesen lassen. WhatsApp hält alte Vorschauen teils länger, hier hilft manchmal nur Geduld.</p><p><strong>Gar kein Bild:</strong> Häufig ist die Bildadresse relativ statt vollständig angegeben, das Bild zu groß oder nur über eine unverschlüsselte Adresse erreichbar.</p><p><strong>Falsches Bild auf Unterseiten:</strong> Viele Systeme verwenden für alle Seiten dasselbe Standardbild. Für wichtige Seiten wie Leistungen, Aktionen oder Stellenanzeigen lohnt sich ein eigenes Bild.</p><p><strong>Seltsamer Text:</strong> Fehlt die Beschreibung, greifen Plattformen zum ersten Text auf der Seite, etwa „Zum Inhalt springen“.</p>"
+    },
+    {
+      "h2": "So prüfen Sie Ihre Seiten in fünf Minuten",
+      "html": "<ol><li>Schicken Sie sich die Adresse Ihrer Startseite per WhatsApp an sich selbst oder an eine Kollegin.</li><li>Wiederholen Sie das mit zwei, drei wichtigen Unterseiten, etwa einer Leistung und der Kontaktseite.</li><li>Fügen Sie die Adressen in die Vorschau-Werkzeuge von Facebook und LinkedIn ein.</li><li>Notieren Sie, wo Bild, Titel oder Beschreibung fehlen oder unpassend sind.</li><li>Prüfen Sie die Vorschau am Handy, denn dort wird sie am häufigsten gesehen.</li></ol><p>Diese kleine Prüfung zeigt oft auch andere Schwächen, etwa fehlende Seitentitel. Einen breiteren Blick bietet der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>.</p>"
+    },
+    {
+      "h2": "Drei Beispiele aus dem Alltag",
+      "html": "<p><strong>Heuriger:</strong> Die Ausschanktermine werden in WhatsApp-Gruppen und von der Gemeinde geteilt. Ein Vorschaubild mit Gastgarten und gut lesbarem Hinweis „Ausg’steckt“ samt Zeitraum bringt mehr Aufmerksamkeit als das Logo allein.</p><p><strong>Fahrschule:</strong> Kurstermine werden von Jugendlichen weitergeleitet. Ein Bild mit Fahrschulauto und dem nächsten Kursbeginn macht die Vorschau sofort verständlich.</p><p><strong>Tischlerei:</strong> Eine Projektseite zu einer fertigen Küche wird von zufriedenen Kunden geteilt. Das beste Foto des Projekts als Vorschaubild ist hier die beste Werbung.</p><p>Dasselbe Prinzip gilt für Links in Newslettern und in der <a href=\"/wissen/e-mail-signatur/\">E-Mail-Signatur</a>.</p>"
+    },
+    {
+      "h2": "Umsetzung und regelmäßige Beiträge",
+      "html": "<p>In WordPress lassen sich Vorschaubilder mit gängigen SEO-Plugins pro Seite festlegen, in Baukästen gibt es meist ein eigenes Feld in den Seiteneinstellungen. Bei individuell erstellten Websites werden die Angaben direkt in die Vorlage eingebaut. Bei der Starter-Website, die Mühlberger Digital über Pipeline AI Solutions vermittelt, gehören passende Vorschauangaben zur Grundausstattung, mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p><p>Wer seine Seite nicht nur teilen lassen, sondern selbst regelmäßig posten will, findet Anregungen unter <a href=\"/wissen/social-media-kleine-betriebe/\">Social Media für kleine Betriebe</a>. <a href=\"/produkte/pipeflow/\">Pipeflow</a> erstellt aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. In der Pilotphase ist das kostenlos, Start unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Größe sollte ein Vorschaubild für Links haben?",
+      "a": "Verbreitet und von den großen Plattformen gut unterstützt ist ein Querformat mit 1200 × 630 Pixeln, also ein Seitenverhältnis von etwa 1,91 zu 1. Platzieren Sie wichtige Inhalte in der Mitte, weil manche Apps das Bild quadratisch zuschneiden. Speichern Sie das Bild komprimiert als JPG oder PNG, damit die Vorschau schnell lädt. Sehr kleine Bilder werden oft nur als Miniatur oder gar nicht angezeigt."
+    },
+    {
+      "q": "Warum zeigt WhatsApp noch das alte Vorschaubild?",
+      "a": "WhatsApp und andere Plattformen speichern Vorschauen für eine gewisse Zeit zwischen, damit sie Seiten nicht bei jedem Teilen neu abrufen müssen. Nach einer Änderung kann deshalb noch eine Weile das alte Bild erscheinen. Bei Facebook und LinkedIn können Sie die Seite über deren Vorschau-Werkzeuge neu einlesen lassen. Bei WhatsApp hilft oft, etwas zu warten oder testweise eine leicht veränderte Adresse zu teilen."
+    },
+    {
+      "q": "Brauche ich für jede Seite ein eigenes Vorschaubild?",
+      "a": "Nicht für jede, aber für die wichtigsten. Ein gutes Standardbild für die gesamte Website ist die Basis. Seiten, die häufig geteilt werden, etwa Leistungsseiten, Aktionen, Veranstaltungen, Stellenanzeigen oder Blogartikel, profitieren von einem eigenen Bild, das genau zum Inhalt passt. So sieht jeder geteilte Link aus, als wäre er bewusst gestaltet, und die Vorschau erklärt sich von selbst."
+    },
+    {
+      "q": "Beeinflusst das Vorschaubild mein Google-Ranking?",
+      "a": "Direkt nicht. Die Open-Graph-Angaben werden vor allem von sozialen Netzwerken und Messengern gelesen, nicht für die Reihung in der Google-Suche. Indirekt helfen sie aber: Ansprechende Vorschauen werden öfter angeklickt und weitergeleitet, was Besucher und Bekanntheit bringt. Außerdem ist eine sauber gepflegte Seite mit guten Titeln und Beschreibungen meist auch für Suchmaschinen besser aufbereitet."
+    }
+  ],
+  "verwandt": [
+    "/wissen/title-und-meta-description/",
+    "/wissen/social-media-kleine-betriebe/",
+    "/wissen/e-mail-signatur/",
+    "/produkte/pipeflow/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "social-media-test",
+    "website-entwurf"
+  ]
+}

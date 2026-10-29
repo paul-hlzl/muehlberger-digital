@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/crm/",
+  "title": "CRM einfach erklärt: Kundenverwaltung für KMU",
+  "description": "CRM einfach erklärt: Wie ein Kundenmanagement-System Kontakte, Anfragen und Angebote bündelt und ab wann es sich für kleine Betriebe wirklich lohnt.",
+  "h1": "CRM – Customer Relationship Management",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Ein CRM (Customer Relationship Management) ist eine Software, in der ein Betrieb alle Informationen zu Kunden und Interessenten an einem Ort sammelt: Kontaktdaten, Gespräche, Angebote, Aufträge und nächste Schritte. So weiß jeder im Team, wo ein Kunde gerade steht.",
+  "fakten": [
+    "Ersetzt verstreute Excel-Listen, Notizzettel und Postfächer",
+    "Zeigt offene Angebote und fällige Rückrufe auf einen Blick",
+    "Lässt sich mit Website, Mail und Kalender verbinden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie ein CRM im kleinen Betrieb hilft",
+      "html": "<p>Ein Fensterbauer mit acht Mitarbeitern hat Anfragen bisher in seinem Postfach, Angebote in einem Ordner und Notizen zu Kundengesprächen im Kopf. Ruft ein Kunde an, während der Chef auf der Baustelle ist, kann im Büro niemand sagen, was besprochen wurde. Im CRM steht nun zu jedem Kunden: Anfrage vom März, Aufmaß erledigt, Angebot verschickt, Nachfassen am Freitag.</p><p>Neue Anfragen von der Website landen automatisch im System (<a href=\"/glossar/automatisierung/\">Automatisierung</a>), und Erinnerungen sorgen dafür, dass kein <a href=\"/glossar/lead/\">Lead</a> vergessen wird.</p>"
+    },
+    {
+      "h2": "Ab wann sich ein CRM für KMU lohnt",
+      "html": "<p>Ein CRM lohnt sich, sobald mehrere Personen mit Kunden sprechen, Angebote regelmäßig nachgefasst werden müssen oder Anfragen verloren gehen. Für einen Ein-Personen-Betrieb mit wenigen Stammkunden reicht oft eine gut geführte Liste. Wichtig ist, dass das System zur Arbeitsweise passt und tatsächlich genutzt wird.</p><p>Worauf Sie bei der Auswahl achten, erklärt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>. Wie Sie offene Angebote systematisch weiterverfolgen, zeigt <a href=\"/wissen/angebot-nachfassen/\">Angebote nachfassen</a>; Gesprächsnotizen fließen etwa mit <a href=\"/produkte/noteit/\">noteit</a> schneller ins System.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich ein teures CRM-System?",
+      "a": "Nein. Für kleine Betriebe gibt es einfache, günstige Lösungen, die alle Grundfunktionen abdecken: Kontakte, Notizen, Aufgaben und Angebote. Große Unternehmenssysteme sind oft zu umfangreich und werden dann nicht genutzt. Wählen Sie ein System, das Sie in einer Stunde verstehen, am Handy bedienen können und das Ihre Daten in der EU speichert."
+    },
+    {
+      "q": "Darf ich Kundendaten im CRM speichern?",
+      "a": "Ja, wenn es einen berechtigten Zweck gibt, etwa die Abwicklung von Anfragen und Aufträgen, und Sie die Grundsätze der DSGVO beachten. Speichern Sie nur, was Sie brauchen, schützen Sie den Zugang und löschen Sie Daten, die nicht mehr nötig sind. Mit dem Anbieter brauchen Sie in der Regel einen Vertrag zur Auftragsverarbeitung. Im Zweifel fragen Sie die WKO."
+    }
+  ],
+  "verwandt": [
+    "/wissen/crm-kleine-betriebe/",
+    "/glossar/lead/",
+    "/wissen/angebot-nachfassen/",
+    "/leistungen/individuelle-software/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

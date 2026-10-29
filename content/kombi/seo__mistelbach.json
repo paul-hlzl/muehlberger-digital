@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/seo/mistelbach/",
+  "title": "SEO in Mistelbach: gefunden am Handy, auch unterwegs",
+  "description": "SEO für Betriebe im Bezirk Mistelbach: warum im Weinviertel zwischen Pendelstrecke und Wohnort am Handy gesucht wird und was Ihre Website dafür braucht.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Mistelbach",
+  "kicker": "SEO · Bezirk Mistelbach",
+  "lead": "Viele Menschen aus dem Bezirk Mistelbach pendeln, und gesucht wird oft zwischendurch am Handy: in der Mittagspause, nach der Arbeit, auf dem Parkplatz. SEO in Mistelbach heißt deshalb vor allem mobile Sichtbarkeit. Ihre Website muss am Smartphone schnell laden, die wichtigsten Antworten sofort zeigen und den Kontakt mit einem Fingertipp möglich machen.",
+  "fakten": [
+    "Der Bezirk Mistelbach liegt im Weinviertel, entlang der A5 und bis zur tschechischen Grenze",
+    "Viele Suchen passieren unterwegs am Handy, mit wenig Zeit",
+    "Ladezeit, Lesbarkeit und Telefonnummer zum Antippen sind Pflicht",
+    "Online-Terminbuchung kann Anfragen außerhalb der Öffnungszeiten auffangen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Suchen passieren zwischen Arbeit und Zuhause",
+      "html": "<p>Wer nach Wien oder in eine der Städte der Region pendelt, erledigt viele Besorgungen nebenbei. Die Werkstatt für den Reifenwechsel, der Friseurtermin am Samstag, die Bestellung beim Fleischhauer: Gesucht wird am Handy, oft mit „in der Nähe“ oder dem Namen des Wohnorts.</p><p>Wer in diesem Moment eine Website hat, die lange lädt oder am kleinen Bildschirm unleserlich ist, verliert die Anfrage. Wie <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> insgesamt funktioniert, lesen Sie auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Mobile SEO: worauf es konkret ankommt",
+      "html": "<ul><li><strong>Ladezeit:</strong> Große Bilder verkleinern, unnötige Programme entfernen.</li><li><strong>Lesbarkeit:</strong> ausreichend große Schrift, keine Texte, die man seitlich schieben muss.</li><li><strong>Kontakt:</strong> Telefonnummer und Adresse ganz oben, antippbar.</li><li><strong>Kurze Wege:</strong> Öffnungszeiten, Preise oder Buchung mit höchstens einem Klick erreichbar.</li></ul><p>Ausführlich erklärt der Ratgeber <a href=\"/wissen/mobile-optimierung/\">Mobile Optimierung</a>, was dahintersteckt.</p>"
+    },
+    {
+      "h2": "Beispiele aus dem Bezirk",
+      "html": "<p>Eine <strong>Kfz-Werkstatt</strong> wird oft kurzfristig gesucht. Neben dem Google-Profil sollte die Website Leistungen wie Service, Pickerl oder Reifen einzeln zeigen, mehr dazu auf der Branchenseite <a href=\"/branchen/kfz-werkstatt/\">Kfz-Werkstatt</a>.</p><p>Ein <strong>Friseursalon</strong> gewinnt Kundinnen, die abends nach freien Terminen suchen, mit einer <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p><p>Eine <strong>Fleischerei</strong> mit Mittagstisch sollte das Tagesangebot dort zeigen, wo es am Handy sofort sichtbar ist.</p>"
+    },
+    {
+      "h2": "Was Sie heute selbst prüfen können",
+      "html": "<ol><li>Öffnen Sie Ihre Website am eigenen Handy, am besten außerhalb des WLANs.</li><li>Finden Sie Telefonnummer und Öffnungszeiten in wenigen Sekunden?</li><li>Suchen Sie nach Ihrer Leistung plus Wohnort und schauen Sie, wer erscheint.</li><li>Prüfen Sie, ob Ihr Google-Profil aktuelle Fotos und Zeiten zeigt.</li></ol><p>Wenn dabei Fragen offen bleiben, besprechen wir sie im kostenlosen Erstgespräch. Den Stand in KI-Suchen misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-mistelbach/\">Bezirk Mistelbach</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Woran erkenne ich, ob meine Website am Handy gut genug ist?",
+      "a": "Ein einfacher Test: Öffnen Sie die Seite am eigenen Smartphone im mobilen Netz. Lädt sie spürbar langsam, müssen Sie zoomen oder seitlich schieben, oder finden Sie die Telefonnummer nicht sofort, gibt es Handlungsbedarf. Genauer misst der kostenlose SEO-Test von Pipeline AI Solutions, der auch technische Probleme wie zu große Bilder aufzeigt."
+    },
+    {
+      "q": "Hilft eine Online-Terminbuchung bei Google?",
+      "a": "Indirekt ja. Eine Buchungsmöglichkeit verbessert nicht automatisch die Platzierung, sorgt aber dafür, dass Besucherinnen eher buchen statt weiterzusuchen. Das ist besonders am Abend wichtig, wenn niemand ans Telefon geht. Manche Buchungssysteme lassen sich außerdem mit dem Google-Unternehmensprofil verbinden, sodass direkt aus der Kartensuche gebucht werden kann."
+    },
+    {
+      "q": "Wird Sprachsuche für kleine Betriebe wichtiger?",
+      "a": "Viele Menschen sprechen ihre Fragen inzwischen ins Handy oder in einen KI-Assistenten, statt sie zu tippen. Diese Fragen sind meist länger und natürlicher formuliert. Websites, die typische Kundenfragen in ganzen Sätzen beantworten, etwa in einem FAQ-Bereich, sind dafür gut gerüstet. Eigene Maßnahmen nur für Sprachsuche braucht ein kleiner Betrieb in der Regel nicht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-mistelbach/",
+    "/regionen/weinviertel/",
+    "/wissen/website-ladezeit-verbessern/",
+    "/leistungen/website-erstellen/mistelbach/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

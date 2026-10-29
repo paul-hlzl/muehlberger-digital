@@ -1,0 +1,78 @@
+{
+  "pfad": "/wissen/impressum-pflicht/",
+  "title": "Impressumspflicht in Österreich: Was hinein muss",
+  "description": "Impressumspflicht in Österreich verständlich erklärt: wer ein Impressum braucht, welche Angaben hinein gehören und wie Sie typische Lücken vermeiden.",
+  "h1": "Impressumspflicht in Österreich: Die Grundlagen",
+  "kicker": "Ratgeber · Recht",
+  "lead": "Praktisch jede Website und jedes Social-Media-Profil eines Betriebs braucht in Österreich ein Impressum. Dahinter stehen zwei Pflichten: die Informationspflichten nach dem E-Commerce-Gesetz (§ 5 ECG) und die Offenlegung nach dem Mediengesetz (§ 25 MedienG). Welche Angaben genau hinein müssen, hängt von Rechtsform, Gewerbe und Inhalt Ihrer Seite ab.",
+  "fakten": [
+    "Pflicht für fast alle Unternehmenswebsites, auch für Onepager und Firmenprofile auf Social Media",
+    "Zwei Rechtsquellen: E-Commerce-Gesetz (Anbieterangaben) und Mediengesetz (Offenlegung)",
+    "Das Impressum muss mit einem Klick erreichbar sein, üblich ist ein Link im Fußbereich",
+    "Häufigste Lücken: fehlende Aufsichtsbehörde, Kammer, UID-Nummer oder E-Mail-Adresse",
+    "Im Einzelfall Angaben mit der WKO oder einer Anwältin bzw. einem Anwalt abstimmen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wer in Österreich ein Impressum braucht",
+      "html": "<p>Die Faustregel: Wer im Internet für ein Unternehmen auftritt, braucht ein Impressum. Das gilt für die klassische Firmenwebsite genauso wie für eine einzelne Landingpage, einen Onlineshop oder die Facebook- und Instagram-Seite des Betriebs. Auch Vereine und Gemeinden sind betroffen, weil sie Medieninhaber ihrer Website sind.</p><p>Rein private Seiten ohne wirtschaftlichen Zweck sind nur eingeschränkt erfasst. Sobald aber eine Seite Leistungen bewirbt, Anfragen sammelt oder verkauft, sollten Sie davon ausgehen, dass die vollen Angaben nötig sind. Ein <a href=\"/glossar/impressum/\">Impressum</a> ist also kein Zusatz für große Firmen, sondern Grundausstattung jeder Unternehmensseite.</p>"
+    },
+    {
+      "h2": "Welche Angaben das E-Commerce-Gesetz verlangt",
+      "html": "<p>Das E-Commerce-Gesetz regelt, was Besucher über den Anbieter einer Website wissen müssen. Für die meisten Betriebe sind das folgende Punkte:</p><ul><li>Name bzw. Firma (bei Einzelunternehmen der volle Name, bei Gesellschaften die eingetragene Firma)</li><li>Geografische Anschrift des Unternehmenssitzes, kein Postfach</li><li>Kontaktdaten für eine rasche Verbindung, darunter eine E-Mail-Adresse</li><li>Firmenbuchnummer und Firmenbuchgericht, sofern eingetragen</li><li>Zuständige Aufsichtsbehörde, bei Gewerben meist Bezirkshauptmannschaft oder Magistrat</li><li>Kammer oder Berufsverband, etwa die Wirtschaftskammer des Bundeslandes</li><li>Berufsbezeichnung und Staat, in dem sie verliehen wurde, bei reglementierten Berufen</li><li>Hinweis auf anwendbare gewerbe- oder berufsrechtliche Vorschriften und wo man sie findet</li><li>UID-Nummer, falls vorhanden</li></ul><p>Als Fundstelle für Gesetze wird häufig das Rechtsinformationssystem des Bundes genannt, das Sie unter <a href=\"https://www.ris.bka.gv.at/\">ris.bka.gv.at</a> erreichen.</p>"
+    },
+    {
+      "h2": "Die Offenlegung nach dem Mediengesetz",
+      "html": "<p>Zusätzlich gilt jede Website als Medium im Sinne des Mediengesetzes. Daraus folgt die sogenannte Offenlegung. Für die typische „kleine Website“, die nur das Unternehmen und seine Leistungen vorstellt, reichen in der Regel Name bzw. Firma, Unternehmensgegenstand und Wohnort bzw. Sitz des Medieninhabers.</p><p>Anders ist es, wenn Sie über die Selbstdarstellung hinausgehen, etwa mit einem Blog, der Meinungen zu öffentlichen Themen vertritt, oder einem regelmäßigen Newsletter mit redaktionellen Inhalten. Dann können weitere Angaben dazukommen, zum Beispiel die grundlegende Richtung des Mediums. Wo die Grenze im Einzelfall liegt, klären Sie am besten mit der WKO oder rechtlicher Beratung.</p>"
+    },
+    {
+      "h2": "Wo das Impressum stehen muss",
+      "html": "<p>Die Angaben müssen <strong>leicht und unmittelbar erreichbar</strong> und ständig verfügbar sein. In der Praxis bedeutet das: ein klar beschrifteter Link „Impressum“ im Fußbereich jeder Seite. Begriffe wie „Rechtliches“ oder „Info“ sind weniger eindeutig und sollten vermieden werden.</p><p>Schreiben Sie das Impressum als normalen Text, nicht als Bild oder in einer PDF-Datei. So können Besucher Adresse und E-Mail kopieren, Screenreader lesen den Inhalt vor, und Suchmaschinen verstehen, wer hinter der Seite steht. Auf Social Media legen Sie im Profil einen gut sichtbaren Link auf das Impressum Ihrer Website.</p>"
+    },
+    {
+      "h2": "Typische Lücken und wie Sie sie vermeiden",
+      "html": "<p>Viele Impressen sind nicht falsch, sondern unvollständig oder veraltet. Prüfen Sie Ihres anhand dieser Liste:</p><ul><li>Stimmt die Adresse noch, auch nach einer Übersiedlung des Betriebs?</li><li>Ist eine E-Mail-Adresse angegeben, nicht nur ein Kontaktformular?</li><li>Sind Aufsichtsbehörde und Kammer genannt?</li><li>Passt die Rechtsform, etwa nach der Umwandlung vom Einzelunternehmen in eine GmbH?</li><li>Ist die UID-Nummer angeführt, wenn Sie eine haben?</li><li>Gibt es einen Hinweis auf die Gewerbeordnung bzw. Ihr Berufsrecht?</li><li>Ist das Impressum von jeder Unterseite aus erreichbar, auch auf dem Handy?</li></ul><p>Ein kurzer Blick einmal im Jahr und nach jeder Änderung im Betrieb reicht meist, damit das Impressum aktuell bleibt.</p>"
+    },
+    {
+      "h2": "Drei typische Situationen aus dem Alltag",
+      "html": "<p><strong>Kosmetikstudio als Einzelunternehmen:</strong> Eine Kosmetikerin arbeitet als Kleinunternehmerin ohne UID-Nummer und ohne Firmenbucheintrag. Ins Impressum gehören ihr Name, die Adresse des Studios, Telefon und E-Mail, das Gewerbe, die Bezirkshauptmannschaft als Behörde, die Wirtschaftskammer und der Hinweis auf die Gewerbeordnung.</p><p><strong>Installateur als GmbH:</strong> Hier kommen die Firma laut Firmenbuch, Firmenbuchnummer, Firmenbuchgericht und die UID-Nummer dazu. Oft wird auch die Geschäftsführung genannt.</p><p><strong>Verein:</strong> Ein Sportverein nennt Vereinsnamen, Sitz, Kontakt und die ZVR-Zahl aus dem Vereinsregister. Weil der Verein kein Gewerbe hat, entfallen Kammer und Gewerbebehörde in der Regel.</p><p>Diese Beispiele zeigen das Prinzip. Welche Angaben für Ihren Betrieb genau zutreffen, sagt Ihnen im Zweifel die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p>"
+    },
+    {
+      "h2": "Impressum aktuell halten und richtig einbauen",
+      "html": "<p>Das Impressum ist schnell geschrieben, aber nur nützlich, wenn es technisch sauber eingebunden ist und gepflegt wird. Bei einer neuen Website gehören Impressum und <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> deshalb von Anfang an dazu. Die Starter-Website, die Mühlberger Digital über Pipeline AI Solutions vermittelt, ist ab 2.500 € einmalig erhältlich und enthält beide Seiten als feste Bestandteile. Die inhaltlichen Angaben stimmen Sie mit uns ab, die rechtliche Prüfung im Einzelfall bleibt bei der WKO oder Ihrer Rechtsberatung.</p><p>Wenn Sie wissen möchten, ob Ihre bestehende Seite noch zeitgemäß ist, hilft der Ratgeber <a href=\"/wissen/website-pruefen/\">Website prüfen</a>. Für eine neue Seite finden Sie alles Wichtige unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, und im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> gehen wir gemeinsam durch, was Ihre Seite braucht. Allgemeine Infos für Gründer bietet auch das Unternehmensserviceportal unter <a href=\"https://www.usp.gv.at/\">usp.gv.at</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht auch eine Facebook- oder Instagram-Seite ein Impressum?",
+      "a": "Ja, wenn das Profil für einen Betrieb genutzt wird, gelten die Impressumspflichten grundsätzlich auch dort. Am einfachsten setzen Sie im Profil einen gut sichtbaren Link auf das Impressum Ihrer Website, etwa in der Info-Rubrik oder im Profiltext. Wichtig ist, dass Besucher die Angaben ohne langes Suchen finden. Ob für Ihr konkretes Profil zusätzliche Angaben nötig sind, klären Sie im Zweifel mit der WKO."
+    },
+    {
+      "q": "Muss ich meine Privatadresse angeben, wenn ich von zu Hause arbeite?",
+      "a": "Das Gesetz verlangt die geografische Anschrift, an der Sie niedergelassen sind. Arbeiten Sie als Einzelunternehmer von zu Hause aus und ist das Ihr Firmensitz, ist das in der Regel diese Adresse. Ein Postfach reicht nicht. Wer seine Wohnadresse nicht veröffentlichen möchte, kann sich zu Alternativen wie einer Geschäftsadresse beraten lassen, die tatsächlich als Sitz genutzt wird. Lassen Sie das im Einzelfall rechtlich prüfen."
+    },
+    {
+      "q": "Reicht ein Kontaktformular statt einer E-Mail-Adresse?",
+      "a": "Nein. Das E-Commerce-Gesetz verlangt Angaben, die eine rasche und unmittelbare Kontaktaufnahme ermöglichen, und nennt dabei ausdrücklich die E-Mail-Adresse. Ein Kontaktformular können Sie gerne zusätzlich anbieten, es ersetzt die E-Mail-Adresse im Impressum aber nicht. Eine Telefonnummer ist üblich und für Kunden hilfreich, auch wenn die genauen Anforderungen im Einzelfall variieren können."
+    },
+    {
+      "q": "Was passiert, wenn das Impressum fehlt oder unvollständig ist?",
+      "a": "Ein fehlendes oder lückenhaftes Impressum kann als Verwaltungsübertretung bestraft werden. Zusätzlich können Mitbewerber unter Umständen wettbewerbsrechtlich vorgehen, etwa mit einer Unterlassungsforderung. Abgesehen vom Rechtlichen wirkt eine Seite ohne Impressum auf Kunden wenig vertrauenswürdig. Weil sich die Pflichtangaben einfach ergänzen lassen, lohnt es sich, das Impressum regelmäßig zu prüfen und bei Unsicherheit die WKO oder einen Anwalt zu fragen."
+    },
+    {
+      "q": "Gibt es eine Vorlage für ein Impressum?",
+      "a": "Die Wirtschaftskammer stellt auf ihrer Website Informationen und Musterformulierungen für Impressum und Offenlegung bereit, die viele Betriebe als Ausgangspunkt verwenden. Eine Vorlage ersetzt aber nicht den Blick auf Ihren konkreten Fall: Rechtsform, Gewerbe, Kammerzugehörigkeit und die Art Ihrer Website bestimmen, welche Punkte zutreffen. Übernehmen Sie daher nie ungeprüft das Impressum eines anderen Betriebs."
+    }
+  ],
+  "verwandt": [
+    "/wissen/datenschutzerklaerung/",
+    "/glossar/impressum/",
+    "/leistungen/website-erstellen/",
+    "/wissen/website-pruefen/",
+    "/wissen/cookie-banner/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "seo-check"
+  ]
+}

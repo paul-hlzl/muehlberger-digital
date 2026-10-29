@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/lokale-landingpages/",
+  "title": "Lokale Landingpages richtig machen statt kopieren",
+  "description": "Lokale Landingpages für mehrere Orte: wann sie sinnvoll sind, was jede Seite braucht und warum kopierte Seiten mit getauschtem Ortsnamen eher schaden.",
+  "h1": "Lokale Landingpages richtig machen",
+  "kicker": "Ratgeber · Lokales SEO",
+  "lead": "Eine lokale Landingpage lohnt sich nur, wenn Sie in diesem Ort wirklich tätig sind und dort etwas Eigenes zu sagen haben: Referenzen, Anfahrt, typische Aufträge oder einen Ansprechpartner. Seiten, die sich nur durch den getauschten Ortsnamen unterscheiden, wertet Google als „Doorway Pages“ ab und sie überzeugen auch keine Kunden.",
+  "fakten": [
+    "Eine Ortsseite braucht echten, eigenen Inhalt, nicht nur einen anderen Ortsnamen",
+    "Sinnvoll sind Seiten für Orte, in denen Sie regelmäßig arbeiten oder einen Standort haben",
+    "Für viele kleine Betriebe reicht eine gute Einzugsgebietsseite statt dutzender Ortsseiten",
+    "Das Google-Unternehmensprofil bleibt für lokale Suchen meist der wichtigere Baustein"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was eine lokale Landingpage ist",
+      "html": "<p>Eine lokale Landingpage ist eine Unterseite, die eine Leistung für einen bestimmten Ort oder eine Region beschreibt, etwa „Fenstertausch im Bezirk Melk“. Sie soll Menschen abholen, die genau so suchen, und ihnen zeigen, dass Sie dort wirklich zu Hause sind.</p> <p>Das Prinzip ist richtig, die Umsetzung geht oft schief. Viele Websites haben dreißig Seiten nach dem Muster „Elektriker in [Ort]“, bei denen nur der Ortsname wechselt. Google nennt das Doorway Pages, also Brückenseiten, die nur für die Suchmaschine existieren, und stuft sie ab.</p>"
+    },
+    {
+      "h2": "Wann sich Ortsseiten lohnen und wann nicht",
+      "html": "<p>Ortsseiten lohnen sich, wenn mindestens eines davon zutrifft:</p> <ul> <li>Sie haben in dem Ort einen <strong>eigenen Standort</strong> oder eine Filiale.</li> <li>Sie arbeiten dort <strong>regelmäßig</strong> und können echte Aufträge zeigen.</li> <li>Der Ort hat <strong>Besonderheiten</strong>, die Ihre Arbeit betreffen, etwa viele Altbauten, ein Tourismusgebiet oder Hanglagen.</li> </ul> <p>Sie lohnen sich eher nicht, wenn Sie nur gelegentlich hinfahren und nichts Konkretes zu erzählen haben. Dann ist eine einzige gute Seite „Unser Einzugsgebiet“ mit Karte und Ortsliste ehrlicher und wirkt meist besser. Ein Rauchfangkehrer mit festem Kehrgebiet braucht keine zwanzig Ortsseiten, sondern eine klare Übersicht.</p>"
+    },
+    {
+      "h2": "Was auf jede Ortsseite gehört",
+      "html": "<p>Eine gute lokale Landingpage beantwortet die Frage: Warum gerade Sie, gerade hier?</p> <ul> <li><strong>Echte Referenzen:</strong> Fotos und kurze Beschreibungen von Arbeiten in diesem Ort, mit Einverständnis der Kunden.</li> <li><strong>Örtliche Besonderheiten:</strong> „Im oberen Waldviertel sind viele Häuser aus Granitstein gebaut, das beeinflusst die Dämmung.“ Nur, was Sie sicher wissen.</li> <li><strong>Erreichbarkeit:</strong> Anfahrt, Fahrzeit, Notdienst ja oder nein, Ansprechpartner.</li> <li><strong>Häufige Fragen</strong> aus genau dieser Gegend.</li> <li><strong>Eine klare Handlungsaufforderung:</strong> anrufen, Formular, Termin.</li> </ul> <p>Wie Sie Besucher zur Anfrage führen, beschreibt der Ratgeber <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</p>"
+    },
+    {
+      "h2": "Struktur und interne Verlinkung",
+      "html": "<p>Ortsseiten sollten nicht isoliert irgendwo hängen. Bewährt hat sich diese Struktur:</p> <ol> <li>Eine <strong>Leistungsseite</strong> beschreibt die Leistung allgemein.</li> <li>Eine <strong>Einzugsgebietsseite</strong> listet alle Orte und verlinkt auf die vorhandenen Ortsseiten.</li> <li>Jede <strong>Ortsseite</strong> verlinkt zurück auf die Leistung und auf benachbarte Orte, wo es inhaltlich passt.</li> </ol> <p>So verstehen Suchmaschinen den Zusammenhang, und Besucher finden sich zurecht. Mehr dazu im Ratgeber <a href=\"/wissen/interne-verlinkung/\">Interne Verlinkung sinnvoll aufbauen</a>. Achten Sie außerdem auf eigene Seitentitel und Beschreibungen je Ort; identische Texte führen zu <a href=\"/wissen/duplicate-content/\">doppelten Inhalten</a>.</p>"
+    },
+    {
+      "h2": "Ortsseiten und Google-Unternehmensprofil",
+      "html": "<p>Bei Suchen wie „Installateur in der Nähe“ entscheidet oft das Kartenergebnis mit den Unternehmensprofilen. Dort zählt vor allem die tatsächliche Adresse, nicht die Zahl Ihrer Ortsseiten. Eine Ortsseite kann aber bei Suchen helfen, die einen Ortsnamen enthalten, und sie gibt dem Profil eine passende Zielseite.</p> <p>Wichtig: Legen Sie keine Unternehmensprofile für Orte an, an denen Sie keinen echten Standort mit Kundenkontakt haben. Das widerspricht den Richtlinien von Google und kann zur Sperre führen. Wie Sie Ihr Profil sauber aufbauen, steht unter <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>.</p>"
+    },
+    {
+      "h2": "Typische Fehler und wie Sie sie vermeiden",
+      "html": "<ul> <li><strong>Textbausteine mit Platzhalter:</strong> Ein Absatz, zwanzig Mal kopiert, Ortsname getauscht. Lieber fünf echte Seiten als zwanzig leere.</li> <li><strong>Erfundene Nähe:</strong> „Ihr Elektriker direkt in Krems“, obwohl der Betrieb vierzig Minuten entfernt ist. Kunden merken das spätestens beim Anruf.</li> <li><strong>Keine Pflege:</strong> Ortsseiten werden einmal angelegt und nie ergänzt. Neue Referenzen sind die einfachste Aktualisierung.</li> <li><strong>Fehlende Verlinkung:</strong> Seiten, die nirgends verlinkt sind, werden schwer gefunden.</li> <li><strong>KI-Massentexte:</strong> Automatisch erzeugte Ortsseiten ohne Prüfung bringen dasselbe Problem wie Kopien.</li> </ul>"
+    },
+    {
+      "h2": "So gehen Sie Schritt für Schritt vor",
+      "html": "<ol> <li>Schreiben Sie die Orte auf, in denen Sie in den letzten zwei Jahren wirklich gearbeitet haben.</li> <li>Markieren Sie die, zu denen Sie Fotos, Referenzen oder Besonderheiten haben.</li> <li>Starten Sie mit drei bis fünf dieser Orte, die übrigen kommen auf die Einzugsgebietsseite.</li> <li>Ergänzen Sie jede Seite, sobald ein neuer Auftrag dort abgeschlossen ist.</li> </ol> <p>Wenn Sie unsicher sind, ob Ihre bestehenden Ortsseiten eher helfen oder schaden, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a> erste Hinweise. Bei der Planung und Umsetzung unterstützt Sie die Leistung <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Ortsseiten sollte meine Website haben?",
+      "a": "So viele, wie Sie mit echtem Inhalt füllen können. Für die meisten kleinen Betriebe sind das wenige Seiten für die wichtigsten Orte und eine Übersichtsseite für das restliche Einzugsgebiet. Jede Ortsseite sollte Referenzen, örtliche Besonderheiten oder konkrete Informationen zur Erreichbarkeit enthalten. Dutzende fast gleiche Seiten mit getauschtem Ortsnamen schaden eher, als dass sie helfen."
+    },
+    {
+      "q": "Was sind Doorway Pages?",
+      "a": "Doorway Pages, auf Deutsch etwa Brückenseiten, sind Seiten, die vor allem für Suchmaschinen gebaut werden, um bei vielen ähnlichen Suchanfragen aufzutauchen, und Besucher dann auf dasselbe Ziel lenken. Ein typisches Beispiel sind viele Ortsseiten mit identischem Text. Google stuft solche Seiten als Verstoß gegen seine Richtlinien ein und kann die Sichtbarkeit der ganzen Website verringern."
+    },
+    {
+      "q": "Darf ich Ortsseiten mit KI schreiben lassen?",
+      "a": "KI kann beim Formulieren helfen, der Inhalt muss aber von Ihnen kommen: echte Aufträge, Fotos, örtliche Besonderheiten und Ihre Erfahrung. Wenn eine KI zwanzig Ortsseiten aus demselben Grundtext erzeugt, entsteht genau das Muster, das Google abwertet. Nutzen Sie KI als Schreibhilfe für Ihre eigenen Stichpunkte und prüfen Sie jede Seite, bevor sie online geht."
+    },
+    {
+      "q": "Brauche ich für jeden Ort ein eigenes Google-Unternehmensprofil?",
+      "a": "Nein. Ein Google-Unternehmensprofil ist nur für Standorte erlaubt, an denen Sie wirklich tätig sind und Kunden empfangen oder von dem aus Sie arbeiten. Für das Einzugsgebiet eines Servicebetriebs tragen Sie im bestehenden Profil die Gebiete ein, die Sie anfahren. Zusätzliche Profile ohne echten Standort verstoßen gegen die Richtlinien und können zur Sperre führen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/lokales-seo/",
+    "/wissen/duplicate-content/",
+    "/wissen/google-unternehmensprofil-optimieren/",
+    "/leistungen/landingpage-erstellen/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "pfad": "/wissen/conversion-verbessern/",
+  "title": "Mehr Anfragen aus denselben Besuchern gewinnen",
+  "description": "Mehr Anfragen aus denselben Besuchern: wie kleine Betriebe Kontaktwege, Texte, Vertrauen und Ladezeit verbessern, damit sich Besucher wirklich melden.",
+  "h1": "Mehr Anfragen aus denselben Besuchern",
+  "kicker": "Ratgeber · Conversion",
+  "lead": "Mehr Anfragen aus denselben Besuchern bekommen Sie, wenn Ihre Website drei Dinge sofort klar macht: was Sie anbieten, warum man Ihnen vertrauen kann und wie man Sie am einfachsten erreicht. Oft bringen kleine Änderungen wie eine sichtbare Telefonnummer, ein kürzeres Formular oder echte Fotos mehr als zusätzliche Besucher.",
+  "fakten": [
+    "Kontaktmöglichkeit auf jeder Seite sichtbar machen",
+    "Formulare kurz halten: nur fragen, was Sie wirklich brauchen",
+    "Echte Fotos und Bewertungen schaffen Vertrauen",
+    "Schnelle Ladezeit am Handy ist Grundvoraussetzung",
+    "Rund um die Uhr erreichbar sein, etwa mit einem Chatbot"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum mehr Besucher nicht die einzige Lösung sind",
+      "html": "<p>Viele Betriebe denken bei „mehr Anfragen“ zuerst an mehr Besucher: Werbung, SEO, Social Media. Das ist sinnvoll, aber teurer und langsamer als ein anderer Hebel: die Besucher, die schon kommen, besser zu überzeugen.</p><p>Der Fachbegriff dafür ist <a href=\"/glossar/conversion/\">Conversion</a>, also der Anteil der Besucher, die etwas Gewünschtes tun – anrufen, ein Formular absenden, reservieren. Steigt dieser Anteil, bekommen Sie mehr Anfragen, ohne mehr Werbung zu bezahlen.</p>"
+    },
+    {
+      "h2": "Die ersten Sekunden: Was oben auf der Seite stehen muss",
+      "html": "<p>Besucher entscheiden schnell, ob sie bleiben. Ganz oben auf der Startseite, ohne Scrollen, sollten drei Dinge stehen:</p><ul><li><strong>Was Sie machen</strong> – in einem klaren Satz, nicht als Slogan. „Badsanierung aus einer Hand im Bezirk Melk“ statt „Wir leben Qualität“.</li><li><strong>Für wen und wo</strong> – Region und Zielgruppe.</li><li><strong>Der nächste Schritt</strong> – ein gut sichtbarer Knopf wie „Jetzt anrufen“ oder „Termin anfragen“.</li></ul><p>Testen Sie es selbst: Zeigen Sie Ihre Startseite am Handy jemandem, der Ihren Betrieb nicht kennt, für fünf Sekunden. Kann er danach sagen, was Sie anbieten? Wenn nicht, liegt hier der erste Ansatzpunkt.</p>"
+    },
+    {
+      "h2": "Kontaktwege einfach machen",
+      "html": "<p>Jede zusätzliche Hürde kostet Anfragen. Prüfen Sie Ihre Website mit dieser Liste:</p><ul><li>Ist die Telefonnummer am Handy antippbar?</li><li>Steht ein Kontakt-Knopf auf jeder Seite, nicht nur auf der Kontaktseite?</li><li>Hat das Formular nur die nötigsten Felder? Name, Telefon oder E-Mail und Anliegen reichen oft.</li><li>Ist klar, was nach dem Absenden passiert – etwa „Wir melden uns innerhalb eines Werktags“?</li><li>Gibt es Alternativen für Menschen, die nicht telefonieren wollen?</li></ul><p>Ein klarer Handlungsaufruf hilft. Wie man ihn formuliert, erklärt der Ratgeber <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</p><p>Ein typisches Beispiel: Ein Installateur hat seine Telefonnummer nur im Impressum stehen. Wer am Handy nach einem Notdienst sucht, findet sie nicht schnell genug und ruft beim Nächsten an. Eine antippbare Nummer ganz oben auf jeder Seite kostet kaum Aufwand und beseitigt genau diese Hürde.</p>"
+    },
+    {
+      "h2": "Vertrauen sichtbar machen",
+      "html": "<p>Wer einen Handwerker, eine Praxis oder ein Gasthaus noch nicht kennt, sucht nach Hinweisen, dass er dort gut aufgehoben ist. Die wirksamsten Vertrauenssignale sind einfach:</p><ul><li>echte Fotos von Team, Betrieb und Arbeiten statt Bildern aus Bilddatenbanken</li><li>Bewertungen und Kundenstimmen, mit Erlaubnis der Kunden</li><li>ein vollständiges Impressum und eine Adresse, die man auf der Karte findet</li><li>konkrete Aussagen zu Ablauf, Dauer und, wo möglich, Preisen</li></ul><p>Vertrauen ist so wichtig, dass ihm ein eigener Ratgeber gewidmet ist: <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a>.</p>"
+    },
+    {
+      "h2": "Technische Bremsen lösen",
+      "html": "<p>Selbst gute Inhalte helfen nicht, wenn die Seite langsam lädt oder am Handy schlecht aussieht. Häufige Bremsen:</p><ul><li>riesige Bilder, die nicht verkleinert wurden</li><li>Texte, die am Handy zu klein sind oder über den Rand laufen</li><li>Pop-ups, die den Inhalt verdecken</li><li>Formulare, die am Handy schwer auszufüllen sind</li></ul><p>Ob Ihre Website technische Probleme hat, zeigt der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a> in wenigen Minuten.</p>"
+    },
+    {
+      "h2": "Erreichbar sein, wenn Kunden Fragen haben",
+      "html": "<p>Viele Besucher haben eine kleine Frage, bevor sie sich melden: Kommen Sie auch nach Gmünd? Haben Sie am Samstag offen? Machen Sie auch kleine Aufträge? Wenn die Antwort nicht auf der Seite steht, gehen sie weiter.</p><p>Zwei Wege helfen: Häufige Fragen auf der Website beantworten und einen Chatbot einsetzen, der rund um die Uhr antwortet. Pipebot etwa antwortet nur mit den Inhalten Ihrer Website, im Design Ihrer Seite, und verbindet bei Unsicherheit mit Ihrem Team. Er kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis. Ausprobieren lässt er sich im <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    },
+    {
+      "h2": "Messen, ändern, wieder messen",
+      "html": "<p>Ändern Sie nicht alles auf einmal. Besser: eine Sache ändern, einige Wochen beobachten, dann die nächste. So wissen Sie, was gewirkt hat.</p><p>Ein typisches Beispiel: Ein Kosmetikstudio ersetzt das Formular mit zwölf Feldern durch eines mit vier und schreibt darunter, wann es zurückruft. In der Statistik ist danach zu sehen, ob mehr Anfragen kommen. Wie Sie solche Zahlen lesen, steht im Ratgeber zur Website-Statistik. Wenn Sie Ihre Website lieber grundlegend neu aufstellen möchten, ist der <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a> ein guter erster Eindruck.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine gute Conversion-Rate für eine kleine Website?",
+      "a": "Eine allgemein gültige Zahl gibt es nicht, weil Branche, Angebot und Art der Besucher sehr unterschiedlich sind. Sinnvoller als ein Vergleich mit anderen ist der Vergleich mit sich selbst: Wie viele Anfragen kamen im Vormonat, wie viele nach einer Änderung? Wenn der Anteil der Besucher, die sich melden, steigt, sind Sie auf dem richtigen Weg."
+    },
+    {
+      "q": "Was bringt am schnellsten mehr Anfragen über die Website?",
+      "a": "Am schnellsten wirken meist einfache Änderungen: eine am Handy antippbare Telefonnummer, ein Kontakt-Knopf auf jeder Seite, ein kürzeres Formular und ein klarer Satz oben auf der Startseite, was Sie anbieten und wo. Diese Punkte kosten wenig Aufwand und beseitigen Hürden, an denen viele Besucher sonst abspringen."
+    },
+    {
+      "q": "Hilft ein Chatbot wirklich, mehr Anfragen zu bekommen?",
+      "a": "Ein Chatbot hilft vor allem, wenn Besucher vor der Anfrage typische Fragen haben, etwa zu Öffnungszeiten, Einzugsgebiet oder Ablauf, und Sie nicht immer erreichbar sind. Er beantwortet diese Fragen sofort, auch abends und am Wochenende. Wichtig ist, dass er nur mit Ihren Inhalten antwortet und bei Unsicherheit an Ihr Team weiterleitet."
+    },
+    {
+      "q": "Sollte ich lieber in mehr Besucher oder in eine bessere Website investieren?",
+      "a": "Wenn Ihre Website bisher kaum Anfragen bringt, lohnt es sich meist zuerst, sie zu verbessern. Mehr Besucher auf eine Seite zu holen, die nicht überzeugt, verstärkt nur den Verlust. Sobald die Website Besucher zuverlässig in Anfragen verwandelt, bringt jede zusätzliche Sichtbarkeit über SEO, Google-Profil oder Werbung entsprechend mehr."
+    }
+  ],
+  "verwandt": [
+    "/wissen/call-to-action/",
+    "/wissen/vertrauen-online/",
+    "/wissen/website-statistik-lesen/",
+    "/leistungen/ki-chatbot/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": ["chatbot-test", "seo-check"]
+}

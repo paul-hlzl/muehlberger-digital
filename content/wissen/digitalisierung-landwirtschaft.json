@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/digitalisierung-landwirtschaft/",
+  "title": "Digitalisierung in der Landwirtschaft: Überblick",
+  "description": "Digitalisierung in der Landwirtschaft: Direktvermarktung online, Hofladen, Bestellungen, Büro und Betriebsführung – was kleine Höfe in Österreich wirklich brauchen.",
+  "h1": "Digitalisierung in der Landwirtschaft",
+  "kicker": "Ratgeber · Landwirtschaft",
+  "lead": "Für kleine und mittlere Höfe bringt die Digitalisierung in der Landwirtschaft den größten Nutzen oft abseits von Feld und Stall: bei der Direktvermarktung, bei Bestellungen und Abholung, beim Büro und bei der Erreichbarkeit. Technik auf dem Feld wie Lenksysteme oder Herdenmanagement ist ein eigenes Thema. Wer Produkte ab Hof verkauft, Gäste beherbergt oder Kurse anbietet, gewinnt mit Website, Google-Profil und einfachen Bestellwegen am schnellsten.",
+  "fakten": [
+    "Zwei Bereiche: Produktion (Feld, Stall, Maschinen) und Vermarktung, Büro und Kundenkontakt",
+    "Direktvermarkter profitieren am meisten von Online-Sichtbarkeit und Vorbestellung",
+    "Öffnungszeiten von Hofläden und Automaten müssen online stimmen",
+    "Büroarbeit wie Belege, Anträge und Aufzeichnungen lässt sich digital vereinfachen",
+    "Klein starten: ein gepflegtes Google-Profil wirkt oft mehr als eine aufwendige App"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Seiten der Digitalisierung am Hof",
+      "html": "<p>Wenn von Digitalisierung in der Landwirtschaft die Rede ist, denken viele an Traktoren mit GPS, Sensoren im Stall oder Drohnen. Diese Technik gibt es, sie wird meist über Maschinenhersteller, Händler und landwirtschaftliche Beratung angeboten und lohnt sich vor allem ab einer bestimmten Betriebsgröße.</p><p>Die zweite Seite betrifft fast jeden Hof: Wie finden Kunden Ihre Produkte? Wie kommen Bestellungen herein? Wie viel Zeit kostet das Büro? Hier setzt dieser Ratgeber an. Gerade für Familienbetriebe mit Direktvermarktung, Ab-Hof-Verkauf, Urlaub am Bauernhof oder Kursangeboten sind diese Bausteine oft der schnellere Gewinn. Branchenspezifisches finden Sie auch auf der Seite <a href=\"/branchen/landwirtschaft/\">Landwirtschaft</a>.</p>"
+    },
+    {
+      "h2": "Direktvermarktung: Gefunden werden und verkaufen",
+      "html": "<p>Wer ab Hof verkauft, lebt davon, dass Kunden wissen, was es wann gibt. Ein Schild an der Straße reicht dafür nicht mehr, gesucht wird am Handy: „Hofladen in der Nähe“, „Eier ab Hof“, „Rindfleisch kaufen Waldviertel“.</p><ul><li><strong>Google-Unternehmensprofil</strong> mit Öffnungszeiten, Fotos, Sortiment und Wegbeschreibung</li><li><strong>Einfache Website</strong> mit Produkten, Saisonkalender, Preisen oder Preisrahmen und Kontakt</li><li><strong>Vorbestellung</strong> für Fleischpakete, Weihnachtsgänse oder Gemüsekisten statt Telefonliste</li><li><strong>Hinweis auf Selbstbedienung und Automaten</strong> mit Standort und Bezahlmöglichkeiten</li><li><strong>Newsletter oder WhatsApp-Kanal</strong> für Stammkunden, wenn frische Ware da ist</li></ul><p>Ein Beispiel: Ein Hof verkauft dreimal im Jahr Rindfleischpakete. Statt hundert Anrufe zu notieren, nimmt ein Online-Formular Bestellungen mit Paketgröße und Abholtermin auf, die Bestätigung kommt automatisch. Mehr dazu unter <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Onlineshop für Hofprodukte: Wann er sich lohnt",
+      "html": "<p>Ein vollständiger Onlineshop mit Versand ist für viele Höfe zu viel. Frische und gekühlte Ware stellt besondere Anforderungen an Verpackung und Zustellung, und der laufende Aufwand für Versand ist hoch. Sinnvoll ist er vor allem für haltbare Produkte wie Säfte, Most, Nudeln, Öle, Honig, Marmeladen oder Geschenkkörbe.</p><p>Oft reicht eine Zwischenlösung:</p><ul><li>Online bestellen, im Hofladen oder an einem Abholpunkt abholen</li><li>Zustellung in die umliegenden Orte an einem festen Wochentag</li><li>Gutscheine online verkaufen, die im Hofladen eingelöst werden</li></ul><p>Für alle Varianten gelten Regeln zu Lebensmittelkennzeichnung und Hygiene. Als Orientierung helfen die Landwirtschaftskammer und für den Onlinehandel die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p>"
+    },
+    {
+      "h2": "Büro und Betriebsführung vereinfachen",
+      "html": "<p>Neben der Arbeit draußen wartet am Hof viel Papier: Belege, Aufzeichnungen, Anträge, Lieferscheine, Abrechnungen. Vieles davon läuft bereits digital, etwa Anträge über das Online-Portal eAMA. Den Rest können Sie Schritt für Schritt vereinfachen:</p><ul><li><strong>Belege fotografieren</strong> und digital ablegen, für Steuerberatung oder Buchstelle</li><li><strong>Aufzeichnungen</strong> wie Feldarbeiten oder Tierbestände in passenden Apps statt Heften</li><li><strong>Gemeinsamer Kalender</strong> für Familie und Mitarbeitende, mit Liefer- und Abholterminen</li><li><strong>Rechnungen</strong> für Gastronomie- oder Händlerkunden aus Vorlagen erstellen</li><li><strong>Datensicherung</strong> nicht vergessen: Wenn der Hof-PC ausfällt, sollen die Unterlagen nicht weg sein</li></ul><p>Wie Sie die Grundlagen absichern, erklärt der Beitrag <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Urlaub am Hof, Kurse und Veranstaltungen",
+      "html": "<p>Viele Höfe haben ein zweites Standbein: Ferienwohnungen, Hofführungen, Kochkurse, Schule am Bauernhof oder Hoffeste. Hier ist Online-Sichtbarkeit noch wichtiger, weil Gäste von weiter weg kommen und vorher buchen wollen.</p><ul><li>Verfügbarkeiten und Preise der Unterkunft aktuell halten, Direktbuchung ermöglichen</li><li>Kurse und Termine mit Online-Anmeldung und Teilnehmerlimit</li><li>Fotos, die den echten Hof zeigen: Tiere, Landschaft, Zimmer, Familie</li><li>Häufige Fragen wie Anreise, Haustiere oder Frühstück auf der Website beantworten</li></ul><p>Ein <a href=\"https://pipebot.at/\">Chatbot wie Pipebot</a> beantwortet solche Fragen rund um die Uhr, nur mit den Infos, die Sie hinterlegt haben. Das spart abends Telefonate, wenn im Stall noch Arbeit wartet.</p>"
+    },
+    {
+      "h2": "Social Media vom Hof: Echt statt perfekt",
+      "html": "<p>Kaum ein Bereich eignet sich so gut für Social Media wie die Landwirtschaft. Menschen interessieren sich dafür, woher ihre Lebensmittel kommen: Ernte, Kälber, Heuarbeit, Hofladen am Samstag. Perfekte Fotos braucht es nicht, ehrliche Einblicke wirken mehr.</p><p>Das Problem ist meist die Zeit. Ein realistischer Rhythmus sind ein bis zwei Beiträge pro Woche. Mit <a href=\"https://pipeflow.at/\">Pipeflow</a> entstehen aus Ihrer Website wöchentlich fertige Beiträge mit Bild, Sie geben nur frei. Ideen und Rhythmus behandelt der Beitrag <a href=\"/wissen/social-media-kleine-betriebe/\">Social Media für kleine Betriebe</a>. Wenn Sie wissen wollen, welche Bausteine für Ihren Hof sinnvoll sind, sprechen wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> darüber, gern auch am Abend nach der Stallarbeit.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bringt Digitalisierung einem kleinen landwirtschaftlichen Betrieb?",
+      "a": "Am meisten bringt sie oft bei Vermarktung und Büro. Kunden finden Hofladen und Produkte online, Bestellungen kommen strukturiert herein, und Belege oder Aufzeichnungen sind schneller erledigt. Das spart Telefonate und Papierkram. Technik für Feld und Stall kann zusätzlich sinnvoll sein, lohnt sich aber meist erst ab einer gewissen Betriebsgröße und wird über Fachhandel und Beratung geplant."
+    },
+    {
+      "q": "Braucht ein Hofladen eine eigene Website?",
+      "a": "Eine einfache Website ist sinnvoll, weil sie Sortiment, Saison, Öffnungszeiten, Anfahrt und Kontakt an einem Ort zeigt und bei Google gefunden wird. Mindestens genauso wichtig ist ein gepflegtes Google-Unternehmensprofil. Für den Anfang genügen wenige Seiten. Eine Starter-Website mit bis zu fünf Seiten gibt es bei uns ab 2.500 € einmalig."
+    },
+    {
+      "q": "Kann ich Fleisch und frische Produkte online verkaufen?",
+      "a": "Grundsätzlich ja, aber mit Aufwand. Für Frischware gelten strenge Regeln zu Kühlung, Verpackung, Kennzeichnung und Hygiene, und der Versand ist teuer. Viele Höfe lösen das mit Online-Vorbestellung und Abholung am Hof oder einer eigenen Zustellung in die Umgebung. Lassen Sie sich zu den Vorschriften von Landwirtschafts- oder Wirtschaftskammer beraten."
+    },
+    {
+      "q": "Wie viel Zeit kostet Social Media für einen Hof?",
+      "a": "Mit einem festen Rhythmus von ein bis zwei Beiträgen pro Woche bleibt der Aufwand überschaubar, etwa ein Foto beim Füttern und ein kurzer Text. Wer gar keine Zeit hat, kann sich Beiträge vorbereiten lassen, etwa mit Pipeflow, das aus der Website fertige Beiträge erstellt, die nur noch freigegeben werden. Wichtiger als Häufigkeit ist Regelmäßigkeit."
+    }
+  ],
+  "verwandt": ["/branchen/landwirtschaft/", "/branchen/hofladen/", "/wissen/regionale-produkte-online/", "/wissen/laendlicher-raum/", "/wissen/gutscheine-online/"],
+  "checks": ["website-entwurf", "social-media-test"]
+}

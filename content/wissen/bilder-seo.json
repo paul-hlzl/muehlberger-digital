@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/bilder-seo/",
+  "title": "Bilder-SEO und Alt-Texte: Fotos richtig optimieren",
+  "description": "Bilder-SEO für kleine Betriebe: wie Sie Alt-Texte schreiben, Dateinamen wählen und Fotos verkleinern, damit Google sie findet und die Seite schnell bleibt.",
+  "h1": "Bilder-SEO und Alt-Texte",
+  "kicker": "Ratgeber · SEO",
+  "lead": "Bilder-SEO heißt, Fotos so einzubinden, dass Suchmaschinen verstehen, was sie zeigen, und dass sie die Website nicht verlangsamen. Die wichtigsten Hebel sind ein kurzer, beschreibender Alt-Text, ein sprechender Dateiname, eine passende Dateigröße und ein moderner Dateityp.",
+  "fakten": [
+    "Der Alt-Text beschreibt in einem Satz, was auf dem Bild zu sehen ist",
+    "Alt-Texte helfen Suchmaschinen und Menschen, die einen Screenreader nutzen",
+    "Zu große Bilddateien sind eine der häufigsten Ursachen für langsame Websites",
+    "Moderne Formate wie WebP oder AVIF sparen oft viel Datenmenge",
+    "Eigene Fotos wirken glaubwürdiger als Stockbilder und haben keine fremden Rechte"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Bilder für die Suche zählen",
+      "html": "<p>Für viele Betriebe sind Fotos das stärkste Argument: das fertige Bad, die frisch gedeckte Gaststube, der neue Dachstuhl. Suchmaschinen können Bilder inzwischen recht gut erkennen, sie verlassen sich aber weiterhin stark auf den Text rundherum. Gut beschriftete Bilder erscheinen in der Google-Bildersuche und unterstützen die Seite, auf der sie stehen.</p> <p>Dazu kommt die Geschwindigkeit: Ein unbearbeitetes Handyfoto hat oft mehrere Megabyte. Davon zehn auf einer Seite, und das Smartphone lädt und lädt. Langsame Seiten verlieren Besucher, bevor diese überhaupt etwas gesehen haben.</p>"
+    },
+    {
+      "h2": "Alt-Texte richtig schreiben",
+      "html": "<p>Der Alt-Text (Alternativtext) ist eine kurze Bildbeschreibung im Code. Ein Screenreader liest ihn blinden Menschen vor, und er erscheint, wenn das Bild nicht lädt. Damit ist er auch ein Baustein der <a href=\"/wissen/barrierefreie-website/\">barrierefreien Website</a>.</p> <ul> <li><strong>Beschreiben, was zu sehen ist:</strong> „Neu verfliestes Badezimmer mit bodengleicher Dusche“ statt „Bild1“.</li> <li><strong>Kurz bleiben:</strong> ein Satz, selten mehr als 120 Zeichen.</li> <li><strong>Ort nur, wenn er stimmt:</strong> „Dachsanierung eines Bauernhauses bei Zwettl“ ist gut, wenn das Foto wirklich dort entstand.</li> <li><strong>Keine Wortlisten:</strong> „Fliesenleger Fliesen Bad Dusche billig“ hilft niemandem.</li> <li><strong>Dekoration leer lassen:</strong> Reine Schmuckgrafiken bekommen einen leeren Alt-Text, damit Screenreader sie überspringen.</li> </ul>"
+    },
+    {
+      "h2": "Dateinamen, Bildunterschrift und Umfeld",
+      "html": "<p>Neben dem Alt-Text helfen weitere Signale, ein Bild einzuordnen:</p> <ul> <li><strong>Dateiname:</strong> „holzterrasse-laerche.jpg“ sagt mehr als „IMG_4711.jpg“. Kleinbuchstaben, Bindestriche, keine Umlaute.</li> <li><strong>Bildunterschrift:</strong> Sie wird von Besuchern tatsächlich gelesen und kann Zusatzinfos tragen, etwa „Fertiggestellt im Frühjahr, Bauzeit drei Wochen“.</li> <li><strong>Umgebender Text:</strong> Ein Bild der Hochzeitstorte gehört in den Abschnitt über Torten, nicht irgendwohin.</li> <li><strong>Seitentitel:</strong> Passt das Bild zum Thema der Seite, verstärken sich beide gegenseitig.</li> </ul>"
+    },
+    {
+      "h2": "Bilder klein und schnell machen",
+      "html": "<p>Die Faustregel: Ein Bild sollte nicht größer gespeichert sein, als es angezeigt wird. Ein Foto, das in voller Breite erscheint, braucht selten mehr als rund 2.000 Pixel Breite; ein kleines Vorschaubild deutlich weniger.</p> <ol> <li><strong>Zuschneiden und verkleinern</strong>, bevor das Bild hochgeladen wird.</li> <li><strong>Komprimieren:</strong> Kostenlose Programme reduzieren die Dateigröße stark, ohne dass man es sieht.</li> <li><strong>Moderne Formate</strong> wie WebP oder AVIF verwenden, die viele Systeme automatisch erzeugen.</li> <li><strong>Lazy Loading:</strong> Bilder weiter unten werden erst geladen, wenn jemand hinscrollt.</li> <li><strong>Größe im Code angeben</strong>, damit die Seite beim Laden nicht springt.</li> </ol> <p>Mehr zur Geschwindigkeit lesen Sie unter <a href=\"/wissen/website-ladezeit-verbessern/\">Website-Ladezeit verbessern</a>.</p>"
+    },
+    {
+      "h2": "Eigene Fotos statt Stockbilder",
+      "html": "<p>Stockfotos sind schnell gekauft, aber dasselbe lächelnde Team sieht man auf hunderten Websites. Für Kunden und auch für KI-Suchen, die echte Belege für Erfahrung suchen, sind eigene Fotos überzeugender. Ein Malerbetrieb, der Vorher-nachher-Bilder echter Aufträge zeigt, beweist mehr als jeder Werbesatz.</p> <p>Achten Sie dabei auf Rechte: Personen auf Fotos sollten einverstanden sein, und Bilder aus dem Internet dürfen Sie nicht einfach übernehmen. Grundlagen dazu finden Sie unter <a href=\"/wissen/bildrechte/\">Bildrechte auf der Website</a>, Tipps zum Fotografieren unter <a href=\"/wissen/website-fotos/\">Fotos für die Firmenwebsite</a>.</p>"
+    },
+    {
+      "h2": "Checkliste für jedes neue Bild",
+      "html": "<ul> <li>Ist das Bild eigen oder sind die Rechte geklärt?</li> <li>Ist es auf die Anzeigegröße zugeschnitten und komprimiert?</li> <li>Hat die Datei einen sprechenden Namen ohne Umlaute?</li> <li>Beschreibt der Alt-Text in einem Satz, was zu sehen ist?</li> <li>Steht das Bild bei passendem Text?</li> <li>Lädt die Seite auf dem Handy auch im Mobilnetz noch flott?</li> </ul> <p>Wenn Sie wissen möchten, ob Ihre Website bei Bildern und Ladezeit Schwächen hat, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a> die größten Baustellen. Bei einer neuen Website von Mühlberger Digital werden Bilder automatisch in passenden Größen und modernen Formaten ausgeliefert.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist ein Alt-Text?",
+      "a": "Ein Alt-Text ist eine kurze Beschreibung eines Bildes, die im Code der Website hinterlegt ist. Screenreader lesen sie blinden und sehbehinderten Menschen vor, Browser zeigen sie an, wenn das Bild nicht lädt, und Suchmaschinen nutzen sie, um den Inhalt des Bildes zu verstehen. Ein guter Alt-Text beschreibt in einem Satz sachlich, was auf dem Foto zu sehen ist."
+    },
+    {
+      "q": "Soll ich Suchbegriffe in den Alt-Text schreiben?",
+      "a": "Ja, aber nur, wenn sie das Bild tatsächlich beschreiben. „Holzterrasse aus Lärche an einem Einfamilienhaus“ ist für eine Zimmerei sinnvoll und natürlich. Aneinandergereihte Suchbegriffe ohne Bezug zum Bild bringen keinen Vorteil, stören Menschen mit Screenreader und können von Google als Manipulationsversuch gewertet werden. Schreiben Sie zuerst für Menschen, dann passt es auch für die Suche."
+    },
+    {
+      "q": "Welches Bildformat ist für Websites am besten?",
+      "a": "Für Fotos sind WebP und AVIF heute meist die beste Wahl, weil sie bei gleicher Qualität deutlich kleinere Dateien erzeugen als JPG. Für Logos und Grafiken mit klaren Flächen eignet sich SVG oder PNG. Viele moderne Websites und Plugins wandeln hochgeladene Bilder automatisch um. Entscheidender als das Format ist, dass die Bilder auf die tatsächliche Anzeigegröße verkleinert werden."
+    },
+    {
+      "q": "Wie viele Bilder sollte eine Seite haben?",
+      "a": "Eine feste Zahl gibt es nicht. Entscheidend ist, ob jedes Bild etwas zeigt, das dem Besucher hilft: eine Referenz, das Team, den Betrieb, ein Produkt. Ein Handwerksbetrieb kann auf einer Leistungsseite gut fünf bis zehn Projektfotos zeigen, wenn sie komprimiert sind und erst beim Scrollen laden. Zehn fast gleiche Bilder bringen dagegen nur Ladezeit, keinen Mehrwert."
+    },
+    {
+      "q": "Muss ich alte Bilder auf meiner Website nachträglich bearbeiten?",
+      "a": "Es lohnt sich, mit den wichtigsten Seiten anzufangen: Startseite, Leistungsseiten und Kontakt. Prüfen Sie dort, ob Bilder sehr groß sind, und ergänzen Sie fehlende Alt-Texte. Bei vielen Systemen lassen sich Alt-Texte in der Mediathek gesammelt nachtragen, und Plugins können bestehende Bilder nachträglich komprimieren. Ältere Blogbeiträge mit wenigen Besuchern können warten, bis Zeit dafür ist."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-fotos/",
+    "/wissen/website-ladezeit-verbessern/",
+    "/wissen/barrierefreie-website/",
+    "/wissen/bildrechte/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

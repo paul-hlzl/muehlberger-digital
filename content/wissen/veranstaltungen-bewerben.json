@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/veranstaltungen-bewerben/",
+  "title": "Veranstaltungen online bewerben: Plan und Checkliste",
+  "description": "Veranstaltungen online bewerben: mit eigener Eventseite, Google, Social Media und Newsletter Besucher gewinnen – mit Zeitplan und Checkliste für kleine Betriebe.",
+  "h1": "Veranstaltungen online bewerben",
+  "kicker": "Ratgeber · Marketing",
+  "lead": "Veranstaltungen bewerben Sie online am besten mit einer eigenen Seite auf Ihrer Website, die alle Fragen beantwortet, und verteilen den Link dann über Google-Profil, Social Media, Newsletter und Veranstaltungskalender. Beginnen Sie einige Wochen vorher und erinnern Sie kurz vor dem Termin noch einmal. Wer anmelden lässt, plant sicherer.",
+  "fakten": [
+    "Eine eigene Eventseite ist das Herzstück jeder Bewerbung",
+    "Datum, Uhrzeit, Ort, Preis und Anmeldung gehören ganz nach oben",
+    "Mehrmals bewerben: Ankündigung, Erinnerung, letzter Aufruf",
+    "Nach der Veranstaltung Fotos und Dank teilen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die eigene Veranstaltungsseite als Grundlage",
+      "html": "<p>Ob Weinverkostung, Tag der offenen Tür, Vereinsfest, Kochkurs oder Vortrag: Jede Veranstaltung braucht eine Seite, auf die alle Kanäle verweisen. Ein Social-Media-Beitrag allein reicht nicht, weil er schnell untergeht und nicht alle Menschen die Plattform nutzen.</p><p>Auf diese Seite gehört ganz oben: was, wann, wo, für wen, was es kostet und wie man sich anmeldet. Darunter folgen Details wie Programm, Anfahrt, Parken, Barrierefreiheit und was mitzubringen ist. Ein Foto von der letzten Veranstaltung wirkt oft mehr als jedes Plakat.</p>"
+    },
+    {
+      "h2": "Checkliste für die Veranstaltungsseite",
+      "html": "<ul><li>aussagekräftiger Titel: „Weinverkostung am Hof – Jungweinpräsentation“ statt „Event“</li><li>Datum mit Wochentag und Uhrzeit von–bis</li><li>genaue Adresse mit Link zur Karte</li><li>Eintritt oder „Eintritt frei“</li><li>Anmeldung: Formular, Telefon oder E-Mail, mit Frist</li><li>Programm oder Ablauf in Stichpunkten</li><li>Hinweise zu Parken, Öffis, Kinder, Hunde, Barrierefreiheit</li><li>Ansprechperson für Fragen</li><li>Was bei Schlechtwetter passiert</li></ul><p>Technisch hilfreich: Mit sogenannten strukturierten Daten kann Google die Veranstaltung als Termin erkennen. Wie das funktioniert, erklärt der Ratgeber <a href=\"/wissen/strukturierte-daten/\">Strukturierte Daten</a>.</p>"
+    },
+    {
+      "h2": "Ein Zeitplan, der funktioniert",
+      "html": "<p>Eine einzelne Ankündigung reicht selten. Bewährt hat sich ein Rhythmus in mehreren Stufen:</p><ul><li><strong>Einige Wochen vorher:</strong> Seite online stellen, in Veranstaltungskalender eintragen, erste Ankündigung auf Social Media und im Newsletter.</li><li><strong>Zwei Wochen vorher:</strong> Beitrag mit Details, etwa Programm oder Vorstellung der Mitwirkenden.</li><li><strong>Eine Woche vorher:</strong> Erinnerung und Hinweis auf Anmeldefrist.</li><li><strong>Ein, zwei Tage vorher:</strong> letzter Aufruf, Wetter, Anfahrt.</li><li><strong>Danach:</strong> Danke und Fotos teilen, Termin für das nächste Mal ankündigen.</li></ul><p>Größere Veranstaltungen wie Hochzeitsmessen oder Firmenjubiläen brauchen mehr Vorlauf, kleine Abendveranstaltungen eher weniger.</p><p>Wichtig ist, dass jede Stufe einen neuen Anlass liefert. Wer dreimal denselben Text postet, wird überlesen. Besser: zuerst das Datum, dann ein Blick auf das Programm, dann ein Foto von den Vorbereitungen und zuletzt ein Hinweis auf die letzten freien Plätze. So bleibt die Veranstaltung im Gespräch, ohne zu nerven.</p>"
+    },
+    {
+      "h2": "Die richtigen Kanäle",
+      "html": "<ul><li><strong>Google-Unternehmensprofil:</strong> Dort können Sie Beiträge zu Veranstaltungen veröffentlichen, die bei der Suche nach Ihrem Betrieb erscheinen.</li><li><strong>Social Media:</strong> Facebook für Veranstaltungen in der Region, Instagram für Bilder, LinkedIn für Fachvorträge und Firmenevents.</li><li><strong>Newsletter:</strong> für Stammkunden der verlässlichste Kanal.</li><li><strong>Veranstaltungskalender:</strong> von Gemeinde, Region oder Tourismusverband, falls vorhanden.</li><li><strong>WhatsApp:</strong> für bestehende Gruppen oder Kanäle, wenn Ihre Kunden das wünschen.</li><li><strong>Offline:</strong> Plakat oder Flyer mit QR-Code zur Veranstaltungsseite.</li></ul><p>Welcher Social-Media-Kanal zu Ihnen passt, beschreibt der Ratgeber <a href=\"/wissen/social-media-kleine-betriebe/\">Social Media für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Anmeldung und Organisation",
+      "html": "<p>Eine Anmeldung hilft bei der Planung von Essen, Plätzen und Personal. Ein einfaches Formular mit Name, Anzahl der Personen und Kontaktmöglichkeit genügt oft. Senden Sie nach der Anmeldung automatisch eine Bestätigung mit allen Details und, wenn möglich, eine Erinnerung kurz vorher.</p><p>Achten Sie beim Formular auf den Datenschutz: nur abfragen, was nötig ist, und Daten nach der Veranstaltung nicht ungefragt für Werbung nutzen. Hinweise dazu stehen im Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a>. Wer Fotos von Gästen veröffentlichen will, sollte vorab darauf hinweisen und bei erkennbaren Personen um Zustimmung bitten.</p>"
+    },
+    {
+      "h2": "Beispiele aus dem Alltag",
+      "html": "<p>Ein Weingut plant eine Jungweinpräsentation. Es stellt die Seite einige Wochen vorher online, trägt den Termin in den regionalen Kalender ein und schickt einen Newsletter. In der Woche davor teilt es Fotos der Weine auf Instagram, am Tag davor einen Hinweis auf Parkmöglichkeiten.</p><p>Eine Physiotherapiepraxis lädt zu einem Vortrag über Rückengesundheit. Sie nutzt Facebook und das Google-Profil, legt Flyer im Wartezimmer auf und begrenzt die Plätze über eine Anmeldung.</p><p>Ein Verein bewirbt sein Sommerfest über Social Media und die Gemeindezeitung. Mehr Tipps für Vereine finden Sie auf der Seite für <a href=\"/branchen/vereine/\">Vereine</a>.</p>"
+    },
+    {
+      "h2": "Weniger Aufwand bei regelmäßigen Veranstaltungen",
+      "html": "<p>Wer regelmäßig Veranstaltungen macht, etwa Kurse, Verkostungen oder Stammtische, kann viel Arbeit sparen. Eine Vorlage für die Veranstaltungsseite, fertige Textbausteine für die Ankündigungen und ein fixer Rhythmus helfen bereits.</p><p>Noch einfacher wird es mit Pipeflow: Aus den Inhalten Ihrer Website entstehen jede Woche fertige Social-Media-Beiträge mit Bild für Instagram oder LinkedIn, die Sie nur freigeben. In der Pilotphase ist das kostenlos. Wie Ihr aktueller Auftritt dasteht, zeigt der <a href=\"/gratis-check/social-media-test/\">Social-Media-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie früh sollte ich eine Veranstaltung online bewerben?",
+      "a": "Für kleinere Veranstaltungen in der Region reichen meist einige Wochen Vorlauf. Größere Veranstaltungen oder solche, für die Gäste anreisen, brauchen mehr Zeit. Wichtiger als der genaue Zeitpunkt ist, mehrmals zu bewerben: eine erste Ankündigung, Details einige Tage später, eine Erinnerung eine Woche vorher und ein letzter Aufruf kurz vor dem Termin."
+    },
+    {
+      "q": "Reicht ein Facebook-Event, um eine Veranstaltung zu bewerben?",
+      "a": "Als alleiniger Kanal meist nicht. Nicht alle Ihre Gäste nutzen Facebook, und Beiträge gehen schnell unter. Besser ist eine eigene Veranstaltungsseite auf Ihrer Website mit allen Informationen, auf die Sie von Facebook, Instagram, Google-Profil, Newsletter und Plakaten verweisen. So finden Interessierte die Details auch über die Google-Suche."
+    },
+    {
+      "q": "Was gehört auf eine Veranstaltungsseite?",
+      "a": "Ganz oben stehen Titel, Datum mit Wochentag, Uhrzeit, Ort mit Kartenlink, Preis und die Art der Anmeldung. Darunter folgen Programm, Hinweise zu Parken, öffentlicher Anreise, Barrierefreiheit, Kindern und Haustieren, eine Ansprechperson und was bei Schlechtwetter passiert. Ein Foto von einer früheren Veranstaltung macht die Seite anschaulicher und weckt Vorfreude."
+    },
+    {
+      "q": "Darf ich Fotos von Veranstaltungsgästen veröffentlichen?",
+      "a": "Bei Fotos, auf denen Personen erkennbar sind, sollten Sie vorsichtig sein. Weisen Sie schon in der Einladung und vor Ort darauf hin, dass fotografiert wird, und holen Sie bei erkennbaren Einzelpersonen und besonders bei Kindern eine Zustimmung ein. Im Zweifel nutzen Sie Übersichtsbilder ohne erkennbare Gesichter. Rechtliche Details klären Sie mit WKO, Anwalt oder Datenschutzbehörde."
+    }
+  ],
+  "verwandt": [
+    "/wissen/strukturierte-daten/",
+    "/wissen/social-media-kleine-betriebe/",
+    "/wissen/redaktionsplan/",
+    "/branchen/vereine/",
+    "/gratis-check/social-media-test/"
+  ],
+  "checks": ["social-media-test"]
+}

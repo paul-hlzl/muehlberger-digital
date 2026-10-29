@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/weinviertel/",
+  "title": "SEO im Weinviertel: Heurige, Weingüter und Handwerk",
+  "description": "SEO für Betriebe im Weinviertel: wie Heurige, Weingüter und Handwerk mit aktuellen Infos, Veranstaltungen und klaren Seiten online besser gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) im Weinviertel",
+  "kicker": "SEO · Weinviertel",
+  "lead": "Im Weinviertel ist die häufigste Frage vieler Gäste ganz einfach: Wann ist ausg'steckt? Wer diese Frage online verlässlich beantwortet, gewinnt Besuche. SEO im Weinviertel bedeutet für Heurige vor allem Aktualität, für Weingüter Sichtbarkeit über die Region hinaus und für Handwerk ein klares Einzugsgebiet in einer ländlichen Gegend.",
+  "fakten": [
+    "Das Weinviertel im Nordosten Niederösterreichs ist bekannt für Weinbau und Kellergassen",
+    "Heurige mit wechselnden Öffnungszeiten brauchen aktuelle Angaben online",
+    "Weingüter verkaufen oft auch an Kundschaft in Wien und darüber hinaus",
+    "Veranstaltungen wie Kellergassenfeste lassen sich online gut bewerben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "„Wann ist ausg'steckt?“ – die wichtigste Frage",
+      "html": "<p>Heurige haben oft nur zu bestimmten Zeiten im Jahr geöffnet. Gäste suchen deshalb gezielt danach, wer gerade ausg'steckt hat. Wer seine Termine nur auf einem Zettel am Hoftor oder in einer Gemeindezeitung veröffentlicht, wird online nicht gefunden.</p><p>Tragen Sie die Öffnungszeiten im Google-Unternehmensprofil ein, auch als Sonderzeiten, und zeigen Sie sie gut sichtbar auf der Startseite. Weitere Ideen auf der Branchenseite <a href=\"/branchen/heuriger/\">Heuriger</a>. Wie das in eine gesamte <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> passt, steht auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Weingüter: über die Region hinaus gefunden werden",
+      "html": "<p>Ein Weingut verkauft ab Hof, an Gastronomie und oft auch an Privatkunden in Wien und anderen Bundesländern. Für diese Kundschaft zählen Weinbeschreibungen, Preise, Versand und eine einfache Bestellmöglichkeit.</p><ul><li>Eine eigene Seite pro Wein oder Linie, mit Beschreibung und Speiseempfehlung</li><li>Klare Angaben zu Ab-Hof-Verkauf und Verkostungen</li><li>Informationen zu Versand und Mindestmengen</li></ul><p>Mehr Ideen auf der Branchenseite <a href=\"/branchen/weingut/\">Weingut</a>.</p>"
+    },
+    {
+      "h2": "Kellergassenfeste und Veranstaltungen",
+      "html": "<p>Viele Weinviertler Betriebe sind Teil von Festen, Weinwanderungen oder offenen Kellern. Solche Veranstaltungen werden gezielt gesucht, oft einige Wochen vorher. Eine eigene Veranstaltungsseite und Beiträge im Google-Profil helfen, sie sichtbar zu machen. Wie das geht, erklärt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a>.</p>"
+    },
+    {
+      "h2": "Nicht nur Wein: Handwerk im Weinviertel",
+      "html": "<p>Ein Elektriker, eine Physiotherapeutin oder ein Baumeister im Weinviertel arbeitet oft für Kundschaft aus vielen kleinen Gemeinden. Hier zählen ein vollständiges <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a>, klare Leistungsseiten und echte Bewertungen. Ein Baumeister, der alte Presshäuser und Kellergebäude saniert, sollte genau solche Projekte mit Fotos zeigen, denn danach wird in der Region gezielt gesucht.</p><p>Wie oft KI-Assistenten Ihren Betrieb empfehlen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>. Mehr zur Region auf der Seite <a href=\"/regionen/weinviertel/\">Weinviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie trage ich wechselnde Heurigen-Öffnungszeiten richtig ein?",
+      "a": "Im Google-Unternehmensprofil können Sie neben regulären Zeiten auch Sonderöffnungszeiten für einzelne Tage eintragen. Für Heurige mit wenigen Öffnungswochen im Jahr ist das der beste Weg. Zusätzlich sollten die Termine auf der Website stehen, gut sichtbar und für das ganze Jahr. Ein kurzer Beitrag im Profil zu Beginn jeder Öffnungszeit macht zusätzlich darauf aufmerksam."
+    },
+    {
+      "q": "Lohnt sich ein Onlineshop für ein kleines Weingut?",
+      "a": "Das hängt davon ab, wie viele Kunden von weiter weg bestellen wollen und ob Sie Versand anbieten möchten. Für manche reicht ein einfaches Bestellformular, für andere ist ein richtiger Shop sinnvoll. Beachten Sie, dass beim Versand von Wein besondere Regeln gelten können, etwa beim Jugendschutz. Im Einzelfall hilft die Wirtschaftskammer weiter."
+    },
+    {
+      "q": "Wie werden Veranstaltungen online besser gefunden?",
+      "a": "Mit einer eigenen Seite pro Veranstaltung, die Datum, Ort, Programm und Anfahrt nennt. Veröffentlichen Sie sie einige Wochen vorher und teilen Sie sie im Google-Profil und auf Social Media. Strukturierte Daten für Veranstaltungen helfen Google, die Termine richtig einzuordnen. Nach dem Fest können Fotos und ein kurzer Rückblick für das nächste Jahr Interesse wecken."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/weinviertel/",
+    "/branchen/heuriger/",
+    "/branchen/weingut/",
+    "/leistungen/website-erstellen/weinviertel/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

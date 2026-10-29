@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/absprungrate/",
+  "title": "Absprungrate (Bounce Rate) einfach erklärt",
+  "description": "Absprungrate einfach erklärt: Was die Bounce Rate misst, warum ein hoher Wert nicht immer schlecht ist und wie kleine Betriebe sie richtig deuten.",
+  "h1": "Absprungrate – Bounce Rate",
+  "kicker": "Glossar · Statistik",
+  "lead": "Die Absprungrate (Bounce Rate) ist der Anteil der Website-Besuche, bei denen jemand eine Seite aufruft und wieder geht, ohne weiter zu interagieren. In Google Analytics 4 gilt ein Besuch als Absprung, wenn er nicht als „interaktiv“ zählt.",
+  "fakten": [
+    "Hoher Wert heißt nicht automatisch schlechte Seite",
+    "Aussagekräftig nur im Vergleich zu Seitentyp und Ziel",
+    "In GA4 das Gegenstück zur Interaktionsrate"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie man die Absprungrate richtig liest",
+      "html": "<p>Ein Wirtshaus stellt fest, dass auf der Seite mit den Öffnungszeiten sehr viele Besucher sofort wieder gehen. Das ist kein Problem: Die Gäste haben gefunden, was sie wollten, und rufen an oder kommen vorbei. Anders bei der Seite „Feiern und Veranstaltungen“: Springen dort viele ab, ohne die Anfrage zu nutzen, passt vielleicht der Text oder das Angebot nicht.</p><p>In Google Analytics 4 gilt ein Besuch als interaktiv, wenn er länger als zehn Sekunden dauert, mehrere Seiten umfasst oder ein festgelegtes Ziel erreicht. Alle übrigen Besuche zählen als Absprung.</p>"
+    },
+    {
+      "h2": "Warum KMU den Wert im Blick haben sollten",
+      "html": "<p>Eine auffällig hohe Absprungrate auf wichtigen Seiten kann auf lange Ladezeiten, schlechte Darstellung am Handy oder unpassende Suchbegriffe hinweisen. Sie ist ein Warnsignal, keine Note. Entscheidend bleibt, ob genug <a href=\"/glossar/conversion/\">Conversions</a> entstehen.</p><p>Mögliche Ursachen prüfen Sie mit den <a href=\"/glossar/core-web-vitals/\">Core Web Vitals</a> und dem Ratgeber <a href=\"/wissen/website-ladezeit-verbessern/\">Ladezeit verbessern</a>. Wie man Kennzahlen deutet, erklärt <a href=\"/wissen/website-statistik-lesen/\">Website-Statistik lesen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ab wann ist eine Absprungrate zu hoch?",
+      "a": "Eine feste Grenze gibt es nicht. Seiten mit einer schnellen Antwort, etwa Kontaktdaten oder Öffnungszeiten, haben naturgemäß hohe Werte. Bei Seiten, die zu einer Anfrage oder einem Kauf führen sollen, ist eine hohe Absprungrate ein Hinweis, genauer hinzusehen. Vergleichen Sie Seiten gleicher Art miteinander und beobachten Sie die Entwicklung über mehrere Monate."
+    },
+    {
+      "q": "Wie senke ich die Absprungrate?",
+      "a": "Sorgen Sie dafür, dass die Seite schnell lädt, am Smartphone gut lesbar ist und die Überschrift genau das verspricht, wonach gesucht wurde. Zeigen Sie früh den Nutzen und einen klaren nächsten Schritt. Interne Links zu passenden Seiten helfen Besuchern weiterzulesen. Oft bringt schon ein besserer Einstiegstext mehr als eine aufwendige Neugestaltung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-statistik-lesen/",
+    "/glossar/conversion/",
+    "/wissen/analytics-alternativen/",
+    "/glossar/core-web-vitals/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-kosten/",
+  "title": "Was kostet KI im Betrieb? Kosten realistisch planen",
+  "description": "Was kostet KI im Betrieb? Gratis-Werkzeuge, fertige KI-Lösungen mit Monatspreis und individuelle Projekte im Überblick – samt den Kosten, die man vergisst.",
+  "h1": "Was kostet KI im Betrieb?",
+  "kicker": "Ratgeber · KI-Kosten",
+  "lead": "Die Kosten für KI im Betrieb reichen von null Euro für Gratis-Versionen über fertige Werkzeuge mit festem Monatspreis, etwa einen Website-Chatbot um 19 € im Monat, bis zu individuellen Lösungen, die nach Aufwand kalkuliert werden. Dazu kommt fast immer interne Zeit für Einführung, Inhalte und Kontrolle. Diese Zeit ist oft der größte Posten.",
+  "fakten": [
+    "Drei Stufen: Gratis-Werkzeuge, fertige KI-Produkte mit Abo, individuelle Projekte",
+    "Pipebot 19 €/Monat, noteit ab 0 €, Hittaro-Optimierung ab 199 € einmalig",
+    "Individuelle KI-Integration: Preis auf Anfrage nach dem Erstgespräch",
+    "Interne Zeit für Einführung und Pflege immer mit einplanen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die drei Kostenstufen im Überblick",
+      "html": "<p>Wer nach KI-Kosten fragt, meint oft sehr Verschiedenes. Hilfreich ist eine Einteilung in drei Stufen:</p><ul> <li><strong>Allgemeine Assistenten:</strong> ChatGPT, Claude, Gemini oder Copilot gibt es in Gratis-Versionen und als bezahlte Abos pro Person. Die aktuellen Preise stehen direkt beim Anbieter und ändern sich immer wieder.</li><li><strong>Fertige KI-Werkzeuge für eine Aufgabe:</strong> etwa ein Website-Chatbot oder ein Protokoll-Werkzeug. Feste Monatspreise, schnell startklar, wenig Anpassung nötig.</li><li><strong>Individuelle Lösungen:</strong> KI wird in Ihre Abläufe eingebaut, zum Beispiel mit Anbindung an Kundenverwaltung oder Warenwirtschaft. Preis nach Umfang.</li></ul> <p>Für die meisten kleinen Betriebe ist Stufe zwei der sinnvollste Einstieg: überschaubar, kündbar, schnell messbar.</p>"
+    },
+    {
+      "h2": "Fertige KI-Werkzeuge mit festem Preis",
+      "html": "<p>Aus dem Angebot von Pipeline AI Solutions, das Mühlberger Digital vermittelt, gibt es mehrere Werkzeuge mit klaren Preisen (Richtpreise ohne USt.):</p><ul> <li><strong>Pipebot</strong>, KI-Chatbot für die Website: 19 € pro Monat, monatlich kündbar, die ersten 30 Tage gratis.</li><li><strong>noteit</strong>, KI-Gesprächsprotokolle: Starter 0 € (3 Stunden im Monat), Pro 14 € im Monat, Team 24 € pro Person und Monat.</li><li><strong>SightUp</strong>, passende Firmenkunden finden: Gratis-Paket mit 3 Suchen im Monat, Start 19 €, Pro 50 €, Business 150 € pro Monat.</li><li><strong>Hittaro</strong>, Sichtbarkeit in Google und KI-Suchen: Optimierung einmalig 199 €, 299 € oder 699 €, Wartung ab 20 € im Monat.</li><li><strong>Pipeflow</strong>, Social-Media-Beiträge aus der Website: in der Pilotphase kostenlos.</li></ul> <p>Eine Übersicht aller Richtpreise finden Sie auf der Seite <a href=\"/preise/\">Preise</a>.</p>"
+    },
+    {
+      "h2": "Individuelle KI-Lösungen: wovon der Preis abhängt",
+      "html": "<p>Soll KI tiefer in Ihren Betrieb eingebaut werden, etwa mit Claude oder OpenAI, hängen die Kosten von mehreren Punkten ab:</p><ul> <li><strong>Umfang:</strong> eine Aufgabe oder ein ganzer Ablauf von der Anfrage bis zur Rechnung?</li><li><strong>Anbindungen:</strong> Je mehr Programme verbunden werden, desto mehr Aufwand.</li><li><strong>Nutzungskosten:</strong> KI-Modelle werden oft nach verarbeiteter Textmenge abgerechnet, gemessen in <a href=\"/glossar/token/\">Token</a>. Bei kleinen Betrieben sind diese Kosten meist gering, sie steigen aber mit der Menge.</li><li><strong>Betrieb und Wartung:</strong> Modelle und Schnittstellen ändern sich, die Lösung muss gepflegt werden.</li></ul> <p>Seriöse Preise gibt es erst nach einem Gespräch über Ihren konkreten Fall. Deshalb nennen wir für <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a> den Preis nach dem Erstgespräch, schriftlich und vorab.</p>"
+    },
+    {
+      "h2": "Die Kosten, die man gern vergisst",
+      "html": "<p>Neben Rechnung und Abo kostet KI vor allem Zeit im eigenen Betrieb:</p><ul> <li><strong>Inhalte vorbereiten:</strong> Ein Chatbot ist nur so gut wie die Informationen, die er hat. Oft muss erst die Website aktualisiert werden.</li><li><strong>Einführung im Team:</strong> ein, zwei Stunden pro Person für Grundlagen und Regeln.</li><li><strong>Kontrolle:</strong> regelmäßig Ergebnisse durchsehen, besonders in den ersten Wochen.</li><li><strong>Datenschutz:</strong> Datenschutzerklärung ergänzen, Verträge mit Anbietern prüfen.</li><li><strong>Doppelte Abos:</strong> Mehrere Personen zahlen privat für dasselbe Werkzeug.</li></ul> <p>Planen Sie diese Zeit bewusst ein. Wer sie unterschätzt, ist nach drei Monaten enttäuscht, obwohl das Werkzeug selbst funktioniert.</p>"
+    },
+    {
+      "h2": "Rechnet sich KI? Ein einfacher Rechenweg",
+      "html": "<p>Ob sich KI lohnt, lässt sich mit einer einfachen Rechnung abschätzen:</p><ol> <li>Wie viele Stunden pro Monat kostet die Aufgabe heute?</li><li>Wie viel davon übernimmt die KI realistisch? Lieber vorsichtig schätzen.</li><li>Was ist eine Stunde in Ihrem Betrieb wert, intern oder als entgangener Umsatz?</li><li>Ziehen Sie Abo, Einführung und Kontrollzeit ab.</li></ol> <p>Ein Beispiel ohne große Rechnung: Spart ein Chatbot um 19 € im Monat Ihnen schon eine einzige Stunde Telefon, hat er sich bei den meisten Betrieben bezahlt. Bringt er dagegen kaum Gespräche, weil wenige Menschen Ihre Website besuchen, lohnt er sich nicht. Genauer erklärt das der Ratgeber <a href=\"/wissen/automatisierung-nutzen/\">Kosten und Nutzen von Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Förderungen und günstiger Einstieg",
+      "html": "<p>Für Digitalisierungsprojekte gibt es in Österreich immer wieder Förderprogramme von Bund, Ländern und Kammern. Welche gerade offen sind und was gefördert wird, ändert sich regelmäßig. Einen Überblick gibt der Ratgeber <a href=\"/wissen/foerderungen-digitalisierung/\">Förderungen für Digitalisierung</a>, aktuelle Details erfahren Sie bei der WKO.</p><p>Der günstigste Einstieg bleibt ein Test: Viele Werkzeuge haben Gratis-Phasen, Pipebot etwa 30 Tage, noteit 7 Tage. Ob Ihre Website genug Inhalte für einen Chatbot hat, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>. Und wenn Sie unsicher sind, was sich in Ihrem Fall rechnet, besprechen wir das im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, mit klaren Preisen vorab.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gibt es KI für Betriebe auch kostenlos?",
+      "a": "Ja. Die großen KI-Assistenten bieten Gratis-Versionen mit eingeschränktem Umfang, und manche Fachwerkzeuge haben kostenlose Einstiegspakete, etwa noteit Starter mit 3 Stunden im Monat oder SightUp mit 3 Suchen im Monat. Für Betriebsdaten sind private Gratis-Konten aber oft ungeeignet, weil Datenschutz und Nutzungsbedingungen nicht auf Firmen ausgelegt sind."
+    },
+    {
+      "q": "Was kostet ein KI-Chatbot für die Website?",
+      "a": "Ein fertiger Chatbot wie Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage sind gratis. Er antwortet mit den Inhalten Ihrer Website. Individuelle Chatbots mit Anbindung an weitere Systeme werden nach Aufwand kalkuliert, der Preis wird nach dem Erstgespräch schriftlich genannt. Dazu kommt Ihre Zeit für Inhalte und Kontrolle."
+    },
+    {
+      "q": "Was sind Token und warum beeinflussen sie die Kosten?",
+      "a": "Token sind kleine Textbausteine, in die KI-Modelle Texte zerlegen, grob gesagt Wortteile. Viele Anbieter rechnen die Nutzung ihrer Modelle nach der Anzahl verarbeiteter Token ab. Je mehr Text eine Lösung liest und schreibt, desto höher die Nutzungskosten. Bei fertigen Werkzeugen mit Monatspreis sind diese Kosten meist schon im Abo enthalten."
+    },
+    {
+      "q": "Wie viel Zeit muss ich für die Einführung von KI einplanen?",
+      "a": "Für ein fertiges Werkzeug reichen oft wenige Stunden: Inhalte prüfen, einrichten, testen. Für das Team kommen ein bis zwei Stunden pro Person für Grundlagen und Regeln dazu. In den ersten Wochen sollten Sie regelmäßig Ergebnisse durchsehen. Individuelle Projekte brauchen mehr Abstimmung, der Zeitplan wird im Angebot festgehalten."
+    },
+    {
+      "q": "Wann lohnt sich KI im Betrieb nicht?",
+      "a": "Wenn eine Aufgabe selten vorkommt, sich schlecht prüfen lässt oder sehr persönlich ist. Auch wenn wichtige Inhalte fehlen, etwa aktuelle Preise oder Öffnungszeiten, bringt KI wenig. Und wenn niemand im Betrieb Zeit hat, die Ergebnisse anfangs zu kontrollieren, sollte man lieber warten. Ehrlich gesagt: Nicht jeder Betrieb braucht heute KI."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatbot-kosten/",
+    "/wissen/automatisierung-nutzen/",
+    "/preise/",
+    "/leistungen/ki-automatisierung/",
+    "/wissen/foerderungen-digitalisierung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

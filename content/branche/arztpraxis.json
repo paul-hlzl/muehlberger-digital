@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/arztpraxis/",
+  "title": "Digitale Lösungen für Arztpraxen: Telefon & Termine",
+  "description": "Besetztes Telefon am Morgen, Urlaubsvertretung, Terminanfragen und Datenschutz: Wie Arztpraxen Ordination und Team digital entlasten können.",
+  "h1": "Digitale Lösungen für Arztpraxen",
+  "kicker": "Branche · Ordination, Allgemein- und Fachmedizin",
+  "lead": "In vielen Arztpraxen ist das Telefon zwischen acht und zehn Uhr dauerbesetzt, und die Assistentinnen kommen kaum zu ihrer eigentlichen Arbeit. Am meisten hilft eine Website, die Standardfragen beantwortet, eine klare Terminanfrage und gegebenenfalls ein Telefonassistent, der Anrufe sortiert, ohne medizinische Auskünfte zu geben.",
+  "fakten": [
+    "Öffnungszeiten, Urlaub und Vertretung immer aktuell auf Website und Google",
+    "Telefonassistent sortiert Anrufe, gibt aber keine medizinischen Auskünfte",
+    "Gesundheitsdaten sind besonders geschützt – Datenschutz von Anfang an mitdenken",
+    "Kassenpraxis oder Wahlarzt: klar auf der Website sagen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das Telefon am Morgen: der Engpass jeder Ordination",
+      "html": "<p>Zu Ordinationsbeginn rufen alle gleichzeitig an: Terminwünsche, Fragen zu Befunden, Krankmeldungen, Überweisungen. Patienten hängen in der Warteschleife, und die Assistentin am Empfang muss gleichzeitig die Patienten im Warteraum betreuen.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> kann Anrufe annehmen, das Anliegen erfragen und sortieren: Terminwunsch, Rückruf wegen Befund, organisatorische Frage. Akute Beschwerden leitet er sofort an das Team weiter oder verweist auf den Notruf. Medizinische Auskünfte gibt er nicht. Wie die Erreichbarkeit insgesamt verbessert werden kann, beschreibt der Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>. Der Preis ist auf Anfrage.</p>"
+    },
+    {
+      "h2": "Urlaub, Vertretung, geänderte Zeiten",
+      "html": "<p>Eine der häufigsten Fragen in Arztpraxen ist nicht medizinisch: Ist die Ordination nächste Woche offen? Wer vertritt während des Urlaubs? Gibt es diese Woche eine Abendordination? Wenn diese Infos auf der Website und im Google-Profil fehlen oder veraltet sind, rufen Patienten an, oder sie stehen vor verschlossener Tür.</p><ul><li>Ein Hinweisfeld auf der Startseite für Urlaub und Vertretung, das Sie selbst ändern können.</li><li>Sonderöffnungszeiten im Google-Profil rechtzeitig eintragen.</li><li>Ein klarer Satz, ob Sie eine Kassenpraxis oder Wahlarztpraxis führen.</li></ul><p>Mehr dazu, was auf eine Praxis-Website gehört, steht im Ratgeber <a href=\"/wissen/praxis-website/\">Praxis-Website</a>.</p>"
+    },
+    {
+      "h2": "Terminanfragen online: was sinnvoll ist",
+      "html": "<p>Nicht jede Praxis will eine vollständige Online-Terminbuchung, weil die Termindauer stark vom Anliegen abhängt. Ein Mittelweg ist eine Terminanfrage: Der Patient gibt Wunschzeitraum und Art des Termins an, etwa Vorsorgeuntersuchung, Impfung oder Kontrolle, und die Praxis bestätigt.</p><p>Für planbare Termine wie Impfungen oder Vorsorge kann eine echte Online-Buchung trotzdem viel Telefonzeit sparen. Wie das funktioniert, beschreibt der Ratgeber <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz: Gesundheitsdaten sind besonders sensibel",
+      "html": "<p>Wer in der Arztpraxis digitale Werkzeuge einsetzt, verarbeitet häufig Gesundheitsdaten, und die sind besonders geschützt. Das betrifft Formulare, Telefonassistenten, Chatbots und E-Mails. Deshalb gilt: so wenig medizinische Inhalte wie möglich über diese Kanäle, klare Speicherorte und Verträge.</p><p>Ein Chatbot auf der Website sollte nur organisatorische Fragen beantworten und niemals nach Symptomen fragen. Hinweise dazu bietet der Ratgeber <a href=\"/wissen/chatbot-datenschutz/\">Chatbot und Datenschutz</a>. Im Einzelfall wenden Sie sich an die Ärztekammer, einen Anwalt oder die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>. Das hier ist keine Rechtsberatung.</p>"
+    },
+    {
+      "h2": "Gefunden werden: auch Werbung hat Regeln",
+      "html": "<p>Patienten suchen nach „Hausarzt“ oder einem Facharzt im Ort und schauen auf Bewertungen und Öffnungszeiten. Ein gepflegtes Google-Profil und eine klare Website sind deshalb auch für Kassenpraxen wichtig, schon damit neue Patienten wissen, ob Sie noch aufnehmen.</p><p>Für Ärzte gelten standesrechtliche Regeln zur Werbung. Halten Sie Texte sachlich und informativ, ohne Heilversprechen. Was dabei im Einzelnen erlaubt ist, beantwortet die Ärztekammer. Wie Praxen online gefunden werden, beschreibt der Ratgeber <a href=\"/wissen/seo-praxen/\">SEO für Praxen</a>.</p>"
+    },
+    {
+      "h2": "Womit eine Praxis anfangen sollte",
+      "html": "<p>Zuerst die Grundlagen: aktuelle Öffnungszeiten, Urlaubshinweis, Kassen- oder Wahlarztinfo, Anfahrt und Leistungen. Dann die Entlastung am Telefon. Ein Chatbot ist für viele Praxen nicht der erste Schritt. Wer bereits eine gute Website hat, profitiert am meisten vom Telefonassistenten.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, auch abends nach der Ordination, klären wir, was für Ihre Praxis sinnvoll ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ein KI-Telefonassistent in der Arztpraxis Anrufe annehmen?",
+      "a": "Technisch ja, aber die Rahmenbedingungen müssen stimmen: Er sollte nur organisatorische Anliegen aufnehmen, keine medizinischen Auskünfte geben, bei akuten Beschwerden sofort an das Team oder den Notruf verweisen und so wenig Gesundheitsdaten wie möglich erfassen. Wie die Daten gespeichert werden, ist vorab zu klären. Für die rechtliche Beurteilung im Einzelfall sind Ärztekammer, Anwalt oder Datenschutzbehörde zuständig."
+    },
+    {
+      "q": "Soll ein Chatbot auf der Praxis-Website Fragen zu Beschwerden beantworten?",
+      "a": "Nein. Ein Chatbot gehört in einer Arztpraxis nur zu organisatorischen Themen: Öffnungszeiten, Vertretung, Anfahrt, welche Unterlagen mitzubringen sind, ob die Praxis neue Patienten aufnimmt. Pipebot antwortet ausschließlich mit den Inhalten, die Sie hinterlegen, und verbindet bei Unsicherheit mit dem Team. Fragen zu Symptomen sollte er immer an die Praxis oder im Notfall an den Notruf verweisen."
+    },
+    {
+      "q": "Lohnt sich eine Online-Terminbuchung für eine Kassenpraxis?",
+      "a": "Für planbare Termine wie Vorsorgeuntersuchungen, Impfungen oder Kontrollen oft ja, weil sie Telefonzeit spart. Für Akuttermine und Termine mit unklarer Dauer ist eine Terminanfrage mit Rückmeldung der Praxis meist besser. Viele Praxen kombinieren beides. Wichtig ist, nur bestimmte Terminarten und Zeitfenster online freizugeben, damit die Planung in der Hand der Praxis bleibt."
+    },
+    {
+      "q": "Was kostet eine Website für eine Arztpraxis?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. Typisch sind Startseite mit Urlaubshinweis, Leistungen, Team, Ordinationszeiten und Anfahrt sowie Kontakt. Hosting, Impressum, Datenschutz und Kontaktformular sind enthalten. Terminanfrage, Online-Buchung oder Telefonassistent werden nach dem Erstgespräch mit klarem Preis schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/praxis-website/", "/wissen/seo-praxen/", "/leistungen/ki-telefonassistent/", "/wissen/chatbot-datenschutz/", "/branchen/zahnarzt/", "/branchen/physiotherapie/"],
+  "checks": ["website-entwurf", "chatbot-test"]
+}

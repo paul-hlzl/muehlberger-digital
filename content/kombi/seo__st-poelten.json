@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/st-poelten/",
+  "title": "SEO in St. Pölten: für Betriebe in der Landeshauptstadt",
+  "description": "SEO für Betriebe in St. Pölten und St. Pölten-Land: Schreibweisen, Firmenkunden und Umland berücksichtigen und in der Landeshauptstadt gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in St. Pölten",
+  "kicker": "SEO · St. Pölten und St. Pölten-Land",
+  "lead": "St. Pölten ist Landeshauptstadt mit vielen Dienstleistern, Behörden und Firmen, dazu ein großes Umland im Bezirk St. Pölten-Land. SEO in St. Pölten heißt: die verschiedenen Schreibweisen der Stadt abdecken, Firmenkunden mit Fachinhalten ansprechen und das Umland als Einzugsgebiet mitdenken.",
+  "fakten": [
+    "St. Pölten ist Landeshauptstadt von Niederösterreich und gut an die Westbahn angebunden",
+    "Gesucht wird mit „St. Pölten“, „Sankt Pölten“ und „St Poelten“",
+    "Viele Firmenkunden suchen nach Fachbegriffen statt nach Ort",
+    "Bezirk St. Pölten-Land als Einzugsgebiet mitdenken"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine Stadt, viele Schreibweisen",
+      "html": "<p>Menschen tippen „St. Pölten“, „St Pölten“, „Sankt Pölten“ oder ohne Umlaut „St Poelten“. Google erkennt die meisten Varianten inzwischen als gleichbedeutend, aber nicht immer zuverlässig. Wichtig ist, dass Sie selbst überall dieselbe Schreibweise verwenden: auf der Website, im Google-Profil, in Verzeichnissen.</p><p>Die Varianten müssen Sie nicht künstlich in Texte streuen. Einmal natürlich erwähnt, etwa in der Anfahrtsbeschreibung, reicht völlig. Wie man Suchbegriffe sinnvoll auswählt, erklärt der Ratgeber <a href=\"/wissen/keywords-finden/\">Keywords finden</a>.</p>"
+    },
+    {
+      "h2": "Landeshauptstadt heißt: viele Firmenkunden",
+      "html": "<p>In St. Pölten arbeiten viele Menschen in Verwaltung, Bildung und Unternehmen. Für Dienstleister bedeutet das: Ein großer Teil der Anfragen kommt von anderen Betrieben. Diese suchen nicht „in der Nähe“, sondern nach konkreten Leistungen wie Lohnverrechnung, Förderberatung oder IT-Betreuung.</p><p>Ein <strong>Unternehmensberater</strong> sollte deshalb pro Schwerpunkt eine eigene Seite mit Ablauf, typischen Fragen und Ansprechperson haben. Mehr dazu auf der Branchenseite <a href=\"/branchen/unternehmensberater/\">Unternehmensberater</a>. Eine <strong>Steuerkanzlei</strong> punktet mit verständlichen Erklärungen zu wiederkehrenden Themen ihrer Mandanten.</p>"
+    },
+    {
+      "h2": "Stadt und Umland gemeinsam denken",
+      "html": "<p>Viele Kundinnen wohnen nicht in der Stadt, sondern im Bezirk St. Pölten-Land, etwa im Traisental, im Pielachtal oder Richtung Wienerwald. Ein Handwerksbetrieb in der Stadt sollte sein Einzugsgebiet daher klar beschreiben. Umgekehrt profitieren Betriebe aus dem Umland davon, die Nähe zur Landeshauptstadt zu nennen.</p><p>Mehr zur Region auf den Seiten <a href=\"/regionen/st-poelten/\">St. Pölten</a> und <a href=\"/regionen/bezirk-st-poelten-land/\">Bezirk St. Pölten-Land</a>.</p>"
+    },
+    {
+      "h2": "Klassische Suche und KI-Suche",
+      "html": "<p>Gerade Firmenkunden lassen sich Anbieter inzwischen auch von KI-Assistenten vorschlagen. Wer dort genannt werden will, braucht eindeutige, fachlich fundierte Inhalte. Was dazu gehört, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>, die Grundlagen der klassischen Optimierung stehen auf der Seite <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p><p>Für den ersten Überblick eignet sich der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>, danach folgt das kostenlose Erstgespräch.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Muss ich alle Schreibweisen von St. Pölten auf meiner Website verwenden?",
+      "a": "Nein. Google erkennt die gängigen Varianten wie „Sankt Pölten“ oder „St Poelten“ in der Regel als denselben Ort. Wichtiger ist, dass Sie selbst einheitlich bleiben, vor allem bei Firmenname und Adresse im Google-Unternehmensprofil, auf der Website und in Verzeichnissen. Wenn eine Variante einmal natürlich vorkommt, etwa in einer Anfahrtsbeschreibung, schadet das nicht."
+    },
+    {
+      "q": "Wie funktioniert SEO für Firmenkunden?",
+      "a": "Firmen suchen gezielt nach Leistungen, Lösungen und Fachbegriffen, oft ohne Ortsangabe. Hilfreich sind eigene Seiten pro Leistung, die Ablauf, Nutzen und typische Fragen erklären, sowie Fallbeispiele ohne vertrauliche Details. Eine feste Ansprechperson mit Foto schafft Vertrauen. Ergänzend kann es sinnvoll sein, passende Firmen aktiv anzusprechen, etwa mit Unterstützung von SightUp."
+    },
+    {
+      "q": "Ist die gute Bahnverbindung nach Wien ein Nachteil für mich?",
+      "a": "Sie bedeutet, dass manche Kunden auch Wiener Anbieter in Betracht ziehen. Gleichzeitig können Sie selbst Wiener Kundschaft gewinnen, wenn Ihr Angebot passt. Für die lokale Kartensuche bleibt die Nähe ein Vorteil, den Wiener Betriebe nicht haben. Entscheidend ist, dass Ihre Website klar zeigt, warum man zu Ihnen kommen sollte."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/st-poelten/",
+    "/regionen/bezirk-st-poelten-land/",
+    "/wissen/b2b-kunden-finden/",
+    "/leistungen/website-erstellen/st-poelten/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

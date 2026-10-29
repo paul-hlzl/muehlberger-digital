@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/digitalisierung-waldviertel/",
+  "title": "Digitalisierung im Waldviertel: Praxis für KMU",
+  "description": "Digitalisierung im Waldviertel: Wie Handwerk, Gastronomie, Direktvermarkter und Dienstleister trotz langer Wege digital sichtbar und gut erreichbar bleiben.",
+  "h1": "Digitalisierung im Waldviertel",
+  "kicker": "Ratgeber · Region",
+  "lead": "Digitalisierung im Waldviertel heißt vor allem, lange Wege und dünne Besiedlung mit digitalen Mitteln auszugleichen: Kunden sollen Ihren Betrieb online finden, ohne vorbeizufahren, Anfragen sollen auch dann ankommen, wenn Sie gerade auf der Baustelle oder im Stall sind, und Abläufe sollen weniger Fahrten und Papier brauchen. Dafür braucht es keine Großprojekte, sondern gut gewählte Bausteine wie Website, Google-Profil, Erreichbarkeit und digitale Belege.",
+  "fakten": [
+    "Lange Wege zwischen Orten machen Online-Sichtbarkeit und Erreichbarkeit besonders wertvoll",
+    "Viele Handwerks-, Familien- und landwirtschaftliche Betriebe mit kleinen Teams",
+    "Regionale Produkte und Ausflugsgäste: online gefunden werden, bevor jemand losfährt",
+    "Fachkräfte und Lehrlinge suchen Stellen am Handy, die Karriereseite zählt",
+    "Mühlberger Digital sitzt in Ottenschlag im Bezirk Zwettl und kommt im Waldviertel auch persönlich vorbei"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was das Waldviertel für Betriebe besonders macht",
+      "html": "<p>Das Waldviertel im Nordwesten Niederösterreichs ist ländlich geprägt, mit Bezirken wie Zwettl, Gmünd, Horn und Waidhofen an der Thaya und einer Grenze zu Tschechien. Typisch sind viele kleine Handwerks- und Familienbetriebe, Landwirtschaft und Direktvermarktung sowie Gastronomie und Beherbergung für Ausflugs- und Urlaubsgäste.</p><p>Für die Digitalisierung bedeutet das: Kundschaft ist weit verteilt, viele pendeln, und der Weg zum nächsten Betrieb ist länger als in der Stadt. Wer nicht online zu finden ist, wird schnell übersehen, weil niemand „einfach mal vorbeischaut“. Gleichzeitig ist die Konkurrenz pro Ort überschaubar, wer digital gut aufgestellt ist, fällt positiv auf. Mehr zur Region finden Sie auf der Seite <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden, bevor jemand losfährt",
+      "html": "<p>Ob Tischler, Hofladen oder Gasthaus: Bevor jemand eine halbe Stunde fährt, will er wissen, ob sich die Fahrt lohnt. Öffnungszeiten, Angebot, Preise oder zumindest Preisrahmen, Fotos und Anfahrt müssen online stimmen.</p><ul><li><strong>Google-Unternehmensprofil</strong> mit aktuellen Öffnungszeiten, auch Feiertage und Betriebsurlaub</li><li><strong>Website</strong>, die am Handy schnell lädt, auch bei schwächerem Mobilnetz</li><li><strong>Klare Leistungsbeschreibung</strong> mit den Orten, die Sie bedienen</li><li><strong>Bewertungen</strong> von zufriedenen Kunden, freundlich beantwortet</li></ul><p>Zunehmend fragen Menschen auch ChatGPT oder Google-KI-Übersichten, wer in der Nähe einen bestimmten Dienst anbietet. Wie Sie dort genannt werden, erklärt der Beitrag zum <a href=\"/wissen/lokales-seo/\">lokalen SEO</a>; ob KI-Suchen Ihren Betrieb heute schon nennen, zeigt der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Erreichbar bleiben, auch auf der Baustelle oder im Stall",
+      "html": "<p>Viele Waldviertler Betriebe sind klein: Die Chefin ist gleichzeitig Verkäuferin, Buchhalterin und Monteurin. Wenn das Telefon während der Arbeit läutet, bleibt es oft unbeantwortet, und der Anrufer ruft den Nächsten an.</p><p>Digitale Helfer fangen das ab:</p><ul><li>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf der Website beantwortet häufige Fragen rund um die Uhr, nur mit Ihren eigenen Inhalten.</li><li>Ein KI-Telefonassistent nimmt Anrufe an, notiert das Anliegen und schickt Ihnen eine Zusammenfassung.</li><li>Ein Online-Formular mit den richtigen Fragen spart Rückrufe, weil gleich alle Infos da sind.</li></ul><p>Ein Beispiel: Ein Installateur mit zwei Mitarbeitern bekommt Anfragen aus mehreren Gemeinden. Statt abends zehn Rückrufe zu machen, sieht er die Anfragen gesammelt mit Ort, Problem und Foto und plant die Fahrten so, dass nahe Termine zusammenfallen.</p>"
+    },
+    {
+      "h2": "Weniger fahren, weniger Papier",
+      "html": "<p>Lange Wege kosten Zeit und Geld. Jede Fahrt, die sich durch einen Video-Call, eine digitale Unterschrift oder ein Foto vom Kunden ersetzen lässt, ist gewonnen.</p><ul><li><strong>Vorab-Fotos:</strong> Kunden schicken Bilder vom Schaden, damit Sie das richtige Material mitnehmen.</li><li><strong>Video-Beratung</strong> für erste Gespräche, persönlich erst, wenn es konkret wird.</li><li><strong>Digitale Angebote und Rechnungen</strong> statt Briefversand.</li><li><strong>Belege digital ablegen</strong>, damit die Steuerberatung nicht auf den Ordner warten muss.</li><li><strong>Gesprächsnotizen</strong> von Video-Calls automatisch erstellen lassen, etwa mit <a href=\"https://noteit.at/\">noteit</a>.</li></ul><p>Die Internetanbindung ist im Waldviertel von Ort zu Ort unterschiedlich. Prüfen Sie bei Cloud-Lösungen, ob sie auch mit schwankender Verbindung sinnvoll nutzbar sind.</p>"
+    },
+    {
+      "h2": "Regionale Produkte und Gäste digital erreichen",
+      "html": "<p>Viele Betriebe im Waldviertel verkaufen Produkte mit Herkunft, etwa Mohn, Erdäpfel, Fisch aus Teichwirtschaft, Holzwaren oder Handwerkskunst. Dazu kommen Gäste, die zum Wandern, Radfahren oder Erholen kommen. Beide Gruppen informieren sich vorab online.</p><ul><li>Hofläden mit Öffnungszeiten und Sortiment online, eventuell Vorbestellung zur Abholung</li><li>Gutscheine und Geschenkkörbe zum Online-Kauf, beliebt bei Menschen, die weggezogen sind</li><li>Unterkünfte mit aktuellen Verfügbarkeiten und Direktbuchung</li><li>Veranstaltungen wie Hoffeste oder Kurse rechtzeitig auf Website und Social Media</li></ul><p>Weiterführend: <a href=\"/wissen/regionale-produkte-online/\">Regionale Produkte online verkaufen</a> und <a href=\"/wissen/laendlicher-raum/\">Digital erfolgreich im ländlichen Raum</a>.</p>"
+    },
+    {
+      "h2": "Persönlich vor Ort beraten lassen",
+      "html": "<p>Mühlberger Digital hat seinen Sitz in Ottenschlag im Bezirk Zwettl. Im Waldviertel und in Niederösterreich kommen wir für das Erstgespräch gern persönlich vorbei, alternativ telefonisch oder per Video-Call, Montag bis Freitag zwischen 18:00 und 21:30 Uhr, also nach Ihrem Arbeitstag. Die technische Umsetzung übernimmt unser Vertragspartner Pipeline AI Solutions.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns an, wo bei Ihnen der größte Hebel liegt, und zeigen passende Lösungen live mit Ihren eigenen Daten. Was Sie nicht brauchen, empfehlen wir nicht. Mehr über unsere Arbeit im Heimatbezirk steht auf der Seite <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich Digitalisierung für kleine Betriebe im Waldviertel?",
+      "a": "Ja, gerade dort. Weil Kunden weit verteilt sind und weniger zufällig vorbeikommen, entscheidet die Online-Sichtbarkeit oft, wer angerufen wird. Digitale Werkzeuge sparen außerdem Fahrten und helfen, Anfragen trotz kleiner Teams nicht zu verpassen. Sinnvoll ist ein schrittweiser Start mit den Bausteinen, die im eigenen Alltag den meisten Nutzen bringen."
+    },
+    {
+      "q": "Kommt Mühlberger Digital für Beratungen ins Waldviertel?",
+      "a": "Ja. Mühlberger Digital sitzt in Ottenschlag im Bezirk Zwettl, das Waldviertel und Niederösterreich sind der persönliche Schwerpunkt. Das kostenlose Erstgespräch dauert etwa 30 Minuten und findet vor Ort, am Telefon oder per Video-Call statt. Termine gibt es Montag bis Freitag von 18:00 bis 21:30 Uhr, erreichbar unter +43 677 6219 2776."
+    },
+    {
+      "q": "Was tun, wenn das Internet im Betrieb langsam ist?",
+      "a": "Prüfen Sie zuerst die verfügbaren Anschlüsse an Ihrer Adresse, in vielen Gemeinden wird das Netz ausgebaut. Bis dahin helfen Lösungen, die auch bei schwankender Verbindung funktionieren, sowie eine schlanke Website, die schnell lädt. Viele digitale Werkzeuge wie Chatbots oder Telefonassistenten laufen ohnehin in der Cloud und belasten Ihre eigene Leitung kaum."
+    },
+    {
+      "q": "Welche digitalen Bausteine sind im ländlichen Raum am wichtigsten?",
+      "a": "An erster Stelle stehen ein gepflegtes Google-Unternehmensprofil und eine handytaugliche Website, weil Kunden damit entscheiden, ob sich die Fahrt lohnt. Danach folgen Erreichbarkeit, etwa durch Chatbot oder Telefonassistent, und digitale Abläufe für Angebote und Belege. Für Betriebe mit Personalbedarf kommt eine gute Karriereseite dazu."
+    }
+  ],
+  "verwandt": ["/regionen/waldviertel/", "/regionen/ottenschlag/", "/wissen/laendlicher-raum/", "/wissen/digitalisierung-wo-anfangen/", "/leistungen/digitalisierungsberatung/"],
+  "checks": ["ki-sichtbarkeit", "seo-check"]
+}

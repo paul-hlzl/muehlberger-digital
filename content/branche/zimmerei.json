@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/zimmerei/",
+  "title": "Digitale Lösungen für Zimmereien & Holzbau",
+  "description": "Carport, Dachstuhl, Aufstockung, Holzriegelbau: Wie Zimmereien Kleinanfragen vorsortieren und große Holzbau-Projekte online überzeugend erklären.",
+  "h1": "Digitale Lösungen für Zimmereien & Holzbau",
+  "kicker": "Branche · Zimmerei, Holzbau",
+  "lead": "Zimmereien stehen zwischen zwei Welten: viele kleine Anfragen für Carports, Vordächer und Terrassenüberdachungen und wenige große Projekte wie Dachstuhl, Aufstockung oder Holzriegelhaus. Digitale Werkzeuge helfen, die kleinen Anfragen effizient zu beantworten und für die großen genug Vertrauen aufzubauen, dass der Bauherr überhaupt anruft.",
+  "fakten": [
+    "Carport- und Vordach-Anfragen mit Maßen und Fotos vorab bekommen",
+    "Eigene Landingpage für Aufstockung oder Holzriegelbau statt einer langen Leistungsliste",
+    "Bauablauf im Holzbau verständlich erklären: Vorfertigung, Montagetage, Witterung",
+    "Individuelle Anfrage-Strecken und Web-Apps: Preis auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Das Carport-Dilemma: viele kleine Anfragen",
+      "html": "<p>Die typische Kleinanfrage einer Zimmerei lautet: „Was kostet ein Carport für zwei Autos?“ Ohne Maße, Dachform, Untergrund und Fotos lässt sich das nicht seriös beantworten, und jede Rückfrage kostet Zeit. Gleichzeitig wäre es schade, diese Kunden zu verlieren, denn aus einem Carport wird oft später ein Zubau.</p><p>Eine kurze Anfrage-Strecke auf der Website fragt der Reihe nach: Anzahl der Stellplätze, Flach- oder Satteldach, freistehend oder an der Hauswand, Untergrund, Foto vom Platz. Damit können Sie einen groben Rahmen nennen oder gleich einen Termin vorschlagen. Wie man dafür eine eigene Seite baut, erklärt der Bereich <a href=\"/leistungen/landingpage-erstellen/\">Landingpage erstellen</a>.</p>"
+    },
+    {
+      "h2": "Aufstockung und Zubau: das erklärungsbedürftige Großprojekt",
+      "html": "<p>Viele Familien überlegen, ein bestehendes Haus aufzustocken oder einen Zubau in Holzbauweise zu machen, etwa für die nächste Generation. Die Fragen sind grundsätzlich: Trägt das bestehende Haus das? Wie lange ist das Dach offen? Muss die Familie ausziehen?</p><p>Hier überzeugt eine Seite, die den Ablauf ehrlich beschreibt: Statik prüfen lassen, Planung, Vorfertigung der Elemente in der Halle, kurze Montagezeit vor Ort. Gerade die Vorfertigung ist ein Argument, das Bauherren oft nicht kennen. Fragen zu Bewilligungen beantworten Sie allgemein und verweisen auf Gemeinde und Planer.</p>"
+    },
+    {
+      "h2": "Holz als Baustoff: Vorurteile ruhig ausräumen",
+      "html": "<p>Bauherren, die sich für Holzbau interessieren, haben oft Bedenken, die sie am Telefon nicht direkt ansprechen: Brennt Holz schneller? Wie ist das mit Schall zwischen den Geschoßen? Hält das so lange wie Ziegel? Eine Website, die solche Fragen sachlich und aus Ihrer Erfahrung beantwortet, nimmt diese Bedenken vorweg.</p><p>Bleiben Sie dabei vorsichtig mit Zahlen und Vergleichen, die Sie nicht belegen können. Ein Satz wie „Wir zeigen Ihnen gern ein fertiges Haus, in dem eine Familie seit Jahren wohnt“ wirkt stärker als jede Statistik. Wie man online Vertrauen aufbaut, beschreibt der Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online</a>.</p>"
+    },
+    {
+      "h2": "Dachstuhl und Sanierung: Fotos aus dem Dachboden",
+      "html": "<p>Bei Altbauten geht es oft um die Frage, ob ein alter Dachstuhl saniert werden kann oder ersetzt werden muss. Eine erste Einschätzung lässt sich mit Fotos vom Dachboden treffen: Balkenquerschnitte, Verbindungen, sichtbare Feuchteschäden oder Schädlingsbefall.</p><ul><li>Bitten Sie Kunden im Formular um Fotos aus mehreren Blickwinkeln.</li><li>Fragen Sie nach dem ungefähren Baujahr und ob der Dachboden ausgebaut werden soll.</li><li>Sagen Sie klar, dass die endgültige Beurteilung vor Ort erfolgt.</li></ul><p>So fahren Sie nur zu den Terminen, bei denen tatsächlich ein Auftrag möglich ist, und können die Besichtigung gezielter vorbereiten.</p>"
+    },
+    {
+      "h2": "Bei der Anfrage-Qualität ansetzen",
+      "html": "<p>Viele Zimmereien haben genug Arbeit, aber zu viele unpassende Anfragen. Das Ziel ist deshalb nicht „mehr Kontakte“, sondern bessere. Der Ratgeber zur <a href=\"/wissen/anfragen-qualitaet/\">Qualität von Anfragen</a> zeigt, wie man das mit wenigen Fragen im Formular erreicht.</p><p>Wer noch einen Schritt weiter gehen will, kann eine kleine Web-App für die Carport-Anfrage bauen lassen, die aus Maßen und Dachform gleich eine grobe Einordnung ausgibt. Das ist ein <a href=\"/leistungen/individuelle-software/\">individuelles Software-Projekt</a> mit Preis auf Anfrage und lohnt sich nur, wenn solche Anfragen bei Ihnen regelmäßig vorkommen.</p>"
+    },
+    {
+      "h2": "Ehrlich: Was eine Zimmerei nicht braucht",
+      "html": "<p>Einen Chatbot brauchen die wenigsten Zimmereien, weil Holzbau im persönlichen Gespräch verkauft wird. Auch Social Media ist kein Muss, auch wenn ein Video vom Aufstellen eines Dachstuhls an einem Tag gut ankommt.</p><p>Wichtiger sind eine klare Website mit Projektfotos und eine Anfrage, die die richtigen Angaben liefert. Im kostenlosen <a href=\"/erstgespraech/\">Erstgespräch</a> klären wir, wo Sie stehen und was sich lohnt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich auf der Website Preise für Carports nennen?",
+      "a": "Feste Preise sind schwierig, weil Größe, Dachform, Eindeckung und Untergrund stark variieren. Sinnvoll ist ein Rahmen für eine typische Ausführung, etwa einen Einzelcarport mit Flachdach, und eine klare Liste, was den Preis erhöht. So bekommen Interessenten eine Vorstellung, und Sie sortieren Anfragen aus, die mit einem Baumarktpreis rechnen. Den konkreten Betrag legen Sie selbst fest und halten ihn aktuell."
+    },
+    {
+      "q": "Lohnt sich eine eigene Seite für Aufstockungen in Holzbauweise?",
+      "a": "Wenn Sie Aufstockungen aktiv anbieten wollen, ja. Menschen suchen gezielt nach diesem Thema, oft mit sehr konkreten Fragen zu Statik, Bauzeit und Wohnen während der Bauphase. Eine eigene Seite mit Ablauf, Fotos eigener Projekte und ehrlichen Hinweisen beantwortet das besser als ein Punkt in einer Liste. Wer solche Projekte nur selten macht, sollte sie dagegen nicht groß bewerben."
+    },
+    {
+      "q": "Was kostet eine Website für eine Zimmerei?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Kontaktformular, Impressum, Datenschutz, Hosting und Optimierung für Google und KI-Suchen. Für eine Zimmerei könnten das Startseite, Holzbau, Dach und Sanierung, Projekte und Kontakt sein. Eine erweiterte Anfrage-Strecke oder eine kleine Web-App für Carports wird nach dem Erstgespräch schriftlich angeboten."
+    },
+    {
+      "q": "Wie zeige ich Holzbau-Projekte, wenn ich kaum gute Fotos habe?",
+      "a": "Fangen Sie beim nächsten Projekt an und fotografieren Sie konsequent: die Elemente in der Halle, das Abladen, die Montage, das fertige Gebäude bei gutem Licht. Ein Handy reicht. Gerade die Bauphasen sind für Interessenten spannend, weil sie zeigen, wie schnell ein Holzbau steht. Fragen Sie den Bauherrn vorab, ob Sie die Bilder verwenden dürfen, und lassen Sie Adressen weg."
+    }
+  ],
+  "verwandt": ["/leistungen/landingpage-erstellen/", "/wissen/anfragen-qualitaet/", "/wissen/vertrauen-online/", "/leistungen/individuelle-software/", "/branchen/tischler/", "/branchen/dachdecker/"],
+  "checks": ["website-entwurf"]
+}

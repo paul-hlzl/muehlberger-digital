@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/cms/",
+  "title": "Was ist ein CMS? Content-Management-System erklärt",
+  "description": "CMS einfach erklärt: Wie ein Content-Management-System funktioniert, wann es sich für kleine Betriebe lohnt und worauf Sie bei der Pflege achten.",
+  "h1": "CMS – Content-Management-System",
+  "kicker": "Glossar · Website",
+  "lead": "Ein CMS (Content-Management-System) ist eine Software, mit der Sie die Inhalte Ihrer Website ohne Programmierkenntnisse ändern können. Texte, Bilder und Öffnungszeiten pflegen Sie in einer Bedienoberfläche im Browser, das System kümmert sich um die Darstellung.",
+  "fakten": [
+    "Trennt Inhalte (Texte, Bilder) von Technik und Design",
+    "Bekannte Systeme: WordPress, TYPO3, Joomla sowie Baukästen wie Wix",
+    "Braucht regelmäßige Updates, sonst entstehen Sicherheitslücken"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie ein CMS im Alltag funktioniert",
+      "html": "<p>Eine Tischlerei mit vier Mitarbeitern möchte ein neues Referenzprojekt zeigen und den Betriebsurlaub ankündigen. Die Chefin meldet sich im Browser an, öffnet die Seite „Aktuelles“, tippt den Text, lädt zwei Fotos hoch und speichert. Die Änderung ist sofort online, im gewohnten Design und am Smartphone genauso lesbar wie am Computer (<a href=\"/glossar/responsive-design/\">Responsive Design</a>).</p><p>Im Hintergrund legt das CMS die Inhalte in einer Datenbank oder in Dateien ab und setzt sie beim Aufruf mit Vorlagen zusammen. Zusätzliche Funktionen wie ein Shop oder ein Buchungskalender kommen über Erweiterungen, sogenannte Plugins, dazu.</p>"
+    },
+    {
+      "h2": "Warum die Wahl des CMS für KMU zählt",
+      "html": "<p>Ein CMS macht Sie unabhängig: Kleine Änderungen müssen Sie nicht extra beauftragen. Gleichzeitig ist es Software, die gepflegt werden will. Veraltete Plugins sind eine häufige Ursache für gehackte Websites, deshalb gehören Updates und Backups zur <a href=\"/wissen/website-wartung/\">Website-Wartung</a>.</p><p>Ein großes CMS lohnt sich nicht für jeden. Wer seine Website zweimal im Jahr ändert, fährt mit einer schlanken Lösung und Wartung durch den Dienstleister oft günstiger. Hilfe bei der Entscheidung gibt der Vergleich <a href=\"/vergleiche/wordpress-oder-individuell/\">WordPress oder individuelle Website</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welches CMS passt zu einem kleinen Betrieb?",
+      "a": "Das hängt davon ab, wie oft Sie Inhalte ändern und wer das übernimmt. WordPress ist weit verbreitet und flexibel, braucht aber laufende Pflege. Baukästen sind einfach zu bedienen, lassen aber weniger Freiheit. Wer nur selten etwas ändert, ist mit einer schlanken Website und Wartung durch den Dienstleister oft besser bedient. Probieren Sie die Bedienung vor dem Start am besten einmal selbst aus."
+    },
+    {
+      "q": "Kann ich im CMS etwas kaputt machen?",
+      "a": "Beim normalen Ändern von Texten und Bildern kaum, weil Design und Technik getrennt sind. Riskanter sind Updates, neue Plugins oder Eingriffe in Vorlagen. Vor solchen Schritten sollte immer ein Backup gemacht werden. Viele Betriebe überlassen die Technik dem Dienstleister und pflegen nur die Inhalte selbst, was eine sinnvolle Arbeitsteilung ist."
+    }
+  ],
+  "verwandt": [
+    "/glossar/hosting/",
+    "/wissen/website-baukasten-grenzen/",
+    "/vergleiche/wordpress-oder-individuell/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

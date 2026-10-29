@@ -1,0 +1,64 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/korneuburg/",
+  "title": "KI-Automatisierung in Korneuburg: Anfragen & Nachfassen",
+  "description": "Prozessautomatisierung mit KI in Korneuburg: Anfragen erfassen, Angebote nachfassen, Kontakte pflegen. Für Betriebe mit Kunden in Wien und Umgebung.",
+  "h1": "KI & Prozessautomatisierung in Korneuburg",
+  "kicker": "KI-Automatisierung · Korneuburg",
+  "lead": "Korneuburg liegt direkt nördlich von Wien, viele Betriebe hier haben Kunden in der Stadt, die schnelle Reaktionen gewohnt sind. KI-Automatisierung sorgt dafür, dass jede Anfrage erfasst, jedes Angebot nachgefasst und kein Kontakt im Postfach vergessen wird.",
+  "fakten": [
+    "Anfrage rein, Kontakt angelegt, Erinnerung gesetzt",
+    "Nachfass-Mails als Entwurf, verschickt wird erst nach Ihrer Freigabe",
+    "Neue Firmenkunden finden mit SightUp, ab 0 € (3 Suchen/Monat)",
+    "Erstgespräch kostenlos, auch per Video-Call"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Nah an Wien: Kunden erwarten schnelle Antworten",
+      "html": "<p>Der <a href=\"/regionen/bezirk-korneuburg/\">Bezirk Korneuburg</a> grenzt an Wien, die Donau und die Pendlerwege prägen den Alltag. Für viele Handwerks-, Handels- und Dienstleistungsbetriebe ist Wien der wichtigste Markt. Dort vergleichen Kunden schnell mehrere Angebote, und wer zuerst sauber antwortet, hat oft die Nase vorn.</p>"
+    },
+    {
+      "h2": "Anfrage rein, Kontakt angelegt, Erinnerung gesetzt",
+      "html": "<p>Die einfachste Automatisierung mit spürbarer Wirkung ist eine saubere Anfrageverarbeitung:</p><ul><li>Die KI liest die Anfrage aus Formular oder E-Mail und erkennt Name, Firma, Anliegen und Dringlichkeit.</li><li>Der Kontakt wird in Ihrer Kundenliste oder Ihrem CRM angelegt, Dubletten werden erkannt.</li><li>Eine Eingangsbestätigung geht sofort hinaus, mit realistischem Zeitrahmen für die Rückmeldung.</li><li>Sie bekommen eine Erinnerung, falls nach zwei Tagen noch nichts passiert ist.</li></ul><p>Was ein CRM für kleine Betriebe leisten muss, erklärt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Angebote, die nicht im Sand verlaufen",
+      "html": "<p>Viele Angebote werden verschickt und dann vergessen. Eine Automatisierung erinnert nach einer festgelegten Zeit und schlägt eine kurze, persönliche Nachfass-Mail vor, die auf den Inhalt des Angebots eingeht. Sie lesen kurz drüber und schicken ab. Tipps zum richtigen Ton gibt der Ratgeber <a href=\"/wissen/angebot-nachfassen/\">Angebot nachfassen</a>.</p>"
+    },
+    {
+      "h2": "Neue Firmenkunden in der Nähe finden",
+      "html": "<p>Wer nicht nur auf Anfragen warten will, kann mit <a href=\"https://sightup.at/\">SightUp</a> passende Firmenkunden in der Umgebung suchen lassen. Das Tool bewertet sie von 0 bis 100 und schreibt einen Entwurf für die erste Nachricht, verschickt aber nichts automatisch. Das Gratis-Paket umfasst drei Suchen im Monat, Start kostet 19 € pro Monat.</p>"
+    },
+    {
+      "h2": "So geht es weiter",
+      "html": "<p>Im kostenlosen Erstgespräch zeigt Mühlberger Digital, wie das mit Ihren eigenen Anfragen aussehen würde. Die Umsetzung übernimmt Pipeline AI Solutions. Alles Grundsätzliche zur Leistung lesen Sie unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauchen wir dafür ein eigenes CRM-System?",
+      "a": "Nicht unbedingt. Für viele kleine Betriebe reicht am Anfang eine gut aufgebaute Tabelle oder die Kontaktverwaltung, die schon im E-Mail-Programm steckt. Ein CRM lohnt sich, wenn mehrere Personen mit denselben Kunden arbeiten oder der Überblick über viele offene Angebote fehlt. Die Automatisierung kann mit beidem arbeiten und später umziehen."
+    },
+    {
+      "q": "Schickt die KI selbstständig Nachfass-Mails an unsere Kunden?",
+      "a": "Nur wenn Sie das ausdrücklich so einstellen. Üblich und empfehlenswert ist, dass die KI einen Entwurf vorbereitet und Sie ihn mit einem Klick freigeben oder anpassen. So bleibt der Ton persönlich und Sie behalten im Blick, was hinausgeht. Automatisch verschickt werden meist nur Eingangsbestätigungen."
+    },
+    {
+      "q": "Wie schnell ist eine erste Automatisierung einsatzbereit?",
+      "a": "Das hängt vom Umfang und von Ihren bestehenden Programmen ab, deshalb nennen wir keine pauschale Frist. Ein einzelner, klar beschriebener Ablauf wie die Anfrageverarbeitung ist deutlich schneller umgesetzt als ein Projekt mit mehreren Systemen. Nach dem Erstgespräch steht der Zeitrahmen im schriftlichen Angebot."
+    },
+    {
+      "q": "Was passiert mit Anfragen, die gar nicht zu uns passen?",
+      "a": "Auch die lassen sich erkennen. Fragt jemand nach einer Leistung, die Sie nicht anbieten, oder liegt der Ort weit außerhalb Ihres Gebiets, kann die KI eine freundliche Absage oder einen Hinweis vorbereiten. So bekommt jeder rasch eine Antwort und Ihr Team verbringt keine Zeit mit Anfragen, aus denen ohnehin kein Auftrag wird."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-korneuburg/",
+    "/wissen/crm-kleine-betriebe/",
+    "/wissen/angebot-nachfassen/",
+    "/produkte/sightup/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

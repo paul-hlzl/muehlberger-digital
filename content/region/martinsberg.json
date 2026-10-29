@@ -1,0 +1,56 @@
+{
+  "pfad": "/regionen/martinsberg/",
+  "title": "Digitalagentur Martinsberg: Websites fürs Handwerk",
+  "description": "Für Handwerksbetriebe in Martinsberg im Bezirk Zwettl: eine Website, die passende Anfragen bringt und Vertrauen schafft, persönlich beraten aus Ottenschlag.",
+  "h1": "Digitalagentur für Martinsberg",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Handwerksbetriebe in Martinsberg haben oft volle Auftragsbücher, aber keine Zeit für ihren Online-Auftritt. Mühlberger Digital hilft mit einer schlanken Website, die die richtigen Anfragen bringt und unpassende aussortiert. Jonas Mühlberger sitzt in Ottenschlag im selben Bezirk und kommt für das Gespräch direkt in Ihre Werkstatt.",
+  "fakten": [
+    "Martinsberg liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Websites für Handwerksbetriebe mit wenig Zeit",
+    "Starter-Website ab 2.500 € einmalig, bis zu 5 Seiten",
+    "Erstgespräch kostenlos, gern direkt in der Werkstatt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Volle Auftragsbücher, unpassende Anfragen",
+      "html": "<p>Ein Tischler mit zwei Mitarbeitern in einer Gemeinde wie Martinsberg braucht selten mehr Anfragen, sondern passendere. Wenn jemand anruft, um ein Angebot für eine Arbeit einzuholen, die Sie gar nicht machen, kostet das Zeit am Abend. Eine Website hilft genau hier: Sie zeigt, was Sie machen, was nicht, und ab wann ein Auftrag für Sie sinnvoll ist.</p><p>Wie eine gute Handwerker-Website aufgebaut ist, beschreibt der Ratgeber <a href=\"/wissen/handwerker-website/\">Handwerker-Website</a>.</p>"
+    },
+    {
+      "h2": "Was auf die Website gehört",
+      "html": "<ul><li><strong>Leistungen in klaren Worten</strong>: nicht „Holzarbeiten aller Art“, sondern Küchen, Stiegen, Fenster, Reparaturen.</li><li><strong>Fotos echter Arbeiten</strong>: am besten mit kurzer Beschreibung, was gemacht wurde.</li><li><strong>Einzugsgebiet und Wartezeit</strong>: Wohin fahren Sie, und wann wäre frühestens Zeit?</li><li><strong>Ein Anfrageformular</strong>, das Maße, Fotos und Wunschtermin gleich mit abfragt.</li></ul><p>So kommen weniger Rückfragen, und Sie sehen auf einen Blick, ob eine Anfrage passt. Branchenspezifische Hinweise finden Sie etwa auf der Seite für <a href=\"/branchen/tischler/\">Tischler</a>.</p>"
+    },
+    {
+      "h2": "Was es kostet und wie es abläuft",
+      "html": "<p>Die Starter-Website beginnt bei 2.500 € einmalig als unverbindlicher Richtpreis. Enthalten sind bis zu fünf Seiten, die Darstellung auf Smartphone, Tablet und Computer, Kontaktformular, Impressum, Datenschutz und Hosting sowie eine Optimierung für Google und KI-Suchen.</p><p>Der Ablauf ist überschaubar: Erstgespräch, Bedarf klären, Lösung ansehen, Umsetzung abstimmen. Wie jeder Schritt aussieht, steht auf der Seite <a href=\"/ablauf/\">Ablauf</a>. Wie Ihre Startseite aussehen könnte, zeigt vorab der kostenlose <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Startseiten-Entwurf von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "Persönlich im Bezirk Zwettl",
+      "html": "<p>Martinsberg liegt wie Ottenschlag im Bezirk Zwettl. Jonas Mühlberger kommt daher gern zu Ihnen, am liebsten dorthin, wo Sie arbeiten, denn in der Werkstatt sieht man schneller, was die Website zeigen sollte. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, also nach Feierabend.</p><p>Mehr zur Umgebung: <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ich habe genug Arbeit. Warum sollte ich eine Website haben?",
+      "a": "Eine Website ist nicht nur für Neukunden da. Sie hilft, unpassende Anfragen zu vermeiden, macht Sie für Lehrlinge und Fachkräfte sichtbar und gibt Stammkunden einen verlässlichen Ort für Ihre Kontaktdaten. Wenn Sie aber auf Jahre ausgebucht sind und kein Personal suchen, kann ein gepflegter Google-Eintrag vorerst reichen. Das besprechen wir ehrlich im Erstgespräch."
+    },
+    {
+      "q": "Muss ich die Texte für meine Website selbst schreiben?",
+      "a": "Nein. Sie erzählen im Gespräch, was Sie machen, für wen und wie Sie arbeiten. Daraus entstehen Textvorschläge, die Sie lesen, ändern und freigeben. Wichtig sind vor allem Ihre Fotos von echten Arbeiten und Ihre Einschätzung, welche Aufträge Sie gern übernehmen. Fachbegriffe übersetzen wir so, dass Kundinnen und Kunden sie verstehen."
+    },
+    {
+      "q": "Kann ich die Website später erweitern?",
+      "a": "Ja. Die Starter-Website mit bis zu fünf Seiten ist ein Einstieg. Später lassen sich etwa eine Karriereseite, eine Galerie mit Arbeiten oder ein Chatbot wie Pipebot ergänzen, der Fragen rund um die Uhr mit Ihren Inhalten beantwortet. Größere Erweiterungen bekommen ein eigenes schriftliches Angebot, damit Sie die Kosten vorher kennen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/wissen/handwerker-website/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

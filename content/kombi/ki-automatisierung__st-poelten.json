@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/st-poelten/",
+  "title": "KI-Automatisierung in St. Pölten: Ausschreibungen & Akten",
+  "description": "Prozessautomatisierung mit KI in St. Pölten: Ausschreibungen schneller sichten, Nachweise griffbereit halten, Besprechungen mit Auftraggebern dokumentieren.",
+  "h1": "KI & Prozessautomatisierung in St. Pölten",
+  "kicker": "KI-Automatisierung · St. Pölten",
+  "lead": "In der Landeshauptstadt St. Pölten arbeiten viele Betriebe für öffentliche Auftraggeber oder mit viel Formular- und Nachweisaufwand. KI-Automatisierung hilft, Ausschreibungsunterlagen schneller zu sichten, Nachweise griffbereit zu halten und Besprechungen sauber zu dokumentieren, die Verantwortung bleibt bei Ihnen.",
+  "fakten": [
+    "Ausschreibungen: Anforderungen und Termine als Übersicht herausziehen",
+    "Firmennachweise zentral, mit Hinweis vor Ablauf",
+    "Besprechungsprotokolle mit noteit, ohne Bot im Call",
+    "Für St. Pölten-Stadt und den Bezirk St. Pölten-Land"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Landeshauptstadt: viel Verwaltung, viele Unterlagen",
+      "html": "<p>St. Pölten ist Sitz der niederösterreichischen Landesverwaltung, gut angebunden an der Westbahn zwischen Wien und Linz. Für Bau- und Planungsbetriebe, IT-Dienstleister oder Reinigungsfirmen, die für öffentliche Stellen arbeiten, gehören umfangreiche Unterlagen zum Alltag. Mehr über die Region steht auf den Seiten <a href=\"/regionen/st-poelten/\">St. Pölten</a> und <a href=\"/regionen/bezirk-st-poelten-land/\">Bezirk St. Pölten-Land</a>.</p>"
+    },
+    {
+      "h2": "Ausschreibungen schneller sichten",
+      "html": "<p>Eine Ausschreibung umfasst schnell dutzende Seiten. Die KI kann daraus eine Übersicht machen: Leistungsumfang, geforderte Nachweise, Abgabetermin, Fragenfrist, Zuschlagskriterien. So sehen Sie in wenigen Minuten, ob sich eine Teilnahme lohnt. Die vollständige Prüfung der Unterlagen bleibt Ihre Aufgabe, die KI ist ein Lesehelfer, kein Ersatz dafür.</p><p>Dazu kommt ein praktischer Nebeneffekt: Fragen an den Auftraggeber, die beim Lesen auftauchen, sammelt die KI gleich in einer Liste. So geht vor Ablauf der Fragenfrist nichts verloren, und Sie formulieren Ihre Rückfragen gesammelt statt einzeln.</p>"
+    },
+    {
+      "h2": "Nachweise und Unterlagen griffbereit",
+      "html": "<p>Firmenbuchauszug, Versicherungsnachweise, Referenzlisten, Zertifikate: Eine Automatisierung legt sie zentral ab, merkt sich Gültigkeiten und erinnert Sie rechtzeitig, bevor etwas abläuft. Für eine neue Ausschreibung stellt sie die geforderten Dokumente zusammen. Wie ein digitales Büro grundsätzlich aufgebaut wird, beschreibt der Ratgeber <a href=\"/wissen/papierloses-buero/\">Papierloses Büro</a>.</p>"
+    },
+    {
+      "h2": "Besprechungen mit Auftraggebern dokumentieren",
+      "html": "<p>Abstimmungstermine laufen oft per Video-Call. Mit <a href=\"/produkte/noteit/\">noteit</a> entsteht etwa zwei Minuten nach dem Gespräch ein Protokoll mit Beschlüssen und Aufgaben, gespeichert in Frankfurt. Der Starter-Tarif kostet 0 € für drei Stunden pro Monat. Weitere Bausteine beschreibt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann eine KI eine Ausschreibung auf Muss-Kriterien prüfen?",
+      "a": "Sie kann Muss-Kriterien, Nachweise und Fristen herausziehen und übersichtlich auflisten, was beim Lesen viel Zeit spart. Verlassen sollten Sie sich darauf aber nicht allein: Formulierungen in Ausschreibungen sind oft verschachtelt, und ein übersehenes Detail kann zum Ausschluss führen. Die KI liefert eine Arbeitsgrundlage, die abschließende Prüfung macht ein Mensch."
+    },
+    {
+      "q": "Kommt jemand für das Erstgespräch nach St. Pölten?",
+      "a": "Mühlberger Digital hat seinen Schwerpunkt im Waldviertel und in Niederösterreich, St. Pölten ist daher gut erreichbar. Das kostenlose Erstgespräch dauert etwa 30 Minuten und findet vor Ort, am Telefon oder per Video-Call statt. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr."
+    },
+    {
+      "q": "Wer setzt die Automatisierung technisch um?",
+      "a": "Die technische Umsetzung und der Vertrag laufen über Pipeline AI Solutions, das Team von Paul Hölzl und Ben Braunsperger aus Oberösterreich. Mühlberger Digital berät, klärt den Bedarf und vermittelt das Projekt. Sie bekommen vorab ein schriftliches Angebot mit klarem Preis und wissen, wer wofür zuständig ist."
+    },
+    {
+      "q": "Ist das auch für kleine Betriebe ohne eigene Ausschreibungsabteilung sinnvoll?",
+      "a": "Gerade dort, denn in kleinen Betrieben liest meist der Chef selbst die Unterlagen, oft am Abend. Eine Übersicht der Anforderungen hilft, schneller zu entscheiden, ob sich eine Teilnahme lohnt, und spart das Zusammensuchen der Nachweise. Wer nur selten an Ausschreibungen teilnimmt, braucht dafür keine eigene Automatisierung, dann reicht eine gut gepflegte Nachweismappe."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/st-poelten/",
+    "/regionen/bezirk-st-poelten-land/",
+    "/produkte/noteit/",
+    "/wissen/papierloses-buero/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

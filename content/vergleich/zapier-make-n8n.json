@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/zapier-make-n8n/",
+  "title": "Zapier, Make oder n8n? Automatisierung im Vergleich",
+  "description": "Zapier, Make oder n8n für die Automatisierung im Betrieb? Bedienung, Flexibilität, Datenschutz und Kostenlogik neutral verglichen, mit Empfehlung.",
+  "h1": "Zapier, Make oder n8n?",
+  "kicker": "Vergleich · Automatisierung",
+  "lead": "Zapier ist am einfachsten für den Einstieg und verbindet sehr viele Programme mit wenigen Klicks. Make bietet einen visuellen Baukasten für verzweigte Abläufe und mehr Kontrolle im Detail. n8n ist am flexibelsten und lässt sich auch auf einem eigenen Server betreiben, verlangt dafür mehr technisches Verständnis. Welches passt, hängt davon ab, wie komplex Ihre Abläufe sind und wo Ihre Daten liegen sollen.",
+  "fakten": [
+    "Alle drei verbinden Programme, damit Daten ohne Abtippen weiterfließen",
+    "Zapier: sehr einsteigerfreundlich, große Auswahl an Anbindungen",
+    "Make: visuelle Abläufe mit Verzweigungen",
+    "n8n: auch selbst betreibbar, gut für sensible Daten und eigene Logik"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was diese Werkzeuge überhaupt machen",
+      "html": "<p>Zapier, Make und n8n sind Automatisierungsplattformen. Sie verbinden Programme, die sonst nicht miteinander sprechen. Ein typischer Ablauf (siehe <a href=\"/glossar/workflow/\">Glossar: Workflow</a>): Jemand füllt das Kontaktformular aus, die Anfrage landet automatisch in der Kundenliste, das Büro bekommt eine Nachricht und der Kunde eine Bestätigung.</p><p>Ausgelöst werden solche Abläufe oft über einen <a href=\"/glossar/webhook/\">Webhook</a>, also eine automatische Meldung eines Programms an ein anderes. Alle drei Werkzeuge kommen ohne klassisches Programmieren aus, unterscheiden sich aber deutlich in Bedienung, Flexibilität und Betrieb. Grundlagen dazu: <a href=\"/wissen/automatisierung-ohne-programmieren/\">Automatisierung ohne Programmieren</a>.</p>"
+    },
+    {
+      "h2": "Zapier: der einfache Einstieg",
+      "html": "<p>Zapier ist bekannt für seine Einsteigerfreundlichkeit und eine sehr große Zahl an fertigen Anbindungen zu gängigen Programmen. Abläufe werden Schritt für Schritt zusammengeklickt: „Wenn das passiert, dann tu das.“</p><ul><li><strong>Stärken:</strong> schneller Start, viele Anbindungen, verständliche Oberfläche.</li><li><strong>Grenzen:</strong> Bei vielen Ausführungen steigen die Kosten spürbar; komplexe Logik wird schnell unübersichtlich. Betrieben wird es ausschließlich als Cloud-Dienst.</li></ul><p>Typische Situation: Ein Fotograf möchte, dass jede neue Buchungsanfrage automatisch in seinem Kalender und in einer Tabelle landet. Das ist mit Zapier in kurzer Zeit erledigt.</p>"
+    },
+    {
+      "h2": "Make: visuell und detailreich",
+      "html": "<p>Make (früher Integromat) zeigt Abläufe als Diagramm mit verbundenen Bausteinen. Verzweigungen, Filter und Schleifen lassen sich gut darstellen, und Daten können unterwegs umfangreich umgewandelt werden.</p><ul><li><strong>Stärken:</strong> übersichtlich bei verzweigten Abläufen, viel Kontrolle über Daten, gutes Verhältnis von Leistung und Kosten bei mittlerer Komplexität.</li><li><strong>Grenzen:</strong> etwas steilere Lernkurve als Zapier, ebenfalls ein reiner Cloud-Dienst.</li></ul><p>Typische Situation: Eine Reinigungsfirma will Anfragen je nach Region und Objektart an unterschiedliche Teamleiter verteilen und bei Großkunden zusätzlich ein Angebot vorbereiten lassen.</p>"
+    },
+    {
+      "h2": "n8n: flexibel und selbst betreibbar",
+      "html": "<p>n8n ist ebenfalls ein visuelles Automatisierungswerkzeug, kann aber neben der Cloud-Variante auch auf einem eigenen Server betrieben werden. Damit bleiben Daten auf Wunsch vollständig in Ihrer Infrastruktur, etwa auf einem Server in Europa.</p><ul><li><strong>Stärken:</strong> sehr flexibel, eigener Code möglich, gute Möglichkeiten zur Einbindung von KI, bei Eigenbetrieb volle Datenhoheit.</li><li><strong>Grenzen:</strong> mehr technisches Verständnis nötig; wer selbst betreibt, ist auch für Updates und Sicherheit zuständig.</li></ul><p>Typische Situation: Eine Arztpraxis möchte interne Abläufe automatisieren, bei denen sensible Daten im Spiel sind, und will genau wissen, wo diese verarbeitet werden. Mehr zum Speicherort im Vergleich <a href=\"/vergleiche/hosting-europa-oder-usa/\">Hosting in Europa oder den USA</a>.</p>"
+    },
+    {
+      "h2": "Zapier, Make und n8n im Vergleich",
+      "html": "<p>Preise und Tarife ändern sich regelmäßig; die Tabelle beschreibt daher nur grundsätzliche Unterschiede.</p><table><thead><tr><th>Kriterium</th><th>Zapier</th><th>Make</th><th>n8n</th></tr></thead><tbody><tr><td>Einstieg</td><td>sehr einfach</td><td>mittel</td><td>anspruchsvoller</td></tr><tr><td>Darstellung der Abläufe</td><td>Schritt-für-Schritt-Liste</td><td>visuelles Diagramm</td><td>visuelles Diagramm</td></tr><tr><td>Komplexe Logik</td><td>möglich, wird unübersichtlich</td><td>gut</td><td>sehr gut, auch mit eigenem Code</td></tr><tr><td>Betrieb</td><td>Cloud</td><td>Cloud</td><td>Cloud oder eigener Server</td></tr><tr><td>Datenhoheit</td><td>beim Anbieter</td><td>beim Anbieter</td><td>bei Eigenbetrieb vollständig bei Ihnen</td></tr><tr><td>Kostenlogik</td><td>steigt mit der Nutzung</td><td>steigt mit der Nutzung</td><td>Cloud nach Nutzung, Eigenbetrieb mit Serverkosten</td></tr><tr><td>Passt zu</td><td>einfachen Verbindungen</td><td>verzweigten Abläufen</td><td>individuellen, datensensiblen Lösungen</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Erste einfache Automatisierung, kein Technikinteresse:</strong> Zapier.</li><li><strong>Mehrere Verzweigungen und Datenumwandlungen:</strong> Make.</li><li><strong>Sensible Daten, eigene Logik, KI-Einbindung oder viele Ausführungen:</strong> n8n, idealerweise von einem Dienstleister eingerichtet und betreut.</li></ul><p>Wichtiger als das Werkzeug ist der Ablauf dahinter: Was genau soll passieren, und wer prüft, ob es funktioniert? Pipeline AI Solutions plant und baut solche Abläufe – Beispiele finden Sie bei den <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline AI Solutions</a> und unter <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich Programmierkenntnisse für Zapier, Make oder n8n?",
+      "a": "Für einfache Abläufe in Zapier und Make nicht. Sie klicken Auslöser und Aktionen zusammen und testen das Ergebnis. Bei verzweigten Abläufen hilft logisches Denken und etwas Übung. n8n ist ebenfalls ohne Code nutzbar, spielt seine Stärken aber besonders aus, wenn jemand mit technischem Verständnis dabei ist – vor allem, wenn Sie es auf einem eigenen Server betreiben."
+    },
+    {
+      "q": "Welches Werkzeug ist am günstigsten?",
+      "a": "Das lässt sich nicht pauschal sagen, weil es von der Zahl der Abläufe und Ausführungen abhängt. Bei Zapier und Make steigen die Kosten mit der Nutzung, bei selbst betriebenem n8n zahlen Sie vor allem für Server und Betreuung. Für wenige einfache Abläufe reicht oft eine kleine Variante, bei vielen Ausführungen kann Eigenbetrieb günstiger sein. Prüfen Sie die aktuellen Preise direkt beim Anbieter."
+    },
+    {
+      "q": "Ist n8n datenschutzfreundlicher als Zapier und Make?",
+      "a": "Wenn Sie n8n auf einem eigenen Server in Europa betreiben, behalten Sie die volle Kontrolle darüber, wo Daten verarbeitet werden. Das ist ein Vorteil bei sensiblen Daten. Bei Cloud-Diensten wie Zapier, Make oder der n8n-Cloud müssen Sie prüfen, wo verarbeitet wird und welche Verträge gelten. Im Einzelfall hilft die Datenschutzbehörde oder Ihre Rechtsberatung weiter."
+    },
+    {
+      "q": "Was kann ich in einem kleinen Betrieb automatisieren?",
+      "a": "Typische Beispiele sind Anfragen aus dem Kontaktformular, die automatisch in einer Kundenliste landen, Terminbestätigungen und Erinnerungen, die Ablage von Belegen, das Sortieren von E-Mails oder Hinweise an das Team bei neuen Bestellungen. Fangen Sie mit einem Ablauf an, der häufig vorkommt und nervt. Weitere Ideen finden Sie in unserem Ratgeber mit Automatisierungsbeispielen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/wissen/automatisierung-beispiele/",
+    "/wissen/automatisierung-ohne-programmieren/",
+    "/wissen/prozessautomatisierung-erklaert/",
+    "/glossar/webhook/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

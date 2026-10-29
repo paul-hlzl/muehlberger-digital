@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/zahnarzt/",
+  "title": "Digitale Lösungen für Zahnarztpraxen: Angst & Akutfälle",
+  "description": "Angstpatienten, Schmerztermine, Mundhygiene-Recall und Privatleistungen erklären: Wie Zahnarztpraxen online Vertrauen schaffen und Abläufe entlasten.",
+  "h1": "Digitale Lösungen für Zahnarztpraxen",
+  "kicker": "Branche · Zahnmedizin",
+  "lead": "Zahnarztpraxen haben zwei besondere Herausforderungen: Viele Patienten kommen mit Angst, und viele Leistungen sind erklärungsbedürftig, weil die Kasse sie nicht oder nur teilweise übernimmt. Eine Website, die Vertrauen schafft, klare Infos zu Schmerzterminen und eine automatische Erinnerung an Mundhygiene und Kontrolle bringen hier am meisten.",
+  "fakten": [
+    "Echte Team- und Praxisfotos helfen Angstpatienten mehr als Symbolbilder",
+    "Klare Infos, wie Schmerzpatienten ohne Termin drankommen",
+    "Recall für Mundhygiene und Kontrolle automatisch verschicken, mit Einwilligung",
+    "Privatleistungen sachlich erklären, im Rahmen der standesrechtlichen Regeln"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Angstpatienten: Die Website ist der erste Kontakt",
+      "html": "<p>Viele Menschen schieben einen Zahnarztbesuch lange hinaus, weil sie Angst haben. Bevor sie anrufen, schauen sie sich die Website an: Wie sieht die Praxis aus, wer arbeitet dort, wie gehen die mit Angst um? Ein Stockfoto mit strahlendem Lächeln beruhigt niemanden.</p><p>Was hilft, sind echte Fotos vom Team und vom Behandlungsraum, eine kurze persönliche Vorstellung und ein ehrlicher Absatz für Angstpatienten: dass man vorher über alles reden kann, dass man Pausen machen kann, was bei der ersten Untersuchung passiert. Wie man eine solche Seite schreibt, beschreibt der Ratgeber zur <a href=\"/wissen/ueber-uns-seite/\">Über-uns-Seite</a>.</p>"
+    },
+    {
+      "h2": "Schmerzpatienten: Was tun, wenn es akut weh tut?",
+      "html": "<p>Bei Zahnschmerzen am Morgen sucht der Patient sofort: Wann kann ich kommen? Muss ich anrufen oder einfach vorbeikommen? Was mache ich am Wochenende? Diese Fragen gehören ganz nach oben auf die Website.</p><ul><li>Gibt es eine Schmerzsprechstunde oder fixe Zeiten für Akutfälle?</li><li>Soll vorher angerufen werden, und unter welcher Nummer?</li><li>Wo finden Patienten am Wochenende und an Feiertagen den zahnärztlichen Notdienst?</li></ul><p>Ein <a href=\"/leistungen/ki-chatbot/\">Chatbot</a> kann solche organisatorischen Fragen abends beantworten, mit Ihren eigenen Texten. Fragen zu Symptomen oder Medikamenten beantwortet er nicht, sondern verweist an die Praxis oder den Notdienst.</p>"
+    },
+    {
+      "h2": "Mundhygiene und Kontrolle: der Recall",
+      "html": "<p>Regelmäßige Kontrollen und Mundhygiene sind für die Praxis planbare Termine und für Patienten wichtig, werden aber leicht vergessen. Eine automatische Erinnerung per SMS oder E-Mail mit Link zur Terminanfrage bringt viele Patienten zurück, ohne dass jemand durch die Kartei telefoniert.</p><p>Dafür braucht es die Einwilligung der Patienten, die Sie am besten beim ersten Besuch einholen. Und es braucht eine saubere technische Lösung, weil schon ein Termin bei einer Zahnarztpraxis als Gesundheitsinformation gelten kann. Im Einzelfall klären Sie die Anforderungen mit der Zahnärztekammer oder einem Anwalt.</p>"
+    },
+    {
+      "h2": "Privatleistungen sachlich erklären",
+      "html": "<p>Implantate, Bleaching, professionelle Mundhygiene, ästhetische Füllungen: Viele Patienten wissen nicht, was davon die Kasse übernimmt, was es ungefähr kostet und welche Alternativen es gibt. Eine sachliche Seite pro Leistung, mit Ablauf, Dauer und dem Hinweis, dass ein Kostenvoranschlag erstellt wird, nimmt Unsicherheit.</p><p>Bleiben Sie dabei nüchtern und ohne Heilversprechen, denn für Zahnärzte gelten standesrechtliche Regeln zur Werbung. Was im Einzelnen erlaubt ist, beantwortet die Zahnärztekammer. Ob eine bestehende Website dafür noch passt, zeigt oft erst ein <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a>.</p>"
+    },
+    {
+      "h2": "Bewertungen: Antworten mit Fingerspitzengefühl",
+      "html": "<p>Zahnarztpraxen werden oft bewertet, und negative Bewertungen drehen sich meist um Wartezeit oder Kosten. Die Antwort darauf ist heikel, weil Sie keine Behandlungsdetails nennen dürfen. Eine sachliche, freundliche Antwort ohne Bezug auf die Behandlung, mit dem Angebot eines persönlichen Gesprächs, wirkt auf spätere Leser professionell.</p><p>Tipps dazu gibt der Ratgeber <a href=\"/wissen/auf-bewertungen-antworten/\">auf Bewertungen antworten</a>.</p>"
+    },
+    {
+      "h2": "Womit eine Zahnarztpraxis anfangen sollte",
+      "html": "<p>Zuerst eine Website mit echten Fotos, klaren Infos zu Akutterminen und einer sachlichen Leistungsübersicht. Dann der Recall. Ein Chatbot oder Telefonassistent lohnt sich, wenn das Telefon dauerhaft überlastet ist.</p><p>Wie Ihre Startseite neu aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">kostenlose Website-Entwurf</a>. Im Erstgespräch klären wir die Reihenfolge, auch abends nach der Ordination.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie gestaltet man eine Zahnarzt-Website für Angstpatienten?",
+      "a": "Mit echten Fotos vom Team und von der Praxis, einer persönlichen Vorstellung und einem eigenen Abschnitt, der erklärt, wie die Praxis mit Angst umgeht: ein Gespräch vor der Behandlung, die Möglichkeit, Pausen zu verlangen, und was beim ersten Termin passiert. Ruhige Sprache ohne medizinischen Fachjargon hilft. Symbolbilder mit perfektem Lächeln wirken dagegen eher abschreckend."
+    },
+    {
+      "q": "Darf ich Patienten automatisch an die Kontrolle erinnern?",
+      "a": "Mit Einwilligung des Patienten ist das in der Regel möglich und für beide Seiten nützlich. Holen Sie die Einwilligung am besten beim ersten Besuch schriftlich ein. Weil schon ein Zahnarzttermin als Gesundheitsinformation gelten kann, braucht es eine sichere technische Lösung. Für die rechtliche Beurteilung im Einzelfall wenden Sie sich an die Zahnärztekammer, einen Anwalt oder die Datenschutzbehörde."
+    },
+    {
+      "q": "Kann ein Chatbot Patienten bei Zahnschmerzen helfen?",
+      "a": "Er kann organisatorisch helfen: wann die Schmerzsprechstunde ist, unter welcher Nummer man anruft und wo man am Wochenende den Notdienst findet. Medizinische Ratschläge, etwa zu Schmerzmitteln, gibt er nicht. Pipebot antwortet nur mit den Inhalten, die Sie hinterlegen, und verbindet bei Unsicherheit mit dem Team. Er kostet 19 € pro Monat, die ersten 30 Tage sind gratis."
+    },
+    {
+      "q": "Was kostet eine neue Website für eine Zahnarztpraxis?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Hosting, Impressum, Datenschutz und Kontaktformular. Viele Zahnarztpraxen brauchen mehr, etwa eigene Seiten für Leistungen, ein Team-Bereich und eine Terminanfrage. Dann ist es ein individuelles Projekt, dessen Preis nach dem Erstgespräch schriftlich angeboten wird, bevor etwas umgesetzt wird."
+    }
+  ],
+  "verwandt": ["/wissen/praxis-website/", "/wissen/auf-bewertungen-antworten/", "/leistungen/website-relaunch/", "/leistungen/ki-chatbot/", "/branchen/arztpraxis/"],
+  "checks": ["website-entwurf", "chatbot-test"]
+}

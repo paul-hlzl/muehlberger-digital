@@ -1,0 +1,76 @@
+{
+  "pfad": "/wissen/duplicate-content/",
+  "title": "Doppelte Inhalte auf der Website vermeiden",
+  "description": "Doppelte Inhalte vermeiden: wie Duplicate Content entsteht, was Google damit macht und wie Sie Kopien, Varianten und Herstellertexte in den Griff bekommen.",
+  "h1": "Doppelte Inhalte vermeiden",
+  "kicker": "Ratgeber · Technisches SEO",
+  "lead": "Doppelte Inhalte, auch Duplicate Content genannt, sind gleiche oder fast gleiche Texte unter verschiedenen Adressen. Google bestraft das selten direkt, wählt aber selbst eine Version aus und zeigt die anderen nicht, was Sichtbarkeit kostet. Vermeiden lässt es sich mit eigenen Texten je Seite, einer eindeutigen Hauptadresse und Weiterleitungen.",
+  "fakten": [
+    "Duplicate Content entsteht oft technisch, ohne dass jemand Texte kopiert",
+    "Google filtert Doppelungen meist aus, statt die Website zu bestrafen",
+    "Kopierte Ortsseiten und Herstellertexte sind die häufigsten inhaltlichen Ursachen",
+    "Weiterleitungen und Canonical-Angaben legen fest, welche Version zählt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was als doppelter Inhalt gilt",
+      "html": "<p>Doppelter Inhalt liegt vor, wenn derselbe oder fast derselbe Text unter mehreren Webadressen erreichbar ist. Das kann innerhalb Ihrer eigenen Website passieren oder zwischen verschiedenen Websites, etwa wenn ein Händler die Produkttexte des Herstellers übernimmt.</p> <p>Wichtig ist der Unterschied zu normalen Wiederholungen. Ihr Firmenname, die Kontaktdaten im Fußbereich oder ein kurzer Hinweis auf den Notdienst dürfen auf jeder Seite stehen. Problematisch wird es, wenn ganze Seiten fast identisch sind und sich nur durch ein Wort unterscheiden.</p>"
+    },
+    {
+      "h2": "Was Google damit macht",
+      "html": "<p>Ein verbreiteter Irrglaube ist die „Duplicate-Content-Strafe“. In den meisten Fällen bestraft Google nicht, sondern sortiert aus: Aus mehreren gleichen Seiten wird eine ausgewählt und angezeigt, die anderen verschwinden aus den Ergebnissen. Das Problem ist, dass Google dabei vielleicht nicht die Version wählt, die Sie bevorzugen würden.</p> <p>Anders sieht es aus, wenn Doppelungen gezielt eingesetzt werden, um mit vielen fast gleichen Seiten bei möglichst vielen Suchen aufzutauchen. Das wertet Google als Manipulation und kann die Sichtbarkeit der ganzen Website verringern. Ein typisches Beispiel sind kopierte Ortsseiten, mehr dazu unter <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages richtig machen</a>.</p>"
+    },
+    {
+      "h2": "Technische Ursachen erkennen",
+      "html": "<p>Viele Doppelungen entstehen, ohne dass jemand einen Text kopiert hat:</p> <ul> <li><strong>Mit und ohne www:</strong> beispiel.at und www.beispiel.at zeigen dieselbe Seite.</li> <li><strong>http und https:</strong> Die alte unverschlüsselte Version ist noch erreichbar. Siehe <a href=\"/wissen/ssl-https/\">SSL und HTTPS einfach erklärt</a>.</li> <li><strong>Schrägstrich am Ende:</strong> /leistungen und /leistungen/ als zwei Adressen.</li> <li><strong>Parameter:</strong> Filter, Sortierungen oder Werbe-Kennzeichen erzeugen neue Adressen für denselben Inhalt.</li> <li><strong>Druckversionen und PDFs</strong>, die denselben Text noch einmal enthalten.</li> <li><strong>Testumgebungen:</strong> Eine Kopie der Website auf einer Testadresse ist öffentlich auffindbar.</li> </ul>"
+    },
+    {
+      "h2": "Inhaltliche Ursachen erkennen",
+      "html": "<ul> <li><strong>Ortsseiten mit Textbausteinen:</strong> derselbe Text für zwanzig Orte.</li> <li><strong>Herstellertexte im Shop:</strong> Hunderte Händler verwenden dieselbe Beschreibung. Ihre Seite hat dann keinen Grund, bevorzugt zu werden.</li> <li><strong>Leistungsseiten nach Schema:</strong> „Badsanierung“ und „Badumbau“ mit fast identischem Inhalt.</li> <li><strong>Übernommene Texte:</strong> Texte von einer anderen Website, auch vom eigenen Lieferanten. Das ist zusätzlich oft ein Urheberrechtsproblem.</li> <li><strong>Mehrere Domains:</strong> Zwei Websites eines Betriebs zeigen dieselben Inhalte.</li> </ul>"
+    },
+    {
+      "h2": "So beheben Sie technische Doppelungen",
+      "html": "<ol> <li><strong>Eine Hauptadresse festlegen:</strong> zum Beispiel https mit www. Alle anderen Varianten leiten dauerhaft darauf weiter (Weiterleitung mit Status 301).</li> <li><strong>Canonical-Angabe setzen:</strong> Jede Seite nennt im Code ihre „offizielle“ Adresse. Varianten mit Parametern verweisen so auf das Original.</li> <li><strong>Testumgebungen schützen:</strong> mit Passwort oder Sperre für Suchmaschinen.</li> <li><strong>Interne Links vereinheitlichen:</strong> Verlinken Sie immer auf die Hauptadresse, nicht auf Varianten.</li> <li><strong>Sitemap prüfen:</strong> Die XML-Sitemap sollte nur die Hauptversionen enthalten.</li> </ol> <p>Ob Google Ihre bevorzugte Version gewählt hat, sehen Sie in der <a href=\"/wissen/google-search-console/\">Google Search Console</a> unter der URL-Prüfung.</p>"
+    },
+    {
+      "h2": "So beheben Sie inhaltliche Doppelungen",
+      "html": "<ul> <li><strong>Zusammenlegen:</strong> Zwei fast gleiche Seiten werden zu einer starken Seite, die alte leitet weiter.</li> <li><strong>Unterscheiden:</strong> Wenn beide Seiten bleiben sollen, braucht jede eigenen Inhalt, eigene Beispiele und eigene Fragen.</li> <li><strong>Eigene Produkttexte:</strong> Schreiben Sie zumindest für Ihre wichtigsten Produkte eigene Beschreibungen mit Ihrer Erfahrung. „Bei uns im Laden oft gefragt, weil …“ ist etwas, das kein Hersteller liefern kann.</li> <li><strong>Ortsseiten ehrlich machen:</strong> nur für Orte, zu denen Sie etwas Konkretes sagen können.</li> </ul> <p>Ein Fahrradhändler, der zu seinen zehn meistverkauften Modellen eigene Erfahrungen aufschreibt, hebt sich von allen ab, die nur den Herstellertext übernehmen.</p>"
+    },
+    {
+      "h2": "Doppelte Inhalte selbst aufspüren",
+      "html": "<p>Ein einfacher Test: Kopieren Sie einen markanten Satz aus Ihrer Website, setzen Sie ihn in Anführungszeichen und suchen Sie bei Google danach. Erscheinen mehrere Seiten, haben Sie eine Doppelung gefunden, intern oder extern. Probieren Sie außerdem, ob Ihre Website mit und ohne www sowie mit http erreichbar ist, ohne weiterzuleiten.</p> <p>Gründlicher prüft der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>, der technische Probleme wie fehlende Weiterleitungen sichtbar macht. Bei der Bereinigung unterstützt die Leistung <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Bestraft Google doppelte Inhalte?",
+      "a": "In den meisten Fällen nicht. Google erkennt doppelte Inhalte und zeigt nur eine Version davon in den Suchergebnissen, die anderen werden ausgefiltert. Das kostet Sichtbarkeit, wenn die falsche Version gewählt wird. Eine echte Abwertung droht vor allem dann, wenn viele fast gleiche Seiten absichtlich angelegt werden, um bei möglichst vielen Suchanfragen aufzutauchen, etwa kopierte Ortsseiten."
+    },
+    {
+      "q": "Was ist eine Canonical-Angabe?",
+      "a": "Eine Canonical-Angabe ist ein kurzer Hinweis im Code einer Seite, der festlegt, welche Adresse die offizielle Version dieses Inhalts ist. Gibt es Varianten, etwa durch Filter oder Sortierungen im Shop, verweisen diese auf das Original. Google behandelt die Angabe als starken Hinweis, entscheidet aber letztlich selbst. Viele Content-Management-Systeme setzen Canonical-Angaben automatisch."
+    },
+    {
+      "q": "Darf ich Produkttexte vom Hersteller übernehmen?",
+      "a": "Technisch ist das möglich, und manche Hersteller erlauben es ausdrücklich. Für die Suche bringt es aber wenig, weil viele andere Händler denselben Text verwenden und Google keinen Grund hat, gerade Ihre Seite zu bevorzugen. Klären Sie außerdem, ob Sie die Texte nutzen dürfen. Besser ist es, zumindest für die wichtigsten Produkte eigene Beschreibungen mit Ihrer Erfahrung zu schreiben."
+    },
+    {
+      "q": "Sind Zitate und gleiche Textbausteine schon doppelter Inhalt?",
+      "a": "Nein. Kurze Wiederholungen wie Kontaktdaten im Fußbereich, ein gleicher Hinweis auf Öffnungszeiten oder ein gekennzeichnetes Zitat sind normal und kein Problem. Kritisch wird es erst, wenn der Hauptinhalt mehrerer Seiten weitgehend identisch ist. Als Faustregel gilt: Jede Seite sollte einen eigenen Zweck und genug eigenen Inhalt haben, dass sie auch allein Sinn ergibt."
+    },
+    {
+      "q": "Was mache ich, wenn jemand meine Texte kopiert hat?",
+      "a": "Meist erkennt Google die ursprüngliche Quelle und zeigt Ihre Seite weiterhin. Wenn die Kopie trotzdem besser sichtbar ist oder Ihnen schadet, können Sie den Betreiber freundlich um Entfernung bitten. Bei Urheberrechtsverletzungen gibt es außerdem ein Meldeverfahren bei Google. In rechtlichen Fragen hilft im Einzelfall eine Anwältin oder die Wirtschaftskammer weiter."
+    }
+  ],
+  "verwandt": [
+    "/wissen/lokale-landingpages/",
+    "/wissen/seo-fehler/",
+    "/wissen/google-search-console/",
+    "/wissen/ssl-https/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

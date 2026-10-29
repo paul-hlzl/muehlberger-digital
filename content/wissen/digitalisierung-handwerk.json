@@ -1,0 +1,65 @@
+{
+  "pfad": "/wissen/digitalisierung-handwerk/",
+  "title": "Digitalisierung im Handwerk: Praxis statt Theorie",
+  "description": "Digitalisierung im Handwerk: Anfragen, Aufmaß, Angebote, Baustellendoku, Zeiterfassung und Rechnungen digital – mit Beispielen und Checkliste für kleine Betriebe.",
+  "h1": "Digitalisierung im Handwerk",
+  "kicker": "Ratgeber · Handwerk",
+  "lead": "Digitalisierung im Handwerk bringt am meisten, wo heute Zeit zwischen Baustelle und Büro verloren geht: bei Anfragen, die niemand annimmt, bei Angeboten, die am Wochenende geschrieben werden, bei Stundenzetteln und Fotos, die erst Tage später im Büro landen. Ein durchgängiger Weg von der Anfrage über Angebot und Baustellendokumentation bis zur Rechnung spart Nacharbeit und bringt schneller Geld aufs Konto.",
+  "fakten": [
+    "Größter Hebel: der Weg von der Anfrage bis zur Rechnung ohne Medienbrüche",
+    "Anfragen auffangen, während alle auf der Baustelle sind",
+    "Fotos, Stunden und Material direkt vor Ort digital erfassen",
+    "Website und Google-Profil bleiben wichtig, auch für die Suche nach Lehrlingen",
+    "Schritt für Schritt einführen, mit dem Team statt über das Team hinweg"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo im Handwerksalltag Zeit verloren geht",
+      "html": "<p>Fast jeder Handwerksbetrieb kennt dieselben Situationen: Das Telefon läutet, während man auf der Leiter steht. Der Kunde will ein Angebot bis Freitag, geschrieben wird es Sonntagabend. Die Monteure schreiben Stunden auf Zettel, die im Auto liegen bleiben. Und wenn die Rechnung endlich raus ist, fehlt das Foto, das die Zusatzarbeit belegt.</p><p>Digitalisierung im Handwerk heißt nicht, Papier um jeden Preis abzuschaffen. Es heißt, diese Brüche zu schließen, damit Informationen einmal erfasst werden und dort ankommen, wo sie gebraucht werden. Wo genau Sie beginnen, klärt der Beitrag <a href=\"/wissen/digitalisierung-wo-anfangen/\">Digitalisierung im Betrieb: Wo anfangen?</a>.</p>"
+    },
+    {
+      "h2": "Anfragen annehmen, auch wenn niemand im Büro ist",
+      "html": "<p>Viele Aufträge gehen verloren, bevor sie beginnen: Der Kunde ruft an, niemand hebt ab, er ruft beim nächsten Betrieb an. Gerade kleine Betriebe ohne Bürokraft kennen das.</p><ul><li><strong>Anfrageformular mit den richtigen Fragen:</strong> Art der Arbeit, Ort, gewünschter Zeitraum, Fotos. So wissen Sie vor dem Rückruf, worum es geht.</li><li><strong>KI-Telefonassistent:</strong> nimmt Anrufe an, fragt das Anliegen ab und schickt eine Zusammenfassung, siehe <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a>.</li><li><strong>Chatbot auf der Website:</strong> beantwortet Fragen zu Leistungen, Einsatzgebiet und Ablauf rund um die Uhr.</li><li><strong>WhatsApp Business:</strong> viele Kunden schicken lieber ein Foto vom tropfenden Wasserhahn als zu telefonieren.</li></ul><p>Ein Beispiel: Ein Dachdecker bekommt nach einem Sturm Dutzende Anrufe. Der Telefonassistent sammelt Adresse, Schaden und Dringlichkeit, der Chef sortiert am Abend nach Notfällen und Region.</p>"
+    },
+    {
+      "h2": "Aufmaß, Angebot und Auftrag digital",
+      "html": "<p>Das Angebot ist oft der Engpass. Wer schneller und sauber anbietet, bekommt häufiger den Auftrag.</p><ul><li><strong>Aufmaß am Tablet oder Handy</strong> mit Fotos und Skizzen, direkt dem Kunden zugeordnet</li><li><strong>Textbausteine und Positionsvorlagen</strong> für wiederkehrende Leistungen</li><li><strong>KI als Formulierungshilfe</strong> für Begleittexte und Leistungsbeschreibungen, siehe <a href=\"/wissen/ki-angebote-schreiben/\">Angebote schneller schreiben mit KI</a></li><li><strong>Automatisches Nachfassen</strong> nach einigen Tagen, wenn keine Antwort kommt</li><li><strong>Digitale Auftragsbestätigung</strong> mit Unterschrift</li></ul><p>Für die Kalkulation selbst eignen sich branchenübliche Handwerksprogramme, die viele Betriebe bereits verwenden. Oft liegt der Gewinn nicht in einem neuen Programm, sondern darin, das bestehende vollständig zu nutzen.</p>"
+    },
+    {
+      "h2": "Baustellendokumentation und Zeiterfassung",
+      "html": "<p>Was auf der Baustelle passiert, muss ins Büro: Arbeitszeiten, Material, Fotos vom Zustand vorher und nachher, Mängel, Zusatzleistungen. Digital erfasst, ist das sofort verfügbar und lässt sich später leicht wiederfinden.</p><ol><li>Monteur stempelt Arbeitsbeginn am Handy, mit Zuordnung zum Auftrag.</li><li>Fotos werden direkt in der App dem Auftrag zugeordnet.</li><li>Zusätzliches Material wird vor Ort erfasst.</li><li>Der Kunde unterschreibt den Regiebericht am Tablet.</li><li>Das Büro sieht alles am selben Tag und kann abrechnen.</li></ol><p>Das schützt auch bei Streitfällen: Mit Fotos und Zeitstempeln ist belegbar, was wann gemacht wurde. Mehr zu passenden Werkzeugen im Beitrag <a href=\"/wissen/app-fuer-mitarbeiter/\">Apps für Mitarbeiter</a>. Beachten Sie bei der Zeiterfassung den Datenschutz und binden Sie das Team ein.</p>"
+    },
+    {
+      "h2": "Rechnung, Belege und Büro",
+      "html": "<p>Je schneller die Rechnung beim Kunden ist, desto schneller kommt das Geld. Digitale Abläufe helfen auch hier:</p><ul><li>Rechnung direkt aus Auftrag und Regiebericht erstellen, ohne Abtippen</li><li>Rechnungen per E-Mail mit Zahlungsinformationen versenden</li><li>Zahlungseingänge prüfen und automatisch erinnern</li><li>Eingangsbelege fotografieren und digital ablegen, siehe <a href=\"/wissen/belege-digital/\">Belege digital ablegen</a></li><li>Daten an die Steuerberatung digital übergeben</li></ul><p>Wer zusätzlich E-Mails automatisch nach Anfragen, Rechnungen und Lieferanten vorsortieren lässt, gewinnt im Büro täglich Zeit.</p>"
+    },
+    {
+      "h2": "Sichtbarkeit: Kunden und Fachkräfte gewinnen",
+      "html": "<p>Handwerksbetriebe werden überwiegend lokal gesucht: „Elektriker in der Nähe“, „Fliesenleger Bezirk Zwettl“. Eine handytaugliche Website mit klaren Leistungen und Einsatzgebiet sowie ein gepflegtes Google-Profil mit Bewertungen bringen planbar Anfragen. Was eine gute Seite braucht, steht unter <a href=\"/wissen/handwerker-website/\">Was eine Handwerker-Website braucht</a>.</p><p>Mindestens genauso wichtig ist im Handwerk die Suche nach Mitarbeitern und Lehrlingen. Eine ehrliche Karriereseite mit Fotos vom Team und vom Arbeitsalltag überzeugt mehr als jede Stellenanzeige. Regelmäßige Beiträge von Baustellen auf Instagram oder Facebook zeigen beides: Kompetenz für Kunden und Arbeitsalltag für Bewerber. Mit <a href=\"https://pipeflow.at/\">Pipeflow</a> entstehen solche Beiträge aus Ihrer Website, Sie geben nur frei.</p>"
+    },
+    {
+      "h2": "Checkliste: Wie digital ist Ihr Handwerksbetrieb?",
+      "html": "<ul><li>Gehen Anfragen verloren, wenn alle auf der Baustelle sind?</li><li>Wie lange dauert es von der Besichtigung bis zum Angebot?</li><li>Werden Stunden und Material doppelt erfasst?</li><li>Finden Sie Fotos eines Auftrags von vor zwei Jahren in einer Minute?</li><li>Wie viele Tage liegen zwischen Fertigstellung und Rechnung?</li><li>Zeigt Ihre Website am Handy Leistungen, Einsatzgebiet und Kontakt auf einen Blick?</li><li>Gibt es eine Karriereseite?</li></ul><p>Wo Sie mehrmals unsicher sind, liegt Potenzial. Branchenspezifische Ideen finden Sie etwa auf den Seiten für <a href=\"/branchen/installateur/\">Installateure</a> oder <a href=\"/branchen/tischler/\">Tischlereien</a>. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir Lösungen live mit Ihren eigenen Daten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Womit sollte ein Handwerksbetrieb bei der Digitalisierung beginnen?",
+      "a": "Mit dem größten Zeitfresser im eigenen Alltag. Bei vielen Betrieben sind das verpasste Anfragen, langsame Angebote oder Stundenzettel, die doppelt erfasst werden. Wählen Sie einen dieser Bereiche, führen Sie eine Lösung vollständig ein und schaffen Sie den alten Papierweg danach ab. Erst wenn das sitzt, kommt der nächste Bereich dran."
+    },
+    {
+      "q": "Brauchen Handwerker eine eigene App?",
+      "a": "In den meisten Fällen nicht. Für Zeiterfassung, Baustellendokumentation und Regieberichte gibt es fertige Lösungen, oft als Teil der Handwerkersoftware. Eine eigene App oder Web-App lohnt sich erst, wenn Abläufe sehr speziell sind oder mehrere Programme verbunden werden müssen. Prüfen Sie zuerst, ob Ihr bestehendes Programm die Funktion schon bietet."
+    },
+    {
+      "q": "Wie hilft KI im Handwerk konkret?",
+      "a": "KI hilft vor allem bei Texten und Kommunikation: Angebotstexte formulieren, Anfragen zusammenfassen, E-Mails beantworten, Anrufe mit einem Telefonassistenten annehmen oder Fragen auf der Website per Chatbot beantworten. Die fachliche Kalkulation und Entscheidung bleibt beim Betrieb. Wichtig ist, keine sensiblen Kundendaten unbedacht in öffentliche KI-Werkzeuge einzugeben."
+    },
+    {
+      "q": "Lohnt sich Digitalisierung für einen Ein-Personen-Betrieb im Handwerk?",
+      "a": "Ja, oft sogar besonders, weil Sie Büro und Baustelle allein stemmen. Schon eine Website mit gutem Anfrageformular, ein gepflegtes Google-Profil, Angebotsvorlagen und digitale Belege sparen spürbar Zeit. Aufwendige Systeme für Teams brauchen Sie dagegen nicht. Wählen Sie schlanke Lösungen, die Sie selbst in wenigen Minuten pro Tag bedienen können."
+    }
+  ],
+  "verwandt": ["/wissen/ki-handwerk/", "/wissen/handwerker-website/", "/wissen/seo-handwerk/", "/leistungen/ki-telefonassistent/", "/wissen/social-media-ideen-handwerk/"],
+  "checks": ["website-entwurf", "social-media-test"]
+}

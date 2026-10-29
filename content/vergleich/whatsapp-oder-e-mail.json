@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/whatsapp-oder-e-mail/",
+  "title": "WhatsApp oder E-Mail im Kundenservice? Der Vergleich",
+  "description": "WhatsApp oder E-Mail für Kundenanfragen? Tempo, Nachvollziehbarkeit, Datenschutz und Teamarbeit im Vergleich – mit Empfehlung für kleine Betriebe.",
+  "h1": "WhatsApp oder E-Mail im Kundenservice?",
+  "kicker": "Vergleich · Kommunikation",
+  "lead": "WhatsApp eignet sich für schnelle, kurze Abstimmungen wie Terminbestätigungen, Fotos vom Schaden oder Rückfragen. E-Mail ist besser für Angebote, Rechnungen und alles, was nachvollziehbar abgelegt werden muss. Die meisten Betriebe fahren mit einer klaren Aufteilung am besten: WhatsApp für das Schnelle, E-Mail für das Verbindliche.",
+  "fakten": [
+    "WhatsApp: schnelle Antworten, Fotos und Sprachnachrichten, sehr verbreitet",
+    "E-Mail: gut für Anhänge, Angebote, Ablage und Teamarbeit",
+    "Für WhatsApp im Betrieb: eigene Geschäftsnummer und Datenschutz klären",
+    "WhatsApp-Bot über Pipeline AI Solutions: Preis auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Kanäle mit unterschiedlichem Charakter",
+      "html": "<p>WhatsApp fühlt sich an wie ein Gespräch: kurz, direkt, oft mit Foto oder Sprachnachricht. E-Mail ist eher ein Brief: strukturiert, mit Betreff, Anhängen und klarer Ablage. Kunden erwarten auf WhatsApp eine schnelle Antwort, bei E-Mail akzeptieren sie eher, dass es einen Tag dauert.</p><p>Für Betriebe gibt es die kostenlose WhatsApp-Business-App für ein Smartphone und eine Unternehmenslösung, über die mehrere Personen oder ein Bot antworten können. Was die Unterschiede sind, erklärt der Ratgeber <a href=\"/wissen/whatsapp-business/\">WhatsApp Business im Betrieb</a>.</p>"
+    },
+    {
+      "h2": "Wann WhatsApp die bessere Wahl ist",
+      "html": "<ul><li><strong>Fotos statt Beschreibungen:</strong> Ein Kunde schickt ein Bild vom tropfenden Wasserhahn, der Installateur sieht sofort, welches Ersatzteil er mitbringen muss.</li><li><strong>Kurze Abstimmungen:</strong> „Passt Ihnen Donnerstag um 9?“ – „Ja.“ Erledigt in Sekunden.</li><li><strong>Erinnerungen:</strong> Hinweise am Vortag eines Termins werden auf dem Handy eher gelesen.</li><li><strong>Niedrige Hemmschwelle:</strong> Manche Kunden schreiben lieber, als dass sie anrufen.</li></ul><p>Mehr Praxisbeispiele finden Sie unter <a href=\"/wissen/whatsapp-kundenservice/\">WhatsApp im Kundenservice</a>.</p>"
+    },
+    {
+      "h2": "Wann E-Mail die bessere Wahl ist",
+      "html": "<ul><li><strong>Angebote und Rechnungen:</strong> Dokumente mit Betreff, die später wiederzufinden sind.</li><li><strong>Verbindliche Vereinbarungen:</strong> Was schriftlich festgehalten werden soll, gehört in eine nachvollziehbare Ablage.</li><li><strong>Teamarbeit:</strong> Ein gemeinsames Postfach wie office@ kann von mehreren Personen bearbeitet werden.</li><li><strong>Geschäftskunden:</strong> Viele Firmen, Behörden und Hausverwaltungen kommunizieren bevorzugt per E-Mail.</li></ul><p>Eine eigene Adresse mit Ihrer Domain wirkt dabei seriöser – siehe <a href=\"/wissen/e-mail-mit-eigener-domain/\">E-Mail mit eigener Domain</a>.</p>"
+    },
+    {
+      "h2": "WhatsApp und E-Mail im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>WhatsApp</th><th>E-Mail</th></tr></thead><tbody><tr><td>Antworttempo, das Kunden erwarten</td><td>schnell, oft innerhalb von Stunden</td><td>meist innerhalb eines Werktags</td></tr><tr><td>Fotos, Videos, Sprachnachrichten</td><td>sehr einfach</td><td>möglich, aber umständlicher</td></tr><tr><td>Angebote, Verträge, Rechnungen</td><td>weniger geeignet</td><td>gut geeignet</td></tr><tr><td>Ablage und Suche</td><td>im Chatverlauf, schwer zu ordnen</td><td>Ordner, Suche, Archiv</td></tr><tr><td>Mehrere Personen im Team</td><td>mit Unternehmenslösung möglich</td><td>einfach über gemeinsames Postfach</td></tr><tr><td>Datenschutz</td><td>genau prüfen, eigene Geschäftsnummer</td><td>bewährt, mit europäischem Anbieter gut lösbar</td></tr><tr><td>Automatisierung</td><td>WhatsApp-Bot möglich</td><td>Sortierung und Antwortvorlagen möglich</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Datenschutz und Erreichbarkeit nicht vergessen",
+      "html": "<p>Bei WhatsApp sollten Sie eine <strong>eigene Geschäftsnummer</strong> verwenden und Ihr privates Adressbuch nicht mit dem Betrieb vermischen. Erwähnen Sie WhatsApp in Ihrer Datenschutzerklärung und klären Sie im Einzelfall mit WKO oder Rechtsberatung, was für Ihren Betrieb gilt.</p><p>Legen Sie außerdem fest, wann Sie antworten. Wer auf WhatsApp um 22 Uhr zurückschreibt, erzieht Kunden dazu, das immer zu erwarten. Eine automatische Abwesenheitsnachricht mit Ihren Zeiten schafft klare Verhältnisse. Mehr dazu im Ratgeber <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit im kleinen Betrieb</a>.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Handwerk und Dienstleistungen vor Ort:</strong> WhatsApp für Termine und Fotos, E-Mail für Angebote und Rechnungen.</li><li><strong>Beratende Berufe und Geschäftskunden:</strong> E-Mail als Hauptkanal, WhatsApp höchstens für kurze Terminabsprachen.</li><li><strong>Viele gleiche Fragen per WhatsApp:</strong> Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> beantwortet Standardfragen automatisch und übergibt den Rest an Sie. Er wird über <a href=\"https://www.pipeline-solutions.at/leistungen/\">Pipeline AI Solutions</a> angeboten, der Preis richtet sich nach dem Umfang.</li></ul><p>Ein Ablauf, der sich in vielen Betrieben bewährt: Die Anfrage kommt per WhatsApp mit Foto, Sie klären kurz die Eckdaten, und das Angebot geht anschließend per E-Mail hinaus. Im Chat folgt nur noch der Hinweis „Angebot ist im Postfach“. So bleibt der Kontakt persönlich und schnell, und trotzdem liegt alles Wichtige sauber abgelegt im richtigen Ordner.</p><p>Schreiben Sie diese Aufteilung auch auf Ihre Website, etwa auf die Kontaktseite. Dann wissen Kunden von Anfang an, welcher Weg für welches Anliegen gedacht ist, und Ihr Team muss nicht jedes Mal neu entscheiden.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich WhatsApp im Betrieb verwenden?",
+      "a": "Grundsätzlich ja, viele Betriebe nutzen WhatsApp Business. Wichtig sind eine eigene Geschäftsnummer, ein getrenntes Adressbuch, ein Hinweis in der Datenschutzerklärung und dass Kunden selbst entscheiden, ob sie über WhatsApp schreiben. Das ist eine allgemeine Orientierung und keine Rechtsberatung. Klären Sie Details im Einzelfall mit der WKO, Ihrer Rechtsberatung oder der Datenschutzbehörde."
+    },
+    {
+      "q": "Wie schnell muss ich auf WhatsApp antworten?",
+      "a": "Eine feste Pflicht gibt es nicht, aber Kunden erwarten auf WhatsApp meist eine Antwort am selben Tag. Kommunizieren Sie Ihre Antwortzeiten offen, etwa im Profil und in einer automatischen Begrüßungs- oder Abwesenheitsnachricht. So vermeiden Sie Enttäuschungen und müssen nicht abends am Handy sitzen. Für häufige Standardfragen kann ein WhatsApp-Bot rund um die Uhr antworten."
+    },
+    {
+      "q": "Kann ich WhatsApp-Nachrichten im Team bearbeiten?",
+      "a": "Mit der einfachen WhatsApp-Business-App ist das nur eingeschränkt möglich. Für mehrere Personen, die gemeinsam Nachrichten beantworten, gibt es Unternehmenslösungen, die über spezialisierte Anbieter eingerichtet werden. Darüber lässt sich auch ein Bot anbinden. Pipeline AI Solutions bietet solche WhatsApp-Bots an; der Preis wird nach dem Erstgespräch je nach Umfang angeboten."
+    },
+    {
+      "q": "Soll ich Angebote per WhatsApp verschicken?",
+      "a": "Für Angebote ist E-Mail die bessere Wahl. Dort bekommt das Dokument einen Betreff, lässt sich leicht wiederfinden und ordentlich ablegen, auch für Ihre Buchhaltung. Per WhatsApp können Sie kurz ankündigen, dass das Angebot per E-Mail unterwegs ist, oder eine Rückfrage dazu klären. So nutzen Sie die Stärken beider Kanäle."
+    }
+  ],
+  "verwandt": [
+    "/wissen/whatsapp-business/",
+    "/wissen/whatsapp-kundenservice/",
+    "/leistungen/whatsapp-bot/",
+    "/wissen/e-mail-mit-eigener-domain/",
+    "/vergleiche/eigene-domain-oder-gmail/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

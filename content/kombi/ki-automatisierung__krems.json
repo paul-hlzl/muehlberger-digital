@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/krems/",
+  "title": "KI-Automatisierung in Krems für Weingüter und Gastgeber",
+  "description": "Prozessautomatisierung mit KI in Krems und der Wachau: Zimmer- und Verkostungsanfragen vorbereiten, Bewertungen beantworten, Saisonspitzen abfedern.",
+  "h1": "KI & Prozessautomatisierung in Krems",
+  "kicker": "KI-Automatisierung · Krems",
+  "lead": "Krems ist Tor zur Wachau, Weinstadt und Bildungsstandort, und viele Betriebe hier erleben in der Saison ein überlaufendes Postfach. KI-Automatisierung bereitet Zimmer- und Verkostungsanfragen vor, entwirft Antworten in mehreren Sprachen und hilft bei Bewertungen, die Freigabe bleibt bei Ihnen.",
+  "fakten": [
+    "Schwerpunkt: Gästeanfragen in der Saison, auch auf Englisch",
+    "Antwortentwürfe mit Ihren Preisen und Verfügbarkeiten",
+    "Bewertungsantworten als Vorschlag, nie automatisch veröffentlicht",
+    "Für Krems-Stadt und den Bezirk Krems-Land"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Saison in der Wachau: wenn das Postfach überläuft",
+      "html": "<p>Krems an der Donau liegt am Eingang der Wachau, umgeben von Weinbau im Kremstal und Kamptal. Weingüter, Heurige, Pensionen und Ferienwohnungen bekommen in der Saison viele ähnliche Anfragen: freie Zimmer, Verkostungstermine, Gruppen, Anreise mit dem Rad. Wer selbst im Weingarten oder in der Küche steht, kommt mit dem Beantworten kaum nach.</p><p>Mehr über die Region lesen Sie auf den Seiten <a href=\"/regionen/krems-an-der-donau/\">Krems an der Donau</a> und <a href=\"/regionen/bezirk-krems-land/\">Bezirk Krems-Land</a>.</p>"
+    },
+    {
+      "h2": "Zimmer- und Verkostungsanfragen vorbereiten lassen",
+      "html": "<p>Eine Automatisierung liest die Anfrage, erkennt Datum, Personenzahl und Wunsch und prüft Ihre Verfügbarkeiten. Daraus entsteht ein Antwortentwurf mit Ihren Preisen und Ihrem Ton, auf Deutsch oder Englisch, je nachdem, wie der Gast geschrieben hat. Sie lesen drüber und schicken ab.</p><p>Was dabei technisch passiert, erklärt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>. Speziell für Gastgeber ist der Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a> interessant.</p>"
+    },
+    {
+      "h2": "Antworten auf Bewertungen",
+      "html": "<p>Gäste schreiben Bewertungen auf Google und Buchungsportalen. Darauf zu antworten, wirkt nach außen und dauert. Die KI kann aus der Bewertung einen passenden, persönlichen Antwortvorschlag machen. Veröffentlicht wird nur, was Sie freigeben, denn gerade bei Kritik zählt jedes Wort. Tipps dazu finden Sie unter <a href=\"/wissen/auf-bewertungen-antworten/\">Auf Bewertungen antworten</a>.</p>"
+    },
+    {
+      "h2": "Außerhalb der Saison: Zeit für den Aufbau",
+      "html": "<p>Der beste Zeitpunkt für ein solches Projekt ist die ruhigere Zeit im Winter. Dann lassen sich Vorlagen schreiben, Preise einpflegen und Abläufe testen, ohne dass Gäste warten. Mühlberger Digital klärt im kostenlosen Erstgespräch, was sich für Ihren Betrieb lohnt, Pipeline AI Solutions setzt um.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann die KI Gästen auch auf Englisch antworten?",
+      "a": "Ja. Die KI erkennt die Sprache der Anfrage und formuliert den Entwurf in derselben Sprache, neben Englisch auch in weiteren gängigen Sprachen. Ihre Vorlagen und Preise bleiben dabei gleich. Bei Spezialbegriffen rund um Wein und Region lohnt es sich, anfangs gegenzulesen und eine kleine Liste mit festen Übersetzungen anzulegen."
+    },
+    {
+      "q": "Wird dann automatisch gebucht?",
+      "a": "Nein, das ist nicht der Sinn dieser Automatisierung. Sie bereitet Antworten vor und kann Verfügbarkeiten anzeigen, die Zusage geben Sie selbst. Wer bereits ein Buchungssystem nutzt, kann die Automatisierung so einrichten, dass sie Gäste dorthin verweist. Eine vollautomatische Buchung wäre ein eigenes Projekt."
+    },
+    {
+      "q": "Lohnt sich das für ein kleines Weingut mit Ab-Hof-Verkauf?",
+      "a": "Wenn Sie nur gelegentlich Anfragen per E-Mail bekommen, eher nicht. Dann reichen gute Textbausteine. Interessant wird es, wenn Anfragen für Verkostungen, Gruppen oder Versand regelmäßig liegen bleiben oder mehrere Familienmitglieder antworten und den Überblick verlieren. Genau das klären wir ehrlich im Erstgespräch."
+    },
+    {
+      "q": "Was kostet eine solche Lösung für einen Gastbetrieb?",
+      "a": "Eine Automatisierung für Gästeanfragen ist ein individuelles Projekt, der Preis steht nach dem kostenlosen Erstgespräch im schriftlichen Angebot. Wer vor allem häufige Fragen zu Anreise, Öffnungszeiten oder Zimmern beantworten will, kommt oft schon mit einem Website-Chatbot wie Pipebot um 19 € im Monat aus, die ersten 30 Tage sind gratis."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/krems-an-der-donau/",
+    "/regionen/bezirk-krems-land/",
+    "/branchen/weingut/",
+    "/wissen/saisonbetrieb-digital/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "ki-sichtbarkeit"
+  ]
+}

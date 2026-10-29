@@ -1,0 +1,77 @@
+{
+ "pfad": "/leistungen/ki-telefonassistent/",
+ "title": "KI-Telefonassistent: Anrufe annehmen, wenn keiner kann",
+ "description": "Ein KI-Telefonassistent nimmt Anrufe an, beantwortet Standardfragen und notiert Anliegen. Für wen er sich lohnt und wie er eingerichtet wird.",
+ "h1": "KI-Telefonassistent für Ihren Betrieb",
+ "kicker": "Leistung · KI & Erreichbarkeit",
+ "lead": "Ein KI-Telefonassistent hebt ab, wenn Sie gerade nicht können: Er beantwortet Standardfragen am Telefon, nimmt Anliegen vollständig auf und gibt sie schriftlich an Sie weiter. Sinnvoll ist das vor allem für Betriebe, bei denen das Telefon oft unbeantwortet läutet – auf der Baustelle, in der Behandlung, in der Küche. Umgesetzt wird er über Pipeline AI Solutions, der Preis wird nach dem Erstgespräch angeboten.",
+ "fakten": [
+  "Nimmt Anrufe an, wenn Sie oder Ihr Team gerade nicht können",
+  "Beantwortet Standardfragen und notiert Anliegen für den Rückruf",
+  "Gibt sich als KI-Assistent zu erkennen und übergibt bei Bedarf",
+  "Umsetzung über Pipeline AI Solutions, Preis auf Anfrage",
+  "Vorab: ehrliche Prüfung, ob Mailbox oder Rückrufzeiten reichen"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Das Problem: Das Telefon läutet immer im falschen Moment",
+   "html": "<p>In vielen kleinen Betrieben gibt es niemanden, der nur fürs Telefon da ist. Die Tischlerin steht an der Maschine, der Physiotherapeut ist mitten in der Behandlung, die Wirtin richtet gerade das Mittagsgeschäft an. Das Telefon läutet trotzdem.</p>\n<p>Wer nicht abhebt, verliert nicht jeden Anrufer – aber einige. Viele Menschen sprechen ungern auf eine Mailbox und rufen stattdessen den nächsten Betrieb an. Und wer abhebt, wird aus der Arbeit gerissen.</p>\n<p>Ein KI-Telefonassistent ist eine Möglichkeit, diese Lücke zu schließen. Wie die Technik dahinter funktioniert, erklärt der Ratgeber <a href=\"/wissen/ki-telefonassistent-erklaert/\">KI-Telefonassistent einfach erklärt</a>. Andere Wege zu besserer Erreichbarkeit beschreibt der Beitrag <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit im kleinen Betrieb</a>.</p>"
+  },
+  {
+   "h2": "Was ein KI-Telefonassistent kann – und was nicht",
+   "html": "<p>Ein KI-Telefonassistent führt ein natürliches Gespräch: Der Anrufer spricht in ganzen Sätzen, der Assistent versteht das Anliegen und antwortet mit gesprochener Sprache. Er stützt sich dabei auf Informationen, die Sie vorher festlegen.</p>\n<h3>Typische Aufgaben</h3>\n<ul><li>Fragen zu Öffnungszeiten, Anfahrt, Leistungen oder Zuständigkeiten beantworten</li><li>Name, Telefonnummer und Anliegen aufnehmen und Ihnen schriftlich weitergeben</li><li>Dringende Fälle erkennen und nach Ihren Regeln weiterleiten</li><li>Anrufer beruhigen, dass sich jemand meldet, und sagen, wann ungefähr</li></ul>\n<h3>Wo die Grenzen liegen</h3>\n<ul><li>Fachliche Beratung, Diagnosen oder verbindliche Preiszusagen gehören nicht zum Assistenten.</li><li>Bei starkem Dialekt, schlechter Verbindung oder lauter Umgebung kann er sich verhören – dann muss er nachfragen oder übergeben.</li><li>Er ersetzt keine persönliche Beziehung zu Stammkunden, die ausdrücklich „den Chef“ sprechen wollen.</li></ul>"
+  },
+  {
+   "h2": "Für wen sich ein KI-Telefonassistent lohnt",
+   "html": "<p>Ein Telefonassistent lohnt sich, wenn bei Ihnen regelmäßig Anrufe unbeantwortet bleiben und diese Anrufe für Ihr Geschäft wichtig sind. Das gilt etwa für Handwerksbetriebe, die neue Aufträge vor allem telefonisch bekommen, für Praxen mit vielen Terminanfragen oder für Betriebe mit Notdienst, bei denen die Unterscheidung zwischen „dringend“ und „kann bis morgen warten“ zählt.</p>\n<p>Weniger sinnvoll ist er, wenn Sie nur wenige Anrufe bekommen, wenn ohnehin jemand im Büro sitzt oder wenn fast jeder Anruf eine längere Beratung braucht. Dann reichen oft feste Rückrufzeiten, eine gut formulierte Mailbox oder eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p>\n<p>Wer überlegt, ob ein externes Telefonservice die bessere Alternative ist, findet die Unterschiede im Vergleich <a href=\"/vergleiche/telefonassistent-oder-callcenter/\">Telefonassistent oder Callcenter</a>.</p>"
+  },
+  {
+   "h2": "So wird der Telefonassistent eingerichtet",
+   "html": "<ol><li><strong>Anrufe verstehen:</strong> Im Erstgespräch gehen wir durch, wer bei Ihnen anruft und mit welchen Anliegen. Eine grobe Strichliste über eine Woche hilft dabei sehr.</li><li><strong>Regeln festlegen:</strong> Was beantwortet der Assistent selbst? Was gilt als dringend? An wen geht welche Nachricht, und auf welchem Weg – E-Mail, Nachricht, Liste?</li><li><strong>Begrüßung und Ton:</strong> Der Assistent stellt sich mit Ihrem Betriebsnamen vor und sagt klar, dass er ein KI-Assistent ist.</li><li><strong>Rufumleitung:</strong> Meist wird er so eingebunden, dass er nur übernimmt, wenn nach einigen Läutzeichen niemand abhebt oder außerhalb der Geschäftszeiten.</li><li><strong>Probeanrufe:</strong> Sie und Ihr Team rufen selbst an und testen typische und schwierige Situationen.</li><li><strong>Nachbessern:</strong> Nach den ersten echten Anrufen schärfen wir Antworten und Regeln nach.</li></ol>"
+  },
+  {
+   "h2": "Kosten, Datenschutz und Transparenz",
+   "html": "<p>Der KI-Telefonassistent wird von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a> umgesetzt. Weil sich Betriebe stark darin unterscheiden, wie viele Anrufe kommen und was der Assistent übernehmen soll, gibt es <strong>keinen Pauschalpreis</strong>. Sie bekommen nach dem kostenlosen Erstgespräch ein schriftliches Angebot mit klaren Preisen.</p>\n<p>Am Telefon werden personenbezogene Daten verarbeitet, manchmal auch heikle – etwa in Praxen. Deshalb klären wir vorab, welche Daten der Assistent aufnimmt, wo sie gespeichert werden und wie Anrufer informiert werden. Ob und wie Gespräche aufgezeichnet werden dürfen, ist eine eigene Frage; eine allgemeine Orientierung gibt der Ratgeber <a href=\"/wissen/gespraechsaufzeichnung/\">Gesprächsaufzeichnung</a>.</p>\n<p>Wichtig: Das ist keine Rechtsberatung. Für Ihren konkreten Fall wenden Sie sich bitte an die WKO, einen Anwalt oder die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>.</p>"
+  },
+  {
+   "h2": "Typische Fehler bei KI-Telefonassistenten",
+   "html": "<ul><li><strong>Der Assistent tut so, als wäre er ein Mensch.</strong> Das fliegt auf und kostet Vertrauen. Eine klare Ansage zu Beginn ist fairer und wird zunehmend auch erwartet.</li><li><strong>Zu viel auf einmal.</strong> Wer von Anfang an Terminbuchung, Beratung und Reklamation abdecken will, bekommt einen Assistenten, der vieles halb kann. Besser: mit Anrufannahme und Notiz beginnen.</li><li><strong>Notizen landen im Nirgendwo.</strong> Die beste Gesprächsnotiz nützt nichts, wenn niemand sie liest. Legen Sie fest, wer täglich zurückruft.</li><li><strong>Kein Ausweg.</strong> Anrufer müssen jederzeit sagen können: „Ich möchte mit jemandem sprechen“ – und dann eine verlässliche Auskunft bekommen, wann das passiert.</li><li><strong>Nie wieder angeschaut.</strong> Öffnungszeiten, Urlaube und neue Leistungen müssen auch dem Assistenten mitgeteilt werden.</li></ul>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was macht ein KI-Telefonassistent genau?",
+   "a": "Ein KI-Telefonassistent nimmt Anrufe an, wenn Sie oder Ihr Team gerade nicht abheben können. Er versteht das Anliegen in gesprochener Sprache, beantwortet Standardfragen wie Öffnungszeiten oder Zuständigkeiten und nimmt Name, Nummer und Anliegen auf. Diese Informationen erhalten Sie schriftlich, damit Sie gezielt zurückrufen können. Fachliche Beratung und verbindliche Zusagen bleiben bei Ihnen."
+  },
+  {
+   "q": "Was kostet ein KI-Telefonassistent?",
+   "a": "Für den KI-Telefonassistenten gibt es keinen Pauschalpreis, weil der Aufwand davon abhängt, wie viele Anrufe kommen, welche Aufgaben er übernimmt und wohin die Notizen gehen sollen. Nach dem kostenlosen Erstgespräch erhalten Sie von Pipeline AI Solutions ein schriftliches Angebot mit klaren Preisen. Ob sich die Investition für Sie lohnt, besprechen wir dabei ehrlich."
+  },
+  {
+   "q": "Müssen Anrufer wissen, dass sie mit einer KI sprechen?",
+   "a": "Wir empfehlen ausdrücklich, dass sich der Assistent gleich zu Beginn als KI-Assistent Ihres Betriebs vorstellt. Das ist fair und vermeidet Missverständnisse. Auch die Regeln rund um künstliche Intelligenz, etwa der EU AI Act, setzen auf Transparenz. Welche Pflichten im Einzelfall gelten, klären Sie bitte mit der WKO oder einem Anwalt."
+  },
+  {
+   "q": "Versteht ein KI-Telefonassistent auch Dialekt?",
+   "a": "Moderne Spracherkennung kommt mit vielen Färbungen gut zurecht, auch mit österreichischem Tonfall. Bei starkem Dialekt, Hintergrundlärm oder schlechter Handyverbindung kann sie sich aber verhören. Deshalb richten wir den Assistenten so ein, dass er bei Unklarheiten nachfragt und wichtige Angaben wie Telefonnummern bestätigt. Am besten testen Sie das vorab mit eigenen Probeanrufen."
+  },
+  {
+   "q": "Ersetzt der Assistent meine Mailbox?",
+   "a": "In vielen Fällen ja, und er kann deutlich mehr: Statt einer Aufforderung, nach dem Signalton zu sprechen, führt er ein kurzes Gespräch, fragt gezielt nach und beantwortet einfache Fragen sofort. Wenn bei Ihnen nur selten Anrufe verloren gehen, reicht allerdings oft eine gut formulierte Mailbox mit klaren Rückrufzeiten. Das sagen wir Ihnen im Erstgespräch auch offen."
+  },
+  {
+   "q": "Kann der Telefonassistent Termine vergeben?",
+   "a": "Grundsätzlich ist eine Anbindung an einen Kalender oder ein Buchungssystem möglich, das ist aber ein größeres Vorhaben. Wir empfehlen, mit Anrufannahme und Gesprächsnotiz zu beginnen und erst später zu entscheiden, ob der Assistent auch Termine eintragen soll. Ob das bei Ihrem System machbar ist und was es kostet, klären wir im Rahmen des Angebots."
+  }
+ ],
+ "verwandt": [
+  "/wissen/ki-telefonassistent-erklaert/",
+  "/vergleiche/telefonassistent-oder-callcenter/",
+  "/leistungen/whatsapp-bot/",
+  "/leistungen/ki-chatbot/",
+  "/erstgespraech/"
+ ],
+ "checks": [
+  "chatbot-test"
+ ]
+}

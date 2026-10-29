@@ -1,0 +1,75 @@
+{
+  "pfad": "/wissen/lokales-seo/",
+  "title": "Lokales SEO: In der eigenen Region gefunden werden",
+  "description": "Lokales SEO für Betriebe in Österreich: wie Google Ergebnisse vor Ort auswählt und mit welchen Schritten Sie in Ihrem Ort und Bezirk besser gefunden werden.",
+  "h1": "Lokales SEO: In der Region gefunden werden",
+  "kicker": "Ratgeber · Lokale Sichtbarkeit",
+  "lead": "Lokales SEO sorgt dafür, dass Ihr Betrieb erscheint, wenn jemand in Ihrer Nähe nach Ihrer Leistung sucht, etwa „Elektriker Zwettl“ oder „Friseur in der Nähe“. Google wählt diese Ergebnisse vor allem nach Relevanz, Entfernung und Bekanntheit aus. Den größten Einfluss haben Sie über ein gepflegtes Unternehmensprofil, einheitliche Kontaktdaten, Seiten mit echtem Ortsbezug und Bewertungen.",
+  "fakten": [
+    "Google nennt drei Faktoren für lokale Ergebnisse: Relevanz, Entfernung und Bekanntheit",
+    "Das Unternehmensprofil entscheidet über den Auftritt in der Kartenansicht",
+    "Name, Adresse und Telefon müssen überall gleich geschrieben sein",
+    "Ortsseiten nur dort, wo Sie wirklich arbeiten und etwas Eigenes zu sagen haben",
+    "Regionale Links von Gemeinde, Vereinen und Partnern stärken die Bekanntheit"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie lokale Suchergebnisse entstehen",
+      "html": "<p>Bei Suchanfragen mit Ortsbezug zeigt Google meist zuerst eine Karte mit einigen Betrieben, darunter die normalen Suchergebnisse. Für diese Auswahl nennt Google selbst drei Faktoren:</p><ul><li><strong>Relevanz:</strong> Wie gut passt Ihr Profil zur Suchanfrage? Kategorie, Leistungen und Beschreibung spielen hier hinein.</li><li><strong>Entfernung:</strong> Wie weit ist Ihr Betrieb vom Suchenden oder vom gesuchten Ort entfernt?</li><li><strong>Bekanntheit:</strong> Wie bekannt ist der Betrieb? Dafür zählen Bewertungen, Links, Erwähnungen und die Website.</li></ul><p>Die Entfernung können Sie nicht ändern. Relevanz und Bekanntheit dagegen sehr wohl, und genau dort setzt lokales SEO an.</p>"
+    },
+    {
+      "h2": "Das Unternehmensprofil als Fundament",
+      "html": "<p>Ohne Google-Unternehmensprofil erscheinen Sie in der Kartenansicht nicht. Richten Sie es vollständig ein: korrekte Hauptkategorie, Öffnungszeiten, Leistungen, Fotos, Website-Link und Telefonnummer. Wer ohne Geschäftslokal zu den Kunden fährt, etwa ein Installateur oder eine mobile Fußpflege, gibt ein Einzugsgebiet an und blendet die Adresse aus.</p><p>Wie Sie ein bestehendes Profil Schritt für Schritt verbessern, lesen Sie unter <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>. Wenn Sie das nicht selbst machen möchten, übernehmen wir <a href=\"/leistungen/google-unternehmensprofil/\">Einrichtung und Pflege des Unternehmensprofils</a>.</p>"
+    },
+    {
+      "h2": "Einheitliche Angaben überall im Netz",
+      "html": "<p>Google gleicht Ihre Angaben aus vielen Quellen ab: Website, Unternehmensprofil, Branchenverzeichnisse, Social Media, Gemeindeseite. Steht Ihr Betrieb einmal als „Tischlerei Huber GmbH, Hauptstraße 5“, einmal als „Huber Tischlerei, Hauptstr. 5a“ und anderswo mit alter Telefonnummer, entsteht Unsicherheit.</p><p>Legen Sie deshalb eine verbindliche Schreibweise fest und prüfen Sie Ihre Einträge. Diese Angaben werden oft als <a href=\"/wissen/nap-daten/\">NAP-Daten</a> bezeichnet, nach den englischen Wörtern für Name, Adresse und Telefon. Ein guter Startpunkt sind die wichtigsten Verzeichnisse, etwa das Firmenverzeichnis der Wirtschaftskammer. Welche sich noch lohnen, steht unter <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnisse</a>.</p>"
+    },
+    {
+      "h2": "Ortsbezug auf der Website: ehrlich und konkret",
+      "html": "<p>Ihre Website sollte klar sagen, wo Sie arbeiten. Das gelingt auf mehreren Ebenen:</p><ul><li>Ort und Einzugsgebiet auf der Startseite und den Leistungsseiten nennen</li><li>Referenzprojekte mit Ortsangabe zeigen, sofern die Kunden einverstanden sind</li><li>Anfahrt, Parkmöglichkeiten oder Erreichbarkeit beschreiben</li><li>für wichtige Orte eigene Seiten anlegen, wenn Sie dort tatsächlich regelmäßig tätig sind</li></ul><p>Vorsicht bei Ortsseiten: Zwanzig fast gleiche Seiten mit ausgetauschtem Ortsnamen wertet Google als minderwertig. Eine Ortsseite lohnt sich nur mit eigenem Inhalt, etwa Projekten, Anfahrtszeiten oder Besonderheiten vor Ort. Mehr dazu unter <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages</a>.</p>"
+    },
+    {
+      "h2": "Bekanntheit in der Region aufbauen",
+      "html": "<p>Auf dem Land kennt man sich, und genau das lässt sich auch online abbilden. Typische Quellen für regionale Links und Erwähnungen:</p><ul><li>die Betriebsliste auf der Website Ihrer Gemeinde</li><li>Vereine, die Sie unterstützen, etwa mit einem Sponsorenlink</li><li>Partnerbetriebe, mit denen Sie regelmäßig zusammenarbeiten</li><li>Lieferanten und Hersteller mit Händler- oder Fachbetriebsuche</li><li>regionale Medien, die über ein Jubiläum, einen Lehrling oder ein Projekt berichten</li></ul><p>Dazu kommen Bewertungen. Wie Sie mehr echte Bewertungen bekommen, ohne Kunden zu bedrängen, lesen Sie im Ratgeber <a href=\"/wissen/google-bewertungen-bekommen/\">Mehr Google-Bewertungen bekommen</a>.</p>"
+    },
+    {
+      "h2": "Zwei typische Situationen",
+      "html": "<p><strong>Rauchfangkehrer mit festem Kehrgebiet:</strong> Die Kundschaft sucht selten aktiv, aber Neuzugezogene und Bauherren schon. Ein vollständiges Profil mit Einzugsgebiet, eine Seite mit den betreuten Gemeinden und klaren Kontaktzeiten genügen hier oft, um bei den entscheidenden Suchen aufzutauchen.</p><p><strong>Tischlerei im Waldviertel mit Kunden bis Krems und Wien:</strong> Für den eigenen Bezirk zählt das Unternehmensprofil. Für weiter entfernte Orte hilft die Website mit Projektberichten und einer ehrlichen Aussage, bis wohin geliefert und montiert wird. Wer über die Region hinaus bekannt werden will, braucht zusätzlich Inhalte, die überregional gesucht werden, etwa zu Massivholzmöbeln. Wie wir im <a href=\"/regionen/waldviertel/\">Waldviertel</a> arbeiten, steht auf der Regionsseite.</p>"
+    },
+    {
+      "h2": "Ihr Plan für die nächsten Wochen",
+      "html": "<ol><li>Unternehmensprofil vollständig ausfüllen und Kategorie prüfen.</li><li>Verbindliche Schreibweise von Name, Adresse und Telefon festlegen.</li><li>Die fünf wichtigsten Verzeichnisse prüfen und korrigieren.</li><li>Ort und Einzugsgebiet auf der Website deutlich nennen.</li><li>Zehn zufriedene Kunden persönlich um eine Bewertung bitten.</li><li>Gemeinde und zwei Partner um einen Eintrag oder Link bitten.</li></ol><p>Wie gut Ihr Betrieb aktuell gefunden wird, zeigt der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>. Ob auch KI-Suchen Sie bei Fragen nach Betrieben in Ihrer Region nennen, prüft der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich ohne Geschäftslokal in der Google-Karte erscheinen?",
+      "a": "Ja. Betriebe, die ihre Kunden vor Ort besuchen, etwa Installateure, Reinigungsfirmen oder mobile Dienstleister, können im Unternehmensprofil ein Einzugsgebiet angeben und die Adresse ausblenden. Google verlangt trotzdem eine echte Adresse zur Bestätigung. Ein Postfach oder eine virtuelle Büroadresse ist dafür nicht zulässig. Im Profil sehen Kunden dann das Gebiet, in dem Sie tätig sind, statt einer Adresse."
+    },
+    {
+      "q": "Hilft es, den Ortsnamen in den Firmennamen im Profil zu schreiben?",
+      "a": "Nur wenn er tatsächlich Teil Ihres offiziellen Firmennamens ist. Google verlangt im Unternehmensprofil den echten Namen, wie er auch am Schild, auf Rechnungen und im Firmenbuch steht. Zusätzliche Orts- oder Leistungswörter verstoßen gegen die Richtlinien und können zur Sperre des Profils führen. Ortsbezug gehört in die Beschreibung, die Leistungen und auf Ihre Website."
+    },
+    {
+      "q": "Wie wichtig sind Bewertungen für lokales SEO?",
+      "a": "Bewertungen gehören zu den Signalen, die Google für die Bekanntheit eines Betriebs heranzieht, und sie beeinflussen stark, ob Menschen anklicken oder anrufen. Wichtig sind eine stetige Zahl echter Bewertungen, aktuelle Einträge und Ihre Antworten darauf. Eine einzelne Bewertung mehr oder weniger entscheidet selten, eine lange Zeit ohne neue Bewertungen fällt dagegen auf."
+    },
+    {
+      "q": "Lohnt sich lokales SEO auch in einem kleinen Ort?",
+      "a": "Gerade dort. In kleinen Orten und ländlichen Bezirken gibt es oft nur wenige Betriebe pro Branche, die online gut aufgestellt sind. Wer ein vollständiges Profil, einheitliche Angaben und eine klare Website hat, hebt sich schnell ab. Gesucht wird auch auf dem Land, etwa von Zugezogenen, Wochenendhausbesitzern, Gästen oder Menschen aus Nachbargemeinden, die den Betrieb noch nicht kennen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/google-unternehmensprofil-optimieren/",
+    "/wissen/nap-daten/",
+    "/wissen/lokale-landingpages/",
+    "/wissen/branchenverzeichnisse/",
+    "/leistungen/google-unternehmensprofil/",
+    "/glossar/local-seo/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

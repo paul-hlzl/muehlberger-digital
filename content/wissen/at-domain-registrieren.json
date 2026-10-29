@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/at-domain-registrieren/",
+  "title": ".at-Domain registrieren: Schritt für Schritt",
+  "description": "So registrieren Sie eine .at-Domain für Ihren Betrieb: Namen finden, Verfügbarkeit prüfen, richtig als Inhaber eintragen und mit Website und E-Mail verbinden.",
+  "h1": ".at-Domain registrieren: So gehen Sie vor",
+  "kicker": "Ratgeber · Domain",
+  "lead": "Eine .at-Domain registrieren Sie über einen Registrar, also einen Domain-Anbieter oder Hoster; die zentrale Vergabestelle für .at ist nic.at. Sie prüfen, ob der Wunschname frei ist, lassen ihn auf Ihren Namen oder Ihre Firma eintragen und verbinden ihn danach mit Website und E-Mail. Der wichtigste Punkt: Inhaber der Domain sollten immer Sie selbst sein.",
+  "fakten": [
+    "Registriert wird über einen Registrar, Vergabestelle für .at ist nic.at",
+    "Inhaber muss Ihr Betrieb sein, nicht Agentur oder Mitarbeiter",
+    "Kurz, gut aussprechbar und ohne Tippfallen ist besser als originell",
+    "Nach der Registrierung: DNS, E-Mail und HTTPS einrichten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schritt für Schritt zur eigenen .at-Domain",
+      "html": "<ol><li><strong>Namen überlegen:</strong> Firmenname, Familienname oder eine Kombination aus Tätigkeit und Ort.</li><li><strong>Verfügbarkeit prüfen:</strong> Bei jedem Domain-Anbieter oder auf der Website von <a href=\"https://www.nic.at/\">nic.at</a> sehen Sie, ob der Name noch frei ist.</li><li><strong>Registrar wählen:</strong> Meist ist das der Hoster, bei dem auch Website und E-Mail liegen. Das vereinfacht die Verwaltung.</li><li><strong>Inhaberdaten korrekt eintragen:</strong> Name des Unternehmens bzw. Ihr Name, Adresse, eine E-Mail-Adresse, auf die Sie dauerhaft Zugriff haben.</li><li><strong>Registrierung abschließen:</strong> Die Domain gehört Ihnen ab jetzt, solange sie verlängert wird.</li><li><strong>Verbinden:</strong> DNS-Einträge für Website und E-Mail setzen, HTTPS aktivieren.</li></ol>"
+    },
+    {
+      "h2": "Den richtigen Domainnamen finden",
+      "html": "<p>Die Domain soll man am Telefon diktieren können, ohne zu buchstabieren. Deshalb gilt: kurz, eindeutig, ohne Zahlenspiele. Ein Malerbetrieb fährt mit einer Kombination aus Tätigkeit und Familienname meist besser als mit einer kreativen Wortschöpfung, die niemand im Kopf behält.</p><ul><li><strong>Bindestriche:</strong> Sind erlaubt und oft hilfreich, wenn zwei Wörter sonst ineinanderlaufen.</li><li><strong>Umlaute:</strong> Domains mit ä, ö, ü sind möglich. Viele Betriebe registrieren zusätzlich die Variante mit ae, oe, ue, weil sie leichter zu tippen ist.</li><li><strong>Ortsnamen:</strong> Nur dann, wenn Sie wirklich nur dort tätig sind. Wer später expandiert, ist sonst eingeschränkt.</li><li><strong>Tippfehler-Varianten:</strong> Bei schwierigen Namen kann es sinnvoll sein, eine häufige Fehlschreibung mitzusichern und weiterzuleiten.</li></ul>"
+    },
+    {
+      "h2": ".at, .co.at oder .com?",
+      "html": "<p>Für Betriebe, die in Österreich tätig sind, ist .at die naheliegende Wahl. Kunden erkennen sofort, dass sie es mit einem heimischen Unternehmen zu tun haben. Daneben gibt es die Varianten .co.at für Firmen und .or.at für Organisationen, die aber im Alltag weniger verbreitet sind.</p><p>Eine .com-Domain lohnt sich vor allem, wenn Sie international verkaufen. Ist Ihr Wunschname unter .at vergeben, unter .com aber frei, prüfen Sie lieber einen anderen .at-Namen, statt Kunden mit zwei ähnlichen Adressen zu verwirren. Wer häufig nach Deutschland liefert, kann zusätzlich .de sichern und auf die Hauptdomain weiterleiten.</p>"
+    },
+    {
+      "h2": "Wer Inhaber der Domain sein muss",
+      "html": "<p>Der häufigste und teuerste Fehler: Die Domain läuft auf die Agentur, den früheren Webdesigner oder einen ausgeschiedenen Mitarbeiter. Beim Wechsel beginnt dann eine mühsame Suche nach Zugangsdaten und Zustimmungen. Bestehen Sie darauf, dass Ihr Unternehmen als Inhaber eingetragen ist.</p><p>Verwenden Sie als Kontaktadresse ein Postfach, das nicht an eine einzelne Person gebunden ist, etwa office@. Notieren Sie, bei welchem Anbieter die Domain liegt und wann sie verlängert wird. Ein abgelaufener Vertrag kann dazu führen, dass Website und E-Mail plötzlich nicht mehr funktionieren.</p>"
+    },
+    {
+      "h2": "Namens- und Markenrechte im Blick behalten",
+      "html": "<p>Dass eine Domain frei ist, heißt nicht automatisch, dass Sie sie ohne Probleme verwenden dürfen. Enthält der Name eine geschützte Marke oder den Namen eines anderen Unternehmens, kann es zu Streitigkeiten kommen. Umgekehrt können Sie selbst Ansprüche haben, wenn jemand Ihren Firmennamen registriert hat.</p><p>Das ist ein Rechtsthema, bei dem es auf den Einzelfall ankommt. Erste Orientierung bietet die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>, bei konkreten Konflikten ein Anwalt. Dieser Ratgeber ersetzt keine Rechtsberatung.</p>"
+    },
+    {
+      "h2": "Nach der Registrierung: Domain mit Website und E-Mail verbinden",
+      "html": "<p>Damit unter der Domain Ihre Website erscheint, werden im DNS, dem Adressbuch des Internets, Einträge gesetzt. Was das genau ist, erklärt der Glossar-Eintrag <a href=\"/glossar/dns/\">DNS</a>. Für E-Mails kommen eigene Einträge dazu; mehr dazu im Ratgeber <a href=\"/wissen/e-mail-mit-eigener-domain/\">E-Mail-Adresse mit eigener Domain</a>.</p><p>Ebenso wichtig ist eine verschlüsselte Verbindung, erkennbar am https in der Adresszeile. Warum das heute Pflicht ist, steht unter <a href=\"/wissen/ssl-https/\">SSL und HTTPS einfach erklärt</a>. Wenn Sie sich um diese Technik nicht kümmern möchten, übernehmen wir das bei einer <a href=\"/leistungen/website-erstellen/\">neuen Website</a> mit. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir auch, ob Ihre bestehende Domain richtig eingetragen ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo registriere ich eine .at-Domain?",
+      "a": "Eine .at-Domain registrieren Sie über einen Registrar, also einen Domain-Anbieter oder Hoster. Die zentrale Vergabestelle für .at-Domains ist nic.at, über deren Website Sie auch prüfen können, ob ein Name noch frei ist. Praktisch ist es, die Domain dort zu registrieren, wo auch Website und E-Mail-Postfächer liegen, damit alles an einer Stelle verwaltet wird."
+    },
+    {
+      "q": "Kann ich eine Domain mit Umlauten verwenden?",
+      "a": "Ja, Domains mit ä, ö und ü sind unter .at möglich. In der Praxis tippen viele Menschen aber lieber ae, oe und ue, und manche E-Mail-Programme kommen mit Umlaut-Adressen schlechter zurecht. Viele Betriebe sichern deshalb beide Varianten und verwenden die Schreibweise ohne Umlaut als Hauptadresse, die andere als Weiterleitung."
+    },
+    {
+      "q": "Was passiert, wenn ich die Domain nicht verlängere?",
+      "a": "Läuft die Domain aus, sind Website und E-Mail-Adressen unter diesem Namen nicht mehr erreichbar. Nach einer gewissen Zeit kann der Name wieder frei werden und von jemand anderem registriert werden. Hinterlegen Sie deshalb eine dauerhaft genutzte Kontaktadresse und prüfen Sie, ob die Verlängerung automatisch erfolgt."
+    },
+    {
+      "q": "Soll ich mehrere Domains registrieren?",
+      "a": "Das kann sinnvoll sein, etwa für eine Schreibweise ohne Umlaut, eine häufige Fehlschreibung oder .de bei Kunden in Deutschland. Alle Zusatzdomains leiten dann auf die Hauptadresse weiter. Mehr als zwei, drei Varianten braucht ein kleiner Betrieb in der Regel nicht, denn jede Domain verursacht laufende Kosten und will verwaltet werden."
+    },
+    {
+      "q": "Kann ich meine Domain zu einem anderen Anbieter mitnehmen?",
+      "a": "Ja, eine .at-Domain lässt sich zu einem anderen Registrar übertragen. Dafür brauchen Sie Zugriff auf das Domain-Konto bzw. die Zustimmung des Inhabers. Genau deshalb ist es so wichtig, dass Ihr Unternehmen als Inhaber eingetragen ist. Planen Sie den Umzug so, dass Website und E-Mail-Einträge vorher beim neuen Anbieter vorbereitet sind."
+    }
+  ],
+  "verwandt": [
+    "/glossar/domain/",
+    "/wissen/e-mail-mit-eigener-domain/",
+    "/vergleiche/eigene-domain-oder-gmail/",
+    "/wissen/website-laufende-kosten/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

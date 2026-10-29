@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/passwort-manager/",
+  "title": "Passwort-Manager im Betrieb: Auswahl & Einführung",
+  "description": "Passwort-Manager im Betrieb: wie er funktioniert, worauf Sie bei der Auswahl achten, wie Sie ihn im Team einführen und gemeinsame Zugänge sicher teilen.",
+  "h1": "Passwort-Manager im Betrieb",
+  "kicker": "Ratgeber · Sicherheit",
+  "lead": "Ein Passwort-Manager speichert alle Zugangsdaten verschlüsselt und erzeugt für jedes Konto ein eigenes, starkes Passwort; Sie selbst merken sich nur noch ein Hauptpasswort. Im Betrieb kommt ein großer Vorteil dazu: Gemeinsame Zugänge lassen sich gezielt mit einzelnen Mitarbeitern teilen und beim Austritt wieder entziehen, ohne dass Passwörter auf Zetteln oder in Chats herumgeistern. Für fast jeden Betrieb ab einer Person ist er eine der wirksamsten Sicherheitsmaßnahmen.",
+  "fakten": [
+    "Ein Hauptpasswort statt vieler, für jedes Konto ein eigenes starkes Passwort",
+    "Gemeinsame Tresore für das Team, mit Rechten pro Person",
+    "Beim Austritt Zugänge zentral entziehen statt alle Passwörter neu zu suchen",
+    "Hauptpasswort und Zwei-Faktor-Anmeldung schützen den Tresor",
+    "Varianten: Cloud-Dienst mit Abo oder lokale Lösung mit eigener Datei"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum ein Passwort-Manager im Betrieb unverzichtbar ist",
+      "html": "<p>In vielen Betrieben sieht die Realität so aus: ein Passwort für fast alles, leicht abgewandelt, auf einem Zettel unter der Tastatur oder in einer Excel-Datei auf dem Desktop. Wird ein Konto gehackt, etwa bei einem Online-Shop, probieren Angreifer dieselbe Kombination automatisch bei E-Mail, Banking und Cloud aus.</p><p>Ein Passwort-Manager löst das Problem, weil jedes Konto ein eigenes, zufälliges Passwort bekommt, das niemand merken muss. Er füllt Anmeldungen automatisch aus, warnt bei schwachen oder doppelt verwendeten Passwörtern und erkennt gefälschte Login-Seiten, weil er das Passwort nur auf der richtigen Adresse einträgt. Damit hilft er nebenbei auch gegen <a href=\"/wissen/phishing-erkennen/\">Phishing</a>.</p>"
+    },
+    {
+      "h2": "So funktioniert ein Passwort-Manager",
+      "html": "<p>Alle Zugangsdaten liegen in einem verschlüsselten Tresor. Geöffnet wird er mit dem Hauptpasswort, bei guten Lösungen zusätzlich mit einem zweiten Faktor wie einer App am Handy. Die Verschlüsselung passiert auf Ihrem Gerät, seriöse Anbieter können Ihre Passwörter selbst nicht lesen.</p><ul><li><strong>Browser-Erweiterung</strong> füllt Logins auf Websites automatisch aus</li><li><strong>App am Handy</strong> für Anmeldungen unterwegs</li><li><strong>Passwortgenerator</strong> für neue, lange Passwörter</li><li><strong>Sicherheitsbericht</strong> zeigt schwache, alte oder doppelte Passwörter</li><li><strong>Sichere Notizen</strong> für WLAN-Schlüssel, Lizenzcodes oder Zugangsdaten zum Router</li></ul>"
+    },
+    {
+      "h2": "Worauf Sie bei der Auswahl achten",
+      "html": "<p>Es gibt zahlreiche Anbieter, bekannte Namen sind etwa Bitwarden, 1Password oder KeePass als lokale Lösung. Für Betriebe zählen andere Kriterien als für Privatpersonen:</p><ul><li><strong>Teamfunktionen:</strong> gemeinsame Tresore, Rechte pro Person, zentrale Verwaltung</li><li><strong>Austrittsprozess:</strong> Zugriff mit einem Klick entziehen</li><li><strong>Zwei-Faktor-Anmeldung</strong> für alle Nutzer, idealerweise vom Administrator vorgeschrieben</li><li><strong>Notfallzugang:</strong> Was passiert, wenn der Chef ausfällt und niemand das Hauptpasswort kennt?</li><li><strong>Datenschutz:</strong> Serverstandort, Vertrag zur Auftragsverarbeitung, unabhängige Sicherheitsprüfungen</li><li><strong>Geräte:</strong> Unterstützung für alle Computer, Handys und Browser im Betrieb</li><li><strong>Bedienung:</strong> einfach genug, dass auch weniger technikaffine Mitarbeiter mitmachen</li></ul><p>Cloud-Lösungen mit Abo sind bequem und synchronisieren automatisch. Lokale Lösungen speichern den Tresor als Datei, die Sie selbst sichern und verteilen müssen, das erfordert mehr Disziplin.</p>"
+    },
+    {
+      "h2": "Einführung im Team in sechs Schritten",
+      "html": "<ol><li><strong>Bestand aufnehmen:</strong> Welche Konten gibt es im Betrieb, wer braucht welche?</li><li><strong>Tresore anlegen:</strong> etwa „Büro“, „Website und Social Media“, „Lieferanten“, „Geschäftsführung“.</li><li><strong>Kurze Einschulung:</strong> Erweiterung installieren, Hauptpasswort wählen, Zwei-Faktor einrichten.</li><li><strong>Passwörter übernehmen</strong> und dabei die schwachen gleich ersetzen.</li><li><strong>Alte Listen vernichten:</strong> Zettel, Excel-Dateien, Notizen in Chats.</li><li><strong>Regeln festlegen:</strong> neue Zugänge nur noch im Manager, keine Weitergabe per Mail oder Messenger.</li></ol><p>Ein Beispiel: Ein Kosmetikstudio mit drei Mitarbeiterinnen teilt den Zugang zur Buchungssoftware, zum Instagram-Konto und zum Lieferantenshop. Im gemeinsamen Tresor sieht jede nur, was sie braucht. Als eine Mitarbeiterin geht, entzieht die Chefin den Zugriff und ändert die drei geteilten Passwörter, in wenigen Minuten.</p>"
+    },
+    {
+      "h2": "Das Hauptpasswort und der Notfall",
+      "html": "<p>Das Hauptpasswort ist der Schlüssel zu allem, deshalb muss es lang, einzigartig und merkbar sein. Bewährt haben sich Passsätze aus mehreren zufälligen Wörtern. Es darf nirgendwo sonst verwendet werden.</p><ul><li>Hauptpasswort nicht im Manager selbst speichern, sondern merken</li><li>Für den Notfall einen versiegelten Umschlag im Tresor oder bei einer Vertrauensperson hinterlegen</li><li>Wiederherstellungscodes für die Zwei-Faktor-Anmeldung ausdrucken und sicher verwahren</li><li>Im Team mindestens zwei Administratoren festlegen</li></ul><p>Der Notfallzugang wird oft vergessen, ist aber entscheidend: Wenn die einzige Person mit Zugriff krank wird, darf der Betrieb nicht stillstehen.</p>"
+    },
+    {
+      "h2": "Passwort-Manager als Teil der IT-Sicherheit",
+      "html": "<p>Ein Passwort-Manager ist ein Baustein, kein Rundum-Schutz. Er wirkt am besten zusammen mit Updates, Backups und Zwei-Faktor-Anmeldung. Wie diese Teile zusammenspielen, zeigt der Beitrag <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>. Wer eine WordPress-Website betreibt, findet konkrete Tipps unter <a href=\"/wissen/wordpress-sicher-halten/\">WordPress-Website sicher halten</a>.</p><p>Achten Sie bei jedem Dienstleister, der für Sie eine Website, einen Chatbot oder eine Automatisierung umsetzt, darauf, dass Zugänge auf sicherem Weg übergeben werden und am Ende in Ihrem eigenen Passwort-Manager liegen. So behalten Sie die Kontrolle über alle Konten. Fragen dazu klären wir gern im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Passwort-Manager sicher, wenn alle Passwörter an einem Ort liegen?",
+      "a": "Ja, sicherer als die üblichen Alternativen. Der Tresor ist stark verschlüsselt und nur mit Hauptpasswort und idealerweise zweitem Faktor zu öffnen. Seriöse Anbieter können die Daten selbst nicht lesen. Das größere Risiko sind wiederverwendete oder schwache Passwörter, die ein Passwort-Manager gerade verhindert. Entscheidend sind ein starkes Hauptpasswort und Zwei-Faktor-Anmeldung."
+    },
+    {
+      "q": "Was kostet ein Passwort-Manager für ein kleines Team?",
+      "a": "Es gibt kostenlose Varianten, vor allem lokale Lösungen und Grundversionen, sowie Abos für Teams, die meist pro Person und Monat abgerechnet werden. Die aktuellen Preise nennen die Anbieter auf ihren Websites. Für Betriebe lohnt sich in der Regel eine Teamversion, weil sie gemeinsame Tresore, Rechteverwaltung und einen sauberen Austrittsprozess bietet."
+    },
+    {
+      "q": "Wie teile ich Passwörter sicher mit Mitarbeitern?",
+      "a": "Über einen gemeinsamen Tresor im Passwort-Manager. Sie legen fest, wer welche Zugänge sieht, und können den Zugriff jederzeit entziehen. Mitarbeiter müssen das Passwort oft nicht einmal sehen, weil der Manager es automatisch einträgt. Passwörter per E-Mail, SMS oder Messenger weiterzugeben sollten Sie vermeiden, weil sie dort dauerhaft und ungeschützt liegen bleiben."
+    },
+    {
+      "q": "Was passiert, wenn ich das Hauptpasswort vergesse?",
+      "a": "Bei vielen Anbietern ist der Tresor dann nicht mehr zu öffnen, weil der Anbieter selbst keinen Zugriff hat. Teamversionen bieten oft eine Wiederherstellung über einen Administrator, manche Anbieter einen Notfallzugang über eine Vertrauensperson. Hinterlegen Sie das Hauptpasswort und die Wiederherstellungscodes daher versiegelt an einem sicheren Ort und richten Sie mindestens zwei Administratoren ein."
+    }
+  ],
+  "verwandt": ["/wissen/it-sicherheit/", "/wissen/phishing-erkennen/", "/wissen/wordpress-sicher-halten/", "/wissen/cloud-speicher/", "/wissen/digitalisierung-vereine/"],
+  "checks": ["seo-check"]
+}

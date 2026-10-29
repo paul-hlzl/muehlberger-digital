@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/mostviertel/",
+  "title": "KI-Chatbot für Betriebe im Mostviertel",
+  "description": "Mostheuriger, Hofladen oder Gewerbebetrieb: Wie ein KI-Chatbot im Mostviertel Kundenfragen rund um die Uhr beantwortet und was Pipebot kostet.",
+  "h1": "KI-Chatbot für die Website im Mostviertel",
+  "kicker": "KI-Chatbot · Mostviertel",
+  "lead": "Das Mostviertel verbindet bäuerliche Direktvermarktung und Mostheurige mit vielen Gewerbe- und Industriebetrieben. Ein KI-Chatbot hilft beiden, Fragen auf der Website sofort zu beantworten: Öffnungszeiten und Produkte genauso wie Leistungen und Ansprechpartner. Pipebot kostet 19 € im Monat und antwortet nur mit Ihren Inhalten.",
+  "fakten": [
+    "Region im Südwesten Niederösterreichs, bekannt für Most und Birnbäume",
+    "Neben Landwirtschaft viele Gewerbe- und Industriebetriebe",
+    "Privatkunden und Firmenkunden fragen unterschiedlich, der Bot kann beides",
+    "19 € pro Monat, erste 30 Tage gratis, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Most, Birnbäume und viel Gewerbe",
+      "html": "<p>Das <a href=\"/regionen/mostviertel/\">Mostviertel</a> ist für Most und seine Birnbäume bekannt, und viele Bauernhöfe verkaufen ab Hof oder führen einen Mostheurigen. Gleichzeitig gibt es in der Region viele Gewerbe- und Industriebetriebe, vom kleinen Zulieferer bis zum Produktionsbetrieb.</p><p>Beide Welten haben Fragen von Kunden, nur ganz verschiedene. Ein Chatbot kann beide bedienen, weil er mit den Inhalten der jeweiligen Website arbeitet.</p>"
+    },
+    {
+      "h2": "Mostheurige und Hofläden: Zeiten, Produkte, Anfahrt",
+      "html": "<p>Ein Mostheuriger wird gefragt, wann ausg'steckt ist, ob es eine Jause für Kinder gibt und ob man mit dem Bus anreisen kann. Ein Hofladen hört: Welche Säfte und Moste sind gerade da? Kann ich Geschenkkörbe bestellen?</p><p>Wer diese Antworten auf der Website hat, kann sie von Pipebot rund um die Uhr weitergeben lassen. Mehr Ideen für Direktvermarkter liefert der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">regionale Produkte online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Gewerbebetriebe: Firmenkunden fragen anders",
+      "html": "<p>Ein Zulieferbetrieb mit dreißig Mitarbeitern bekommt sachliche Fragen: Welche Materialien verarbeiten Sie? Ab welcher Stückzahl lohnt sich ein Auftrag? Wer ist für Anfragen zuständig? Firmenkunden wollen schnell wissen, ob ein Betrieb grundsätzlich passt.</p><p>Pipebot beantwortet diese Grundfragen mit Ihren Inhalten und verbindet für das eigentliche Angebot mit Ihrem Vertrieb. Verhandeln oder Preise kalkulieren gehört nicht zu seinen Aufgaben.</p>"
+    },
+    {
+      "h2": "Seiten für einzelne Orte im Mostviertel",
+      "html": "<p>Je nach Standort sind die Anforderungen unterschiedlich. Eigene Seiten gibt es für <a href=\"/leistungen/ki-chatbot/amstetten/\">Amstetten</a>, wo viele Kunden aus zwei Bundesländern kommen, für <a href=\"/leistungen/ki-chatbot/scheibbs/\">Scheibbs</a> mit seinen Familienbetrieben und für <a href=\"/leistungen/ki-chatbot/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a> mit seinem Handwerk.</p><p>Allgemeine Informationen zum <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> finden Sie auf der Leistungsseite, einen ersten Eindruck mit Ihrer Website gibt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie unterscheidet sich ein Chatbot für einen Hofladen von einem für einen Gewerbebetrieb?",
+      "a": "Technisch gar nicht, inhaltlich sehr. Pipebot arbeitet in beiden Fällen gleich: Er beantwortet Fragen mit den Inhalten der jeweiligen Website. Der Hofladen braucht dort Öffnungszeiten, Produkte und Anfahrt, der Gewerbebetrieb Leistungen, Materialien und Zuständigkeiten. Je klarer diese Inhalte formuliert sind, desto besser antwortet der Bot. Der Preis ist in beiden Fällen gleich."
+    },
+    {
+      "q": "Was kostet Pipebot im ersten Jahr?",
+      "a": "Die ersten 30 Tage sind gratis, danach kostet Pipebot 19 € im Monat ohne Umsatzsteuer. Für den Rest des ersten Jahres sind das rund 210 €. Pipebot ist monatlich kündbar, Sie zahlen also nur, solange Sie ihn nutzen. Das Erstgespräch mit Mühlberger Digital ist kostenlos. Wenn Ihre Website zuerst überarbeitet werden muss, ist das ein eigenes Angebot."
+    },
+    {
+      "q": "Wo findet das Erstgespräch statt?",
+      "a": "Wo es für Sie am einfachsten ist: vor Ort in Ihrem Betrieb, am Telefon oder per Video-Call. Mühlberger Digital sitzt in Ottenschlag im Waldviertel, persönliche Termine in Niederösterreich sind der Schwerpunkt. Das Gespräch ist kostenlos, dauert etwa 30 Minuten und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt. Kontakt: +43 677 6219 2776."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/mostviertel/",
+    "/leistungen/ki-chatbot/amstetten/",
+    "/leistungen/ki-chatbot/scheibbs/",
+    "/branchen/landwirtschaft/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

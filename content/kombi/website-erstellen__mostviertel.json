@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/website-erstellen/mostviertel/",
+  "title": "Website erstellen lassen im Mostviertel, auch für KI-Suchen",
+  "description": "Website erstellen lassen im Mostviertel: so aufgebaut, dass Google und KI-Suchen wie ChatGPT Ihren Betrieb verstehen und nennen können. Ab 2.500 €.",
+  "h1": "Website erstellen lassen im Mostviertel",
+  "kicker": "Website · Mostviertel",
+  "lead": "Wer einen Ausflug ins Mostviertel plant oder einen Handwerker in der Gegend sucht, fragt dafür zunehmend auch KI-Suchen wie ChatGPT oder Gemini. Diese nennen Betriebe, deren Websites klare, gut verständliche Informationen liefern. Mühlberger Digital vermittelt Starter-Websites ab 2.500 €, die von Anfang an für Google und KI-Suchen aufgebaut sind.",
+  "fakten": [
+    "Region von der Donau bis in die Voralpen, bekannt für Most und Birnbäume",
+    "KI-Suchen beantworten Fragen und nennen dabei konkrete Betriebe",
+    "Klare Fakten und Antworten auf der Website helfen dabei",
+    "Gratis-Check von Hittaro zeigt, wie oft Ihr Betrieb genannt wird"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie KI-Suchen Betriebe auswählen",
+      "html": "<p>Fragt jemand eine KI „Wo gibt es im Mostviertel einen Mostheurigen mit Spielplatz?“, sucht diese im Netz nach passenden Informationen und fasst sie zusammen. Betriebe, deren Website genau solche Fakten klar nennt, haben bessere Chancen, erwähnt zu werden. Wer nur schöne Bilder ohne Text hat, bleibt oft unsichtbar.</p><p>Was dahintersteckt, erklärt der Ratgeber <a href=\"/wissen/in-chatgpt-gefunden-werden/\">In ChatGPT gefunden werden</a>.</p>"
+    },
+    {
+      "h2": "Was eine Website für KI-Suchen verständlich macht",
+      "html": "<ul><li>Klare Sätze zu Angebot, Ort, Öffnungszeiten und Besonderheiten, kein reines Werbedeutsch</li><li>Häufige Fragen mit vollständigen Antworten, siehe <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a></li><li>Einheitliche Angaben auf Website, Google-Profil und anderen Plattformen</li><li>Technisch saubere Struktur, die Programme gut auslesen können</li></ul>"
+    },
+    {
+      "h2": "Drei Beispiele aus der Region",
+      "html": "<p>Ein <strong>Mostheuriger</strong> nennt Öffnungstage, Spezialitäten, Plätze im Freien und ob Kinder willkommen sind. Eine <strong>Tischlerei</strong> beschreibt, welche Arbeiten sie übernimmt und in welchem Umkreis sie montiert. Ein <strong>Radverleih</strong> erklärt, welche Räder es gibt, wie man reserviert und welche Touren sich von dort anbieten.</p><p>In allen drei Fällen sind es einfache, überprüfbare Aussagen, die Menschen und Programme gleichermaßen verstehen.</p>"
+    },
+    {
+      "h2": "Messen statt raten",
+      "html": "<p>Wie oft Ihr Betrieb in Google und KI-Suchen auftaucht, lässt sich messen. Der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> liefert innerhalb von 24 Stunden einen Bericht. Wer danach gezielt nachbessern will, findet die Leistung unter <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>.</p><p>Die Website selbst beginnt bei 2.500 €. Mehr auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> und <a href=\"/regionen/mostviertel/\">Region Mostviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann man garantieren, dass ChatGPT meinen Betrieb empfiehlt?",
+      "a": "Nein, das kann niemand seriös versprechen. KI-Suchen entscheiden selbst, welche Quellen sie nutzen, und ihre Antworten ändern sich laufend. Was sich verbessern lässt, sind die Voraussetzungen: klare Inhalte, einheitliche Angaben und eine technisch saubere Website. Ob das wirkt, zeigt eine Messung vorher und nachher, etwa mit dem Bericht von Hittaro."
+    },
+    {
+      "q": "Muss ich für KI-Suchen anders schreiben als für Google?",
+      "a": "Im Grunde nicht. Beide profitieren von klaren, ehrlichen Texten, die konkrete Fragen beantworten. Für KI-Suchen ist es besonders hilfreich, wenn Fakten wie Ort, Angebot und Besonderheiten in vollständigen Sätzen stehen und nicht nur in Bildern oder Stichworten. Wer gut für Menschen schreibt, schreibt in aller Regel auch gut für Maschinen."
+    },
+    {
+      "q": "Ist das für einen kleinen Betrieb im Mostviertel überhaupt relevant?",
+      "a": "Zunehmend ja, weil immer mehr Menschen KI-Suchen für Alltagsfragen nutzen, gerade bei der Planung von Ausflügen oder der Suche nach Dienstleistern. Für einen Betrieb, der fast nur von Stammkunden lebt, ist es weniger dringend. Da die Starter-Website ohnehin für KI-Suchen optimiert wird, entstehen Ihnen dafür keine zusätzlichen Kosten."
+    },
+    {
+      "q": "Was ist eine llms.txt-Datei, und brauche ich eine?",
+      "a": "Eine llms.txt ist eine kleine Textdatei, die KI-Systemen in kurzer Form erklärt, worum es auf einer Website geht und welche Seiten wichtig sind. Sie ist ein noch junger Vorschlag, den nicht alle KI-Anbieter nutzen. Schaden kann sie nicht, ein Muss ist sie aber nicht. Wichtiger bleiben klare Inhalte auf der Website selbst."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/mostviertel/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/wissen/in-chatgpt-gefunden-werden/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "website-entwurf"
+  ]
+}

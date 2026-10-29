@@ -1,0 +1,70 @@
+{
+ "pfad": "/branchen/autohaus/",
+ "title": "Autohäuser digital: Gebrauchtwagen, Probefahrt, Telefon",
+ "description": "Für Autohäuser: Gebrauchtwagenanfragen sofort beantworten, Probefahrten online vereinbaren, Inzahlungnahmen mit Fotos vorbereiten und Firmenkunden für.",
+ "h1": "Digitale Lösungen für Autohäuser",
+ "kicker": "Branche · Autohaus",
+ "lead": "Autohäuser verlieren Verkäufe oft in den ersten Stunden: Eine Anfrage zu einem Gebrauchtwagen bleibt bis zum nächsten Tag liegen, und der Interessent kauft woanders. Digital helfen vor allem schnelle Antworten zu Fahrzeugen, eine einfache Vereinbarung von Probefahrten, gut vorbereitete Inzahlungnahmen und eine Telefonannahme, die Verkauf, Werkstatt und Teile sauber trennt.",
+ "fakten": [
+  "Anfragen zu Gebrauchtwagen innerhalb von Stunden beantworten, nicht Tagen",
+  "Probefahrt-Anfrage mit Wunschtermin direkt beim Fahrzeug",
+  "Inzahlungnahme vorab mit Fotos, Kilometerstand und Erstzulassung",
+  "KI-Telefonassistent verteilt Anrufe auf Verkauf, Werkstatt und Teile",
+  "SightUp findet Firmen in der Nähe, die Fahrzeuge für ihre Flotte brauchen"
+ ],
+ "abschnitte": [
+  {
+   "h2": "„Ist das Auto noch da?“ Gebrauchtwagenanfragen schnell beantworten",
+   "html": "<p>Ein Kombi aus Ihrem Bestand ist online inseriert, und am Sonntagabend kommen mehrere Nachrichten: Ist er noch verfügbar? Gibt es ein Serviceheft? Hat er Anhängerkupplung? Wer am Montag erst mittags antwortet, hat oft schon verloren, weil der Interessent bei einem anderen Händler einen Termin ausgemacht hat.</p><p>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf Ihrer Website kann solche Fragen beantworten, wenn die Fahrzeugdaten dort stehen. Pipebot antwortet nur mit Ihren hinterlegten Inhalten, erfindet keine Ausstattung und verbindet bei Unsicherheit mit dem Verkauf. Er kostet 19 € pro Monat, monatlich kündbar, die ersten 30 Tage gratis. Ob er mit Ihren Fahrzeugseiten gut zurechtkommt, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+  },
+  {
+   "h2": "Probefahrt in wenigen Klicks",
+   "html": "<p>Die Probefahrt ist der wichtigste Schritt vor dem Kauf. Trotzdem steht auf vielen Fahrzeugseiten nur eine allgemeine Telefonnummer. Besser ist ein Button direkt beim Fahrzeug: „Probefahrt anfragen“, mit Wunschtag, Uhrzeit und Kontaktdaten.</p><p>Hilfreich ist auch ein kurzer Hinweis, was mitzubringen ist, etwa Führerschein und Ausweis, und wie lange eine Probefahrt üblicherweise dauert. So kommen Interessenten vorbereitet, und Ihr Verkäufer hat das Fahrzeug getankt und vorgefahren. Was ein gutes Formular ausmacht, beschreibt der Ratgeber <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>.</p>"
+  },
+  {
+   "h2": "Inzahlungnahme: Fotos und Daten vorab",
+   "html": "<p>Viele Käufer wollen ihr altes Auto in Zahlung geben und fragen zuerst: „Was bekomme ich für meinen?“ Eine seriöse Bewertung braucht Angaben, die sich vorab gut sammeln lassen:</p><ul><li>Marke, Modell, Erstzulassung und Kilometerstand</li><li>Fotos von außen, innen und vom Tacho</li><li>Servicehistorie und bekannte Schäden</li></ul><p>Mit diesen Angaben kann Ihr Verkauf eine erste Einschätzung geben, bevor jemand vorbeikommt. Versprechen Sie online keinen fixen Preis, sondern laden Sie zur Besichtigung ein.</p>"
+  },
+  {
+   "h2": "Anrufe richtig verteilen: Verkauf, Werkstatt, Teile",
+   "html": "<p>In einem Autohaus mit Werkstatt landen Anrufe für Verkauf, Service und Ersatzteile oft auf derselben Nummer. Die Mitarbeiterin am Empfang verbindet, notiert und ruft zurück, und in Stoßzeiten bleibt das Telefon unbeantwortet.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> kann Anrufe annehmen, das Anliegen erfragen und an die richtige Abteilung weitergeben oder eine Zusammenfassung schicken. Das entlastet besonders an Montagen und Samstagvormittagen. Der Preis richtet sich nach Umfang und wird nach dem Erstgespräch genannt. Für die Abläufe in der Werkstatt selbst gibt es eine eigene Seite für <a href=\"/branchen/kfz-werkstatt/\">Kfz-Werkstätten</a>.</p>"
+  },
+  {
+   "h2": "Firmenkunden und Flotten gezielt ansprechen",
+   "html": "<p>Handwerksbetriebe, Pflegedienste oder Lieferfirmen brauchen regelmäßig Fahrzeuge, und ein Flottenkunde bringt oft über Jahre Umsatz in Verkauf und Werkstatt. Diese Betriebe aktiv zu finden, ist mühsam.</p><p><a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor. Sie entscheiden, wen Sie kontaktieren. Das Gratis-Paket umfasst 3 Suchen pro Monat, danach Start 19 €, Pro 50 € oder Business 150 € monatlich. Mehr dazu auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+  },
+  {
+   "h2": "Personal finden und der nächste Schritt",
+   "html": "<p>Verkäufer, Kfz-Techniker und Lehrlinge sind gefragt. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir live, wie ein Chatbot mit Ihren Fahrzeugseiten antwortet oder wie ein Telefonassistent Ihre Anrufe verteilt. Erst danach bekommen Sie ein schriftliches Angebot.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Kann ein Chatbot Fragen zu meinen Gebrauchtwagen beantworten?",
+   "a": "Ja, wenn die Fahrzeugdaten auf Ihrer Website stehen. Pipebot nutzt nur diese Inhalte und beantwortet Fragen zu Ausstattung, Kilometerstand oder Verfügbarkeit rund um die Uhr. Fehlt eine Angabe, erfindet er nichts, sondern verbindet mit dem Verkauf. Wichtig ist, dass verkaufte Fahrzeuge rasch von der Website genommen werden, damit keine falschen Auskünfte entstehen."
+  },
+  {
+   "q": "Wie bekomme ich mehr Probefahrten über die Website?",
+   "a": "Indem Sie die Anfrage dort möglich machen, wo das Interesse entsteht: direkt auf der Fahrzeugseite. Ein Button mit Wunschtermin und wenigen Pflichtfeldern ist einfacher als eine allgemeine Telefonnummer. Ergänzen Sie, was mitzubringen ist, und bestätigen Sie die Anfrage rasch. Schnelle Reaktion ist bei Gebrauchtwagen oft wichtiger als jeder Preisnachlass."
+  },
+  {
+   "q": "Lohnt sich ein KI-Telefonassistent für ein kleines Autohaus?",
+   "a": "Wenn Anrufe für Verkauf, Werkstatt und Teile auf einer Nummer landen und in Stoßzeiten unbeantwortet bleiben, kann ein Telefonassistent viel abfangen und richtig weitergeben. Bei einem kleinen Betrieb, in dem fast immer jemand abhebt, ist der Nutzen geringer. Wir schauen uns das im Erstgespräch ehrlich an, der Preis wird danach genannt."
+  },
+  {
+   "q": "Wie finde ich Firmenkunden für Fahrzeugflotten?",
+   "a": "Gute Kandidaten sind Betriebe, die viel unterwegs sind, etwa Handwerk, Pflege, Zustelldienste oder Außendienst. SightUp findet solche Firmen in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket mit 3 Suchen pro Monat reicht für einen ersten Test."
+  }
+ ],
+ "verwandt": [
+  "/branchen/kfz-werkstatt/",
+  "/leistungen/ki-telefonassistent/",
+  "/leistungen/ki-chatbot/",
+  "/produkte/sightup/",
+  "/wissen/erreichbarkeit/"
+ ],
+ "checks": [
+  "chatbot-test",
+  "neukunden-finden"
+ ]
+}

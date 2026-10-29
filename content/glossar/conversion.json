@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/conversion/",
+  "title": "Conversion: Bedeutung im Online-Marketing erklärt",
+  "description": "Conversion einfach erklärt: Was als Abschluss auf Ihrer Website zählt, wie man die Conversion-Rate berechnet und wie kleine Betriebe sie verbessern.",
+  "h1": "Conversion – wenn Besucher handeln",
+  "kicker": "Glossar · Marketing",
+  "lead": "Eine Conversion ist eine gewünschte Handlung eines Website-Besuchers, zum Beispiel eine Anfrage, ein Anruf, eine Reservierung oder ein Kauf. Die Conversion-Rate gibt an, welcher Anteil der Besucher diese Handlung ausführt.",
+  "fakten": [
+    "Was als Conversion zählt, legt jeder Betrieb selbst fest",
+    "Conversion-Rate = Conversions geteilt durch Besuche",
+    "Mehr Conversions bringen oft mehr als mehr Besucher"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was im Betrieb als Conversion zählt",
+      "html": "<p>Für eine Zahnarztpraxis ist es die Terminanfrage, für einen Hofladen die Bestellung im Onlineshop, für eine Steuerberatung der Download einer Checkliste mit anschließendem Rückruf. Ein Hotel misst vielleicht Buchungsanfragen und Klicks auf die Telefonnummer.</p><p>Ein Beispiel zur Rechnung: Besuchen 400 Menschen im Monat die Leistungsseite eines Malerbetriebs und schicken 8 davon eine Anfrage, liegt die Conversion-Rate bei 2 Prozent. Steigt sie durch einen klareren <a href=\"/glossar/call-to-action/\">Call-to-Action</a> auf 3 Prozent, kommen ohne zusätzliche Werbung mehr Anfragen.</p>"
+    },
+    {
+      "h2": "Warum KMU auf Conversions schauen sollten",
+      "html": "<p>Besucherzahlen allein sagen wenig. Eine kleine Website mit wenigen, aber passenden Besuchern und einer guten Conversion-Rate bringt mehr Aufträge als eine viel besuchte Seite, die niemanden überzeugt. Typische Hebel sind verständliche Texte, Vertrauen durch Referenzen, kurze Formulare und schnelle Ladezeiten.</p><p>Konkrete Schritte beschreibt der Ratgeber <a href=\"/wissen/conversion-verbessern/\">Conversion verbessern</a>. Wie Sie die Zahlen in Ihrer Statistik finden, zeigt <a href=\"/wissen/website-statistik-lesen/\">Website-Statistik lesen</a>; ein Gegenstück ist die <a href=\"/glossar/absprungrate/\">Absprungrate</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Conversion-Rate ist gut?",
+      "a": "Eine allgemeingültige Zahl gibt es nicht, weil Branche, Angebot und Herkunft der Besucher stark variieren. Ein Notdienst hat andere Werte als ein Shop für Geschenkartikel. Sinnvoller ist es, die eigene Rate über einige Monate zu beobachten und nach Änderungen zu vergleichen. Steigt sie, haben Sie etwas richtig gemacht; fällt sie, lohnt sich ein genauer Blick."
+    },
+    {
+      "q": "Wie messe ich Conversions ohne Cookie-Banner?",
+      "a": "Viele Conversions lassen sich ohne Tracking-Cookies zählen, etwa eingegangene Formulare, Anrufe über eine eigene Nummer oder Buchungen im System. Datenschutzfreundliche Statistik-Tools können Ereignisse wie Formularabsendungen zudem ohne Cookies erfassen. Welche Lösung passt, hängt von Ihrem Aufbau ab; im Einzelfall sollten Sie die datenschutzrechtliche Seite prüfen lassen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/conversion-verbessern/",
+    "/glossar/call-to-action/",
+    "/glossar/absprungrate/",
+    "/wissen/besucheranalyse-ohne-cookies/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

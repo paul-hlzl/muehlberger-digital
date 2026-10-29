@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/eu-ai-act/",
+  "title": "EU AI Act: Was KMU in Österreich jetzt wissen sollten",
+  "description": "EU AI Act einfach erklärt: welche Rolle Ihr Betrieb hat, was KI-Kompetenz und Transparenzpflichten bedeuten und welche Anwendungen genauer zu prüfen sind.",
+  "h1": "EU AI Act: Was KMU jetzt wissen sollten",
+  "kicker": "Ratgeber · KI & Recht",
+  "lead": "Der EU AI Act, die europäische KI-Verordnung, ist seit August 2024 in Kraft und wird stufenweise wirksam. Für die meisten kleinen Betriebe, die KI-Werkzeuge wie Textassistenten, Chatbots oder Protokoll-Tools nutzen, heißt das vor allem: Mitarbeitende brauchen ausreichende KI-Kompetenz, und wo Menschen mit einer KI sprechen oder KI-Inhalte täuschend echt wirken, muss das offengelegt werden. Strenge Pflichten treffen vor allem Hochrisiko-Anwendungen und die Anbieter der Systeme.",
+  "fakten": [
+    "Die KI-Verordnung ist eine EU-Verordnung und gilt in Österreich unmittelbar",
+    "Sie unterscheidet nach Risiko: verboten, hohes Risiko, Transparenzpflichten, minimales Risiko",
+    "Die meisten KMU sind Betreiber, nicht Anbieter von KI-Systemen",
+    "Seit Februar 2025 gilt die Pflicht, für ausreichende KI-Kompetenz im Team zu sorgen",
+    "Ansprechstellen in Österreich: die KI-Servicestelle der RTR und die WKO"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was der AI Act ist und wie er funktioniert",
+      "html": "<p>Der AI Act ist eine Verordnung der Europäischen Union. Anders als eine Richtlinie muss er nicht erst in nationales Recht übertragen werden, sondern gilt direkt in allen Mitgliedstaaten, also auch in Österreich. Er regelt KI nicht nach Technik, sondern nach dem <strong>Risiko</strong> einer Anwendung:</p><ul><li><strong>Verbotene Praktiken:</strong> etwa Systeme zur Manipulation von Menschen oder zur Emotionserkennung am Arbeitsplatz, von eng begrenzten Ausnahmen abgesehen</li><li><strong>Hochrisiko-Systeme:</strong> zum Beispiel KI bei der Auswahl von Bewerbern oder bei Entscheidungen über den Zugang zu wichtigen Leistungen</li><li><strong>Transparenzpflichten:</strong> etwa für Chatbots und künstlich erzeugte Inhalte, die echt wirken</li><li><strong>Minimales Risiko:</strong> die große Mehrheit der Alltagsanwendungen, etwa Textentwürfe oder Spamfilter</li></ul>"
+    },
+    {
+      "h2": "Anbieter oder Betreiber: welche Rolle Ihr Betrieb hat",
+      "html": "<p>Die Pflichten hängen stark davon ab, welche Rolle Sie haben. <strong>Anbieter</strong> entwickeln ein KI-System oder bringen es unter eigenem Namen auf den Markt. <strong>Betreiber</strong> setzen ein KI-System in eigener Verantwortung im Betrieb ein.</p><p>Ein Steuerberater, der einen KI-Assistenten für Entwürfe nutzt, ein Gasthaus mit einem Chatbot auf der Website oder ein Handwerksbetrieb mit KI-Protokollen sind typischerweise Betreiber. Wer dagegen selbst eine KI-Anwendung programmiert und an Kunden verkauft, wird zum Anbieter und hat deutlich mehr Pflichten. Diese Unterscheidung ist der erste Schritt jeder Einschätzung.</p>"
+    },
+    {
+      "h2": "Der Zeitplan: was wann gilt",
+      "html": "<p>Die Verordnung trat am 1. August 2024 in Kraft und wird in Etappen anwendbar. Nach dem ursprünglichen Zeitplan:</p><ul><li><strong>Februar 2025:</strong> Verbote bestimmter Praktiken und die Pflicht zur KI-Kompetenz</li><li><strong>August 2025:</strong> Regeln für Anbieter von KI-Modellen mit allgemeinem Verwendungszweck, also großen Sprachmodellen</li><li><strong>August 2026:</strong> der Großteil der übrigen Regeln, darunter die Transparenzpflichten und viele Hochrisiko-Vorgaben</li><li><strong>August 2027:</strong> Hochrisiko-Regeln für KI in bestimmten regulierten Produkten</li></ul><p>Auf EU-Ebene wurde über Anpassungen und Verschiebungen einzelner Fristen beraten, vor allem bei Hochrisiko-Systemen. Den aktuellen Stand sollten Sie deshalb bei der <a href=\"https://www.rtr.at/\">RTR</a>, die in Österreich eine KI-Servicestelle betreibt, oder bei der <a href=\"https://www.wko.at/\">WKO</a> nachlesen.</p>"
+    },
+    {
+      "h2": "KI-Kompetenz im Team: was das praktisch heißt",
+      "html": "<p>Betreiber müssen Maßnahmen treffen, damit die Personen, die mit KI arbeiten, über ausreichende KI-Kompetenz verfügen. Das klingt groß, ist für kleine Betriebe aber gut umsetzbar:</p><ol><li>Listen Sie auf, welche KI-Werkzeuge im Betrieb genutzt werden, auch die privat installierten Apps am Diensthandy.</li><li>Erklären Sie dem Team, was diese Werkzeuge können, wo sie Fehler machen und welche Daten nicht hinein gehören.</li><li>Halten Sie in einer kurzen internen Richtlinie fest, wofür KI genutzt werden darf und wer Ergebnisse prüft.</li><li>Dokumentieren Sie, wer wann eingeschult wurde.</li></ol><p>Wie eine solche Einschulung aussehen kann, beschreibt der Ratgeber <a href=\"/wissen/ki-schulung/\">KI-Schulung für Mitarbeitende</a>.</p>"
+    },
+    {
+      "h2": "Transparenz: Chatbots, KI-Bilder und Deepfakes",
+      "html": "<p>Für den Alltag kleiner Betriebe sind die Transparenzpflichten am greifbarsten. Menschen, die mit einem KI-System interagieren, sollen das wissen, sofern es nicht ohnehin offensichtlich ist. Ein Chatbot auf der Website stellt sich deshalb am besten klar als KI-Assistent vor. Bei einem <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> lässt sich das schon im Begrüßungstext lösen.</p><p>Täuschend echte, künstlich erzeugte oder veränderte Bilder, Videos oder Tonaufnahmen von realen Personen, Orten oder Ereignissen, sogenannte Deepfakes, müssen als solche gekennzeichnet werden. Für viele Pflichten zur technischen Kennzeichnung sind in erster Linie die Anbieter der Werkzeuge zuständig. Als Betrieb sollten Sie dennoch bewusst entscheiden, wann Sie KI-Inhalte offenlegen.</p>"
+    },
+    {
+      "h2": "Typische KMU-Anwendungen im Überblick",
+      "html": "<ul><li><strong>Textassistent für Angebote und E-Mails:</strong> minimales Risiko. Wichtig sind KI-Kompetenz und eine menschliche Endkontrolle.</li><li><strong>Chatbot auf der Website:</strong> Transparenzpflicht. Klar als KI erkennbar machen und eine Verbindung zu Menschen anbieten.</li><li><strong>KI-Gesprächsprotokolle:</strong> meist minimales Risiko nach dem AI Act, aber datenschutzrechtlich sorgfältig zu behandeln.</li><li><strong>KI zur Vorauswahl von Bewerbungen:</strong> fällt in den Hochrisiko-Bereich. Hier ist besondere Vorsicht geboten, bevor Sie so etwas einsetzen.</li><li><strong>Stimmungsanalyse von Mitarbeitenden:</strong> Emotionserkennung am Arbeitsplatz ist grundsätzlich verboten.</li></ul><p>Der AI Act ersetzt nicht den Datenschutz. Beide Regelwerke gelten nebeneinander, mehr dazu unter <a href=\"/wissen/ki-und-datenschutz/\">KI im Betrieb und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Checkliste und nächster Schritt",
+      "html": "<ul><li>Alle KI-Werkzeuge im Betrieb erfassen</li><li>Rolle klären: Betreiber oder Anbieter</li><li>Risikostufe je Anwendung grob einordnen</li><li>Team einschulen und das dokumentieren</li><li>Chatbots und KI-Inhalte transparent kennzeichnen</li><li>Datenschutz parallel prüfen</li></ul><p>Wenn Sie KI im Betrieb einführen möchten, besprechen wir in der <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a>, welche Anwendungen sinnvoll sind und wie sie sauber eingebunden werden. Die Umsetzung übernimmt Pipeline AI Solutions. Dieser Ratgeber ist eine allgemeine Orientierung und keine Rechtsberatung. Im Einzelfall wenden Sie sich an die KI-Servicestelle der RTR, die WKO oder eine Anwältin bzw. einen Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt der EU AI Act auch für kleine Betriebe?",
+      "a": "Ja, die Verordnung gilt unabhängig von der Betriebsgröße. Für kleine Betriebe, die KI nur nutzen, sind die Pflichten aber meist überschaubar: ausreichende KI-Kompetenz im Team und Transparenz, wo Menschen mit KI interagieren oder täuschend echte KI-Inhalte sehen. Für KMU und Start-ups sieht die Verordnung zudem gewisse Erleichterungen vor. Aufwendig wird es vor allem bei Hochrisiko-Anwendungen oder wenn Sie selbst KI-Systeme anbieten."
+    },
+    {
+      "q": "Muss ich kennzeichnen, dass ein Text mit KI geschrieben wurde?",
+      "a": "Für gewöhnliche Werbetexte, Angebote oder E-Mails, die Sie mit KI entwerfen und selbst prüfen, gibt es nach dem AI Act in der Regel keine allgemeine Kennzeichnungspflicht. Strenger sind die Regeln für KI-Texte, die die Öffentlichkeit über Angelegenheiten von öffentlichem Interesse informieren sollen und nicht redaktionell geprüft werden, sowie für Deepfakes. Im Einzelfall, etwa bei Gemeinde- oder Vereinsmedien, lohnt eine Nachfrage bei der RTR."
+    },
+    {
+      "q": "Muss ich meine Mitarbeitenden zum Thema KI schulen?",
+      "a": "Betreiber von KI-Systemen müssen Maßnahmen treffen, damit ihr Personal über ausreichende KI-Kompetenz verfügt. Eine bestimmte Form wie ein Zertifikat ist dafür nicht vorgeschrieben. Für einen kleinen Betrieb kann das eine Einschulung zu den genutzten Werkzeugen, eine kurze schriftliche Richtlinie und eine Dokumentation sein, wer teilgenommen hat. Wichtig ist, dass das Team Grenzen und Fehlerquellen der Werkzeuge kennt."
+    },
+    {
+      "q": "Wo bekomme ich in Österreich Auskunft zum AI Act?",
+      "a": "Erste Anlaufstelle ist die KI-Servicestelle der Rundfunk und Telekom Regulierungs-GmbH (RTR), die Informationen für Unternehmen und Bürger bereitstellt. Auch die Wirtschaftskammer informiert ihre Mitglieder zu den Pflichten aus der KI-Verordnung. Für konkrete rechtliche Fragen, etwa ob eine Anwendung als hochriskant gilt, ist eine Anwältin oder ein Anwalt mit Schwerpunkt IT-Recht die richtige Adresse."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-und-datenschutz/",
+    "/wissen/ki-schulung/",
+    "/wissen/ki-fuer-kleine-unternehmen/",
+    "/leistungen/ki-chatbot/",
+    "/leistungen/digitalisierungsberatung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

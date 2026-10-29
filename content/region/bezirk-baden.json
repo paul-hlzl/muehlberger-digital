@@ -1,0 +1,65 @@
+{
+  "pfad": "/regionen/bezirk-baden/",
+  "title": "Digitalagentur Bezirk Baden: Praxen, Wein, Gesundheit",
+  "description": "Website, Online-Terminbuchung und KI-Chatbot für Praxen, Gesundheitsbetriebe und Heurige im Bezirk Baden – online beraten, mit klaren Preisen.",
+  "h1": "Digitalagentur für den Bezirk Baden – für Gesundheit, Genuss und Gewerbe",
+  "kicker": "Region · Bezirk",
+  "lead": "Im Bezirk Baden berät Mühlberger Digital vor allem Praxen, Gesundheits- und Wellnessbetriebe, Heurige und Gewerbe zu Website, Terminbuchung und KI-Chatbot. Die Beratung läuft meist per Video-Call, persönliche Termine sind nach Absprache möglich.",
+  "fakten": [
+    "Bezirkshauptstadt Baden, bekannte Kurstadt im Industrieviertel",
+    "Thermenregion mit Weinbau und Heurigen",
+    "Pipebot beantwortet Fragen rund um die Uhr, 19 € pro Monat",
+    "Erstgespräch kostenlos, Mo–Fr 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kurstadt, Thermenregion und Wiener Umland",
+      "html": "<p>Der Bezirk Baden liegt im <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> südlich von Wien. Die Bezirkshauptstadt Baden ist als Kurstadt mit Thermalwasser bekannt, rundherum erstreckt sich die Thermenregion mit Weinbau und Heurigen. Viele Orte sind über Bahn und Autobahn eng mit Wien verbunden, entsprechend viele Menschen pendeln.</p><p>Für Betriebe bedeutet das: Neben der Kundschaft aus dem Ort kommen Gäste, Kurgäste und Ausflügler, die Sie zum ersten Mal online sehen.</p>"
+    },
+    {
+      "h2": "Gesundheitsbetriebe: Termine ohne Telefonschleife",
+      "html": "<p>Physiotherapie, Massage, Kosmetik und andere Gesundheitsangebote haben im Bezirk Baden traditionell einen hohen Stellenwert. Diese Betriebe haben ein gemeinsames Problem: Während der Behandlung kann niemand ans Telefon gehen. Typische Lösungen:</p><ul><li>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>, über die Patientinnen und Patienten selbst freie Zeiten wählen</li><li>Ein KI-Chatbot, der Fragen zu Leistungen, Preisen und Anfahrt mit den Inhalten der Website beantwortet</li><li>Eine klare Seite für jede Behandlung, damit Google und KI-Suchen verstehen, was Sie anbieten</li></ul><p>Mehr zu den Besonderheiten steht auf den Seiten für <a href=\"/branchen/physiotherapie/\">Physiotherapie</a> und <a href=\"/branchen/massage/\">Massage</a>.</p>"
+    },
+    {
+      "h2": "Heurige und Weinbau in der Thermenregion",
+      "html": "<p>Ein Heuriger in der Thermenregion lebt von Stammgästen und Ausflüglern aus Wien. Wer am Wochenende einen offenen Heurigen sucht, schaut ins Google-Profil. Stimmen die Ausschank-Zeiten nicht, ist der Abend für Gast und Wirt verloren. Ein kurzer Pflegeplan für Profil und Website hilft hier mehr als eine aufwendige Kampagne.</p>"
+    },
+    {
+      "h2": "Warum lokale Sichtbarkeit im Bezirk Baden besonders zählt",
+      "html": "<p>Weil der Bezirk dicht besiedelt ist und nah an Wien liegt, gibt es für viele Leistungen mehrere Anbieter in Reichweite. Gewählt wird, wer online am klarsten auftritt: mit echten Bewertungen, aktuellen Öffnungszeiten und einer Website, die schnell lädt. Der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a> zeigt, wo Ihre Website steht. Weitere Ideen gibt es auf der Seite <a href=\"/leistungen/seo/baden/\">SEO für Betriebe in Baden</a>.</p>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital mit dem Bezirk Baden",
+      "html": "<p>Der Sitz von Mühlberger Digital ist in Ottenschlag im Waldviertel. Für Betriebe im Bezirk Baden läuft die Beratung daher meist per Video-Call, persönliche Termine gibt es nach Absprache. Umgesetzt wird von Pipeline AI Solutions, mit schriftlichem Angebot und klaren Preisen vorab.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Lösung passt für eine Physiotherapie-Praxis im Bezirk Baden?",
+      "a": "Für die meisten Praxen ist eine klare Website mit allen Leistungen, Kassen- und Preisinformationen und Anfahrt der erste Schritt. Wenn das Telefon während der Behandlungen oft läutet, entlastet eine Online-Terminbuchung oder ein KI-Chatbot, der Standardfragen beantwortet. Welche Kombination sinnvoll ist, hängt von der Größe der Praxis und den häufigsten Anfragen ab."
+    },
+    {
+      "q": "Darf ein Chatbot in einer Praxis Gesundheitsfragen beantworten?",
+      "a": "Ein Chatbot wie Pipebot antwortet nur mit den Inhalten Ihrer Website, also etwa zu Leistungen, Öffnungszeiten oder Anfahrt. Medizinische Einschätzungen sollte er nicht geben, und bei Unsicherheit verbindet er mit Ihrem Team. Für Fragen zu Datenschutz und Gesundheitsdaten wenden Sie sich im Einzelfall an die Datenschutzbehörde oder eine Anwältin."
+    },
+    {
+      "q": "Gibt es persönliche Termine im Bezirk Baden?",
+      "a": "Nach Absprache ja, die meisten Gespräche laufen aber per Video-Call, weil der Sitz im Waldviertel liegt. Das ist kein Nachteil, denn die Lösungen werden ohnehin am Bildschirm gezeigt, mit Ihren eigenen Daten. Das Erstgespräch dauert etwa 30 Minuten, ist kostenlos und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt."
+    },
+    {
+      "q": "Lohnt sich Online-Terminbuchung für ein kleines Massagestudio?",
+      "a": "Oft ja, wenn das Telefon regelmäßig während der Behandlungen läutet und Anrufe verloren gehen. Kundinnen und Kunden wählen dann selbst einen freien Termin, auch abends oder am Wochenende. Wichtig sind klare Regeln für Absagen und eine Bestätigung per E-Mail. Wer nur wenige, fixe Stammkunden hat, kommt mit dem Telefon und einem guten Kalender meist genauso gut zurecht."
+    }
+  ],
+  "verwandt": [
+    "/regionen/industrieviertel/",
+    "/leistungen/website-erstellen/baden/",
+    "/leistungen/ki-chatbot/baden/",
+    "/branchen/heuriger/",
+    "/wissen/praxis-website/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "seo-check"
+  ]
+}

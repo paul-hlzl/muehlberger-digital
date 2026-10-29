@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/online-reservierung/",
+  "title": "Online-Reservierung für Gastronomie: Lösungen im Überblick",
+  "description": "Online-Reservierung für Gastronomie: Formular, Reservierungssystem, Telefonassistent oder WhatsApp – was zu Ihrem Lokal passt und wie Sie No-Shows senken.",
+  "h1": "Online-Reservierung für Gastronomie",
+  "kicker": "Ratgeber · Gastronomie",
+  "lead": "Online-Reservierung für Gastronomie heißt: Gäste buchen einen Tisch auf Ihrer Website, über Google oder per Nachricht, ohne dass jemand ans Telefon muss. Für kleine Lokale reicht oft ein gutes Anfrageformular, für Betriebe mit vielen Reservierungen lohnt ein Reservierungssystem mit Tischplan und automatischer Bestätigung. Wichtig ist, dass Telefon und Online-Buchung zusammen funktionieren.",
+  "fakten": [
+    "Viele Gäste reservieren abends, wenn das Telefon nicht besetzt ist",
+    "Anfrageformular: einfach, aber mit manueller Bestätigung",
+    "Reservierungssystem: Echtzeit-Verfügbarkeit und weniger Doppelbuchungen",
+    "Automatische Erinnerungen helfen gegen nicht erschienene Gäste"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum Online-Reservierung für Lokale wichtig ist",
+      "html": "<p>In der Gastronomie läutet das Telefon oft genau dann, wenn am meisten los ist: mittags und abends während des Service. Wer abhebt, lässt Gäste im Lokal warten. Wer nicht abhebt, verliert Reservierungen. Dazu kommt: Viele Gäste planen am späten Abend oder am Wochenende, wenn niemand erreichbar ist.</p><p>Eine Online-Reservierung löst beides. Gäste buchen, wann es ihnen passt, und das Team wird im Service nicht unterbrochen. Gleichzeitig bleibt das Telefon für Stammgäste und Sonderwünsche erhalten.</p>"
+    },
+    {
+      "h2": "Die Möglichkeiten im Überblick",
+      "html": "<ul><li><strong>Anfrageformular auf der Website:</strong> Gast gibt Datum, Uhrzeit und Personenzahl an, Sie bestätigen per E-Mail oder Telefon. Günstig und schnell eingerichtet, aber mit Handarbeit.</li><li><strong>Reservierungssystem:</strong> zeigt freie Tische in Echtzeit, bestätigt automatisch und führt einen digitalen Tischplan. Meist mit monatlichen Kosten.</li><li><strong>Reservierung über Google:</strong> manche Systeme lassen sich mit dem Google-Unternehmensprofil verbinden, sodass Gäste direkt aus der Suche buchen.</li><li><strong>WhatsApp:</strong> für Lokale, deren Gäste ohnehin per Nachricht schreiben. Ein WhatsApp-Bot kann Anfragen strukturiert entgegennehmen.</li><li><strong>KI-Telefonassistent:</strong> nimmt Anrufe an, auch während des Service, und notiert Reservierungswünsche.</li></ul>"
+    },
+    {
+      "h2": "Was zu welchem Lokal passt",
+      "html": "<p>Die beste Lösung hängt von Größe und Ablauf ab:</p><ul><li>Ein <strong>kleines Café</strong> mit wenigen Reservierungen pro Woche kommt mit einem Formular gut aus.</li><li>Ein <strong>Wirtshaus mit Stammtischen und Familienfeiern</strong> braucht vor allem Platz für Sonderwünsche, etwa Kinderstuhl, Torte oder Menü, und eine persönliche Rückmeldung.</li><li>Ein <strong>Restaurant mit zwei Sitzungen am Abend</strong> profitiert von einem System, das Zeitfenster und Tische verwaltet.</li><li>Ein <strong>Heuriger</strong> mit vielen Gruppenreservierungen an wenigen Tagen braucht eine Lösung, die Gruppengrößen und Ausg’steckt-Zeiten abbildet.</li></ul><p>Ehrlich gesagt: Wer selten reserviert wird, braucht kein System mit Monatsgebühr. Wer jeden Abend voll ist, spart dagegen mit einem System viel Telefonzeit. Mehr Branchentipps stehen auf der Seite für <a href=\"/branchen/restaurant/\">Restaurants</a>.</p>"
+    },
+    {
+      "h2": "Ein gutes Reservierungsformular",
+      "html": "<p>Wenn Sie mit einem Formular starten, achten Sie auf diese Punkte:</p><ul><li>nur die nötigen Felder: Datum, Uhrzeit, Personen, Name, Telefon oder E-Mail, Anmerkungen</li><li>ein klarer Hinweis, dass die Reservierung erst nach Bestätigung gilt</li><li>eine automatische Eingangsbestätigung an den Gast</li><li>Öffnungszeiten und Ruhetage direkt neben dem Formular</li><li>bei kurzfristigen Reservierungen der Hinweis, lieber anzurufen</li></ul><p>Wichtig ist, dass Sie Anfragen schnell beantworten, idealerweise am selben Tag. Ein Formular, auf das zwei Tage keine Antwort kommt, schadet mehr als es nützt. Mehr zum Formular selbst steht im Ratgeber <a href=\"/wissen/kontaktformular/\">Das gute Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Weniger nicht erschienene Gäste",
+      "html": "<p>Reservierte Tische, an denen niemand erscheint, kosten Umsatz. Online-Reservierungen können das Problem verstärken, wenn Buchen zu leicht und unverbindlich wirkt. Was hilft:</p><ul><li>automatische Erinnerung per E-Mail oder SMS am Tag vorher</li><li>einfache Möglichkeit zur Stornierung, damit Gäste absagen statt einfach fernzubleiben</li><li>bei großen Gruppen oder Feiertagen eine telefonische Bestätigung</li><li>klar kommunizierte Bedingungen, etwa wie lange ein Tisch gehalten wird</li></ul><p>Anzahlungen oder Gebühren bei Nichterscheinen sind möglich, sollten aber gut überlegt und klar kommuniziert sein. Für die meisten kleinen Lokale reichen Erinnerung und einfache Absage.</p>"
+    },
+    {
+      "h2": "Datenschutz bei Reservierungen",
+      "html": "<p>Bei einer Reservierung verarbeiten Sie personenbezogene Daten wie Name und Telefonnummer. Als allgemeine Orientierung:</p><ul><li>Fragen Sie nur ab, was Sie für die Reservierung brauchen.</li><li>Informieren Sie in der Datenschutzerklärung über die Verarbeitung und ein eventuell genutztes System.</li><li>Nutzen Sie Reservierungsdaten nicht ohne Einwilligung für Werbung.</li><li>Löschen Sie Daten, wenn sie nicht mehr gebraucht werden.</li></ul><p>Achten Sie bei externen Reservierungssystemen darauf, wo die Daten gespeichert werden. Rechtliche Details klären Sie im Einzelfall mit der <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>, der WKO oder einem Anwalt. Einen Überblick bietet der Ratgeber <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a>.</p>"
+    },
+    {
+      "h2": "Telefon und Online zusammen denken",
+      "html": "<p>Die meisten Lokale werden auch künftig telefonische Reservierungen bekommen. Wichtig ist, dass alle Reservierungen an einem Ort landen, egal ob sie per Telefon, Formular oder Nachricht kommen. Sonst droht die Doppelbuchung.</p><p>Wer während des Service keine Anrufe annehmen kann, kann einen KI-Telefonassistenten einsetzen, der Anrufe entgegennimmt und Reservierungswünsche aufnimmt. Wie das funktioniert, erklärt der Ratgeber <a href=\"/wissen/ki-telefonassistent-erklaert/\">KI-Telefonassistent</a>; der Preis wird über Pipeline auf Anfrage angeboten. Fragen zu Öffnungszeiten oder Gastgarten beantwortet ein Chatbot wie Pipebot rund um die Uhr. Ausprobieren lässt er sich im <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als kleines Lokal ein Reservierungssystem?",
+      "a": "Nicht unbedingt. Wer nur wenige Reservierungen pro Woche bekommt, kommt mit einem Anfrageformular auf der Website und einer schnellen persönlichen Bestätigung gut aus. Ein Reservierungssystem mit Echtzeit-Verfügbarkeit lohnt sich, wenn Sie regelmäßig ausgebucht sind, viel Zeit am Telefon verbringen oder öfter Doppelbuchungen passieren."
+    },
+    {
+      "q": "Wie verhindere ich, dass reservierte Gäste nicht erscheinen?",
+      "a": "Bewährt haben sich eine automatische Erinnerung am Tag vor der Reservierung, eine einfache Möglichkeit zur Absage und bei großen Gruppen oder Feiertagen eine telefonische Bestätigung. Klare Bedingungen, etwa wie lange ein Tisch gehalten wird, helfen ebenfalls. Anzahlungen sind möglich, sollten aber gut überlegt und deutlich kommuniziert werden."
+    },
+    {
+      "q": "Kann ich Reservierungen über Google annehmen?",
+      "a": "Manche Reservierungssysteme lassen sich mit dem Google-Unternehmensprofil verbinden, sodass Gäste direkt aus der Google-Suche oder aus Google Maps einen Tisch buchen können. Ob das möglich ist, hängt vom gewählten System ab. Alternativ können Sie im Profil einen Link zu Ihrer Reservierungsseite auf der eigenen Website hinterlegen."
+    },
+    {
+      "q": "Was mache ich mit Anrufen während des Service?",
+      "a": "Viele Lokale verlieren Reservierungen, weil im Service niemand abheben kann. Ein KI-Telefonassistent kann Anrufe annehmen, Reservierungswünsche aufnehmen und an Ihr Team weitergeben. Alternativ hilft eine Ansage, die auf die Online-Reservierung verweist. Wichtig ist, dass alle Reservierungen, egal über welchen Weg, an einem gemeinsamen Ort gesammelt werden."
+    }
+  ],
+  "verwandt": [
+    "/wissen/digitale-speisekarte/",
+    "/wissen/ki-telefonassistent-erklaert/",
+    "/wissen/online-terminbuchung/",
+    "/branchen/restaurant/",
+    "/leistungen/ki-telefonassistent/"
+  ],
+  "checks": ["chatbot-test"]
+}

@@ -1,0 +1,57 @@
+{
+  "pfad": "/branchen/installateur/",
+  "title": "Digitale Lösungen für Installateure: Notdienst & Anfragen",
+  "description": "Rohrbruch am Sonntag, Thermenwartung, Badsanierung: Wie Installateure Notrufe sortieren, Anfragen mit Fotos bekommen und Monteure finden.",
+  "h1": "Digitale Lösungen für Installateure",
+  "kicker": "Branche · Sanitär, Heizung, Klima",
+  "lead": "Installateure verlieren die meiste Zeit nicht auf der Baustelle, sondern am Telefon: Notrufe zur Unzeit, unklare Schadensmeldungen und Wartungstermine, die jedes Jahr neu vereinbart werden. Eine gute Website, ein Telefon- oder WhatsApp-Assistent und eine klare Anfrage-Strecke sortieren das vor, damit Sie nur noch dort hinfahren, wo es sich lohnt.",
+  "fakten": [
+    "Notdienst-Anrufe nach Dringlichkeit vorsortieren statt jeden Anruf selbst annehmen",
+    "Schadensfotos per WhatsApp statt Ferndiagnose am Telefon",
+    "Wartungskunden automatisch an den jährlichen Termin erinnern",
+    "Starter-Website ab 2.500 € einmalig, Telefon- und WhatsApp-Assistent auf Anfrage",
+    "Kostenloses Erstgespräch, ca. 30 Minuten, Mo–Fr 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Notdienst: Wenn jeder Anruf „dringend“ ist",
+      "html": "<p>Der Kern des Problems: Am Sonntagabend meldet sich jemand mit „Wasser im Keller“, und Sie wissen erst nach zehn Minuten Gespräch, ob ein Rohr geplatzt ist oder nur der Siphon tropft. Wer Notdienst anbietet, braucht eine Vorsortierung, die nicht er selbst ist.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> kann außerhalb der Bürozeiten abheben, ein paar feste Fragen stellen (Tritt Wasser aus? Lässt sich der Haupthahn schließen? Ist die Heizung komplett ausgefallen?) und echte Notfälle sofort an den Bereitschaftsmonteur weitergeben. Alles andere landet geordnet als Rückrufliste für Montagfrüh. Wie das konkret abläuft und was es kostet, klären wir im Erstgespräch, der Preis ist auf Anfrage.</p>"
+    },
+    {
+      "h2": "Ferndiagnose mit Foto statt Rätselraten",
+      "html": "<p>Bei Installateuren entscheidet oft ein Bild, ob der richtige Monteur mit dem richtigen Ersatzteil hinfährt. Eine Kundin beschreibt „ein Geräusch bei der Therme“, auf dem Foto sehen Sie sofort Typenschild, Fehlercode und Baujahr.</p><ul><li>Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> fragt gezielt nach Foto vom Typenschild, Fehleranzeige und Umgebung.</li><li>Ein Anfrageformular auf der Website verlangt bei Badsanierungen Raummaße und zwei, drei Bilder vom Ist-Zustand.</li><li>Sie sehen vorab, ob ein Lokalaugenschein nötig ist oder ob ein grober Kostenrahmen schon reicht.</li></ul><p>Das spart vor allem die Leerfahrten, bei denen sich vor Ort herausstellt, dass das passende Teil im Lager liegt. Und es hilft bei der Tagesplanung: Wer morgens weiß, dass am Nachmittag ein Boiler mit bekanntem Modell zu tauschen ist, packt den Bus einmal richtig, statt zweimal zum Großhändler zu fahren.</p>"
+    },
+    {
+      "h2": "Thermenwartung und Heizungstausch: wiederkehrende Fragen",
+      "html": "<p>Wartungskunden sind für viele Betriebe das stabile Rückgrat, aber die jährliche Terminvereinbarung frisst Bürozeit. Eine einfache Automatisierung kann Bestandskunden im passenden Monat eine Erinnerung mit Terminvorschlägen schicken, statt dass jemand die Kartei durchtelefoniert.</p><p>Dazu kommen Fragen zum Heizungstausch: Lohnt sich eine Wärmepumpe im Altbau, was ist mit dem alten Ölkessel, gibt es Förderungen? Solche Fragen lassen sich auf der Website gut allgemein erklären. Der KI-Chatbot <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet sie dann rund um die Uhr, aber nur mit Ihren eigenen Texten. Zu Förderungen sollte er auf die aktuelle offizielle Stelle verweisen, denn Bedingungen ändern sich, und eine falsche Zusage fällt auf Sie zurück.</p>"
+    },
+    {
+      "h2": "Gefunden werden, wenn das Wasser schon steht",
+      "html": "<p>Wer einen Notfall hat, sucht am Handy „Installateur in der Nähe“ und ruft den ersten an, der offen wirkt. Entscheidend ist deshalb ein gepflegtes <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> mit korrekten Zeiten, einem klaren Hinweis, ob und wann Sie Notdienst machen, und einer Telefonnummer, die man mit einem Tipp anruft.</p><p>Auf der Website gehört der Notdienst ganz nach oben, mit Einsatzgebiet und ehrlichen Angaben zu Anfahrt und Zuschlägen. Mehr zu Suchbegriffen und Seitenaufbau im Handwerk finden Sie im Ratgeber zu <a href=\"/wissen/seo-handwerk/\">SEO für Handwerksbetriebe</a>.</p>"
+    },
+    {
+      "h2": "Monteure und Lehrlinge finden – und wann sich etwas nicht lohnt",
+      "html": "<p>Viele Installateurbetriebe könnten mehr Aufträge annehmen, wenn sie die Leute dafür hätten. Eine eigene Karriereseite mit echten Fotos aus der Werkstatt und Stellen auf <a href=\"https://zusage.at/\">zusage.at</a>, der kostenlosen Bewerbungsplattform von Pipeline, sind ein einfacher Anfang.</p><p>Ehrlich gesagt: Wenn Ihr Kalender auf Monate voll ist und Sie keinen Notdienst anbieten, brauchen Sie keinen Telefonassistenten. Dann reicht eine solide Website mit Anfrageformular. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns an, wo bei Ihnen tatsächlich die Zeit verloren geht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein KI-Telefonassistent echte Notfälle von harmlosen Anrufen unterscheiden?",
+      "a": "Er unterscheidet nach den Kriterien, die Sie festlegen, zum Beispiel ob Wasser austritt, ob der Haupthahn geschlossen werden kann oder ob die Heizung im Winter komplett ausgefallen ist. Treffen diese Kriterien zu, wird sofort an den Bereitschaftsdienst weitergeleitet. Bei Unklarheit verbindet er lieber einmal zu viel mit einem Menschen als einmal zu wenig. Die Regeln legen wir gemeinsam fest, die Umsetzung übernimmt Pipeline AI Solutions."
+    },
+    {
+      "q": "Was kostet eine Website für einen Installateurbetrieb?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten, etwa Startseite, Leistungen, Notdienst, Über uns und Kontakt, kostet ab 2.500 € einmalig ohne USt. Enthalten sind Smartphone-Optimierung, Kontaktformular, Impressum, Datenschutz und Hosting. Braucht der Betrieb zusätzlich eine Foto-Anfragestrecke, einen WhatsApp-Bot oder einen Telefonassistenten, gibt es nach dem Erstgespräch ein schriftliches Angebot mit klarem Preis."
+    },
+    {
+      "q": "Dürfen Kunden mir Schadensfotos über WhatsApp schicken?",
+      "a": "Technisch ist das einfach und für Kunden sehr bequem. Datenschutzrechtlich sollten Sie klären, wie die Bilder gespeichert werden und wer Zugriff hat, besonders wenn darauf Personen oder Wohnräume zu sehen sind. Wir zeigen im Gespräch, wie ein WhatsApp-Bot das sauber löst. Für die rechtliche Einschätzung im Einzelfall sind die Wirtschaftskammer oder die Datenschutzbehörde die richtigen Ansprechpartner."
+    },
+    {
+      "q": "Lohnt sich ein Chatbot, wenn meine Kunden ohnehin lieber anrufen?",
+      "a": "Für Notfälle bleibt das Telefon der wichtigste Kanal, da hilft eher ein Telefonassistent. Ein Chatbot auf der Website lohnt sich vor allem für planbare Fragen, die abends gestellt werden: Badsanierung, Heizungstausch, Wartung, Einsatzgebiet. Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage sind gratis. So sehen Sie ohne Risiko, ob Ihre Kunden ihn nutzen."
+    }
+  ],
+  "verwandt": ["/leistungen/ki-telefonassistent/", "/leistungen/whatsapp-bot/", "/wissen/erreichbarkeit/", "/wissen/seo-handwerk/", "/branchen/elektriker/"],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

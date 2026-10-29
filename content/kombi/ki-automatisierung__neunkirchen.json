@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/neunkirchen/",
+  "title": "KI-Automatisierung in Neunkirchen für Service & Wartung",
+  "description": "Prozessautomatisierung mit KI im Bezirk Neunkirchen: Wartungstermine automatisch planen, Störungsmeldungen strukturiert aufnehmen, Techniker entlasten.",
+  "h1": "Prozessautomatisierung mit KI im Bezirk Neunkirchen",
+  "kicker": "KI-Automatisierung · Neunkirchen",
+  "lead": "Im Bezirk Neunkirchen, zwischen Industrieviertel und den Bergen rund um Semmering, Rax und Schneeberg, betreuen viele Service- und Technikbetriebe Kunden über weite Strecken. KI-Automatisierung plant fällige Wartungen, nimmt Störungsmeldungen strukturiert auf und gibt Technikern die Infos, die sie vor Ort brauchen.",
+  "fakten": [
+    "Wartungsintervalle aus Ihren Kundendaten automatisch überwachen",
+    "Störungsmeldungen aus Mail, Formular oder Telefonnotiz einheitlich erfassen",
+    "Vorschlag zur Dringlichkeit, Entscheidung bei der Disposition",
+    "Excel-Listen sind als Start oft ausreichend"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwischen Industrie und Bergen",
+      "html": "<p>Der <a href=\"/regionen/bezirk-neunkirchen/\">Bezirk Neunkirchen</a> im südlichen <a href=\"/regionen/industrieviertel/\">Industrieviertel</a> verbindet Gewerbe und Industrietradition mit Tourismus in den Bergen. Heizungs-, Elektro- und Anlagentechniker, Rauchfangkehrer und Servicebetriebe fahren zu Kunden in Tälern und auf Höhenlagen. Jede unnötige Fahrt und jeder fehlende Hinweis kostet hier viel.</p>"
+    },
+    {
+      "h2": "Wartungstermine, die sich selbst melden",
+      "html": "<p>Wartungsverträge sind planbar, trotzdem werden sie oft händisch aus Listen herausgesucht. Eine Automatisierung prüft laufend, welche Anlagen fällig werden, gruppiert sie nach Gegend und schlägt Kunden Termine vor. Sie sehen den Vorschlag und bestätigen. So entstehen Touren, bei denen Fahrten zusammenpassen.</p>"
+    },
+    {
+      "h2": "Störungsmeldungen strukturiert aufnehmen",
+      "html": "<p>Wenn eine Heizung ausfällt, schreibt der Kunde selten eine klare Meldung. Die KI liest die Nachricht und macht daraus ein einheitliches Ticket:</p><ul><li>Kunde, Adresse und Anlage aus Ihren Daten</li><li>Beschreibung des Problems in klaren Worten</li><li>Vorschlag zur Dringlichkeit, etwa „kein Warmwasser“ vor „Geräusch“</li><li>offene Fragen, die vorab geklärt werden sollten</li></ul><p>Wer telefonisch schwer erreichbar ist, kann zusätzlich über einen <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistenten</a> nachdenken, Preis auf Anfrage.</p>"
+    },
+    {
+      "h2": "Was zuerst kommt: Ordnung in den Daten",
+      "html": "<p>Die beste Automatisierung hilft wenig, wenn Kundendaten in drei Listen verstreut sind. Der erste Schritt ist daher oft, Anlagen und Kunden in einer Liste zusammenzuführen. Das klingt unspektakulär, ist aber die Grundlage. Mühlberger Digital schaut sich im kostenlosen Erstgespräch Ihre Listen an und sagt offen, ob sie für den Start reichen. Pipeline AI Solutions übernimmt danach das Zusammenführen und die Umsetzung. Wie es danach weitergeht, beschreibt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>, Beispiele aus der Praxis zeigt die Branchenseite <a href=\"/branchen/installateur/\">Installateur</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann die KI Störungen nach Dringlichkeit einordnen?",
+      "a": "Sie kann einen Vorschlag machen, anhand von Begriffen und Regeln, die Sie gemeinsam festlegen, etwa Ausfall der Heizung im Winter vor kleineren Mängeln. Die endgültige Entscheidung trifft Ihre Disposition. Gerade bei Sicherheitsthemen wie Gasgeruch gilt: Solche Fälle müssen sofort an einen Menschen gehen, und Kunden brauchen die passenden Notrufhinweise."
+    },
+    {
+      "q": "Unsere Kundendaten liegen in Excel. Reicht das für den Start?",
+      "a": "Für den Anfang ja, wenn die Liste halbwegs sauber geführt ist, also eine Zeile pro Anlage mit Adresse und letztem Wartungsdatum. Die Automatisierung kann direkt damit arbeiten. Später kann ein Umstieg auf eine Branchensoftware oder ein CRM sinnvoll sein, das ist aber keine Voraussetzung, um anzufangen."
+    },
+    {
+      "q": "Ersetzt die Automatisierung unsere Disposition?",
+      "a": "Nein. Sie nimmt der Disposition das Suchen, Abschreiben und Nachfragen ab, damit mehr Zeit für die eigentliche Planung bleibt. Wer zu welchem Kunden fährt, wer kurzfristig einspringt und was Vorrang hat, entscheiden weiterhin Menschen, die Ihre Kunden und Techniker kennen."
+    },
+    {
+      "q": "Bekommen die Techniker die Infos auch unterwegs aufs Handy?",
+      "a": "Das ist meist der eigentliche Nutzen. Zum Einsatz gehört eine kurze Zusammenfassung mit Adresse, Anlage, letzter Wartung, gemeldetem Problem und offenen Fragen, die aufs Handy geschickt wird. So fährt niemand ohne Vorwissen los oder muss im Büro nachfragen. Welcher Weg am besten passt, etwa Messenger, E-Mail oder eine vorhandene App, wird im Projekt geklärt."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-neunkirchen/",
+    "/regionen/industrieviertel/",
+    "/branchen/installateur/",
+    "/wissen/crm-kleine-betriebe/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

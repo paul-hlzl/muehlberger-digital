@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/landingpage/",
+  "title": "Was ist eine Landingpage? Zielseite einfach erklärt",
+  "description": "Landingpage einfach erklärt: Was eine Zielseite von einer normalen Website unterscheidet, wann sie sich für kleine Betriebe lohnt und wie sie aufgebaut ist.",
+  "h1": "Landingpage – Zielseite mit einem Ziel",
+  "kicker": "Glossar · Marketing",
+  "lead": "Eine Landingpage ist eine einzelne Webseite, die auf genau ein Angebot und eine gewünschte Handlung ausgerichtet ist, etwa eine Anfrage oder Anmeldung. Besucher kommen meist über eine Anzeige, einen Newsletter oder einen Social-Media-Beitrag dorthin.",
+  "fakten": [
+    "Ein Thema, eine Zielgruppe, eine klare Handlungsaufforderung",
+    "Wenig Ablenkung: kaum Menüpunkte, keine Nebenthemen",
+    "Erfolg wird an der Conversion-Rate gemessen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus dem Betrieb",
+      "html": "<p>Ein Installateur möchte im Herbst gezielt Wärmepumpen-Beratungen verkaufen. Statt Interessenten auf die allgemeine Startseite zu schicken, erstellt er eine eigene Seite: Nutzen in drei Sätzen, Fotos eigener Projekte, der Ablauf in Schritten, häufige Fragen und ein kurzes Anfrageformular. Alle Werbung zum Thema führt genau dorthin.</p><p>Weil auf der Seite nur dieses Angebot steht, finden Interessenten schneller, was sie suchen, und die <a href=\"/glossar/call-to-action/\">Call-to-Action</a> „Beratung anfragen“ ist nicht zu übersehen.</p>"
+    },
+    {
+      "h2": "Wann sich eine Landingpage für KMU lohnt",
+      "html": "<p>Sinnvoll ist eine Landingpage, wenn Sie Werbung schalten, eine Aktion bewerben oder eine neue Leistung testen. Sie lässt sich gut messen, weil klar ist, wie viele Besucher zur gewünschten <a href=\"/glossar/conversion/\">Conversion</a> werden. Für den allgemeinen Auftritt ersetzt sie die Firmenwebsite aber nicht.</p><p>Ob Sie eher eine Landingpage oder eine vollständige Website brauchen, klärt der Ratgeber <a href=\"/wissen/landingpage-oder-website/\">Landingpage oder Website</a>. Umsetzung und Ablauf beschreibt die Seite <a href=\"/leistungen/landingpage-erstellen/\">Landingpage erstellen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Onepager dasselbe wie eine Landingpage?",
+      "a": "Nicht ganz. Ein Onepager ist eine Website, die alle Inhalte eines Betriebs auf einer langen Seite zeigt, von Leistungen über Team bis Kontakt. Eine Landingpage dagegen konzentriert sich auf ein einziges Angebot und ein Ziel. Beide bestehen aus nur einer Seite, verfolgen aber unterschiedliche Zwecke. Für Werbekampagnen ist die Landingpage meist die bessere Wahl."
+    },
+    {
+      "q": "Kann eine Landingpage auch bei Google gefunden werden?",
+      "a": "Ja, wenn sie genug eigenständigen, hilfreichen Inhalt hat und auf ein Suchthema ausgerichtet ist. Viele Landingpages sind aber bewusst kurz und für Anzeigen oder Newsletter gedacht. Wer über die normale Google-Suche gefunden werden will, braucht ausführlichere Texte, eine passende Überschrift und eine Einbindung in die eigene Website über interne Links."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/landingpage-erstellen/",
+    "/wissen/landingpage-oder-website/",
+    "/glossar/call-to-action/",
+    "/wissen/lokale-landingpages/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

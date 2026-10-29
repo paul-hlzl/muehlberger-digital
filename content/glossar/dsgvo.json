@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/dsgvo/",
+  "title": "DSGVO einfach erklärt: Datenschutz für Betriebe",
+  "description": "DSGVO einfach erklärt: Was die Datenschutz-Grundverordnung für kleine Betriebe bedeutet, welche Pflichten bei Website und Kundendaten typisch sind.",
+  "h1": "DSGVO – Datenschutz-Grundverordnung",
+  "kicker": "Glossar · Recht",
+  "lead": "Die DSGVO (Datenschutz-Grundverordnung) ist eine EU-Verordnung, die seit Mai 2018 regelt, wie Unternehmen personenbezogene Daten erheben, speichern und nutzen dürfen. Sie gilt für jeden Betrieb, egal wie klein, und wird in Österreich durch das Datenschutzgesetz ergänzt.",
+  "fakten": [
+    "Personenbezogen sind alle Daten, die eine Person erkennbar machen",
+    "Jede Verarbeitung braucht eine Rechtsgrundlage, etwa Vertrag oder Einwilligung",
+    "Zuständige Aufsicht in Österreich: die Datenschutzbehörde"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was die DSGVO im Betriebsalltag bedeutet",
+      "html": "<p>Eine Kosmetikerin führt eine Kundenkartei mit Namen, Telefonnummern und Hinweisen zu Hautverträglichkeiten. Auf ihrer Website gibt es ein Kontaktformular, und sie verschickt einen Newsletter. Für all das gilt die DSGVO: Sie braucht für jede Verwendung einen Grund, muss Kunden in einer <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> informieren, Gesundheitsangaben besonders schützen und für den Newsletter eine Einwilligung einholen.</p><p>Typische Pflichten sind außerdem ein Verzeichnis der Verarbeitungstätigkeiten, Verträge mit Dienstleistern, die Daten verarbeiten, und das Löschen von Daten, die nicht mehr gebraucht werden.</p>"
+    },
+    {
+      "h2": "Warum Datenschutz für KMU wichtig ist",
+      "html": "<p>Datenschutz ist keine Frage der Betriebsgröße. Verstöße können zu Beschwerden, Strafen und Vertrauensverlust führen. Gleichzeitig ist vieles mit überschaubarem Aufwand machbar, wenn man es einmal sauber aufsetzt. Gerade bei Website, <a href=\"/glossar/cookie/\">Cookies</a> und KI-Werkzeugen lohnt ein genauer Blick.</p><p>Das ist eine allgemeine Orientierung, keine Rechtsberatung. Für Ihren Einzelfall helfen die <a href=\"https://www.wko.at/\">WKO</a> und die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>. Praktische Hinweise geben die Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a> und <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Gilt die DSGVO auch für Ein-Personen-Unternehmen?",
+      "a": "Ja. Sobald Sie personenbezogene Daten von Kunden, Interessenten oder Lieferanten verarbeiten, also etwa Namen, Adressen oder E-Mail-Adressen, gilt die DSGVO. Für kleine Betriebe gibt es einzelne Erleichterungen, aber keine generelle Ausnahme. Rein private Tätigkeiten fallen nicht darunter. Welche Pflichten Sie genau treffen, klären Sie am besten mit der WKO oder einer Fachberatung."
+    },
+    {
+      "q": "Brauche ich für jede Kundenadresse eine Einwilligung?",
+      "a": "Nein. Die Einwilligung ist nur eine von mehreren Rechtsgrundlagen. Daten, die Sie für ein Angebot oder einen Auftrag brauchen, dürfen Sie zur Vertragserfüllung verarbeiten. Auch gesetzliche Aufbewahrungspflichten sind eine Grundlage. Eine Einwilligung brauchen Sie etwa für Newsletter an Privatpersonen. Im Einzelfall hängt das vom Zweck ab, deshalb lohnt sich eine kurze Prüfung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/datenschutzerklaerung/",
+    "/wissen/dsgvo-kontaktformular/",
+    "/glossar/cookie/",
+    "/wissen/ki-und-datenschutz/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

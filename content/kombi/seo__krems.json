@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/krems/",
+  "title": "SEO in Krems: Gäste, Studierende und Einheimische erreichen",
+  "description": "SEO für Betriebe in Krems und Krems-Land: wie Sie Wachau-Gäste, Studierende und Stammkundschaft mit einer Website gezielt ansprechen.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Krems",
+  "kicker": "SEO · Krems an der Donau und Krems-Land",
+  "lead": "In Krems treffen drei Zielgruppen aufeinander: Gäste, die die Wachau besuchen, Studierende an den Hochschulen der Stadt und die Menschen, die hier und im Bezirk Krems-Land leben. Gute SEO entscheidet, welche dieser Gruppen für Ihren Betrieb zählt, und baut die Website danach auf, statt allen ein bisschen zu gefallen.",
+  "fakten": [
+    "Krems liegt an der Donau am Eingang der Wachau, Wein und Tourismus prägen die Gegend",
+    "Die Stadt ist Hochschulstandort, viele junge Menschen suchen hier vor allem am Handy",
+    "Der Bezirk Krems-Land reicht von Weinorten bis ins Waldviertel",
+    "Englische Inhalte nur, wo Gäste sie wirklich brauchen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine Stadt, drei Zielgruppen",
+      "html": "<p>Ein Restaurant in der Altstadt wird von Tagesgästen gesucht, die gerade aus dem Schiff gestiegen sind, von Studierenden, die günstig zu Mittag essen wollen, und von Einheimischen, die einen Tisch für eine Familienfeier brauchen. Jede Gruppe sucht anders, und nicht jede passt zu jedem Lokal.</p><p>Die Kunst ist, die wichtigste Gruppe klar zu bedienen, ohne die anderen auszuschließen. Wie wir dabei vorgehen, beschreibt unsere Seite zur <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>. Einen Überblick über die Stadt bietet die Seite <a href=\"/regionen/krems-an-der-donau/\">Krems an der Donau</a>.</p>"
+    },
+    {
+      "h2": "Stadt und Land ticken unterschiedlich",
+      "html": "<p>Der Bezirk Krems-Land ist vielfältig: Weinbaugemeinden im Kremstal und an der Donau, im Norden Orte wie <a href=\"/regionen/gfoehl/\">Gföhl</a> am Rand des Waldviertels. Ein Installateur dort wird kaum von Touristen gesucht, sondern von Hausbesitzern aus den umliegenden Gemeinden.</p><p>Für solche Betriebe zählen das Google-Unternehmensprofil und eine klare Angabe, welche Orte betreut werden. Mehr zur Region lesen Sie auf der Seite <a href=\"/regionen/bezirk-krems-land/\">Bezirk Krems-Land</a>.</p>"
+    },
+    {
+      "h2": "Beispiele aus Krems und Umgebung",
+      "html": "<h3>Weingut im Kremstal</h3><p>Wichtig sind Ab-Hof-Zeiten, Verkostungen auf Anfrage und die Möglichkeit, nachzubestellen. Gäste suchen oft schon vor dem Ausflug, Stammkunden lange danach.</p><h3>Nachhilfe für Schülerinnen und Schüler</h3><p>Hier suchen Eltern mit Fach, Schulstufe und Ort. Eigene Seiten pro Fach und klare Preise beantworten diese Fragen direkt.</p><h3>Unterkunft für Wachau-Gäste</h3><p>Viele Gäste kommen aus dem Ausland. Eine kurze englische Seite mit Anreise, Ausstattung und Buchung kann hier sinnvoll sein. Tipps dazu im Ratgeber <a href=\"/wissen/website-fuer-tourismus/\">Website für Tourismus</a>.</p>"
+    },
+    {
+      "h2": "Wenn Gäste die KI nach Tipps fragen",
+      "html": "<p>Wer eine Reise in die Wachau plant, fragt immer öfter ChatGPT oder Gemini nach Restaurants, Weingütern und Unterkünften. Genannt werden Betriebe mit klaren, übereinstimmenden Informationen im Netz. Was dazu gehört, erklärt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Den Ist-Stand misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>, mit Bericht innerhalb von 24 Stunden.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich in Krems eine englische Website?",
+      "a": "Für Betriebe mit vielen internationalen Gästen, etwa Unterkünfte, Weingüter mit Verkostungen oder Lokale in der Altstadt, kann eine englische Seite mit den wichtigsten Informationen sinnvoll sein. Für Handwerk und Dienstleistungen mit regionaler Kundschaft lohnt sie sich meist nicht. Wichtig ist, dass die Übersetzung gepflegt wird, denn veraltete Angaben auf Englisch schaden mehr als gar keine."
+    },
+    {
+      "q": "Sollte ich Krems-Land auf meiner Website eigens erwähnen?",
+      "a": "Wenn Ihre Kundschaft aus dem Bezirk kommt, ja. Viele Menschen suchen mit dem Namen der Stadt, andere mit dem ihres Ortes. Ein Satz, der Krems und die umliegenden Gemeinden als Einsatzgebiet nennt, deckt beides ab. Lange Ortslisten sind dagegen nicht nötig und wirken auf Google eher wie Füllmaterial."
+    },
+    {
+      "q": "Wie sehe ich, ob Touristen meinen Betrieb finden?",
+      "a": "Einen ersten Hinweis gibt die Statistik im Google-Unternehmensprofil, die zeigt, über welche Suchen Menschen zu Ihnen kommen. Die Google Search Console verrät, welche Suchbegriffe zu Ihrer Website führen, auch englische. Wie oft KI-Assistenten Ihren Betrieb empfehlen, lässt sich mit einem eigenen Check messen, etwa dem Gratis-Check von Hittaro."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/krems-an-der-donau/",
+    "/regionen/bezirk-krems-land/",
+    "/branchen/weingut/",
+    "/leistungen/website-erstellen/krems/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

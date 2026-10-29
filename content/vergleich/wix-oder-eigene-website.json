@@ -1,0 +1,67 @@
+{
+  "pfad": "/vergleiche/wix-oder-eigene-website/",
+  "title": "Wix oder eigene Website? Ehrlicher Vergleich",
+  "description": "Wix oder eine eigene Website auf eigenem Hosting? Freiheit, Umzug, Aufwand und laufende Kosten im fairen Vergleich – mit Empfehlung je Situation.",
+  "h1": "Wix oder eigene Website?",
+  "kicker": "Vergleich · Website",
+  "lead": "Wix ist eine gute Wahl, wenn Sie schnell und selbst eine einfache Website bauen möchten und dauerhaft beim Anbieter bleiben wollen. Eine eigene Website auf frei wählbarem Hosting lohnt sich, wenn Sie Inhalte und Technik langfristig selbst in der Hand haben, frei erweitern und nicht an ein einziges Abo gebunden sein wollen.",
+  "fakten": [
+    "Wix: Editor, Vorlagen und Hosting in einem Abo – Start ohne Technikwissen",
+    "Eigene Website: Hosting und Dienstleister sind austauschbar, die Seite gehört Ihnen",
+    "Ein Umzug weg von Wix bedeutet in der Regel einen Neuaufbau",
+    "Starter-Website über Mühlberger Digital: ab 2.500 € einmalig, bis zu 5 Seiten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Worum es bei dieser Entscheidung wirklich geht",
+      "html": "<p>Bei „Wix oder eigene Website“ geht es weniger um schöne Vorlagen als um zwei Fragen: <strong>Wem gehört die Website, und wer arbeitet daran?</strong> Beide Wege können zu einer ordentlichen Seite führen. Sie unterscheiden sich darin, wie frei Sie später sind.</p><p><strong>Wix</strong> ist ein gehosteter Website-Baukasten: Sie gestalten im Browser, der Anbieter kümmert sich um Server, Sicherheit und Technik. Eine <strong>eigene Website</strong> liegt dagegen auf einem Hosting, das Sie wechseln können – gebaut mit einem Redaktionssystem oder individuell programmiert, meist von einem Dienstleister.</p>"
+    },
+    {
+      "h2": "Was für Wix spricht",
+      "html": "<p>Der größte Vorteil von Wix ist der schnelle, eigenständige Start. Wer gern selbst gestaltet und etwas Zeit hat, kommt ohne fremde Hilfe zu einer ansehnlichen Seite.</p><ul><li><strong>Kein Technikwissen nötig:</strong> Texte und Bilder ziehen Sie per Maus an die richtige Stelle.</li><li><strong>Alles aus einer Hand:</strong> Hosting, Sicherheitsupdates und Vorlagen sind im Abo enthalten.</li><li><strong>Erweiterungen per Klick:</strong> Für Buchungen, Formulare oder einen kleinen Shop gibt es fertige Apps.</li></ul><p>Ein typisches Beispiel: Eine Yogalehrerin startet nebenberuflich, braucht eine Seite mit Kursplan und Kontakt und probiert lieber selbst aus. Für sie ist Wix ein vernünftiger Einstieg.</p>"
+    },
+    {
+      "h2": "Was für eine eigene Website spricht",
+      "html": "<p>Eine eigene Website spielt ihre Stärken aus, sobald die Seite ein wichtiges Werkzeug für Anfragen wird. Sie sind dann nicht an die Möglichkeiten und Preisentscheidungen eines einzelnen Anbieters gebunden.</p><ul><li><strong>Umzugsfreiheit:</strong> Hosting oder Dienstleister lassen sich wechseln, ohne alles neu zu bauen. Eine Wix-Seite lässt sich dagegen in der Regel nicht einfach zu einem anderen Anbieter mitnehmen.</li><li><strong>Gestaltung ohne Vorlagen-Grenzen:</strong> Aufbau, Ladezeit und Technik werden genau auf Ihren Betrieb abgestimmt.</li><li><strong>Freie Anbindungen:</strong> Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a>, Formulare mit Weiterleitung ins Büro oder Automatisierungen sind nicht auf einen App-Katalog beschränkt.</li></ul><p>Die Grenzen von Baukästen beschreiben wir ausführlich im Ratgeber <a href=\"/wissen/website-baukasten-grenzen/\">Was Website-Baukästen nicht können</a>.</p>"
+    },
+    {
+      "h2": "Wix und eigene Website im direkten Vergleich",
+      "html": "<p>Die Tabelle fasst die wichtigsten Unterschiede zusammen. Sie ersetzt keinen Blick in die aktuellen Bedingungen von Wix, die sich ändern können.</p><table><thead><tr><th>Kriterium</th><th>Wix</th><th>Eigene Website</th></tr></thead><tbody><tr><td>Start</td><td>sofort, im Browser</td><td>nach Abstimmung mit dem Dienstleister</td></tr><tr><td>Wer baut?</td><td>Sie selbst</td><td>meist ein Dienstleister, Pflege teils durch Sie</td></tr><tr><td>Gestaltung</td><td>innerhalb der Vorlagen und Editor-Funktionen</td><td>frei, passend zum Betrieb</td></tr><tr><td>Umzug zu anderem Anbieter</td><td>in der Regel nur durch Neuaufbau</td><td>möglich, Dateien und Inhalte gehören Ihnen</td></tr><tr><td>Laufende Kosten</td><td>Abo, solange die Seite online ist</td><td>Hosting und optional Wartung</td></tr><tr><td>Technik und Sicherheit</td><td>beim Anbieter</td><td>beim Hosting bzw. Dienstleister</td></tr><tr><td>Erweiterungen</td><td>über den App-Katalog</td><td>individuell anbindbar</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Wann sich eine eigene Website nicht lohnt",
+      "html": "<p>Ehrlich gesagt: nicht jeder Betrieb braucht sofort eine eigene Website. Wenn Sie eine Idee erst testen, kaum Anfragen über das Internet erwarten oder schlicht Freude am Selbstgestalten haben, ist ein Baukasten oft die vernünftigere Wahl.</p><p>Auch eine bestehende Wix-Seite, die gut gefunden wird und Ihnen keine Arbeit macht, müssen Sie nicht aus Prinzip ersetzen. Ein Wechsel lohnt sich erst, wenn die Seite Sie bremst – etwa weil eine Funktion fehlt, die Ladezeit stört oder Sie keine Zeit mehr für die Pflege haben.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Gründung mit kleinem Budget und Zeit zum Basteln:</strong> Starten Sie mit Wix oder einem anderen Baukasten. Mehr dazu im Vergleich <a href=\"/vergleiche/baukasten-oder-agentur/\">Baukasten oder Agentur</a>.</li><li><strong>Betrieb, der über Google und KI-Suchen Anfragen bekommen will:</strong> Eine eigene Website ist meist die bessere Grundlage, etwa die <a href=\"/leistungen/website-erstellen/\">Starter-Website ab 2.500 € einmalig</a>.</li><li><strong>Bestehende Wix-Seite stößt an Grenzen:</strong> Ein geplanter <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a> übernimmt bewährte Inhalte und baut die Technik neu auf.</li><li><strong>Noch unentschlossen:</strong> Lassen Sie sich mit dem <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline AI Solutions</a> zeigen, wie Ihre Seite aussehen könnte.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ich meine Wix-Website später zu einem anderen Anbieter umziehen?",
+      "a": "Ein direkter Umzug der fertigen Wix-Seite zu einem anderen Hosting ist in der Regel nicht möglich, weil die Seite an den Editor des Anbieters gebunden ist. Texte, Bilder und die Domain können Sie mitnehmen, das Design und der technische Aufbau müssen aber neu entstehen. Bei einem Relaunch werden die Inhalte übernommen und auf einer neuen, frei umziehbaren Grundlage aufgebaut."
+    },
+    {
+      "q": "Ist Wix schlecht für Google?",
+      "a": "Nein, auch Wix-Seiten können bei Google gut gefunden werden. Entscheidend sind gute Texte, ein klarer Aufbau, schnelle Ladezeiten und ein gepflegtes Google-Unternehmensprofil. Eine eigene Website bietet mehr Spielraum, um Technik und Ladezeit gezielt zu verbessern. Für viele kleine Betriebe hängt der Erfolg aber stärker von den Inhalten ab als vom gewählten System."
+    },
+    {
+      "q": "Was kostet eine eigene Website im Vergleich zu Wix?",
+      "a": "Bei Wix zahlen Sie ein laufendes Abo, solange die Seite online ist. Eine eigene Website kostet einmalig mehr: Die Starter-Website über Mühlberger Digital beginnt bei 2.500 € einmalig für bis zu fünf Seiten inklusive Kontaktformular, Impressum, Datenschutz und Hosting. Über mehrere Jahre gerechnet kann sich das Verhältnis verschieben, deshalb lohnt sich ein Blick auf die Gesamtkosten."
+    },
+    {
+      "q": "Kann ich eine eigene Website auch selbst pflegen?",
+      "a": "Ja, das ist möglich und wird im Projekt vorab besprochen. Je nach Lösung bearbeiten Sie Texte, Bilder oder Termine selbst, während größere Änderungen am Aufbau beim Dienstleister bleiben. Wichtig ist, dass Sie eine kurze Einweisung bekommen und wissen, wer Ihre Ansprechperson für alles Technische ist. Das klären wir im kostenlosen Erstgespräch."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-baukasten-grenzen/",
+    "/vergleiche/baukasten-oder-agentur/",
+    "/leistungen/website-erstellen/",
+    "/wissen/website-laufende-kosten/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

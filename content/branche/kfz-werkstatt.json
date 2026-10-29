@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/kfz-werkstatt/",
+  "title": "Digitale Lösungen für Kfz-Werkstätten: Reifen & Pickerl",
+  "description": "Reifenwechsel-Ansturm, Pickerl-Termine, Freigabe von Reparaturen: Wie Kfz-Werkstätten Telefon und Werkstatt digital entlasten, ohne Kunden zu verlieren.",
+  "h1": "Digitale Lösungen für Kfz-Werkstätten",
+  "kicker": "Branche · Kfz-Technik",
+  "lead": "In der Kfz-Werkstatt läutet das Telefon genau dann am meisten, wenn alle Hände an den Autos gebraucht werden: beim Reifenwechsel im Herbst und Frühjahr und rund um Pickerl-Termine. Online-Terminbuchung, ein Telefonassistent für Spitzenzeiten und Reparaturfreigaben per WhatsApp entlasten die Annahme spürbar.",
+  "fakten": [
+    "Reifenwechsel-Termine online buchen lassen statt in der Hochsaison telefonieren",
+    "Pickerl-Erinnerung an Bestandskunden automatisch verschicken",
+    "Reparaturfreigabe mit Foto per WhatsApp statt Rückrufschleife",
+    "KI-Telefonassistent und WhatsApp-Bot: Preis auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Reifenwechsel-Saison: zwei Wochen Ausnahmezustand",
+      "html": "<p>Kaum fällt der erste Schnee oder kündigt der Wetterbericht Frost an, will gefühlt jeder Kunde gleichzeitig Winterreifen. Das Telefon blockiert die Annahme, und wer nicht durchkommt, fährt zur nächsten Werkstatt.</p><p>Eine <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a> nur für Reifenwechsel ist der einfachste Hebel: Der Kunde wählt einen freien Slot, gibt Kennzeichen an und ob die Reifen bei Ihnen eingelagert sind. Ihr Team sieht am Morgen, welche Sätze aus dem Lager geholt werden müssen. Wer zusätzlich einen <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistenten</a> einsetzt, kann in dieser Zeit Anrufe annehmen lassen, die sonst verloren gingen.</p>"
+    },
+    {
+      "h2": "Pickerl und Service: Kunden erinnern, bevor es zu spät ist",
+      "html": "<p>Viele Autofahrer wissen nicht genau, wann ihr Pickerl fällig ist, und merken es erst bei einer Kontrolle. Für die Werkstatt ist das eine Chance: Wer im passenden Monat eine freundliche Erinnerung mit Terminlink bekommt, bucht meist bei Ihnen.</p><p>Das funktioniert nur, wenn Ihre Kundendaten geordnet sind und Sie die Erlaubnis haben, Kunden zu kontaktieren. Fragen Sie das bei der Auftragsannahme einfach mit ab. Dasselbe gilt für den Service nach Kilometerstand oder Zeit: Eine Erinnerung ersetzt das Telefonieren durch die Kartei.</p>"
+    },
+    {
+      "h2": "Reparaturfreigabe per WhatsApp statt Rückrufschleife",
+      "html": "<p>Die Bremsscheiben sind stärker abgenutzt als gedacht, der Auspuff hat ein Loch: Ohne Freigabe des Kunden geht es nicht weiter, und der Kunde ist bei der Arbeit nicht erreichbar. Das Auto blockiert die Hebebühne.</p><p>Mit einem <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> schicken Sie ein Foto des Teils, einen kurzen Kostenvoranschlag und die Frage „Sollen wir das gleich mitmachen?“. Der Kunde antwortet, wann es ihm passt, und die Antwort ist dokumentiert. Ob WhatsApp oder E-Mail besser passt, vergleicht die Seite <a href=\"/vergleiche/whatsapp-oder-e-mail/\">WhatsApp oder E-Mail</a>.</p>"
+    },
+    {
+      "h2": "Die Fragen vor dem Termin",
+      "html": "<p>Hat die Werkstatt einen Ersatzwagen? Gibt es einen Hol- und Bringdienst? Machen Sie auch Klimaservice, und wie lange dauert ein Pickerl? Solche Fragen kommen täglich, und jede kostet eine Minute am Telefon.</p><ul><li>Eine Seite „Häufige Fragen“ mit kurzen, klaren Antworten beantwortet das Meiste.</li><li>Ein Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> kann diese Antworten abends und am Wochenende geben, aber nur mit Ihren Inhalten.</li><li>Preise für Standardleistungen, etwa einen Reifenwechsel, zu nennen, spart weitere Anrufe.</li></ul><p>Pipebot kostet 19 € pro Monat, monatlich kündbar, die ersten 30 Tage gratis.</p>"
+    },
+    {
+      "h2": "Bewertungen: Vertrauen ist in der Werkstatt alles",
+      "html": "<p>Viele Autofahrer haben Angst, in der Werkstatt übervorteilt zu werden. Echte Bewertungen auf Google sind deshalb besonders wichtig. Der beste Moment, um danach zu fragen, ist bei der Abholung, wenn das Auto sauber und pünktlich fertig ist.</p><p>Ein kleiner Hinweis auf der Rechnung oder eine Nachricht am nächsten Tag mit Link reicht. Mehr dazu im Ratgeber <a href=\"/wissen/google-bewertungen-bekommen/\">Google-Bewertungen bekommen</a>. Auf kritische Bewertungen sollten Sie sachlich antworten, denn spätere Leser schauen genau, wie eine Werkstatt mit Beschwerden umgeht.</p>"
+    },
+    {
+      "h2": "Ehrlich: wo eine kleine Werkstatt anfangen sollte",
+      "html": "<p>Eine Ein-Mann-Werkstatt mit treuer Stammkundschaft braucht keinen Telefonassistenten. Da reichen ein aktuelles Google-Profil und eine Website mit Öffnungszeiten und Leistungen. Eine Werkstatt mit mehreren Mechanikern und Reifenlager profitiert dagegen deutlich von Online-Buchung und Erinnerungen.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns an, wo bei Ihnen die Zeit verloren geht, und Sie bekommen ein schriftliches Angebot mit klarem Preis.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich eine Online-Terminbuchung für eine kleine Werkstatt?",
+      "a": "Vor allem für planbare Leistungen wie Reifenwechsel, Pickerl oder Service lohnt sie sich, weil Kunden diese Termine gern abends buchen. Für Reparaturen mit unklarem Aufwand bleibt das Gespräch wichtig. Sinnvoll ist, nur bestimmte Leistungen und Zeitfenster online freizugeben, damit die Werkstatt nicht überbucht wird. In der Hochsaison spart das viele Telefonate und verhindert, dass Kunden zur Konkurrenz abwandern."
+    },
+    {
+      "q": "Darf ich Kunden an ihr Pickerl erinnern?",
+      "a": "Wenn Sie die Zustimmung dafür haben, ja. Am einfachsten fragen Sie bei der Auftragsannahme, ob der Kunde an das nächste Pickerl oder Service erinnert werden möchte, und halten das fest. Ohne Zustimmung sind Werbenachrichten heikel. Für die rechtliche Einschätzung im Einzelfall ist die Wirtschaftskammer die richtige Anlaufstelle. Technisch lässt sich die Erinnerung leicht automatisieren."
+    },
+    {
+      "q": "Kann ein Chatbot Kostenvoranschläge für Reparaturen machen?",
+      "a": "Nein, das sollte er nicht. Ein Chatbot wie Pipebot antwortet nur mit den Inhalten, die Sie ihm geben, also etwa Öffnungszeiten, Leistungen und feste Preise für Standardarbeiten. Bei Reparaturen, deren Aufwand vom Zustand des Autos abhängt, verweist er an Ihr Team. So vermeidet er falsche Erwartungen, die später in der Werkstatt zu Diskussionen führen würden."
+    },
+    {
+      "q": "Was kostet ein KI-Telefonassistent für eine Werkstatt?",
+      "a": "Der Preis hängt davon ab, was der Assistent können soll: nur Rückrufwünsche aufnehmen, Termine eintragen oder Fragen beantworten. Er wird über Pipeline AI Solutions angeboten, der Preis ist auf Anfrage und wird nach dem Erstgespräch schriftlich genannt. Für viele Werkstätten ist er vor allem in der Reifensaison interessant, wenn sonst Anrufe verloren gehen."
+    }
+  ],
+  "verwandt": ["/wissen/online-terminbuchung/", "/leistungen/ki-telefonassistent/", "/leistungen/whatsapp-bot/", "/vergleiche/whatsapp-oder-e-mail/", "/branchen/autohaus/"],
+  "checks": ["chatbot-test"]
+}

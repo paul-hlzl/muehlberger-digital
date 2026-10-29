@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/fleischerei/",
+  "title": "Digitale Lösungen für Fleischereien: Grill & Feiertage",
+  "description": "Grillpakete, Weihnachtsschinken, Wochenangebote und Partyplatten: Wie Fleischereien Vorbestellungen ordnen und Stammkunden digital erreichen.",
+  "h1": "Digitale Lösungen für Fleischereien",
+  "kicker": "Branche · Fleischerei, Fleischhauer",
+  "lead": "Fleischereien leben von Stammkunden und von Spitzen: Grillsaison, Ostern, Weihnachten, dazu Partyplatten für Feiern und der Mittagstisch. Digital lohnt sich vor allem, Vorbestellungen zu ordnen, das Wochenangebot schnell an Stammkunden zu bringen und offen zu erzählen, woher das Fleisch kommt.",
+  "fakten": [
+    "Grillpakete, Osterschinken und Weihnachtsbraten online vorbestellen lassen",
+    "Wochenangebot per Newsletter oder Social Media statt nur auf dem Flugblatt",
+    "Herkunft und Verarbeitung ehrlich erzählen schafft Vertrauen",
+    "Pipeflow macht aus Website-Inhalten Beiträge, in der Pilotphase kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vorbestellungen: Schinken, Braten, Grillpaket",
+      "html": "<p>Vor Ostern bestellen viele Familien den Osterschinken, vor Weihnachten den Braten oder die Gans, im Sommer das Grillpaket für die Gartenparty. Diese Bestellungen kommen telefonisch, an der Theke und per WhatsApp, und an den Tagen davor wird die Liste unübersichtlich.</p><p>Ein Bestellformular auf der Website, mit Produkt, Gewicht oder Personenanzahl, Abholtag und Sonderwünschen wie „bitte geschnitten“, bringt Ordnung. Die Zerlegung sieht vorab, was gebraucht wird. Eine klare Bestellfrist schützt vor Last-Minute-Anrufen.</p><p>Hilfreich ist auch eine kleine Orientierung für unsichere Kunden: Wie viel Braten rechnet man pro Person, welches Stück eignet sich für den Smoker, wie lange braucht ein Beinschinken? Solche Tipps aus Ihrer Erfahrung beantworten Fragen, die sonst an der vollen Theke gestellt werden, und machen Lust auf die Bestellung.</p>"
+    },
+    {
+      "h2": "Das Wochenangebot schneller an Stammkunden bringen",
+      "html": "<p>Viele Fleischereien machen jede Woche ein Angebot: Schweinsschopf, Faschiertes, Leberkäse zum Aktionspreis. Früher war das ein Flugblatt, heute erreichen Sie viele Kunden schneller digital.</p><ul><li>Ein kurzer <a href=\"/wissen/newsletter-kmu/\">Newsletter</a> an Kunden, die das wollen, jeden Donnerstag.</li><li>Ein Beitrag auf Facebook, wo viele ältere Stammkunden aktiv sind. Tipps dazu im Ratgeber <a href=\"/wissen/facebook-fuer-betriebe/\">Facebook für Betriebe</a>.</li><li>Das Angebot auf der Startseite der Website, als Text und nicht nur als Bild.</li></ul><p>Wer keine Zeit zum Posten hat, kann <a href=\"https://pipeflow.at/\">Pipeflow</a> nutzen: Aus den Inhalten Ihrer Website entstehen jede Woche fertige Beiträge mit Bild, die Sie nur freigeben. In der Pilotphase ist das kostenlos.</p>"
+    },
+    {
+      "h2": "Herkunft erzählen, ehrlich und konkret",
+      "html": "<p>Kunden fragen heute öfter, woher das Fleisch kommt. Wer von Bauern aus der Umgebung kauft oder selbst schlachtet, hat ein starkes Argument, aber nur, wenn es konkret ist: welche Höfe, welche Tiere, wie weit der Weg. Allgemeine Worte wie „beste Qualität“ überzeugen niemanden.</p><p>Schreiben Sie nur, was Sie belegen können, und fragen Sie Ihre Lieferbetriebe, ob sie genannt werden möchten. Wie man regionale Produkte online glaubwürdig zeigt, beschreibt der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">regionale Produkte online</a>.</p>"
+    },
+    {
+      "h2": "Partyplatten und Feiern: die Anfrage mit vielen Variablen",
+      "html": "<p>Eine Kalte Platte für dreißig Personen, Schnitzel für eine Taufe, Spanferkel für das Feuerwehrfest: Solche Aufträge sind wertvoll, aber jede Anfrage braucht Personenanzahl, Datum, Abholung oder Lieferung, Beilagen und manchmal Geschirr. Ein eigenes Formular für Feiern sammelt diese Angaben auf einmal.</p><p>Wer regelmäßig Feiern beliefert und das ausbauen will, findet auf der Seite für <a href=\"/branchen/catering/\">Catering</a> weitere Ideen, etwa zum Angebotsversand.</p>"
+    },
+    {
+      "h2": "Mittagstisch und Jause: die tägliche Frage",
+      "html": "<p>Viele Fleischereien bieten mittags warmes Essen oder die Leberkässemmel für Handwerker und Büroleute. Die Frage „Was gibt es heute?“ beantwortet am besten die Website oder das Google-Profil mit dem aktuellen Tagesgericht. Ein kurzer Beitrag im Google-Profil am Morgen wird von Leuten in der Nähe gesehen, die gerade nach einem Mittagessen suchen.</p><p>Das braucht keine Technik, nur eine Gewohnheit: jeden Morgen ein Foto und ein Satz.</p>"
+    },
+    {
+      "h2": "Was sich für eine Fleischerei nicht lohnt",
+      "html": "<p>Ein Onlineshop mit Versand von Frischfleisch ist für die meisten Betriebe zu aufwendig, wegen Kühlkette und Verpackung. Auch ein Chatbot bringt wenig. Sinnvoller sind Vorbestellung, Wochenangebot und ein ehrlicher Auftritt.</p><p>Wie Ihr Auftritt in sozialen Medien heute wirkt, zeigt der <a href=\"/gratis-check/social-media-test/\">kostenlose Social-Media-Test</a>. Im Erstgespräch klären wir die Reihenfolge.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie nehme ich Vorbestellungen für Ostern und Weihnachten online an?",
+      "a": "Mit einem Formular auf der Website, in dem Kunden Produkt, Menge oder Gewicht, Abholtag und Sonderwünsche angeben. Alle Bestellungen landen an einer Stelle, und Sie bestätigen sie kurz per E-Mail. Eine klare Frist, bis wann bestellt werden kann, hilft bei der Planung von Einkauf und Zerlegung. Telefonische Bestellungen tragen Sie in dieselbe Liste ein."
+    },
+    {
+      "q": "Lohnt sich ein Newsletter für eine Fleischerei?",
+      "a": "Für das Wochenangebot kann er sich lohnen, wenn genug Stammkunden ihn abonnieren. Er ist günstig, kommt direkt an und ist unabhängig von sozialen Medien. Wichtig ist, nur Kunden anzuschreiben, die ausdrücklich zugestimmt haben, etwa über ein Formular an der Theke oder auf der Website. Für rechtliche Fragen im Einzelfall ist die Wirtschaftskammer die richtige Anlaufstelle."
+    },
+    {
+      "q": "Soll ich meine Lieferbauern auf der Website nennen?",
+      "a": "Wenn die Bauern einverstanden sind, ist das eines der stärksten Argumente, die eine Fleischerei hat. Kunden schätzen es, wenn sie wissen, woher das Fleisch kommt. Fragen Sie vorher, ob Name, Ort und ein Foto verwendet werden dürfen. Schreiben Sie nur, was stimmt und was Sie belegen können, und aktualisieren Sie die Angaben, wenn sich Lieferbetriebe ändern."
+    },
+    {
+      "q": "Was kostet eine Website für eine Fleischerei?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt., inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Für eine Fleischerei könnten das Startseite mit Wochenangebot, Sortiment und Herkunft, Partyservice, Vorbestellung und Kontakt sein. Ein erweitertes Bestellformular oder ein Newsletter werden nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/newsletter-kmu/", "/wissen/facebook-fuer-betriebe/", "/wissen/regionale-produkte-online/", "/leistungen/social-media-automatisierung/", "/branchen/catering/"],
+  "checks": ["social-media-test"]
+}

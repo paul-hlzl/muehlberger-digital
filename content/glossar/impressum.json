@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/impressum/",
+  "title": "Impressum einfach erklärt: Pflichtangaben online",
+  "description": "Impressum einfach erklärt: Welche Angaben österreichische Betriebe auf Website und Social Media typischerweise machen müssen und wo es Hilfe gibt.",
+  "h1": "Impressum",
+  "kicker": "Glossar · Recht",
+  "lead": "Ein Impressum ist der Bereich einer Website, in dem ein Betrieb gesetzlich vorgeschriebene Angaben über sich macht, etwa Name, Anschrift, Kontakt und Unternehmensgegenstand. In Österreich ergeben sich die Pflichten vor allem aus dem E-Commerce-Gesetz, dem Mediengesetz und dem Unternehmensgesetzbuch.",
+  "fakten": [
+    "Pflicht für nahezu jede geschäftliche Website",
+    "Gilt oft auch für Social-Media-Profile des Betriebs",
+    "Muss leicht auffindbar sein, etwa über einen Link im Fußbereich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was typischerweise ins Impressum gehört",
+      "html": "<p>Eine Elektrikerin mit eigenem Gewerbe hat ihre neue Website fast fertig. Ins Impressum kommen typischerweise:</p><ul><li>Name bzw. Firmenwortlaut und Anschrift</li><li>Kontakt, mindestens eine E-Mail-Adresse</li><li>Unternehmensgegenstand und Gewerbe</li><li>UID-Nummer, falls vorhanden</li><li>Mitgliedschaft bei der Wirtschaftskammer, zuständige Gewerbebehörde und anwendbare Vorschriften wie die Gewerbeordnung</li><li>bei Firmenbucheintrag: Firmenbuchnummer und Firmenbuchgericht</li></ul><p>Je nach Rechtsform und Tätigkeit können weitere Angaben nötig sein, etwa bei reglementierten Berufen.</p>"
+    },
+    {
+      "h2": "Warum das Impressum für KMU wichtig ist",
+      "html": "<p>Ein fehlendes oder unvollständiges Impressum kann zu Verwaltungsstrafen und wettbewerbsrechtlichen Ansprüchen führen. Außerdem schafft es Vertrauen: Kunden sehen, wer hinter der Website steht. Auch KI-Suchen und Google nutzen die Angaben, um einen Betrieb einzuordnen (<a href=\"/glossar/nap-daten/\">NAP-Daten</a>).</p><p>Diese Seite ist eine allgemeine Orientierung, keine Rechtsberatung. Muster und Informationen bietet die <a href=\"https://www.wko.at/\">WKO</a>, Gesetzestexte finden Sie im <a href=\"https://www.ris.bka.gv.at/\">Rechtsinformationssystem</a>. Mehr Details im Ratgeber <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>; bei der <a href=\"/leistungen/website-erstellen/\">Starter-Website</a> sind Impressum und Datenschutz enthalten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich auf Facebook und Instagram auch ein Impressum?",
+      "a": "In vielen Fällen ja, wenn das Profil geschäftlich genutzt wird. Üblich ist ein Link auf das Impressum der Website in der Profilbeschreibung oder im Infobereich. Wichtig ist, dass die Angaben mit wenigen Klicks erreichbar sind. Welche Plattform welche Möglichkeiten bietet, ändert sich immer wieder; im Zweifel informieren Sie sich bei der WKO über die aktuelle Empfehlung."
+    },
+    {
+      "q": "Muss meine private Adresse ins Impressum, wenn ich von zu Hause arbeite?",
+      "a": "Grundsätzlich ist eine geografische Anschrift anzugeben, unter der Sie geschäftlich erreichbar sind. Arbeiten Sie von zu Hause, ist das oft die Wohnadresse. Ob eine andere Geschäftsadresse genügt, hängt von Ihrer Situation und Rechtsform ab. Ein Postfach reicht in der Regel nicht. Klären Sie das am besten direkt bei der WKO."
+    }
+  ],
+  "verwandt": [
+    "/wissen/impressum-pflicht/",
+    "/wissen/datenschutzerklaerung/",
+    "/glossar/dsgvo/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

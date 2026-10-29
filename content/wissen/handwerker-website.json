@@ -1,0 +1,71 @@
+{
+  "pfad": "/wissen/handwerker-website/",
+  "title": "Was eine Handwerker-Website braucht: Checkliste",
+  "description": "Was eine Handwerker-Website braucht: Leistungen, Einzugsgebiet, Referenzfotos, Anfrage mit Foto, Notdienst und Karriereseite – Checkliste für Handwerksbetriebe.",
+  "h1": "Was eine Handwerker-Website braucht",
+  "kicker": "Ratgeber · Handwerk",
+  "lead": "Eine Handwerker-Website braucht drei Dinge: klar beschriebene Leistungen mit Einzugsgebiet, echte Fotos abgeschlossener Arbeiten und einen einfachen Weg zur Anfrage, am besten mit der Möglichkeit, Fotos mitzuschicken. Dazu kommen Notdienst-Hinweise, falls angeboten, und zunehmend eine Karriereseite, weil viele Betriebe mehr Arbeit als Leute haben.",
+  "fakten": [
+    "Leistungen und Einzugsgebiet konkret benennen",
+    "Fotos echter Arbeiten überzeugen mehr als jeder Text",
+    "Anfrageformular mit Foto-Upload spart Besichtigungsfahrten",
+    "Telefonnummer am Handy antippbar, auf jeder Seite",
+    "Karriereseite hilft bei der Suche nach Lehrlingen und Fachkräften"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wer eine Handwerker-Website besucht und was er sucht",
+      "html": "<p>Die Besucher einer Handwerker-Website lassen sich grob in vier Gruppen teilen: Privatkunden mit einem Projekt, Privatkunden mit einem Notfall, Firmenkunden und Hausverwaltungen sowie Bewerber. Jede Gruppe hat andere Fragen.</p><p>Der Hausbesitzer mit Badsanierung will Beispiele sehen und wissen, ob Sie in seiner Gegend arbeiten. Wer einen Rohrbruch hat, braucht in Sekunden die Telefonnummer. Die Hausverwaltung sucht Zuverlässigkeit und klare Abläufe. Der Bewerber will wissen, wie es sich bei Ihnen arbeitet. Eine gute Website bedient alle vier, ohne unübersichtlich zu werden.</p>"
+    },
+    {
+      "h2": "Checkliste: Die wichtigsten Inhalte",
+      "html": "<ul><li><strong>Startseite:</strong> Gewerk, Region, ein klarer Satz zum Angebot, Telefonnummer, Knopf zur Anfrage.</li><li><strong>Leistungen:</strong> jede wichtige Leistung mit eigener Beschreibung, nicht nur als Stichwortliste.</li><li><strong>Referenzen:</strong> Fotos abgeschlossener Arbeiten, idealerweise vorher und nachher.</li><li><strong>Über uns:</strong> Inhaber, Team, Meisterbetrieb, Geschichte in wenigen Sätzen.</li><li><strong>Einzugsgebiet:</strong> Orte und Bezirke, in denen Sie arbeiten.</li><li><strong>Kontakt:</strong> Telefon, E-Mail, Adresse, Anfrageformular, Erreichbarkeit.</li><li><strong>Karriere:</strong> offene Stellen und Lehrstellen.</li><li><strong>Rechtliches:</strong> Impressum, Datenschutzerklärung.</li></ul>"
+    },
+    {
+      "h2": "Leistungen konkret beschreiben",
+      "html": "<p>„Sanitär, Heizung, Lüftung“ sagt einem Kunden wenig. Besser ist eine eigene kurze Seite oder ein Abschnitt pro Leistung mit:</p><ul><li>was genau Sie machen, etwa „Tausch alter Ölheizungen gegen Wärmepumpen“</li><li>für wen das passt</li><li>wie der Ablauf aussieht, von der Besichtigung bis zur Übergabe</li><li>ein, zwei Fotos passender Projekte</li><li>wovon der Preis abhängt, oder ein Richtpreis, wenn möglich</li></ul><p>So finden Kunden über Google genau die Leistung, die sie suchen, und KI-Suchen können Ihren Betrieb klarer einordnen. Ob Sie Preise nennen sollten, beschreibt der Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website zeigen?</a></p>"
+    },
+    {
+      "h2": "Anfragen, die wirklich weiterhelfen",
+      "html": "<p>Eine typische Anfrage lautet: „Bitte um Rückruf wegen Bad.“ Damit können Sie wenig anfangen. Ein gut gemachtes Anfrageformular fragt gezielt nach:</p><ul><li>Art der Arbeit, etwa als Auswahl</li><li>Ort der Baustelle</li><li>gewünschter Zeitraum</li><li>Fotos der Situation, direkt vom Handy hochladbar</li><li>bevorzugte Kontaktart und Erreichbarkeit</li></ul><p>Mit Fotos können Sie oft schon vorab einschätzen, ob sich eine Besichtigung lohnt und welches Werkzeug Sie brauchen. Ein Elektriker, der vorher den alten Sicherungskasten sieht, spart sich womöglich eine Fahrt. Halten Sie das Formular dennoch kurz: Pflichtfelder nur für das Nötigste.</p><p>Ebenso wichtig ist, was nach dem Absenden passiert. Eine automatische Bestätigung mit dem Hinweis, wann Sie sich melden, gibt dem Kunden Sicherheit. Und wenn Sie gerade ausgebucht sind, sagen Sie das ehrlich, etwa mit dem frühesten möglichen Termin. Das ist besser als eine Anfrage, auf die wochenlang keine Antwort kommt.</p>"
+    },
+    {
+      "h2": "Notdienst und Erreichbarkeit",
+      "html": "<p>Wenn Sie einen Notdienst anbieten, muss das sofort erkennbar sein: auf der Startseite ganz oben, mit eigener Telefonnummer und klaren Angaben, wann und wo der Notdienst gilt. Nennen Sie, wenn möglich, auch, was ein Notdiensteinsatz ungefähr kostet oder wovon der Preis abhängt.</p><p>Für alle anderen Anfragen hilft es, Erwartungen zu steuern: „Wir melden uns innerhalb von zwei Werktagen.“ Wer tagsüber auf der Baustelle steht, kann zusätzlich einen KI-Telefonassistenten nutzen, der Anrufe annimmt und Anliegen notiert. Mehr dazu im Ratgeber zur <a href=\"/wissen/erreichbarkeit/\">Erreichbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Die Karriereseite nicht vergessen",
+      "html": "<p>Viele Handwerksbetriebe könnten mehr Aufträge annehmen, wenn sie mehr Mitarbeiter hätten. Bewerber, besonders junge, schauen sich die Website genau an, bevor sie sich melden. Eine Karriereseite sollte zeigen:</p><ul><li>welche Stellen und Lehrstellen offen sind</li><li>wie ein typischer Arbeitstag aussieht, mit Fotos des Teams</li><li>was Sie bieten: Arbeitszeiten, Firmenauto, Weiterbildung, Klima im Team</li><li>wie man sich unkompliziert bewirbt, auch ohne Lebenslauf</li></ul><p>Zusätzlich können Sie Stellen auf der kostenlosen Bewerbungsplattform <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen. Tipps für die Seite selbst stehen im Ratgeber <a href=\"/wissen/karriereseite/\">Karriereseite</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden in der Region",
+      "html": "<p>Die meisten Kunden eines Handwerkers kommen aus einem überschaubaren Umkreis. Lokale Sichtbarkeit ist deshalb wichtiger als überregionale Reichweite:</p><ul><li>Google-Unternehmensprofil vollständig, mit Fotos und Einzugsgebiet</li><li>Bewertungen zufriedener Kunden aktiv erbitten</li><li>Projekte auf der Website mit Ort beschreiben, wenn der Kunde zustimmt</li><li>Name, Adresse und Telefonnummer überall gleich</li></ul><p>Mehr dazu im Ratgeber <a href=\"/wissen/seo-handwerk/\">SEO für das Handwerk</a>. Eine Starter-Website mit bis zu fünf Seiten, für alle Geräte angepasst und für Google und KI-Suchen optimiert, gibt es ab 2.500 € einmalig. Wie Ihre neue Startseite aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">Gratis-Startseitenentwurf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was muss auf eine Handwerker-Website?",
+      "a": "Wichtig sind eine klare Beschreibung Ihrer Leistungen, das Einzugsgebiet, Fotos abgeschlossener Arbeiten, Informationen zu Inhaber und Team, eine am Handy antippbare Telefonnummer, ein Anfrageformular und Impressum sowie Datenschutzerklärung. Wenn Sie Notdienst anbieten, gehört dieser gut sichtbar auf die Startseite. Eine Karriereseite hilft zusätzlich bei der Suche nach Mitarbeitern und Lehrlingen."
+    },
+    {
+      "q": "Wie viele Seiten braucht eine Website für einen Handwerksbetrieb?",
+      "a": "Für viele kleine Betriebe reichen wenige Seiten: Startseite, Leistungen, Referenzen, Über uns und Kontakt. Bieten Sie mehrere unterschiedliche Leistungen an, lohnt sich oft eine eigene Seite pro Leistung, weil Kunden gezielt danach suchen. Eine Starter-Website mit bis zu fünf Seiten gibt es bei Mühlberger Digital ab 2.500 € einmalig."
+    },
+    {
+      "q": "Lohnt sich ein Foto-Upload im Anfrageformular?",
+      "a": "Für viele Gewerke ja. Mit Fotos der Situation können Sie oft vorab einschätzen, worum es geht, ob eine Besichtigung nötig ist und welches Material Sie brauchen. Das spart Fahrten und Rückfragen. Wichtig ist, dass der Upload direkt vom Handy funktioniert und das Formular insgesamt kurz bleibt, damit Kunden nicht abspringen."
+    },
+    {
+      "q": "Wie finde ich über die Website Mitarbeiter für meinen Handwerksbetrieb?",
+      "a": "Eine eigene Karriereseite, die offene Stellen, den Arbeitsalltag, das Team und Ihre Angebote für Mitarbeiter zeigt, macht den Betrieb für Bewerber greifbar. Ermöglichen Sie eine einfache Bewerbung, auch ohne ausführlichen Lebenslauf. Zusätzlich können Sie Stellen auf der kostenlosen Plattform zusage.at ausschreiben und dort Bewerbungen bekommen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/seo-handwerk/",
+    "/wissen/digitalisierung-handwerk/",
+    "/wissen/karriereseite/",
+    "/branchen/installateur/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": ["website-entwurf", "seo-check"]
+}

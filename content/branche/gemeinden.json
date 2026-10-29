@@ -1,0 +1,69 @@
+{
+ "pfad": "/branchen/gemeinden/",
+ "title": "Digitale Lösungen für Gemeinden: Bürgerfragen, Infos, Web",
+ "description": "Für Gemeinden: Bürgerfragen außerhalb der Amtsstunden beantworten, barrierefrei informieren, bei Straßensperren rasch Bescheid geben und.",
+ "h1": "Digitale Lösungen für Gemeinden",
+ "kicker": "Branche · Gemeinden",
+ "lead": "Gemeinden beantworten jeden Tag dieselben Fragen, haben aber nur begrenzte Amtsstunden und wenig Personal. Digital helfen vor allem eine barrierefreie Website mit klaren Bürgerinfos, ein Chatbot, der nur mit den Inhalten der Gemeinde antwortet, ein schneller Kanal für kurzfristige Meldungen und Unterstützung beim Protokollieren von Besprechungen.",
+ "fakten": [
+  "Chatbot beantwortet Bürgerfragen rund um die Uhr, nur mit Gemeindeinhalten",
+  "Für öffentliche Stellen gelten besondere Vorgaben zur Barrierefreiheit",
+  "Kurzfristige Meldungen wie Straßensperren über einen festen Kanal verbreiten",
+  "noteit für Besprechungen per Video, Speicherung in Frankfurt"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Amtsstunden sind begrenzt, Fragen nicht",
+   "html": "<p>„Wann hat das Altstoffsammelzentrum offen?“, „Welche Unterlagen brauche ich für die Anmeldung meines Wohnsitzes?“, „Wo bekomme ich einen Sperrmüllschein?“ Solche Fragen landen täglich am Telefon oder am Schalter des Gemeindeamts, oft genau dann, wenn die Mitarbeiterinnen mit anderen Aufgaben beschäftigt sind.</p><p>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf der Gemeindewebsite beantwortet diese Fragen rund um die Uhr. Pipebot antwortet ausschließlich mit den Inhalten, die die Gemeinde hinterlegt, und verbindet bei Unsicherheit mit dem Amt. Er gibt keine rechtsverbindlichen Auskünfte, sondern verweist auf die zuständige Stelle. Pipebot kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage gratis. Ob er mit Ihrer bestehenden Website gut zurechtkommt, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+  },
+  {
+   "h2": "Barrierefreiheit: für öffentliche Stellen besonders wichtig",
+   "html": "<p>Eine Gemeindewebsite richtet sich an alle Bürgerinnen und Bürger, auch an ältere Menschen, Menschen mit Sehbeeinträchtigung oder Menschen, die das Handy mit großer Schrift nutzen. Für öffentliche Stellen gelten deshalb besondere Vorgaben zur Barrierefreiheit. Welche genau für Ihre Gemeinde gelten, klären Sie bitte mit dem Land oder dem Gemeindebund.</p><p>Praktisch bedeutet das: gut lesbare Schrift, ausreichende Kontraste, Bilder mit Beschreibung, Formulare, die sich mit der Tastatur bedienen lassen, und PDFs, die nicht nur aus eingescannten Seiten bestehen. Grundlagen erklärt der Ratgeber <a href=\"/wissen/barrierefreie-website/\">Barrierefreie Website</a>.</p>"
+  },
+  {
+   "h2": "Bürger schnell informieren: Straßensperre, Wasser, Termine",
+   "html": "<p>Ein Wasserrohrbruch in der Hauptstraße, eine kurzfristige Straßensperre wegen Bauarbeiten oder die verschobene Grünschnittsammlung: Solche Meldungen müssen schnell bei den Betroffenen ankommen. Die Gemeindezeitung erscheint dafür zu selten, und auf der Website schaut nicht jeder täglich nach.</p><p>Bewährt hat sich ein fester Kanal, für den sich Bürger selbst anmelden, etwa ein Newsletter oder ein Kanal in einem Messenger. Wichtig ist, dass dieselbe Meldung auch auf der Website steht und der Kanal nicht für Werbung missbraucht wird. Weitere Ansätze beschreibt der Ratgeber <a href=\"/wissen/digitalisierung-gemeinden/\">Digitalisierung in Gemeinden</a>.</p>"
+  },
+  {
+   "h2": "Besprechungen und Ausschüsse protokollieren",
+   "html": "<p>Viele Abstimmungen laufen inzwischen auch per Video, etwa mit Planungsbüros, Nachbargemeinden oder im Rahmen von Arbeitsgruppen. <a href=\"https://noteit.at/\">noteit</a> erstellt Gesprächsnotizen für Teams, Zoom, Google Meet, Webex und weitere Programme, ohne Bot im Call. Die Speicherung erfolgt in Frankfurt, das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig.</p><p>Wichtig ist eine klare Abgrenzung: Für Sitzungen des Gemeinderats gelten formale Vorgaben zur Niederschrift, die eine KI-Notiz nicht ersetzt. noteit eignet sich als Arbeitshilfe für Besprechungen, nicht als offizielles Protokoll. Alle Teilnehmenden sollten vorab informiert werden. Preise: Starter 0 €, Pro 14 €, Team 24 € pro Person und Monat.</p>"
+  },
+  {
+   "h2": "Betriebe und Zuzug: den Standort zeigen",
+   "html": "<p>Viele Gemeinden am Land möchten junge Familien halten und Betriebe ansiedeln. Wer sich für einen Umzug oder einen Betriebsstandort interessiert, sucht online nach Kinderbetreuung, Schulen, Bauland, Breitband, Verkehrsanbindung und freien Gewerbeflächen.</p><p>Eine eigene Seite mit diesen Informationen, aktuell gehalten und mit Ansprechperson, ist oft wirkungsvoller als eine allgemeine Imagebroschüre. Damit solche Inhalte auch bei Google und KI-Suchen gefunden werden, hilft ein gut strukturierter Aufbau.</p>"
+  },
+  {
+   "h2": "Personal finden und der nächste Schritt",
+   "html": "<p>Auch Gemeinden suchen Personal, vom Bauhof bis zur Kinderbetreuung. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben und dort Bewerbungen bekommen.</p><p>Für Gemeinden erstellen wir nach dem <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> ein schriftliches Angebot mit klaren Preisen, das sich gut für Gemeinderatsbeschlüsse eignet. Wenn Hosting in Europa ein Thema ist, finden Sie Hintergründe im Ratgeber <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Darf ein Chatbot auf der Gemeindewebsite Auskünfte geben?",
+   "a": "Ein Chatbot kann allgemeine Informationen weitergeben, die auf der Website stehen, etwa Öffnungszeiten, benötigte Unterlagen oder Abholtermine. Rechtsverbindliche Auskünfte oder Bescheide ersetzt er nicht. Pipebot antwortet nur mit den Inhalten der Gemeinde und verbindet bei Unsicherheit mit dem Amt. Datenschutzfragen im Einzelfall klärt die Gemeinde am besten mit der Datenschutzbehörde."
+  },
+  {
+   "q": "Welche Vorgaben zur Barrierefreiheit gelten für Gemeindewebsites?",
+   "a": "Für öffentliche Stellen gibt es besondere Vorgaben, damit Websites für alle Menschen nutzbar sind. Welche Regeln im Detail für Ihre Gemeinde gelten, klären Sie bitte mit dem Land oder dem Gemeindebund. Praktisch geht es um lesbare Schrift, gute Kontraste, Bildbeschreibungen, bedienbare Formulare und zugängliche Dokumente. Wir geben dazu nur allgemeine Orientierung."
+  },
+  {
+   "q": "Kann noteit das Protokoll einer Gemeinderatssitzung ersetzen?",
+   "a": "Nein. Für Gemeinderatssitzungen gelten formale Vorgaben zur Niederschrift, die eine KI-Notiz nicht erfüllt. noteit eignet sich als Arbeitshilfe für Besprechungen per Video, etwa mit Planungsbüros, Nachbargemeinden oder Arbeitsgruppen. Die Notizen sind etwa zwei Minuten nach dem Gespräch fertig und werden in Frankfurt gespeichert. Teilnehmende sollten vorab informiert werden."
+  },
+  {
+   "q": "Wie informiert eine Gemeinde Bürger am schnellsten über kurzfristige Ereignisse?",
+   "a": "Am besten über einen festen Kanal, für den sich Bürger freiwillig anmelden, etwa einen Newsletter oder einen Messenger-Kanal, ergänzt durch eine Meldung auf der Website. Wichtig ist, dass der Kanal nur für relevante Infos wie Straßensperren, Wasserabschaltungen oder geänderte Termine genutzt wird, damit Menschen ihn nicht abbestellen."
+  }
+ ],
+ "verwandt": [
+  "/branchen/vereine/",
+  "/wissen/digitalisierung-gemeinden/",
+  "/wissen/barrierefreie-website/",
+  "/leistungen/ki-chatbot/",
+  "/wissen/hosting-in-europa/"
+ ],
+ "checks": [
+  "chatbot-test",
+  "website-entwurf"
+ ]
+}

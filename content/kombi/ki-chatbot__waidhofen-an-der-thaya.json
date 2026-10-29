@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/waidhofen-an-der-thaya/",
+  "title": "KI-Chatbot im Bezirk Waidhofen an der Thaya",
+  "description": "Amtsstunden, Abfuhrtermine, Vereinsfest: Wie ein KI-Chatbot Gemeinden, Vereinen und Betrieben im Bezirk Waidhofen an der Thaya Fragen abnimmt.",
+  "h1": "KI-Chatbot für die Website in Waidhofen an der Thaya",
+  "kicker": "KI-Chatbot · Bezirk Waidhofen an der Thaya",
+  "lead": "Im Bezirk Waidhofen an der Thaya, im nördlichen Waldviertel, sind Gemeindeämter und Vereine oft mit wenigen Leuten besetzt, bekommen aber viele gleiche Fragen. Ein KI-Chatbot auf der Website beantwortet sie rund um die Uhr: Amtsstunden, Abfuhrtermine, Anmeldung zum Fest. Pipebot kostet 19 € im Monat und nutzt nur Ihre veröffentlichten Inhalte.",
+  "fakten": [
+    "Nördliches Waldviertel mit vielen kleinen Gemeinden und aktiven Vereinen",
+    "Gemeindeämter und Vereine haben oft wenig Personal oder arbeiten ehrenamtlich",
+    "Der Bot gibt allgemeine Auskünfte, keine amtlichen Entscheidungen",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Kleine Ämter, viele Fragen",
+      "html": "<p>Im <a href=\"/regionen/bezirk-waidhofen-an-der-thaya/\">Bezirk Waidhofen an der Thaya</a> gibt es viele kleine Gemeinden. Das Gemeindeamt ist oft nur zu bestimmten Zeiten besetzt, die Fragen der Bürger kommen aber jederzeit. Viele davon sind dieselben, Woche für Woche.</p><p>Ein Chatbot auf der Gemeindewebsite beantwortet sie, auch am Abend und am Wochenende. Für das Amt bedeutet das weniger Anrufe zu Themen, die ohnehin online stehen. Mehr dazu auf der Seite für <a href=\"/branchen/gemeinden/\">Gemeinden</a>.</p>"
+    },
+    {
+      "h2": "Typische Fragen an ein Gemeindeamt",
+      "html": "<ul><li>Wann hat das Gemeindeamt geöffnet, und braucht man einen Termin?</li><li>Wann ist die nächste Sperrmüllsammlung, und was wird mitgenommen?</li><li>Wo finde ich das Formular für die Hundeanmeldung?</li><li>Kann man den Gemeindesaal für eine Feier mieten, und wen frage ich?</li></ul><p>Pipebot beantwortet das mit den Inhalten der Website und verweist auf Formulare, wenn sie dort verlinkt sind. Ist er unsicher, verbindet er mit dem Amt.</p>"
+    },
+    {
+      "h2": "Vereine: Ehrenamt entlasten",
+      "html": "<p>Ein Sportverein, eine Musikkapelle oder die Feuerwehr bekommen ebenfalls viele Fragen: Wann ist Training? Was kostet die Mitgliedschaft? Gibt es beim Fest einen Shuttle? Wer ehrenamtlich arbeitet, beantwortet das in der Freizeit.</p><p>Ein Bot um 19 € im Monat ist für viele Vereine leistbar und nimmt den Ehrenamtlichen Routine ab. Mehr dazu unter <a href=\"/branchen/vereine/\">Vereine</a>.</p>"
+    },
+    {
+      "h2": "Grenzen bei amtlichen Auskünften",
+      "html": "<p>Ein Chatbot ist kein Amt. Er gibt keine rechtsverbindlichen Auskünfte, stellt keine Bescheide aus und entscheidet keine Anträge. Das sollte auf der Website und in den Antworten klar sein. Auch beim Datenschutz gilt: Persönliche Anliegen gehören ins Gespräch, nicht in den Chat.</p><p>Weitere Gedanken für Gemeinden bietet der Ratgeber <a href=\"/wissen/digitalisierung-gemeinden/\">Digitalisierung in Gemeinden</a>. Ob der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> mit den Inhalten Ihrer Gemeinde- oder Vereinsseite zurechtkommt, zeigt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf eine Gemeinde einen KI-Chatbot einsetzen?",
+      "a": "Für allgemeine Auskünfte wie Amtsstunden, Termine oder Formulare spricht in der Regel nichts dagegen. Wichtig sind ein klarer Hinweis, dass es sich um einen digitalen Assistenten handelt, eine passende Datenschutzerklärung und der Verzicht auf persönliche Daten im Chat. Das ist eine allgemeine Orientierung. Im Einzelfall klären Gemeinden Details am besten mit ihrer Interessenvertretung, einem Anwalt oder der Datenschutzbehörde."
+    },
+    {
+      "q": "Was kostet ein Chatbot für einen Verein?",
+      "a": "Pipebot kostet 19 € im Monat ohne Umsatzsteuer, die ersten 30 Tage sind gratis. Er ist monatlich kündbar, ein Verein kann ihn also auch nur rund um ein großes Fest laufen lassen und danach beenden. Voraussetzung ist eine Website mit den wichtigsten Informationen. Ob sich das für Ihren Verein lohnt, klärt das kostenlose Erstgespräch mit Mühlberger Digital."
+    },
+    {
+      "q": "Wer pflegt die Inhalte, wenn sich Termine ändern?",
+      "a": "Die Person, die auch jetzt die Website pflegt. Pipebot antwortet mit dem, was auf der Website steht, eine eigene Pflege des Bots ist daher nicht nötig. Wichtig ist nur, dass Termine wie Abfuhrtage oder Veranstaltungen an einer Stelle aktuell gehalten werden. Wenn Ihnen dafür ein einfacher Weg fehlt, kann Mühlberger Digital gemeinsam mit Pipeline eine Lösung vorschlagen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-waidhofen-an-der-thaya/",
+    "/branchen/gemeinden/",
+    "/branchen/vereine/",
+    "/wissen/digitalisierung-gemeinden/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

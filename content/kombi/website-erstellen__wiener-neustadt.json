@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/website-erstellen/wiener-neustadt/",
+  "title": "Website erstellen lassen in Wiener Neustadt",
+  "description": "Website erstellen lassen in Wiener Neustadt: in der zweitgrößten Stadt Niederösterreichs mit klarer Positionierung aus der Masse herausstechen.",
+  "h1": "Website erstellen lassen in Wiener Neustadt",
+  "kicker": "Website · Wiener Neustadt und Bezirk Wiener Neustadt-Land",
+  "lead": "Wiener Neustadt ist die zweitgrößte Stadt Niederösterreichs, und in vielen Branchen gibt es hier mehrere Anbieter nebeneinander. Eine Website hilft dann nur, wenn sie klar macht, warum gerade Ihr Betrieb der richtige ist. Mühlberger Digital vermittelt Websites ab 2.500 € mit einem Schwerpunkt auf klarer Positionierung und lokaler Auffindbarkeit.",
+  "fakten": [
+    "Zweitgrößte Stadt Niederösterreichs, dazu der ländliche Bezirk Wiener Neustadt-Land",
+    "Viele Mitbewerber in derselben Branche: Positionierung entscheidet",
+    "Website und lokales SEO gehören zusammen",
+    "Starter-Website ab 2.500 €, schriftliches Angebot vorab"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Mehr Anbieter, mehr Vergleich",
+      "html": "<p>In einer Stadt dieser Größe sucht kaum jemand nach „Fahrschule“ und nimmt den ersten Treffer. Interessenten öffnen mehrere Websites nebeneinander und vergleichen. Wer dann nur das Gleiche sagt wie alle anderen, wird nach Preis oder Zufall gewählt.</p><p>Die Frage, die Ihre Website beantworten sollte: Was können Sie besser, schneller oder anders als andere in der Stadt? Und für wen genau ist Ihr Angebot gedacht?</p>"
+    },
+    {
+      "h2": "Positionierung in der Praxis",
+      "html": "<ul><li>Eine <strong>Fahrschule</strong> hebt etwa Abendkurse für Berufstätige oder Intensivkurse in den Ferien hervor. Mehr bei <a href=\"/branchen/fahrschule/\">Fahrschulen</a>.</li><li>Ein <strong>Fitnessstudio</strong> zeigt, ob es eher Trainingsbetreuung oder freies Training bietet, und für wen das passt.</li><li>Eine <strong>Kfz-Werkstatt</strong> spezialisiert sich auf bestimmte Marken, Oldtimer oder E-Autos und sagt das gleich auf der Startseite.</li></ul><p>Spezialisierung heißt nicht, andere Kunden abzulehnen. Sie hilft nur, dass die richtigen Kunden Sie schneller erkennen.</p>"
+    },
+    {
+      "h2": "Lokal gefunden werden",
+      "html": "<p>Neben einer klaren Botschaft zählt, dass Google Ihren Betrieb richtig einordnet: Adresse, Leistungen, Bewertungen und ein gepflegtes Unternehmensprofil. Die Grundlagen beschreibt der Ratgeber <a href=\"/wissen/lokales-seo/\">Lokales SEO</a>. Wer darüber hinaus gezielt an der Sichtbarkeit arbeiten will, findet auf der Seite <a href=\"/leistungen/seo/\">SEO</a> die passende Leistung.</p><p>Eine Platzierung kann dabei niemand versprechen. Was wir zusagen: eine saubere technische Grundlage und Inhalte, die Ihr Angebot verständlich machen.</p>"
+    },
+    {
+      "h2": "Stadt und Umland",
+      "html": "<p>Zum Einzugsgebiet gehört auch der Bezirk Wiener Neustadt-Land mit vielen kleineren Gemeinden. Wer Kunden von dort anspricht, sollte Anfahrt und Parkmöglichkeiten nennen. Mehr auf <a href=\"/regionen/wiener-neustadt/\">Wiener Neustadt</a> und <a href=\"/regionen/bezirk-wiener-neustadt-land/\">Bezirk Wiener Neustadt-Land</a>. Die Leistung selbst beschreibt <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich heraus, was mich von Mitbewerbern unterscheidet?",
+      "a": "Oft wissen es Ihre Kunden besser als Sie selbst. Fragen Sie Stammkunden, warum sie zu Ihnen kommen, und lesen Sie Ihre Bewertungen aufmerksam. Häufig sind es Dinge wie Erreichbarkeit, Geduld oder Spezialwissen. Im Erstgespräch gehen wir diese Frage gemeinsam durch, weil sie die Grundlage für Texte und Aufbau der Website ist."
+    },
+    {
+      "q": "Reicht eine Website, um in der Stadt bei Google vorne zu sein?",
+      "a": "Eine gute Website ist die Voraussetzung, aber allein meist nicht genug. Dazu kommen ein gepflegtes Google-Unternehmensprofil, echte Bewertungen und Inhalte, die zu den Suchanfragen passen. In Branchen mit vielen Anbietern braucht das Zeit. Ein kostenloser SEO-Test zeigt, wo Ihre bestehende Seite steht und was zuerst verbessert werden sollte."
+    },
+    {
+      "q": "Lohnt sich Werbung bei Google statt einer besseren Website?",
+      "a": "Anzeigen bringen schnell Besucher, aber nur solange Sie zahlen. Landen diese Besucher auf einer unklaren Website, ist das Geld schlecht investiert. Sinnvoll ist meist die Reihenfolge: zuerst eine überzeugende Website, dann bei Bedarf Anzeigen für bestimmte Angebote oder Zeiträume. Beides schließt sich nicht aus, ergänzt sich aber nur mit guter Grundlage."
+    },
+    {
+      "q": "Wie lange dauert es, bis eine neue Website bei Google auftaucht?",
+      "a": "Bis Google eine neue Seite überhaupt aufnimmt, vergehen meist einige Tage bis wenige Wochen. Bis sie bei umkämpften Suchbegriffen gut sichtbar ist, dauert es in der Regel deutlich länger. Mit der Google Search Console lässt sich verfolgen, ob und wie die Seite erfasst wird. Eine feste Zeitspanne für gute Platzierungen kann niemand seriös zusagen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/wiener-neustadt/",
+    "/regionen/bezirk-wiener-neustadt-land/",
+    "/wissen/lokales-seo/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

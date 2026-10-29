@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/backlink/",
+  "title": "Backlink einfach erklärt: Verweise von außen",
+  "description": "Backlink einfach erklärt: Was Verweise anderer Websites für Ihre Sichtbarkeit bedeuten, welche Links kleinen Betrieben helfen und welche Sie meiden sollten.",
+  "h1": "Backlink – ein Verweis auf Ihre Website",
+  "kicker": "Glossar · SEO",
+  "lead": "Ein Backlink ist ein Link von einer fremden Website auf Ihre eigene, zum Beispiel vom Gemeindeportal oder einem Lieferanten. Suchmaschinen werten solche Verweise als Empfehlung, besonders wenn sie von thematisch oder regional passenden Seiten kommen.",
+  "fakten": [
+    "Qualität und Passung zählen mehr als die Anzahl",
+    "Gute Quellen: Gemeinde, Vereine, Partnerbetriebe, Fachverbände",
+    "Gekaufte Linkpakete können der Sichtbarkeit schaden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Woher kleine Betriebe Backlinks bekommen",
+      "html": "<p>Ein Gärtnereibetrieb sponsert den örtlichen Fußballverein und wird auf dessen Website mit Link genannt. Die Gemeinde führt ihn im Betriebsverzeichnis, ein Floristen-Netzwerk verlinkt ihn als Partner, und die Regionalzeitung berichtet online über den neuen Schaugarten. Jeder dieser Links stammt aus einem echten Zusammenhang.</p><p>Solche Verweise helfen doppelt: Sie bringen direkt Besucher und zeigen Google, dass der Betrieb in der Region verankert ist. Auch Einträge in seriösen <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnissen</a> zählen dazu.</p>"
+    },
+    {
+      "h2": "Warum Backlinks für KMU wichtig sind",
+      "html": "<p>Backlinks sind neben guten Inhalten ein zentrales Vertrauenssignal für <a href=\"/glossar/seo/\">SEO</a> und für KI-Suchen, die auf Erwähnungen im Netz achten (<a href=\"/glossar/geo/\">GEO</a>). Für kleine Betriebe reichen oft einige gute regionale Links, um sich von Mitbewerbern ohne solche Verweise abzuheben.</p><p>Finger weg von Angeboten wie „500 Backlinks für 50 Euro“: Solche Links stammen meist von wertlosen Seiten und können eher schaden. Praktische Wege beschreibt der Ratgeber <a href=\"/wissen/backlinks-kleine-betriebe/\">Backlinks für kleine Betriebe</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie viele Backlinks braucht meine Website?",
+      "a": "Eine Zielzahl gibt es nicht. Für einen regionalen Betrieb sind wenige passende Verweise von Gemeinde, Vereinen, Partnern und Verzeichnissen meist wertvoller als viele beliebige Links. Entscheidend ist, ob die verlinkende Seite selbst glaubwürdig ist und thematisch oder örtlich zu Ihnen passt. Bauen Sie Links lieber langsam und echt auf als schnell und gekauft."
+    },
+    {
+      "q": "Sind Links aus sozialen Netzwerken auch Backlinks?",
+      "a": "Technisch ja, aber Google bewertet Links aus Beiträgen in sozialen Netzwerken in der Regel nicht als starke Empfehlung. Sie können trotzdem Besucher bringen und Ihre Bekanntheit erhöhen. Für die Sichtbarkeit in der Suche sind Links von eigenständigen Websites wie Gemeinde, Vereinen, Medien oder Partnerbetrieben deutlich wichtiger."
+    }
+  ],
+  "verwandt": [
+    "/wissen/backlinks-kleine-betriebe/",
+    "/wissen/branchenverzeichnisse/",
+    "/wissen/markenerwaehnungen/",
+    "/glossar/interne-verlinkung/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

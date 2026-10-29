@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/rich-snippet/",
+  "title": "Rich Snippet: Erweiterte Suchergebnisse erklärt",
+  "description": "Rich Snippet einfach erklärt: Wie Sterne, Preise oder Veranstaltungsdaten in Google entstehen, welche Rolle strukturierte Daten spielen und wo Grenzen liegen.",
+  "h1": "Rich Snippet",
+  "kicker": "Glossar · SEO",
+  "lead": "Ein Rich Snippet ist ein Suchergebnis, das neben Titel und Beschreibung zusätzliche Informationen zeigt, etwa Bewertungssterne, Preise, Verfügbarkeit oder Veranstaltungstermine. Grundlage sind meist strukturierte Daten auf der Website.",
+  "fakten": [
+    "Auffälliger als normale Ergebnisse, oft mehr Klicks",
+    "Entsteht aus Schema-Markup, aber ohne Anspruch darauf",
+    "Google entscheidet selbst, ob und welche Zusätze erscheinen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Rich Snippets in der Praxis aussehen",
+      "html": "<p>Ein Kulturverein veranstaltet Kabarettabende im Gemeindesaal. Auf der Website ist jede Veranstaltung mit <a href=\"/glossar/schema-markup/\">Schema-Markup</a> als „Event“ ausgezeichnet, inklusive Datum, Ort und Ticketlink. In der Suche können die Termine dann direkt unter dem Ergebnis erscheinen, und Interessierte sehen auf einen Blick, wann der nächste Abend ist.</p><p>Ähnlich funktioniert das bei Produkten in einem kleinen Onlineshop mit Preis und Lagerstand oder bei Rezepten mit Zubereitungszeit.</p>"
+    },
+    {
+      "h2": "Was KMU realistisch erwarten können",
+      "html": "<p>Rich Snippets heben ein Ergebnis in den <a href=\"/glossar/serp/\">SERPs</a> hervor und können die Klickrate erhöhen. Google zeigt sie aber nicht garantiert an und hat einzelne Arten eingeschränkt; FAQ-Zusätze etwa erscheinen nur noch für wenige, ausgewählte Websites. Bewertungssterne für das eigene Unternehmen, die man selbst auf der Website auszeichnet, zeigt Google in der Regel nicht.</p><p>Sinnvoll ist es daher, strukturierte Daten sauber anzulegen und keine Wunder zu erwarten. Den Einstieg erklärt der Ratgeber <a href=\"/wissen/strukturierte-daten/\">strukturierte Daten</a>, wie Sie zu echten Bewertungen kommen, zeigt <a href=\"/wissen/google-bewertungen-bekommen/\">Google-Bewertungen bekommen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie bekomme ich Sterne in den Google-Ergebnissen?",
+      "a": "Für Ihr eigenes Unternehmen zeigt Google Bewertungssterne vor allem im Google-Unternehmensprofil, also in der Kartenansicht und im Firmenkasten. Diese Sterne stammen aus echten Google-Bewertungen Ihrer Kunden. Sterne direkt im normalen Suchergebnis gibt es eher für Produkte, Rezepte oder Bewertungen fremder Angebote, und auch dann nur, wenn Google das für passend hält."
+    },
+    {
+      "q": "Kann ein falsches Rich Snippet schaden?",
+      "a": "Ja. Strukturierte Daten, die nicht zum sichtbaren Inhalt passen oder irreführend sind, verstoßen gegen die Richtlinien von Google. Im schlimmsten Fall werden erweiterte Darstellungen für die ganze Website entzogen. Zeichnen Sie deshalb nur aus, was tatsächlich auf der Seite steht, und prüfen Sie das Markup mit dem kostenlosen Test für Rich-Suchergebnisse."
+    }
+  ],
+  "verwandt": [
+    "/wissen/strukturierte-daten/",
+    "/glossar/schema-markup/",
+    "/glossar/serp/",
+    "/wissen/google-bewertungen-bekommen/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

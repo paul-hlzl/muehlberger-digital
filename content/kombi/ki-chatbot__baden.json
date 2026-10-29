@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-chatbot/baden/",
+  "title": "KI-Chatbot in Baden: Gästefragen rund um die Uhr",
+  "description": "In der Kurstadt Baden fragen Gäste oft spätabends nach Behandlungen, Terminen und Gutscheinen. So beantwortet Pipebot das mit Ihren Website-Inhalten.",
+  "h1": "KI-Chatbot für die Website in Baden",
+  "kicker": "KI-Chatbot · Bezirk Baden",
+  "lead": "In Baden bei Wien leben viele kleine Betriebe von Gästen und Stammkunden, die sich vorab genau informieren: Massage, Kosmetik, Therapie, Wellness. Ein KI-Chatbot wie Pipebot beantwortet diese Fragen auf Ihrer Website rund um die Uhr, nur mit Ihren eigenen Inhalten, um 19 € im Monat.",
+  "fakten": [
+    "Kurstadt südlich von Wien: viele Fragen kommen außerhalb der Öffnungszeiten",
+    "Pipebot nennt nur, was auf Ihrer Website steht, und erfindet nichts dazu",
+    "Keine Gesundheitsberatung im Chat, sondern Verweis an Sie persönlich",
+    "30 Tage gratis, danach 19 € pro Monat, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum gerade Gesundheits- und Wellnessbetriebe profitieren",
+      "html": "<p>Baden ist als Kurstadt südlich von Wien bekannt. Rund um Erholung und Gesundheit gibt es im <a href=\"/regionen/bezirk-baden/\">Bezirk Baden</a> viele kleine Betriebe: Massagepraxen, Kosmetikstudios, Physiotherapie, Fußpflege. Sie haben eines gemeinsam: Während einer Behandlung geht niemand ans Telefon.</p><p>Genau in diesen Stunden kommen aber Fragen herein. Ein Chatbot auf der Website fängt sie auf, ohne dass Sie die Behandlung unterbrechen.</p>"
+    },
+    {
+      "h2": "Fragen, die zwischen zwei Behandlungen liegen bleiben",
+      "html": "<p>Eine Masseurin, die allein arbeitet, bekommt Woche für Woche ähnliche Nachrichten:</p><ul><li>Worin unterscheiden sich die Behandlungen, die Sie anbieten, und wie lange dauern sie?</li><li>Gibt es Gutscheine, und wie lange sind sie gültig?</li><li>Kann man in der Nähe parken, und ist die Praxis barrierefrei erreichbar?</li><li>Was sollte ich zum ersten Termin mitbringen?</li></ul><p>Wenn diese Antworten auf Ihrer Website stehen, gibt Pipebot sie in Sekunden weiter, im Design Ihrer Seite und in ganzen Sätzen. Wie das in der Branche aussieht, zeigt die Seite für <a href=\"/branchen/massage/\">Massagepraxen</a>.</p>"
+    },
+    {
+      "h2": "Gesundheitsdaten gehören nicht in den Chat",
+      "html": "<p>Ein Chatbot ist für allgemeine Fragen da, nicht für Beschwerden oder Diagnosen. Schreiben Sie auf Ihrer Website klar dazu, dass gesundheitliche Fragen persönlich besprochen werden. Pipebot hält sich an Ihre Inhalte und verbindet in solchen Fällen mit Ihnen.</p><p>Was Sie beim Datenschutz beachten sollten, erklärt der Ratgeber <a href=\"/wissen/chatbot-datenschutz/\">Chatbot und Datenschutz</a>. Er ist eine allgemeine Orientierung, im Einzelfall fragen Sie bitte Ihre Interessenvertretung, einen Anwalt oder die Datenschutzbehörde.</p>"
+    },
+    {
+      "h2": "Gäste aus Wien, die spontan planen",
+      "html": "<p>Wer aus Wien einen freien Tag in Baden verbringen will, plant oft am Vorabend. Dann zählt, ob man schnell erfährt, wann geöffnet ist und ob kurzfristige Termine möglich sind. Steht auf Ihrer Website ein Link zur Terminbuchung, kann der Bot dorthin verweisen.</p><p>Wie Chatbot und Buchung zusammenspielen, lesen Sie unter <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a>.</p>"
+    },
+    {
+      "h2": "So testen Sie es mit Ihren eigenen Inhalten",
+      "html": "<p>Im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> sehen Sie, wie der Bot mit Ihrer Website antwortet. Wenn Sie lieber zuerst reden: Das <a href=\"/erstgespraech/\">kostenlose Erstgespräch</a> dauert etwa 30 Minuten, Montag bis Freitag zwischen 18:00 und 21:30 Uhr, am Telefon, per Video oder vor Ort.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ein Chatbot in einer Praxis überhaupt eingesetzt werden?",
+      "a": "Für allgemeine Fragen wie Öffnungszeiten, Behandlungsangebot oder Anfahrt spricht in der Regel nichts dagegen. Wichtig ist, dass im Chat keine Gesundheitsdaten abgefragt werden und Ihre Datenschutzerklärung den Chatbot erwähnt. Das ist eine allgemeine Orientierung und keine Rechtsberatung. Im Einzelfall klären Sie Details am besten mit der Wirtschaftskammer, einem Anwalt oder der Datenschutzbehörde."
+    },
+    {
+      "q": "Kann Pipebot Termine direkt in meinen Kalender eintragen?",
+      "a": "Pipebot ist ein Chatbot, der Fragen mit Ihren Website-Inhalten beantwortet, kein Buchungssystem. Wenn Sie bereits eine Online-Terminbuchung nutzen und sie auf der Website verlinkt ist, kann der Bot Gäste dorthin schicken. Ob sich darüber hinaus eine engere Verbindung lohnt, klären Sie im kostenlosen Erstgespräch mit Mühlberger Digital."
+    },
+    {
+      "q": "Was antwortet der Bot, wenn jemand nach einer Behandlung fragt, die ich nicht anbiete?",
+      "a": "Er antwortet nur mit dem, was auf Ihrer Website steht. Findet er die Behandlung dort nicht, sagt er das offen und verbindet mit Ihnen, statt etwas zu versprechen. Es hilft, auf der Website ausdrücklich zu schreiben, was Sie nicht machen. Dann kann der Bot auch diese Frage klar beantworten, und Gäste wissen rechtzeitig Bescheid."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-baden/",
+    "/branchen/massage/",
+    "/branchen/physiotherapie/",
+    "/wissen/chatbot-datenschutz/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

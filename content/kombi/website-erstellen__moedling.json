@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/website-erstellen/moedling/",
+  "title": "Website erstellen lassen in Mödling für Freiberufler",
+  "description": "Website erstellen lassen in Mödling: für Kanzleien, Praxen und Planungsbüros südlich von Wien, die über Vertrauen und Kompetenz überzeugen. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Mödling",
+  "kicker": "Website · Bezirk Mödling",
+  "lead": "Im dicht besiedelten Bezirk Mödling südlich von Wien gibt es viele Freiberufler: Steuerberater, Therapeutinnen, Architekten, Anwälte. Ihre Kunden wählen nach Vertrauen, und dieses Vertrauen entsteht heute oft auf der Website, bevor das erste Gespräch stattfindet. Mühlberger Digital vermittelt Auftritte für Freiberufler ab 2.500 €, Pipeline AI Solutions setzt sie um.",
+  "fakten": [
+    "Dichter Bezirk am Stadtrand von Wien mit vielen Dienstleistern",
+    "Freiberufler werden nach Person und Fachgebiet ausgewählt",
+    "„Über uns“-Seite ist oft die meistgelesene Unterseite",
+    "Erstgespräch kostenlos, auch abends per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Vertrauen entsteht vor dem ersten Termin",
+      "html": "<p>Wer einen Steuerberater, eine Psychotherapeutin oder einen Architekten sucht, vergibt keinen kleinen Auftrag. Die Entscheidung hängt an der Frage: Kann ich dieser Person vertrauen? Im Bezirk Mödling gibt es dabei viel Auswahl, und Interessenten vergleichen genau.</p><p>Ihre Website muss nicht lauter sein als andere. Sie muss klarer sein: wer Sie sind, worauf Sie sich spezialisiert haben, wie die Zusammenarbeit abläuft. Der Ratgeber <a href=\"/wissen/vertrauen-online/\">Vertrauen online aufbauen</a> geht darauf genauer ein.</p>"
+    },
+    {
+      "h2": "Was je nach Beruf zählt",
+      "html": "<ul><li><strong>Steuerberatung:</strong> Schwerpunkte wie Gründung, Vermietung oder Landwirtschaft, Ablauf des ersten Termins, Liste der nötigen Unterlagen. Mehr bei <a href=\"/branchen/steuerberater/\">Steuerberatern</a>.</li><li><strong>Psychotherapie:</strong> Methode in einfachen Worten, Hinweise zu Kosten und Zuschüssen, ein ruhiger, unaufdringlicher Ton. Diskretion sollte in jedem Detail spürbar sein.</li><li><strong>Architektur- oder Planungsbüro:</strong> wenige, gut fotografierte Projekte statt einer langen Liste, dazu ein Satz zu Ihrer Haltung.</li></ul>"
+    },
+    {
+      "h2": "Die Seite über Sie selbst",
+      "html": "<p>Bei Freiberuflern ist die Vorstellungsseite häufig die wichtigste. Sie sollte ein echtes Foto zeigen, Ausbildung und Erfahrung nennen, aber auch etwas Persönliches. Ein Satz wie „Ich arbeite seit vielen Jahren mit Familienbetrieben aus der Region“ sagt mehr als ein langer Lebenslauf. Tipps dazu im Ratgeber <a href=\"/wissen/ueber-uns-seite/\">Über-uns-Seite</a>.</p>"
+    },
+    {
+      "h2": "Rechtliches und Standesregeln",
+      "html": "<p>Für viele Freiberufe gelten Regeln zur Werbung und zur Offenlegung, etwa Angaben im Impressum. Wir setzen die üblichen Pflichtangaben um, die verbindliche Prüfung für Ihren Beruf übernimmt aber Ihre Kammer oder ein Anwalt. Erste Orientierung bietet die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p>"
+    },
+    {
+      "h2": "Kosten und Start",
+      "html": "<p>Die Starter-Website beginnt bei 2.500 € und umfasst bis zu fünf Seiten. Für die meisten Kanzleien und Praxen reicht das gut. Mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, regionale Informationen auf <a href=\"/regionen/bezirk-moedling/\">Bezirk Mödling</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Sollte ich als Freiberufler meine Preise online nennen?",
+      "a": "Das hängt vom Beruf und den Standesregeln ab. Wo es erlaubt ist, helfen Richtwerte oder Beispiele, weil Interessenten dann besser einschätzen können, ob es passt. Bei Leistungen, deren Umfang stark schwankt, genügt ein Hinweis auf ein unverbindliches Erstgespräch mit klarer Aussage, ob dieses etwas kostet. Im Zweifel fragen Sie Ihre Kammer."
+    },
+    {
+      "q": "Wie viel Persönliches gehört auf die Website?",
+      "a": "Genug, dass man ein Gefühl für die Person bekommt, aber nicht mehr, als Ihnen angenehm ist. Ein freundliches Foto, ein paar Sätze zu Ihrem Weg und dazu, warum Sie Ihren Beruf gerne machen, reichen. Private Details wie Familie oder Hobbys sind kein Muss. Wichtig ist, dass der Ton zu Ihnen passt, wenn Klienten Sie dann persönlich treffen."
+    },
+    {
+      "q": "Wie unterscheide ich mich online von vielen ähnlichen Kanzleien?",
+      "a": "Über Spezialisierung und Klarheit. Statt „umfassende Beratung in allen Bereichen“ hilft es, zwei oder drei Schwerpunkte zu nennen, in denen Sie besonders erfahren sind. Typische Fragen Ihrer Klienten mit kurzen Antworten zeigen Kompetenz, ohne zu werben. Diese Inhalte helfen auch dabei, von Google und KI-Suchen besser verstanden zu werden."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-moedling/",
+    "/regionen/industrieviertel/",
+    "/wissen/ueber-uns-seite/",
+    "/branchen/steuerberater/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "ki-sichtbarkeit"
+  ]
+}

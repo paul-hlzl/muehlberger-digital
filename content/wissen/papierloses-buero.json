@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/papierloses-buero/",
+  "title": "Das papierlose Büro: Schritt für Schritt umstellen",
+  "description": "Das papierlose Büro im kleinen Betrieb: Bestandsaufnahme, Ablagestruktur, Scan-Routine, Sicherung und Automatisierung – mit Checkliste und typischen Fehlern.",
+  "h1": "Das papierlose Büro: So gelingt der Umstieg im kleinen Betrieb",
+  "kicker": "Ratgeber · Automatisierung",
+  "lead": "Ein papierloses Büro bedeutet nicht, dass nie wieder ein Blatt Papier im Haus liegt, sondern dass Belege, Verträge und Notizen digital ankommen, an einem festen Ort abgelegt und in Sekunden wiedergefunden werden. Kleine Betriebe stellen am besten schrittweise um: zuerst alle neuen Eingänge, dann Ablage und Sicherung, das alte Archiv ganz zum Schluss.",
+  "fakten": [
+    "Realistisches Ziel ist meist „papierarm“: neue Unterlagen digital, Altbestand nach Bedarf",
+    "Eine einfache, für alle verständliche Ordner- und Dateinamen-Struktur ist wichtiger als jedes Programm",
+    "Aufbewahrungspflichten gelten auch digital – Details mit der Steuerberatung klären",
+    "Ohne regelmäßige Datensicherung ist ein digitales Büro riskanter als ein Papierordner",
+    "Automatisierungen übernehmen das Ablegen, Benennen und Weiterleiten wiederkehrender Dokumente"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was „papierlos“ im Alltag eines kleinen Betriebs bedeutet",
+      "html": "<p>Im Kern geht es um vier Dinge: Unterlagen kommen digital an, sie werden an einer zentralen Stelle abgelegt, jeder Berechtigte findet sie schnell wieder, und sie lassen sich ohne Kopierer weitergeben. Ob dabei noch ein Ordner im Regal steht, ist zweitrangig.</p><p>Für die meisten Betriebe ist „papierarm“ das ehrlichere Ziel. Manche Kunden schicken weiterhin Briefe, manche Behördenpost kommt auf Papier, und auf der Baustelle ist ein ausgedruckter Plan oft praktischer als ein Tablet. Entscheidend ist, dass Papier nicht mehr die Stelle ist, an der Informationen verloren gehen.</p>"
+    },
+    {
+      "h2": "Schritt 1: Herausfinden, wo im Betrieb Papier entsteht",
+      "html": "<p>Bevor Sie einen Scanner kaufen, lohnt sich eine Woche Beobachtung. Notieren Sie, welche Unterlagen täglich durch Ihre Hände gehen und woher sie kommen. Typische Quellen in kleinen Betrieben:</p><ul><li>Eingangsrechnungen und Lieferscheine von Lieferanten</li><li>Stundenzettel, Arbeits- oder Regieberichte der Mitarbeiter</li><li>Angebote, Aufträge und unterschriebene Verträge</li><li>Notizen aus Kundengesprächen und Besprechungen</li><li>Post von Behörden, Versicherungen und Banken</li><li>Ausgangsrechnungen, die noch ausgedruckt und verschickt werden</li></ul><p>Oft zeigt sich dabei: Ein Großteil des Papiers entsteht im eigenen Betrieb. Stundenzettel oder Ausgangsrechnungen auf digital umzustellen, ist deshalb meist einfacher als die Lieferanten zu ändern.</p>"
+    },
+    {
+      "h2": "Schritt 2: Eine Ablagestruktur, die jeder versteht",
+      "html": "<p>Die beste Software hilft nicht, wenn jeder anders ablegt. Legen Sie eine einfache Ordnerstruktur fest, zum Beispiel nach Jahr, dann nach Bereich (Eingangsrechnungen, Ausgangsrechnungen, Kunden, Personal, Verträge). Mehr als drei Ebenen braucht kaum ein kleiner Betrieb.</p><p>Ebenso wichtig sind einheitliche Dateinamen. Bewährt hat sich ein Schema wie <strong>Datum_Absender_Inhalt</strong>, also etwa „2026-03-14_Holzhandel_Rechnung-Lieferung-Eiche“. So sortieren sich Dateien automatisch nach Zeit und lassen sich über die Suche finden. Schreiben Sie die Regeln auf eine Seite und hängen Sie sie dort aus, wo abgelegt wird.</p><p>Speichern Sie alles an einem zentralen Ort, auf den das Team Zugriff hat, und vergeben Sie Rechte bewusst: Personalunterlagen gehören nicht in denselben Ordner wie Lieferscheine. Worauf Sie bei Online-Speichern achten sollten, lesen Sie im Beitrag <a href=\"/wissen/cloud-speicher/\">Cloud-Speicher und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Schritt 3: Digital empfangen statt scannen",
+      "html": "<p>Jedes Dokument, das gar nicht erst auf Papier ankommt, spart Arbeit. Bitten Sie Lieferanten aktiv um Rechnungen als PDF und richten Sie dafür eine eigene E-Mail-Adresse ein, etwa rechnungen@ihrbetrieb.at. Dann landen Belege nicht verstreut in persönlichen Postfächern.</p><p>Für das, was trotzdem auf Papier kommt, braucht es eine feste Routine:</p><ul><li>Eine Scan-App am Smartphone für unterwegs, etwa für Lieferscheine auf der Baustelle</li><li>Einen kleinen Dokumentenscanner mit Einzug im Büro für größere Stapel</li><li>Einen fixen Zeitpunkt, an dem gescannt wird – täglich oder einmal pro Woche</li><li>Eine klare Regel, was danach mit dem Papier passiert</li></ul><p>Ein Beispiel: In einer Tischlerei mit vier Mitarbeitern fotografiert jeder Monteur den unterschriebenen Lieferschein direkt beim Kunden. Das Foto landet automatisch im richtigen Auftragsordner, und das Büro muss am Freitag keine zerknitterten Zettel mehr aus dem Firmenbus sammeln.</p>"
+    },
+    {
+      "h2": "Aufbewahrung, Datensicherung und Datenschutz",
+      "html": "<p>Digital heißt nicht, dass Aufbewahrungspflichten wegfallen. Für Buchhaltungsunterlagen gelten gesetzliche Fristen, und die Dokumente müssen während dieser Zeit vollständig, unverändert und lesbar bleiben. Ob und wann Sie Papieroriginale nach dem Scannen entsorgen dürfen, klären Sie bitte mit Ihrer Steuerberatung, bevor Sie den ersten Ordner leeren.</p><p>Mindestens genauso wichtig ist die Datensicherung. Ein abgebrannter Papierordner ist ein Unglück, eine kaputte Festplatte ohne Backup ebenso. Bewährt ist der Grundsatz, wichtige Daten mehrfach und an getrennten Orten zu sichern, und regelmäßig zu testen, ob sich eine Sicherung tatsächlich zurückspielen lässt. Mehr dazu im Ratgeber <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>.</p><p>Viele Dokumente enthalten personenbezogene Daten von Kunden und Mitarbeitern. Zugriffsrechte, Speicherort und Löschfristen sollten deshalb geregelt sein. Diese Hinweise sind eine allgemeine Orientierung; im Einzelfall helfen die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> oder eine Anwältin weiter.</p>"
+    },
+    {
+      "h2": "Wo Automatisierung das Ablegen übernimmt",
+      "html": "<p>Sobald Dokumente digital ankommen, lassen sich viele Handgriffe automatisieren. Typische Beispiele aus kleinen Betrieben:</p><ul><li>Rechnungen aus dem E-Mail-Postfach werden erkannt, nach Schema benannt und im richtigen Ordner abgelegt</li><li>Belege gehen automatisch an die Buchhaltung oder Steuerberatung weiter</li><li>Ein Online-Formular ersetzt den Papier-Auftragszettel und legt den Auftrag direkt an</li><li>Besprechungen werden nicht mehr händisch mitgeschrieben, sondern mit <a href=\"/produkte/noteit/\">noteit</a> als fertiges Protokoll gespeichert</li></ul><p>Weitere Ideen finden Sie unter <a href=\"/wissen/belege-digital/\">Rechnungen und Belege digital ablegen</a>. Wichtig ist die Reihenfolge: Erst wenn Struktur und Routine stehen, bringt Automatisierung echten Nutzen. Ein chaotischer Ablauf wird durch Software nur schneller chaotisch.</p>"
+    },
+    {
+      "h2": "Wann sich der Aufwand nicht lohnt und typische Fehler",
+      "html": "<p>Ehrlich gesagt: Ein Ein-Personen-Betrieb mit wenigen Belegen im Monat braucht keine aufwendige Dokumentenverwaltung. Dort reichen ein gut benannter Ordner in der Cloud, die Scan-App am Handy und eine regelmäßige Sicherung.</p><p>Häufige Fehler bei der Umstellung:</p><ul><li>Das gesamte Altarchiv auf einmal scannen wollen – das kostet Wochen und bringt wenig</li><li>Mehrere Programme parallel einführen, die nicht zusammenarbeiten</li><li>Regeln nur im Kopf der Chefin oder des Chefs, nicht schriftlich für alle</li><li>Keine Datensicherung oder eine, die nie getestet wurde</li></ul><p>Wenn Sie wissen möchten, welche Schritte in Ihrem Betrieb am meisten Zeit sparen, besprechen wir das gern im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>. Die technische Umsetzung von Automatisierungen übernimmt unser Partner <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Pipeline AI Solutions</a>; einen Überblick gibt auch die Seite <a href=\"/leistungen/ki-automatisierung/\">KI und Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Papierbelege nach dem Scannen wegwerfen?",
+      "a": "Das hängt von der Art des Dokuments und den geltenden Aufbewahrungsvorschriften ab. Für Buchhaltungsunterlagen gibt es gesetzliche Fristen, und die digitale Kopie muss vollständig, unverändert und lesbar bleiben. Manche Originale, etwa bestimmte Verträge, sollten Sie ohnehin aufheben. Klären Sie das vor der Umstellung mit Ihrer Steuerberatung und halten Sie die Regel schriftlich fest."
+    },
+    {
+      "q": "Welche Ausstattung braucht ein kleiner Betrieb für das papierlose Büro?",
+      "a": "Für den Anfang reichen eine Scan-App am Smartphone, ein zentraler Speicherort mit Zugriff für das Team und eine verlässliche Datensicherung. Ein kleiner Dokumentenscanner mit Einzug lohnt sich, sobald regelmäßig Stapel an Papier anfallen. Wichtiger als die Geräte sind eine einfache Ordnerstruktur und feste Regeln, wer wann was ablegt."
+    },
+    {
+      "q": "Wie lange dauert die Umstellung auf ein papierloses Büro?",
+      "a": "Die Grundlagen – Ablagestruktur, digitale Eingänge, Scan-Routine und Sicherung – lassen sich in einem kleinen Betrieb meist innerhalb weniger Wochen einführen. Länger dauert es, bis alle im Team die neuen Gewohnheiten verinnerlicht haben. Das Altarchiv sollten Sie nicht auf einmal digitalisieren, sondern nur nach Bedarf, wenn ein altes Dokument tatsächlich gebraucht wird."
+    },
+    {
+      "q": "Ist ein digitales Büro sicherer als Papier?",
+      "a": "Es kann sicherer sein, weil Zugriffsrechte, Sicherungen und Verschlüsselung möglich sind, die ein Papierordner nicht bietet. Ohne regelmäßige und getestete Datensicherung, sichere Passwörter und klare Berechtigungen ist es aber riskanter. Ein digitales Büro ist genau so sicher, wie es eingerichtet und gepflegt wird. Bei Fragen zum Datenschutz hilft die Datenschutzbehörde weiter."
+    }
+  ],
+  "verwandt": [
+    "/wissen/belege-digital/",
+    "/wissen/e-mails-sortieren/",
+    "/wissen/digitalisierung-wo-anfangen/",
+    "/leistungen/ki-automatisierung/",
+    "/wissen/cloud-speicher/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/ki-grenzen/",
+  "title": "Grenzen und Risiken von KI für kleine Betriebe",
+  "description": "Grenzen und Risiken von KI ehrlich erklärt: erfundene Fakten, Datenschutz, Recht, Abhängigkeit – und eine Checkliste, mit der Sie die Risiken klein halten.",
+  "h1": "Grenzen und Risiken von KI: Was Betriebe wissen sollten",
+  "kicker": "Ratgeber · KI",
+  "lead": "KI formuliert überzeugend, weiß aber nicht sicher, was stimmt. Die wichtigsten Risiken für kleine Betriebe sind erfundene Fakten („Halluzinationen“), fehlendes Wissen über den eigenen Betrieb, Datenschutz, offene Rechtsfragen und die Abhängigkeit von Anbietern. Mit klaren Regeln, eigenen geprüften Inhalten und menschlicher Kontrolle sind diese Risiken gut beherrschbar.",
+  "fakten": [
+    "KI-Antworten klingen sicher, auch wenn sie falsch sind",
+    "Ohne Ihre Inhalte kennt eine KI weder Preise noch Abläufe Ihres Betriebs",
+    "Personenbezogene Daten nur in Werkzeuge mit geklärtem Datenschutz",
+    "Entscheidungen über Menschen, Geld und Recht trifft ein Mensch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Risiko 1: Erfundene Fakten",
+      "html": "<p>Sprachmodelle erzeugen Text, der wahrscheinlich klingt. Ob er stimmt, prüfen sie nicht von selbst. So entstehen sogenannte <a href=\"/glossar/halluzination/\">Halluzinationen</a>: falsche Öffnungszeiten, erfundene Normen, nicht existierende Förderungen, ausgedachte Quellen. Das Tückische ist der Ton, denn die falsche Antwort klingt genauso sicher wie die richtige.</p><p>Typische Situation: Ein Elektriker fragt einen KI-Assistenten nach einer Vorschrift für eine Installation im Bad. Die Antwort ist flüssig, nennt eine Norm und eine Zahl. Ob beides stimmt, weiß er erst, wenn er selbst nachschlägt.</p><p>Abhilfe: Fakten immer an der Quelle prüfen und KI dort einsetzen, wo Sie das Ergebnis leicht kontrollieren können, etwa beim Umformulieren eines eigenen Textes.</p>"
+    },
+    {
+      "h2": "Risiko 2: Die KI kennt Ihren Betrieb nicht",
+      "html": "<p>Eine allgemeine KI weiß nichts über Ihre Preise, Ihr Liefergebiet, Ihre Stammkunden oder Ihre Abläufe. Fragt ein Kunde einen beliebigen Chatbot nach Ihnen, bekommt er bestenfalls, was irgendwo im Internet steht, schlimmstenfalls eine Vermutung.</p><p>Deshalb arbeiten seriöse Betriebslösungen mit einer Wissensbasis: Die KI sucht zuerst in Ihren eigenen Inhalten und formuliert nur daraus eine Antwort. Das Verfahren heißt <a href=\"/glossar/rag/\">RAG</a> und senkt das Risiko erfundener Antworten deutlich, beseitigt es aber nicht ganz. Gut gebaute Lösungen sagen deshalb ehrlich „Das weiß ich nicht“ und verbinden mit einem Menschen.</p>"
+    },
+    {
+      "h2": "Risiko 3: Datenschutz und Geschäftsgeheimnisse",
+      "html": "<p>Was Sie in ein KI-Programm eingeben, verlässt Ihren Betrieb. Je nach Anbieter und Konto kann es gespeichert, ausgewertet oder für Verbesserungen genutzt werden. Für Kundendaten, Gesundheitsdaten, Gehälter oder Kalkulationen ist das heikel.</p><ul> <li>Private Gratis-Konten nicht für Betriebsdaten verwenden.</li><li>Vertragsbedingungen des Anbieters lesen, besonders zu Speicherort und Training.</li><li>Für die Verarbeitung personenbezogener Daten einen Auftragsverarbeitungsvertrag abschließen.</li><li>Namen und Kontaktdaten weglassen, wenn sie für die Aufgabe nicht nötig sind.</li></ul> <p>Einen ausführlicheren Überblick bietet <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>. Allgemeine Informationen stellt die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> bereit.</p>"
+    },
+    {
+      "h2": "Risiko 4: Rechtliche Fragen und Verantwortung",
+      "html": "<p>Rechtlich bleibt der Betrieb verantwortlich für das, was er veröffentlicht oder einem Kunden sagt, auch wenn es eine KI formuliert hat. Dazu kommen neue Regeln: Der <a href=\"/wissen/eu-ai-act/\">EU AI Act</a> verlangt unter anderem Transparenz, wenn Menschen mit einer KI interagieren, und ausreichende KI-Kompetenz bei Personen, die KI im Betrieb einsetzen.</p><p>Offen sind manche Fragen beim Urheberrecht, etwa ob KI-Texte und -Bilder geschützt sind und ob sie fremde Werke zu nahe nachbilden. Mehr dazu unter <a href=\"/wissen/ki-texte-urheberrecht/\">KI-Texte und Urheberrecht</a>.</p><p>Diese Seite ist eine allgemeine Orientierung, keine Rechtsberatung. Im Einzelfall helfen die <a href=\"https://www.wko.at/\">WKO</a>, eine Anwältin oder ein Anwalt.</p>"
+    },
+    {
+      "h2": "Risiko 5: Abhängigkeit, Kosten und Einseitigkeit",
+      "html": "<p>Wer einen Ablauf ganz auf ein bestimmtes KI-Werkzeug baut, hängt von dessen Preisen, Bedingungen und Verfügbarkeit ab. Fragen Sie deshalb vorab: Kann ich meine Daten exportieren? Was passiert, wenn der Dienst ausfällt? Ist das Abo monatlich kündbar?</p><p>Ein weiteres, oft übersehenes Risiko: KI-Modelle übernehmen Muster aus ihren Trainingsdaten, auch einseitige. Bei Stellenanzeigen, Bewerberauswahl oder Kreditentscheidungen kann das zu unfairen Ergebnissen führen. Solche Entscheidungen über Menschen gehören nicht in die Hand einer KI.</p><p>Und schließlich das menschliche Risiko: Wer sich zu sehr auf KI verlässt, prüft irgendwann nicht mehr. Kontrolle muss fester Teil des Ablaufs sein, nicht eine gute Absicht.</p>"
+    },
+    {
+      "h2": "Checkliste: So halten Sie KI-Risiken klein",
+      "html": "<ul><li>Für jede KI-Anwendung festlegen, wer das Ergebnis prüft.</li><li>KI mit eigenen, aktuellen Inhalten arbeiten lassen statt mit allgemeinem Wissen.</li><li>Keine sensiblen Daten in nicht freigegebene Werkzeuge eingeben.</li><li>Kunden offenlegen, wenn sie mit einer KI schreiben oder sprechen.</li><li>Immer einen Weg zu einem Menschen anbieten.</li><li>Keine Zusagen zu Preisen, Terminen oder Rechtsfragen durch die KI.</li><li>Einmal im Monat Stichproben der Ergebnisse durchsehen.</li></ul> <p>Ein Beispiel für eine Lösung mit diesen Grenzen ist <a href=\"/produkte/pipebot/\">Pipebot</a>: Der Chatbot antwortet nur mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit Ihrem Team. Wo KI in Ihrem Betrieb sinnvoll ist und wo nicht, besprechen wir gern im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, ehrlich auch mit dem Ergebnis „lieber nicht“.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine KI-Halluzination?",
+      "a": "Eine Halluzination ist eine Antwort, die eine KI erfindet, obwohl sie sachlich falsch ist, etwa eine nicht existierende Quelle, eine falsche Zahl oder eine ausgedachte Regel. Sie entsteht, weil Sprachmodelle wahrscheinliche Wortfolgen erzeugen und nicht automatisch Fakten prüfen. Verringern lässt sich das, indem die KI mit eigenen geprüften Inhalten arbeitet und ein Mensch wichtige Aussagen kontrolliert."
+    },
+    {
+      "q": "Ist KI für kleine Betriebe gefährlich?",
+      "a": "Nicht grundsätzlich. Gefährlich wird es, wenn KI ohne Kontrolle Zusagen macht, mit sensiblen Daten gefüttert wird oder Entscheidungen über Menschen trifft. Für Entwürfe, Zusammenfassungen und das Beantworten von Standardfragen aus eigenen Inhalten ist das Risiko überschaubar, wenn klare Regeln gelten und immer ein Weg zu einem Menschen offensteht."
+    },
+    {
+      "q": "Wer haftet, wenn eine KI einem Kunden etwas Falsches sagt?",
+      "a": "Grundsätzlich ist der Betrieb verantwortlich, der die KI einsetzt, so wie bei Aussagen von Mitarbeitenden. Deshalb sollten Chatbots und Telefonassistenten keine verbindlichen Zusagen zu Preisen oder Leistungen machen und bei Unsicherheit an einen Menschen verweisen. Wie die Haftung im Einzelfall aussieht, klären Sie am besten mit WKO oder einer Anwältin."
+    },
+    {
+      "q": "Wann sollte ich auf KI lieber verzichten?",
+      "a": "Wenn Fehler teuer oder gefährlich wären und sich das Ergebnis schlecht prüfen lässt, etwa bei medizinischen, rechtlichen oder sicherheitsrelevanten Auskünften. Ebenso bei Entscheidungen über Bewerber oder Kunden und bei sehr persönlicher Kommunikation. Auch wenn kaum wiederkehrende Aufgaben anfallen, bringt KI wenig, und die Einführung kostet mehr Zeit, als sie spart."
+    },
+    {
+      "q": "Werden KI-Modelle mit der Zeit zuverlässiger?",
+      "a": "Die Modelle werden laufend verbessert und machen bei vielen Aufgaben weniger Fehler als frühere Versionen. Fehlerfrei werden sie aber nach heutigem Stand nicht, weil das Grundprinzip gleich bleibt: Sie erzeugen wahrscheinliche Antworten. Für Betriebe heißt das, Kontrolle und eigene geprüfte Inhalte bleiben auch mit neueren Modellen wichtig."
+    }
+  ],
+  "verwandt": [
+    "/glossar/halluzination/",
+    "/wissen/ki-und-datenschutz/",
+    "/wissen/eu-ai-act/",
+    "/wissen/ki-texte-urheberrecht/",
+    "/wissen/ki-schulung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

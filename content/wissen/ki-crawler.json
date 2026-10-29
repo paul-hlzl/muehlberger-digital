@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/ki-crawler/",
+  "title": "KI-Crawler auf der Website zulassen oder sperren",
+  "description": "KI-Crawler wie GPTBot oder ClaudeBot zulassen oder sperren? Was die Bots tun, wie die robots.txt sie steuert und welche Einstellung für kleine Betriebe passt.",
+  "h1": "KI-Crawler auf der Website zulassen oder sperren",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "Für die meisten kleinen Betriebe ist es sinnvoll, KI-Crawler zuzulassen, zumindest jene, die für Such- und Antwortfunktionen zuständig sind, denn wer sie sperrt, kann in ChatGPT, Perplexity und Co. kaum mit aktuellen Inhalten erscheinen. Wer seine Texte nicht für das Training von KI-Modellen freigeben will, kann Trainings-Crawler über die robots.txt gezielt ausschließen.",
+  "fakten": [
+    "KI-Crawler sind Programme, die Websites für KI-Anbieter lesen",
+    "Es gibt Crawler für das Training von Modellen und solche für Live-Suchen",
+    "Gesteuert wird der Zugriff über die Datei robots.txt",
+    "Die robots.txt ist eine Bitte, kein technischer Schutz",
+    "Das Sperren von Google-Extended betrifft nicht die normale Google-Suche"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was KI-Crawler sind",
+      "html": "<p>Ein <a href=\"/glossar/crawler/\">Crawler</a> ist ein Programm, das Websites automatisch besucht und ihre Inhalte liest. Suchmaschinen wie Google nutzen Crawler seit jeher. Inzwischen schicken auch KI-Anbieter eigene Crawler los, etwa OpenAI für ChatGPT, Anthropic für Claude oder Perplexity für die gleichnamige Suche.</p> <p>Jeder Crawler meldet sich mit einem Namen, dem sogenannten User-Agent. An diesem Namen erkennt Ihre Website, wer zu Besuch ist, und kann ihm über die robots.txt sagen, was er lesen darf.</p>"
+    },
+    {
+      "h2": "Training oder Suche: der entscheidende Unterschied",
+      "html": "<p>KI-Crawler haben unterschiedliche Aufgaben, und genau das ist für Ihre Entscheidung wichtig:</p> <ul> <li><strong>Trainings-Crawler</strong> sammeln Texte, mit denen künftige Sprachmodelle trainiert werden. Ihre Inhalte fließen dann in das allgemeine Wissen des Modells ein, meist ohne Quellenangabe.</li> <li><strong>Such-Crawler</strong> lesen Seiten, damit die KI-Suche aktuelle Antworten geben und auf Quellen verweisen kann. Das ist der Weg, über den Ihr Betrieb in Antworten genannt und verlinkt wird.</li> <li><strong>Abrufe im Auftrag von Nutzern</strong>: Wenn jemand ChatGPT bittet, eine bestimmte Seite zu lesen, ruft das System die Seite direkt ab.</li> </ul> <p>Viele Anbieter haben für diese Aufgaben getrennte Crawler. Sie können also das Training ablehnen und trotzdem in der Suche sichtbar bleiben.</p>"
+    },
+    {
+      "h2": "Die wichtigsten KI-Crawler im Überblick",
+      "html": "<ul> <li><strong>GPTBot</strong> (OpenAI): sammelt Inhalte für das Training von Modellen.</li> <li><strong>OAI-SearchBot</strong> (OpenAI): liest Seiten für die Suchfunktion von ChatGPT.</li> <li><strong>ChatGPT-User</strong> (OpenAI): ruft Seiten ab, wenn ein Nutzer das im Gespräch auslöst.</li> <li><strong>ClaudeBot</strong> (Anthropic): sammelt Inhalte für Claude.</li> <li><strong>PerplexityBot</strong> (Perplexity): liest Seiten für die Antwortsuche.</li> <li><strong>Google-Extended</strong> (Google): kein eigener Crawler, sondern eine Steuerungsangabe dafür, ob Inhalte für Gemini-Modelle genutzt werden dürfen. Die normale Google-Suche ist davon nicht betroffen.</li> <li><strong>CCBot</strong> (Common Crawl): baut ein offenes Webarchiv auf, das viele KI-Projekte nutzen.</li> </ul> <p>Die Liste ändert sich laufend, weil neue Anbieter dazukommen und bestehende ihre Crawler umbenennen. Prüfen Sie die aktuellen Angaben bei den jeweiligen Anbietern.</p>"
+    },
+    {
+      "h2": "So steuern Sie den Zugriff mit der robots.txt",
+      "html": "<p>Die <a href=\"/glossar/robots-txt/\">robots.txt</a> liegt im Hauptverzeichnis Ihrer Website, also unter beispiel.at/robots.txt. Darin steht pro Crawler, was er darf. Ein Beispiel, das das Training durch OpenAI ablehnt, die ChatGPT-Suche aber erlaubt:</p> <p><em>User-agent: GPTBot<br>Disallow: /<br><br>User-agent: OAI-SearchBot<br>Allow: /</em></p> <p>„Disallow: /“ bedeutet: die ganze Website ist gesperrt. „Allow: /“ erlaubt alles. Wer nichts einträgt, erlaubt grundsätzlich den Zugriff. Viele Baukästen und Content-Management-Systeme bieten eigene Einstellungen dafür; bei WordPress helfen SEO-Plugins. Testen Sie nach jeder Änderung, ob Google weiterhin Zugriff hat, denn ein Tippfehler kann die ganze Website aus der Suche nehmen.</p>"
+    },
+    {
+      "h2": "Welche Einstellung für Ihren Betrieb passt",
+      "html": "<p>Eine pauschal richtige Antwort gibt es nicht, aber eine gute Faustregel:</p> <ul> <li><strong>Handwerk, Gastronomie, Dienstleister, Praxen:</strong> Sie wollen gefunden werden. Lassen Sie Such-Crawler zu. Ob Sie Training erlauben, ist eine Grundsatzfrage; ein großer Nachteil für die Sichtbarkeit entsteht meist nicht, wenn Sie es ablehnen.</li> <li><strong>Betriebe mit eigenen Fachtexten als Produkt</strong>, etwa Verlage, Kursanbieter oder Fotografen mit Bildarchiv: Hier kann es sinnvoll sein, Trainings-Crawler auszuschließen, um die eigenen Inhalte zu schützen.</li> <li><strong>Alle:</strong> Sperren Sie nicht versehentlich alles. Manche Sicherheits-Plugins oder Hosting-Dienste blockieren KI-Bots inzwischen standardmäßig. Prüfen Sie, was bei Ihnen eingestellt ist.</li> </ul>"
+    },
+    {
+      "h2": "Was die robots.txt nicht kann",
+      "html": "<p>Die robots.txt ist eine höfliche Bitte, kein Schloss. Seriöse Anbieter halten sich daran, aber nicht jeder Crawler tut das. Wirklich geschützt sind Inhalte nur, wenn sie hinter einem Login liegen.</p> <p>Außerdem wirkt eine Sperre nur für die Zukunft. Was ein Modell bereits gelesen hat, bleibt in seinem Wissen. Und Inhalte, die auf anderen Websites über Sie stehen, etwa in Verzeichnissen oder Zeitungsartikeln, können weiterhin gelesen werden. Mehr dazu unter <a href=\"/wissen/ki-und-datenschutz/\">KI im Betrieb und Datenschutz</a> und <a href=\"/wissen/ki-texte-urheberrecht/\">KI-Texte und Urheberrecht</a>; in rechtlichen Einzelfragen hilft eine Anwältin oder die WKO weiter.</p>"
+    },
+    {
+      "h2": "So prüfen Sie Ihre aktuelle Einstellung",
+      "html": "<ol> <li>Rufen Sie im Browser Ihre Domain mit /robots.txt am Ende auf.</li> <li>Suchen Sie nach den Namen der KI-Crawler und nach „Disallow: /“ unter „User-agent: *“, was alle Crawler aussperren würde.</li> <li>Fragen Sie Ihren Hosting-Anbieter, ob eine Firewall oder ein Bot-Schutz KI-Crawler blockiert.</li> <li>Prüfen Sie in der Google Search Console, ob Google ungehindert zugreifen kann.</li> </ol> <p>Ob Ihre Website für Suchmaschinen und KI-Suchen gut lesbar ist, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>. Wie oft KI-Suchen Ihren Betrieb tatsächlich nennen, misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll ich GPTBot auf meiner Website sperren?",
+      "a": "GPTBot sammelt Inhalte für das Training künftiger OpenAI-Modelle. Wenn Sie nicht möchten, dass Ihre Texte dafür verwendet werden, können Sie ihn in der robots.txt sperren. Für die Sichtbarkeit in der ChatGPT-Suche ist ein anderer Crawler zuständig, der OAI-SearchBot. Lassen Sie diesen zu, wenn Ihr Betrieb in ChatGPT-Antworten mit aktuellen Inhalten und Links erscheinen soll."
+    },
+    {
+      "q": "Verliere ich Google-Rankings, wenn ich KI-Crawler sperre?",
+      "a": "Nein, solange Sie nur KI-Crawler sperren und nicht den Googlebot. Auch die Angabe Google-Extended, mit der Sie die Nutzung für Gemini-Modelle einschränken, wirkt sich laut Google nicht auf die normale Google-Suche aus. Vorsicht ist bei Sammelregeln geboten: Eine Sperre für alle Crawler unter „User-agent: *“ würde auch Google aussperren und Ihre Website aus der Suche nehmen."
+    },
+    {
+      "q": "Halten sich alle KI-Crawler an die robots.txt?",
+      "a": "Seriöse Anbieter wie OpenAI, Anthropic und Google geben an, die robots.txt zu beachten. Garantiert ist das aber nicht für jeden Crawler im Netz, und die Datei ist kein technischer Schutz, sondern eine Bitte. Inhalte, die wirklich nicht gelesen werden dürfen, gehören hinter einen Login. Für öffentliche Firmenwebsites reicht die robots.txt in der Praxis meist aus."
+    },
+    {
+      "q": "Wie erkenne ich, ob KI-Crawler meine Website besuchen?",
+      "a": "Die Besuche von Crawlern stehen in den Server-Protokollen Ihres Hostings, sogenannten Logfiles. Dort ist der Name jedes Besuchers vermerkt, etwa GPTBot oder PerplexityBot. Manche Hosting-Anbieter und Sicherheitsdienste zeigen das auch übersichtlich an. Normale Besucherstatistiken erfassen Crawler meist nicht. Fragen Sie im Zweifel Ihren Webbetreuer oder Hosting-Anbieter."
+    }
+  ],
+  "verwandt": [
+    "/glossar/robots-txt/",
+    "/glossar/crawler/",
+    "/wissen/llms-txt/",
+    "/wissen/was-ist-geo/",
+    "/leistungen/geo-ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

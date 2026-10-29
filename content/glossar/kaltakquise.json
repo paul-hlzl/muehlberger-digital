@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/kaltakquise/",
+  "title": "Kaltakquise erklärt: Regeln und Alternativen",
+  "description": "Kaltakquise einfach erklärt: Was die Ansprache unbekannter Kontakte bedeutet, welche Regeln in Österreich gelten und welche Wege sinnvoll sind.",
+  "h1": "Kaltakquise",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Kaltakquise ist die erste Kontaktaufnahme mit möglichen Kunden, die noch keine Beziehung zu Ihrem Betrieb haben und nicht von sich aus angefragt haben, etwa per Anruf, Brief, E-Mail oder persönlichem Besuch. In Österreich ist sie je nach Kanal stark eingeschränkt.",
+  "fakten": [
+    "Werbeanrufe ohne vorherige Einwilligung sind grundsätzlich unzulässig",
+    "Werbe-Mails brauchen in der Regel eine vorherige Zustimmung",
+    "Brief und persönlicher Besuch sind meist weniger streng geregelt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Kaltakquise in der Praxis aussieht",
+      "html": "<p>Ein Reinigungsunternehmen möchte Büros und Arztpraxen im Bezirk als Kunden gewinnen. Statt wahllos anzurufen, stellt die Inhaberin eine Liste passender Betriebe zusammen, schreibt jedem einen persönlichen Brief mit einem konkreten Angebot und stellt sich bei einigen Praxen kurz persönlich vor. Wer Interesse hat, meldet sich, und erst dann wird telefoniert.</p><p>Solche Ansprachen wirken besser, wenn sie auf den Empfänger zugeschnitten sind: Warum gerade dieser Betrieb, welches Problem wird gelöst, was ist der nächste kleine Schritt? Wer reagiert, wird zum <a href=\"/glossar/lead/\">Lead</a>; das Gegenmodell ist <a href=\"/glossar/inbound-marketing/\">Inbound-Marketing</a>.</p>"
+    },
+    {
+      "h2": "Rechtliche Grenzen und Alternativen für KMU",
+      "html": "<p>Nach österreichischem Recht sind Werbeanrufe und Werbe-E-Mails ohne vorherige Einwilligung grundsätzlich unzulässig, und zwar nicht nur gegenüber Privatpersonen. Für bestehende Kundenbeziehungen gibt es Ausnahmen. Die Details sind komplex; das hier ist nur eine allgemeine Orientierung. Klären Sie Ihr Vorgehen im Einzelfall mit der <a href=\"https://www.wko.at/\">WKO</a> oder einer Rechtsberatung; Informationen zu Werbe-Mails bietet auch die <a href=\"https://www.rtr.at/\">RTR</a>.</p><p>Mehr dazu im Ratgeber <a href=\"/wissen/kaltakquise-regeln/\">Kaltakquise-Regeln</a> und im Vergleich <a href=\"/vergleiche/kaltakquise-oder-inbound/\">Kaltakquise oder Inbound</a>. <a href=\"/produkte/sightup/\">SightUp</a> findet passende Firmen und schreibt eine erste Nachricht vor, verschickt aber nichts automatisch; welchen Kanal Sie zulässig nutzen, entscheiden Sie selbst.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Firmen in Österreich einfach anrufen, um meine Leistung anzubieten?",
+      "a": "Grundsätzlich brauchen Werbeanrufe in Österreich eine vorherige Einwilligung des Angerufenen, und das gilt nach herrschender Auffassung auch gegenüber Unternehmen. Ein unaufgeforderter Verkaufsanruf ist daher riskant. Ein Brief, ein persönlicher Besuch oder Kontakte über Netzwerke und Empfehlungen sind meist die sicherere Wahl. Für Ihren konkreten Fall sollten Sie sich bei der WKO informieren."
+    },
+    {
+      "q": "Lohnt sich Kaltakquise für kleine Betriebe überhaupt?",
+      "a": "Sie kann sich lohnen, wenn das Angebot klar ist, die Zielgruppe gut eingegrenzt wird und die Ansprache persönlich und zulässig erfolgt. Massenhafte, unpersönliche Ansprachen bringen dagegen wenig und schaden dem Ruf. Für viele kleine Betriebe ist eine Kombination sinnvoll: gute Sichtbarkeit, damit Kunden selbst anfragen, plus gezielte, persönliche Kontakte zu wenigen passenden Firmen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/kaltakquise-regeln/",
+    "/vergleiche/kaltakquise-oder-inbound/",
+    "/glossar/leadgenerierung/",
+    "/wissen/b2b-kunden-finden/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/website-texte-schreiben/",
+  "title": "Website-Texte schreiben, die Anfragen bringen",
+  "description": "So schreiben Sie Website-Texte, die Kunden überzeugen: aus Kundensicht, konkret statt Floskel, gut lesbar und für Google und KI-Suchen verständlich.",
+  "h1": "Website-Texte schreiben, die Anfragen bringen",
+  "kicker": "Ratgeber · Inhalte",
+  "lead": "Website-Texte bringen Anfragen, wenn sie aus Sicht des Kunden geschrieben sind: Sie beantworten die Fragen, die Interessenten wirklich haben, sagen konkret, was Sie für wen und wo anbieten, und machen den nächsten Schritt leicht. Kurze Absätze, klare Zwischenüberschriften und nachvollziehbare Belege wie Abläufe und Fotos wirken stärker als allgemeine Werbesätze.",
+  "fakten": [
+    "Aus Kundensicht schreiben: Was hat der Leser davon?",
+    "Konkrete Angaben statt Floskeln wie „hohe Qualität“",
+    "Pro Leistung eine eigene Seite mit klarer Struktur",
+    "Jeder Text endet mit einem klaren nächsten Schritt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Aus der Sicht des Kunden schreiben",
+      "html": "<p>Viele Firmenwebsites beginnen mit „Wir sind ein traditionsreiches Familienunternehmen“. Das stimmt vielleicht, beantwortet aber nicht die Frage des Besuchers: Kann mir dieser Betrieb bei meinem Problem helfen? Drehen Sie die Perspektive um und schreiben Sie vom Nutzen her.</p><p>Statt „Wir bieten Badsanierungen an“ etwa: „Sie wollen Ihr altes Bad barrierefrei umbauen? Wir planen mit Ihnen, koordinieren alle Gewerke und sagen Ihnen vorher, wie lange Sie ohne Dusche auskommen müssen.“ Der zweite Satz zeigt, dass Sie die Sorgen Ihrer Kunden kennen.</p>"
+    },
+    {
+      "h2": "Die Fragen sammeln, die Kunden wirklich stellen",
+      "html": "<p>Die besten Website-Texte entstehen nicht am Schreibtisch, sondern aus dem Alltag. Notieren Sie zwei Wochen lang, was Kunden am Telefon, per E-Mail oder vor Ort fragen. Typisch sind:</p><ul><li>Was kostet das ungefähr?</li><li>Wie lange dauert es, und wann haben Sie Zeit?</li><li>Kommen Sie auch zu uns in den Ort?</li><li>Was muss ich vorbereiten?</li><li>Was passiert, wenn etwas nicht passt?</li></ul><p>Jede dieser Fragen ist ein Abschnitt oder eine FAQ auf Ihrer Website. Ob und wie Sie Preise nennen, beleuchtet der Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website zeigen</a>.</p>"
+    },
+    {
+      "h2": "Konkret statt allgemein",
+      "html": "<p>„Qualität, Zuverlässigkeit, Kundenorientierung“ steht auf sehr vielen Websites und sagt deshalb nichts. Ersetzen Sie Floskeln durch Belege, die nur auf Sie zutreffen:</p><ul><li>Statt „schnell“: „Rückruf am selben Werktag“, wenn Sie das tatsächlich einhalten.</li><li>Statt „erfahren“: welche Arbeiten Sie regelmäßig machen und wie Sie vorgehen.</li><li>Statt „regional“: in welchen Orten und Bezirken Sie arbeiten.</li><li>Statt „persönlich“: wer ans Telefon geht und wer auf die Baustelle kommt.</li></ul><p>Versprechen Sie nur, was Sie halten können. Ein ehrlicher Satz wie „Im Frühjahr haben wir längere Wartezeiten“ schafft mehr Vertrauen als ein unrealistisches Versprechen.</p>"
+    },
+    {
+      "h2": "So ist eine gute Leistungsseite aufgebaut",
+      "html": "<ol><li><strong>Überschrift:</strong> Leistung und, wenn passend, Region, etwa „Dachsanierung im Waldviertel“.</li><li><strong>Einleitung:</strong> zwei, drei Sätze, die direkt sagen, was Sie anbieten und für wen.</li><li><strong>Für wen und wann:</strong> typische Anlässe und Situationen.</li><li><strong>Ablauf:</strong> die Schritte von der Anfrage bis zum Abschluss.</li><li><strong>Kosten:</strong> Richtwerte oder die Faktoren, die den Preis bestimmen.</li><li><strong>Häufige Fragen:</strong> die Fragen aus Ihrer Sammlung.</li><li><strong>Nächster Schritt:</strong> Anruf, Formular oder Termin, siehe <a href=\"/wissen/call-to-action/\">Call-to-Action</a>.</li></ol>"
+    },
+    {
+      "h2": "Lesbar am Bildschirm",
+      "html": "<p>Am Bildschirm wird nicht gelesen, sondern überflogen. Das Auge springt von Überschrift zu Überschrift und bleibt an Listen und fett gedruckten Stellen hängen. Schreiben Sie deshalb kurze Absätze mit zwei bis vier Sätzen, setzen Sie aussagekräftige Zwischenüberschriften und verwenden Sie Listen für Aufzählungen.</p><p>Fachbegriffe erklären Sie beim ersten Vorkommen in einem Halbsatz. Schreiben Sie so, wie Sie mit einem Kunden reden würden: freundlich, direkt, in ganzen Sätzen. Am Ende jeder Seite sollte klar sein, was der Leser jetzt tun kann.</p>"
+    },
+    {
+      "h2": "Texte, die Google und KI-Suchen verstehen",
+      "html": "<p>Suchmaschinen und KI-Assistenten wie ChatGPT suchen nach klaren Antworten. Wer am Anfang eines Abschnitts die Frage direkt beantwortet und erst danach ins Detail geht, wird eher zitiert. Verwenden Sie die Begriffe, die Ihre Kunden verwenden, also „Rauchfangkehrer“ statt nur „Schornsteinfeger“, ohne sie ständig zu wiederholen.</p><p>Wie Sie diese Begriffe finden, zeigt der Ratgeber <a href=\"/wissen/keywords-finden/\">Die richtigen Suchbegriffe finden</a>. Wie oft KI-Suchen Ihren Betrieb bereits nennen, prüft der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit einem Bericht innerhalb von 24 Stunden.</p>"
+    },
+    {
+      "h2": "Selbst schreiben, mit KI oder mit Unterstützung",
+      "html": "<p>Niemand kennt Ihren Betrieb so gut wie Sie. Deshalb sollten die Inhalte immer von Ihnen kommen, auch wenn jemand anderer formuliert. KI-Werkzeuge helfen beim Strukturieren und Glätten, brauchen aber Ihre Fakten und eine kritische Durchsicht. Tipps dazu finden Sie unter <a href=\"/wissen/website-texte-mit-ki/\">Website-Texte mit KI schreiben</a>.</p><p>Bei einer neuen Website erarbeiten wir die Texte gemeinsam mit Ihnen: Sie erzählen, wir stellen Fragen und formulieren. Was auf die wichtigste Seite gehört, lesen Sie im Ratgeber <a href=\"/wissen/startseite-aufbauen/\">So bauen Sie eine gute Startseite auf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lang sollten Website-Texte sein?",
+      "a": "So lang, dass die wichtigsten Fragen der Kunden beantwortet sind, und so kurz, dass nichts Überflüssiges drinsteht. Eine Leistungsseite mit Einleitung, Ablauf, Kostenhinweis und einigen häufigen Fragen ist oft mehrere hundert Wörter lang. Entscheidend ist nicht die Wortzahl, sondern ob ein Interessent nach dem Lesen weiß, ob Sie der richtige Ansprechpartner sind."
+    },
+    {
+      "q": "Soll ich auf der Website „Sie“ oder „du“ schreiben?",
+      "a": "Das hängt von Ihrer Zielgruppe und Ihrem Auftreten ab. In Österreich ist für die meisten Betriebe im Kundenkontakt das „Sie“ üblich und wirkt respektvoll. Ein „du“ kann zu jungen Zielgruppen, Fitnessstudios oder Kreativbranchen passen. Wichtig ist, dass Sie einheitlich bleiben und die Anrede zu der passt, die Kunden auch am Telefon erleben."
+    },
+    {
+      "q": "Wie oft muss ich Website-Texte überarbeiten?",
+      "a": "Prüfen Sie Ihre Texte mindestens einmal im Jahr: Stimmen Leistungen, Öffnungszeiten, Ansprechpartner und Einzugsgebiet noch? Zusätzlich lohnt es sich, Texte zu ergänzen, wenn Kunden immer wieder dieselbe Frage stellen, die auf der Website noch nicht beantwortet wird. Komplett neu schreiben müssen Sie gut funktionierende Texte dagegen nicht."
+    },
+    {
+      "q": "Darf ich Texte von anderen Websites übernehmen?",
+      "a": "Nein, fremde Texte sind in der Regel urheberrechtlich geschützt und dürfen nicht ohne Erlaubnis kopiert werden. Außerdem erkennen Suchmaschinen kopierte Inhalte und bewerten sie schlechter. Sie dürfen sich aber von Aufbau und Themen anderer Seiten inspirieren lassen und dieselben Fragen mit Ihren eigenen Worten und Ihren eigenen Erfahrungen beantworten."
+    },
+    {
+      "q": "Was ist der häufigste Fehler bei Website-Texten?",
+      "a": "Der häufigste Fehler ist, über sich selbst statt über den Kunden zu schreiben. Texte voller Floskeln wie „Qualität“ und „Kompetenz“ beantworten nicht, was Besucher wissen wollen: Was genau bieten Sie, für wen, wo, zu welchen Bedingungen und wie geht es weiter? Ebenfalls häufig fehlt am Ende ein klarer nächster Schritt, etwa eine Telefonnummer oder ein Anfrageformular."
+    }
+  ],
+  "verwandt": [
+    "/wissen/startseite-aufbauen/",
+    "/wissen/call-to-action/",
+    "/wissen/website-texte-mit-ki/",
+    "/wissen/keywords-finden/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "website-entwurf"
+  ]
+}

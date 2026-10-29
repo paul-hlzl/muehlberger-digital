@@ -1,0 +1,78 @@
+{
+ "pfad": "/leistungen/website-wartung-hosting/",
+ "title": "Website-Wartung und Hosting für kleine Betriebe",
+ "description": "Website-Wartung und Hosting verständlich erklärt: Updates, Backups, SSL, kleine Änderungen. Was nötig ist, was nicht, und wie die Betreuung abläuft.",
+ "h1": "Website-Wartung & Hosting",
+ "kicker": "Leistung · Betreuung",
+ "lead": "Website-Wartung bedeutet, dass Ihre Website nach dem Start sicher, erreichbar und aktuell bleibt: Updates, Sicherungen, Zertifikat, kleine Änderungen. Hosting ist der Speicherplatz, auf dem sie liegt. Bei einer Starter-Website ist das Hosting dabei; für bestehende Websites übernehmen wir Wartung und Hosting nach einem kurzen Blick auf den Ist-Zustand.",
+ "fakten": [
+  "Wartung umfasst Updates, Backups, SSL-Zertifikat, Kontrolle und kleine Änderungen",
+  "Starter-Website ab 2.500 € einmalig, Hosting ist im Leistungsumfang enthalten",
+  "Wartung für bestehende Websites: Preis auf Anfrage nach dem Erstgespräch",
+  "Schriftlich vereinbart, was enthalten ist und was extra kostet",
+  "Ehrlich: Manche Baukasten-Websites brauchen kaum externe Wartung"
+ ],
+ "abschnitte": [
+  {
+   "h2": "Was Website-Wartung konkret umfasst",
+   "html": "<p>Eine Website ist nach dem Start nicht fertig, sondern in Betrieb. Wie bei einem Firmenauto braucht sie regelmäßige, meist unspektakuläre Pflege, damit sie nicht im falschen Moment ausfällt. Zur Wartung gehören typischerweise:</p><ul><li><strong>Updates:</strong> Content-Management-System, Erweiterungen und Vorlagen aktuell halten, weil veraltete Software das häufigste Einfallstor für Angriffe ist.</li><li><strong>Backups:</strong> regelmäßige Sicherungen, die im Ernstfall auch wirklich zurückgespielt werden können.</li><li><strong>SSL-Zertifikat:</strong> damit die Website über „https“ erreichbar ist und Browser keine Warnung zeigen.</li><li><strong>Kontrolle:</strong> Ist die Website erreichbar, funktioniert das Kontaktformular, kommen die Anfragen an?</li><li><strong>Kleine Änderungen:</strong> neue Öffnungszeiten, ein geändertes Team-Foto, ein Hinweis auf den Betriebsurlaub.</li></ul><p>Was davon wie oft nötig ist, hängt stark von der Technik ab. Ausführlich beschrieben ist das im Ratgeber <a href=\"/wissen/website-wartung/\">Website-Wartung</a>.</p>"
+  },
+  {
+   "h2": "Hosting: der Teil, den man erst bemerkt, wenn er fehlt",
+   "html": "<p>Hosting ist der Server, auf dem Ihre Website liegt und von dem sie an Besucher ausgeliefert wird. Solange alles läuft, denkt niemand daran. Wenn die Website langsam lädt, die E-Mails nicht ankommen oder plötzlich gar nichts mehr erscheint, liegt die Ursache oft beim Hosting.</p><p>Für kleine Betriebe sind drei Fragen wichtig:</p><ul><li><strong>Wo stehen die Server?</strong> Für den Datenschutz ist ein Standort in Europa in der Regel einfacher. Mehr dazu im Ratgeber <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>.</li><li><strong>Wer ist zuständig, wenn etwas nicht geht?</strong> Ein Ansprechpartner, der Ihre Website kennt, spart viel Zeit gegenüber einer anonymen Hotline.</li><li><strong>Auf wen laufen Domain und Hosting?</strong> Domain und Zugänge sollten auf Ihren Betrieb laufen, nicht auf eine Person, die irgendwann nicht mehr erreichbar ist.</li></ul><p>Bei einer <a href=\"/leistungen/website-erstellen/\">Starter-Website</a> von Pipeline AI Solutions ist das Hosting Teil des Leistungsumfangs. Was genau enthalten ist, steht vorab im schriftlichen Angebot.</p>"
+  },
+  {
+   "h2": "Für wen sich eine Wartungsbetreuung lohnt – und für wen nicht",
+   "html": "<p>Eine laufende Betreuung lohnt sich vor allem, wenn:</p><ul><li>Ihre Website auf einem System wie WordPress läuft, das regelmäßige Updates braucht,</li><li>über die Website Anfragen, Buchungen oder Bestellungen hereinkommen, ein Ausfall also direkt Geld kostet,</li><li>niemand im Betrieb Zeit oder Lust hat, sich mit Technik zu beschäftigen,</li><li>die Person, die die Website damals gebaut hat, nicht mehr verfügbar ist.</li></ul><h3>Wann Sie wenig oder keine externe Wartung brauchen</h3><p>Wenn Ihre Website bei einem Baukasten-Anbieter liegt, kümmert sich meist der Anbieter um Server und Software-Updates. Dann bleiben nur inhaltliche Änderungen, die Sie selbst erledigen können. Auch bei sehr einfachen, statischen Websites fällt technisch wenig an. In diesen Fällen sagen wir Ihnen ehrlich, dass sich ein Wartungsvertrag nicht lohnt.</p>"
+  },
+  {
+   "h2": "So läuft die Übernahme einer bestehenden Website ab",
+   "html": "<ol><li><strong>Bestandsaufnahme:</strong> Wir sehen uns gemeinsam an, worauf Ihre Website läuft, wie alt die Software ist, wo sie gehostet wird und wer welche Zugänge hat.</li><li><strong>Zugänge klären:</strong> Domain, Hosting, Content-Management-System, E-Mail. Oft ist das der aufwendigste Teil, weil Passwörter fehlen oder Zugänge an ehemalige Dienstleister gebunden sind.</li><li><strong>Erstsicherung:</strong> Bevor irgendetwas verändert wird, gibt es ein vollständiges Backup.</li><li><strong>Aufräumen:</strong> überfällige Updates, unnötige Erweiterungen entfernen, Zertifikat prüfen.</li><li><strong>Laufende Betreuung:</strong> in einem vereinbarten Rhythmus, mit klarer Absprache, was enthalten ist.</li></ol><p>Manchmal zeigt die Bestandsaufnahme, dass sich Reparieren nicht mehr lohnt, weil die Technik zu alt ist. Dann besprechen wir offen, ob ein <a href=\"/leistungen/website-relaunch/\">Website-Relaunch</a> die bessere Lösung ist.</p>"
+  },
+  {
+   "h2": "Was Wartung und Hosting kosten",
+   "html": "<p>Für eine neue <strong>Starter-Website ab 2.500 € einmalig</strong> (bis zu 5 Seiten, inklusive Kontaktformular, Impressum, Datenschutz und Hosting) ist der Rahmen klar. Für die Wartung bestehender Websites nennen wir Ihnen den <strong>Preis nach dem kostenlosen Erstgespräch</strong>, weil der Aufwand stark davon abhängt, wie die Website gebaut ist und in welchem Zustand sie ist. Sie bekommen vorab ein schriftliches Angebot.</p><p>Wichtig ist uns, dass im Angebot steht, was enthalten ist und was extra kostet. Eine Faustregel: Technische Pflege gehört zur Wartung, neue Seiten oder ein neues Design sind eigene Aufträge.</p><p>Ein eigenes Thema ist die laufende Pflege der Sichtbarkeit in Google und KI-Suchen. Dafür gibt es bei Hittaro eine Wartung ab 20 € pro Monat. Eine Übersicht aller Richtpreise finden Sie unter <a href=\"/preise/\">Preise</a>, die laufenden Kosten einer Website im Überblick im Ratgeber <a href=\"/wissen/website-laufende-kosten/\">Laufende Kosten einer Website</a>.</p>"
+  },
+  {
+   "h2": "Typische Fehler nach dem Website-Start",
+   "html": "<ul><li><strong>Updates monatelang aufschieben:</strong> Je länger man wartet, desto größer und riskanter wird der Sprung.</li><li><strong>Backups nur auf demselben Server:</strong> Fällt der Server aus, ist die Sicherung mit weg.</li><li><strong>Nie testen, ob das Kontaktformular funktioniert:</strong> Manche Betriebe merken erst nach Wochen, dass Anfragen im Spam-Ordner landen oder gar nicht ankommen.</li><li><strong>Domain auf Privatperson oder Agentur:</strong> Beim Wechsel wird es dann kompliziert.</li><li><strong>Veraltete Inhalte:</strong> Technisch einwandfrei, aber mit Preisen von vor drei Jahren. Auch das gehört zur Pflege.</li></ul><p>Wie es um Ihre Website gerade steht, zeigt ein schneller Blick mit dem <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline</a>. Für alles Weitere vereinbaren Sie ein <a href=\"/erstgespraech/\">kostenloses Erstgespräch</a>.</p>"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Was gehört zur Website-Wartung?",
+   "a": "Zur Wartung gehören vor allem Software-Updates, regelmäßige Backups, die Pflege des SSL-Zertifikats, die Kontrolle, ob Website und Kontaktformular funktionieren, und kleinere inhaltliche Änderungen wie neue Öffnungszeiten. Was genau enthalten ist, sollte schriftlich vereinbart sein. Neue Seiten, ein neues Design oder größere Umbauten sind in der Regel eigene Aufträge und nicht Teil der laufenden Wartung."
+  },
+  {
+   "q": "Ist Hosting bei der Starter-Website dabei?",
+   "a": "Ja. Die Starter-Website ab 2.500 € einmalig umfasst bis zu 5 Seiten, eine Darstellung für Smartphone, Tablet und Computer, die Optimierung für Google und KI-Suchen, ein Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Welche Bedingungen für das Hosting im Detail gelten, steht vorab im schriftlichen Angebot, damit Sie wissen, woran Sie sind."
+  },
+  {
+   "q": "Übernehmen Sie auch Websites, die jemand anderer gebaut hat?",
+   "a": "Ja, das ist häufig der Fall. Zuerst sehen wir uns an, auf welcher Technik die Website läuft, wie aktuell sie ist und wer welche Zugänge hat. Dann sagen wir Ihnen ehrlich, ob sich die Übernahme lohnt oder ob ein Relaunch sinnvoller ist. Den Preis für die Wartung bekommen Sie nach dem kostenlosen Erstgespräch in einem schriftlichen Angebot."
+  },
+  {
+   "q": "Brauche ich Wartung, wenn meine Website mit einem Baukasten gebaut ist?",
+   "a": "Oft kaum. Bei Baukasten-Anbietern kümmert sich in der Regel der Anbieter um Server, Sicherheit und Software-Updates. Ihnen bleiben vor allem inhaltliche Änderungen, die Sie meist selbst erledigen können. Externe Unterstützung lohnt sich dann eher bei Fragen zu Texten, Sichtbarkeit in Google oder einem späteren Umzug auf eine eigene Lösung."
+  },
+  {
+   "q": "Was passiert, wenn meine Website gehackt wurde?",
+   "a": "Zuerst sollte die Website vom Netz genommen oder abgesichert werden, damit kein weiterer Schaden entsteht. Dann wird geprüft, wie der Angriff passiert ist, und eine saubere Sicherung zurückgespielt, sofern es eine gibt. Danach werden Zugänge geändert und Lücken geschlossen. Regelmäßige Updates und externe Backups sind die beste Vorsorge, damit es gar nicht so weit kommt."
+  },
+  {
+   "q": "Auf wen sollten Domain und Hosting laufen?",
+   "a": "Auf Ihren Betrieb. Domain und wichtige Zugänge sollten Ihnen gehören, auch wenn ein Dienstleister die Technik betreut. So bleiben Sie unabhängig, falls Sie später wechseln möchten oder die betreuende Person nicht mehr erreichbar ist. Bei einer Übernahme klären wir das als Erstes, weil fehlende Zugänge sonst jede weitere Arbeit verzögern."
+  }
+ ],
+ "verwandt": [
+  "/wissen/website-wartung/",
+  "/wissen/website-backup/",
+  "/wissen/wordpress-sicher-halten/",
+  "/vergleiche/hosting-europa-oder-usa/",
+  "/leistungen/website-relaunch/"
+ ],
+ "checks": [
+  "seo-check",
+  "website-entwurf"
+ ]
+}

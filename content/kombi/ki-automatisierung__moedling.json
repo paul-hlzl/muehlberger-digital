@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/moedling/",
+  "title": "KI-Automatisierung in Mödling für Büros & Dienstleister",
+  "description": "Prozessautomatisierung mit KI im Bezirk Mödling: Dokumente aus Vorlagen erstellen, Daten aus PDFs übernehmen, internes Wissen durchsuchbar machen.",
+  "h1": "KI & Prozessautomatisierung in Mödling",
+  "kicker": "KI-Automatisierung · Mödling",
+  "lead": "Im Bezirk Mödling südlich von Wien arbeiten viele Büros und Dienstleister mit großem Dokumentenaufkommen. KI-Automatisierung erstellt Schriftstücke aus Vorlagen, übernimmt Daten aus PDFs in Ihre Systeme und macht internes Wissen durchsuchbar, mit klaren Regeln für sensible Unterlagen.",
+  "fakten": [
+    "Dokumente aus Vorlagen statt Kopieren und Einfügen",
+    "Daten aus PDFs und Formularen automatisch übernehmen",
+    "Internes Wissen per Frage durchsuchen statt in Ordnern zu suchen",
+    "Integration mit Claude oder OpenAI als individuelles Projekt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Südlich von Wien: Büros mit dichtem Kalender",
+      "html": "<p>Der <a href=\"/regionen/bezirk-moedling/\">Bezirk Mödling</a> ist dicht besiedelt und ein wichtiger Wirtschaftsstandort am Südrand von Wien. Planungsbüros, Steuer- und Unternehmensberatungen, Makler und IT-Dienstleister arbeiten hier oft mit Kunden aus Stadt und Umland. Ihr Rohstoff sind Dokumente: Angebote, Verträge, Berichte, Gutachten.</p>"
+    },
+    {
+      "h2": "Dokumente aus Vorlagen statt Copy & Paste",
+      "html": "<p>Viele Schriftstücke entstehen, indem ein altes Dokument kopiert und angepasst wird. Das ist fehleranfällig. Eine Automatisierung füllt Ihre Vorlage mit den richtigen Kundendaten, Leistungen und Konditionen und formuliert passende Textbausteine. Sie prüfen das Ergebnis, statt es zusammenzubauen.</p><p>Wo KI im Büro sonst noch hilft, zeigt der Ratgeber <a href=\"/wissen/ki-im-buero/\">KI im Büro</a>.</p>"
+    },
+    {
+      "h2": "Das interne Wissen durchsuchbar machen",
+      "html": "<p>In jedem Büro gibt es Wissen, das nur in den Köpfen einzelner Personen oder in alten Ordnern steckt. Mit einer Technik namens <a href=\"/glossar/rag/\">RAG</a> kann eine KI Fragen beantworten, indem sie in Ihren eigenen Unterlagen nachschlägt und die Quelle nennt. „Wie haben wir das bei Projekt X gelöst?“ lässt sich dann in Sekunden beantworten. Grundsätzliches zur Leistung finden Sie unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz bei sensiblen Unterlagen",
+      "html": "<p>Kundendaten, Verträge und Finanzunterlagen verlangen Sorgfalt. Im Projekt wird festgelegt, welche Dokumente die KI verarbeiten darf, welche Dienste genutzt werden und wo Daten liegen. Eine allgemeine Orientierung bietet der Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>. Im Zweifel klären Sie Ihren Fall mit der Datenschutzbehörde oder einem Anwalt.</p><p>Mühlberger Digital berät, Pipeline AI Solutions setzt um. Das Erstgespräch ist kostenlos und dauert etwa 30 Minuten.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Werden unsere Dokumente zum Training der KI verwendet?",
+      "a": "Das hängt vom genutzten Dienst und dessen Einstellungen ab. Bei geschäftlichen Zugängen großer Anbieter lässt sich die Nutzung für Training in der Regel ausschließen. Welcher Dienst eingesetzt wird und welche Bedingungen gelten, wird im Projekt offen dargelegt, damit Sie das bewusst entscheiden und gegenüber Ihren Kunden begründen können."
+    },
+    {
+      "q": "Was ist der Unterschied zu ChatGPT im Browser?",
+      "a": "Im Browser kopieren Sie Inhalte hinein und das Ergebnis wieder heraus, jedes Mal von Hand. Eine Automatisierung ist mit Ihren Vorlagen, Ordnern und Programmen verbunden und erledigt einen festgelegten Ablauf immer gleich. Dazu kommen klare Regeln, was die KI sehen darf. Für einzelne Aufgaben reicht der Browser, für wiederkehrende Abläufe lohnt die Automatisierung."
+    },
+    {
+      "q": "Wie aufwendig ist die Einrichtung für ein kleines Büro?",
+      "a": "Der größte Teil der Arbeit liegt darin, Vorlagen und Regeln zu klären, nicht in der Technik. Rechnen Sie mit einigen Abstimmungsterminen, in denen Sie zeigen, wie Sie heute arbeiten. Die Umsetzung übernimmt Pipeline AI Solutions. Wie viel es kostet, steht nach dem Erstgespräch im schriftlichen Angebot."
+    },
+    {
+      "q": "Kann die KI Daten aus eingescannten Formularen übernehmen?",
+      "a": "Ja, sofern der Scan gut lesbar ist. Die KI erkennt Felder wie Name, Adresse, Beträge oder Daten auch dann, wenn Formulare unterschiedlich aufgebaut sind, was mit klassischer Texterkennung oft schwierig war. Unsichere Werte werden markiert. Bei sehr vielen gleichartigen Formularen lohnt sich ein kurzer Testlauf mit echten Unterlagen, um die Trefferquote einzuschätzen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/bezirk-moedling/",
+    "/wissen/ki-im-buero/",
+    "/glossar/rag/",
+    "/vergleiche/chatgpt-oder-claude/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

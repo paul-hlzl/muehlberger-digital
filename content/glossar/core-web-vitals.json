@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/core-web-vitals/",
+  "title": "Core Web Vitals: LCP, INP und CLS einfach erklärt",
+  "description": "Core Web Vitals einfach erklärt: Was LCP, INP und CLS über Ladezeit und Bedienbarkeit Ihrer Website aussagen und warum Google auf diese Werte achtet.",
+  "h1": "Core Web Vitals",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Core Web Vitals sind drei von Google definierte Messwerte für die Nutzererfahrung einer Website: Ladegeschwindigkeit des Hauptinhalts (LCP), Reaktion auf Eingaben (INP) und visuelle Stabilität (CLS). Sie fließen als eines von vielen Signalen in die Bewertung von Seiten ein.",
+  "fakten": [
+    "LCP: Hauptinhalt sollte in höchstens 2,5 Sekunden sichtbar sein",
+    "INP: Reaktion auf Klicks in höchstens 200 Millisekunden",
+    "CLS: Layout-Verschiebung unter einem Wert von 0,1"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was die drei Werte im Alltag bedeuten",
+      "html": "<p>Ein Gästehaus hat auf der Startseite ein riesiges Panoramafoto. Am Handy dauert es lange, bis es erscheint, der LCP ist schlecht. Während die Seite lädt, schiebt ein spät eingeblendeter Hinweis die Buchungsschaltfläche nach unten, und mancher Gast tippt daneben, das misst der CLS. Reagiert die Seite nach dem Antippen des Menüs spürbar verzögert, zeigt sich das im INP.</p><p>Mit einem passend verkleinerten Bild, festen Platzhaltern für Elemente und weniger Skripten lassen sich alle drei Werte meist deutlich verbessern.</p>"
+    },
+    {
+      "h2": "Warum KMU die Core Web Vitals kennen sollten",
+      "html": "<p>Langsame oder wackelige Seiten kosten Anfragen, besonders am Smartphone. Für die Platzierung bei Google sind die Werte ein Faktor unter vielen; guter Inhalt bleibt wichtiger. Trotzdem gilt: Bei ähnlich guten Seiten hat die schnellere oft die Nase vorn, und Besucher bleiben eher.</p><p>Konkrete Maßnahmen beschreibt der Ratgeber <a href=\"/wissen/website-ladezeit-verbessern/\">Ladezeit verbessern</a>, Grundlagen zur Darstellung am Handy der Eintrag <a href=\"/glossar/responsive-design/\">Responsive Design</a>. Ihre Werte sehen Sie in der Search Console oder im <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo kann ich die Core Web Vitals meiner Website sehen?",
+      "a": "Google zeigt die Werte in der Search Console im Bericht zu den Core Web Vitals, getrennt für Mobilgeräte und Computer. Für einzelne Seiten liefert das kostenlose Werkzeug PageSpeed Insights eine Auswertung mit Verbesserungsvorschlägen. Beachten Sie, dass echte Nutzerdaten erst ab einer gewissen Besucherzahl angezeigt werden; bei kleinen Websites sehen Sie oft nur Labormessungen."
+    },
+    {
+      "q": "Muss meine Website in allen Werten grün sein?",
+      "a": "Anstreben sollten Sie es, zwingend ist es nicht. Die Werte sind ein Signal unter vielen, und guter, hilfreicher Inhalt zählt mehr. Grob schlechte Werte sollten Sie aber beheben, weil sie Besucher vertreiben. Oft reichen wenige Maßnahmen wie kleinere Bilder, weniger externe Skripte und ein schnelleres Hosting, um vom roten in den grünen Bereich zu kommen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-ladezeit-verbessern/",
+    "/wissen/mobile-optimierung/",
+    "/glossar/responsive-design/",
+    "/leistungen/website-relaunch/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

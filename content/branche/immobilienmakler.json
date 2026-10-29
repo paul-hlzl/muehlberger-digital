@@ -1,0 +1,61 @@
+{
+  "pfad": "/branchen/immobilienmakler/",
+  "title": "Immobilienmakler: Anfragen filtern, Besichtigungen planen",
+  "description": "Für Immobilienmakler: Besichtigungsanfragen vorqualifizieren, Fragen zum Objekt rund um die Uhr beantworten und Eigentümer mit einer Bewertungsseite gewinnen.",
+  "h1": "Digitale Lösungen für Immobilienmakler",
+  "kicker": "Branche · Immobilien",
+  "lead": "Immobilienmakler haben selten zu wenige Anfragen, sondern zu viele unpassende. Digital hilft vor allem, Interessenten vor der Besichtigung zu filtern, Fragen zum Objekt auch abends zu beantworten und Besichtigungstermine ohne endlose Telefonate zu vergeben. Für die Akquise von Eigentümern lohnt sich eine eigene Seite zur Bewertungsanfrage.",
+  "fakten": [
+    "Anfrageformular mit Finanzierungsstand und Zeitrahmen filtert vor",
+    "Pipebot beantwortet Fragen zum Exposé nur mit Ihren Angaben, 19 € pro Monat",
+    "Besichtigungsslots online vergeben, auch bei vermieteten Objekten",
+    "Eigene Seite zur Bewertungsanfrage für Verkäufer",
+    "Pflichtangaben in Inseraten: im Zweifel beim Fachverband der WKO prüfen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Inserat, viele Anfragen: vor der Besichtigung filtern",
+      "html": "<p>Eine gut gelegene Wohnung geht online, und innerhalb weniger Tage stapeln sich die Anfragen. Ein Teil davon hat keine Finanzierung, sucht eigentlich etwas anderes oder will nur einmal schauen. Jede Besichtigung mit solchen Interessenten kostet Sie eine Stunde inklusive Anfahrt.</p><p>Ein Anfrageformular mit wenigen gezielten Fragen schafft Klarheit, bevor Sie Termine vergeben:</p><ul><li>Kauf oder Miete, gewünschter Einzugs- oder Kaufzeitpunkt</li><li>Stand der Finanzierung, als einfache Auswahl</li><li>Anzahl der Personen und besondere Anforderungen</li></ul><p>So sehen Sie auf einen Blick, wen Sie zuerst einladen. Mehr zum Thema im Ratgeber <a href=\"/wissen/anfragen-qualitaet/\">Qualität von Anfragen verbessern</a>.</p>"
+    },
+    {
+      "h2": "Fragen zum Objekt rund um die Uhr beantworten",
+      "html": "<p>„Wie hoch sind die Betriebskosten?“, „Gibt es einen Kellerabteil?“, „Ist ein Haustier erlaubt?“ Viele dieser Fragen stehen eigentlich im Exposé, werden aber trotzdem gestellt, oft am Abend oder am Wochenende. Wer dann erst am Montag eine Antwort bekommt, hat vielleicht schon woanders besichtigt.</p><p>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf Ihrer Website beantwortet solche Fragen sofort. Pipebot nutzt ausschließlich die Inhalte, die Sie hinterlegen, also etwa Ihre Objektbeschreibungen, und verbindet bei Unsicherheit mit Ihnen. Er erfindet keine Angaben zum Objekt. Pipebot kostet 19 € pro Monat, monatlich kündbar, die ersten 30 Tage gratis. Ob er mit Ihren Inseraten gut zurechtkommt, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Besichtigungen koordinieren, auch bei vermieteten Objekten",
+      "html": "<p>Besichtigungen hängen oft von Dritten ab: Der Mieter ist nur dienstags zuhause, der Eigentümer möchte dabei sein, die Hausverwaltung muss den Keller aufsperren. Wenn Sie jeden Termin einzeln telefonisch abstimmen, wird es schnell mühsam.</p><p>Praktischer ist es, feste Besichtigungsfenster festzulegen und vorqualifizierten Interessenten einen Link zur <a href=\"/wissen/online-terminbuchung/\">Online-Terminbuchung</a> zu schicken. Erinnerungen am Vortag reduzieren Ausfälle, und Sammeltermine für mehrere Interessenten lassen sich besser planen.</p>"
+    },
+    {
+      "h2": "Eigentümer gewinnen: die Seite zur Bewertungsanfrage",
+      "html": "<p>Ohne Objekte kein Geschäft. Viele Eigentümer beginnen ihre Suche mit Fragen wie „Was ist mein Haus wert?“ oder „Wie läuft ein Verkauf ab?“. Eine eigene Seite, die den Ablauf einer Bewertung erklärt, zeigt, welche Unterlagen nötig sind, und ein kurzes Anfrageformular enthält, holt genau diese Menschen ab.</p><p>Versprechen Sie keine Online-Bewertung auf Knopfdruck, wenn Sie in Wahrheit persönlich bewerten. Ehrlichkeit schafft hier Vertrauen. Eine solche Seite lässt sich als eigene <a href=\"/leistungen/landingpage-erstellen/\">Landingpage</a> umsetzen.</p>"
+    },
+    {
+      "h2": "Objekte auf Instagram und LinkedIn zeigen",
+      "html": "<p>Neue Objekte, Verkaufserfolge ohne Kundennamen oder Tipps für Verkäufer eignen sich gut für Social Media. Regelmäßig dranzubleiben, fällt neben Besichtigungen aber schwer.</p><p>Pipeflow macht aus Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben nur frei. In der Pilotphase ist es kostenlos, der Start erfolgt unter <a href=\"https://app.pipeflow.at/start\">app.pipeflow.at</a>. Für Objektfotos gilt: Nur Bilder verwenden, für die Sie die Rechte haben, und keine Personen oder persönlichen Gegenstände von Mietern zeigen.</p>"
+    },
+    {
+      "h2": "Pflichtangaben und der nächste Schritt",
+      "html": "<p>Für Immobilienmakler gelten besondere Pflichten, etwa bei Angaben in Inseraten wie zum Energieausweis oder bei Informationspflichten gegenüber Kunden. Wir geben dazu keine Rechtsauskunft. Prüfen Sie Details mit dem Fachverband in der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p><p>Wenn Sie sehen möchten, wie Vorqualifizierung und Chatbot mit Ihren eigenen Objekten aussehen, vereinbaren Sie ein <a href=\"/erstgespraech/\">kostenloses Erstgespräch</a>. Es dauert etwa 30 Minuten, vor Ort, am Telefon oder per Video-Call.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie filtere ich Besichtigungsanfragen als Immobilienmakler?",
+      "a": "Am einfachsten mit einem Anfrageformular, das wenige gezielte Fragen stellt: Kauf oder Miete, Zeitrahmen, Stand der Finanzierung und Anzahl der Personen. So erkennen Sie vor der Terminvergabe, welche Interessenten ernsthaft und passend sind. Wichtig ist, das Formular kurz zu halten, damit gute Interessenten nicht abspringen, und nur abzufragen, was Sie wirklich brauchen."
+    },
+    {
+      "q": "Kann ein Chatbot Fragen zu meinen Immobilien beantworten?",
+      "a": "Ja, wenn die Angaben in Ihren Inhalten stehen. Pipebot nutzt nur das, was Sie hinterlegen, etwa Objektbeschreibungen, Betriebskosten oder Ausstattung, und antwortet rund um die Uhr. Fehlt eine Information, erfindet er nichts, sondern verbindet mit Ihnen. Bei vielen Objekten mit häufigem Wechsel ist es wichtig, dass die Inhalte auf der Website aktuell gehalten werden."
+    },
+    {
+      "q": "Lohnt sich Social Media für einen kleinen Immobilienmakler?",
+      "a": "Für viele ja, weil neue Objekte und Tipps für Verkäufer gut sichtbar sind und Eigentümer auf Sie aufmerksam werden. Entscheidend ist Regelmäßigkeit. Pipeflow erstellt aus Ihrer Website wöchentlich fertige Beiträge für Instagram und LinkedIn, die Sie nur freigeben, und ist in der Pilotphase kostenlos. Wer fast nur über Empfehlungen arbeitet, kann darauf auch verzichten."
+    },
+    {
+      "q": "Was kostet eine Website für ein Maklerbüro?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer, inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Wenn Sie Objekte laufend selbst einpflegen, eine Anbindung an Ihre Maklersoftware oder eigene Landingpages für Verkäufer wollen, ist das ein individuelles Projekt. Der Preis wird nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/branchen/versicherungsmakler/", "/branchen/architekt/", "/leistungen/ki-chatbot/", "/wissen/anfragen-qualitaet/", "/produkte/pipeflow/"],
+  "checks": ["chatbot-test", "social-media-test"]
+}

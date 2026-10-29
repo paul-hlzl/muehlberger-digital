@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/ki-und-datenschutz/",
+  "title": "KI im Betrieb und Datenschutz: Die wichtigsten Regeln",
+  "description": "KI im Betrieb datenschutzkonform nutzen: welche Daten in KI-Tools dürfen, worauf Sie bei Anbietern achten und wie Sie mit einfachen Regeln Risiken senken.",
+  "h1": "KI im Betrieb und Datenschutz",
+  "kicker": "Ratgeber · KI & Datenschutz",
+  "lead": "KI lässt sich im Betrieb datenschutzkonform einsetzen, wenn Sie wissen, welche Daten Sie wohin geben, eine Rechtsgrundlage dafür haben und mit dem Anbieter einen Auftragsverarbeitungsvertrag abschließen. Die wichtigste Faustregel für den Alltag: Personenbezogene oder vertrauliche Daten gehören nicht in kostenlose Privatversionen von KI-Tools, sondern nur in Lösungen mit klaren, vertraglich festgehaltenen Datenschutzzusagen.",
+  "fakten": [
+    "Die DSGVO gilt auch dann, wenn eine KI die Daten verarbeitet",
+    "Vor jedem Tool klären: welche Daten, wo verarbeitet, Training ja oder nein, Vertrag vorhanden",
+    "Namen und Details lassen sich vor der Eingabe oft einfach durch Platzhalter ersetzen",
+    "Eine kurze interne KI-Richtlinie verhindert die meisten Fehler im Team",
+    "Gesundheits- und Bewerberdaten nur mit besonderer Sorgfalt und fachlicher Beratung"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo im Alltag personenbezogene Daten in KI landen",
+      "html": "<p>Datenschutzprobleme mit KI entstehen selten durch große Projekte, sondern durch kleine Gewohnheiten. Typische Situationen in kleinen Betrieben:</p><ul><li>Eine Kundenbeschwerde wird samt Name, Adresse und Auftragsnummer in einen Chat-Assistenten kopiert, um eine Antwort formulieren zu lassen.</li><li>Ein Besprechungsprotokoll mit Gehaltsthemen wird von einem KI-Tool zusammengefasst.</li><li>Bewerbungsunterlagen werden hochgeladen, um eine Vorauswahl zu bekommen.</li><li>Ein Chatbot auf der Website nimmt Anfragen mit Telefonnummern entgegen.</li></ul><p>In all diesen Fällen verarbeiten Sie personenbezogene Daten, und die <a href=\"/glossar/dsgvo/\">DSGVO</a> gilt genauso wie bei jeder anderen Software.</p>"
+    },
+    {
+      "h2": "Fünf Fragen vor jedem KI-Werkzeug",
+      "html": "<ol><li><strong>Welche Daten gebe ich ein?</strong> Nur Sachinhalte, oder auch Namen, Kontaktdaten, Gesundheitsangaben?</li><li><strong>Wo werden die Daten verarbeitet?</strong> In der EU oder in einem Drittland wie den USA, und auf welcher Grundlage?</li><li><strong>Werden Eingaben zum Trainieren verwendet?</strong> Und lässt sich das abschalten?</li><li><strong>Gibt es einen Auftragsverarbeitungsvertrag?</strong> Ohne diesen Vertrag sollten keine Kundendaten in das Werkzeug.</li><li><strong>Wer hat Zugriff und wie lange wird gespeichert?</strong> Können Sie Daten löschen, und wer im Betrieb sieht die Verläufe?</li></ol><p>Die Antworten finden Sie in den Datenschutzhinweisen und Vertragsunterlagen des Anbieters. Fehlen sie, ist das bereits eine Antwort.</p>"
+    },
+    {
+      "h2": "Privatversion oder Business-Lösung",
+      "html": "<p>Viele KI-Werkzeuge gibt es in einer kostenlosen oder günstigen Version für Privatpersonen und in Versionen für Unternehmen. Der Unterschied liegt oft weniger im Funktionsumfang als in den Bedingungen: Bei Privatversionen behalten sich Anbieter je nach Nutzungsbedingungen vor, Eingaben zur Verbesserung ihrer Modelle zu nutzen. Unternehmensversionen schließen das meist vertraglich aus und bieten einen Auftragsverarbeitungsvertrag an.</p><p>Prüfen Sie die aktuellen Bedingungen selbst, denn sie ändern sich. Eine ehrliche Einordnung: Für das Formulieren eines allgemeinen Werbetextes ohne Personenbezug ist eine Privatversion meist unproblematisch. Sobald Kundendaten im Spiel sind, sollte es eine Business-Lösung sein. Wie Sie KI-Assistenten im Alltag einsetzen, beschreibt <a href=\"/wissen/chatgpt-im-betrieb/\">ChatGPT im Betrieb</a>.</p>"
+    },
+    {
+      "h2": "Daten sparen: Platzhalter statt echter Namen",
+      "html": "<p>Der wirksamste Schutz ist, personenbezogene Daten gar nicht erst einzugeben. In vielen Fällen braucht die KI sie auch nicht:</p><ul><li>Ersetzen Sie Namen durch Platzhalter wie „Kunde A“ oder „Frau M.“.</li><li>Lassen Sie Adressen, Telefonnummern und Auftragsnummern weg.</li><li>Beschreiben Sie Sachverhalte allgemein: „Ein Kunde beschwert sich über eine verspätete Lieferung“ reicht für einen Antwortentwurf.</li><li>Fügen Sie die echten Daten erst im fertigen Text in Ihrem E-Mail-Programm ein.</li></ul><p>Besonders geschützte Daten, etwa zu Gesundheit, Religion oder Gewerkschaftszugehörigkeit, sollten nur in Werkzeuge, die dafür ausdrücklich geeignet sind, und nach fachlicher Beratung.</p>"
+    },
+    {
+      "h2": "Informationspflichten, Verzeichnis und automatische Entscheidungen",
+      "html": "<p>Setzen Sie KI dauerhaft für Kundendaten ein, gehört das in Ihre Datenschutzdokumentation. Dazu zählen die <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> der Website, wenn ein Chatbot oder ein Formular mit KI arbeitet, und das Verzeichnis von Verarbeitungstätigkeiten, das viele Betriebe ohnehin führen müssen.</p><p>Vorsicht ist bei Entscheidungen geboten, die ausschließlich automatisiert fallen und Menschen erheblich betreffen, etwa die Ablehnung einer Bewerbung ohne menschliche Prüfung. Solche Entscheidungen sind nach der DSGVO nur eingeschränkt zulässig. Bei Verarbeitungen mit hohem Risiko kann zudem eine Datenschutz-Folgenabschätzung nötig sein. Parallel gilt die europäische KI-Verordnung, siehe <a href=\"/wissen/eu-ai-act/\">EU AI Act</a>.</p>"
+    },
+    {
+      "h2": "Vier typische Situationen und wie man sie löst",
+      "html": "<p><strong>Installateur mit Angebotsentwürfen:</strong> Die KI formuliert aus Stichworten einen Angebotstext. Kundendaten werden erst danach im Angebotsprogramm ergänzt. Geringes Risiko, einfache Regel.</p><p><strong>Büro mit Besprechungsprotokollen:</strong> Ein Tool wie <a href=\"/produkte/noteit/\">noteit</a> erstellt Protokolle aus Online-Meetings, ohne Bot im Call, mit Speicherung in Frankfurt. Wichtig ist, die Teilnehmenden vorab zu informieren, mehr dazu unter <a href=\"/wissen/gespraechsaufzeichnung/\">Gespräche aufzeichnen</a>.</p><p><strong>Website-Chatbot:</strong> Ein Chatbot wie Pipebot antwortet nur mit den Inhalten des Betriebs. Er gehört in die Datenschutzerklärung, und Besucher sollten keine sensiblen Daten eingeben müssen. Details unter <a href=\"/wissen/chatbot-datenschutz/\">Chatbot und Datenschutz</a>.</p><p><strong>Praxis mit Befundbriefen:</strong> Hier geht es um Gesundheitsdaten. Ohne spezialisierte, geprüfte Lösung und Beratung sollten solche Texte nicht durch ein allgemeines KI-Tool laufen.</p>"
+    },
+    {
+      "h2": "Eine interne KI-Richtlinie in einer Seite",
+      "html": "<p>Für die meisten kleinen Betriebe reicht eine Seite mit klaren Regeln: welche Werkzeuge erlaubt sind, welche Daten nie hinein dürfen, wer Ergebnisse vor dem Versand prüft und an wen man sich bei Fragen wendet. Das dient gleichzeitig der Einschulung, die der AI Act verlangt.</p><p>Wenn Sie KI-Werkzeuge in Ihre Abläufe einbauen wollen, unterstützt Sie Mühlberger Digital mit Pipeline AI Solutions bei Auswahl und Umsetzung, mehr unter <a href=\"/leistungen/ki-automatisierung/\">KI und Prozessautomatisierung</a>. Dieser Ratgeber ersetzt keine Rechtsberatung. Im Einzelfall helfen die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>, die WKO oder eine Anwältin bzw. ein Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Kundendaten in ChatGPT oder ähnliche Tools eingeben?",
+      "a": "Nur unter Voraussetzungen. Sie brauchen eine Rechtsgrundlage, einen Auftragsverarbeitungsvertrag mit dem Anbieter und Klarheit, wo und wie lange die Daten verarbeitet werden. Bei kostenlosen Privatversionen fehlt das häufig. Für den Alltag ist die einfachste Lösung, Namen und Kontaktdaten durch Platzhalter zu ersetzen und echte Daten erst im fertigen Dokument einzufügen. Bei sensiblen Daten lassen Sie sich vorher beraten."
+    },
+    {
+      "q": "Was ist ein Auftragsverarbeitungsvertrag und brauche ich ihn für KI?",
+      "a": "Ein Auftragsverarbeitungsvertrag regelt, dass ein Dienstleister personenbezogene Daten nur nach Ihren Weisungen verarbeitet, sie schützt und nicht für eigene Zwecke nutzt. Die DSGVO verlangt ihn, wenn ein externer Anbieter in Ihrem Auftrag Daten verarbeitet. Das gilt auch für KI-Werkzeuge, die mit Kundendaten arbeiten. Seriöse Business-Angebote stellen einen solchen Vertrag bereit, oft als Teil der Geschäftsbedingungen."
+    },
+    {
+      "q": "Ist es ein Problem, wenn ein KI-Anbieter in den USA sitzt?",
+      "a": "Nicht automatisch. Für Übermittlungen in die USA gibt es seit 2023 das EU-US Data Privacy Framework, dem sich Unternehmen anschließen können, daneben andere Garantien wie Standardvertragsklauseln. Wichtig ist, dass eine solche Grundlage besteht und in Ihrer Dokumentation steht. Anbieter mit Verarbeitung in der EU machen die Sache einfacher. Die Rechtslage kann sich ändern, prüfen Sie im Einzelfall den aktuellen Stand."
+    },
+    {
+      "q": "Muss ich Kunden informieren, dass ich KI einsetze?",
+      "a": "Wenn Sie personenbezogene Daten von Kunden mit KI verarbeiten, gehört das in Ihre Datenschutzinformation, etwa in die Datenschutzerklärung oder in Informationen zu Besprechungen. Wenn Kunden direkt mit einer KI kommunizieren, etwa mit einem Chatbot, sollte das zudem klar erkennbar sein. Für interne Hilfen wie Textentwürfe ohne Personenbezug gibt es keine allgemeine Informationspflicht."
+    }
+  ],
+  "verwandt": [
+    "/wissen/eu-ai-act/",
+    "/wissen/chatgpt-im-betrieb/",
+    "/wissen/chatbot-datenschutz/",
+    "/wissen/gespraechsaufzeichnung/",
+    "/leistungen/ki-automatisierung/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/in-chatgpt-gefunden-werden/",
+  "title": "In ChatGPT gefunden werden: Erste Schritte",
+  "description": "In ChatGPT gefunden werden: ein praktischer Plan mit ersten Schritten für kleine Betriebe, von der Bestandsaufnahme über Website-Inhalte bis zu Erwähnungen.",
+  "h1": "In ChatGPT gefunden werden: Erste Schritte",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "Die ersten Schritte, um in ChatGPT gefunden zu werden, sind: prüfen, was ChatGPT heute über Ihren Betrieb sagt, Ihre Website so umbauen, dass Leistung, Ort und Kernfragen klar als Text dastehen, Firmendaten überall angleichen und Erwähnungen auf anderen Websites aufbauen. Vieles davon schaffen Sie in wenigen Wochen selbst.",
+  "fakten": [
+    "Schritt 1 ist immer eine ehrliche Bestandsaufnahme mit typischen Kundenfragen",
+    "Website-Texte sollen Leistung, Region und Zielgruppe im ersten Absatz nennen",
+    "Google-Profil und Verzeichnisse sind auch für KI-Suchen wichtige Quellen",
+    "Erwähnungen bei Partnern, Vereinen und Medien stärken das Gesamtbild",
+    "Ergebnisse lassen sich nicht garantieren, aber regelmäßig messen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schritt 1: Bestandsaufnahme mit echten Kundenfragen",
+      "html": "<p>Bevor Sie etwas ändern, finden Sie heraus, wie die Lage ist. Schreiben Sie fünf bis zehn Fragen auf, die Ihre Kunden stellen würden. Für eine Physiotherapiepraxis etwa:</p> <ul> <li>„Physiotherapie mit Kassenvertrag in Krems“</li> <li>„Wer macht Hausbesuche nach einer Knie-OP im Bezirk Krems-Land?“</li> <li>„Gute Physiotherapie bei Rückenschmerzen in der Nähe von Gföhl“</li> </ul> <p>Stellen Sie diese Fragen in ChatGPT und notieren Sie, wer genannt wird. Fragen Sie danach direkt nach Ihrem Betrieb: „Was weißt du über [Name] in [Ort]?“ Stimmen Adresse, Leistungen, Öffnungszeiten? Diese Notizen sind Ihr Ausgangspunkt.</p>"
+    },
+    {
+      "h2": "Schritt 2: Die Startseite klar machen",
+      "html": "<p>KI-Suchen übernehmen gern kurze, klare Aussagen. Ihre Startseite sollte deshalb im ersten Absatz sagen, wer Sie sind, was Sie anbieten, wo und für wen. Zum Beispiel:</p> <p><em>„Physiotherapie Muster in Krems: Behandlung nach Operationen, bei Rückenschmerzen und Sportverletzungen. Kassenvertrag mit der ÖGK, Hausbesuche im Bezirk Krems-Land.“</em></p> <p>Das ist keine Werbung, sondern Information. Vermeiden Sie Sätze wie „Ihr kompetenter Partner für alle Anliegen“, die nichts aussagen. Hinweise zum Aufbau gibt der Ratgeber <a href=\"/wissen/startseite-aufbauen/\">So bauen Sie eine gute Startseite auf</a>.</p>"
+    },
+    {
+      "h2": "Schritt 3: Leistungsseiten und Antworten ergänzen",
+      "html": "<ul> <li>Legen Sie für jede wichtige Leistung eine eigene Seite an, mit Ort, Ablauf, Dauer, Kostenrahmen oder Kostenfaktoren.</li> <li>Beginnen Sie jede Seite mit einer direkten Antwort auf die Hauptfrage.</li> <li>Ergänzen Sie häufige Fragen, die Sie am Telefon hören, mit vollständigen Antworten.</li> <li>Stellen Sie wichtige Infos als Text auf die Seite, nicht nur in Bilder oder PDFs.</li> </ul> <p>Wie solche Antworten aufgebaut sein sollten, erklärt <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ-Inhalte, die KI-Suchen zitieren</a>.</p>"
+    },
+    {
+      "h2": "Schritt 4: Firmendaten überall angleichen",
+      "html": "<p>ChatGPT setzt Antworten aus mehreren Quellen zusammen. Wenn Ihre Website eine andere Telefonnummer zeigt als Herold oder das Google-Profil, entstehen Widersprüche. Gleichen Sie deshalb Name, Adresse, Telefon, Website und Öffnungszeiten an allen wichtigen Stellen an:</p> <ol> <li>Website (Fußbereich, Kontakt, Impressum)</li> <li>Google-Unternehmensprofil</li> <li>Herold, WKO Firmen A–Z, Bing Places, Apple Business Connect</li> <li>Facebook, Instagram, LinkedIn</li> <li>Branchenplattformen und Gemeindeseite</li> </ol> <p>Eine Anleitung gibt der Ratgeber <a href=\"/wissen/nap-daten/\">Name, Adresse, Telefon: Einheitliche Firmendaten</a>.</p>"
+    },
+    {
+      "h2": "Schritt 5: Erwähnungen und Bewertungen aufbauen",
+      "html": "<p>Was andere über Sie schreiben, zählt für KI-Suchen oft mehr als Ihr eigenes Lob. Gute Anlässe für Erwähnungen gibt es in fast jedem Betrieb:</p> <ul> <li>Partnerlisten von Herstellern oder Lieferanten</li> <li>Sponsoring beim örtlichen Fußballverein oder bei der Feuerwehr</li> <li>ein Bericht in der Gemeindezeitung oder einer Regionalzeitung</li> <li>Mitgliedschaften in Innungen, Verbänden, regionalen Plattformen</li> <li>Google-Bewertungen, in denen Kunden die konkrete Leistung nennen</li> </ul> <p>Bitten Sie zufriedene Kunden um eine Bewertung und darum, kurz zu schreiben, was Sie für sie gemacht haben. Tipps dazu unter <a href=\"/wissen/google-bewertungen-bekommen/\">Mehr Google-Bewertungen bekommen</a>.</p>"
+    },
+    {
+      "h2": "Schritt 6: Technik prüfen",
+      "html": "<p>Zum Schluss eine kurze technische Kontrolle, am besten mit Ihrem Webbetreuer:</p> <ul> <li>Ist die Website bei Google indexiert und schnell?</li> <li>Sind Suchdienste von KI-Anbietern in der robots.txt nicht gesperrt?</li> <li>Werden Inhalte ohne Login und ohne aufwendige Skripte angezeigt?</li> <li>Gibt es strukturierte Daten zu Name, Adresse und Öffnungszeiten?</li> </ul> <p>Wenn hier etwas nicht stimmt, helfen die besten Texte wenig, weil sie nicht gelesen werden.</p>"
+    },
+    {
+      "h2": "Nach vier bis acht Wochen: erneut prüfen",
+      "html": "<p>Stellen Sie nach einigen Wochen dieselben Fragen erneut. Erwarten Sie keine Sprünge über Nacht, und bewerten Sie nicht eine einzelne Antwort, denn die schwanken. Achten Sie auf die Richtung: Wird Ihr Betrieb häufiger genannt, stimmen die Angaben?</p> <p>Vergleichbarer und mit weniger Aufwand zeigt das der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>, mit Bericht innerhalb von 24 Stunden. Wenn Sie die Schritte nicht selbst umsetzen möchten, übernimmt das die Leistung <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen (GEO)</a>, abgestimmt im kostenlosen Erstgespräch.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie komme ich mit meinem Betrieb in ChatGPT?",
+      "a": "Es gibt keine Anmeldung, über die man in ChatGPT aufgenommen wird. Ihr Betrieb erscheint, wenn das System bei passenden Fragen genug klare Informationen über Sie findet. Dafür sollte Ihre Website Leistung, Ort und Zielgruppe deutlich als Text nennen, Ihre Firmendaten überall gleich sein, und andere Websites sowie Bewertungen sollten bestätigen, was Sie anbieten."
+    },
+    {
+      "q": "Wie schnell sehe ich Ergebnisse in ChatGPT?",
+      "a": "Wenn ChatGPT bei einer Frage im Web sucht, können geänderte Inhalte berücksichtigt werden, sobald sie gefunden und gelesen wurden. Das kann einige Wochen dauern. Das Trainingswissen des Modells ändert sich dagegen erst mit neuen Versionen. Planen Sie mit mehreren Monaten und prüfen Sie in regelmäßigen Abständen mit denselben Fragen, statt nach wenigen Tagen eine Wirkung zu erwarten."
+    },
+    {
+      "q": "Muss ich dafür meine Website neu machen lassen?",
+      "a": "Nicht unbedingt. Oft reicht es, Texte zu schärfen, Leistungsseiten zu ergänzen, häufige Fragen aufzunehmen und technische Kleinigkeiten zu beheben. Eine neue Website lohnt sich, wenn die bestehende veraltet, langsam oder kaum zu bearbeiten ist. Die Starter-Website von Mühlberger Digital ab 2.500 € einmalig ist bereits für Google und KI-Suchen optimiert."
+    },
+    {
+      "q": "Hilft es, ChatGPT selbst Informationen über meinen Betrieb zu geben?",
+      "a": "Wenn Sie ChatGPT im eigenen Gespräch Informationen über Ihren Betrieb geben, ändert das nicht, was andere Nutzer als Antwort bekommen. Das System lernt nicht auf diese Weise dazu. Wirksam ist nur, die öffentlich zugänglichen Quellen zu verbessern: Ihre Website, Ihr Google-Profil, Verzeichnisse und Erwähnungen auf anderen Seiten, die bei einer Websuche gefunden werden."
+    },
+    {
+      "q": "Gelten diese Schritte auch für Gemini und Perplexity?",
+      "a": "Ja, im Wesentlichen schon. Gemini, Perplexity, Copilot und die KI-Übersichten von Google arbeiten unterschiedlich, greifen aber alle auf Inhalte aus dem Web zurück und bevorzugen klare, übereinstimmende Informationen. Klare Website-Texte, einheitliche Firmendaten, Bewertungen und Erwähnungen helfen deshalb bei allen Systemen. Unterschiede gibt es vor allem bei den Suchindizes, auf die sie zugreifen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/chatgpt-empfiehlt-firmen/",
+    "/wissen/was-ist-geo/",
+    "/wissen/faq-fuer-ki-suchen/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

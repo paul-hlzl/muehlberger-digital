@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/xml-sitemap/",
+  "title": "XML-Sitemap: Inhaltsverzeichnis für Google",
+  "description": "XML-Sitemap einfach erklärt: Wozu Suchmaschinen das Seitenverzeichnis brauchen, wie Sie es in der Search Console einreichen und was es nicht leisten kann.",
+  "h1": "XML-Sitemap",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Eine XML-Sitemap ist eine Datei, die alle wichtigen Seiten einer Website in maschinenlesbarer Form auflistet, damit Suchmaschinen sie leichter finden. Sie ist ein Wegweiser für Crawler, aber keine Garantie, dass jede Seite in den Index kommt.",
+  "fakten": [
+    "Liegt meist unter /sitemap.xml und wird automatisch erzeugt",
+    "Wird in der Google Search Console eingereicht",
+    "Sollte nur Seiten enthalten, die gefunden werden sollen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So hilft die Sitemap im Alltag",
+      "html": "<p>Ein Weinbaubetrieb stellt jedes Jahr neue Weine mit eigener Seite online. Weil diese Seiten nur über einen kleinen Link im Sortiment erreichbar sind, findet Google sie spät. Mit einer XML-Sitemap, die das <a href=\"/glossar/cms/\">CMS</a> bei jeder neuen Seite automatisch aktualisiert, erfährt der <a href=\"/glossar/crawler/\">Crawler</a> sofort davon.</p><p>Die Sitemap enthält pro Seite die Adresse und oft das Datum der letzten Änderung. Sie wird in der Search Console hinterlegt und in der <a href=\"/glossar/robots-txt/\">robots.txt</a> genannt.</p>"
+    },
+    {
+      "h2": "Warum die Sitemap für KMU sinnvoll ist",
+      "html": "<p>Bei kleinen, gut verlinkten Websites findet Google meist auch ohne Sitemap alles. Trotzdem ist sie schnell eingerichtet und hilft bei neuen Seiten, nach einem Relaunch und bei Seiten, die tief in der Struktur liegen. Zudem zeigt die Search Console anhand der Sitemap, welche Seiten indexiert wurden und welche nicht.</p><p>Wie Sie diese Berichte lesen, erklären die Ratgeber <a href=\"/wissen/google-search-console/\">Google Search Console</a> und <a href=\"/wissen/indexierung-pruefen/\">Indexierung prüfen</a>. Mehr zum Hintergrund im Eintrag <a href=\"/glossar/indexierung/\">Indexierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht jede Website eine XML-Sitemap?",
+      "a": "Pflicht ist sie nicht. Bei einer kleinen Website mit wenigen, gut verlinkten Seiten findet Google auch so alle Inhalte. Eine Sitemap schadet aber nie, ist bei den meisten Systemen mit wenigen Klicks aktiviert und erleichtert die Kontrolle in der Search Console. Bei größeren Websites, Shops oder häufig neuen Seiten ist sie klar zu empfehlen."
+    },
+    {
+      "q": "Was gehört nicht in die Sitemap?",
+      "a": "Seiten, die nicht in den Suchergebnissen erscheinen sollen, etwa Danke-Seiten nach einem Formular, Testseiten, interne Bereiche oder Seiten mit dem Hinweis „noindex“. Auch weitergeleitete oder gelöschte Adressen gehören nicht hinein. Eine saubere Sitemap enthält nur die Seiten, die Sie wirklich bei Google sehen möchten und die fehlerfrei erreichbar sind."
+    }
+  ],
+  "verwandt": [
+    "/wissen/google-search-console/",
+    "/glossar/robots-txt/",
+    "/glossar/indexierung/",
+    "/wissen/indexierung-pruefen/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

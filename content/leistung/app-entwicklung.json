@@ -1,0 +1,73 @@
+{
+  "pfad": "/leistungen/app-entwicklung/",
+  "title": "App entwickeln lassen: Wann sich eine eigene App lohnt",
+  "description": "App entwickeln lassen als KMU: wann eine eigene App sinnvoll ist, wann eine Web-App reicht, wie das Projekt abläuft und welche Fehler Sie vermeiden sollten.",
+  "h1": "App entwickeln lassen: für Kunden oder fürs eigene Team",
+  "kicker": "Leistung · App-Entwicklung",
+  "lead": "Eine eigene App lohnt sich für kleine und mittlere Betriebe vor allem dann, wenn sie regelmäßig genutzt wird, etwa von Mitarbeitern im Außendienst oder von Stammkunden, die oft bestellen oder buchen. Für vieles reicht eine Web-App, die im Browser läuft und ohne App-Store auskommt. Wir klären im kostenlosen Erstgespräch, welche Variante zu Ihrem Vorhaben passt, und nennen den Preis danach in einem schriftlichen Angebot.",
+  "fakten": [
+    "Native App, Web-App oder Progressive Web App: Wir empfehlen, was zum Einsatz passt",
+    "Besonders sinnvoll für interne Abläufe wie Zeiterfassung oder Baustellendoku",
+    "Preis auf Anfrage nach dem kostenlosen Erstgespräch, schriftliches Angebot",
+    "Umsetzung durch Pipeline AI Solutions, KI-Funktionen mit Claude oder OpenAI möglich",
+    "Start mit dem kleinsten sinnvollen Umfang, Erweiterung nach echter Nutzung"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Braucht Ihr Betrieb wirklich eine App?",
+      "html": "<p>Die ehrliche Antwort lautet oft: Nein, nicht für Ihre Kundinnen und Kunden. Kaum jemand installiert eine App, um einmal im Jahr einen Handwerker zu beauftragen. Eine gute, für das Handy optimierte Website erfüllt diesen Zweck meist besser.</p>\n<p>Anders sieht es aus, wenn eine Anwendung <strong>regelmäßig und von denselben Menschen</strong> genutzt wird. Dann spart eine App spürbar Zeit. Eine Entscheidungshilfe mit Fragen zum Abhaken bietet der Ratgeber <a href=\"/wissen/eigene-app-sinnvoll/\">Wann ist eine eigene App sinnvoll?</a>.</p>\n<h3>Gute Gründe für eine App</h3>\n<ul>\n<li>Mitarbeiter erfassen unterwegs Arbeitszeiten, Material oder Fotos von der Baustelle.</li>\n<li>Stammkunden bestellen oder buchen wiederkehrend, etwa Kurse, Termine oder Lieferungen.</li>\n<li>Die Anwendung braucht Funktionen des Handys wie Kamera, Standort oder Benachrichtigungen.</li>\n<li>Es soll auch dort funktionieren, wo der Empfang schlecht ist, und später synchronisieren.</li>\n</ul>\n<h3>Wann Sie es lassen sollten</h3>\n<p>Wenn die App nur das zeigen würde, was ohnehin auf der Website steht, oder wenn niemand im Betrieb Zeit hat, sie einzuführen und zu pflegen, ist das Geld anderswo besser angelegt.</p>"
+    },
+    {
+      "h2": "Native App, Web-App oder PWA: die Unterschiede",
+      "html": "<p>„App“ ist ein Sammelbegriff. Für die Entscheidung hilft es, drei Arten zu unterscheiden:</p>\n<ul>\n<li><strong>Native App</strong>: wird für iPhone und Android entwickelt und über die App-Stores installiert. Sie nutzt alle Funktionen des Geräts, ist aber in Entwicklung und Pflege am aufwendigsten.</li>\n<li><strong>Web-App</strong>: läuft im Browser, ohne Installation. Ideal für interne Werkzeuge, die am Computer und am Handy funktionieren sollen. Updates sind sofort bei allen.</li>\n<li><strong>Progressive Web App (PWA)</strong>: eine Web-App, die sich wie eine App auf den Startbildschirm legen lässt und teilweise auch offline funktioniert. Eine Erklärung finden Sie im Glossar unter <a href=\"/glossar/pwa/\">PWA</a>.</li>\n</ul>\n<p>Für viele interne Anwendungen kleiner Betriebe ist eine Web-App oder PWA der sinnvollere Start. Eine native App lohnt sich, wenn Sie tiefen Zugriff auf das Gerät brauchen oder im App-Store gefunden werden möchten. Beide Wege stellt der Vergleich <a href=\"/vergleiche/native-app-oder-web-app/\">Native App oder Web-App</a> gegenüber.</p>"
+    },
+    {
+      "h2": "Typische App-Ideen aus kleinen Betrieben",
+      "html": "<p>Die besten App-Projekte entstehen aus einem konkreten Ärgernis im Alltag. Einige typische Situationen:</p>\n<ul>\n<li><strong>Zettelwirtschaft auf der Baustelle</strong>: Ein Elektrobetrieb mit mehreren Monteuren schreibt Stunden und Material noch auf Papier. Eine einfache App erfasst beides direkt vor Ort, das Büro sieht es am selben Tag.</li>\n<li><strong>Übergaben im Schichtbetrieb</strong>: Eine Pflege- oder Reinigungsfirma braucht eine Checkliste je Objekt, die abgehakt und mit Foto dokumentiert wird.</li>\n<li><strong>Buchungen für Stammkunden</strong>: Ein Bewegungsstudio möchte, dass Teilnehmer Kurse selbst buchen und absagen, damit Plätze nachbesetzt werden können.</li>\n<li><strong>Wissen für neue Mitarbeiter</strong>: Anleitungen, Sicherheitsunterweisungen und Ansprechpartner an einem Ort, auf Wunsch mit einem KI-Assistenten, der Fragen aus Ihren eigenen Unterlagen beantwortet.</li>\n</ul>\n<p>Mehr zu Anwendungen für das eigene Team lesen Sie im Ratgeber <a href=\"/wissen/app-fuer-mitarbeiter/\">App für Mitarbeiter</a>.</p>"
+    },
+    {
+      "h2": "So läuft die App-Entwicklung ab",
+      "html": "<ol>\n<li><strong>Kostenloses Erstgespräch</strong> (rund 30 Minuten): Welches Problem soll die App lösen, wer nutzt sie, auf welchen Geräten?</li>\n<li><strong>Abläufe aufzeichnen</strong>: Wir gehen gemeinsam durch, wie die Arbeit heute läuft und wo genau die App eingreift.</li>\n<li><strong>Kleinster sinnvoller Umfang</strong>: Wir legen fest, was die erste Version unbedingt können muss. Alles andere kommt auf eine Liste für später.</li>\n<li><strong>Schriftliches Angebot</strong> mit klarem Preis und Umfang.</li>\n<li><strong>Entwicklung mit Zwischenständen</strong>: Pipeline AI Solutions setzt um, Sie probieren frühe Versionen mit Ihren eigenen Daten aus.</li>\n<li><strong>Einführung im Team</strong>: Ein, zwei Mitarbeiter testen zuerst im echten Alltag, dann folgen alle.</li>\n<li><strong>Verbessern nach Nutzung</strong>: Erst wenn klar ist, wie die App verwendet wird, kommen Erweiterungen.</li>\n</ol>\n<p>Soll die App in den App-Store, kommt die Veröffentlichung dazu. Was dabei zu beachten ist, erklären wir Ihnen gerne im Gespräch.</p>"
+    },
+    {
+      "h2": "Was es kostet, eine App entwickeln zu lassen",
+      "html": "<p>App-Entwicklung ist bei uns immer ein <strong>individuelles Projekt</strong>. Den Preis nennen wir nach dem kostenlosen Erstgespräch in einem schriftlichen Angebot, als unverbindlichen Richtpreis ohne Umsatzsteuer.</p>\n<p>Den Aufwand bestimmen vor allem:</p>\n<ul>\n<li>ob es eine native App für iPhone und Android oder eine Web-App bzw. PWA sein soll</li>\n<li>wie viele Bildschirme und Abläufe die erste Version braucht</li>\n<li>Benutzerkonten, Rollen und Rechte, etwa Chef, Büro und Monteur</li>\n<li>Anbindungen an andere Programme, etwa Buchhaltung, Kalender oder Warenwirtschaft</li>\n<li>KI-Funktionen, zum Beispiel mit Claude oder OpenAI</li>\n</ul>\n<p>Rechnen Sie auch mit laufenden Kosten für Server, Wartung und Anpassungen an neue Betriebssystem-Versionen. Welche Posten typischerweise anfallen, beschreibt der Ratgeber <a href=\"/wissen/app-kosten/\">Was kostet eine App?</a>. Einblick in Projekte von Pipeline gibt die Seite <a href=\"https://www.pipeline-solutions.at/referenzen/\">Referenzen von Pipeline AI Solutions</a>.</p>"
+    },
+    {
+      "h2": "Typische Fehler bei App-Projekten",
+      "html": "<ul>\n<li><strong>Zu viel auf einmal</strong>: Eine erste Version mit allen Wünschen dauert lange und wird teuer. Starten Sie mit dem Kern.</li>\n<li><strong>Ohne die Nutzer planen</strong>: Wenn die Monteure die App unpraktisch finden, schreiben sie weiter auf Zettel. Beziehen Sie sie früh ein.</li>\n<li><strong>App statt Website</strong>: Eine Kunden-App, die niemand installiert, ersetzt keine gute Website.</li>\n<li><strong>Pflege vergessen</strong>: Neue Handy-Versionen erfordern Anpassungen. Planen Sie Wartung von Anfang an ein.</li>\n<li><strong>Daten ohne Konzept</strong>: Klären Sie früh, wer welche Daten sehen darf und wo sie gespeichert werden.</li>\n</ul>\n<p>Sie haben eine App-Idee oder ein Problem, das eine App lösen könnte? Beschreiben Sie es uns im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet es, eine App entwickeln zu lassen?",
+      "a": "Eine App ist bei uns immer ein individuelles Projekt, deshalb nennen wir den Preis nach dem kostenlosen Erstgespräch in einem schriftlichen Angebot. Er hängt davon ab, ob es eine native App oder eine Web-App sein soll, wie viele Abläufe die erste Version abdeckt, welche Benutzerrollen es gibt und welche Programme angebunden werden. Laufende Kosten für Server und Wartung kommen dazu."
+    },
+    {
+      "q": "Reicht für meinen Betrieb nicht auch eine Web-App?",
+      "a": "Oft ja. Eine Web-App läuft im Browser auf Handy, Tablet und Computer, braucht keinen App-Store und bekommt Updates sofort. Für interne Werkzeuge wie Zeiterfassung, Checklisten oder Auftragsübersichten ist das häufig der einfachere und günstigere Weg. Eine native App lohnt sich, wenn Sie Gerätefunktionen intensiv nutzen oder im App-Store gefunden werden wollen."
+    },
+    {
+      "q": "Kann eine App auch ohne Internetverbindung funktionieren?",
+      "a": "Ja, das lässt sich umsetzen, sowohl bei nativen Apps als auch eingeschränkt bei Progressive Web Apps. Die Daten werden dann am Gerät zwischengespeichert und übertragen, sobald wieder Empfang da ist. Das ist zum Beispiel auf Baustellen oder in Kellern wichtig. Offline-Fähigkeit erhöht allerdings den Aufwand, deshalb klären wir vorab, ob sie wirklich gebraucht wird."
+    },
+    {
+      "q": "Kann die App mit unseren bestehenden Programmen zusammenarbeiten?",
+      "a": "In vielen Fällen ja, wenn das bestehende Programm eine Schnittstelle anbietet, über die Daten ausgetauscht werden können. Typisch sind Verbindungen zu Kalender, Buchhaltung, Warenwirtschaft oder Kundenverwaltung. Ob und wie das bei Ihren Programmen geht, prüfen wir vor dem Angebot. Gibt es keine Schnittstelle, suchen wir gemeinsam nach einem praktikablen Weg."
+    },
+    {
+      "q": "Wem gehört die App nach der Entwicklung?",
+      "a": "Wie Rechte an der App, am Quellcode und an den Daten geregelt sind, halten wir im schriftlichen Angebot fest, bevor die Arbeit beginnt. Klären Sie dabei auch, wie Sie Ihre Daten bei Bedarf exportieren können. Sprechen Sie dieses Thema im Erstgespräch ruhig direkt an, damit beide Seiten wissen, woran sie sind, auch für den Fall, dass später ein anderer Dienstleister weiterarbeiten soll."
+    }
+  ],
+  "verwandt": [
+    "/wissen/eigene-app-sinnvoll/",
+    "/vergleiche/native-app-oder-web-app/",
+    "/wissen/app-kosten/",
+    "/leistungen/individuelle-software/",
+    "/glossar/web-app/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

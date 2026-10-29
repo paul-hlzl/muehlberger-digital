@@ -1,0 +1,77 @@
+{
+  "pfad": "/wissen/was-ist-geo/",
+  "title": "Was ist GEO? Generative Engine Optimization erklärt",
+  "description": "Was ist GEO (Generative Engine Optimization)? Wie KI-Suchen wie ChatGPT und Gemini Antworten bilden und was kleine Betriebe tun können, um genannt zu werden.",
+  "h1": "Was ist GEO (Generative Engine Optimization)?",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "GEO (Generative Engine Optimization) bedeutet, Inhalte und Firmendaten so aufzubereiten, dass KI-Suchen wie ChatGPT, Gemini, Perplexity oder die KI-Übersichten von Google einen Betrieb in ihren Antworten nennen und richtig beschreiben. GEO baut auf solidem SEO auf und ergänzt es um klare, zitierfähige Antworten und glaubwürdige Erwähnungen im Netz.",
+  "fakten": [
+    "KI-Suchen geben Antworten statt Linklisten und nennen dabei oft nur wenige Betriebe",
+    "GEO ergänzt SEO, es ersetzt es nicht",
+    "Wichtig sind klare Fakten, direkte Antworten, Erwähnungen und einheitliche Firmendaten",
+    "Ergebnisse von KI-Suchen schwanken und lassen sich nicht garantieren",
+    "Sichtbarkeit in KI-Suchen kann man messen, etwa mit dem Gratis-Check von Hittaro"
+  ],
+  "abschnitte": [
+    {
+      "h2": "GEO kurz erklärt",
+      "html": "<p>Bei einer klassischen Google-Suche bekommen Sie eine Liste von Links und entscheiden selbst, welchen Sie anklicken. KI-Suchen funktionieren anders: Sie lesen viele Quellen und schreiben daraus eine Antwort. Wer fragt „Welcher Tischler im Waldviertel macht Küchen nach Maß?“, bekommt im besten Fall zwei, drei Namen mit kurzer Begründung.</p> <p><a href=\"/glossar/geo/\">GEO</a> ist die Arbeit daran, dass Ihr Betrieb in solchen Antworten vorkommt, und zwar mit richtigen Angaben. Der Name kommt von „generativen“ Suchmaschinen, also Systemen, die Texte erzeugen. Manchmal ist auch von AI SEO, LLM-Optimierung oder KI-Sichtbarkeit die Rede; gemeint ist im Kern dasselbe.</p>"
+    },
+    {
+      "h2": "Wie KI-Suchen Antworten bilden",
+      "html": "<p>Vereinfacht nutzen KI-Suchen zwei Wissensquellen:</p> <ul> <li><strong>Trainingswissen:</strong> Das Sprachmodell hat beim Training große Textmengen gelesen. Was dort oft und einheitlich vorkam, „weiß“ es. Dieses Wissen ist aber nicht tagesaktuell.</li> <li><strong>Live-Suche:</strong> Viele KI-Suchen durchsuchen bei einer Frage zusätzlich das Web, lesen passende Seiten und fassen sie zusammen. Häufig nennen sie dabei ihre Quellen.</li> </ul> <p>Für einen kleinen Betrieb ist vor allem der zweite Weg erreichbar. Wenn Ihre Website klar sagt, was Sie machen, wo und für wen, und andere Quellen das bestätigen, steigt die Chance, dass Sie in der Antwort vorkommen. Mehr dazu im Ratgeber <a href=\"/wissen/chatgpt-empfiehlt-firmen/\">Wie ChatGPT Firmen empfiehlt</a>.</p>"
+    },
+    {
+      "h2": "Was GEO von SEO unterscheidet",
+      "html": "<p>Beides hängt eng zusammen. Gutes SEO ist die Grundlage für GEO, denn viele KI-Suchen greifen auf Suchindizes zu. Trotzdem setzen sie unterschiedliche Schwerpunkte:</p> <ul> <li><strong>SEO</strong> zielt auf eine gute Position in einer Ergebnisliste und auf Klicks.</li> <li><strong>GEO</strong> zielt darauf, in einer zusammengefassten Antwort genannt und richtig beschrieben zu werden, oft ganz ohne Klick.</li> <li>Bei SEO zählt stark die einzelne Seite, bei GEO stärker das <strong>Gesamtbild</strong> aus Website, Profilen, Bewertungen und Erwähnungen.</li> <li>GEO belohnt <strong>direkte, zitierfähige Antworten</strong> auf konkrete Fragen.</li> </ul> <p>Eine ausführliche Gegenüberstellung finden Sie unter <a href=\"/vergleiche/seo-oder-geo/\">SEO oder GEO?</a>.</p>"
+    },
+    {
+      "h2": "Die wichtigsten Hebel für GEO",
+      "html": "<ol> <li><strong>Klare Fakten auf der Website:</strong> Leistungen, Einzugsgebiet, Öffnungszeiten, Preise oder Preisrahmen, Zielgruppe. Nichts davon versteckt in Bildern oder PDFs.</li> <li><strong>Direkte Antworten:</strong> Jede wichtige Seite beantwortet die Kernfrage gleich am Anfang in zwei, drei Sätzen.</li> <li><strong>Häufige Fragen:</strong> echte Kundenfragen mit vollständigen Antworten. Siehe <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ-Inhalte, die KI-Suchen zitieren</a>.</li> <li><strong>Einheitliche Firmendaten</strong> auf Website, Google-Profil und Verzeichnissen.</li> <li><strong>Erwähnungen im Netz:</strong> Bewertungen, Presse, Partner, Vereine, Gemeinde.</li> <li><strong>Technischer Zugang:</strong> Die Website ist schnell, für Crawler lesbar und KI-Suchdienste sind nicht ausgesperrt.</li> </ol>"
+    },
+    {
+      "h2": "Für wen sich GEO besonders lohnt",
+      "html": "<p>GEO lohnt sich für Betriebe, deren Kunden vor dem Kauf Fragen stellen und vergleichen: Handwerk mit größeren Projekten, Beratung, Gesundheitsberufe, Tourismus, spezialisierte Händler. Ein Gast, der fragt „Wo kann man in der Wachau mit Hund übernachten?“, verlässt sich zunehmend auf solche Antworten.</p> <p>Weniger dringend ist GEO für Betriebe, die fast nur Laufkundschaft oder Stammkunden haben, etwa eine Trafik im Ortszentrum. Dort bringt ein gepflegtes Google-Profil meist mehr. Ehrlich gesagt: Auch für jeden anderen Betrieb kommt zuerst die solide Basis aus Website und Profil, dann die Feinarbeit für KI-Suchen.</p>"
+    },
+    {
+      "h2": "Was GEO nicht leisten kann",
+      "html": "<p>KI-Suchen sind keine Ergebnislisten mit festen Plätzen. Dieselbe Frage kann heute eine andere Antwort bekommen als morgen, und unterschiedliche Systeme nennen unterschiedliche Betriebe. Niemand kann deshalb garantieren, dass ChatGPT Ihren Betrieb empfiehlt.</p> <p>Was sich verbessern lässt, ist die Wahrscheinlichkeit, und was sich messen lässt, ist die Entwicklung: Wie oft wird Ihr Betrieb bei typischen Fragen genannt, und stimmen die Angaben? Wie das geht, beschreibt der Ratgeber <a href=\"/wissen/ki-sichtbarkeit-messen/\">KI-Sichtbarkeit messen</a>.</p>"
+    },
+    {
+      "h2": "So starten Sie mit GEO",
+      "html": "<p>Der erste Schritt ist eine Bestandsaufnahme: Fragen Sie ChatGPT, Gemini und Perplexity selbst nach Ihrem Betrieb und nach Ihrer Leistung in Ihrer Region. Notieren Sie, wer genannt wird und was über Sie gesagt wird.</p> <p>Gründlicher und vergleichbar macht das der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>: Er zeigt, wie oft Google und KI-Suchen Ihren Betrieb nennen, mit Bericht innerhalb von 24 Stunden. Auf dieser Basis besprechen Sie im kostenlosen Erstgespräch, welche Schritte sinnvoll sind. Die Leistung dazu finden Sie unter <a href=\"/leistungen/geo-ki-sichtbarkeit/\">Sichtbarkeit in KI-Suchen (GEO)</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet GEO?",
+      "a": "GEO steht für Generative Engine Optimization, also die Optimierung für generative Suchmaschinen. Gemeint sind KI-Systeme wie ChatGPT, Gemini, Perplexity oder die KI-Übersichten von Google, die auf Fragen mit selbst geschriebenen Antworten reagieren. GEO umfasst alle Maßnahmen, mit denen ein Betrieb in solchen Antworten häufiger und mit korrekten Angaben genannt wird, von klaren Website-Inhalten bis zu Erwähnungen im Netz."
+    },
+    {
+      "q": "Brauche ich GEO, wenn ich schon SEO mache?",
+      "a": "Gutes SEO ist bereits eine starke Grundlage, weil viele KI-Suchen auf Suchindizes zugreifen. GEO ergänzt das um Punkte, die bei klassischem SEO oft zu kurz kommen: direkte, zitierfähige Antworten, vollständige Fakten als Text, einheitliche Firmendaten über alle Plattformen und glaubwürdige Erwähnungen auf anderen Websites. Wer SEO sauber macht, hat meist schon einen guten Teil der GEO-Arbeit erledigt."
+    },
+    {
+      "q": "Kann man eine Empfehlung durch ChatGPT kaufen?",
+      "a": "Nein, Empfehlungen in den Antworten von ChatGPT und ähnlichen Systemen lassen sich nicht direkt kaufen und auch nicht garantieren. Die Systeme wählen selbst aus, welche Quellen und Betriebe sie nennen, und die Antworten schwanken. Was Sie beeinflussen können, sind die Grundlagen: klare Inhalte, korrekte Daten, gute Bewertungen und Erwähnungen. Damit steigt die Wahrscheinlichkeit, genannt zu werden."
+    },
+    {
+      "q": "Wie lange dauert es, bis GEO wirkt?",
+      "a": "Das hängt davon ab, welche Art von KI-Suche betrachtet wird. Systeme mit Live-Websuche können neue oder geänderte Inhalte vergleichsweise bald berücksichtigen, sobald sie gefunden und gelesen wurden. Das Trainingswissen der Sprachmodelle ändert sich dagegen nur mit neuen Modellversionen. Planen Sie wie bei SEO mit mehreren Monaten und messen Sie die Entwicklung regelmäßig, statt einzelne Antworten zu bewerten."
+    },
+    {
+      "q": "Was kostet GEO für einen kleinen Betrieb?",
+      "a": "Das hängt vom Ausgangszustand ab. Mit Hittaro gibt es eine Optimierung für Google und KI-Suchen einmalig um 199 €, 299 € oder 699 €, dazu optional Wartung ab 20 € pro Monat. Umfangreichere Arbeiten an Website und Inhalten werden nach einem Erstgespräch angeboten. Der Gratis-Check von Hittaro zeigt vorab kostenlos, wo Ihr Betrieb steht, damit Sie entscheiden können, ob sich mehr lohnt."
+    }
+  ],
+  "verwandt": [
+    "/glossar/geo/",
+    "/vergleiche/seo-oder-geo/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/produkte/hittaro/",
+    "/wissen/ki-sichtbarkeit-messen/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/hollabrunn/",
+  "title": "KI-Chatbot für Dienstleister in Hollabrunn",
+  "description": "Fahrschule, Nachhilfe, Versicherung: Wie ein KI-Chatbot Dienstleistern in Hollabrunn wiederkehrende Fragen abnimmt. Pipebot um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Hollabrunn",
+  "kicker": "KI-Chatbot · Bezirk Hollabrunn",
+  "lead": "Für Dienstleister in Hollabrunn, zu denen Menschen aus dem ganzen Bezirk kommen, beantwortet ein KI-Chatbot die immer gleichen Vorfragen: Wann beginnt der nächste Kurs, was muss ich mitbringen, wie läuft das ab? Pipebot erledigt das rund um die Uhr mit Ihren Website-Inhalten, um 19 € im Monat nach 30 Gratis-Tagen.",
+  "fakten": [
+    "Bezirkshauptstadt im westlichen Weinviertel, Anlaufstelle für viele umliegende Gemeinden",
+    "Passt zu Dienstleistern mit vielen gleichartigen Anfragen",
+    "Jüngere Kundschaft schreibt oft lieber, als anzurufen",
+    "19 € pro Monat, monatlich kündbar, erste 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Eine Bezirkshauptstadt als Anlaufstelle",
+      "html": "<p>Hollabrunn ist die Bezirkshauptstadt im westlichen <a href=\"/regionen/weinviertel/\">Weinviertel</a>. Menschen aus den umliegenden Gemeinden kommen für Behörden, Schule, Einkauf und Dienstleistungen in die Stadt. Wer hier ein Büro oder einen Kursbetrieb hat, bedient also Kundschaft aus dem ganzen <a href=\"/regionen/bezirk-hollabrunn/\">Bezirk Hollabrunn</a>.</p><p>Diese Kundschaft fragt vorab, um sich unnötige Wege zu sparen. Genau dafür ist ein Chatbot auf der Website gemacht.</p>"
+    },
+    {
+      "h2": "Beispiel Fahrschule: Fragen von Jugendlichen und Eltern",
+      "html": "<p>Eine Fahrschule bekommt jede Woche ähnliche Nachrichten, oft von 16-Jährigen am späten Abend oder von Eltern am Wochenende:</p><ul><li>Wann startet der nächste Theoriekurs, und gibt es Intensivkurse in den Ferien?</li><li>Welche Unterlagen brauche ich für die Anmeldung?</li><li>Wie funktioniert der L17-Führerschein, und was müssen die Begleitpersonen tun?</li></ul><p>Stehen die Antworten auf der Website, gibt Pipebot sie sofort weiter. Wer schreibt statt anruft, bekommt trotzdem eine Antwort. Mehr Ideen dazu auf der Seite für <a href=\"/branchen/fahrschule/\">Fahrschulen</a>.</p>"
+    },
+    {
+      "h2": "Nachhilfe und Versicherung: dasselbe Muster",
+      "html": "<p>Ein Nachhilfeinstitut hört: „Bieten Sie auch Latein an?“ oder „Gibt es Einzelstunden statt Gruppen?“ Ein Versicherungsmakler wird gefragt, welche Unterlagen bei einem Schaden nötig sind und wann das Büro besetzt ist.</p><p>Wichtig ist die Grenze: Der Bot erklärt Abläufe und Angebote, aber er berät nicht im Einzelfall. Eine individuelle Versicherungsberatung bleibt beim Menschen, der Bot verbindet in solchen Fällen mit Ihrem Team.</p>"
+    },
+    {
+      "h2": "Wenn sich Termine ändern",
+      "html": "<p>Kurse, Prüfungstermine und Bürozeiten ändern sich laufend. Der Bot kennt immer nur den Stand Ihrer Website. Wer Termine an einer Stelle sauber pflegt, hat damit gleichzeitig den Chatbot aktuell.</p><p>Reicht bei wenigen Fragen vielleicht eine gute FAQ-Seite? Der Vergleich <a href=\"/vergleiche/chatbot-oder-faq-seite/\">Chatbot oder FAQ-Seite</a> hilft bei der Entscheidung. Für den <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>, wie er mit Ihrer Website antwortet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Chatbot nicht unpersönlich für einen kleinen Betrieb?",
+      "a": "Das hängt davon ab, wofür Sie ihn einsetzen. Für Routinefragen wie Kurstermine, Unterlagen oder Bürozeiten empfinden die meisten eine sofortige Antwort als Service, nicht als Abfertigung. Persönlich wird es dort, wo es um den Einzelfall geht. Genau dann verbindet Pipebot mit Ihnen. Sie gewinnen Zeit für die Gespräche, in denen Ihre Erfahrung wirklich gefragt ist."
+    },
+    {
+      "q": "Kann der Bot sagen, ob im nächsten Kurs noch Plätze frei sind?",
+      "a": "Nur wenn diese Information auf Ihrer Website steht. Pipebot hat keinen Zugriff auf Ihre interne Kursverwaltung, er antwortet mit den veröffentlichten Inhalten. Wenn Sie freie Plätze nicht laufend online stellen wollen, kann der Bot erklären, wie die Anmeldung funktioniert, und den Interessenten an Sie weiterleiten. Das ist ehrlicher als eine Angabe, die vielleicht nicht mehr stimmt."
+    },
+    {
+      "q": "Wie viel Arbeit habe ich beim Einrichten?",
+      "a": "Den technischen Teil übernimmt Pipeline AI Solutions. Ihr Anteil ist inhaltlich: Sie sammeln die Fragen, die am häufigsten kommen, und sorgen dafür, dass die Antworten auf Ihrer Website stehen. Danach sehen Sie sich an, wie der Bot antwortet, und geben frei. Mühlberger Digital begleitet Sie dabei und sagt offen, wenn sich der Aufwand für Ihren Betrieb nicht lohnt."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-hollabrunn/",
+    "/branchen/fahrschule/",
+    "/branchen/nachhilfe/",
+    "/vergleiche/chatbot-oder-faq-seite/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

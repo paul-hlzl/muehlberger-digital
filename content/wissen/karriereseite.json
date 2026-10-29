@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/karriereseite/",
+  "title": "Die Karriereseite auf der Firmenwebsite aufbauen",
+  "description": "Die Karriereseite auf der Firmenwebsite: Was hineingehört, wie Bewerbung am Handy einfach wird, wie Google Stellen findet und was beim Datenschutz zu beachten ist.",
+  "h1": "Die Karriereseite auf der Firmenwebsite",
+  "kicker": "Ratgeber · Personal",
+  "lead": "Eine gute Karriereseite auf der Firmenwebsite zeigt alle offenen Stellen, gibt echte Einblicke in Arbeitsalltag und Team, nennt die wichtigsten Rahmenbedingungen und ermöglicht eine Bewerbung in wenigen Minuten am Handy. Sie ist das Ziel, auf das Stellenanzeigen, Social Media und Empfehlungen verweisen. Auch kleine Betriebe brauchen dafür nur eine einzige, gut gemachte Seite.",
+  "fakten": [
+    "Eine Seite genügt: offene Stellen, Einblicke, Rahmenbedingungen, Bewerbung",
+    "Echte Fotos und Stimmen aus dem Team wirken mehr als Stockbilder",
+    "Bewerbung ohne Pflicht-Lebenslauf, mit kurzem Formular oder Anruf",
+    "Mit strukturierten Daten können Stellen in der Google-Jobsuche erscheinen",
+    "Auch ohne offene Stelle sinnvoll: Initiativbewerbungen ermöglichen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum eine eigene Karriereseite wichtig ist",
+      "html": "<p>Wer sich für eine Stelle interessiert, schaut sich fast immer zuerst die Website des Betriebs an. Findet er dort nichts zu offenen Stellen oder zum Arbeiten im Betrieb, fehlt ein wichtiger Grund, sich zu bewerben. Eine Anzeige auf einem Portal verschwindet nach einigen Wochen, die Karriereseite bleibt.</p><p>Außerdem gehört sie Ihnen: Sie bestimmen Inhalt, Bilder und Bewerbungsweg, ohne Kosten pro Anzeige. Alle anderen Kanäle, von Jobbörsen bis Social Media, können auf diese eine Seite verweisen. Für die Gesamtstrategie siehe <a href=\"/wissen/mitarbeiter-finden-online/\">Mitarbeiter online finden</a>.</p>"
+    },
+    {
+      "h2": "Was auf eine Karriereseite gehört",
+      "html": "<ul><li><strong>Offene Stellen</strong> mit kurzer Beschreibung, jeweils auf einer eigenen Unterseite oder aufklappbar</li><li><strong>Arbeiten bei uns:</strong> ein paar Sätze, was den Betrieb als Arbeitgeber ausmacht, ehrlich und konkret</li><li><strong>Fotos vom echten Team</strong> und Arbeitsplatz, von der Werkstatt bis zur Kaffeeküche</li><li><strong>Stimmen aus dem Team:</strong> kurze Aussagen von Mitarbeitern mit deren Einverständnis</li><li><strong>Rahmenbedingungen:</strong> Arbeitszeiten, Gehaltsangaben, Weiterbildung, Ausstattung, Anfahrt</li><li><strong>Ablauf der Bewerbung:</strong> was passiert nach dem Absenden, wie schnell melden Sie sich</li><li><strong>Ansprechperson</strong> mit Foto, Telefon und E-Mail</li><li><strong>Initiativbewerbung</strong> für alle, die zu keiner offenen Stelle passen</li><li><strong>Lehre:</strong> eigener Bereich mit Lehrberufen, Schnuppertagen und Ansprechpartner für Eltern</li></ul>"
+    },
+    {
+      "h2": "Bewerbung in zwei Minuten am Handy",
+      "html": "<p>Die meisten Menschen schauen sich Stellen am Handy an, oft in einer Pause oder abends auf der Couch. Muss man erst einen Lebenslauf als PDF suchen, ist die Motivation schnell weg.</p><ul><li>Kurzes Formular mit Name, Telefon, E-Mail, gewünschter Stelle und einem Freitextfeld</li><li>Upload von Lebenslauf und Zeugnissen optional</li><li>Alternativ: Anruf, WhatsApp oder Rückrufwunsch</li><li>Große Schaltflächen, wenig Pflichtfelder, keine Registrierung</li><li>Sofortige Bestätigung nach dem Absenden</li></ul><p>Testen Sie die Bewerbung selbst am eigenen Handy, mit mobilem Internet und ohne gespeicherte Daten. Was Sie dabei nervt, nervt auch Bewerber. Grundsätzliches zu guten Formularen steht im Beitrag <a href=\"/wissen/kontaktformular/\">Kontaktformular</a>.</p>"
+    },
+    {
+      "h2": "Bei Google gefunden werden",
+      "html": "<p>Google zeigt Stellenangebote in einer eigenen Jobsuche an. Damit Ihre Stellen dort erscheinen können, braucht jede Stelle eine eigene Seite mit strukturierten Daten, also einer maschinenlesbaren Beschreibung mit Titel, Ort, Arbeitszeit und Datum. Wie das funktioniert, erklärt der Beitrag <a href=\"/wissen/strukturierte-daten/\">Strukturierte Daten</a>.</p><ul><li>Berufsbezeichnungen verwenden, nach denen gesucht wird</li><li>Ort und Region klar nennen, etwa „Tischler in Zwettl“</li><li>Besetzte Stellen entfernen oder als abgelaufen kennzeichnen</li><li>Die Karriereseite im Menü der Website gut sichtbar verlinken</li></ul><p>Zunehmend fragen Menschen auch KI-Assistenten nach Arbeitgebern in der Region. Klare, gut strukturierte Inhalte helfen hier ebenso.</p>"
+    },
+    {
+      "h2": "Datenschutz bei Bewerbungen",
+      "html": "<p>Bewerbungen enthalten personenbezogene Daten, oft sehr persönliche. Als allgemeine Orientierung:</p><ul><li>Über ein sicheres Formular mit verschlüsselter Übertragung entgegennehmen</li><li>In der Datenschutzerklärung beschreiben, wofür die Daten genutzt und wie lange sie aufbewahrt werden</li><li>Nur die Personen sehen lassen, die über die Einstellung entscheiden</li><li>Daten abgelehnter Bewerber nach einer angemessenen Frist löschen</li><li>Für eine längere Aufbewahrung im Bewerberpool eine Einwilligung einholen</li></ul><p>Welche Fristen konkret gelten, klären Sie im Zweifel mit der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> oder der <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>.</p>"
+    },
+    {
+      "h2": "Ein Beispiel und die nächsten Schritte",
+      "html": "<p>Ein Zimmereibetrieb mit zwölf Mitarbeitern hat bisher nur einen Satz „Wir suchen immer gute Leute“ auf der Website. Die neue Karriereseite zeigt zwei offene Stellen und die Lehre, Fotos von der Abbundhalle und von der Baustelle, drei kurze Aussagen von Mitarbeitern, die Arbeitszeiten samt freiem Freitagnachmittag und ein Formular mit fünf Feldern. Der Chef verlinkt die Seite auf den Firmenautos per QR-Code und in jedem Social-Media-Beitrag.</p><p>Wenn Sie eine Karriereseite neu aufbauen oder in Ihre bestehende Website integrieren möchten, finden Sie unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> unser Vorgehen. Wie Ihre Startseite heute auf Besucher wirkt, zeigt der <a href=\"/gratis-check/website-entwurf/\">Gratis-Test für einen neuen Startseiten-Entwurf</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Braucht ein kleiner Betrieb eine Karriereseite?",
+      "a": "Ja, sobald Sie regelmäßig Mitarbeiter oder Lehrlinge suchen. Bewerber schauen sich fast immer die Website an, bevor sie sich melden. Eine einzige, gut gemachte Seite mit offenen Stellen, Einblicken ins Team, Rahmenbedingungen und einfacher Bewerbung reicht völlig. Sie kostet keine Anzeigengebühren und dient als Ziel für alle anderen Kanäle."
+    },
+    {
+      "q": "Was sollte auf einer Karriereseite stehen?",
+      "a": "Offene Stellen mit kurzer Beschreibung, ehrliche Infos zum Arbeiten im Betrieb, echte Fotos vom Team, Rahmenbedingungen wie Arbeitszeiten und Gehaltsangaben, der Ablauf der Bewerbung, eine Ansprechperson mit Telefonnummer und die Möglichkeit zur Initiativbewerbung. Für Lehrbetriebe kommt ein eigener Bereich zur Lehre mit Schnuppertagen und Infos für Eltern dazu."
+    },
+    {
+      "q": "Wie kommen meine Stellen in die Google-Jobsuche?",
+      "a": "Jede Stelle braucht eine eigene Seite auf Ihrer Website mit strukturierten Daten, die Titel, Ort, Arbeitszeit, Veröffentlichungsdatum und weitere Angaben maschinenlesbar beschreiben. Google kann die Stelle dann in der Jobsuche anzeigen, garantiert ist das aber nicht. Besetzte Stellen sollten Sie entfernen oder als abgelaufen kennzeichnen, damit die Angaben aktuell bleiben."
+    },
+    {
+      "q": "Wie lange darf ich Bewerbungsunterlagen aufbewahren?",
+      "a": "Bewerbungsdaten dürfen nur so lange aufbewahrt werden, wie es für das Verfahren und eine mögliche rechtliche Auseinandersetzung nötig ist. Danach sind sie zu löschen. Für eine längere Aufbewahrung, etwa in einem Bewerberpool, brauchen Sie eine Einwilligung. Die konkreten Fristen klären Sie im Zweifel mit der Wirtschaftskammer oder der Datenschutzbehörde."
+    }
+  ],
+  "verwandt": ["/wissen/mitarbeiter-finden-online/", "/wissen/stellenanzeige-schreiben/", "/wissen/arbeitgebermarke/", "/wissen/strukturierte-daten/", "/leistungen/website-erstellen/"],
+  "checks": ["website-entwurf", "seo-check"]
+}

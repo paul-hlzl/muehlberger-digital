@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/website-erstellen/hollabrunn/",
+  "title": "Website erstellen lassen in Hollabrunn für Handwerker",
+  "description": "Website erstellen lassen in Hollabrunn: Handwerksbetriebe zeigen ihr Einsatzgebiet im weitläufigen Bezirk klar und werden lokal gefunden. Ab 2.500 €.",
+  "h1": "Website erstellen lassen in Hollabrunn",
+  "kicker": "Website · Bezirk Hollabrunn",
+  "lead": "Der Bezirk Hollabrunn im Weinviertel ist weitläufig, mit vielen kleinen Gemeinden und Katastralgemeinden. Handwerksbetriebe, die von Retz bis in den Süden des Bezirks fahren, brauchen eine Website, die genau das zeigt: welche Arbeiten sie machen und wo. Einen solchen Auftritt vermittelt Mühlberger Digital ab 2.500 €, gebaut wird er von Pipeline AI Solutions.",
+  "fakten": [
+    "Weitläufiger Bezirk mit vielen kleinen Orten: Einsatzgebiet sichtbar machen",
+    "Handwerker werden meist kurzfristig und am Handy gesucht",
+    "Fotos echter Arbeiten wirken stärker als Werbetexte",
+    "Starter-Website ab 2.500 €, schriftliches Angebot vor Beginn"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Bezirk, viele Orte, eine Suche",
+      "html": "<p>Wer in einem kleinen Ort einen Elektriker oder Dachdecker braucht, sucht selten nach dem Namen der Bezirkshauptstadt. Gesucht wird nach dem eigenen Ort oder einfach „in der Nähe“. Wenn Ihre Website nur „Hollabrunn“ nennt, ist für viele Interessenten unklar, ob Sie überhaupt zu ihnen kommen.</p><p>Eine kurze, ehrliche Beschreibung des Einsatzgebiets löst das. Zum Beispiel: „Wir arbeiten im gesamten Bezirk Hollabrunn und im angrenzenden Weinviertel, größere Aufträge auch darüber hinaus.“</p>"
+    },
+    {
+      "h2": "Was auf eine Handwerker-Website gehört",
+      "html": "<ol><li><strong>Leistungen in Alltagssprache:</strong> nicht „Elektroinstallationen aller Art“, sondern „Zählerkasten, Photovoltaik-Anschluss, Leitungen im Altbau“.</li><li><strong>Telefonnummer oben und zum Antippen:</strong> Die meisten Anfragen kommen vom Handy.</li><li><strong>Fotos echter Baustellen:</strong> vorher und nachher, mit kurzer Beschreibung.</li><li><strong>Reaktionszeit:</strong> Wann melden Sie sich zurück, gibt es einen Notdienst?</li></ol><p>Mehr dazu im Ratgeber <a href=\"/wissen/handwerker-website/\">Handwerker-Website</a> und auf der Seite für <a href=\"/branchen/elektriker/\">Elektriker</a>.</p>"
+    },
+    {
+      "h2": "Drei Betriebe, drei Schwerpunkte",
+      "html": "<p>Ein <strong>Rauchfangkehrer</strong> braucht vor allem eine Übersicht über sein Kehrgebiet und Hinweise, wann er kommt. Ein <strong>Dachdecker</strong> zeigt Referenzdächer und erklärt, wie eine Besichtigung abläuft. Ein <strong>Bodenleger</strong> lebt von Bildern verschiedener Materialien und einer einfachen Möglichkeit, Fotos des eigenen Raumes mitzuschicken.</p><p>Gleich ist bei allen: Die Seite ist kurz, schnell und auf Anfragen ausgerichtet.</p>"
+    },
+    {
+      "h2": "Später: eigene Seiten für einzelne Orte?",
+      "html": "<p>Manche Betriebe überlegen, für jeden Ort eine eigene Unterseite anzulegen. Das kann sinnvoll sein, wenn Sie dort wirklich Arbeiten vorzeigen können. Seiten, auf denen nur der Ortsname getauscht wird, schaden eher. Worauf es ankommt, steht im Ratgeber <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages</a>.</p><p>Für den Start reicht die Starter-Website mit bis zu fünf Seiten, Details unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>. Mehr zur Region auf <a href=\"/regionen/bezirk-hollabrunn/\">Bezirk Hollabrunn</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Werde ich in den kleinen Orten rund um Hollabrunn gefunden?",
+      "a": "Das hängt von mehreren Faktoren ab: einer klaren Beschreibung des Einsatzgebiets, einem gepflegten Google-Unternehmensprofil und Bewertungen von Kunden aus der Gegend. Die Website legt dafür die Grundlage, versprechen kann aber niemand eine bestimmte Platzierung. Wie es aktuell aussieht, zeigt ein kostenloser SEO-Test, bevor Sie Geld investieren."
+    },
+    {
+      "q": "Ich habe kaum Zeit für Texte. Wer schreibt die Inhalte?",
+      "a": "Im Erstgespräch und in einem kurzen Folgetermin werden die wichtigsten Informationen gemeinsam gesammelt. Daraus entstehen Textentwürfe, die Sie nur noch prüfen und korrigieren. Wichtig sind vor allem Ihre Fotos von echten Arbeiten und ein paar Sätze dazu, was Ihren Betrieb ausmacht. Mehr Zeit als ein, zwei Abende braucht es dafür meistens nicht."
+    },
+    {
+      "q": "Brauche ich neben der Website noch ein Google-Profil?",
+      "a": "Ja, beides gehört zusammen. Das Google-Unternehmensprofil erscheint bei Suchen in der Nähe und auf Google Maps, die Website liefert die ausführlichen Informationen und Fotos. Viele Interessenten sehen zuerst das Profil und klicken dann weiter. Ein Profil mit Link zu einer guten Website wirkt deutlich vertrauenswürdiger als eines ohne."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-hollabrunn/",
+    "/regionen/weinviertel/",
+    "/wissen/handwerker-website/",
+    "/wissen/lokale-landingpages/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

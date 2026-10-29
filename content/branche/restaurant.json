@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/restaurant/",
+  "title": "Digitale Lösungen für Restaurants & Gasthäuser",
+  "description": "Reservierungen mitten im Service, Mittagsmenü, Allergene, Feiern: Wie Restaurants und Gasthäuser Telefon und Website so organisieren, dass Gäste kommen.",
+  "h1": "Digitale Lösungen für Restaurants & Gasthäuser",
+  "kicker": "Branche · Gastronomie",
+  "lead": "Im Restaurant läutet das Telefon genau dann, wenn die Küche voll ist: Tischreservierungen, Fragen zum Mittagsmenü, Anfragen für Feiern. Gasthäuser gewinnen am meisten mit drei Dingen: stets aktuelle Öffnungszeiten und Menüs online, Reservierungen ohne Anruf und eine klare Anfrage für Feiern und Gruppen.",
+  "fakten": [
+    "Falsche Öffnungszeiten im Netz kosten Gäste, die vor verschlossener Tür stehen",
+    "Reservierungen online oder per Telefonassistent statt mitten im Service",
+    "Feiern wie Taufe, Geburtstag oder Totenmahl brauchen eine eigene Anfrage",
+    "Chatbot Pipebot: 19 € pro Monat, erste 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Anruf um halb eins",
+      "html": "<p>Mittags, wenn alle Tische besetzt sind, ruft jemand an und will für Samstag einen Tisch für sechs. Die Kellnerin geht ran, sucht das Reservierungsbuch, und am Tisch drei wartet ein Gast auf die Rechnung. Das ist der Alltag in vielen Gasthäusern.</p><p>Zwei Lösungen helfen: eine <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a> auf der Website, die abends und am Wochenende viele Buchungen abfängt, und ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a>, der Anrufe zu Stoßzeiten annimmt, Reservierungswünsche aufnimmt und Standardfragen beantwortet. Der Preis für den Telefonassistenten ist auf Anfrage. Für viele kleine Gasthäuser reicht die Online-Reservierung schon.</p>"
+    },
+    {
+      "h2": "Mittagsmenü und Speisekarte: immer aktuell, ohne PDF-Chaos",
+      "html": "<p>Viele Gäste schauen vor dem Mittagessen kurz online nach, was es heute gibt. Steht dort das Menü von vor drei Wochen oder ein PDF, das am Handy nicht lesbar ist, gehen sie woanders hin.</p><ul><li>Ein Mittagsmenü, das Sie selbst in einer Minute aktualisieren, ohne die Website-Agentur anzurufen.</li><li>Eine Speisekarte als Text statt als Foto, damit Google sie lesen kann.</li><li>Saisonale Schwerpunkte wie Spargel, Eierschwammerl, Martinigansl oder Wild deutlich sichtbar.</li></ul><p>Wie das praktisch aussieht, beschreibt der Ratgeber <a href=\"/wissen/digitale-speisekarte/\">digitale Speisekarte</a>.</p>"
+    },
+    {
+      "h2": "Öffnungszeiten und Ruhetage: der unterschätzte Fehler",
+      "html": "<p>Nichts kostet ein Gasthaus mehr Vertrauen als Gäste, die am Ruhetag vor der Tür stehen, weil Google etwas anderes anzeigt. Besonders bei Betriebsurlaub und Feiertagen ist das häufig.</p><p>Die Öffnungszeiten müssen auf der Website, im Google-Unternehmensprofil und auf anderen Plattformen gleich sein. Warum das so wichtig ist, erklärt der Ratgeber zu <a href=\"/wissen/nap-daten/\">NAP-Daten</a>. Tragen Sie Sonderöffnungszeiten für Feiertage und Betriebsurlaub im Google-Profil rechtzeitig ein. Das dauert fünf Minuten und spart Ärger.</p>"
+    },
+    {
+      "h2": "Feiern und Gruppen: die wertvollsten Anfragen",
+      "html": "<p>Taufe, runder Geburtstag, Firmenweihnachtsfeier, Totenmahl nach einem Begräbnis: Solche Anfragen sind für viele Gasthäuser besonders wertvoll, kommen aber oft unstrukturiert. Ein eigenes Formular für Feiern fragt Anlass, Datum, Personenanzahl, Menüwunsch und ob ein eigener Raum gebraucht wird.</p><p>Gerade beim Totenmahl zählt Schnelligkeit und Einfühlungsvermögen. Eine kurze, würdige Seite mit Telefonnummer und dem Hinweis, dass Sie auch kurzfristig helfen, ist für Angehörige eine echte Erleichterung.</p>"
+    },
+    {
+      "h2": "Fragen zu Allergenen und Parkplatz",
+      "html": "<p>Gibt es glutenfreie Speisen? Ist der Gastgarten hundefreundlich? Gibt es Parkplätze, ist das Lokal barrierefrei? Solche Fragen kommen täglich. Ein Chatbot wie <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet sie rund um die Uhr, aber nur mit den Inhalten, die Sie hinterlegt haben.</p><p>Bei Allergenen ist Vorsicht wichtig: Der Bot sollte allgemein informieren und bei konkreten Unverträglichkeiten auf das Personal verweisen, damit kein Gast eine falsche Auskunft bekommt. Pipebot kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis.</p>"
+    },
+    {
+      "h2": "Womit ein Gasthaus anfangen sollte",
+      "html": "<p>Ehrlich gesagt brauchen viele Gasthäuser zuerst keine KI, sondern ein aktuelles Google-Profil und eine Website, auf der Menü und Öffnungszeiten stimmen. Danach kommen Online-Reservierung und Feieranfrage. Telefonassistent und Chatbot lohnen sich vor allem bei Betrieben mit vielen Anrufen.</p><p>Mehr zur Auffindbarkeit in der Gastronomie steht im Ratgeber <a href=\"/wissen/seo-gastronomie/\">SEO für die Gastronomie</a>. Im <a href=\"/erstgespraech/\">Erstgespräch</a> klären wir, welche Reihenfolge für Sie passt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Telefonassistent Tischreservierungen annehmen?",
+      "a": "Ja, er kann Name, Datum, Uhrzeit und Personenanzahl aufnehmen und Standardfragen beantworten, etwa zu Öffnungszeiten oder Parkplätzen. Ob er Reservierungen direkt einträgt oder als Liste weitergibt, hängt von Ihrem bestehenden System ab. Bei Sonderwünschen oder großen Gruppen verbindet er mit dem Personal. Der Telefonassistent wird über Pipeline AI Solutions angeboten, der Preis ist auf Anfrage."
+    },
+    {
+      "q": "Wie halte ich mein Mittagsmenü online aktuell?",
+      "a": "Am besten mit einem Bereich auf der Website, den Sie selbst in einer Minute ändern können, ohne technisches Wissen. Das Menü sollte als Text auf der Seite stehen, nicht als Foto oder PDF, damit es am Handy gut lesbar ist und Google es findet. Wer das Menü ohnehin wöchentlich schreibt, kann es so mit wenig Aufwand gleich online stellen."
+    },
+    {
+      "q": "Soll ein Chatbot Fragen zu Allergenen beantworten?",
+      "a": "Nur allgemein und mit klarem Verweis auf das Personal. Ein Chatbot wie Pipebot antwortet ausschließlich mit den Inhalten, die Sie hinterlegt haben, zum Beispiel dass es glutenfreie Gerichte gibt. Bei konkreten Unverträglichkeiten sollte er immer empfehlen, direkt beim Personal nachzufragen. Rezepte und Zutaten ändern sich, und eine falsche Auskunft kann für Gäste gefährlich sein."
+    },
+    {
+      "q": "Was kostet eine Website für ein Gasthaus?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. Typisch wären Startseite, Speisekarte und Mittagsmenü, Feiern und Gruppen, Über uns und Kontakt mit Anfahrt. Enthalten sind Kontaktformular, Impressum, Datenschutz, Hosting und Optimierung für Google. Eine Online-Reservierung oder ein Bereich, in dem Sie das Menü selbst pflegen, wird im Erstgespräch besprochen."
+    }
+  ],
+  "verwandt": ["/wissen/online-reservierung/", "/wissen/digitale-speisekarte/", "/wissen/seo-gastronomie/", "/leistungen/ki-telefonassistent/", "/branchen/heuriger/"],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

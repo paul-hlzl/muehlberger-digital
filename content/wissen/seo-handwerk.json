@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/seo-handwerk/",
+  "title": "SEO für Handwerksbetriebe: In der Region gefunden",
+  "description": "SEO für Handwerksbetriebe: wie Installateur, Tischler oder Dachdecker mit Leistungsseiten, Projektfotos und Google-Profil in ihrer Region gefunden werden.",
+  "h1": "SEO für Handwerksbetriebe",
+  "kicker": "Ratgeber · SEO",
+  "lead": "Handwerksbetriebe werden vor allem dann gefunden, wenn ihre Website jede Leistung auf einer eigenen Seite erklärt, echte Projektfotos zeigt und das Einzugsgebiet klar nennt, und wenn das Google-Unternehmensprofil gepflegt ist und regelmäßig Bewertungen bekommt. Teure Kampagnen braucht es dafür selten, wohl aber Beständigkeit.",
+  "fakten": [
+    "Kunden suchen nach Leistung plus Ort, etwa „Badsanierung Gmünd“",
+    "Jede Hauptleistung verdient eine eigene Unterseite",
+    "Projektfotos mit kurzer Beschreibung sind der beste Inhalt für Handwerker",
+    "Bewertungen im Google-Profil entscheiden oft über den Anruf",
+    "Notdienst, Einzugsgebiet und Erreichbarkeit gehören gut sichtbar auf die Seite"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Kunden Handwerker suchen",
+      "html": "<p>Wer einen Handwerker sucht, hat meist ein konkretes Problem: Die Heizung ist ausgefallen, das Dach ist undicht, die Küche soll neu werden. Die Suche ist entsprechend klar: Leistung plus Ort, oft am Handy, manchmal mit „in der Nähe“ oder „Notdienst“.</p> <p>Daraus folgen zwei Situationen mit unterschiedlichen Anforderungen. Beim <strong>Notfall</strong> zählt, dass Telefonnummer und Erreichbarkeit sofort sichtbar sind. Bei <strong>geplanten Projekten</strong> wie einer Badsanierung vergleichen Kunden in Ruhe, schauen sich Referenzen an und lesen Bewertungen. Ihre Website sollte beide Fälle bedienen.</p>"
+    },
+    {
+      "h2": "Eine Seite pro Leistung",
+      "html": "<p>Der häufigste Fehler auf Handwerker-Websites: alle Leistungen in einer Liste auf einer einzigen Seite. Google kann dann kaum erkennen, wofür Sie die richtige Adresse sind. Besser ist eine eigene Unterseite je Hauptleistung.</p> <ul> <li>Ein Installateur: Badsanierung, Heizungstausch, Wärmepumpe, Notdienst.</li> <li>Ein Tischler: Küchen, Einbauschränke, Türen, Möbel nach Maß.</li> <li>Ein Dachdecker: Neueindeckung, Dachsanierung, Flachdach, Reparaturen.</li> </ul> <p>Jede dieser Seiten beantwortet: Was genau machen Sie? Für wen? Wie läuft es ab? Womit muss man rechnen? Welche Fragen kommen oft? Ein gutes Muster dafür zeigt der Ratgeber <a href=\"/wissen/handwerker-website/\">Was eine Handwerker-Website braucht</a>.</p>"
+    },
+    {
+      "h2": "Projektfotos als stärkster Inhalt",
+      "html": "<p>Für Handwerker sind fertige Arbeiten der beste Beweis. Eine Referenzseite oder ein Projektbereich mit kurzen Beschreibungen bringt gleich mehrere Vorteile: Kunden sehen Qualität, Google bekommt frische Inhalte, und KI-Suchen finden konkrete Belege für Ihre Erfahrung.</p> <ul> <li>Fotografieren Sie vorher und nachher, möglichst bei Tageslicht.</li> <li>Schreiben Sie zwei, drei Sätze dazu: Ausgangslage, Lösung, Besonderheit.</li> <li>Nennen Sie die Gegend, wenn der Kunde einverstanden ist, etwa „Einfamilienhaus im Bezirk Horn“.</li> <li>Geben Sie den Bildern sprechende Dateinamen und Alt-Texte, wie unter <a href=\"/wissen/bilder-seo/\">Bilder-SEO und Alt-Texte</a> beschrieben.</li> </ul> <p>Ein Projekt pro Monat ist ein realistischer Rhythmus, der sich über ein Jahr zu einem beeindruckenden Archiv summiert.</p>"
+    },
+    {
+      "h2": "Google-Unternehmensprofil und Bewertungen",
+      "html": "<p>Bei Suchen mit Ortsbezug zeigt Google oft zuerst eine Karte mit drei Betrieben. Wer dort steht, bekommt einen großen Teil der Anrufe. Dafür zählen ein vollständiges Profil mit richtiger Kategorie, Einzugsgebiet, Öffnungszeiten, Fotos und vor allem Bewertungen.</p> <p>Handwerker haben dabei einen Vorteil: Sie stehen nach getaner Arbeit persönlich beim Kunden. Genau dann ist der beste Moment, um eine Bewertung zu bitten. Eine kleine Karte mit QR-Code, die zum Bewertungslink führt, macht es dem Kunden leicht. Tipps dazu finden Sie unter <a href=\"/wissen/google-bewertungen-bekommen/\">Mehr Google-Bewertungen bekommen</a>.</p>"
+    },
+    {
+      "h2": "Einzugsgebiet richtig darstellen",
+      "html": "<p>Die meisten Handwerksbetriebe arbeiten in einem Umkreis von einer halben bis einer Stunde Fahrzeit. Dieses Gebiet sollte klar auf der Website stehen, am besten mit einer Liste der Bezirke und wichtigsten Orte.</p> <p>Für Orte, in denen Sie besonders oft arbeiten und Referenzen haben, kann eine eigene Seite sinnvoll sein. Kopierte Ortsseiten mit getauschtem Namen schaden dagegen eher. Wie Sie das richtig angehen, beschreibt der Ratgeber <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages richtig machen</a>.</p>"
+    },
+    {
+      "h2": "Typische Fehler auf Handwerker-Websites",
+      "html": "<ul> <li><strong>Telefonnummer versteckt:</strong> Am Handy muss ein Tipp auf die Nummer reichen, um anzurufen.</li> <li><strong>Notdienst unklar:</strong> Gibt es ihn, zu welchen Zeiten, in welchem Gebiet? Klar sagen, auch wenn die Antwort „nein“ ist.</li> <li><strong>Nur Stockfotos:</strong> Fremde Bäder überzeugen niemanden.</li> <li><strong>Veraltete Inhalte:</strong> Das letzte Projekt ist von vor fünf Jahren, der Lehrling von damals ist längst Meister.</li> <li><strong>Langsame Seite:</strong> Große Bilder ohne Komprimierung bremsen gerade am Baustellen-Handy.</li> <li><strong>Keine Preise, keine Orientierung:</strong> Wer gar nichts zu Kosten sagt, verliert Interessenten. Ein Satz zu typischen Kostenfaktoren hilft schon.</li> </ul>"
+    },
+    {
+      "h2": "Wenig Zeit? So setzen Sie Prioritäten",
+      "html": "<p>Im Handwerk ist die Zeit für Marketing knapp. Wenn Sie nur wenig investieren können, gehen Sie in dieser Reihenfolge vor:</p> <ol> <li>Google-Unternehmensprofil vollständig ausfüllen und Bewertungen sammeln.</li> <li>Für jede Hauptleistung eine eigene, ehrliche Seite.</li> <li>Jeden Monat ein Projekt mit Fotos ergänzen.</li> <li>Technik prüfen lassen: Ladezeit, Handy-Darstellung, Seitentitel.</li> </ol> <p>Wo Ihre Website heute steht, zeigt der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>. Weitere Beispiele aus einzelnen Gewerken finden Sie etwa auf der Seite für <a href=\"/branchen/installateur/\">Installateure</a>. Und wenn Sie Unterstützung bei der Umsetzung möchten, bespricht Jonas Mühlberger im kostenlosen Erstgespräch, was sich für Ihren Betrieb wirklich lohnt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird mein Handwerksbetrieb bei Google gefunden?",
+      "a": "Die Grundlage sind drei Bausteine: ein vollständiges Google-Unternehmensprofil mit regelmäßigen Bewertungen, eine Website mit eigener Seite für jede Hauptleistung und eine klare Angabe Ihres Einzugsgebiets. Dazu kommen echte Projektfotos mit kurzer Beschreibung, eine schnelle Ladezeit am Handy und eine gut sichtbare Telefonnummer. Wer das konsequent pflegt, ist in der eigenen Region meist gut auffindbar."
+    },
+    {
+      "q": "Brauche ich als Handwerker einen Blog?",
+      "a": "Einen klassischen Blog brauchen Sie nicht. Sehr wirkungsvoll ist dagegen ein Projekt- oder Referenzbereich, in dem Sie regelmäßig abgeschlossene Arbeiten mit Fotos und ein paar Sätzen zeigen. Ergänzend können Antworten auf häufige Kundenfragen helfen, etwa wie lange eine Badsanierung dauert. Das bringt frische Inhalte und beweist Erfahrung, ohne dass Sie lange Artikel schreiben müssen."
+    },
+    {
+      "q": "Lohnt sich SEO, wenn ich ohnehin ausgebucht bin?",
+      "a": "Eine große laufende SEO-Betreuung lohnt sich dann meist nicht. Eine solide Website und ein gepflegtes Google-Profil sind aber trotzdem sinnvoll, weil auch empfohlene Kunden Sie online prüfen. Außerdem hilft gute Sichtbarkeit, sich die Aufträge auszusuchen, die am besten passen, und in ruhigeren Phasen schnell wieder Anfragen zu bekommen."
+    },
+    {
+      "q": "Soll ich Preise auf meine Handwerker-Website schreiben?",
+      "a": "Fixpreise sind im Handwerk oft schwierig, weil jeder Auftrag anders ist. Hilfreich sind aber Orientierungen: wovon der Preis abhängt, welche Größenordnung typische Arbeiten haben oder ob die Besichtigung etwas kostet. Das filtert unpassende Anfragen und schafft Vertrauen. Wenn Sie keine Zahlen nennen möchten, erklären Sie zumindest den Ablauf bis zum schriftlichen Angebot."
+    }
+  ],
+  "verwandt": [
+    "/wissen/handwerker-website/",
+    "/wissen/lokales-seo/",
+    "/wissen/google-bewertungen-bekommen/",
+    "/leistungen/seo/",
+    "/branchen/installateur/",
+    "/wissen/ki-handwerk/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

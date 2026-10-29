@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/onlineshop-kosten/",
+  "title": "Was kostet ein Onlineshop? Kosten im Überblick",
+  "description": "Was kostet ein Onlineshop für einen kleinen Betrieb? Einmalige und laufende Kosten, versteckte Posten und wie Sie Angebote für einen Shop richtig vergleichen.",
+  "h1": "Was kostet ein Onlineshop?",
+  "kicker": "Ratgeber · Onlineshop",
+  "lead": "Ein Onlineshop kostet einmalig für Einrichtung, Design, Produktdaten und Rechtstexte und danach laufend für Plattform oder Hosting, Zahlungsgebühren, Erweiterungen, Wartung und Marketing. Die Spanne ist groß, weil ein Shop mit zehn Geschenkkörben etwas völlig anderes ist als einer mit tausend Artikeln und Anbindung an die Warenwirtschaft. Einen seriösen Preis gibt es erst nach Klärung von Sortiment und Abläufen.",
+  "fakten": [
+    "Kosten bestehen aus einmaligen Posten und laufenden monatlichen oder umsatzabhängigen Gebühren",
+    "Größte Preistreiber: Anzahl der Produkte, Varianten, Anbindungen und Sonderfunktionen",
+    "Oft unterschätzt: Fotos, Texte, Rechtstexte, Verpackung und die eigene Arbeitszeit",
+    "Zum Vergleich: Eine Starter-Website ohne Shop gibt es bei uns ab 2.500 € einmalig",
+    "Individuelle Shop-Projekte kalkulieren wir nach dem Erstgespräch mit schriftlichem Angebot"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Einmalige Kosten beim Aufbau",
+      "html": "<p>Zum Start fallen die meisten Kosten an. Was davon Sie selbst übernehmen und was ein Dienstleister macht, beeinflusst den Preis stark.</p><ul><li><strong>Konzept und Einrichtung:</strong> Plattform aufsetzen, Kategorien, Steuersätze, Versandregeln, Zahlungsarten.</li><li><strong>Design:</strong> Anpassung an Ihr Erscheinungsbild, Startseite, Produktseiten, Warenkorb.</li><li><strong>Produktdaten:</strong> Anlegen der Artikel mit Varianten, Preisen, Gewichten und Beschreibungen.</li><li><strong>Fotos:</strong> eigene Produktfotos statt Herstellerbilder.</li><li><strong>Texte:</strong> Produktbeschreibungen, Über-uns, Versand- und Zahlungsinfos.</li><li><strong>Rechtstexte:</strong> AGB, Rücktrittsbelehrung, Datenschutzerklärung, Impressum.</li><li><strong>Anbindungen:</strong> Warenwirtschaft, Buchhaltung, Versanddienstleister, Kassensystem.</li></ul><p>Je mehr davon individuell gebaut werden muss, desto höher der einmalige Aufwand.</p>"
+    },
+    {
+      "h2": "Laufende Kosten, die oft vergessen werden",
+      "html": "<p>Ein Shop ist nie „fertig“. Laufend fallen an:</p><ul><li><strong>Plattform oder Hosting:</strong> Mietshops verrechnen ein monatliches Abo, selbst betriebene Shops brauchen Hosting, Updates und Sicherheitspflege.</li><li><strong>Zahlungsgebühren:</strong> Zahlungsanbieter verrechnen in der Regel einen Anteil vom Umsatz und bzw. oder eine Gebühr pro Transaktion.</li><li><strong>Erweiterungen:</strong> Viele Zusatzfunktionen wie Bewertungen, Gutscheine oder Versandetiketten kosten monatlich extra.</li><li><strong>Wartung:</strong> Updates, Backups, Anpassungen bei Gesetzesänderungen.</li><li><strong>Versand und Verpackung:</strong> Versandtarife, Kartons, Füllmaterial, Entpflichtung der Verpackungen.</li><li><strong>Marketing:</strong> Anzeigen, Newsletter-Werkzeug, Suchmaschinenoptimierung.</li></ul><p>Rechnen Sie diese Posten für ein Jahr zusammen und stellen Sie sie dem erwarteten Rohertrag gegenüber. Erst dann sehen Sie, ab wie vielen Bestellungen sich der Shop trägt.</p>"
+    },
+    {
+      "h2": "Was den Preis nach oben treibt",
+      "html": "<p>Die wichtigsten Preistreiber sind leicht zu erkennen, wenn man sie kennt:</p><ol><li><strong>Sortimentsgröße und Varianten:</strong> Ein T-Shirt in fünf Größen und vier Farben sind zwanzig Varianten mit eigenem Lagerstand.</li><li><strong>Anbindungen:</strong> Abgleich mit Kassensystem oder Warenwirtschaft ist oft der größte Einzelposten.</li><li><strong>Sonderfunktionen:</strong> Konfiguratoren, Abos, Terminbuchung im Shop, Händlerpreise, Mehrsprachigkeit.</li><li><strong>Datenübernahme:</strong> Bestehende Kunden und Bestellungen aus einem alten System übernehmen.</li><li><strong>Design-Anspruch:</strong> Vorlage anpassen ist günstiger als ein völlig eigenes Design.</li></ol><p>Ein Beispiel: Eine Gärtnerei möchte Pflanzen mit Abholung im Geschäft verkaufen. Ohne Versand, mit überschaubarem Sortiment und Abholzeitfenster bleibt das Projekt schlank. Kommt Versand von lebenden Pflanzen mit Wetterprüfung dazu, wird es deutlich aufwendiger.</p>"
+    },
+    {
+      "h2": "Mietshop, eigener Shop oder Marktplatz: Kosten im Vergleich",
+      "html": "<p>Mietshops haben niedrige Einstiegskosten und planbare Monatsgebühren, die mit Erweiterungen aber wachsen. Selbst betriebene Systeme haben keine Lizenzgebühr für die Grundsoftware, verursachen dafür mehr Aufwand für Hosting, Sicherheit und Pflege. Marktplätze verlangen kaum Startkosten, behalten aber pro Verkauf einen Anteil ein.</p><p>Welche Variante günstiger ist, hängt vom Umsatz ab. Bei wenigen Verkäufen ist ein Marktplatz oft billiger, bei wachsendem Umsatz kippt die Rechnung zugunsten eines eigenen Shops. Mehr dazu unter <a href=\"/vergleiche/eigener-shop-oder-marktplatz/\">Eigener Onlineshop oder Marktplatz</a> und <a href=\"/vergleiche/shopify-oder-woocommerce/\">Shopify oder WooCommerce</a>.</p>"
+    },
+    {
+      "h2": "So vergleichen Sie Angebote für einen Onlineshop",
+      "html": "<p>Angebote sind nur vergleichbar, wenn sie dasselbe enthalten. Fragen Sie konkret nach:</p><ul><li>Wie viele Produkte legt der Dienstleister an, und wer liefert Texte und Fotos?</li><li>Sind Rechtstexte enthalten oder müssen Sie diese selbst beschaffen?</li><li>Welche laufenden Kosten entstehen pro Monat, inklusive Erweiterungen?</li><li>Wem gehören Shop, Domain und Kundendaten, und wie kommen Sie bei einem Wechsel heraus?</li><li>Was kostet eine Änderung nach dem Start, etwa eine neue Zahlungsart?</li><li>Gibt es eine Einschulung, damit Sie Produkte selbst pflegen können?</li></ul><p>Allgemeine Tipps zum Vergleichen stehen im Beitrag <a href=\"/wissen/website-angebote-vergleichen/\">Website-Angebote richtig vergleichen</a>. Vorsicht bei sehr günstigen Pauschalen, die später jede Kleinigkeit extra verrechnen.</p>"
+    },
+    {
+      "h2": "Wann sich ein Shop nicht rechnet, und was stattdessen hilft",
+      "html": "<p>Wer nur selten online verkauft oder Produkte hat, die sich schlecht verschicken lassen, zahlt mit einem Shop oft drauf. Günstigere Alternativen sind eine Website mit Produktübersicht und Bestellanfrage, ein Gutscheinverkauf oder Reservierung mit Abholung. Unsere <a href=\"/preise/\">Richtpreise</a> zeigen den Rahmen: Eine Starter-Website mit bis zu fünf Seiten beginnt bei 2.500 € einmalig, ein Onlineshop ist ein individuelles Projekt mit Preis auf Anfrage.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> rechnen wir gemeinsam durch, ob sich ein Shop für Ihr Sortiment lohnt. Danach bekommen Sie ein schriftliches Angebot für den <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop</a>, die Umsetzung übernimmt unser Partner Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein kleiner Onlineshop pro Monat?",
+      "a": "Laufend zahlen Sie für Plattform oder Hosting, eventuelle Erweiterungen, Wartung und die Gebühren der Zahlungsanbieter, die meist vom Umsatz abhängen. Dazu kommen Versandmaterial und Marketing. Die Summe hängt stark von Plattform und Umfang ab. Lassen Sie sich die laufenden Kosten für ein ganzes Jahr aufschlüsseln, bevor Sie sich entscheiden, und nicht nur den Einstiegspreis."
+    },
+    {
+      "q": "Ist ein Onlineshop teurer als eine normale Website?",
+      "a": "Ja, in der Regel deutlich. Ein Shop braucht neben den Seiten einer Website auch Produktverwaltung, Warenkorb, Kasse, Zahlungsanbindung, Versandregeln, Rechtstexte für den Fernabsatz und laufende Pflege. Bei uns beginnt eine Starter-Website bei 2.500 € einmalig, ein Shop wird nach dem Erstgespräch individuell kalkuliert, weil Sortiment und Anbindungen den Aufwand bestimmen."
+    },
+    {
+      "q": "Welche versteckten Kosten hat ein Onlineshop?",
+      "a": "Häufig übersehen werden kostenpflichtige Erweiterungen, Transaktionsgebühren, professionelle Produktfotos, Rechtstexte, Verpackungsmaterial und die Entpflichtung von Versandverpackungen. Auch die eigene Arbeitszeit für Bestellungen, Kundenanfragen und Retouren gehört in die Rechnung. Wer diese Posten von Anfang an einplant, erlebt nach dem Start keine Überraschungen."
+    },
+    {
+      "q": "Kann ich mit einem günstigen Baukasten-Shop anfangen?",
+      "a": "Für einen ersten Test mit wenigen Produkten kann das sinnvoll sein. Achten Sie aber darauf, dass Sie Produktdaten und Kunden später exportieren können, dass die Rechtstexte zu Österreich passen und dass die gewünschten Zahlungsarten verfügbar sind. Ein Umzug auf ein anderes System ist möglich, kostet aber Zeit und Geld, daher lohnt sich vorher ein Blick auf das Wachstum."
+    }
+  ],
+  "verwandt": ["/leistungen/onlineshop-erstellen/", "/wissen/onlineshop-starten/", "/preise/", "/vergleiche/shopify-oder-woocommerce/", "/wissen/was-kostet-eine-website/"],
+  "checks": ["website-entwurf"]
+}

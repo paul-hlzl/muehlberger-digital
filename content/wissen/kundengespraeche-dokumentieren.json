@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/kundengespraeche-dokumentieren/",
+  "title": "Kundengespräche dokumentieren: So geht es richtig",
+  "description": "Kundengespräche dokumentieren: Was in eine Gesprächsnotiz gehört, wo sie abgelegt wird und wie Telefonat, Vor-Ort-Termin und Video-Call sauber festgehalten werden.",
+  "h1": "Kundengespräche dokumentieren: einfach, vollständig, nachvollziehbar",
+  "kicker": "Ratgeber · Kundenkontakt",
+  "lead": "Kundengespräche dokumentieren Sie am besten direkt im Anschluss, an einem zentralen Ort und immer nach demselben Schema: Anliegen, Vereinbarungen, offene Punkte, nächster Schritt. So weiß jeder im Betrieb, was dem Kunden zugesagt wurde, und Missverständnisse über Preis, Termin oder Ausführung lassen sich später schnell klären.",
+  "fakten": [
+    "Festes Schema: Anliegen, Vereinbarungen, eigene Zusagen, offene Fragen, nächster Schritt",
+    "Sofort nach dem Gespräch notieren – nach einem Tag fehlt die Hälfte",
+    "Ein zentraler Ort für alle Notizen, nicht das private Handy oder der Zettel im Auto",
+    "Nur festhalten, was für den Auftrag nötig ist, keine Bewertungen über Personen",
+    "Eine kurze schriftliche Zusammenfassung an den Kunden verhindert Missverständnisse"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum sich Gesprächsdokumentation auszahlt",
+      "html": "<p>In kleinen Betrieben läuft viel über das Gedächtnis der Chefin oder des Chefs. Das funktioniert, bis jemand krank ist, auf Urlaub fährt oder schlicht zu viele Projekte gleichzeitig hat. Eine kurze Notiz zu jedem Kundengespräch macht Wissen für das ganze Team verfügbar.</p><ul><li>Zusagen bleiben nachvollziehbar, auch Monate später.</li><li>Kollegen können ein Projekt übernehmen, ohne den Kunden alles noch einmal fragen zu müssen.</li><li>Angebote lassen sich schneller und genauer schreiben.</li><li>Bei Unstimmigkeiten gibt es eine Grundlage statt Aussage gegen Aussage.</li><li>Kunden merken, dass man sich an sie erinnert – das schafft Vertrauen.</li></ul>"
+    },
+    {
+      "h2": "Was in eine gute Gesprächsnotiz gehört",
+      "html": "<p>Eine Gesprächsnotiz muss nicht lang sein. Wichtig ist, dass sie immer dieselben Punkte enthält. Diese Checkliste passt für die meisten Betriebe:</p><ul><li>Datum, Kanal (Telefon, vor Ort, Video, E-Mail) und Gesprächspartner</li><li>Das Anliegen in den Worten des Kunden</li><li>Rahmenbedingungen: gewünschter Zeitraum, Ort, Budgetvorstellung, Besonderheiten</li><li>Was vereinbart wurde</li><li>Was Sie zugesagt haben, etwa „Angebot bis Mittwoch“</li><li>Offene Fragen und wer sie klärt</li><li>Der nächste Schritt mit Datum</li></ul><p>Gerade der Punkt „eigene Zusagen“ wird oft vergessen. Dabei sind es genau diese Versprechen, an denen Kunden die Verlässlichkeit eines Betriebs messen.</p>"
+    },
+    {
+      "h2": "Telefon, Vor-Ort-Termin, Video-Call: je nach Situation",
+      "html": "<p><strong>Telefonat:</strong> Halten Sie Stichworte während des Gesprächs fest und übertragen Sie sie sofort danach ins System. Ein Zettel neben dem Telefon ist in Ordnung, solange er am selben Tag abgearbeitet wird.</p><p><strong>Vor-Ort-Termin:</strong> Ein Malerbetrieb, der eine Wohnung besichtigt, notiert Räume, Flächen, Farbwünsche, Möbel, die abgedeckt werden müssen, und den Zugang. Fotos ersetzen hier viele Worte. Eine kurze Sprachnotiz im Auto direkt nach dem Termin ist oft schneller als Tippen.</p><p><strong>Video-Call:</strong> Hier lässt sich das Gespräch mit einem KI-Werkzeug als Notiz erfassen, wenn der Kunde informiert ist. Das spart das Mitschreiben vollständig.</p><p><strong>E-Mail und Nachrichten:</strong> Wichtige Vereinbarungen aus WhatsApp-Nachrichten oder E-Mails gehören ebenfalls in die Kundenakte, nicht nur ins Postfach einer einzelnen Person.</p>"
+    },
+    {
+      "h2": "Wo die Notizen hingehören",
+      "html": "<p>Der wichtigste Grundsatz: alle Notizen zu einem Kunden an einem Ort. Ob das ein einfaches CRM-System, ein Kundenordner in der Cloud oder ein Bereich in Ihrer Branchensoftware ist, hängt von Ihrem Betrieb ab. Entscheidend ist, dass alle Berechtigten darauf zugreifen können und dass niemand Kundendaten auf dem privaten Handy sammelt.</p><p>Ein CRM ist eine Software, in der Kontakte, Gespräche, Angebote und Aufgaben zusammenlaufen. Für viele kleine Betriebe reicht eine schlanke Lösung. Was dabei wichtig ist, lesen Sie im Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Datenschutz: nur festhalten, was Sie brauchen",
+      "html": "<p>Gesprächsnotizen enthalten personenbezogene Daten. Als allgemeine Orientierung gilt: Halten Sie nur fest, was Sie für den Auftrag tatsächlich brauchen, und verzichten Sie auf persönliche Bewertungen wie „schwieriger Kunde“. Beschränken Sie den Zugriff auf jene, die die Informationen benötigen, und löschen Sie Notizen, wenn der Zweck wegfällt und keine Aufbewahrungspflicht besteht.</p><p>Wenn Sie Gespräche aufzeichnen oder mit KI erfassen, informieren Sie Ihre Gesprächspartner vorher. Mehr dazu unter <a href=\"/wissen/gespraechsaufzeichnung/\">Gespräche aufzeichnen: Information und Einwilligung</a>. Im Einzelfall beraten die Datenschutzbehörde oder eine Anwältin.</p>"
+    },
+    {
+      "h2": "Nach dem Gespräch: eine kurze Zusammenfassung an den Kunden",
+      "html": "<p>Der einfachste Schutz vor Missverständnissen ist eine kurze E-Mail nach dem Termin: „Wie besprochen halte ich fest: …“. Drei bis fünf Punkte reichen. Der Kunde kann sofort korrigieren, wenn etwas nicht stimmt, und Sie haben eine schriftliche Grundlage für das Angebot.</p><p>Ein Elektriker, der nach der Besichtigung festhält, dass die Wallbox in der Garage und nicht im Carport montiert wird und der Kunde den Mauerdurchbruch selbst organisiert, erspart sich spätere Diskussionen auf der Baustelle. Wie Sie danach mit dem Angebot dranbleiben, lesen Sie unter <a href=\"/wissen/angebot-nachfassen/\">Angebote richtig nachfassen</a>.</p>"
+    },
+    {
+      "h2": "Weniger tippen: Dokumentation mit KI und Automatisierung",
+      "html": "<p>Wer viele Kundengespräche führt, kann einen Teil der Dokumentation an Werkzeuge abgeben. Für Video-Calls erstellt <a href=\"/produkte/noteit/\">noteit</a> etwa zwei Minuten nach dem Gespräch eine fertige Notiz mit Vereinbarungen und Aufgaben, ohne Bot im Call und mit Speicherung in Frankfurt. Der Starter-Tarif ist kostenlos, Pro kostet 14 € im Monat.</p><p>Noch einen Schritt weiter geht eine Automatisierung: Die Gesprächsnotiz landet direkt in der Kundenakte, die Aufgabe „Angebot schreiben“ im Kalender der zuständigen Person. Wie solche Abläufe aussehen können, zeigt die Seite <a href=\"/leistungen/ki-automatisierung/\">KI und Prozessautomatisierung</a>. Was davon für Ihren Betrieb sinnvoll ist, klären wir gern im kostenlosen Erstgespräch.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie ausführlich sollte ich ein Kundengespräch dokumentieren?",
+      "a": "So knapp wie möglich, aber so vollständig, dass ein Kollege ohne Rückfrage weiterarbeiten könnte. In der Regel reichen einige Zeilen: Anliegen, Rahmenbedingungen, Vereinbarungen, eigene Zusagen, offene Fragen und der nächste Schritt mit Datum. Wörtliche Mitschriften sind selten nötig. Fotos oder Skizzen vom Vor-Ort-Termin ergänzen die Notiz oft besser als lange Texte."
+    },
+    {
+      "q": "Darf ich Kundengespräche aufzeichnen, um sie zu dokumentieren?",
+      "a": "Eine Aufzeichnung ohne Wissen des Gesprächspartners ist keine gute Idee und kann rechtlich problematisch sein. Informieren Sie vor Beginn, dass und wofür das Gespräch erfasst wird, und respektieren Sie einen Widerspruch. Ob zusätzlich eine ausdrückliche Einwilligung nötig ist, hängt vom Einzelfall ab. Verbindlich klären lässt sich das mit der Datenschutzbehörde oder einer Anwältin."
+    },
+    {
+      "q": "Brauche ich für die Dokumentation ein CRM-System?",
+      "a": "Nicht unbedingt. Ein kleiner Betrieb mit wenigen Kunden kommt auch mit einem gut strukturierten Kundenordner in der Cloud aus. Ein CRM lohnt sich, sobald mehrere Personen mit denselben Kunden arbeiten, viele Angebote offen sind oder Sie Aufgaben und Erinnerungen an einem Ort bündeln möchten. Wichtig ist in beiden Fällen nur: ein Ort für alles."
+    },
+    {
+      "q": "Wie lange darf ich Gesprächsnotizen aufbewahren?",
+      "a": "Grundsätzlich so lange, wie Sie die Notizen für den Zweck brauchen, etwa für einen laufenden Auftrag, die Gewährleistung oder gesetzliche Aufbewahrungspflichten. Danach sollten personenbezogene Daten gelöscht werden. Wie lange das im Einzelfall ist, hängt von der Art des Geschäfts ab. Für eine verbindliche Auskunft fragen Sie die Steuerberatung, die WKO oder die Datenschutzbehörde."
+    }
+  ],
+  "verwandt": [
+    "/wissen/crm-kleine-betriebe/",
+    "/wissen/angebot-nachfassen/",
+    "/wissen/gespraechsaufzeichnung/",
+    "/produkte/noteit/",
+    "/glossar/crm/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

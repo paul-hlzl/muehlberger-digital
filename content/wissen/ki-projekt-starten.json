@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/ki-projekt-starten/",
+  "title": "Ein KI-Projekt richtig starten: Schritt für Schritt",
+  "description": "Ein KI-Projekt richtig starten: mit einem klaren Problem, geprüften Inhalten, messbarem Ziel und kurzem Pilot – sechs Schritte für kleine Betriebe.",
+  "h1": "Ein KI-Projekt richtig starten",
+  "kicker": "Ratgeber · KI-Projekt",
+  "lead": "Ein KI-Projekt startet richtig mit einem einzigen, klar abgegrenzten Problem, das häufig vorkommt, und nicht mit der Frage, welches Werkzeug gerade beliebt ist. Danach prüfen Sie, ob die nötigen Inhalte vorhanden sind, legen ein messbares Ziel fest, testen einige Wochen im Echtbetrieb und entscheiden dann: ausbauen, anpassen oder stoppen.",
+  "fakten": [
+    "Mit einem häufigen, klaren Problem beginnen, nicht mit einem Werkzeug",
+    "Ohne gute Inhalte und Daten liefert keine KI gute Ergebnisse",
+    "Erfolg vorher festlegen, etwa weniger Anrufe zu Standardfragen",
+    "Pilot von einigen Wochen, danach bewusst entscheiden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Schritt 1: Ein Problem statt eines Werkzeugs",
+      "html": "<p>Viele KI-Projekte beginnen mit „Wir sollten auch etwas mit KI machen“. Besser ist die Frage: Was nervt uns jede Woche, kostet Zeit und folgt einem Muster? Gute Startprojekte haben drei Eigenschaften:</p><ul> <li><strong>Häufig:</strong> Die Aufgabe kommt täglich oder wöchentlich vor.</li><li><strong>Sprachlich oder regelbasiert:</strong> Fragen beantworten, Texte erstellen, Informationen sortieren.</li><li><strong>Überprüfbar:</strong> Sie erkennen schnell, ob das Ergebnis stimmt.</li></ul> <p>Ungeeignet für den Start sind Aufgaben, bei denen ein Fehler teuer wird oder die selten vorkommen, etwa die jährliche Inventur oder heikle Rechtsfragen. Dort lernt man wenig und riskiert viel. Ein Startprojekt soll schnell zeigen, ob KI im eigenen Betrieb funktioniert, und dem Team ein erstes Erfolgserlebnis geben.</p><p>Typische Beispiele: immer gleiche Kundenfragen, Besprechungsprotokolle, Angebotstexte, das Sortieren von Anfragen. Weitere Ideen sammelt der Ratgeber <a href=\"/wissen/ki-beispiele-kmu/\">KI-Beispiele aus KMU</a>.</p>"
+    },
+    {
+      "h2": "Schritt 2: Inhalte und Daten prüfen",
+      "html": "<p>KI arbeitet mit dem, was sie bekommt. Bevor Sie ein Werkzeug auswählen, prüfen Sie, ob die Grundlage stimmt:</p><ul> <li>Sind die Antworten auf häufige Fragen irgendwo schriftlich festgehalten, etwa auf der Website?</li><li>Sind Preise, Öffnungszeiten und Leistungen aktuell?</li><li>Liegen die Daten digital vor oder nur im Kopf und auf Papier?</li><li>Gibt es Widersprüche, zum Beispiel unterschiedliche Preise auf Website und Flyer?</li></ul> <p>Typische Situation: Eine Physiotherapiepraxis möchte einen Chatbot für Terminfragen. Bei der Vorbereitung stellt sich heraus, dass Infos zu Kassenleistungen und Hausbesuchen nirgends stehen. Diese Texte zu schreiben ist der eigentliche erste Projektschritt, und er verbessert nebenbei die Website.</p>"
+    },
+    {
+      "h2": "Schritt 3: Erfolg vorher festlegen",
+      "html": "<p>Ohne Ziel lässt sich nach dem Pilot nicht entscheiden. Formulieren Sie vorher, woran Sie Erfolg erkennen, möglichst einfach:</p><ul> <li>„Weniger Anrufe zu Öffnungszeiten und Anfahrt.“</li><li>„Protokolle sind am selben Tag verschickt statt nach drei Tagen.“</li><li>„Angebote gehen innerhalb von zwei Tagen raus.“</li><li>„Anfragen kommen vollständig an, ohne Rückfrage.“</li></ul> <p>Halten Sie kurz fest, wie es heute ist. Eine Strichliste neben dem Telefon für zwei Wochen reicht völlig. So vergleichen Sie später mit echten Werten statt mit Bauchgefühl.</p>"
+    },
+    {
+      "h2": "Schritt 4: Ein kurzer Pilot im Echtbetrieb",
+      "html": "<p>Testen Sie einige Wochen unter echten Bedingungen, mit echten Kunden oder echten Besprechungen. Wichtig dabei:</p><ol> <li>Eine verantwortliche Person im Betrieb benennen.</li><li>Ergebnisse in der ersten Zeit täglich, dann wöchentlich durchsehen.</li><li>Fehler sammeln und Inhalte oder Einstellungen nachbessern.</li><li>Rückmeldungen von Kunden und Team notieren.</li></ol> <p>Werkzeuge mit Testphase und monatlicher Kündigung machen den Pilot einfach: <a href=\"/produkte/pipebot/\">Pipebot</a> etwa ist die ersten 30 Tage gratis. Bei individuellen Lösungen empfiehlt sich ein kleiner erster Ausbauschritt statt des großen Gesamtpakets.</p>"
+    },
+    {
+      "h2": "Schritt 5: Datenschutz und Verantwortung klären",
+      "html": "<p>Parallel zum Pilot gehören ein paar Pflichtaufgaben auf die Liste:</p><ul> <li>Datenschutzerklärung um das neue Werkzeug ergänzen.</li><li>Mit dem Anbieter einen Auftragsverarbeitungsvertrag abschließen, wenn personenbezogene Daten verarbeitet werden.</li><li>Kunden informieren, wenn sie mit einer KI schreiben oder sprechen.</li><li>Festlegen, wer Fehler behebt und wer bei Ausfall reagiert.</li></ul> <p>Das ist keine Rechtsberatung, sondern eine Orientierung. Im Einzelfall helfen die WKO oder eine Fachperson. Hintergründe finden Sie im Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Schritt 6: Ausbauen, anpassen oder stoppen",
+      "html": "<p>Nach dem Pilot vergleichen Sie mit dem Ausgangswert. Drei Ergebnisse sind möglich, und alle drei sind in Ordnung:</p><ul> <li><strong>Ausbauen:</strong> Das Ziel ist erreicht, der nächste Anwendungsfall kommt dazu.</li><li><strong>Anpassen:</strong> Die Idee stimmt, aber Inhalte oder Einstellungen brauchen Nacharbeit.</li><li><strong>Stoppen:</strong> Der Aufwand ist größer als der Nutzen. Kündigen und die Erfahrung mitnehmen.</li></ul> <p>Ein gestopptes Projekt ist kein Scheitern, wenn es wenig gekostet hat und Sie danach klarer sehen. Wenn Sie den ersten Schritt nicht allein gehen möchten: Unser <a href=\"/ablauf/\">Ablauf</a> beginnt mit einem <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, in dem wir Ihren Fall live mit eigenen Daten durchspielen. Einen Überblick über mögliche Bausteine bieten die <a href=\"https://www.pipeline-solutions.at/leistungen/\">Leistungen von Pipeline AI Solutions</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich das richtige erste KI-Projekt?",
+      "a": "Notieren Sie eine Woche lang, welche Aufgaben sich ständig wiederholen und Zeit kosten. Wählen Sie davon eine, die häufig vorkommt, mit Sprache oder klaren Regeln zu tun hat und deren Ergebnis Sie leicht prüfen können. Häufig sind das Kundenfragen, Protokolle oder Angebotstexte. Vermeiden Sie für den Anfang Aufgaben mit hohem Fehlerrisiko."
+    },
+    {
+      "q": "Wie lange sollte ein KI-Pilot dauern?",
+      "a": "Für einfache Anwendungen wie einen Website-Chatbot oder KI-Protokolle reichen meist vier bis sechs Wochen. Das ist lang genug, um typische Fragen und Fehler zu sehen, und kurz genug, um nicht unnötig Geld auszugeben. Wichtig ist, dass der Pilot im echten Alltag läuft und eine Person die Ergebnisse regelmäßig durchsieht."
+    },
+    {
+      "q": "Was kostet ein KI-Projekt für einen kleinen Betrieb?",
+      "a": "Das reicht von einem fertigen Werkzeug mit Monatspreis, etwa einem Chatbot um 19 € im Monat, bis zu individuellen Lösungen, deren Preis nach dem Erstgespräch schriftlich festgelegt wird. Für ein erstes Projekt empfiehlt sich ein kleiner, kündbarer Einstieg. Interne Zeit für Inhalte, Einführung und Kontrolle sollten Sie immer zusätzlich einplanen."
+    },
+    {
+      "q": "Brauche ich für ein KI-Projekt eigene IT-Kenntnisse?",
+      "a": "Für fertige Werkzeuge nicht. Sie brauchen vor allem Wissen über Ihren Betrieb: Welche Fragen kommen, welche Antworten stimmen, welche Abläufe gibt es. Die technische Einrichtung übernimmt der Anbieter oder ein Umsetzungspartner. Bei individuellen Lösungen ist eine Ansprechperson im Betrieb wichtig, die Entscheidungen treffen und Ergebnisse beurteilen kann."
+    },
+    {
+      "q": "Was tun, wenn das KI-Projekt nicht funktioniert?",
+      "a": "Zuerst die Ursache suchen: Oft liegt es an fehlenden oder veralteten Inhalten, an zu großen Erwartungen oder daran, dass niemand die Ergebnisse geprüft hat. Lässt sich das beheben, passen Sie an und testen erneut. Wenn nicht, beenden Sie das Projekt bewusst. Mit kündbaren Werkzeugen und kleinen ersten Schritten bleibt der Schaden gering."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-beispiele-kmu/",
+    "/wissen/digitalisierung-wo-anfangen/",
+    "/ablauf/",
+    "/leistungen/ki-automatisierung/",
+    "/wissen/ki-kosten/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "website-entwurf"
+  ]
+}

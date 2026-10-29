@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/kottes-purk/",
+  "title": "Digitalagentur Kottes-Purk: klein digital starten",
+  "description": "Für Einzelunternehmer und Nebenerwerbsbetriebe in Kottes-Purk im Bezirk Zwettl: was Sie digital wirklich brauchen, was gratis geht und was warten kann.",
+  "h1": "Digitalagentur für Kottes-Purk",
+  "kicker": "Region · Bezirk Zwettl",
+  "lead": "Wer in Kottes-Purk einen kleinen Betrieb gründet oder im Nebenerwerb startet, braucht keine große Digitalstrategie, sondern die richtigen ersten Schritte. Mühlberger Digital zeigt ehrlich, was gratis geht, was sich ab wann lohnt und was ruhig warten kann. Beraten wird persönlich von Jonas Mühlberger aus Ottenschlag im selben Bezirk.",
+  "fakten": [
+    "Kottes-Purk liegt im Bezirk Zwettl im Waldviertel",
+    "Schwerpunkt: Einzelunternehmer, Gründer und Nebenerwerbsbetriebe",
+    "Erster Schritt oft kostenlos: das Google-Unternehmensprofil",
+    "Starter-Website ab 2.500 € einmalig, wenn der Zeitpunkt passt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Klein anfangen ist kein Fehler",
+      "html": "<p>Eine Masseurin, die zwei Tage pro Woche selbständig arbeitet, oder ein Landwirt, der nebenbei Brennholz verkauft, braucht am Anfang keine Website mit zehn Unterseiten. Wichtiger ist, dass Interessierte Sie überhaupt finden und erreichen können. Viele Gründer geben zu früh Geld für Dinge aus, die sie erst später brauchen.</p><p>Der Ratgeber <a href=\"/wissen/digitalisierung-wo-anfangen/\">Digitalisierung: Wo anfangen?</a> hilft, die Reihenfolge zu sortieren.</p>"
+    },
+    {
+      "h2": "Schritt für Schritt: was wann sinnvoll ist",
+      "html": "<ol><li><strong>Sofort und kostenlos</strong>: ein <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> mit Adresse, Telefonnummer, Erreichbarkeitszeiten und ein paar Fotos.</li><li><strong>Bald</strong>: eine E-Mail-Adresse mit eigener Domain statt einer Gratis-Adresse, weil das seriöser wirkt.</li><li><strong>Wenn die Anfragen zunehmen</strong>: eine kleine Website, die Leistungen, Preise und Kontakt erklärt.</li><li><strong>Später</strong>: Werkzeuge, die Zeit sparen, etwa ein Chatbot oder automatische Antworten auf Anfragen.</li></ol><p>Die Reihenfolge kann sich je nach Betrieb verschieben. Wer gleich Firmenkunden ansprechen will, braucht früher eine Website als jemand, der nur im Ort arbeitet.</p>"
+    },
+    {
+      "h2": "Wann sich eine Website noch nicht lohnt",
+      "html": "<p>Eine Website kostet Geld und will gepflegt werden. Wenn Sie nur wenige Kunden haben, alle aus dem Bekanntenkreis kommen und Sie gar nicht wachsen wollen, kann sie warten. Das ist keine Ausrede, sondern eine ehrliche Rechnung.</p><p>Sobald Sie aber merken, dass Leute nach Ihnen fragen, Sie nicht finden oder immer wieder dieselben Fragen stellen, ist der richtige Zeitpunkt da. Dann beginnt die Starter-Website bei 2.500 € einmalig mit bis zu fünf Seiten, Kontaktformular, Impressum, Datenschutz und Hosting. Mehr zu Pflichtangaben im Ratgeber zur <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>.</p>"
+    },
+    {
+      "h2": "Persönlich aus dem Bezirk Zwettl",
+      "html": "<p>Kottes-Purk liegt wie Ottenschlag im Bezirk Zwettl. Jonas Mühlberger kommt für das kostenlose Erstgespräch gern zu Ihnen, Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Das passt auch für alle, die tagsüber noch einem anderen Beruf nachgehen.</p><p>Für allgemeine Fragen zur Gründung ist das <a href=\"https://www.usp.gv.at/\">Unternehmensserviceportal</a> eine offizielle Anlaufstelle. Mehr zur Region auf den Seiten zum <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a> und zum <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet ein Google-Unternehmensprofil?",
+      "a": "Das Google-Unternehmensprofil selbst ist kostenlos. Sie legen es mit einem Google-Konto an und bestätigen, dass der Betrieb Ihnen gehört. Danach tragen Sie Adresse, Telefonnummer, Zeiten, Leistungen und Fotos ein. Kosten entstehen nur, wenn Sie sich bei Einrichtung und Pflege helfen lassen. Für viele Gründer ist das Profil der sinnvollste erste Schritt, weil es Sichtbarkeit in der Umgebung schafft."
+    },
+    {
+      "q": "Brauche ich als Einzelunternehmer ein Impressum?",
+      "a": "Wer eine Website oder eine geschäftliche Social-Media-Seite betreibt, muss in Österreich in der Regel bestimmte Angaben zum Unternehmen machen. Welche genau, hängt von Rechtsform und Tätigkeit ab. Allgemeine Orientierung bieten die Wirtschaftskammer und das Unternehmensserviceportal, im Einzelfall eine Rechtsberatung. Bei der Starter-Website sind Impressum und Datenschutzseite bereits vorgesehen."
+    },
+    {
+      "q": "Kann ich mit einer kleinen Website starten und später erweitern?",
+      "a": "Ja, das ist oft der vernünftigste Weg. Die Starter-Website umfasst bis zu fünf Seiten und lässt sich später um weitere Seiten, eine Karriereseite oder einen Chatbot ergänzen. Wichtig ist, von Anfang an eine eigene Domain zu verwenden, damit Adresse und E-Mail bei einem Ausbau gleich bleiben. Erweiterungen bekommen ein eigenes Angebot."
+    },
+    {
+      "q": "Ist das Erstgespräch auch für Gründer kostenlos?",
+      "a": "Ja. Das Erstgespräch dauert etwa 30 Minuten und ist für alle kostenlos, egal ob Sie schon länger selbständig sind oder gerade erst starten. Es findet vor Ort, am Telefon oder per Video-Call statt. Sie erfahren, was in Ihrer Lage sinnvoll ist, und entscheiden danach in Ruhe, ob und was Sie beauftragen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/bezirk-zwettl/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/wissen/digitalisierung-wo-anfangen/",
+    "/leistungen/google-unternehmensprofil/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

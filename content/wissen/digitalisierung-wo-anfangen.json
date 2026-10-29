@@ -1,0 +1,65 @@
+{
+  "pfad": "/wissen/digitalisierung-wo-anfangen/",
+  "title": "Digitalisierung im Betrieb: Wo anfangen?",
+  "description": "Digitalisierung im Betrieb: Wo anfangen? Mit Bestandsaufnahme, Zeitfressern und kleinen ersten Schritten zu einem Plan, der im Alltag eines KMU wirklich hält.",
+  "h1": "Digitalisierung im Betrieb: Wo anfangen?",
+  "kicker": "Ratgeber · Digitalisierung",
+  "lead": "Fangen Sie bei der Digitalisierung dort an, wo heute im Betrieb am meisten Zeit verloren geht oder Kunden verloren gehen, nicht bei der Technik. Schreiben Sie eine Woche lang mit, welche Tätigkeiten nerven und sich wiederholen, wählen Sie daraus einen Bereich und lösen Sie ihn vollständig, bevor der nächste drankommt. Für viele kleine Betriebe sind Erreichbarkeit, Angebote und Belege die ersten lohnenden Baustellen.",
+  "fakten": [
+    "Start bei einem konkreten Problem, nicht bei einem Werkzeug",
+    "Eine Woche mitschreiben zeigt, wo die Zeit wirklich hingeht",
+    "Ein Projekt nach dem anderen, jedes vollständig abschließen",
+    "Häufige erste Schritte: Website und Google-Profil, Belege digital, Angebote, Erreichbarkeit",
+    "Mitarbeiter früh einbinden, sonst bleiben neue Werkzeuge ungenutzt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum der Anfang so oft hakt",
+      "html": "<p>Viele Betriebe wissen, dass sie „etwas mit Digitalisierung“ machen sollten, und bleiben dann an der Menge der Möglichkeiten hängen. Neue Website, Buchhaltungsprogramm, KI, Social Media, App – alles gleichzeitig ist nicht zu schaffen, und deshalb passiert oft gar nichts.</p><p>Der zweite häufige Fehler ist, mit einem Werkzeug zu beginnen, das jemand empfohlen hat, ohne zu wissen, welches Problem es lösen soll. Dann wird ein Programm gekauft, eingerichtet und nach drei Wochen nicht mehr verwendet. Digitalisierung ist kein Selbstzweck, sie soll Zeit sparen, Fehler vermeiden oder neue Kunden bringen.</p>"
+    },
+    {
+      "h2": "Schritt 1: Eine ehrliche Bestandsaufnahme",
+      "html": "<p>Nehmen Sie sich eine normale Arbeitswoche Zeit und notieren Sie, was Sie und Ihr Team tun, das sich wiederholt, lästig ist oder fehleranfällig. Es genügt ein Notizblock oder eine Liste am Handy.</p><ul><li>Was wird doppelt erfasst, etwa erst auf Papier und dann im Computer?</li><li>Welche Fragen beantworten Sie am Telefon immer wieder?</li><li>Wo suchen Sie regelmäßig nach Unterlagen, Preisen oder Mails?</li><li>Welche Anfragen gehen verloren, weil niemand erreichbar war?</li><li>Was erledigen Sie abends, weil es tagsüber nicht geht?</li></ul><p>Fragen Sie auch Ihre Mitarbeiter. Sie kennen die Stolpersteine im Alltag oft besser als die Chefetage.</p>"
+    },
+    {
+      "h2": "Schritt 2: Prioritäten setzen",
+      "html": "<p>Bewerten Sie jeden Punkt der Liste nach zwei Fragen: Wie viel Zeit oder Geld kostet das Problem? Und wie aufwendig ist eine Lösung? Beginnen Sie mit dem, was viel bringt und wenig Aufwand verursacht.</p><p>Typische Bereiche mit gutem Verhältnis von Aufwand und Nutzen:</p><ul><li><strong>Gefunden werden:</strong> aktuelle Website und gepflegtes <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil</a>.</li><li><strong>Erreichbarkeit:</strong> Anfragen außerhalb der Öffnungszeiten auffangen, etwa mit Chatbot oder Telefonassistent.</li><li><strong>Angebote und Rechnungen:</strong> Vorlagen, digitale Ablage, automatische Erinnerungen.</li><li><strong>Belege:</strong> Scannen und digital ablegen statt Schuhkarton, siehe <a href=\"/wissen/belege-digital/\">Belege digital ablegen</a>.</li><li><strong>Termine:</strong> Online-Buchung statt Telefonketten.</li></ul>"
+    },
+    {
+      "h2": "Schritt 3: Klein starten und vollständig umsetzen",
+      "html": "<p>Wählen Sie ein Projekt und setzen Sie es ganz um, inklusive Schulung und Abschaffung des alten Wegs. Ein halb eingeführtes System ist schlechter als keines, weil dann zwei Wege parallel laufen.</p><ol><li><strong>Ziel festlegen:</strong> „Angebote sollen innerhalb von zwei Tagen beim Kunden sein“ statt „Angebote digitalisieren“.</li><li><strong>Lösung auswählen:</strong> zuerst fertige Programme prüfen, eigene Entwicklung nur bei Lücken.</li><li><strong>Testen</strong> mit echten Fällen, nicht nur mit Beispieldaten.</li><li><strong>Einführen</strong> mit kurzer Einschulung für alle Beteiligten.</li><li><strong>Nach einigen Wochen prüfen:</strong> Ist das Ziel erreicht? Was hakt noch?</li></ol><p>Ein Beispiel: Ein Malerbetrieb mit vier Mitarbeitern schreibt Angebote am Wochenende. Er beginnt mit Textbausteinen und einer Vorlage, die Aufmaß-Fotos direkt einbindet. Erst als das sitzt, kommt die Online-Terminvereinbarung für Besichtigungen dazu.</p>"
+    },
+    {
+      "h2": "Schritt 4: Das Team mitnehmen",
+      "html": "<p>Neue Werkzeuge scheitern selten an der Technik, sondern daran, dass sie nicht verwendet werden. Erklären Sie, warum die Änderung kommt und was sie den Mitarbeitern selbst bringt. Wer weniger nacharbeiten muss oder abends nicht mehr Zettel abtippt, ist schnell überzeugt.</p><ul><li>Eine Person als Ansprechpartner benennen, die sich gut auskennt</li><li>Kurze Einschulungen am Arbeitsplatz statt langer Handbücher</li><li>Rückmeldungen ernst nehmen und nachjustieren</li><li>Bei KI-Werkzeugen klare Regeln, welche Daten hinein dürfen, siehe <a href=\"/wissen/ki-schulung/\">Mitarbeiter für KI fit machen</a></li></ul>"
+    },
+    {
+      "h2": "Schritt 5: Sicherheit und Datenschutz nicht vergessen",
+      "html": "<p>Mit jedem digitalen Werkzeug wachsen auch die Anforderungen an Sicherheit. Bevor Sie neue Systeme einführen, sollten die Grundlagen stimmen: aktuelle Updates, sichere Passwörter mit Passwort-Manager, Backups und eine Zwei-Faktor-Anmeldung. Der Beitrag <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a> zeigt, was dazugehört.</p><p>Achten Sie außerdem darauf, wo Ihre Daten gespeichert werden, ob ein Auftragsverarbeitungsvertrag nötig ist und ob Sie bei einem Wechsel wieder an Ihre Daten kommen. Als allgemeine Orientierung zum Datenschutz dient die Datenschutzbehörde, im Einzelfall eine Fachberatung.</p>"
+    },
+    {
+      "h2": "Wann externe Hilfe sinnvoll ist",
+      "html": "<p>Viele erste Schritte schaffen Betriebe allein. Externe Hilfe lohnt sich, wenn Sie nicht wissen, welche Lösung passt, wenn mehrere Programme zusammenspielen müssen oder wenn Ihnen schlicht die Zeit fehlt. Ein guter Berater empfiehlt auch einmal, etwas nicht zu tun.</p><p>Genau so arbeiten wir in der <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a>: Wir schauen uns Ihren Alltag an, zeigen Lösungen live mit Ihren eigenen Daten und empfehlen nur, was Sie wirklich brauchen. Wie die Zusammenarbeit abläuft, steht unter <a href=\"/ablauf/\">Ablauf</a>. Starten können Sie mit dem <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, etwa 30 Minuten, vor Ort, am Telefon oder per Video. Für einen schnellen Eindruck Ihrer Website eignet sich der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der erste Schritt zur Digitalisierung im kleinen Betrieb?",
+      "a": "Der erste Schritt ist eine Bestandsaufnahme: Notieren Sie eine Woche lang, welche Tätigkeiten sich wiederholen, Zeit fressen oder fehleranfällig sind. Daraus wählen Sie ein Problem mit großem Nutzen und überschaubarem Aufwand. Erst dann suchen Sie ein passendes Werkzeug. Wer mit der Technik statt mit dem Problem beginnt, kauft oft Programme, die später niemand nutzt."
+    },
+    {
+      "q": "Wie viel kostet Digitalisierung für einen kleinen Betrieb?",
+      "a": "Das hängt ganz vom Vorhaben ab. Viele erste Schritte kosten wenig: Vorlagen, ein Passwort-Manager, eine digitale Belegablage oder ein Chatbot im Monatsabo. Größere Projekte wie eine neue Website, ein Onlineshop oder eine eigene Web-App kosten mehr. Eine Starter-Website gibt es bei uns ab 2.500 € einmalig, individuelle Projekte kalkulieren wir nach dem Erstgespräch."
+    },
+    {
+      "q": "Gibt es Förderungen für die Digitalisierung von KMU?",
+      "a": "In Österreich gibt es immer wieder Förderprogramme für Digitalisierung auf Bundes- und Landesebene, deren Bedingungen sich jedoch ändern. Wichtig ist bei vielen Programmen, den Antrag vor Projektbeginn zu stellen. Über aktuelle Angebote informiert die Wirtschaftskammer. Mehr dazu im Beitrag zu Förderungen für Digitalisierung in Österreich."
+    },
+    {
+      "q": "Wie lange dauert es, einen Betrieb zu digitalisieren?",
+      "a": "Digitalisierung ist kein Projekt mit Enddatum, sondern eine Reihe kleiner Schritte. Ein einzelner Bereich wie digitale Belege oder eine Online-Terminbuchung ist oft in wenigen Wochen eingeführt. Sinnvoll ist ein Tempo, das der Betrieb neben dem Tagesgeschäft verkraftet: ein Vorhaben vollständig umsetzen, eingewöhnen lassen und dann das nächste angehen."
+    }
+  ],
+  "verwandt": ["/leistungen/digitalisierungsberatung/", "/wissen/foerderungen-digitalisierung/", "/wissen/digitalberater/", "/wissen/automatisierung-beispiele/", "/wissen/it-sicherheit/"],
+  "checks": ["seo-check", "website-entwurf"]
+}

@@ -1,0 +1,61 @@
+{
+  "pfad": "/branchen/versicherungsmakler/",
+  "title": "Versicherungsmakler digital: Schadensmeldung bis Protokoll",
+  "description": "Für Versicherungsmakler: Schadensmeldungen am Wochenende auffangen, Beratungsgespräche dokumentieren und Gewerbekunden in der Region gezielt finden.",
+  "h1": "Digitale Lösungen für Versicherungsmakler",
+  "kicker": "Branche · Versicherungsmakler",
+  "lead": "Versicherungsmakler werden im Schadensfall und bei der Beratung gemessen, und genau dort helfen digitale Bausteine am meisten. Eine klare Seite zur Schadensmeldung, KI-Gesprächsnotizen für die Beratungsdokumentation und automatische Erinnerungen an Jahresgespräche entlasten das Büro, während SightUp beim Finden neuer Gewerbekunden unterstützt.",
+  "fakten": [
+    "Eigene Seite „Schaden melden“ mit Schritten, Formular und Fotoupload",
+    "noteit protokolliert Beratungsgespräche ohne Bot im Call, ab 0 € im Monat",
+    "Erinnerungen an Jahresgespräche und Vertragsabläufe automatisieren",
+    "SightUp findet Gewerbekunden in der Nähe, Gratis-Paket mit 3 Suchen",
+    "Informationspflichten im Web: im Zweifel beim Fachverband der WKO nachfragen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum die Website zeigen muss, dass Sie Makler sind",
+      "html": "<p>Viele Menschen kennen den Unterschied zwischen einem Versicherungsmakler und einem Vertreter einer bestimmten Gesellschaft nicht. Genau dieser Unterschied ist aber Ihr wichtigstes Argument: Sie vergleichen am Markt und stehen auf der Seite Ihrer Kunden.</p><p>Ihre Website sollte das in einfachen Worten erklären, am besten gleich auf der Startseite. Dazu gehört, für wen Sie hauptsächlich arbeiten, etwa Privatkunden, Landwirtschaft, Gewerbe oder Vereine, und wie eine Beratung bei Ihnen abläuft.</p>"
+    },
+    {
+      "h2": "Schaden melden: der Moment der Wahrheit",
+      "html": "<p>Ein Wasserrohrbruch am Samstagabend, ein Hagelschaden am Auto, ein Einbruch während des Urlaubs: In diesen Momenten sucht Ihr Kunde am Handy nach Ihrer Nummer und erreicht niemanden. Eine eigene Seite „Schaden melden“ gibt ihm sofort Halt:</p><ul><li>was jetzt zu tun ist, etwa Schaden begrenzen, fotografieren, nichts wegwerfen</li><li>wann Polizei oder Notdienst zu verständigen sind</li><li>ein Formular mit Fotoupload und Polizzennummer, das direkt bei Ihnen landet</li></ul><p>Viele Kunden schicken Fotos ohnehin lieber per Nachricht. Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> kann Bilder und Angaben strukturiert entgegennehmen und Ihnen am Montag geordnet vorlegen. Der Preis dafür wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Beratungsgespräche dokumentieren, ohne mitzutippen",
+      "html": "<p>Eine saubere Dokumentation der Beratung ist in Ihrer Branche besonders wichtig. Mitschreiben während des Gesprächs stört aber den Kontakt zum Kunden, und das Nachtragen am Abend kostet Zeit.</p><p><a href=\"/leistungen/meeting-protokolle-ki/\">KI-Gesprächsnotizen</a> mit noteit entstehen für Teams, Zoom, Google Meet, Webex und weitere Programme, ohne Bot im Call. Die Speicherung erfolgt in Frankfurt, das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig. Informieren Sie Kunden vorab und holen Sie ihr Einverständnis ein. Ob das Protokoll Ihre formalen Pflichten vollständig erfüllt, prüfen Sie bitte selbst bzw. mit Ihrem Fachverband. Testen können Sie noteit 7 Tage gratis unter <a href=\"https://noteit.at/registrieren\">noteit.at/registrieren</a>.</p>"
+    },
+    {
+      "h2": "Jahresgespräche und Vertragsabläufe nicht verpassen",
+      "html": "<p>Ein Kunde hat geheiratet, ein Haus gebaut oder einen Betrieb übernommen, und seine Verträge passen nicht mehr. Wer das erst beim nächsten Schaden merkt, hat ein Problem. Automatische Erinnerungen helfen:</p><ul><li>Hinweis an Sie, wenn ein Jahresgespräch fällig ist</li><li>freundliche E-Mail an den Kunden mit Terminvorschlag</li><li>Liste der Verträge, die demnächst auslaufen</li></ul><p>Solche Abläufe lassen sich an bestehende Programme anbinden. Weitere Ideen finden Sie im Ratgeber <a href=\"/wissen/automatisierung-beispiele/\">Beispiele für Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Gewerbekunden in der Region gezielt finden",
+      "html": "<p>Betriebsversicherungen für Handwerk, Gastronomie oder Landwirtschaft sind für viele Makler ein wichtiges Standbein. Die Frage ist, wo man anfängt. <a href=\"https://sightup.at/\">SightUp</a> findet passende Firmenkunden in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor. Verschickt wird nichts automatisch, Sie entscheiden selbst.</p><p>Das Gratis-Paket umfasst 3 Suchen pro Monat, danach Start 19 €, Pro 50 € oder Business 150 € monatlich. Mehr zur Herangehensweise auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p>"
+    },
+    {
+      "h2": "Informationspflichten und der nächste Schritt",
+      "html": "<p>Versicherungsmakler haben besondere Informationspflichten, die auch die Website betreffen, etwa im Impressum. Wir geben dazu keine Rechtsauskunft. Allgemeine Hinweise stehen im Ratgeber zur <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>, für Details ist der Fachverband in der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> die richtige Stelle.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> zeigen wir Ihnen live, wie eine Schadensseite oder ein Gesprächsprotokoll mit Ihren Inhalten aussieht. Was Sie nicht brauchen, empfehlen wir nicht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sollte auf der Schadensseite eines Versicherungsmaklers stehen?",
+      "a": "Am wichtigsten sind klare Sofortmaßnahmen, etwa Schaden begrenzen, Fotos machen und nichts entsorgen, dazu der Hinweis, wann Polizei oder Notdienst zu rufen sind. Ergänzt wird das durch ein Formular mit Polizzennummer und Fotoupload sowie Ihre Erreichbarkeit. So hat der Kunde auch am Wochenende eine Anleitung, und Sie bekommen alle Angaben gesammelt."
+    },
+    {
+      "q": "Kann noteit die Beratungsdokumentation eines Maklers ersetzen?",
+      "a": "noteit erstellt Gesprächsnotizen etwa zwei Minuten nach dem Gespräch, ohne Bot im Call und mit Speicherung in Frankfurt. Das erleichtert die Dokumentation deutlich. Ob ein solches Protokoll Ihre formalen Pflichten vollständig erfüllt, müssen Sie selbst beurteilen oder mit Ihrem Fachverband klären. Die Zustimmung des Kunden zur Aufzeichnung sollte immer vorab eingeholt werden."
+    },
+    {
+      "q": "Wie finde ich als Makler neue Gewerbekunden?",
+      "a": "Neben Empfehlungen hilft ein gezielter Blick auf Betriebe in Ihrer Region, die zu Ihrem Schwerpunkt passen. SightUp findet solche Firmen, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst prüfen und verschicken. Das Gratis-Paket bietet 3 Suchen pro Monat. Für die Kontaktaufnahme gelten rechtliche Regeln, die Sie vorab kennen sollten."
+    },
+    {
+      "q": "Lohnt sich ein WhatsApp-Bot für einen kleinen Maklerbetrieb?",
+      "a": "Wenn viele Kunden Schäden oder Unterlagen ohnehin per WhatsApp schicken, kann ein Bot diese Nachrichten strukturiert sammeln und um fehlende Angaben bitten. Das spart Nachfragen. Wenn Kunden fast nur anrufen oder ins Büro kommen, reicht oft eine gute Schadensseite auf der Website. Der Preis für einen WhatsApp-Bot wird nach dem Erstgespräch genannt."
+    }
+  ],
+  "verwandt": ["/branchen/immobilienmakler/", "/leistungen/meeting-protokolle-ki/", "/produkte/sightup/", "/wissen/whatsapp-kundenservice/", "/wissen/kundengespraeche-dokumentieren/"],
+  "checks": ["neukunden-finden", "website-entwurf"]
+}

@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/onlineshop/",
+  "title": "Onlineshop einfach erklärt: Verkaufen im Internet",
+  "description": "Onlineshop einfach erklärt: Was zu einem eigenen Webshop gehört, von Produkten über Zahlung bis Versand, und für wen er sich lohnt.",
+  "h1": "Onlineshop",
+  "kicker": "Glossar · E-Commerce",
+  "lead": "Ein Onlineshop ist eine Website oder ein Bereich einer Website, auf dem Kunden Produkte oder Leistungen auswählen, bestellen und bezahlen können. Dazu gehören Produktseiten, Warenkorb, Zahlungsabwicklung sowie rechtliche Angaben wie AGB und Widerrufsbelehrung.",
+  "fakten": [
+    "Bausteine: Produkte, Warenkorb, Kasse, Zahlung, Versand",
+    "Rechtliche Pflichten: AGB, Widerruf, Preisangaben, Impressum",
+    "Eigener Shop oder Marktplatz: beides hat Vor- und Nachteile"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Onlineshop aus der Praxis",
+      "html": "<p>Eine Imkerei verkauft Honig, Met und Kerzen bisher ab Hof und auf Märkten. Ein kleiner Onlineshop ergänzt das: Stammkunden aus der Stadt bestellen nach, zahlen per Karte oder PayPal über einen <a href=\"/glossar/payment-provider/\">Payment-Provider</a> und wählen zwischen Versand und Abholung. Bestellungen landen automatisch per <a href=\"/glossar/webhook/\">Webhook</a> in der Packliste.</p><p>Damit der Shop funktioniert, braucht es gute Produktfotos, klare Versandkosten, Lagerstände und jemanden, der Bestellungen zuverlässig abarbeitet.</p>"
+    },
+    {
+      "h2": "Wann sich ein Onlineshop für KMU lohnt",
+      "html": "<p>Ein Shop lohnt sich, wenn Produkte gut versendbar sind, Kunden auch aus der Ferne kaufen wollen und jemand Zeit für Pflege und Versand hat. Für einzelne Gutscheine oder wenige Artikel reicht manchmal ein einfaches Bestellformular. Neben dem eigenen Shop sind Marktplätze eine Option, siehe <a href=\"/vergleiche/eigener-shop-oder-marktplatz/\">eigener Shop oder Marktplatz</a>.</p><p>Den Einstieg erklären die Ratgeber <a href=\"/wissen/onlineshop-starten/\">Onlineshop starten</a> und <a href=\"/wissen/onlineshop-kosten/\">Onlineshop-Kosten</a>. Die Umsetzung beschreibt <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen</a>; der Preis richtet sich nach dem Umfang und wird nach dem Erstgespräch genannt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche rechtlichen Angaben braucht ein Onlineshop?",
+      "a": "Typisch sind Impressum, Datenschutzerklärung, AGB, Informationen zum Rücktrittsrecht für Verbraucher, klare Preisangaben samt Versandkosten sowie Angaben zu Lieferzeit und Zahlungsarten. Je nach Produkt kommen weitere Pflichten dazu, etwa bei Lebensmitteln. Das ist eine allgemeine Orientierung. Muster und Auskünfte für Ihren Fall bietet die WKO; bei Unsicherheit lohnt sich eine Rechtsberatung."
+    },
+    {
+      "q": "Shopify, WooCommerce oder eine eigene Lösung?",
+      "a": "Fertige Shopsysteme wie Shopify sind schnell startklar und laufen als Abo. WooCommerce baut auf WordPress auf, ist flexibel, braucht aber mehr Pflege. Individuelle Lösungen lohnen sich bei besonderen Abläufen, etwa speziellen Preisen für Wiederverkäufer. Die Wahl hängt von Sortiment, Budget und Ihrem Aufwand für die Betreuung ab. Lassen Sie sich vor der Entscheidung mehrere Varianten zeigen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/onlineshop-starten/",
+    "/leistungen/onlineshop-erstellen/",
+    "/vergleiche/shopify-oder-woocommerce/",
+    "/glossar/payment-provider/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

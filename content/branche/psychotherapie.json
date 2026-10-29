@@ -1,0 +1,57 @@
+{
+  "pfad": "/branchen/psychotherapie/",
+  "title": "Website für Psychotherapie und Beratung: diskret, klar",
+  "description": "Für Psychotherapie- und Beratungspraxen: diskreter Erstkontakt, freie Plätze sichtbar machen, Kosten erklären – und wo KI in der Praxis nichts verloren hat.",
+  "h1": "Digitale Lösungen für Psychotherapie und Beratung",
+  "kicker": "Branche · Psychotherapie & Beratung",
+  "lead": "Eine Praxis für Psychotherapie oder psychologische Beratung braucht digital vor allem Diskretion und Klarheit: ein Kontaktweg ohne unnötige Gesundheitsdaten, ehrliche Angaben zu freien Plätzen und eine verständliche Erklärung von Ablauf und Kosten. KI-Werkzeuge haben hier enge Grenzen, und die Website selbst ist meist der wichtigste und oft einzige Baustein.",
+  "fakten": [
+    "Kontaktformular mit wenigen Pflichtfeldern, keine Pflicht zur Problembeschreibung",
+    "Aktueller Hinweis auf freie Plätze erspart viele Anfragen",
+    "Gut sichtbarer Hinweis auf Notrufnummern und Krisendienste",
+    "Werberegeln: im Zweifel bei Berufsvertretung oder Kammer nachfragen",
+    "Starter-Website ab 2.500 € einmalig, Hosting inklusive"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Diskretion beginnt beim ersten Klick",
+      "html": "<p>Wer eine Psychotherapeutin oder einen Berater sucht, tut das oft nach langem Zögern, manchmal spät in der Nacht. Ein Formular, das als Pflichtfeld „Beschreiben Sie Ihr Anliegen ausführlich“ verlangt, schreckt ab und erzeugt außerdem sensible Gesundheitsdaten in Ihrem Postfach.</p><p>Besser ist ein schlanker Erstkontakt:</p><ul><li>Name, E-Mail oder Telefonnummer und ein bevorzugter Rückrufzeitraum</li><li>ein freiwilliges Textfeld mit dem Hinweis, dass Details im Gespräch geklärt werden</li><li>eine verschlüsselte Verbindung und ein Hosting in Europa</li></ul><p>Worauf es beim Formular datenschutzrechtlich ankommt, erklärt der Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">Kontaktformular und DSGVO</a>. Im Einzelfall ist die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> die offizielle Anlaufstelle.</p>"
+    },
+    {
+      "h2": "Freie Plätze und Warteliste ehrlich zeigen",
+      "html": "<p>Viele Praxen bekommen mehr Anfragen, als sie annehmen können. Jede einzelne zu beantworten, kostet Zeit und ist für Suchende frustrierend, wenn sie nach Tagen eine Absage bekommen. Ein kurzer, aktueller Hinweis auf der Startseite hilft beiden Seiten: „Derzeit nehme ich neue Klientinnen ab März auf“ oder „Warteliste geöffnet“.</p><p>Wichtig ist, dass dieser Hinweis wirklich gepflegt wird. Wenn Sie die Website selbst ändern können, dauert das eine Minute. Bei einer Starter-Website ab 2.500 € einmalig besprechen wir vorab, welche Stellen Sie selbst aktualisieren möchten.</p>"
+    },
+    {
+      "h2": "Methode, Ablauf und Kosten verständlich erklären",
+      "html": "<p>Begriffe wie Verhaltenstherapie, systemische Therapie, Psychoanalyse oder Lebens- und Sozialberatung sagen Laien wenig. Eine Seite, die in einfachen Worten erklärt, wie ein Erstgespräch abläuft, wie lange eine Einheit dauert und wie oft man sich in der Regel sieht, nimmt viel Unsicherheit.</p><p>Zur Frage nach Kostenzuschüssen der Krankenkasse sollten Sie nur allgemein informieren und auf die jeweilige Kasse verweisen, statt Beträge zu nennen, die sich ändern können. Weitere Hinweise zum Aufbau einer solchen Website finden Sie im Ratgeber <a href=\"/wissen/praxis-website/\">Praxis-Website</a>.</p>"
+    },
+    {
+      "h2": "Was digital nicht in die Therapie gehört",
+      "html": "<p>Hier sind wir bewusst zurückhaltend. Ein Chatbot kann organisatorische Fragen beantworten, etwa zu Adresse, Barrierefreiheit oder dem Ablauf der Terminvereinbarung. Pipebot antwortet nur mit Ihren Inhalten und verbindet bei Unsicherheit mit Ihnen. Inhaltliche oder emotionale Gespräche gehören nicht in einen Chatbot, und viele Praxen verzichten deshalb ganz darauf. Das ist eine völlig vernünftige Entscheidung.</p><p>Auch KI-Gesprächsnotizen wie noteit empfehlen wir für Therapiesitzungen nicht, wegen der besonderen Verschwiegenheit. Sinnvoll sein können sie höchstens für organisatorische Besprechungen ohne Klientendaten. Mehr zu den Grenzen steht im Ratgeber <a href=\"/wissen/ki-und-datenschutz/\">KI und Datenschutz</a>.</p><p>Unverzichtbar ist dagegen ein gut sichtbarer Hinweis, dass Ihre Praxis kein Krisendienst ist, mit Verweis auf Notrufnummern und Krisenangebote.</p>"
+    },
+    {
+      "h2": "Werbung im Berufsrecht und der nächste Schritt",
+      "html": "<p>Für Psychotherapie und psychologische Berufe gibt es berufsrechtliche Vorgaben, wie über die eigene Tätigkeit informiert werden darf. Wir geben dazu keine Rechtsberatung. Als Orientierung gilt: sachlich, ohne Heilversprechen, ohne Erfolgsquoten. Psychotherapeutinnen klären Details mit ihrer Berufsvertretung bzw. der zuständigen Stelle, Lebens- und Sozialberater mit der zuständigen Fachgruppe der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p><p>Wenn Sie eine ruhige, sachliche Website möchten, sprechen Sie mit uns im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, gerne auch per Telefon oder Video-Call am Abend.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche Angaben sollte ein Kontaktformular für eine Psychotherapiepraxis abfragen?",
+      "a": "So wenig wie möglich: Name, eine Kontaktmöglichkeit und gegebenenfalls einen bevorzugten Rückrufzeitraum. Ein Textfeld für das Anliegen sollte freiwillig sein, mit dem Hinweis, dass Details im persönlichen Gespräch besprochen werden. So entstehen weniger sensible Daten im Postfach, und Suchende fühlen sich nicht unter Druck gesetzt. Datenschutzfragen im Einzelfall klärt die Datenschutzbehörde."
+    },
+    {
+      "q": "Ist ein Chatbot für eine Psychotherapiepraxis sinnvoll?",
+      "a": "Nur sehr eingeschränkt. Ein Chatbot kann organisatorische Fragen beantworten, etwa zu Anfahrt, Terminvergabe oder Barrierefreiheit. Für inhaltliche oder emotionale Anliegen ist er nicht geeignet. Pipebot antwortet ausschließlich mit Ihren hinterlegten Inhalten und verweist bei Unsicherheit an Sie. Viele Praxen verzichten bewusst auf einen Chatbot, und das ist eine gut begründete Entscheidung."
+    },
+    {
+      "q": "Darf ich als Psychotherapeutin auf meiner Website werben?",
+      "a": "Sachliche Information über Ausbildung, Methode, Ablauf und Erreichbarkeit ist in der Regel üblich. Für die Werbung gelten aber berufsrechtliche Vorgaben, die wir nicht im Detail beurteilen. Vermeiden Sie Heilversprechen, Erfolgsquoten und reißerische Formulierungen. Bei konkreten Fragen wenden Sie sich am besten an Ihre Berufsvertretung, Lebens- und Sozialberater an die zuständige Fachgruppe der Wirtschaftskammer."
+    },
+    {
+      "q": "Was kostet eine Website für eine Beratungspraxis?",
+      "a": "Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, ohne Umsatzsteuer. Typisch sind Startseite, Über mich, Methode und Ablauf, Kosten sowie Kontakt. Enthalten sind Darstellung auf allen Geräten, Optimierung für Google und KI-Suchen, Kontaktformular, Impressum, Datenschutz und Hosting. Zusätzliche Funktionen werden nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/branchen/arztpraxis/", "/wissen/praxis-website/", "/wissen/dsgvo-kontaktformular/", "/wissen/datenschutzerklaerung/", "/leistungen/website-erstellen/"],
+  "checks": ["website-entwurf", "seo-check"]
+}

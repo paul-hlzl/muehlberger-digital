@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/workflow/",
+  "title": "Workflow einfach erklärt: Arbeitsablauf im Betrieb",
+  "description": "Workflow einfach erklärt: Was ein Arbeitsablauf aus Auslöser, Schritten und Ergebnis ist, wie man ihn beschreibt und wie kleine Betriebe ihn digital abbilden.",
+  "h1": "Workflow – der Arbeitsablauf",
+  "kicker": "Glossar · Prozesse",
+  "lead": "Ein Workflow ist ein festgelegter Arbeitsablauf aus aufeinanderfolgenden Schritten, der durch ein Ereignis ausgelöst wird und zu einem bestimmten Ergebnis führt. In der Software bezeichnet der Begriff meist einen automatisierten Ablauf zwischen Programmen.",
+  "fakten": [
+    "Bausteine: Auslöser, Schritte, Bedingungen, Ergebnis",
+    "Erst auf Papier beschreiben, dann digitalisieren",
+    "Werkzeuge: Zapier, Make, n8n oder individuelle Lösungen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Workflow Schritt für Schritt",
+      "html": "<p>Eine Hausarztpraxis bekommt Rezeptbestellungen per Mail. Der Workflow sieht so aus:</p><ol><li>Auslöser: Eine Mail mit dem Betreff „Rezept“ trifft ein.</li><li>Schritt: Name, Geburtsdatum und Medikament werden erkannt und in eine Liste übernommen.</li><li>Bedingung: Fehlt eine Angabe, geht eine freundliche Rückfrage an den Patienten.</li><li>Ergebnis: Die Ordinationsassistentin sieht alle vollständigen Bestellungen gesammelt.</li></ol><p>Die medizinische Entscheidung bleibt bei der Ärztin; der Workflow nimmt nur das Sortieren ab.</p>"
+    },
+    {
+      "h2": "Warum Workflows für KMU nützlich sind",
+      "html": "<p>Schon das Aufschreiben eines Ablaufs zeigt oft Doppelarbeit und Lücken. Ein klar beschriebener Workflow lässt sich leichter an neue Mitarbeiter übergeben und später digital abbilden. Daraus entsteht <a href=\"/glossar/automatisierung/\">Automatisierung</a>, häufig ausgelöst über einen <a href=\"/glossar/webhook/\">Webhook</a>.</p><p>Welche Werkzeuge sich eignen, vergleicht <a href=\"/vergleiche/zapier-make-n8n/\">Zapier, Make oder n8n</a>. Wie Sie ohne Programmierkenntnisse starten, zeigt <a href=\"/wissen/automatisierung-ohne-programmieren/\">Automatisierung ohne Programmieren</a>; beim Sortieren von Mails hilft <a href=\"/wissen/e-mails-sortieren/\">E-Mails automatisch sortieren</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Workflow und Prozess?",
+      "a": "Die Begriffe werden oft gleich verwendet. Ein Prozess beschreibt meist den größeren Zusammenhang, etwa „vom Angebot bis zur Rechnung“. Ein Workflow ist ein konkreter, wiederholbarer Ablauf innerhalb davon, zum Beispiel „Angebot nach Freigabe automatisch als PDF verschicken“. Für die Digitalisierung im kleinen Betrieb ist der Workflow die handlichere Einheit."
+    },
+    {
+      "q": "Was passiert, wenn ein automatischer Workflow fehlschlägt?",
+      "a": "Gute Workflows melden Fehler, etwa per Mail an eine verantwortliche Person, und brechen nicht stillschweigend ab. Legen Sie fest, wer solche Meldungen bekommt und wie der Vorgang dann händisch erledigt wird. Testen Sie neue Abläufe zuerst mit Beispieldaten und kontrollieren Sie in den ersten Wochen regelmäßig, ob alles ankommt."
+    }
+  ],
+  "verwandt": [
+    "/glossar/automatisierung/",
+    "/vergleiche/zapier-make-n8n/",
+    "/wissen/automatisierung-ohne-programmieren/",
+    "/glossar/webhook/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

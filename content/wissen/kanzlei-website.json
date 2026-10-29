@@ -1,0 +1,71 @@
+{
+  "pfad": "/wissen/kanzlei-website/",
+  "title": "Was eine Kanzlei-Website braucht: Inhalte und Regeln",
+  "description": "Was eine Kanzlei-Website braucht: Rechtsgebiete, Team, Kostenhinweise, Erstberatung, Vertraulichkeit und Standesrecht – für Anwälte, Notare und Steuerberater.",
+  "h1": "Was eine Kanzlei-Website braucht",
+  "kicker": "Ratgeber · Kanzleien",
+  "lead": "Eine Kanzlei-Website braucht vor allem Klarheit: welche Rechtsgebiete oder Leistungen Sie abdecken, wer in der Kanzlei arbeitet, wie die erste Kontaktaufnahme abläuft und womit Mandanten bei den Kosten rechnen können. Sie muss Vertrauen und Diskretion ausstrahlen und die standesrechtlichen Regeln für Werbung einhalten. Fachwissen zeigt sich durch verständliche Erklärungen, nicht durch Fachsprache.",
+  "fakten": [
+    "Rechtsgebiete und Schwerpunkte klar und verständlich benennen",
+    "Team mit Fotos und Qualifikationen schafft Vertrauen",
+    "Ablauf und Kosten der Erstberatung transparent machen",
+    "Keine vertraulichen Details über ungeschützte Formulare abfragen",
+    "Standesrechtliche Werberegeln mit der Kammer abstimmen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Mandanten auf einer Kanzlei-Website suchen",
+      "html": "<p>Wer eine Rechtsanwaltskanzlei, ein Notariat oder eine Steuerberatung sucht, ist oft verunsichert. Es geht um eine Scheidung, eine Erbschaft, einen Streit mit dem Vermieter, eine Betriebsprüfung oder eine Firmengründung. Die ersten Fragen sind fast immer dieselben:</p><ul><li>Ist diese Kanzlei für mein Problem zuständig?</li><li>Wer sind die Menschen dahinter, und kann ich ihnen vertrauen?</li><li>Wie läuft das erste Gespräch ab, und was kostet es?</li><li>Wie schnell bekomme ich einen Termin?</li></ul><p>Eine gute Kanzlei-Website beantwortet diese Fragen ruhig und verständlich. Sie wirkt nicht wie ein Werbeprospekt, sondern wie ein erstes, sachliches Gespräch.</p>"
+    },
+    {
+      "h2": "Checkliste: Die wichtigsten Inhalte",
+      "html": "<ul><li><strong>Startseite:</strong> Art der Kanzlei, Ort, Schwerpunkte in einem Satz, Kontaktmöglichkeit.</li><li><strong>Rechtsgebiete oder Leistungen:</strong> jeweils mit kurzer, verständlicher Beschreibung.</li><li><strong>Team:</strong> Fotos, Ausbildung, Schwerpunkte, Sprachen.</li><li><strong>Erstberatung:</strong> Ablauf, Dauer, Kosten oder Kostenhinweis, was mitzubringen ist.</li><li><strong>Kontakt:</strong> Telefon, E-Mail, Adresse, Erreichbarkeit, Anfahrt, Parken.</li><li><strong>Wissensbeiträge:</strong> verständliche Erklärungen häufiger Fragen, ohne Einzelfallberatung.</li><li><strong>Rechtliches:</strong> Impressum mit den berufsrechtlichen Angaben, Datenschutzerklärung.</li></ul><p>Branchenspezifische Hinweise stehen auf den Seiten für <a href=\"/branchen/rechtsanwalt/\">Rechtsanwälte</a> und <a href=\"/branchen/steuerberater/\">Steuerberater</a>.</p>"
+    },
+    {
+      "h2": "Rechtsgebiete verständlich erklären",
+      "html": "<p>Mandanten denken nicht in Rechtsgebieten, sondern in Lebenssituationen. Niemand sucht nach „Bestandrecht“, viele aber nach „Mieter zahlt nicht“ oder „Kündigung Mietvertrag“. Beschreiben Sie Ihre Schwerpunkte deshalb aus Sicht der Mandanten:</p><ul><li>typische Situationen, in denen Sie helfen</li><li>wie Sie dabei vorgehen</li><li>was der Mandant selbst vorbereiten kann</li></ul><p>Eine Steuerberatungskanzlei kann zum Beispiel eine Seite für Gründerinnen und Gründer anbieten, die erklärt, welche Fragen am Anfang typischerweise auftauchen. Das ist hilfreich, ohne den Einzelfall zu beraten, und wird von Google und KI-Suchen eher gefunden als eine reine Aufzählung von Fachbegriffen.</p>"
+    },
+    {
+      "h2": "Erstberatung und Kosten transparent machen",
+      "html": "<p>Die Sorge vor hohen Kosten hält viele Menschen davon ab, sich überhaupt bei einer Kanzlei zu melden. Transparenz hilft:</p><ul><li>Beschreiben Sie, wie eine Erstberatung abläuft und wie lange sie dauert.</li><li>Nennen Sie, ob und was sie kostet, oder wovon die Kosten abhängen.</li><li>Erklären Sie, wie Honorare grundsätzlich berechnet werden, etwa nach Aufwand oder Pauschale.</li><li>Weisen Sie auf Rechtsschutzversicherung oder andere Möglichkeiten hin, wenn passend.</li></ul><p>Sie müssen keine Preisliste veröffentlichen. Aber eine verständliche Erklärung, womit Mandanten rechnen können, senkt die Hemmschwelle. Ob und wie Sie Preise zeigen, beschreibt der Ratgeber <a href=\"/wissen/preise-auf-website/\">Preise auf der Website zeigen?</a></p>"
+    },
+    {
+      "h2": "Vertraulichkeit und Datenschutz",
+      "html": "<p>Mandanten vertrauen einer Kanzlei sensible Informationen an. Das beginnt schon beim ersten Kontakt über die Website. Als allgemeine Orientierung:</p><ul><li>Fragen Sie im Kontaktformular nur ab, was für die Terminvereinbarung nötig ist.</li><li>Weisen Sie darauf hin, keine vertraulichen Details oder Dokumente per Formular oder unverschlüsselter E-Mail zu senden.</li><li>Bieten Sie für den Austausch von Unterlagen einen sicheren Weg an.</li><li>Prüfen Sie, welche externen Dienste auf der Website eingebunden sind.</li></ul><p>Wie Sie das Kontaktformular datenschutzkonform gestalten, steht im Ratgeber <a href=\"/wissen/dsgvo-kontaktformular/\">DSGVO und Kontaktformular</a>. Für Fragen im Einzelfall ist die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> zuständig.</p>"
+    },
+    {
+      "h2": "Werbung und Standesrecht",
+      "html": "<p>Für Rechtsanwälte, Notare und Steuerberater gelten berufsrechtliche Regeln, die auch für die Website wichtig sind. Sachliche Information über die Kanzlei, die Schwerpunkte und die Personen ist in der Regel zulässig. Vorsicht ist geboten bei Erfolgsversprechen, reißerischen Formulierungen, Vergleichen mit anderen Kanzleien oder der Nennung von Mandanten ohne deren Zustimmung.</p><p>Die Regeln unterscheiden sich je nach Beruf und werden von den jeweiligen Kammern festgelegt. Stimmen Sie im Zweifel Inhalte und Formulierungen mit Ihrer Kammer ab. Auch das Impressum muss bei Kanzleien zusätzliche berufsrechtliche Angaben enthalten; einen Überblick gibt der Ratgeber <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>.</p>"
+    },
+    {
+      "h2": "Effizienter arbeiten mit digitalen Werkzeugen",
+      "html": "<p>Über die Website hinaus gibt es in Kanzleien viele Stellen, an denen digitale Werkzeuge Zeit sparen, ohne die Vertraulichkeit zu gefährden. Ein Beispiel sind Besprechungsnotizen: noteit erstellt KI-Protokolle von Gesprächen in Teams, Zoom, Google Meet oder Webex, ohne einen Bot in den Call zu holen, speichert in Frankfurt und ist etwa zwei Minuten nach dem Gespräch fertig. Testen lässt sich das sieben Tage gratis über <a href=\"https://noteit.at/\">noteit</a>.</p><p>Für organisatorische Fragen auf der Website, etwa zu Erreichbarkeit oder Ablauf der Erstberatung, kann ein Chatbot helfen, der nur mit Ihren Inhalten antwortet. Rechtliche Auskünfte gehören nicht in einen Chatbot. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir gern, was für Ihre Kanzlei sinnvoll ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was muss auf der Website einer Anwaltskanzlei stehen?",
+      "a": "Wichtig sind die Rechtsgebiete oder Schwerpunkte mit verständlicher Beschreibung, das Team mit Fotos und Qualifikationen, Informationen zu Ablauf und Kosten der Erstberatung, Kontakt und Erreichbarkeit sowie Anfahrt. Dazu kommen das Impressum mit berufsrechtlichen Angaben und eine Datenschutzerklärung. Welche Angaben genau Pflicht sind, klären Sie im Zweifel mit Ihrer Kammer."
+    },
+    {
+      "q": "Darf eine Kanzlei auf ihrer Website werben?",
+      "a": "Sachliche Information über Kanzlei, Personen und Schwerpunkte ist in der Regel erlaubt. Berufsrechtliche Regeln schränken aber bestimmte Formen der Werbung ein, etwa Erfolgsversprechen, reißerische Formulierungen oder die Nennung von Mandanten ohne Zustimmung. Die Details legen die jeweiligen Kammern fest. Stimmen Sie Texte im Zweifel vor der Veröffentlichung mit Ihrer Kammer ab."
+    },
+    {
+      "q": "Soll eine Kanzlei die Kosten der Erstberatung auf der Website nennen?",
+      "a": "Das ist empfehlenswert, wenn es möglich ist. Die Sorge vor hohen Kosten hält viele Menschen davon ab, überhaupt Kontakt aufzunehmen. Schon eine kurze Erklärung, wie die Erstberatung abläuft, wie lange sie dauert und ob oder was sie kostet, senkt die Hemmschwelle. Eine vollständige Preisliste ist dafür nicht nötig."
+    },
+    {
+      "q": "Wie gehe ich auf der Kanzlei-Website mit vertraulichen Anfragen um?",
+      "a": "Fragen Sie im Kontaktformular nur ab, was für die Terminvereinbarung nötig ist, und weisen Sie darauf hin, keine vertraulichen Details oder Dokumente über das Formular oder unverschlüsselte E-Mail zu senden. Bieten Sie für den Austausch von Unterlagen einen sicheren Weg an. Bei datenschutzrechtlichen Fragen im Einzelfall hilft die Datenschutzbehörde."
+    }
+  ],
+  "verwandt": [
+    "/branchen/rechtsanwalt/",
+    "/branchen/steuerberater/",
+    "/wissen/impressum-pflicht/",
+    "/wissen/dsgvo-kontaktformular/",
+    "/leistungen/website-erstellen/"
+  ],
+  "checks": ["website-entwurf", "ki-sichtbarkeit"]
+}

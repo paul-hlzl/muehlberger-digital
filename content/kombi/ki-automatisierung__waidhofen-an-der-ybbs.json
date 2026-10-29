@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/waidhofen-an-der-ybbs/",
+  "title": "KI-Automatisierung in Waidhofen/Ybbs: Wissen sichern",
+  "description": "Prozessautomatisierung mit KI in Waidhofen an der Ybbs: Erfahrungswissen festhalten, Prüf- und Arbeitsprotokolle aus Stichworten erstellen.",
+  "h1": "KI & Prozessautomatisierung in Waidhofen an der Ybbs",
+  "kicker": "KI-Automatisierung · Waidhofen an der Ybbs",
+  "lead": "In Waidhofen an der Ybbs, im Ybbstal an der Eisenstraße, haben metallverarbeitende und handwerkliche Betriebe eine lange Tradition, und viel Wissen steckt in den Köpfen erfahrener Mitarbeitender. KI-Automatisierung hilft, dieses Wissen festzuhalten und Prüf- und Arbeitsprotokolle aus wenigen Stichworten zu erstellen.",
+  "fakten": [
+    "Erfahrungswissen in Gesprächen festhalten und durchsuchbar machen",
+    "Prüf- und Arbeitsprotokolle aus Stichworten und Fotos",
+    "Pipeline AI Solutions sitzt im benachbarten Oberösterreich",
+    "Erstgespräch kostenlos, vor Ort in Niederösterreich oder per Video"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ybbstal und Eisenstraße: Handwerk mit Tradition",
+      "html": "<p><a href=\"/regionen/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a> ist eine Statutarstadt im Mostviertel, nahe der Grenze zu Oberösterreich und der Steiermark. Die Region entlang der Eisenstraße ist seit langem von Metallverarbeitung und Handwerk geprägt. Viele Betriebe sind Familienunternehmen, in denen erfahrene Fachleute Abläufe kennen, die nirgends aufgeschrieben sind.</p>"
+    },
+    {
+      "h2": "Erfahrungswissen festhalten, bevor es in Pension geht",
+      "html": "<p>Wenn langjährige Mitarbeitende in Pension gehen, geht oft Wissen mit: wie eine bestimmte Maschine eingestellt wird, worauf man bei einem Stammkunden achten muss, welche Lösung bei einem wiederkehrenden Problem funktioniert hat. So lässt sich das mit KI sichern:</p><ul><li><strong>Gespräche statt Handbücher:</strong> Erfahrene Kollegen erklären in einem Gespräch, etwa per Video-Call mit <a href=\"https://noteit.at/\">noteit</a>, wie sie vorgehen. Das Protokoll ist rund zwei Minuten danach fertig.</li><li><strong>Aufbereiten:</strong> Die KI macht daraus Schritt-für-Schritt-Anleitungen in klarer Sprache.</li><li><strong>Durchsuchbar machen:</strong> Neue Mitarbeitende stellen Fragen und bekommen Antworten aus diesen Anleitungen, mit Quelle.</li></ul><p>Wie man Gespräche sinnvoll dokumentiert, beschreibt der Ratgeber <a href=\"/wissen/kundengespraeche-dokumentieren/\">Gespräche dokumentieren</a>.</p>"
+    },
+    {
+      "h2": "Prüf- und Arbeitsprotokolle aus Stichworten",
+      "html": "<p>Im Werkstattalltag sind Protokolle Pflicht, aber unbeliebt. Die KI macht aus kurzen Stichworten, Messwerten und Fotos ein sauberes Protokoll in Ihrer Vorlage. Fehlende Pflichtangaben werden angezeigt, bevor das Dokument abgelegt wird. Ob ein Protokoll fachlich stimmt, prüft weiterhin die verantwortliche Person. Mehr Beispiele finden Sie auf der Branchenseite <a href=\"/branchen/metallbau/\">Metallbau</a>.</p>"
+    },
+    {
+      "h2": "Partner in der Nähe: Pipeline in Oberösterreich",
+      "html": "<p>Die technische Umsetzung übernimmt Pipeline AI Solutions mit Sitz in Oberösterreich, also gleich über der Landesgrenze. Mehr dazu auf der Seite <a href=\"https://www.pipeline-solutions.at/at/oberoesterreich/\">Pipeline AI Solutions in Oberösterreich</a>. Beratung und Vermittlung übernimmt Mühlberger Digital aus Ottenschlag. Grundsätzliches zur Leistung steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie hält man Erfahrungswissen mit KI am besten fest?",
+      "a": "Am besten in Gesprächen, nicht in langen Fragebögen. Eine erfahrene Person erklärt ein Thema, etwa eine Maschineneinstellung, und beantwortet Rückfragen. Das Gespräch wird protokolliert, die KI formt daraus eine Anleitung. Wichtig ist, dass die Person die Anleitung danach liest und korrigiert, denn Details gehen beim Erzählen leicht verloren."
+    },
+    {
+      "q": "Muss jemand im Betrieb dafür technisch versiert sein?",
+      "a": "Nein. Wer einen Video-Call starten und eine Sprachnachricht schicken kann, kann mitmachen. Die Einrichtung übernimmt Pipeline AI Solutions, Mühlberger Digital begleitet die Abstimmung. Hilfreich ist eine Person im Betrieb, die sich für das Thema verantwortlich fühlt und darauf achtet, dass Anleitungen aktuell bleiben."
+    },
+    {
+      "q": "Ist das nicht zu groß für einen kleinen Betrieb?",
+      "a": "Nicht, wenn man klein anfängt. Ein guter Start sind fünf bis zehn Themen, die neue Leute immer wieder fragen oder die nur eine Person beherrscht. Für Gesprächsprotokolle reicht oft der Starter-Tarif von noteit um 0 € mit drei Stunden pro Monat. Wenn sich das bewährt, kann man weitere Themen ergänzen."
+    },
+    {
+      "q": "Dürfen Mitarbeitergespräche einfach protokolliert werden?",
+      "a": "Nur mit Wissen und Zustimmung der Beteiligten. Sagen Sie offen, wofür das Protokoll gedacht ist und wer es lesen darf. Bei Fragen zu Arbeitsrecht und Datenschutz, etwa zur Mitbestimmung, wenden Sie sich bitte an die Wirtschaftskammer oder einen Anwalt. Eine allgemeine Orientierung gibt der Ratgeber zur Gesprächsaufzeichnung."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/waidhofen-an-der-ybbs/",
+    "/regionen/mostviertel/",
+    "/produkte/noteit/",
+    "/branchen/metallbau/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

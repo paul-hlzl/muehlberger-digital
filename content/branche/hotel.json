@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/hotel/",
+  "title": "Digitale Lösungen für Hotels: Direktbuchung & Gästefragen",
+  "description": "Direktbuchungen, Gästefragen in der Nacht, Tagungsanfragen und Personalmangel an der Rezeption: Welche digitalen Bausteine kleinen Hotels wirklich helfen.",
+  "h1": "Digitale Lösungen für Hotels",
+  "kicker": "Branche · Hotellerie",
+  "lead": "Kleine und mittlere Hotels stehen zwischen Buchungsplattformen, die Provision kosten, und einer Rezeption, die nicht rund um die Uhr besetzt werden kann. Am meisten bringen eine Website, die zur Direktbuchung einlädt, ein Chatbot für die immer gleichen Gästefragen und eine geordnete Bearbeitung von Tagungs- und Gruppenanfragen.",
+  "fakten": [
+    "Gute Website und klarer Direktbuchungs-Vorteil machen Hotels unabhängiger von Plattformen",
+    "Fragen zu Anreise, Parken, Hund oder spätem Check-in beantwortet Pipebot rund um die Uhr",
+    "Tagungsanfragen mit Personenanzahl, Technik und Verpflegung strukturiert aufnehmen",
+    "Pipebot: 19 € pro Monat, monatlich kündbar, erste 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Direktbuchung: Warum Gäste über die eigene Website buchen sollten",
+      "html": "<p>Viele Gäste finden ein Hotel über eine Buchungsplattform und schauen danach auf die eigene Website. Wirkt diese veraltet, buchen sie über die Plattform, und das Hotel zahlt Provision. Wirkt sie aktuell, mit echten Zimmerfotos, klaren Preisen und einem guten Grund für die Direktbuchung, bucht ein Teil direkt.</p><p>Ein Grund kann ein kleiner Vorteil sein, den Sie selbst festlegen, etwa ein Begrüßungsgetränk oder flexiblere Stornobedingungen. Wichtig ist, dass er auf der Website klar sichtbar ist. Wie man eine Website für den Tourismus aufbaut, beschreibt der Ratgeber <a href=\"/wissen/website-fuer-tourismus/\">Website für den Tourismus</a>.</p>"
+    },
+    {
+      "h2": "Die Frage um 23 Uhr: Kann ich noch einchecken?",
+      "html": "<p>Gäste schreiben oder rufen zu allen Zeiten: Ist ein später Check-in möglich? Gibt es Parkplätze für ein Wohnmobil? Darf der Hund mit? Gibt es eine Ladestation für das E-Auto? Kleine Hotels haben nachts oft niemanden an der Rezeption.</p><p>Ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> wie <a href=\"https://pipebot.at/\">Pipebot</a> beantwortet solche Fragen rund um die Uhr, aber ausschließlich mit den Inhalten, die Sie hinterlegen, im Design Ihrer Website. Bei Unsicherheit verbindet er mit dem Team. Er kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis. Buchungen und Zahlungen nimmt er nicht selbst entgegen, dafür bleibt Ihr Buchungssystem zuständig.</p>"
+    },
+    {
+      "h2": "Tagungen und Gruppen: komplexe Anfragen, großer Wert",
+      "html": "<p>Eine Firma plant ein zweitägiges Seminar: zwanzig Personen, Beamer, Flipchart, Mittagessen, ein Abendessen mit regionaler Küche, zwölf Einzelzimmer. So eine Anfrage bringt deutlich mehr als eine Einzelbuchung, aber wenn die Antwort drei Tage dauert, ist der Auftrag weg.</p><ul><li>Ein eigenes Tagungsformular fragt alle Eckdaten auf einmal ab.</li><li>Eine Seite mit Raumgrößen, Technik und Fotos beantwortet die ersten Fragen.</li><li>Vorgespräche per Video lassen sich mit <a href=\"https://noteit.at/\">noteit</a> automatisch protokollieren, ohne Bot im Call.</li></ul><p>So haben Sie nach dem Gespräch alle Wünsche schriftlich und können schnell ein Angebot schicken.</p>"
+    },
+    {
+      "h2": "Internationale Gäste und KI-Suchen",
+      "html": "<p>Wenn ein Hotel Gäste aus dem Ausland hat, sollte die Website zumindest die wichtigsten Seiten auf Englisch anbieten. Worauf es dabei ankommt, beschreibt der Ratgeber <a href=\"/wissen/mehrsprachige-website/\">mehrsprachige Website</a>.</p><p>Gleichzeitig planen immer mehr Reisende mit KI-Diensten: „Empfiehl mir ein ruhiges Hotel mit Sauna in der Region.“ Ob Ihr Haus dabei genannt wird, hängt davon ab, was über Sie im Netz steht. Wie man das misst und verbessert, steht unter <a href=\"/leistungen/geo-ki-sichtbarkeit/\">KI-Sichtbarkeit</a>.</p>"
+    },
+    {
+      "h2": "Personal und Rezeption: digitale Entlastung realistisch sehen",
+      "html": "<p>Viele Hotels finden schwer Personal für Rezeption und Nachtdienst. Digitale Werkzeuge können Routinefragen abfangen, aber sie ersetzen keinen herzlichen Empfang. Am besten wirken sie dort, wo Mitarbeiter heute viele gleiche Fragen beantworten, am Telefon oder per E-Mail.</p><p>Wer Personal sucht, kann Stellen kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben, der Bewerbungsplattform von Pipeline.</p>"
+    },
+    {
+      "h2": "Womit ein kleines Hotel anfangen sollte",
+      "html": "<p>Zuerst die Website: aktuelle Fotos, klare Zimmerbeschreibungen, Anfahrt und ein sichtbarer Direktbuchungs-Vorteil. Dann der Chatbot für Gästefragen. Tagungsformular und Protokolle lohnen sich nur, wenn Sie Tagungen tatsächlich anbieten.</p><p>Wie Ihre Startseite neu aussehen könnte, zeigt der <a href=\"/gratis-check/website-entwurf/\">kostenlose Website-Entwurf</a>. Im Erstgespräch klären wir den Rest.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Chatbot Zimmer buchen?",
+      "a": "Pipebot beantwortet Fragen mit den Inhalten Ihrer Website, etwa zu Zimmern, Anreise, Parken, Haustieren oder Check-in-Zeiten, und verweist für die Buchung auf Ihr Buchungssystem oder Ihr Team. Er nimmt keine Buchungen oder Zahlungen selbst entgegen. Gerade das macht ihn sicher: Er gibt keine Verfügbarkeiten oder Preise an, die nicht stimmen. Bei Unsicherheit verbindet er mit einem Menschen."
+    },
+    {
+      "q": "Wie bekomme ich mehr Direktbuchungen statt über Plattformen?",
+      "a": "Indem die eigene Website mindestens so gut wirkt wie Ihr Eintrag auf der Plattform: aktuelle Fotos, klare Zimmerbeschreibungen, einfache Buchung am Handy und ein sichtbarer Grund, direkt zu buchen. Ein kleiner Vorteil für Direktbucher, den Sie selbst festlegen, wirkt oft mehr als ein niedrigerer Preis. Wie viele Gäste umsteigen, hängt vom Haus und vom Publikum ab."
+    },
+    {
+      "q": "Wo werden Tagungsprotokolle von noteit gespeichert?",
+      "a": "noteit speichert die Daten in Frankfurt, also innerhalb der EU. Es funktioniert mit Teams, Zoom, Google Meet, Webex und weiteren Diensten, ohne dass ein Bot im Gespräch sitzt, und liefert das Protokoll etwa zwei Minuten nach dem Gespräch. Der Starter-Tarif ist kostenlos mit drei Stunden pro Monat, Pro kostet 14 € und Team 24 € pro Person und Monat."
+    },
+    {
+      "q": "Was kostet eine Website für ein kleines Hotel?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten beginnt bei 2.500 € einmalig ohne USt. Für ein Hotel reicht das oft nicht, weil Zimmerkategorien, Tagungsbereich, Mehrsprachigkeit und die Anbindung an ein Buchungssystem dazukommen. Dann ist es ein individuelles Projekt, dessen Preis nach dem Erstgespräch schriftlich angeboten wird. Sie wissen vorher genau, was es kostet."
+    }
+  ],
+  "verwandt": ["/wissen/website-fuer-tourismus/", "/wissen/mehrsprachige-website/", "/leistungen/ki-chatbot/", "/leistungen/geo-ki-sichtbarkeit/", "/branchen/ferienwohnung/"],
+  "checks": ["chatbot-test", "ki-sichtbarkeit"]
+}

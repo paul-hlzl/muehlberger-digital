@@ -1,0 +1,72 @@
+{
+  "pfad": "/wissen/prozessautomatisierung-erklaert/",
+  "title": "Was ist Prozessautomatisierung? Einfach erklärt",
+  "description": "Was ist Prozessautomatisierung? Auslöser, Schritte, Ergebnis einfach erklärt, Unterschied zu KI, welche Abläufe sich eignen und wie kleine Betriebe starten.",
+  "h1": "Was ist Prozessautomatisierung?",
+  "kicker": "Ratgeber · Automatisierung",
+  "lead": "Prozessautomatisierung bedeutet, dass wiederkehrende Arbeitsabläufe nach festen Regeln von Software erledigt werden, ohne dass jemand jeden Schritt von Hand macht. Ein Auslöser, etwa eine neue Anfrage, startet eine Abfolge von Schritten, zum Beispiel Eintrag in die Kundenliste, Bestätigung an den Kunden und Aufgabe fürs Team. KI kann solche Abläufe ergänzen, wenn Inhalte verstanden werden müssen.",
+  "fakten": [
+    "Grundprinzip: Auslöser, Schritte, Ergebnis",
+    "Geeignet für häufige, regelbasierte Abläufe mit digitalen Daten",
+    "Automatisierung folgt Regeln, KI versteht Inhalte – beides lässt sich kombinieren",
+    "Zuerst den Ablauf aufschreiben, dann automatisieren"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Prozessautomatisierung einfach erklärt",
+      "html": "<p>Ein Prozess ist ein Ablauf, der immer wieder gleich passiert: Anfrage kommt, wird beantwortet, Angebot geht raus, Auftrag wird angelegt, Rechnung folgt. Viele dieser Schritte bestehen aus Kopieren, Weiterleiten, Eintragen und Erinnern. Genau das kann Software übernehmen.</p><p>Jede Automatisierung besteht aus drei Bausteinen:</p><ul> <li><strong>Auslöser:</strong> ein Ereignis, das den Ablauf startet, etwa ein ausgefülltes Formular, eine E-Mail mit Anhang oder ein bestimmter Tag im Monat.</li><li><strong>Schritte:</strong> was danach passiert, zum Beispiel Daten übertragen, Nachricht senden, Datei ablegen.</li><li><strong>Bedingungen:</strong> Regeln, die bestimmen, welcher Weg genommen wird, etwa „wenn Notfall, dann sofort SMS“.</li></ul> <p>Eine solche Abfolge nennt man auch <a href=\"/glossar/workflow/\">Workflow</a>. Mehr zum Begriff selbst finden Sie im Glossar unter <a href=\"/glossar/automatisierung/\">Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Ein Beispiel Schritt für Schritt",
+      "html": "<p>Ein Malerbetrieb bekommt Anfragen über das Kontaktformular der Website. Bisher sieht das so aus: Jemand liest die E-Mail, tippt die Daten in eine Excel-Liste, schreibt dem Kunden eine Bestätigung und notiert sich einen Rückruf. Das dauert pro Anfrage einige Minuten und geht in hektischen Wochen manchmal unter.</p><p>Automatisiert läuft es so:</p><ol> <li>Das Formular wird abgeschickt (Auslöser).</li><li>Die Daten landen automatisch in der Kundenliste.</li><li>Der Kunde bekommt sofort eine freundliche Bestätigung mit der Zusage, wann sich jemand meldet.</li><li>Im Kalender des Chefs erscheint eine Aufgabe „Rückruf“ für den nächsten Werktag.</li><li>Steht im Formular „Wasserschaden“, geht zusätzlich eine Nachricht aufs Handy (Bedingung).</li></ol> <p>Niemand muss mehr abtippen, und keine Anfrage geht verloren. Technisch verbinden solche Abläufe Programme oft über <a href=\"/glossar/webhook/\">Webhooks</a> oder Schnittstellen.</p>"
+    },
+    {
+      "h2": "Automatisierung, KI und Digitalisierung: der Unterschied",
+      "html": "<ul><li><strong>Digitalisierung</strong> heißt, Informationen und Abläufe von Papier in digitale Form zu bringen, etwa Belege scannen oder Termine online buchen.</li><li><strong>Automatisierung</strong> heißt, digitale Abläufe nach festen Regeln ohne Handarbeit ablaufen zu lassen.</li><li><strong>KI</strong> kommt dazu, wenn Inhalte verstanden werden müssen, die sich nicht in feste Regeln fassen lassen, etwa: Ist diese E-Mail eine Anfrage, eine Rechnung oder eine Beschwerde?</li></ul> <p>In der Praxis greifen alle drei ineinander. Eine Automatisierung kann eine eingehende E-Mail an eine KI geben, die das Anliegen erkennt, und das Ergebnis dann nach festen Regeln weiterverarbeiten. Wichtig ist: Nicht alles braucht KI. Viele nützliche Automatisierungen kommen ganz ohne aus und sind dadurch einfacher und verlässlicher.</p>"
+    },
+    {
+      "h2": "Welche Abläufe sich eignen",
+      "html": "<p>Ein Ablauf eignet sich gut für eine Automatisierung, wenn möglichst viele dieser Punkte zutreffen:</p><ul> <li><strong>Häufig:</strong> Er passiert täglich oder wöchentlich.</li><li><strong>Regelbasiert:</strong> Die Schritte sind immer gleich oder folgen klaren Wenn-dann-Regeln.</li><li><strong>Digital:</strong> Die Daten liegen bereits in Programmen, E-Mails oder Formularen vor.</li><li><strong>Fehleranfällig:</strong> Beim Abtippen oder Weiterleiten passieren Fehler oder etwas wird vergessen.</li><li><strong>Lästig:</strong> Niemand macht ihn gern, er hält von wichtigerer Arbeit ab.</li></ul> <p><strong>Weniger geeignet</strong> sind Abläufe, die selten vorkommen, jedes Mal anders sind, viel Fingerspitzengefühl brauchen oder auf Papier basieren, das erst digitalisiert werden müsste. Konkrete Ideen sammelt der Ratgeber <a href=\"/wissen/automatisierung-beispiele/\">Automatisierung: Beispiele aus kleinen Betrieben</a>.</p>"
+    },
+    {
+      "h2": "So gehen Sie vor",
+      "html": "<ol><li><strong>Ablauf aufschreiben:</strong> Schritt für Schritt, wer macht was, mit welchem Programm. Ein Zettel reicht.</li><li><strong>Schwachstellen markieren:</strong> Wo wird abgetippt, wo wird vergessen, wo wartet jemand?</li><li><strong>Vereinfachen:</strong> Manchmal fällt ein Schritt ganz weg, bevor man ihn automatisiert.</li><li><strong>Klein anfangen:</strong> einen Teilschritt automatisieren, testen, dann erweitern.</li><li><strong>Kontrolle einbauen:</strong> Wer merkt, wenn etwas nicht funktioniert? Eine Fehlermeldung per E-Mail ist Pflicht.</li><li><strong>Dokumentieren:</strong> kurz festhalten, was die Automatisierung tut, damit auch andere es verstehen.</li></ol> <p>Ein häufiger Fehler ist, einen chaotischen Ablauf eins zu eins zu automatisieren. Dann läuft das Chaos nur schneller.</p>"
+    },
+    {
+      "h2": "Selbst bauen oder umsetzen lassen?",
+      "html": "<p>Einfache Automatisierungen lassen sich mit Werkzeugen ohne Programmierkenntnisse selbst erstellen. Wie das geht und wo die Grenzen liegen, beschreibt der Ratgeber <a href=\"/wissen/automatisierung-ohne-programmieren/\">Automatisierung ohne Programmieren</a>. Sobald mehrere Programme verbunden werden, Kundendaten im Spiel sind oder KI Inhalte verstehen soll, lohnt sich Unterstützung, damit der Ablauf auch stabil läuft und datenschutzkonform ist.</p><p>Unter <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a> finden Sie, wie Mühlberger Digital gemeinsam mit Pipeline AI Solutions solche Abläufe umsetzt, Preis nach dem Erstgespräch. Beispiele für mögliche Abläufe zeigt die Übersicht der <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline AI Solutions</a>. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir uns Ihren Ablauf an und sagen ehrlich, ob sich eine Automatisierung lohnt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der Unterschied zwischen Automatisierung und KI?",
+      "a": "Automatisierung führt Abläufe nach festen Regeln aus, etwa „wenn Formular abgeschickt, dann Eintrag in die Kundenliste“. KI versteht Inhalte, die sich nicht in feste Regeln fassen lassen, etwa ob eine E-Mail eine Anfrage oder eine Beschwerde ist. Beides lässt sich kombinieren: Die KI erkennt das Anliegen, die Automatisierung verarbeitet es weiter."
+    },
+    {
+      "q": "Lohnt sich Prozessautomatisierung für kleine Betriebe?",
+      "a": "Oft ja, wenn es häufige, regelbasierte Abläufe gibt, die heute von Hand erledigt werden, etwa Anfragen erfassen, Bestätigungen schicken oder Belege ablegen. Schon kleine Automatisierungen sparen dann jede Woche Zeit und verhindern vergessene Aufgaben. Wenig Sinn hat es bei Abläufen, die selten vorkommen oder jedes Mal anders sind."
+    },
+    {
+      "q": "Welche Programme braucht man für Prozessautomatisierung?",
+      "a": "Häufig reichen die Programme, die Sie schon nutzen, sofern sie Schnittstellen oder eingebaute Automatisierungen bieten, etwa Mailprogramm, Kalender, Formulare oder Kundenverwaltung. Verbunden werden sie über Automatisierungsplattformen wie Zapier, Make oder n8n oder über eine individuelle Lösung. Welche Variante passt, hängt von Umfang, Datenschutz und Ihren Programmen ab."
+    },
+    {
+      "q": "Was passiert, wenn eine Automatisierung einen Fehler macht?",
+      "a": "Deshalb gehört zu jeder Automatisierung eine Fehlermeldung, etwa per E-Mail, wenn ein Schritt nicht funktioniert hat. Außerdem sollten Sie in den ersten Wochen regelmäßig prüfen, ob alles richtig ankommt. Gut gebaute Abläufe halten bei Problemen an, statt fehlerhafte Daten weiterzugeben, und lassen sich von einer zuständigen Person schnell nachkontrollieren."
+    },
+    {
+      "q": "Wie finde ich heraus, welche Abläufe ich automatisieren kann?",
+      "a": "Notieren Sie eine Woche lang, welche Tätigkeiten sich wiederholen und aus Kopieren, Abtippen, Weiterleiten oder Erinnern bestehen. Markieren Sie die, die häufig vorkommen und lästig sind. Diese Liste ist ein guter Ausgangspunkt. Im Gespräch mit einer Fachperson lässt sich dann klären, welche davon sich mit vertretbarem Aufwand automatisieren lassen."
+    }
+  ],
+  "verwandt": [
+    "/glossar/workflow/",
+    "/glossar/automatisierung/",
+    "/wissen/automatisierung-beispiele/",
+    "/wissen/automatisierung-ohne-programmieren/",
+    "/leistungen/ki-automatisierung/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

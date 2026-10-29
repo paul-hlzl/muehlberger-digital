@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/versand-onlineshop/",
+  "title": "Versand im Onlineshop organisieren: Leitfaden",
+  "description": "Versand im Onlineshop organisieren: Paketdienst wählen, Versandkosten festlegen, Verpackung, Retouren und Pflichten – praxisnah für kleine Betriebe in Österreich.",
+  "h1": "Versand im Onlineshop organisieren",
+  "kicker": "Ratgeber · Onlineshop",
+  "lead": "Den Versand im Onlineshop organisieren Sie in fünf Schritten: Paketdienst auswählen, Versandkosten festlegen, passende Verpackung beschaffen, einen festen Ablauf vom Bestelleingang bis zum Etikett einrichten und Rücksendungen regeln. Für kleine Shops ist ein Geschäftskundenvertrag mit einem Paketdienst und ein klarer täglicher Versandzeitpunkt meist der beste Start.",
+  "fakten": [
+    "Gängige Paketdienste in Österreich: Österreichische Post, DPD, GLS, DHL und weitere",
+    "Versandkosten transparent vor dem Kauf zeigen, Überraschungen an der Kasse kosten Bestellungen",
+    "Ein fixer Versandtag oder eine Uhrzeit pro Tag schafft Routine und verlässliche Lieferzeiten",
+    "Verbraucher haben bei Fernkäufen in der Regel ein 14-tägiges Rücktrittsrecht",
+    "Für Versandverpackungen bestehen in Österreich Entpflichtungs- bzw. Lizenzierungspflichten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Den passenden Paketdienst finden",
+      "html": "<p>In Österreich stehen mehrere Paketdienste zur Auswahl, etwa die Österreichische Post, DPD, GLS oder DHL. Für den Start reicht meist einer. Als Geschäftskunde bekommen Sie bessere Tarife als am Schalter, Etiketten zum Selbstdrucken und oft eine Abholung direkt im Betrieb.</p><p>Vergleichen Sie nicht nur den Preis pro Paket:</p><ul><li>Wie gut funktioniert die Zustellung in Ihrer Region und bei Ihrer Kundschaft?</li><li>Gibt es Abholung beim Betrieb oder müssen Sie zur Filiale bzw. zum Paketshop?</li><li>Lassen sich Etiketten direkt aus dem Shop erzeugen?</li><li>Welche Größen und Gewichte sind möglich, gibt es Sperrgut?</li><li>Wie läuft die Haftung bei Beschädigung oder Verlust?</li></ul><p>Für Waren in Kühlung, Sperriges oder Gefahrgut gelten besondere Bedingungen, die Sie vorab mit dem Dienst klären.</p>"
+    },
+    {
+      "h2": "Versandkosten festlegen",
+      "html": "<p>Es gibt mehrere Modelle, und jedes hat Vor- und Nachteile:</p><ul><li><strong>Pauschale:</strong> ein Betrag pro Bestellung, einfach zu verstehen, bei schweren Bestellungen aber knapp kalkuliert.</li><li><strong>Nach Gewicht oder Größe:</strong> genauer, aber für Kunden schwerer vorherzusehen.</li><li><strong>Versandkostenfrei ab Bestellwert:</strong> regt zum Mehrkauf an, die Kosten müssen in den Preisen stecken.</li><li><strong>Abholung im Geschäft:</strong> kostenlos für Kunden, bringt Besuche ins Geschäft und spart Verpackung.</li></ul><p>Zeigen Sie die Versandkosten früh, am besten schon auf der Produktseite. Wer erst an der Kasse erfährt, was der Versand kostet, bricht häufiger ab. Für den Versand ins Ausland legen Sie eigene Zonen und Preise fest, oder Sie liefern zunächst nur innerhalb Österreichs.</p>"
+    },
+    {
+      "h2": "Verpackung: Schutz, Kosten und Pflichten",
+      "html": "<p>Die Verpackung muss die Ware schützen, sollte aber nicht übertrieben groß sein. Zu große Kartons kosten mehr Porto, mehr Füllmaterial und ärgern umweltbewusste Kunden. Legen Sie sich zwei oder drei Standardgrößen zu, die zu Ihrem Sortiment passen.</p><ul><li>Bruchempfindliches doppelt sichern und mit „Vorsicht Glas“ kennzeichnen</li><li>Lebensmittel nur mit passender Verpackung und unter Einhaltung der Hygieneregeln</li><li>Rechnung oder Lieferschein beilegen bzw. per Mail senden</li><li>Ein kurzer persönlicher Gruß oder Gutschein für die nächste Bestellung</li></ul><p>Wer Waren verpackt an Endkunden in Österreich schickt, hat Pflichten rund um die Entpflichtung bzw. Lizenzierung dieser Verpackungen. Ob und wie Sie betroffen sind, erfahren Sie bei der <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>.</p>"
+    },
+    {
+      "h2": "Ein fester Ablauf vom Bestelleingang bis zur Zustellung",
+      "html": "<p>Versand wird erst dann effizient, wenn er immer gleich abläuft. Ein bewährter Ablauf für kleine Shops:</p><ol><li><strong>Bestellung prüfen:</strong> Zahlung eingegangen, Adresse plausibel, Ware vorrätig.</li><li><strong>Kommissionieren:</strong> Artikel aus dem Lager holen, am besten mit Packliste.</li><li><strong>Verpacken</strong> und Rechnung beilegen.</li><li><strong>Etikett erzeugen</strong>, idealerweise direkt aus dem Shop heraus.</li><li><strong>Versandbestätigung mit Sendungsnummer</strong> an den Kunden schicken.</li><li><strong>Übergabe</strong> an den Paketdienst zur festen Uhrzeit.</li></ol><p>Ein Beispiel: Eine Imkerei mit Onlineshop verschickt Dienstag und Freitag. Bestellungen bis zum Vorabend gehen mit. Das ist auf der Website klar beschrieben, und Kunden wissen, wann ihr Honig kommt. Die Abläufe lassen sich teilweise <a href=\"/wissen/automatisierung-beispiele/\">automatisieren</a>, etwa Etikett und Versandmail.</p>"
+    },
+    {
+      "h2": "Rücksendungen und Reklamationen",
+      "html": "<p>Retouren gehören zum Onlinehandel dazu. Verbraucher können Fernkäufe in der Regel innerhalb von 14 Tagen ohne Angabe von Gründen widerrufen, für bestimmte Waren wie verderbliche Lebensmittel oder individuell angefertigte Produkte gibt es Ausnahmen. Wie Sie korrekt darüber informieren und wer die Rücksendekosten trägt, regeln Rücktrittsbelehrung und <a href=\"/wissen/agb-onlineshop/\">AGB</a>. Im Einzelfall fragen Sie bitte die Wirtschaftskammer oder eine Anwältin.</p><ul><li>Rücksendung einfach erklären: Wohin, wie, mit welchem Formular</li><li>Retouren rasch prüfen und Geld zeitnah erstatten</li><li>Gründe sammeln: Häufige Rücksendungen zeigen Schwächen bei Fotos oder Beschreibungen</li><li>Beschädigte Pakete mit Fotos dokumentieren und beim Paketdienst melden</li></ul>"
+    },
+    {
+      "h2": "Typische Fehler beim Versand vermeiden",
+      "html": "<p>Viele Probleme lassen sich mit etwas Planung vermeiden:</p><ul><li><strong>Zu optimistische Lieferzeiten</strong> versprechen, die in der Hochsaison nicht halten</li><li><strong>Versandkosten falsch kalkulieren</strong>, sodass schwere Bestellungen Verlust bringen</li><li><strong>Keine Sendungsnummer</strong> schicken und dann viele „Wo ist mein Paket?“-Anfragen beantworten</li><li><strong>Lagerstand nicht pflegen</strong> und Ware verkaufen, die nicht da ist</li><li><strong>Urlaub vergessen:</strong> Shop nicht pausieren oder Lieferzeit nicht anpassen</li></ul><p>Wiederkehrende Fragen zu Lieferzeit und Rücksendung kann ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> auf Ihrer Website rund um die Uhr beantworten, auf Basis Ihrer eigenen Versandinfos. Den Aufbau des Shops samt Versandregeln übernehmen wir über unseren Partner, siehe <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welcher Paketdienst ist für kleine Onlineshops in Österreich am besten?",
+      "a": "Das lässt sich nicht pauschal sagen. Entscheidend sind Ihre Region, Paketgrößen, Versandmenge und ob eine Abholung beim Betrieb möglich ist. Holen Sie Angebote von zwei oder drei Diensten für Geschäftskunden ein und testen Sie die Zustellung mit einigen Paketen an Bekannte. Viele Shops starten mit einem Dienst und nehmen später einen zweiten für Sonderfälle dazu."
+    },
+    {
+      "q": "Soll ich versandkostenfreie Lieferung anbieten?",
+      "a": "Versandkostenfreiheit ab einem bestimmten Bestellwert ist beliebt und kann den durchschnittlichen Einkauf erhöhen. Die Versandkosten verschwinden aber nicht, sie müssen in Ihren Preisen oder Ihrer Marge stecken. Rechnen Sie vorher nach, ab welchem Bestellwert sich das trägt. Generell kostenloser Versand ist für kleine Shops mit niedrigen Bestellwerten selten wirtschaftlich."
+    },
+    {
+      "q": "Wer zahlt die Rücksendung im Onlineshop?",
+      "a": "Das hängt davon ab, was Sie in Rücktrittsbelehrung und AGB festlegen. Grundsätzlich können die Kosten der Rücksendung bei einem Widerruf dem Kunden auferlegt werden, wenn Sie vorher korrekt darüber informiert haben. Viele Shops übernehmen sie trotzdem als Service. Bei mangelhafter Ware gelten andere Regeln. Lassen Sie Ihre Texte im Zweifel von der Wirtschaftskammer oder einer Anwältin prüfen."
+    },
+    {
+      "q": "Wie organisiere ich den Versand neben dem Tagesgeschäft?",
+      "a": "Legen Sie feste Versandzeiten fest, etwa täglich um 14 Uhr oder an zwei fixen Tagen pro Woche, und kommunizieren Sie diese klar im Shop. Richten Sie einen Packplatz mit allen Materialien ein und lassen Sie Etiketten direkt aus dem Shop erzeugen. So wird der Versand zur Routine von wenigen Minuten pro Paket statt einer ständigen Unterbrechung."
+    }
+  ],
+  "verwandt": ["/wissen/onlineshop-starten/", "/wissen/zahlungsarten-onlineshop/", "/wissen/agb-onlineshop/", "/leistungen/onlineshop-erstellen/", "/wissen/regionale-produkte-online/"],
+  "checks": ["website-entwurf"]
+}

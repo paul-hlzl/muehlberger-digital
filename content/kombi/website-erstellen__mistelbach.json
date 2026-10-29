@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/website-erstellen/mistelbach/",
+  "title": "Website erstellen lassen in Mistelbach: nur was nötig ist",
+  "description": "Website erstellen lassen in Mistelbach: ehrlich geklärt, wann ein Onepager reicht und wann mehr nötig ist. Für Familienbetriebe im Weinviertel.",
+  "h1": "Website erstellen lassen in Mistelbach",
+  "kicker": "Website · Bezirk Mistelbach",
+  "lead": "Viele Betriebe im Bezirk Mistelbach sind Familien- oder Kleinstbetriebe, manche werden neben einem anderen Beruf geführt. Für sie ist die wichtigste Frage nicht, wie die Website aussieht, sondern wie viel davon wirklich nötig ist. Mühlberger Digital beantwortet das im kostenlosen Erstgespräch ehrlich, die Starter-Website beginnt bei 2.500 €.",
+  "fakten": [
+    "Bezirkshauptstadt im Weinviertel mit vielen Familien- und Kleinbetrieben",
+    "Nicht jeder Betrieb braucht fünf Seiten, manchmal reicht eine",
+    "Klarer Preis vorab, schriftliches Angebot ohne Überraschungen",
+    "„Was Sie nicht brauchen, empfehlen wir nicht“"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Erst klären, was die Website leisten soll",
+      "html": "<p>Bevor über Farben oder Bilder gesprochen wird, sollten drei Fragen beantwortet sein: Wer soll die Seite finden? Was soll diese Person danach tun? Und wer pflegt sie später? Bei einem Kleinbetrieb ist die Antwort oft überraschend einfach, und dann ist auch die Website einfach.</p>"
+    },
+    {
+      "h2": "Drei Beispiele aus dem Alltag",
+      "html": "<h3>Kosmetikstudio im eigenen Haus</h3><p>Eine Inhaberin arbeitet allein, an drei Tagen pro Woche. Sie braucht eine übersichtliche Seite mit Behandlungen, Preisen, Adresse und Telefonnummer. Ein Onepager, also eine einzige lange Seite, reicht hier gut aus. Mehr Ideen für <a href=\"/branchen/kosmetikstudio/\">Kosmetikstudios</a>.</p><h3>Bodenleger mit zwei Mitarbeitern</h3><p>Er will mehr Aufträge im Neubau und zeigt dafür Referenzen nach Materialien: Parkett, Vinyl, Teppich. Hier sind drei bis fünf Seiten sinnvoll, damit jede Leistung eigene Bilder bekommt.</p><h3>Lernhilfe am Nachmittag</h3><p>Ein Nachhilfeangebot für Volksschule und Unterstufe braucht vor allem Fächer, Zeiten, Kosten und eine einfache Anmeldung. Weniger ist mehr.</p>"
+    },
+    {
+      "h2": "Onepager oder mehrere Seiten?",
+      "html": "<table><thead><tr><th>Situation</th><th>Passend</th></tr></thead><tbody><tr><td>Ein Angebot, wenig Änderungen, Kunden kommen auf Empfehlung</td><td>Onepager</td></tr><tr><td>Mehrere Leistungen, die jeweils gefunden werden sollen</td><td>Mehrere Seiten</td></tr><tr><td>Stellenangebote, Referenzen, Blog geplant</td><td>Mehrere Seiten</td></tr></tbody></table><p>Der Ratgeber <a href=\"/wissen/onepager-oder-mehrseitig/\">Onepager oder mehrseitig</a> vertieft die Frage, der Beitrag <a href=\"/wissen/was-kostet-eine-website/\">Was kostet eine Website?</a> erklärt, wie sich Preise zusammensetzen.</p>"
+    },
+    {
+      "h2": "Preis und Ablauf",
+      "html": "<p>Die Starter-Website ab 2.500 € deckt bis zu fünf Seiten ab, inklusive Kontaktformular, Impressum, Datenschutzerklärung und Hosting. Auch wenn Sie nur eine Seite brauchen, sind diese Pflichtbestandteile enthalten. Alles Weitere auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a> und <a href=\"/regionen/bezirk-mistelbach/\">Bezirk Mistelbach</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wird ein Onepager von Google schlechter gefunden?",
+      "a": "Nicht grundsätzlich. Für einen Betrieb mit einem klaren Angebot kann eine einzige gut gemachte Seite sehr gut gefunden werden. Schwieriger wird es, wenn Sie mit mehreren unterschiedlichen Leistungen jeweils gezielt gefunden werden wollen. Dann hat jede Leistung auf einer eigenen Seite bessere Chancen, weil sie ausführlicher beschrieben werden kann."
+    },
+    {
+      "q": "Ich führe den Betrieb nebenberuflich. Lohnt sich der Aufwand?",
+      "a": "Das hängt davon ab, woher Ihre Kunden kommen. Wenn fast alle über Empfehlung kommen und Sie ausgelastet sind, reicht oft ein gepflegtes Google-Profil. Wenn Sie wachsen wollen oder neue Kunden vorab online recherchieren, lohnt sich eine einfache Website. Im Erstgespräch sagen wir Ihnen ehrlich, was in Ihrem Fall sinnvoll ist."
+    },
+    {
+      "q": "Kann ich später von einer Seite auf mehrere erweitern?",
+      "a": "Ja. Eine gut aufgebaute Seite lässt sich später um Unterseiten ergänzen, etwa wenn neue Leistungen dazukommen oder Sie Referenzen zeigen wollen. Wichtig ist, das bei der Planung kurz mitzudenken, damit Aufbau und Navigation dann nicht umgebaut werden müssen. Die Kosten für eine Erweiterung stehen vorher im Angebot."
+    },
+    {
+      "q": "Ist ein Baukasten zum Selbermachen nicht günstiger?",
+      "a": "Bei den reinen Kosten oft schon, zumindest am Anfang. Dafür investieren Sie eigene Zeit in Aufbau, Texte und Technik und müssen sich selbst um Impressum, Datenschutz und Darstellung am Handy kümmern. Für sehr kleine Angebote kann das passen. Wer wenig Zeit hat oder später erweitern will, fährt mit einer fertig umgesetzten Starter-Website meist entspannter."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-mistelbach/",
+    "/regionen/weinviertel/",
+    "/wissen/onepager-oder-mehrseitig/",
+    "/wissen/was-kostet-eine-website/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

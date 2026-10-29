@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/mostviertel/",
+  "title": "KI-Automatisierung im Mostviertel: Hof bis Werkhalle",
+  "description": "Prozessautomatisierung mit KI im Mostviertel: Vorbestellungen mit Abholzeit für Hofläden, Anfragen und Unterlagen für Gewerbe. Ein Viertel, zwei Welten.",
+  "h1": "KI & Prozessautomatisierung im Mostviertel",
+  "kicker": "KI-Automatisierung · Mostviertel",
+  "lead": "Das Mostviertel verbindet bäuerliche Direktvermarktung mit Gewerbe und Industrie, und beide Welten profitieren von KI-Automatisierung auf unterschiedliche Weise. Am Hof geht es um Vorbestellungen mit Abholzeit, in der Werkhalle um Anfragen und Unterlagen, gemeinsam ist beiden: wenige Leute, viel Routine.",
+  "fakten": [
+    "Hofläden: Vorbestellungen sammeln, Abholzeiten vergeben, ohne Onlineshop",
+    "Gewerbe: Anfragen und technische Unterlagen auslesen und vorbereiten",
+    "Klein anfangen mit einem Ablauf, später erweitern",
+    "Beratung in Niederösterreich, Umsetzung durch Pipeline aus Oberösterreich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Viertel, zwei Welten",
+      "html": "<p>Das <a href=\"/regionen/mostviertel/\">Mostviertel</a> im Südwesten Niederösterreichs ist bekannt für Most und Birnbäume, für Höfe mit Direktvermarktung und Mostheurigen. Gleichzeitig gibt es hier viel Gewerbe und Industrie, etwa rund um Amstetten und entlang der Eisenstraße. Die Abläufe sind verschieden, das Grundproblem ähnlich: Routinearbeit, die vom Kerngeschäft abhält.</p>"
+    },
+    {
+      "h2": "Am Hof: Vorbestellungen mit Abholzeit",
+      "html": "<p>Viele Hofläden nehmen Bestellungen per Telefon oder Nachricht an, etwa für Fleischpakete, Most, Brot oder saisonale Produkte. Eine Automatisierung kann:</p><ul><li>Bestellungen aus Nachrichten und Formular in eine Liste übernehmen,</li><li>Abholzeitfenster vergeben, damit nicht alle gleichzeitig kommen,</li><li>am Vortag erinnern und bei ausverkauften Produkten freundlich absagen,</li><li>eine Packliste für den Abholtag erstellen.</li></ul><p>Mehr dazu auf der Branchenseite <a href=\"/branchen/hofladen/\">Hofladen</a>.</p>"
+    },
+    {
+      "h2": "In Gewerbe und Industrie: Anfragen und Unterlagen",
+      "html": "<p>In Gewerbebetrieben stehen eher Anfragen mit Zeichnungen, Bestellungen, Lieferscheine und Prüfprotokolle im Mittelpunkt. Die KI liest Unterlagen aus, überträgt Daten in Vorlagen und markiert Abweichungen. Konkrete Beispiele beschreiben die Seiten <a href=\"/leistungen/ki-automatisierung/amstetten/\">KI-Automatisierung in Amstetten</a> und <a href=\"/leistungen/ki-automatisierung/waidhofen-an-der-ybbs/\">KI-Automatisierung in Waidhofen an der Ybbs</a>.</p>"
+    },
+    {
+      "h2": "Was beide gemeinsam haben",
+      "html": "<p>Ob Hof oder Werkhalle: Der beste Start ist ein einziger, klar umrissener Ablauf. Mühlberger Digital klärt im kostenlosen Erstgespräch, welcher das ist, und zeigt die Lösung live mit Ihren Daten. Die Umsetzung übernimmt Pipeline AI Solutions aus dem benachbarten Oberösterreich. Grundsätzliches steht unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann ein Hofladen Vorbestellungen ohne Onlineshop annehmen?",
+      "a": "Ja. Kunden können weiter per Nachricht, E-Mail oder über ein einfaches Formular auf der Website bestellen, die Automatisierung übernimmt das Sammeln und Ordnen. Bezahlt wird wie bisher bei der Abholung. Ein Onlineshop lohnt sich erst, wenn Sie auch versenden oder Online-Zahlung anbieten wollen. Bis dahin ist die Vorbestellung meist der einfachere Weg."
+    },
+    {
+      "q": "Was unterscheidet das von einem Onlineshop?",
+      "a": "Ein Onlineshop zeigt Produkte, nimmt Bestellungen und meist auch Zahlungen entgegen und braucht laufende Pflege von Sortiment und Preisen. Eine Vorbestell-Automatisierung arbeitet mit den Kanälen, die Ihre Kunden schon nutzen, und kümmert sich um Ordnung, Abholzeiten und Erinnerungen. Für viele Direktvermarkter ist das der kleinere, passendere Schritt."
+    },
+    {
+      "q": "Wo findet das Erstgespräch im Mostviertel statt?",
+      "a": "Je nachdem, was Ihnen lieber ist: vor Ort in Ihrem Betrieb nach Absprache, am Telefon oder per Video-Call. Mühlberger Digital hat seinen persönlichen Schwerpunkt in Niederösterreich. Das kostenlose Gespräch dauert etwa 30 Minuten, Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr."
+    },
+    {
+      "q": "Lohnt sich das auch für einen Hof, der nur wenige Male im Jahr verkauft?",
+      "a": "Wenn Sie zum Beispiel nur zweimal im Jahr Fleischpakete anbieten, reicht oft eine einfache Liste oder ein Formular. Eine Automatisierung lohnt sich eher, wenn Sie regelmäßig verkaufen, viele Bestellungen über verschiedene Kanäle bekommen oder mehrere Personen am Hof Bestellungen annehmen. Das klären wir ehrlich, bevor ein Angebot entsteht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/mostviertel/",
+    "/branchen/hofladen/",
+    "/leistungen/ki-automatisierung/amstetten/",
+    "/wissen/regionale-produkte-online/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

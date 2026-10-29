@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/chatbot-oder-faq-seite/",
+  "title": "KI-Chatbot oder FAQ-Seite? Was Ihre Kunden brauchen",
+  "description": "KI-Chatbot oder klassische FAQ-Seite? Aufwand, Kosten und Nutzen für Kunden im ehrlichen Vergleich – und warum beides zusammen oft am besten wirkt.",
+  "h1": "KI-Chatbot oder FAQ-Seite?",
+  "kicker": "Vergleich · Kundenservice",
+  "lead": "Eine FAQ-Seite ist günstig, gut für Google und KI-Suchen und reicht, wenn Ihre Kunden wenige, immer gleiche Fragen haben. Ein KI-Chatbot lohnt sich, wenn viele unterschiedliche Fragen auch abends und am Wochenende kommen und Besucher lieber fragen als suchen. Oft ist die beste Lösung beides: Die FAQ-Seite liefert das Wissen, der Chatbot macht es im Gespräch zugänglich.",
+  "fakten": [
+    "FAQ-Seite: einmal schreiben, regelmäßig pflegen, von Suchmaschinen gut lesbar",
+    "KI-Chatbot: beantwortet Fragen im Gespräch, rund um die Uhr",
+    "Pipebot antwortet nur mit Ihren Inhalten: 19 € pro Monat, erste 30 Tage gratis",
+    "Ohne gute Inhalte hilft weder FAQ noch Chatbot"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Der Unterschied in einem Satz",
+      "html": "<p>Bei einer <strong>FAQ-Seite</strong> sucht der Besucher selbst nach seiner Frage, beim <strong>KI-Chatbot</strong> stellt er sie einfach und bekommt eine passende Antwort. Beide arbeiten mit demselben Rohstoff: Ihrem Wissen über Leistungen, Preise, Abläufe und Öffnungszeiten.</p><p>Daraus folgt eine wichtige Erkenntnis: Ein Chatbot ersetzt keine guten Inhalte. Er kann nur so gut antworten, wie die Informationen sind, die Sie ihm geben. Welche das sein sollten, beschreibt der Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Inhalte für den Chatbot</a>.</p>"
+    },
+    {
+      "h2": "Was für eine FAQ-Seite spricht",
+      "html": "<ul><li><strong>Geringe Kosten:</strong> Sie schreiben die Antworten einmal und pflegen sie gelegentlich.</li><li><strong>Sichtbarkeit:</strong> Google und KI-Suchen lesen klare Frage-Antwort-Texte gern und zitieren sie. Wie das geht, zeigt <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a>.</li><li><strong>Volle Kontrolle:</strong> Jede Antwort steht genau so da, wie Sie sie formuliert haben.</li></ul><p>Typische Situation: Ein Rauchfangkehrerbetrieb bekommt immer wieder dieselben fünf Fragen zu Terminen, Kehrintervallen und Vorbereitung. Eine übersichtliche FAQ-Seite deckt das zuverlässig ab.</p>"
+    },
+    {
+      "h2": "Was für einen KI-Chatbot spricht",
+      "html": "<ul><li><strong>Rund um die Uhr erreichbar:</strong> Fragen am Sonntagabend bleiben nicht bis Montag liegen.</li><li><strong>Natürliche Sprache:</strong> Besucher fragen in eigenen Worten, auch mit Tippfehlern.</li><li><strong>Verknüpftes Wissen:</strong> Der Chatbot kombiniert Informationen, etwa „Haben Sie am Samstag offen und kann ich mit Karte zahlen?“.</li><li><strong>Übergabe an Menschen:</strong> Ein guter Chatbot erkennt, wann er unsicher ist, und verbindet mit dem Team.</li></ul><p>Typische Situation: Ein Hotel mit Fragen zu Zimmern, Hunden, Parkplätzen, Anreisezeiten und Ausflugstipps. Hier findet kaum ein Gast seine Kombination in einer FAQ-Liste.</p>"
+    },
+    {
+      "h2": "Chatbot und FAQ-Seite im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>FAQ-Seite</th><th>KI-Chatbot</th></tr></thead><tbody><tr><td>Bedienung für Besucher</td><td>suchen und lesen</td><td>fragen und Antwort bekommen</td></tr><tr><td>Kosten</td><td>einmaliger Schreibaufwand</td><td>laufend, z. B. Pipebot 19 € pro Monat</td></tr><tr><td>Erreichbarkeit</td><td>immer, aber nur für bekannte Fragen</td><td>immer, auch für ungewohnte Formulierungen</td></tr><tr><td>Wirkung auf Google und KI-Suchen</td><td>direkt, weil als Text auf der Seite</td><td>indirekt, braucht weiterhin gute Seiteninhalte</td></tr><tr><td>Pflege</td><td>Antworten aktuell halten</td><td>Wissensbasis aktuell halten</td></tr><tr><td>Grenzen</td><td>unübersichtlich bei vielen Fragen</td><td>nur so gut wie die hinterlegten Inhalte</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Wann sich ein Chatbot nicht lohnt",
+      "html": "<p>Ein Chatbot ist kein Muss. Er lohnt sich eher nicht, wenn Sie nur sehr wenige Anfragen über die Website bekommen, Ihre Leistungen sehr erklärungsbedürftig und individuell sind oder Ihre Kunden ohnehin lieber anrufen und das auch schätzen.</p><p>Auch wenn es noch keine brauchbaren Inhalte auf der Website gibt, sollte der erste Schritt eine gute Seite mit klaren Antworten sein. Der Chatbot kommt danach.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung: oft beides",
+      "html": "<ul><li><strong>Wenige, immer gleiche Fragen:</strong> eine gepflegte FAQ-Seite reicht.</li><li><strong>Viele unterschiedliche Fragen, auch außerhalb der Öffnungszeiten:</strong> FAQ-Seite plus Chatbot.</li><li><strong>Unsicher:</strong> Testen Sie es. Der <a href=\"/produkte/pipebot/\">Pipebot</a> antwortet nur mit Ihren Inhalten, passt sich dem Design Ihrer Website an und verbindet bei Unsicherheit mit Ihrem Team. Er kostet 19 € pro Monat, ist monatlich kündbar und die ersten 30 Tage sind gratis.</li></ul><p>Wie ein Chatbot mit Ihrer eigenen Website antworten würde, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>. Mehr zur Leistung lesen Sie unter <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot für die Website</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ersetzt ein KI-Chatbot die FAQ-Seite?",
+      "a": "Nein, die beiden ergänzen sich. Die FAQ-Seite ist für Google und KI-Suchen gut lesbar und hilft Besuchern, die lieber selbst nachlesen. Der Chatbot beantwortet Fragen im Gespräch, auch wenn sie anders formuliert sind als in der Liste. Viele Betriebe nutzen die FAQ-Antworten gleich als Wissensbasis für den Chatbot und pflegen so beides mit einem Aufwand."
+    },
+    {
+      "q": "Erfindet ein KI-Chatbot falsche Antworten?",
+      "a": "Allgemeine KI-Assistenten können Fakten erfinden, wenn ihnen Informationen fehlen. Ein Website-Chatbot wie der Pipebot ist deshalb so eingerichtet, dass er nur mit Ihren hinterlegten Inhalten antwortet. Ist er unsicher, verbindet er mit Ihrem Team, statt zu raten. Trotzdem lohnt es sich, die Antworten in den ersten Wochen regelmäßig anzusehen und Lücken in den Inhalten zu schließen."
+    },
+    {
+      "q": "Was kostet ein KI-Chatbot im Vergleich zur FAQ-Seite?",
+      "a": "Eine FAQ-Seite kostet vor allem Zeit für das Schreiben, oder sie ist Teil eines Website-Projekts. Der Pipebot kostet 19 € pro Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis. Individuelle Chatbots mit Anbindung an weitere Systeme werden nach dem Erstgespräch angeboten. So können Sie zuerst günstig testen, ob Ihre Kunden den Chatbot überhaupt nutzen."
+    },
+    {
+      "q": "Wie viele Fragen sollte eine FAQ-Seite haben?",
+      "a": "So viele, wie Ihre Kunden tatsächlich stellen – meist sind es zwischen zehn und zwanzig wirklich häufige Fragen. Sammeln Sie dafür ein paar Wochen lang Fragen aus Telefon, E-Mail und Gesprächen. Jede Antwort sollte für sich allein verständlich sein und die Frage direkt beantworten. Werden es deutlich mehr, gliedern Sie nach Themen oder ergänzen einen Chatbot."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/produkte/pipebot/",
+    "/wissen/chatbot-vorteile/",
+    "/wissen/faq-fuer-ki-suchen/",
+    "/gratis-check/chatbot-test/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

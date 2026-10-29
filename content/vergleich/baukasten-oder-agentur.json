@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/baukasten-oder-agentur/",
+  "title": "Baukasten oder Agentur? Was sich für wen lohnt",
+  "description": "Website selbst im Baukasten bauen oder von einer Agentur erstellen lassen? Zeitaufwand, Kosten und Ergebnis ehrlich verglichen, mit Empfehlung je Fall.",
+  "h1": "Baukasten oder Agentur?",
+  "kicker": "Vergleich · Website",
+  "lead": "Ein Baukasten lohnt sich, wenn Sie Zeit haben, gern selbst gestalten und eine einfache Seite brauchen. Eine Agentur oder ein Dienstleister lohnt sich, wenn die Website verlässlich Anfragen bringen soll und Ihre eigene Zeit im Betrieb mehr wert ist als im Website-Editor.",
+  "fakten": [
+    "Die größte Kostenstelle beim Baukasten ist Ihre eigene Zeit",
+    "Texte, Fotos, Impressum und Datenschutz machen mehr Arbeit als das Design",
+    "Ein Mittelweg: Dienstleister baut, Sie pflegen kleine Änderungen selbst",
+    "Starter-Website über Mühlberger Digital ab 2.500 € einmalig"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die eigentliche Frage: Wer macht die Arbeit?",
+      "html": "<p>Baukästen wie Wix, Jimdo oder Squarespace und Agenturen liefern beide eine Website. Der Unterschied liegt darin, <strong>wer Planung, Texte, Gestaltung und Technik übernimmt</strong> – und wer am Ende für das Ergebnis geradesteht.</p><p>Beim Baukasten zahlen Sie wenig Geld, investieren aber Ihre Abende. Bei einer Agentur zahlen Sie mehr, bekommen dafür Erfahrung und sparen sich das Einarbeiten. Welcher Weg günstiger ist, hängt davon ab, was eine Stunde Ihrer Zeit wert ist. Für die Wix-spezifischen Fragen wie Umzug und Abo gibt es den eigenen Vergleich <a href=\"/vergleiche/wix-oder-eigene-website/\">Wix oder eigene Website</a>.</p>"
+    },
+    {
+      "h2": "Wann ein Baukasten die richtige Wahl ist",
+      "html": "<p>Ein Baukasten ist ehrlich gesagt für viele Situationen völlig ausreichend:</p><ul><li>Sie <strong>testen eine Geschäftsidee</strong> und wissen noch nicht, ob sie trägt.</li><li>Sie arbeiten <strong>nebenberuflich</strong> und brauchen vor allem eine digitale Visitenkarte.</li><li>Sie haben <strong>Freude am Gestalten</strong> und ein gutes Auge für Bilder und Texte.</li><li>Ihr Budget ist im Moment <strong>sehr knapp</strong>, Ihre Zeit dagegen nicht.</li></ul><p>Typische Situation: Eine Hobbyimkerin, die ein paar Gläser Honig ab Hof verkauft. Sie braucht Adresse, Öffnungszeiten und ein paar Fotos – das schafft sie an einem Wochenende selbst.</p>"
+    },
+    {
+      "h2": "Wann sich eine Agentur oder ein Dienstleister lohnt",
+      "html": "<p>Sobald die Website ein Arbeitsmittel wird, verschiebt sich die Rechnung. Ein Dienstleister bringt Erfahrung mit Aufbau, Texten und Suchmaschinen mit, die Sie sich sonst selbst erarbeiten müssten.</p><ul><li>Sie wollen über Google und KI-Suchen <strong>regelmäßig Anfragen</strong> bekommen.</li><li>Ihre Zeit ist im Betrieb, auf der Baustelle oder in der Praxis gebunden.</li><li>Sie brauchen Funktionen wie Terminbuchung, Chatbot oder Anbindung an Ihre Abläufe.</li></ul><p>Typische Situation: Ein Tischler mit vier Mitarbeitern, der abends Angebote schreibt. Jede Stunde im Website-Editor fehlt ihm dort. Für ihn ist die <a href=\"/leistungen/website-erstellen/\">Starter-Website ab 2.500 € einmalig</a> meist die entspanntere Lösung.</p>"
+    },
+    {
+      "h2": "Was beim Selbermachen oft vergessen wird",
+      "html": "<p>Das Design ist im Baukasten schnell erledigt. Die meiste Arbeit steckt woanders:</p><ul><li><strong>Texte</strong>, die erklären, was Sie anbieten und warum man gerade Sie anrufen soll.</li><li><strong>Fotos</strong> mit geklärten Rechten – siehe <a href=\"/wissen/bildrechte/\">Bildrechte auf der Website</a>.</li><li><strong>Impressum und Datenschutzerklärung</strong>, die zu Ihrem Betrieb passen – siehe <a href=\"/wissen/impressum-pflicht/\">Impressumspflicht</a>.</li><li><strong>Mobile Ansicht</strong>, Ladezeit und Auffindbarkeit bei Google.</li><li><strong>Laufende Pflege</strong>, damit Preise und Öffnungszeiten nicht veralten.</li></ul>"
+    },
+    {
+      "h2": "Baukasten und Agentur im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Baukasten</th><th>Agentur / Dienstleister</th></tr></thead><tbody><tr><td>Geldeinsatz zu Beginn</td><td>gering</td><td>höher, nach schriftlichem Angebot</td></tr><tr><td>Eigener Zeitaufwand</td><td>hoch: Planung, Texte, Gestaltung</td><td>gering: Abstimmung und Freigaben</td></tr><tr><td>Ergebnis</td><td>abhängig von Ihrem Können</td><td>abhängig von der Erfahrung des Dienstleisters</td></tr><tr><td>Rechtliches</td><td>selbst prüfen</td><td>wird mitgedacht, im Einzelfall Fachstelle fragen</td></tr><tr><td>Erweiterungen</td><td>aus dem Angebot des Baukastens</td><td>nach Bedarf</td></tr><tr><td>Ansprechperson bei Problemen</td><td>Support des Anbieters</td><td>persönlicher Kontakt</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Der Mittelweg und unsere Empfehlung",
+      "html": "<p>Zwischen „alles selbst“ und „alles abgeben“ gibt es Mischformen. Ein Dienstleister baut die Grundlage, Sie ändern kleine Dinge wie Aktionen oder Öffnungszeiten selbst. Oder Sie starten mit einem Baukasten und planen später einen Relaunch, wenn das Geschäft läuft.</p><ul><li><strong>Idee testen, wenig Budget:</strong> Baukasten.</li><li><strong>Website soll Anfragen bringen, wenig Zeit:</strong> Dienstleister.</li><li><strong>Unsicher:</strong> Lassen Sie sich mit dem <a href=\"https://www.pipeline-solutions.at/gratis-test/\">kostenlosen Startseiten-Entwurf</a> in wenigen Minuten einen Vorschlag zeigen und vergleichen Sie Angebote mit dem Ratgeber <a href=\"/wissen/website-angebote-vergleichen/\">Website-Angebote vergleichen</a>.</li></ul>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist ein Baukasten wirklich günstiger als eine Agentur?",
+      "a": "Beim Geld meistens ja, bei der Zeit meistens nein. Ein Baukasten kostet ein überschaubares Abo, dafür planen, schreiben und gestalten Sie selbst. Wer viele Stunden investiert, die eigentlich im Betrieb fehlen, zahlt indirekt mehr. Rechnen Sie daher ehrlich: Wie viele Abende brauchen Sie, und was hätten Sie in dieser Zeit verdient? Danach fällt die Entscheidung meist leichter."
+    },
+    {
+      "q": "Kann ich mit einem Baukasten starten und später wechseln?",
+      "a": "Ja, das ist ein gängiger Weg. Viele Betriebe beginnen mit einer einfachen Baukasten-Seite und lassen später eine professionelle Website bauen, wenn das Geschäft wächst. Texte, Bilder und die Domain lassen sich mitnehmen, Gestaltung und Technik werden beim Wechsel meist neu aufgebaut. Achten Sie von Anfang an darauf, dass die Domain auf Ihren Namen registriert ist."
+    },
+    {
+      "q": "Woran erkenne ich eine seriöse Agentur?",
+      "a": "Eine seriöse Agentur fragt zuerst nach Ihrem Betrieb und Ihren Zielen, bevor sie über Technik spricht. Sie nennt einen klaren Preis in einem schriftlichen Angebot, erklärt laufende Kosten und sagt auch, wenn Sie etwas nicht brauchen. Domain, Zugänge und Inhalte sollten Ihnen gehören. Fragen Sie nach Beispielen und danach, wer nach dem Start für Wartung und Fragen zuständig ist."
+    },
+    {
+      "q": "Wie lange dauert eine Website mit Agentur?",
+      "a": "Das hängt vor allem davon ab, wie schnell Texte, Fotos und Rückmeldungen vorliegen. Eine kompakte Firmenwebsite ist bei zügiger Zusammenarbeit oft in wenigen Wochen online, größere Projekte dauern entsprechend länger. Im Erstgespräch klären wir den Umfang und vereinbaren einen realistischen Zeitplan, den Sie schriftlich bekommen. Verzögerungen entstehen erfahrungsgemäß eher bei Inhalten als bei der Technik."
+    }
+  ],
+  "verwandt": [
+    "/wissen/website-selbst-oder-machen-lassen/",
+    "/vergleiche/wix-oder-eigene-website/",
+    "/vergleiche/agentur-oder-freelancer/",
+    "/leistungen/website-erstellen/",
+    "/wissen/website-baukasten-grenzen/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "pfad": "/wissen/website-briefing/",
+  "title": "Website-Briefing: Was die Agentur von Ihnen braucht",
+  "description": "Was gehört in ein Website-Briefing? Ziele, Zielgruppe, Angebot, Inhalte, Zugänge, Wünsche und Organisation – mit Checkliste gegen endlose Abstimmungen.",
+  "h1": "Website-Briefing: Was die Agentur von Ihnen braucht",
+  "kicker": "Ratgeber · Projekt",
+  "lead": "Für ein gutes Website-Projekt braucht die Agentur von Ihnen vor allem Klarheit über Ziele, Zielgruppe und Angebot, dazu Ihr Material wie Logo, Fotos und Texte oder Stichworte, die Zugänge zu Domain und bestehender Website sowie eine Ansprechperson, die entscheiden darf. Ein Briefing von zwei, drei Seiten reicht meist und spart viele Abstimmungsrunden.",
+  "fakten": [
+    "Ziele und Zielgruppe zuerst, Gestaltungswünsche danach",
+    "Material früh sammeln: Logo, Fotos, Texte, Referenzen",
+    "Zugänge zu Domain, Hosting und alter Website bereithalten",
+    "Eine Ansprechperson mit Entscheidungsbefugnis benennen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum ein Briefing Zeit und Geld spart",
+      "html": "<p>Die meisten Verzögerungen in Website-Projekten entstehen nicht bei der Technik, sondern beim Warten: auf Texte, auf Fotos, auf Zugangsdaten, auf eine Entscheidung. Ein Briefing, also eine kurze schriftliche Zusammenfassung Ihrer Ziele und Ihres Materials, beugt dem vor.</p><p>Es muss kein langes Dokument sein. Stichworte auf zwei, drei Seiten genügen. Wichtig ist, dass Sie sich vorher Gedanken gemacht haben und alle Beteiligten vom selben Projekt sprechen. Wie ein Website-Projekt insgesamt abläuft, beschreibt der Ratgeber <a href=\"/wissen/website-projekt-ablauf/\">So läuft ein Website-Projekt ab</a>.</p>"
+    },
+    {
+      "h2": "Ziele und Zielgruppe",
+      "html": "<p>Beginnen Sie mit der wichtigsten Frage: Was soll die Website für Ihren Betrieb erreichen? Typische Antworten sind mehr Anfragen für bestimmte Leistungen, weniger Telefonate mit Standardfragen, bessere Bewerbungen oder ein zeitgemäßes Erscheinungsbild.</p><ul><li>Welche Kunden wollen Sie erreichen, und welche eher nicht?</li><li>Was suchen diese Kunden, und welche Fragen stellen sie?</li><li>In welchem Gebiet sind Sie tätig?</li><li>Woran würden Sie in einem Jahr merken, dass die Website funktioniert?</li></ul>"
+    },
+    {
+      "h2": "Angebot und was Sie unterscheidet",
+      "html": "<p>Listen Sie Ihre Leistungen auf und markieren Sie, welche Ihnen am wichtigsten sind, etwa weil sie gut ausgelastet werden sollen oder besonders profitabel sind. Nicht jede Leistung braucht gleich viel Platz.</p><p>Überlegen Sie außerdem, was Sie von anderen Betrieben unterscheidet. Hilfreich ist die Frage: Warum kommen Ihre besten Kunden zu Ihnen und nicht zum Mitbewerber? Die Antworten sind oft konkreter als erwartet, etwa kurze Reaktionszeiten, ein Spezialgebiet, ein fester Ansprechpartner oder die Nähe.</p>"
+    },
+    {
+      "h2": "Inhalte und Material sammeln",
+      "html": "<ul><li><strong>Logo</strong> in möglichst guter Qualität, idealerweise als Vektordatei.</li><li><strong>Fotos</strong> von Team, Betrieb und Arbeiten, siehe <a href=\"/wissen/website-fotos/\">Fotos für die Firmenwebsite</a>.</li><li><strong>Texte oder Stichworte</strong> zu jeder Leistung, auch unfertig.</li><li><strong>Häufige Kundenfragen</strong> und Ihre typischen Antworten.</li><li><strong>Referenzen und Kundenstimmen</strong>, nur mit Einverständnis der Kunden.</li><li><strong>Angaben für das Impressum</strong>, etwa Firmenwortlaut, Anschrift, Kontakt und je nach Rechtsform weitere Registerangaben.</li><li><strong>Öffnungszeiten, Einzugsgebiet, Anfahrt.</strong></li></ul>"
+    },
+    {
+      "h2": "Technik und Zugänge",
+      "html": "<p>Klären Sie vorab, wo Ihre Domain registriert ist und auf wen sie läuft, wer das Hosting und die E-Mail-Postfächer betreut und wie man auf die bestehende Website zugreift. Wenn diese Informationen beim ehemaligen Webdesigner liegen, kann es dauern, sie zu bekommen. Beginnen Sie deshalb früh damit.</p><p>Ebenfalls hilfreich: Zugänge zum Google-Unternehmensprofil, zur Google Search Console und zu einem eventuellen Statistik-Werkzeug. Beim Relaunch einer bestehenden Seite hilft zusätzlich die <a href=\"/wissen/website-relaunch-checkliste/\">Checkliste für den Website-Relaunch</a>. Geben Sie Passwörter nicht per unverschlüsselter E-Mail weiter, sondern vereinbaren Sie einen sicheren Weg.</p>"
+    },
+    {
+      "h2": "Wünsche, Vorbilder und No-Gos",
+      "html": "<p>Sammeln Sie zwei, drei Websites, die Ihnen gefallen, auch aus anderen Branchen, und schreiben Sie dazu, was genau Ihnen gefällt: die Bilder, die Klarheit, die Farben, wie Informationen angeordnet sind. Genauso hilfreich ist eine Liste dessen, was Sie nicht wollen.</p><p>Nennen Sie Funktionen, die Ihnen wichtig sind, etwa Terminbuchung, Mehrsprachigkeit, Bewerbungsformular oder einen Chatbot. Je früher diese Wünsche bekannt sind, desto genauer wird das Angebot.</p>"
+    },
+    {
+      "h2": "Organisation: Ansprechperson, Zeitplan, Budget",
+      "html": "<p>Benennen Sie eine Person, die Fragen beantwortet und Entscheidungen trifft. Wenn jede Freigabe durch drei Familienmitglieder muss, verlängert sich das Projekt deutlich. Nennen Sie auch Termine, die feststehen, etwa eine Betriebseröffnung oder den Start einer Saison.</p><p>Ein ungefährer Budgetrahmen hilft, realistische Vorschläge zu machen, statt etwas zu planen, das nicht passt. Zur Orientierung: Die Starter-Website von Mühlberger Digital beginnt ab 2.500 € einmalig ohne USt., größere Projekte werden individuell angeboten. Die Richtpreise stehen unter <a href=\"/preise/\">Preise</a>.</p>"
+    },
+    {
+      "h2": "Vom Briefing zum Angebot",
+      "html": "<p>Sie müssen nicht alles perfekt vorbereitet haben. Vieles klären wir gemeinsam im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, rund 30 Minuten vor Ort, am Telefon oder per Video-Call, Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Danach bekommen Sie ein schriftliches Angebot mit klarem Umfang.</p><p>Wie Sie sich auf dieses Gespräch am besten vorbereiten, beschreibt der Ratgeber <a href=\"/wissen/erstgespraech-vorbereiten/\">Das Erstgespräch gut vorbereiten</a>. Wer vorab ein Gefühl für die Richtung bekommen möchte, nutzt den <a href=\"https://www.pipeline-solutions.at/gratis-test/\">Gratis-Startseiten-Entwurf von Pipeline AI Solutions</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was gehört in ein Website-Briefing?",
+      "a": "Ein Website-Briefing enthält die Ziele der Website, die Zielgruppe, Ihr Angebot mit Schwerpunkten, was Sie von Mitbewerbern unterscheidet, das vorhandene Material wie Logo, Fotos und Texte, Angaben zu Domain, Hosting und bestehender Website, gewünschte Funktionen, Beispiele für Websites, die Ihnen gefallen, sowie Ansprechperson, Zeitrahmen und ungefähres Budget. Stichworte auf wenigen Seiten reichen meist aus."
+    },
+    {
+      "q": "Muss ich die Texte für meine Website selbst schreiben?",
+      "a": "Nicht unbedingt. Sie sollten aber die Inhalte liefern, also Stichworte zu Leistungen, Abläufen und typischen Kundenfragen, denn niemand kennt Ihren Betrieb so gut wie Sie. Das Ausformulieren kann die Agentur übernehmen, oft auf Basis eines Gesprächs. Klären Sie im Angebot, ob die Texterstellung enthalten ist, weil das den Aufwand deutlich beeinflusst."
+    },
+    {
+      "q": "Was tun, wenn ich keinen Zugang zu meiner alten Website habe?",
+      "a": "Fragen Sie zuerst beim früheren Webdesigner oder Hoster nach und weisen Sie nach, dass Sie Inhaber der Domain sind. Ist die Domain auf jemand anderen registriert, braucht es dessen Mitwirkung für einen Umzug. Beginnen Sie damit möglichst früh, weil das dauern kann. Inhalte wie Texte und Bilder lassen sich notfalls auch von der öffentlich sichtbaren Website übernehmen."
+    },
+    {
+      "q": "Soll ich ein Budget nennen?",
+      "a": "Ja, ein ungefährer Rahmen ist hilfreich. Er verhindert, dass ein Vorschlag erarbeitet wird, der Ihr Budget weit übersteigt oder unnötig klein ausfällt. Ein seriöser Anbieter nutzt diese Angabe, um passende Lösungen vorzuschlagen, und sagt Ihnen auch, wenn Sie für Ihre Ziele weniger brauchen. Bei Mühlberger Digital erhalten Sie nach dem Erstgespräch ein schriftliches Angebot."
+    },
+    {
+      "q": "Wie lange dauert es, ein Briefing zu erstellen?",
+      "a": "Wenn Sie Ihr Material bereits beisammen haben, reichen oft ein, zwei Abende für die Stichworte. Länger dauert meist das Sammeln von Fotos, Logo-Dateien und Zugangsdaten. Sie müssen nicht alles fertig haben, bevor Sie Kontakt aufnehmen. Vieles lässt sich im Erstgespräch gemeinsam klären und danach Schritt für Schritt ergänzen."
+    }
+  ],
+  "verwandt": [
+    "/wissen/erstgespraech-vorbereiten/",
+    "/wissen/website-projekt-ablauf/",
+    "/ablauf/",
+    "/wissen/website-relaunch-checkliste/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

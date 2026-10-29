@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/website-erstellen/zwettl/",
+  "title": "Website erstellen lassen in Zwettl, direkt vor Ort betreut",
+  "description": "Website erstellen lassen in Zwettl: persönlich betreut von Mühlberger Digital aus Ottenschlag im Bezirk. Kurze Wege, klarer Preis ab 2.500 €.",
+  "h1": "Website erstellen lassen in Zwettl",
+  "kicker": "Website · Bezirk Zwettl",
+  "lead": "Mühlberger Digital hat seinen Sitz in Ottenschlag, also mitten im Bezirk Zwettl. Für Betriebe hier heißt das: Beratung am Küchentisch oder in der Werkstatt statt anonymer Agentur, und Beispiele, die live mit Ihren eigenen Inhalten gezeigt werden. Die Starter-Website beginnt bei 2.500 €, umgesetzt von Pipeline AI Solutions.",
+  "fakten": [
+    "Sitz von Mühlberger Digital: Neuhof 26, 3631 Ottenschlag, Bezirk Zwettl",
+    "Erstgespräch vor Ort im Bezirk unkompliziert möglich",
+    "Für Betriebe, Vereine und Gemeinden",
+    "Telefon +43 677 6219 2776, Termine Mo–Fr 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Ansprechpartner aus dem eigenen Bezirk",
+      "html": "<p>Wer eine Website machen lässt, möchte wissen, mit wem er es zu tun hat. Bei Mühlberger Digital ist das Jonas Mühlberger, der in Ottenschlag zu Hause ist und für Gespräche im Bezirk keine weite Anreise braucht. Mehr über ihn auf der Seite <a href=\"/ueber-jonas-muehlberger/\">Über Jonas Mühlberger</a>.</p><p>Die technische Umsetzung übernimmt Pipeline AI Solutions. Sie haben trotzdem immer denselben Ansprechpartner, der Ihre Wünsche weitergibt und sich um Rückfragen kümmert.</p>"
+    },
+    {
+      "h2": "Wie das Erstgespräch abläuft",
+      "html": "<ol><li>Sie melden sich telefonisch oder per E-Mail und nennen einen Wunschtermin am Abend.</li><li>Wir treffen uns bei Ihnen, in Ottenschlag oder per Video, für etwa 30 Minuten.</li><li>Sie zeigen, was Sie haben, wir zeigen live, was möglich ist.</li><li>Danach bekommen Sie ein schriftliches Angebot mit klarem Preis.</li></ol><p>Ausführlicher auf der Seite <a href=\"/erstgespraech/\">Erstgespräch</a>.</p>"
+    },
+    {
+      "h2": "Was Betriebe im Bezirk typischerweise brauchen",
+      "html": "<p>Eine Bäckerei in Zwettl braucht Öffnungszeiten, Filialen und vielleicht eine Vorbestellung für Torten. Ein Zimmereibetrieb rund um <a href=\"/regionen/gross-gerungs/\">Groß Gerungs</a> zeigt Holzbauten aus der Umgebung. Ein Verein in <a href=\"/regionen/allentsteig/\">Allentsteig</a> braucht Termine, Mitgliedschaft und Ansprechpartner. Drei sehr unterschiedliche Websites, die alle mit dem Starter-Paket gut abgedeckt sind.</p><p>Ehrlich gesagt: Wer mit seinem Google-Profil und Stammkunden gut ausgelastet ist, braucht nicht sofort eine neue Website. Das sagen wir dann auch so.</p>"
+    },
+    {
+      "h2": "Preis und Leistung",
+      "html": "<p>Die Starter-Website ab 2.500 € umfasst bis zu fünf Seiten, Darstellung für Handy, Tablet und Computer, Optimierung für Google und KI-Suchen, Kontaktformular, Impressum, Datenschutz und Hosting. Mehr dazu auf <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, Regionales auf <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt Jonas Mühlberger wirklich zu mir in den Betrieb?",
+      "a": "Ja, im Bezirk Zwettl ist ein Termin vor Ort gut machbar, weil der Sitz in Ottenschlag liegt. Das Erstgespräch ist kostenlos und dauert etwa 30 Minuten. Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr, also auch nach Feierabend. Wer es lieber kurz halten möchte, kann genauso telefonisch oder per Video sprechen."
+    },
+    {
+      "q": "Macht Mühlberger Digital auch Websites für Vereine und Gemeinden?",
+      "a": "Ja. Vereine und Gemeinden gehören ausdrücklich zu den Zielgruppen. Ihre Anforderungen unterscheiden sich von Betrieben: Termine, Veranstaltungen, Ansprechpartner und Mitteilungen stehen im Vordergrund, oft pflegen mehrere Personen die Inhalte. Das wird bei der Planung berücksichtigt. Der Preis richtet sich nach dem Umfang und steht vorab im schriftlichen Angebot."
+    },
+    {
+      "q": "Wer ist mein Vertragspartner?",
+      "a": "Vertragspartner für die technische Umsetzung ist Pipeline AI Solutions mit Sitz in Kleinzell im Mühlkreis. Mühlberger Digital berät, vermittelt und begleitet das Projekt als Ihr persönlicher Ansprechpartner. So bekommen Sie lokale Betreuung im Bezirk Zwettl und gleichzeitig ein eingespieltes Team für Programmierung, Hosting und Wartung."
+    },
+    {
+      "q": "Kann ich vorher sehen, wie meine neue Website aussehen könnte?",
+      "a": "Ja. Wenn Sie schon eine Website haben, erstellt der Gratis-Test von Pipeline in wenigen Minuten einen Entwurf für eine neue Startseite auf Basis Ihrer bestehenden Inhalte. Ohne bestehende Seite zeigen wir im Erstgespräch Beispiele live und besprechen, wie Ihre Inhalte aussehen könnten. So wissen Sie vor dem Angebot schon, in welche Richtung es geht."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/bezirk-zwettl/",
+    "/regionen/ottenschlag/",
+    "/erstgespraech/",
+    "/ueber-jonas-muehlberger/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

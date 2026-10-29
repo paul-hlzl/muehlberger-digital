@@ -1,0 +1,56 @@
+{
+  "pfad": "/branchen/steuerberater/",
+  "title": "Digitalisierung für Steuerberatung: Belege, Protokolle, Web",
+  "description": "Für Steuerberatungskanzleien: Belege digital einsammeln, Mandantengespräche sicher protokollieren und mit der Website passende neue Mandanten vorfiltern.",
+  "h1": "Digitale Lösungen für die Steuerberatung",
+  "kicker": "Branche · Steuerberatung",
+  "lead": "Steuerberatungskanzleien verlieren die meiste Zeit nicht bei der eigentlichen Beratung, sondern beim Einsammeln von Belegen, bei Rückfragen und beim Nacharbeiten von Gesprächen. Digitale Abläufe für Belege, KI-Gesprächsnotizen mit Speicherung in Frankfurt und eine Website, die neue Mandanten vorfiltert, setzen genau dort an.",
+  "fakten": [
+    "Belege per Upload statt per Foto in fünf verschiedenen Kanälen",
+    "noteit protokolliert Gespräche ohne Bot im Call, Speicherung in Frankfurt",
+    "Website mit Zielgruppe und Unterlagen-Checkliste filtert Anfragen vor",
+    "Werbung und Auftritt: im Zweifel bei der Kammer der Steuerberater nachfragen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo Kanzleien Zeit verlieren",
+      "html": "<p>In vielen Kanzleien sieht der Alltag ähnlich aus: Ein Mandant schickt Rechnungen als Handyfoto per WhatsApp, eine andere bringt eine Schachtel mit Kassenbons, ein Dritter mailt PDFs in fünf einzelnen Nachrichten. Danach wird sortiert, nachgefragt und erinnert, oft mehrmals.</p><p>Dazu kommen Telefonate, nach denen jemand eine Aktennotiz schreiben muss, und Erstanfragen von Unternehmen, die gar nicht zur Kanzlei passen. Jeder dieser Punkte ist für sich klein, zusammen kosten sie viele Stunden pro Woche, gerade in der Hauptsaison der Jahresabschlüsse.</p>"
+    },
+    {
+      "h2": "Belege digital statt in der Schuhschachtel",
+      "html": "<p>Ein einheitlicher Weg für Belege spart auf beiden Seiten Zeit. Das kann ein einfaches Upload-Formular auf der Website sein, eine eigene E-Mail-Adresse, deren Anhänge automatisch abgelegt werden, oder eine Anbindung an das Programm, mit dem Sie ohnehin arbeiten.</p><ul><li>Belege werden nach Mandant und Monat automatisch einsortiert</li><li>fehlende Unterlagen lösen eine freundliche Erinnerung aus</li><li>Ihr Team sieht auf einen Blick, wer vollständig ist</li></ul><p>Wie das im Detail aussehen kann, beschreibt der Ratgeber <a href=\"/wissen/belege-digital/\">Belege digital verwalten</a>. Solche Abläufe setzt Pipeline AI Solutions als <a href=\"/leistungen/ki-automatisierung/\">KI-Automatisierung</a> um, Beispiele zeigt die Seite <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline</a>. Der Preis wird nach dem Erstgespräch genannt.</p>"
+    },
+    {
+      "h2": "Mandantengespräche protokollieren, ohne mitzuschreiben",
+      "html": "<p>Nach einem Beratungsgespräch per Teams, Zoom oder Telefon fehlt oft die Zeit für eine saubere Notiz. <a href=\"https://noteit.at/\">noteit</a> erstellt KI-Gesprächsnotizen für Teams, Zoom, Google Meet, Webex und weitere Programme, ohne dass ein Bot im Call sitzt. Die Daten werden in Frankfurt gespeichert, das Protokoll ist etwa zwei Minuten nach dem Gespräch fertig.</p><p>Gerade in der Steuerberatung gilt aber: Informieren Sie Mandanten vorab und holen Sie ihr Einverständnis ein. Ob und wie Sie Gespräche aufzeichnen dürfen und was die Verschwiegenheit dafür bedeutet, sollten Sie im Zweifel mit Ihrer Kammer klären. Allgemeine Hinweise dazu stehen im Ratgeber zur <a href=\"/wissen/gespraechsaufzeichnung/\">Gesprächsaufzeichnung</a>. Preise: Starter 0 € für 3 Stunden im Monat, Pro 14 €, Team 24 € pro Person und Monat, 7 Tage gratis testen.</p>"
+    },
+    {
+      "h2": "Die Website als Vorfilter für neue Mandanten",
+      "html": "<p>Viele Kanzleien haben keinen Mangel an Anfragen, sondern an passenden Anfragen. Eine Website, die klar sagt, für wen Sie arbeiten, spart Erstgespräche, die zu nichts führen. Hilfreich sind:</p><ul><li>eine ehrliche Beschreibung der Zielgruppen, etwa Einzelunternehmer, Landwirtschaft, Ärzte oder GmbHs</li><li>eine Liste der Unterlagen, die zum ersten Termin mitgebracht werden sollen</li><li>ein Hinweis, ob Sie derzeit neue Mandate annehmen</li></ul><p>Tipps zu Aufbau und Tonfall gibt der Ratgeber <a href=\"/wissen/kanzlei-website/\">Kanzlei-Website</a>. Eine Starter-Website mit bis zu fünf Seiten gibt es ab 2.500 € einmalig.</p>"
+    },
+    {
+      "h2": "Berufsrecht, Personal und der nächste Schritt",
+      "html": "<p>Für Steuerberaterinnen und Steuerberater gelten berufsrechtliche Regeln zum Auftreten und zur Werbung. Wir geben dazu keine Rechtsberatung. Formulieren Sie sachlich und klären Sie Grenzfälle, etwa Preisangaben oder Vergleiche, mit der Kammer der Steuerberater und Wirtschaftsprüfer.</p><p>Wenn Sie Bilanzbuchhalterinnen oder Lehrlinge suchen, können Sie Stellen kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben. Welcher Baustein bei Ihnen zuerst Zeit spart, zeigen wir im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, live mit Ihren eigenen Abläufen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ein Chatbot auf der Website einer Steuerberatung Steuerfragen beantworten?",
+      "a": "Davon raten wir ab. Steuerliche Auskünfte hängen vom Einzelfall ab und gehören in die persönliche Beratung. Ein Chatbot wie Pipebot kann organisatorische Fragen beantworten, etwa zu Bürozeiten, benötigten Unterlagen oder dem Ablauf eines Erstgesprächs. Er antwortet nur mit Inhalten, die Sie selbst hinterlegen, und verweist bei Unsicherheit an Ihr Team."
+    },
+    {
+      "q": "Ist noteit für vertrauliche Mandantengespräche geeignet?",
+      "a": "noteit speichert in Frankfurt und kommt ohne Bot im Call aus, was für viele Kanzleien wichtige Punkte sind. Ob Sie ein Gespräch aufzeichnen und protokollieren dürfen, hängt aber vom Einverständnis des Mandanten und von Ihren berufsrechtlichen Pflichten ab. Informieren Sie vorab, holen Sie die Zustimmung ein und klären Sie offene Fragen mit Ihrer Kammer."
+    },
+    {
+      "q": "Wie können Mandanten Belege einfacher an die Kanzlei schicken?",
+      "a": "Am besten über einen einzigen, festen Weg statt über WhatsApp, E-Mail und Papier gleichzeitig. Möglich sind ein Upload-Formular, eine eigene Belegadresse mit automatischer Ablage oder eine Anbindung an Ihre Kanzleisoftware. Fehlende Unterlagen können automatisch erinnert werden. Welche Lösung passt, hängt von Ihren Programmen ab und wird nach dem Erstgespräch angeboten."
+    },
+    {
+      "q": "Was sollte auf der Website einer Steuerberatungskanzlei stehen?",
+      "a": "Wichtig sind eine klare Beschreibung, für wen die Kanzlei arbeitet, die angebotenen Leistungen, das Team mit Qualifikationen, Kontaktdaten und eine Liste der Unterlagen für den ersten Termin. Ein Hinweis, ob neue Mandate angenommen werden, spart unnötige Anfragen. Für Formulierungen zu Werbung und Auftritt ist die Kammer der Steuerberater und Wirtschaftsprüfer die richtige Anlaufstelle."
+    }
+  ],
+  "verwandt": ["/branchen/rechtsanwalt/", "/wissen/belege-digital/", "/leistungen/meeting-protokolle-ki/", "/wissen/kanzlei-website/", "/wissen/papierloses-buero/"],
+  "checks": ["website-entwurf", "seo-check"]
+}

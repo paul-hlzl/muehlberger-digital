@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/salzburg/",
+  "title": "Digitalagentur Salzburg: Website und Social Media",
+  "description": "Website, Social-Media-Beiträge und KI-Werkzeuge für Betriebe im Land Salzburg – von der Stadt bis in die Gebirgsgaue, online beraten, klar kalkuliert.",
+  "h1": "Digitalagentur für das Land Salzburg – sichtbar in der Stadt und in den Gauen",
+  "kicker": "Region · Bundesland",
+  "lead": "Betriebe im Land Salzburg berät Mühlberger Digital online zu Website, Social Media und KI-Werkzeugen. Besonders gefragt ist, wie Gastgeber und Handel regelmäßig sichtbar bleiben, ohne jede Woche selbst Beiträge schreiben zu müssen.",
+  "fakten": [
+    "Land mit fünf Gauen: Flachgau, Tennengau, Pongau, Pinzgau und Lungau",
+    "Pipeflow macht aus Ihrer Website wöchentliche Social-Media-Beiträge",
+    "Pipeflow ist in der Pilotphase kostenlos",
+    "Beratung per Video-Call, Erstgespräch kostenlos"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Stadt Salzburg und Gebirgsgaue: zwei verschiedene Ausgangslagen",
+      "html": "<p>Die <a href=\"/regionen/salzburg-stadt/\">Stadt Salzburg</a> lebt von Kultur, Handel und Gästen aus aller Welt. In den Gebirgsgauen Pongau, Pinzgau und Lungau prägen Winter- und Sommertourismus den Jahreslauf, im Flachgau und Tennengau gibt es viele Gewerbe- und Handwerksbetriebe. Ein Café in der Altstadt braucht deshalb einen anderen Auftritt als ein Skiverleih oder ein Zimmereibetrieb im Flachgau.</p><p>Gemeinsam ist allen: Gäste und Kundschaft schauen zuerst online nach, bevor sie anrufen oder vorbeikommen.</p>"
+    },
+    {
+      "h2": "Social Media ohne Wochenend-Schreibarbeit",
+      "html": "<p>Viele Salzburger Betriebe wissen, dass sie auf Instagram oder LinkedIn präsent sein sollten, finden aber keine Zeit dafür. Pipeflow macht aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild. Sie schauen drüber und geben frei, mehr nicht. In der Pilotphase ist das kostenlos.</p><ul><li>Ein Hotel im Pongau zeigt so regelmäßig Angebote für die Zwischensaison, ohne dass jemand an der Rezeption Texte schreiben muss.</li><li>Ein Sportgeschäft stellt neue Ware und Serviceleistungen vor, abgeleitet aus der eigenen Website.</li><li>Ein Handwerksbetrieb im Flachgau zeigt auf LinkedIn abgeschlossene Arbeiten und erreicht so auch mögliche Mitarbeiter.</li></ul><p>Mehr dazu unter <a href=\"/leistungen/social-media-automatisierung/\">Social-Media-Automatisierung</a>.</p>"
+    },
+    {
+      "h2": "Wann Social Media nicht das Wichtigste ist",
+      "html": "<p>Ehrlich gesagt: Für manche Betriebe bringt ein Instagram-Konto wenig. Ein Installateur, der nur über Empfehlung und Google gefunden wird, investiert seine Zeit besser in eine klare Website und ein gepflegtes Google-Profil. Erst wenn diese Grundlagen stehen, lohnt sich regelmäßiges Posten. Der Ratgeber zu <a href=\"/wissen/instagram-unternehmen/\">Instagram für Unternehmen</a> hilft bei der Einschätzung.</p>"
+    },
+    {
+      "h2": "Gäste aus aller Welt: Website und KI-Suchen",
+      "html": "<p>Weil Salzburg international bekannt ist, suchen Gäste oft auf Englisch und immer öfter über KI-Assistenten wie ChatGPT. Eine Website mit klaren Angaben zu Lage, Angebot und Preisen, eventuell auch auf Englisch, macht es diesen Systemen leichter, Ihren Betrieb zu nennen. Der <a href=\"/gratis-check/ki-sichtbarkeit/\">Gratis-Check zur KI-Sichtbarkeit</a> zeigt, wo Sie heute stehen.</p>"
+    },
+    {
+      "h2": "So arbeitet Mühlberger Digital mit Salzburger Betrieben",
+      "html": "<p>Mühlberger Digital sitzt in Ottenschlag im Waldviertel, die Beratung für Salzburg läuft daher online. Erstgespräche finden Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt, in der Saison oft der einzige ruhige Moment des Tages. Umgesetzt wird von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a>, mit schriftlichem Angebot vorab.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet Pipeflow für einen Betrieb in Salzburg?",
+      "a": "Pipeflow ist derzeit in der Pilotphase kostenlos. Das Werkzeug erstellt aus den Inhalten Ihrer Website jede Woche fertige Beiträge mit Bild für Instagram und LinkedIn, Sie geben sie nur frei. Starten können Sie direkt über die Pipeflow-Website. Sinnvoll ist das vor allem, wenn Ihre Website schon genug Inhalte hat, aus denen Beiträge entstehen können, etwa Angebote, Leistungen oder Neuigkeiten aus dem Betrieb."
+    },
+    {
+      "q": "Brauche ich für Salzburger Gäste eine englische Website?",
+      "a": "Das hängt von Ihren Gästen ab. Unterkünfte, Gastronomie in touristischen Lagen und Ausflugsziele profitieren oft von einer englischen Version, weil viele Gäste aus dem Ausland kommen. Für einen Handwerksbetrieb, der nur regional arbeitet, ist eine gute deutsche Website meist ausreichend. Im Erstgespräch lässt sich klären, ob sich der Mehraufwand rechnet."
+    },
+    {
+      "q": "Gibt es persönliche Termine im Land Salzburg?",
+      "a": "In der Regel nicht, weil der Sitz von Mühlberger Digital im Waldviertel liegt. Die Beratung läuft per Video-Call oder Telefon, und die Lösungen werden live mit Ihren eigenen Daten gezeigt, etwa ein Entwurf für Ihre Startseite oder Beispielbeiträge aus Ihrer Website. Das Erstgespräch dauert etwa 30 Minuten und ist kostenlos."
+    }
+  ],
+  "verwandt": [
+    "/regionen/salzburg-stadt/",
+    "/produkte/pipeflow/",
+    "/branchen/hotel/",
+    "/wissen/wie-oft-posten/",
+    "/gratis-check/social-media-test/"
+  ],
+  "checks": [
+    "social-media-test",
+    "ki-sichtbarkeit"
+  ]
+}

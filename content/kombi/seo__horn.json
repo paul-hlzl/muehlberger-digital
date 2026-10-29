@@ -1,0 +1,61 @@
+{
+  "pfad": "/leistungen/seo/horn/",
+  "title": "SEO in Horn: Eindeutigkeit für einen kurzen Ortsnamen",
+  "description": "SEO für Betriebe in Horn im Waldviertel: wie Sie Google und KI-Suchen klar zeigen, welches Horn gemeint ist, und lokal sicher gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Horn",
+  "kicker": "SEO · Bezirk Horn",
+  "lead": "„Horn“ ist ein kurzer Ortsname, den es im deutschsprachigen Raum mehrfach gibt und der außerdem ein ganz normales Wort ist. Betriebe in Horn im Waldviertel sollten Suchmaschinen deshalb besonders eindeutig sagen, wo sie sind. Das gelingt mit sauberen Standortangaben, strukturierten Daten und Texten, die Region und Bundesland natürlich nennen.",
+  "fakten": [
+    "Horn ist Bezirkshauptstadt im Waldviertel, nahe dem Kamptal",
+    "Der Ortsname ist mehrdeutig, Kontext hilft Google bei der Zuordnung",
+    "Strukturierte Daten machen Adresse und Leistungen maschinenlesbar",
+    "Auch KI-Suchen brauchen eindeutige Angaben"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein kurzer Ortsname braucht Kontext",
+      "html": "<p>Orte und Stadtteile namens Horn gibt es auch anderswo im deutschsprachigen Raum. Für die Kartensuche ist das selten ein Problem, weil Google dort den Standort des Handys kennt. Bei normalen Suchen und vor allem bei KI-Antworten kann es aber zu Verwechslungen kommen.</p><p>Wer auf seiner Website „Horn“ nur im Impressum erwähnt, macht es Suchmaschinen unnötig schwer. Besser ist es, Waldviertel und Niederösterreich dort zu nennen, wo es sich natürlich ergibt, etwa in der Beschreibung des Einsatzgebiets oder der Anfahrt. Die Grundlagen beschreibt unsere Seite zur <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a>.</p>"
+    },
+    {
+      "h2": "So machen Sie Ihren Standort eindeutig",
+      "html": "<ul><li>Vollständige Adresse mit Postleitzahl auf jeder Kontaktseite</li><li>Google-Unternehmensprofil mit exakt derselben Schreibweise</li><li><a href=\"/wissen/strukturierte-daten/\">Strukturierte Daten</a>, die Adresse, Öffnungszeiten und Leistungen maschinenlesbar beschreiben</li><li>Eine eingebundene Karte auf der Kontaktseite, datenschutzfreundlich umgesetzt</li><li>Texte, die die Umgebung erwähnen, etwa Kunden aus dem Kamptal oder dem übrigen <a href=\"/regionen/waldviertel/\">Waldviertel</a></li></ul>"
+    },
+    {
+      "h2": "Typische Betriebe, typische Fragen",
+      "html": "<p>Eine <strong>Fotografin</strong> in Horn wird für Hochzeiten oft von Paaren aus anderen Bezirken gesucht. Sie braucht Seiten zu ihren Angeboten mit Beispielbildern und dem Hinweis, wie weit sie fährt. Mehr dazu auf der Branchenseite <a href=\"/branchen/fotograf/\">Fotograf</a>.</p><p>Eine <strong>Arztpraxis</strong> wird vor allem nach Fachrichtung und Ordinationszeiten gesucht. Hier zählt, dass Urlaubs- und Vertretungszeiten aktuell sind.</p><p>Ein <strong>Café</strong> am Hauptplatz lebt von spontanen Besuchen. Fotos, Öffnungszeiten und Bewertungen im Profil sind hier wichtiger als lange Texte.</p>"
+    },
+    {
+      "h2": "KI-Suchen verwechseln schneller",
+      "html": "<p>KI-Assistenten setzen ihre Antworten aus vielen Quellen zusammen. Sind die Angaben zu einem Betrieb widersprüchlich oder mehrdeutig, wird er seltener genannt oder falsch eingeordnet. Klare Fakten auf der eigenen Website helfen, mehr dazu bei <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Wie oft Ihr Betrieb heute in ChatGPT, Gemini und Co. vorkommt, misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p>"
+    },
+    {
+      "h2": "Gespräch vereinbaren",
+      "html": "<p>Im kostenlosen Erstgespräch, vor Ort im Bezirk oder per Video, sehen wir uns Ihre Website und Ihr Profil gemeinsam an. Danach erhalten Sie ein schriftliches Angebot. Mehr zur Region auf der Seite <a href=\"/regionen/bezirk-horn/\">Bezirk Horn</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wird mein Betrieb mit einem anderen Horn verwechselt?",
+      "a": "In der Kartensuche selten, weil Google dort den Standort der suchenden Person berücksichtigt. Bei allgemeinen Suchen und in KI-Antworten kann es eher passieren, vor allem wenn Ihre Website den Ort nur knapp erwähnt. Mit vollständiger Adresse, strukturierten Daten und natürlichen Hinweisen auf Waldviertel und Niederösterreich verringern Sie dieses Risiko deutlich."
+    },
+    {
+      "q": "Was bringen strukturierte Daten konkret?",
+      "a": "Strukturierte Daten sind ein unsichtbarer Code auf der Website, der Suchmaschinen sagt, was eine Angabe bedeutet: Das ist die Adresse, das sind die Öffnungszeiten, das ist die Telefonnummer. Google kann diese Informationen dadurch sicherer zuordnen und manchmal direkt in den Suchergebnissen anzeigen. Eine bessere Platzierung ist damit nicht automatisch verbunden, die Zuordnung wird aber eindeutiger."
+    },
+    {
+      "q": "Muss ich „Niederösterreich“ in jeden Text schreiben?",
+      "a": "Nein, das würde gekünstelt wirken. Es reicht, Region und Bundesland dort zu erwähnen, wo es inhaltlich passt: auf der Startseite, in der Beschreibung des Einsatzgebiets, auf der Kontaktseite und im Impressum. Wichtiger als die Häufigkeit ist, dass Ihre Angaben überall gleich sind und zusammenpassen, auch in Branchenverzeichnissen und auf Social Media."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-horn/",
+    "/glossar/schema-markup/",
+    "/wissen/lokales-seo/",
+    "/leistungen/website-erstellen/horn/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/baden/",
+  "title": "SEO in Baden: für Kurgäste, Ausflügler und Stammkunden",
+  "description": "Suchmaschinenoptimierung in Baden bei Wien: wie Gesundheits-, Gastro- und Handwerksbetriebe bei Gästen und Einheimischen gefunden werden.",
+  "h1": "Suchmaschinenoptimierung (SEO) in Baden",
+  "kicker": "SEO · Bezirk Baden",
+  "lead": "In Baden sucht nicht nur die Stammkundschaft aus der Stadt, sondern auch viele Menschen, die noch in Wien sitzen und einen Termin oder Ausflug planen. Gute SEO für Badener Betriebe bedient beide Gruppen: mit klaren Informationen für die Planung und schnellen Antworten für alle, die schon vor Ort sind.",
+  "fakten": [
+    "Baden ist Kurstadt mit Thermalwasser, südlich von Wien in der Thermenregion",
+    "Viele Suchen entstehen vor dem Besuch, oft am Handy",
+    "Bei Gesundheits- und Wellnessangeboten entscheiden Bewertungen mit",
+    "Kostenloses Erstgespräch, auch persönlich im Bezirk"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Arten von Suchenden",
+      "html": "<p>Wer in Baden einen Betrieb führt, hat es mit zwei sehr unterschiedlichen Situationen zu tun. Die einen planen: Sie suchen am Abend vorher nach einer Massage, einem Heurigen in der Thermenregion oder einem Physiotherapeuten mit freien Terminen. Die anderen sind schon da und tippen „in der Nähe“ oder „jetzt geöffnet“ ins Handy.</p><p>Für die Planenden zählen ausführliche Leistungsbeschreibungen, Preise oder Preisrahmen und eine einfache Buchung. Für die Spontanen zählen Karte, Öffnungszeiten und Bewertungen. Eine gute <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> deckt beides ab, statt nur auf ein Schlagwort zu zielen.</p>"
+    },
+    {
+      "h2": "Was Badener Betriebe gezielt verbessern können",
+      "html": "<h3>Gesundheit und Wohlbefinden</h3><p>Praxen, Masseure und Studios profitieren von einer eigenen Seite pro Behandlung. Wer etwa in der <a href=\"/branchen/physiotherapie/\">Physiotherapie</a> erklärt, wie eine erste Einheit abläuft und ob eine Verordnung nötig ist, beantwortet genau die Fragen, die vorher gegoogelt werden.</p><h3>Heurige und Gastronomie</h3><p>In der Thermenregion zählen Ausg'steckt-Termine, Speisekarte und Erreichbarkeit mit Öffis. Veraltete Angaben kosten hier schnell Vertrauen.</p><h3>Handwerk für Haus und Wohnung</h3><p>Maler, Elektriker oder Bodenleger werden meist nach Leistung plus Ort gesucht. Fotos echter Arbeiten aus der Umgebung wirken stärker als Bilder aus Datenbanken.</p>"
+    },
+    {
+      "h2": "Bewertungen: der unterschätzte Teil von lokalem SEO",
+      "html": "<p>Bei Angeboten rund um Gesundheit und Erholung lesen viele Menschen Bewertungen genauer als die Website. Regelmäßige, echte Rückmeldungen und freundliche Antworten darauf stärken das Profil in Google Maps. Wie Sie Kundinnen und Kunden ohne Druck darum bitten, zeigt der Ratgeber <a href=\"/wissen/google-bewertungen-bekommen/\">Google-Bewertungen bekommen</a>.</p><p>Gekaufte oder selbst geschriebene Bewertungen sind tabu. Sie verstoßen gegen die Regeln von Google und schaden mehr, als sie nützen.</p>"
+    },
+    {
+      "h2": "KI-Suche und der erste Schritt",
+      "html": "<p>Fragen wie „Wo kann ich in Baden am Wochenende entspannen?“ landen zunehmend bei ChatGPT oder in den KI-Übersichten von Google. Damit Ihr Betrieb dort genannt werden kann, braucht es eindeutige, aktuelle Informationen im Netz, mehr dazu bei <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Den aktuellen Stand misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p><p>Für ein Gespräch über Ihren Betrieb vereinbaren Sie ein <a href=\"/erstgespraech/\">kostenloses Erstgespräch</a>, rund 30 Minuten, abends unter der Woche. Was wir allgemein im Bezirk anbieten, steht auf der Seite <a href=\"/regionen/bezirk-baden/\">Bezirk Baden</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Lohnt sich SEO, wenn mein Terminkalender schon voll ist?",
+      "a": "Nicht unbedingt. Wenn Sie ausgebucht sind und keine neuen Leistungen anbieten wollen, reicht oft ein gepflegtes Google-Unternehmensprofil. SEO wird interessant, wenn Sie bestimmte Behandlungen oder Zeiten besser auslasten, Preise anpassen oder Personal finden möchten. Im Erstgespräch klären wir ehrlich, ob sich der Aufwand für Sie überhaupt rechnet."
+    },
+    {
+      "q": "Sollte meine Website auch auf Englisch sein?",
+      "a": "Das hängt davon ab, wer zu Ihnen kommt. Haben Sie regelmäßig internationale Gäste, etwa im Wellness- oder Gastrobereich, kann eine englische Seite mit den wichtigsten Informationen sinnvoll sein. Für einen Installateur oder eine Steuerkanzlei mit Kundschaft aus der Region bringt sie meist wenig. Eine halbherzige Übersetzung schadet eher, als dass sie nützt."
+    },
+    {
+      "q": "Wie bekomme ich mehr Bewertungen, ohne aufdringlich zu sein?",
+      "a": "Am besten fragen Sie direkt nach einem gelungenen Termin und machen es einfach, etwa mit einem kurzen Link oder QR-Code auf der Rechnung. Antworten Sie auf jede Bewertung, auch auf kritische, sachlich und freundlich. Belohnungen für Bewertungen sind nach den Google-Richtlinien nicht erlaubt und sollten daher nicht angeboten werden."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/bezirk-baden/",
+    "/regionen/industrieviertel/",
+    "/wissen/auf-bewertungen-antworten/",
+    "/leistungen/website-erstellen/baden/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

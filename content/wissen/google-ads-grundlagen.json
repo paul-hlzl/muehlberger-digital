@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/google-ads-grundlagen/",
+  "title": "Google Ads: Grundlagen für kleine Betriebe",
+  "description": "Google Ads Grundlagen für kleine Betriebe: wie Anzeigen funktionieren, wie Sie Budget und Suchbegriffe wählen, typische Fehler und wann SEO besser passt.",
+  "h1": "Google Ads: Grundlagen für kleine Betriebe",
+  "kicker": "Ratgeber · Werbung",
+  "lead": "Mit Google Ads schalten Sie bezahlte Anzeigen, die bei passenden Suchen über oder unter den normalen Ergebnissen erscheinen; Sie zahlen in der Regel nur, wenn jemand klickt. Für kleine Betriebe lohnt sich das vor allem, wenn schnell Anfragen nötig sind oder die Konkurrenz in den normalen Ergebnissen stark ist. Entscheidend sind eng gewählte Suchbegriffe, ein klares Gebiet und eine Zielseite, die aus Klicks Anfragen macht.",
+  "fakten": [
+    "Bezahlt wird in der Regel pro Klick, nicht pro Anzeige",
+    "Sichtbarkeit endet, sobald das Budget aufgebraucht ist",
+    "Gebiet und Suchbegriffe eng wählen spart Geld",
+    "Ohne gute Zielseite verpufft auch eine gute Anzeige"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Google Ads funktioniert",
+      "html": "<p>Wenn jemand bei Google sucht, kann vor den normalen Ergebnissen eine Anzeige stehen, gekennzeichnet als „Gesponsert“. Welche Anzeige dort erscheint, entscheidet eine Auktion im Hintergrund. Dabei zählt nicht nur, wie viel ein Werbetreibender pro Klick zu zahlen bereit ist, sondern auch, wie gut Anzeige und Zielseite zur Suche passen.</p><p>Für Sie heißt das: Mit viel Geld allein gewinnt man nicht automatisch. Eine Anzeige, die genau zur Suche passt und auf eine passende Seite führt, kann günstiger sein als eine allgemeine. Sie legen ein Tagesbudget fest und behalten so die Kosten im Griff.</p>"
+    },
+    {
+      "h2": "Wann sich Google Ads für kleine Betriebe lohnt",
+      "html": "<p>Google Ads ist kein Muss. Es lohnt sich vor allem in diesen Situationen:</p><ul><li><strong>Schneller Bedarf:</strong> Sie eröffnen neu oder haben freie Kapazitäten, die gefüllt werden sollen.</li><li><strong>Saisonale Angebote:</strong> etwa Klimaanlagen-Service im Frühsommer oder Gutscheine vor Weihnachten.</li><li><strong>Starke Konkurrenz:</strong> Die normalen Ergebnisse sind von großen Anbietern belegt.</li><li><strong>Hochwertige Aufträge:</strong> Ein einziger Auftrag deckt viele Klicks.</li></ul><p>Weniger sinnvoll ist es, wenn Sie ohnehin ausgelastet sind, wenn Ihre Leistung kaum gesucht wird oder wenn die Website keine Anfragen erzeugt. Dann zahlen Sie für Besucher, die wieder gehen. Ein fairer Vergleich mit der kostenlosen Sichtbarkeit steht unter <a href=\"/vergleiche/seo-oder-google-ads/\">SEO oder Google Ads</a>.</p>"
+    },
+    {
+      "h2": "Die wichtigsten Einstellungen",
+      "html": "<p>Viele Konten verbrennen Geld, weil Grundeinstellungen nicht passen. Achten Sie auf:</p><ul><li><strong>Standort:</strong> Nur dort werben, wo Sie wirklich arbeiten. Prüfen Sie, dass die Anzeige Menschen <em>in</em> diesem Gebiet gezeigt wird, nicht nur solchen, die sich irgendwann dafür interessiert haben.</li><li><strong>Suchbegriffe:</strong> Konkrete Begriffe wie „Badsanierung Zwettl“ statt allgemeiner wie „Bad“.</li><li><strong>Ausschließende Begriffe:</strong> Wörter wie „gratis“, „Job“ oder „selber machen“ ausschließen, wenn Sie solche Suchen nicht wollen.</li><li><strong>Zeitplan:</strong> Anzeigen nur zu Zeiten schalten, in denen Sie Anfragen bearbeiten können, falls das für Sie relevant ist.</li><li><strong>Budget:</strong> klein beginnen und nach den ersten Wochen anpassen.</li></ul>"
+    },
+    {
+      "h2": "Die Zielseite entscheidet",
+      "html": "<p>Ein häufiger Fehler: Die Anzeige führt auf die Startseite, und der Besucher muss selbst suchen. Besser ist eine Seite, die genau das Angebot der Anzeige zeigt, mit klarer Telefonnummer, kurzem Formular und Vertrauensmerkmalen wie Fotos echter Arbeiten und Bewertungen.</p><p>Eine solche Seite nennt man Landingpage. Sie kann einfach sein, muss aber schnell laden und am Handy funktionieren. Was eine gute Landingpage ausmacht, beschreibt der Ratgeber <a href=\"/wissen/landingpage-oder-website/\">Landingpage oder Website</a>. Umsetzen lässt sie sich auch als eigenes Projekt, siehe <a href=\"/leistungen/landingpage-erstellen/\">Landingpage erstellen</a>.</p>"
+    },
+    {
+      "h2": "Erfolg messen, ohne sich zu verlieren",
+      "html": "<p>Google Ads zeigt viele Zahlen. Für kleine Betriebe zählen wenige:</p><ul><li>Wie viele Anfragen oder Anrufe kamen über die Anzeigen?</li><li>Was hat eine Anfrage im Schnitt gekostet?</li><li>Wie viele Anfragen wurden zu Aufträgen?</li></ul><p>Um Anfragen zu messen, braucht es eine sogenannte Conversion-Messung. Dabei werden Daten über Besucher verarbeitet; klären Sie, ob dafür eine Einwilligung im Cookie-Banner nötig ist. Hinweise dazu finden Sie im Ratgeber zum <a href=\"/wissen/cookie-banner/\">Cookie-Banner</a>. Im Zweifel fragen Sie die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a> oder einen Anwalt.</p>"
+    },
+    {
+      "h2": "Typische Fehler und wie Sie sie vermeiden",
+      "html": "<ul><li><strong>Zu breite Suchbegriffe:</strong> Ein Maler bezahlt für Klicks auf „Malen lernen“. Lösung: Suchbegriff-Bericht regelmäßig ansehen und Unpassendes ausschließen.</li><li><strong>Zu großes Gebiet:</strong> Ein Bäcker wirbt österreichweit. Lösung: Umkreis eng setzen.</li><li><strong>Einstellen und vergessen:</strong> Konten brauchen in den ersten Wochen Aufmerksamkeit, danach regelmäßige Kontrolle.</li><li><strong>Keine Messung:</strong> Ohne Zahlen zu Anfragen wissen Sie nicht, ob sich das Budget lohnt.</li></ul><p>Ein typisches Beispiel: Ein Dachdecker schaltet nach einem Sturm Anzeigen für „Dachreparatur“ in seinem Bezirk, nur für einige Tage und mit klarer Telefonnummer. Das ist ein sinnvoller, begrenzter Einsatz.</p>"
+    },
+    {
+      "h2": "Google Ads und dauerhafte Sichtbarkeit kombinieren",
+      "html": "<p>Anzeigen sind wie ein Wasserhahn: Sie fließen, solange Sie zahlen. Dauerhafte Sichtbarkeit in den normalen Ergebnissen, im Google-Profil und in KI-Suchen baut sich langsamer auf, bleibt aber bestehen. Viele Betriebe fahren gut damit, Ads gezielt für Spitzen einzusetzen und parallel an der eigenen Sichtbarkeit zu arbeiten.</p><p>Wie Ihre Website für die unbezahlte Suche dasteht, zeigt der kostenlose <a href=\"/gratis-check/seo-check/\">SEO-Check</a>. Im Erstgespräch klären wir gern, ob Anzeigen in Ihrer Lage überhaupt nötig sind.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was kostet Google Ads für einen kleinen Betrieb?",
+      "a": "Die Kosten bestimmen Sie selbst über das Tagesbudget. Wie viel ein Klick kostet, hängt von Branche, Region und Konkurrenz ab und lässt sich nicht pauschal sagen. Sinnvoll ist, mit einem kleinen Budget zu starten, einige Wochen zu messen, wie viele Anfragen entstehen, und dann zu entscheiden. Wichtig ist der Preis pro Anfrage, nicht der Preis pro Klick."
+    },
+    {
+      "q": "Ist SEO oder Google Ads besser?",
+      "a": "Das hängt von Ihrem Ziel ab. Google Ads bringt schnell Sichtbarkeit, die aber endet, wenn Sie nicht mehr zahlen. SEO wirkt langsamer, dafür dauerhaft und ohne Kosten pro Klick. Für schnelle oder saisonale Bedürfnisse passen Anzeigen, für langfristige Nachfrage SEO. Viele kleine Betriebe kombinieren beides und setzen Anzeigen gezielt für Spitzenzeiten ein."
+    },
+    {
+      "q": "Kann ich Google Ads selbst einrichten?",
+      "a": "Grundsätzlich ja. Das Konto ist schnell angelegt. Die Herausforderung liegt in den Einstellungen: enges Gebiet, passende Suchbegriffe, ausschließende Begriffe und eine Messung der Anfragen. Wer sich die Zeit nimmt, die ersten Wochen genau zu beobachten, kommt gut zurecht. Wer das Konto nach dem Einrichten vergisst, zahlt häufig für unpassende Klicks."
+    },
+    {
+      "q": "Brauche ich für Google Ads eine eigene Website?",
+      "a": "Eine Zielseite ist praktisch Voraussetzung, denn die Anzeige muss irgendwohin führen. Am besten ist eine Seite, die genau das beworbene Angebot zeigt, mit Telefonnummer, kurzem Formular und Vertrauensmerkmalen. Führt die Anzeige auf eine veraltete oder unübersichtliche Seite, gehen die bezahlten Besucher oft gleich wieder, und das Budget ist verloren."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/seo-oder-google-ads/",
+    "/leistungen/landingpage-erstellen/",
+    "/wissen/seo-grundlagen/",
+    "/wissen/conversion-verbessern/",
+    "/gratis-check/seo-check/"
+  ],
+  "checks": ["seo-check"]
+}

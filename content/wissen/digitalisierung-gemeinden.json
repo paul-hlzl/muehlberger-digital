@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/digitalisierung-gemeinden/",
+  "title": "Digitale Angebote für Gemeinden: Ideen & Praxis",
+  "description": "Digitale Angebote für Gemeinden: Website, Bürgerinfo, Chatbot, Formulare, Veranstaltungen und Barrierefreiheit – was kleine Gemeinden in Österreich umsetzen können.",
+  "h1": "Digitale Angebote für Gemeinden",
+  "kicker": "Ratgeber · Gemeinden",
+  "lead": "Die wichtigsten digitalen Angebote für Gemeinden sind eine aktuelle, barrierearme Website mit allen Bürgerinfos, digitale Formulare und Terminvereinbarung fürs Gemeindeamt, ein Veranstaltungs- und Infokanal sowie Antworten auf häufige Fragen rund um die Uhr. Kleine Gemeinden müssen dafür keine Großprojekte starten: Wer zuerst die häufigsten Anrufe im Gemeindeamt digital beantwortet, entlastet das Personal und erreicht auch Pendler, die tagsüber nicht vorbeikommen.",
+  "fakten": [
+    "Die Gemeindewebsite ist die zentrale Anlaufstelle, sie muss aktuell und am Handy gut lesbar sein",
+    "Für öffentliche Stellen gelten Vorgaben zur digitalen Barrierefreiheit",
+    "Häufige Anfragen zu Müll, Öffnungszeiten oder Formularen lassen sich digital beantworten",
+    "Pendler und Zugezogene informieren sich fast nur online",
+    "Bei Auftragsvergaben gelten für Gemeinden die Regeln des Vergaberechts"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Bürgerinnen und Bürger online erwarten",
+      "html": "<p>Wer heute etwas von der Gemeinde wissen will, schaut zuerst am Handy nach. Typische Fragen sind immer dieselben: Wann ist die nächste Sperrmüllsammlung? Wie lange hat das Gemeindeamt offen? Welches Formular brauche ich für die Hundeanmeldung? Gibt es noch Plätze im Kindergarten?</p><p>Wenn diese Antworten online schnell zu finden sind, läutet das Telefon im Amt seltener. Gerade in Landgemeinden, in denen viele Menschen auspendeln, ist das ein echter Dienst: Sie können sich abends informieren, wenn das Amt geschlossen ist. Für Zugezogene ist die Website oft der erste Kontakt mit der neuen Heimat.</p>"
+    },
+    {
+      "h2": "Die Gemeindewebsite als Fundament",
+      "html": "<p>Eine gute Gemeindewebsite ist weniger eine Visitenkarte als ein Nachschlagewerk. Wichtiger als ein aufwendiges Design sind Aktualität, klare Struktur und gute Lesbarkeit am Handy.</p><ul><li><strong>Bürgerservice:</strong> Öffnungszeiten, Ansprechpersonen, Zuständigkeiten, Formulare zum Download oder online</li><li><strong>Amtstafel</strong> mit Kundmachungen, gut auffindbar</li><li><strong>Abfall und Umwelt:</strong> Abfuhrkalender, Altstoffsammelzentrum, Sperrmülltermine</li><li><strong>Familie und Bildung:</strong> Kindergarten, Schule, Nachmittagsbetreuung</li><li><strong>Wirtschaft:</strong> Betriebe im Ort, Bauland, Förderungen der Gemeinde</li><li><strong>Vereine und Veranstaltungen</strong> mit Kalender</li><li><strong>Aktuelles</strong> vom Gemeinderat und aus dem Ort</li></ul><p>Für öffentliche Stellen gelten Vorgaben zur digitalen Barrierefreiheit, auf Bundesebene im Web-Zugänglichkeits-Gesetz, für Länder und Gemeinden in entsprechenden Landesregelungen. Was das praktisch heißt, erklärt der Beitrag <a href=\"/wissen/barrierefreie-website/\">Barrierefreie Website</a>.</p>"
+    },
+    {
+      "h2": "Formulare, Termine und Anträge digital",
+      "html": "<p>Viele Wege ins Gemeindeamt lassen sich verkürzen. Nicht alles muss sofort digital sein, aber die häufigsten Anliegen lohnen sich:</p><ul><li><strong>Online-Formulare</strong> für Meldungen wie Straßenschäden, defekte Straßenbeleuchtung oder Anfragen an den Bauhof, mit Foto und Ort</li><li><strong>Terminvereinbarung</strong> für Bauverhandlungen, Beglaubigungen oder Sprechstunden des Bürgermeisters</li><li><strong>Raum- und Saalreservierung</strong> für Gemeindesaal oder Sportanlagen mit Kalender</li><li><strong>Hinweise auf staatliche E-Government-Dienste</strong> wie Ausweis- und Meldeangelegenheiten, die bereits digital möglich sind</li></ul><p>Ein Beispiel: Eine Gemeinde mit zwei Personen im Amt führt ein Meldeformular für den Bauhof ein. Statt Zetteln mit „Schlagloch irgendwo bei der Kapelle“ kommen Meldungen mit Foto und Kartenpunkt, der Bauhof plant seine Runde danach.</p>"
+    },
+    {
+      "h2": "Häufige Fragen automatisch beantworten",
+      "html": "<p>Ein großer Teil der Anrufe im Gemeindeamt dreht sich um Fragen, deren Antwort schon irgendwo auf der Website steht. Ein KI-Chatbot kann diese Antworten rund um die Uhr geben, wenn er sauber eingerichtet ist.</p><p>Wichtig für Gemeinden:</p><ul><li>Der Chatbot antwortet <strong>nur mit Inhalten der Gemeinde</strong>, nicht mit allgemeinem Internetwissen.</li><li>Bei Unsicherheit verweist er auf das Amt mit Telefonnummer und Öffnungszeiten.</li><li>Keine Rechtsauskünfte oder Bescheide, sondern Orientierung und Wegweiser.</li><li>Datenschutz und Speicherort sind geklärt.</li></ul><p><a href=\"https://pipebot.at/\">Pipebot</a> arbeitet genau so: Er antwortet nur mit den Inhalten des Kunden, im Design der Website, und verbindet bei Unsicherheit mit dem Team. Ob das für Ihre Gemeindeseite passt, zeigt der <a href=\"/gratis-check/chatbot-test/\">Gratis-Chatbot-Test</a>. Datenschutzfragen behandelt <a href=\"/wissen/chatbot-datenschutz/\">KI-Chatbot und Datenschutz</a>.</p>"
+    },
+    {
+      "h2": "Informieren und beteiligen",
+      "html": "<p>Die Gemeindezeitung bleibt wichtig, erscheint aber selten. Für aktuelle Infos wie Wasserrohrbruch, Straßensperre oder kurzfristige Veranstaltungsänderung braucht es schnellere Kanäle.</p><ul><li><strong>Newsletter</strong> mit Anmeldung auf der Website</li><li><strong>Social Media</strong> für Veranstaltungen und Neuigkeiten aus dem Ort</li><li><strong>Messenger-Kanal</strong> für dringende Mitteilungen</li><li><strong>Gemeinde-App</strong>, wenn viele Funktionen gebündelt werden sollen</li><li><strong>Online-Umfragen</strong> zu Projekten wie Spielplatz oder Ortskerngestaltung</li></ul><p>Für Ausschüsse und Arbeitsgruppen können KI-Protokolle die Schriftführung erleichtern. Dabei gilt: Alle Teilnehmenden müssen informiert sein, Hinweise dazu im Beitrag <a href=\"/wissen/gespraechsaufzeichnung/\">Gespräche aufzeichnen</a>.</p>"
+    },
+    {
+      "h2": "So gehen kleine Gemeinden das Thema an",
+      "html": "<ol><li><strong>Anrufe zählen:</strong> Eine Woche lang notieren, welche Fragen im Amt ankommen.</li><li><strong>Website prüfen:</strong> Sind die Antworten online zu finden, aktuell und am Handy lesbar?</li><li><strong>Ein Projekt wählen:</strong> etwa Abfallkalender, Meldeformular oder Chatbot.</li><li><strong>Vergabe beachten:</strong> Für Aufträge der Gemeinde gelten die Regeln des Vergaberechts, Angebote vergleichbar einholen.</li><li><strong>Personal einbinden:</strong> Wer im Amt sitzt, weiß, was wirklich gebraucht wird, und muss es später pflegen.</li><li><strong>Bekannt machen:</strong> in der Gemeindezeitung, auf der Amtstafel, bei Veranstaltungen.</li></ol><p>Wir unterstützen Gemeinden in Niederösterreich und ganz Österreich, persönlich vor allem im Waldviertel. Mehr dazu auf der Seite <a href=\"/branchen/gemeinden/\">Gemeinden</a> und im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welche digitalen Angebote sollte eine kleine Gemeinde haben?",
+      "a": "Grundlage ist eine aktuelle, handytaugliche und barrierearme Website mit Bürgerservice, Amtstafel, Abfallkalender, Veranstaltungen und Kontakten. Darauf aufbauend lohnen sich Online-Formulare für häufige Meldungen, eine Terminvereinbarung fürs Amt und ein schneller Infokanal wie Newsletter oder Messenger. Ein Chatbot kann zusätzlich häufige Fragen außerhalb der Öffnungszeiten beantworten."
+    },
+    {
+      "q": "Muss eine Gemeindewebsite barrierefrei sein?",
+      "a": "Für öffentliche Stellen gelten in Österreich Vorgaben zur digitalen Barrierefreiheit, auf Bundesebene im Web-Zugänglichkeits-Gesetz und für Länder und Gemeinden in entsprechenden Landesregelungen. Dazu gehören etwa gut lesbare Kontraste, Alternativtexte für Bilder und Bedienbarkeit per Tastatur. Welche Pflichten konkret gelten, klären Gemeinden am besten mit dem Land oder dem Gemeindebund."
+    },
+    {
+      "q": "Darf eine Gemeinde einen KI-Chatbot auf ihrer Website einsetzen?",
+      "a": "Ja, wenn er sorgfältig eingerichtet ist. Der Chatbot sollte nur mit den Inhalten der Gemeinde antworten, keine Rechtsauskünfte geben und bei Unsicherheit an das Amt verweisen. Datenschutz, Speicherort der Daten und ein Hinweis für Nutzer müssen geklärt sein. Im Einzelfall helfen die Datenschutzbehörde und die zuständigen Stellen des Landes bei der Einordnung."
+    },
+    {
+      "q": "Wie viel Aufwand macht die Pflege einer Gemeindewebsite?",
+      "a": "Das hängt davon ab, wie viel aktuell gehalten werden muss. Kundmachungen, Veranstaltungen und Neuigkeiten brauchen regelmäßige Pflege, Grundinformationen wie Zuständigkeiten nur gelegentliche Kontrolle. Ein einfaches Redaktionssystem, klare Verantwortlichkeiten im Amt und Vorlagen halten den Aufwand gering. Wartung und Sicherheitsupdates können an einen Dienstleister ausgelagert werden."
+    }
+  ],
+  "verwandt": ["/branchen/gemeinden/", "/wissen/barrierefreie-website/", "/wissen/chatbot-datenschutz/", "/leistungen/ki-chatbot/", "/wissen/digitalisierung-vereine/"],
+  "checks": ["chatbot-test", "website-entwurf"]
+}

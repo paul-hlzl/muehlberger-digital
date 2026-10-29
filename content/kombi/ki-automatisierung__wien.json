@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/wien/",
+  "title": "KI-Automatisierung in Wien für EPU und kleine Teams",
+  "description": "Prozessautomatisierung mit KI in Wien: vom Video-Call zum Angebot, Postfach vorsortieren, Anfragen schneller beantworten. Für EPU, Agenturen und Beratung.",
+  "h1": "KI & Prozessautomatisierung in Wien",
+  "kicker": "KI-Automatisierung · Wien",
+  "lead": "In Wien gibt es besonders viele Ein-Personen-Unternehmen und kleine Teams in Beratung, Kreativwirtschaft und Dienstleistung, deren Tage aus Calls, E-Mails und Angeboten bestehen. KI-Automatisierung verbindet diese Schritte: Aus dem Gespräch wird ein Protokoll, aus dem Protokoll ein Angebotsentwurf, und das Postfach ist vorsortiert.",
+  "fakten": [
+    "Vom Video-Call zum Protokoll mit noteit, ohne Bot im Call",
+    "Aus Protokoll und Vorlage entsteht ein Angebotsentwurf",
+    "Zusammenarbeit meist per Video-Call, persönlich nach Absprache",
+    "noteit Pro 14 €/Monat, individuelle Automatisierung nach Angebot"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Kleinstunternehmen, volle Kalender",
+      "html": "<p>Wien ist der größte Wirtschaftsraum Österreichs, mit einer sehr großen Zahl an Ein-Personen-Unternehmen (EPU) und kleinen Teams: Beraterinnen, Designer, Trainer, IT-Freelancer, Agenturen. Die Konkurrenz ist groß, und wer schnell und sauber reagiert, hebt sich ab. Gleichzeitig fehlt in kleinen Einheiten jemand, der sich ums Büro kümmert. Mehr zur Arbeit in der Stadt steht auf der Seite <a href=\"/regionen/wien/\">Wien</a>.</p>"
+    },
+    {
+      "h2": "Nach dem Call ist vor dem Angebot",
+      "html": "<p>Ein typischer Ablauf: Erstgespräch per Teams oder Zoom, danach Notizen ordnen, ein Angebot schreiben, eine Zusammenfassung schicken. Mit Automatisierung wird daraus eine Kette:</p><ol><li><a href=\"/produkte/noteit/\">noteit</a> erstellt etwa zwei Minuten nach dem Call ein Protokoll, gespeichert in Frankfurt.</li><li>Die KI erkennt darin Anforderungen, Budgetrahmen und Termine.</li><li>Ein Angebotsentwurf entsteht aus Ihrer Vorlage und Ihren Preisen.</li><li>Die Zusammenfassung für den Kunden liegt als Mail-Entwurf bereit.</li></ol><p>Warum das Protokoll per KI oft besser funktioniert als von Hand, zeigt der Vergleich <a href=\"/vergleiche/protokoll-manuell-oder-ki/\">Protokoll manuell oder mit KI</a>.</p>"
+    },
+    {
+      "h2": "Postfach und Anfragen vorsortieren",
+      "html": "<p>Neuanfragen, Rechnungen, Newsletter, Projektmails: Die KI sortiert, fasst lange Threads zusammen und bereitet Antworten für Standardfälle vor. Wichtiges landet oben, Werbung unten. Tipps für den Einstieg liefert der Ratgeber <a href=\"/wissen/e-mails-sortieren/\">E-Mails sortieren</a>, die Grundlagen stehen unter <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>.</p>"
+    },
+    {
+      "h2": "Zusammenarbeit per Video-Call",
+      "html": "<p>Mühlberger Digital hat seinen persönlichen Schwerpunkt im Waldviertel und in Niederösterreich. Mit Wiener Betrieben läuft die Zusammenarbeit daher meist per Video-Call, was für Automatisierungsprojekte gut funktioniert, weil ohnehin am Bildschirm gezeigt wird. Ein persönliches Treffen ist nach Absprache möglich. Die technische Umsetzung übernimmt Pipeline AI Solutions.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt jemand persönlich nach Wien?",
+      "a": "Nach Absprache ja, in der Regel findet die Zusammenarbeit mit Wiener Betrieben aber per Video-Call statt. Das kostenlose Erstgespräch dauert etwa 30 Minuten, Termine gibt es Montag bis Freitag zwischen 18:00 und 21:30 Uhr. Gerade bei Automatisierungen ist der Bildschirm ohnehin der beste Ort, um Lösungen mit Ihren eigenen Daten zu zeigen."
+    },
+    {
+      "q": "Welcher noteit-Tarif passt für Einzelunternehmer?",
+      "a": "Zum Ausprobieren reicht Starter um 0 € mit drei Stunden pro Monat. Wer mehrere Kundengespräche pro Woche führt, braucht meist Pro um 14 € im Monat. Team um 24 € pro Person und Monat ist für mehrere Personen mit gemeinsamen Protokollen gedacht. Alle Tarife können sieben Tage gratis getestet werden."
+    },
+    {
+      "q": "Kann ich Automatisierungen später selbst anpassen?",
+      "a": "Kleine Anpassungen wie Textvorlagen, Preise oder Regeln für das Sortieren sollten Sie selbst ändern können, darauf wird bei der Einrichtung geachtet. Größere Änderungen am Ablauf, etwa neue angebundene Programme, übernimmt Pipeline AI Solutions. Was genau Sie selbst ändern können, wird im Angebot festgehalten, damit es später keine Überraschungen gibt."
+    },
+    {
+      "q": "Lohnt sich das für ein EPU mit wenigen Kunden im Monat?",
+      "a": "Für einzelne Bausteine oft ja, für ein großes Projekt eher nicht. Ein Gesprächsprotokoll mit noteit spart schon bei wenigen Calls pro Woche Zeit und kostet im Starter-Tarif nichts. Eine individuelle Kette vom Call bis zum Angebot rechnet sich erst, wenn Sie regelmäßig ähnliche Angebote schreiben. Das klären wir im Erstgespräch, bevor Kosten entstehen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/wien/",
+    "/produkte/noteit/",
+    "/vergleiche/protokoll-manuell-oder-ki/",
+    "/wissen/ki-im-buero/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

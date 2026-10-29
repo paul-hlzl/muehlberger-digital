@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/weinviertel/",
+  "title": "KI-Chatbot für Winzer und Betriebe im Weinviertel",
+  "description": "Ab-Hof-Zeiten, Ausg'steckt-Termine, Verkostung: Wie ein KI-Chatbot Winzern und Heurigen im Weinviertel Kundenfragen beantwortet, ab 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website im Weinviertel",
+  "kicker": "KI-Chatbot · Weinviertel",
+  "lead": "Im Weinviertel fragen Kunden Winzer und Heurige vor allem nach Zeiten und Terminen: Wann ist ausg'steckt, wann kann ich ab Hof kaufen, gibt es eine Verkostung? Ein KI-Chatbot wie Pipebot beantwortet das rund um die Uhr mit den Angaben auf Ihrer Website. Er kostet 19 € im Monat, die ersten 30 Tage sind gratis.",
+  "fakten": [
+    "Eines der bekanntesten Weinbaugebiete Österreichs, geprägt von Kellergassen",
+    "Viele Fragen drehen sich um wechselnde Öffnungs- und Ausg'steckt-Zeiten",
+    "Der Bot ist so aktuell wie Ihr Kalender auf der Website",
+    "19 € pro Monat, monatlich kündbar"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wein, Kellergassen und wechselnde Termine",
+      "html": "<p>Das <a href=\"/regionen/weinviertel/\">Weinviertel</a> ist eines der bekanntesten Weinbaugebiete Österreichs, mit Kellergassen in vielen Orten. Für Winzer und Heurige bedeutet das: Die Kundschaft fragt weniger nach dem Wein selbst, sondern nach dem Wann und Wie.</p><p>Heurige haben oft nur zu bestimmten Zeiten ausg'steckt, der Ab-Hof-Verkauf hängt an der Arbeit im Weingarten. Wer keine klare Antwort findet, fährt woanders hin.</p>"
+    },
+    {
+      "h2": "Ein Weingut, das nebenbei verkauft",
+      "html": "<p>Ein Familienweingut, das ab Hof verkauft und ein paar Wochen im Jahr ausg'steckt hat, hört immer wieder:</p><ul><li>Wann haben Sie das nächste Mal ausg'steckt?</li><li>Kann ich auch außerhalb der Heurigenzeit Wein kaufen, und muss ich mich anmelden?</li><li>Gibt es Verkostungen für Gruppen?</li><li>Kann ich mit Karte zahlen?</li></ul><p>Weil die Familie in der Lese und im Keller beschäftigt ist, bleiben solche Anrufe oft unbeantwortet. Pipebot springt ein, solange die Antworten auf der Website stehen. Mehr dazu unter <a href=\"/branchen/weingut/\">Weingüter</a> und <a href=\"/branchen/heuriger/\">Heurige</a>.</p>"
+    },
+    {
+      "h2": "Veranstaltungen: so aktuell wie Ihr Kalender",
+      "html": "<p>Kellergassenfeste, Verkostungen, Tage der offenen Kellertür: Der Bot kennt nur die Termine, die auf Ihrer Website stehen. Ein eigener Bereich mit Terminen, den Sie bei jeder Änderung anpassen, macht den Chatbot automatisch verlässlich.</p><p>Wie Sie Veranstaltungen online gut bekannt machen, beschreibt der Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen bewerben</a>.</p>"
+    },
+    {
+      "h2": "Auch für Betriebe ohne Wein",
+      "html": "<p>Im südlichen Weinviertel pendeln viele Menschen nach Wien, im Norden ist die Region ländlicher. Handwerk, Handel und Dienstleister haben dieselbe Herausforderung wie die Winzer: Fragen kommen dann, wenn niemand Zeit hat. Für sie funktioniert der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> genauso.</p><p>Probieren Sie im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> aus, wie der Bot Fragen zu Ihren Heurigenzeiten beantwortet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot Wein verkaufen oder Bestellungen annehmen?",
+      "a": "Nein, Pipebot beantwortet Fragen, er ist kein Shop und nimmt keine Bestellungen an. Er kann aber erklären, wie man bei Ihnen bestellt, ob Sie versenden und welche Sorten es gibt, sofern das auf Ihrer Website steht. Wer regelmäßig Wein online verkaufen möchte, braucht einen eigenen Onlineshop. Der Bot kann Kunden dann direkt dorthin verweisen."
+    },
+    {
+      "q": "Wie trage ich die Ausg'steckt-Termine ein, damit der Bot sie kennt?",
+      "a": "Schreiben Sie die Termine einfach auf Ihre Website, am besten an eine feste, gut sichtbare Stelle mit Datum von und bis. Pipebot greift auf diese Inhalte zurück. Ändert sich ein Termin, passen Sie ihn dort an. Vergangene Termine sollten Sie entfernen, damit der Bot nicht versehentlich alte Daten nennt. Ein eigener Terminbereich hilft auch bei Google."
+    },
+    {
+      "q": "Lohnt sich das für einen Heurigen, der nur wenige Wochen offen hat?",
+      "a": "Oft schon, denn gerade bei wenigen Öffnungswochen kommen die Fragen gebündelt. Wer dann im Betrieb steht, hat keine Zeit fürs Telefon. Pipebot ist monatlich kündbar, Sie können ihn also auch nur rund um die Heurigenzeiten nutzen. Hat Ihr Heuriger dagegen fast nur Stammgäste, die die Termine ohnehin kennen, reicht oft eine gepflegte Website."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/weinviertel/",
+    "/branchen/weingut/",
+    "/branchen/heuriger/",
+    "/wissen/veranstaltungen-bewerben/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

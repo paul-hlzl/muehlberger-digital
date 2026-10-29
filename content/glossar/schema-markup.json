@@ -1,0 +1,43 @@
+{
+  "pfad": "/glossar/schema-markup/",
+  "title": "Schema-Markup: Strukturierte Daten erklärt",
+  "description": "Schema-Markup einfach erklärt: Wie strukturierte Daten Google und KI-Suchen helfen, Öffnungszeiten, Adresse und Leistungen Ihres Betriebs zu verstehen.",
+  "h1": "Schema-Markup – strukturierte Daten",
+  "kicker": "Glossar · SEO-Technik",
+  "lead": "Schema-Markup ist ein standardisierter Code, mit dem Sie Inhalte Ihrer Website für Maschinen eindeutig beschreiben, etwa „das ist eine Adresse“ oder „das sind die Öffnungszeiten“. Grundlage ist das Vokabular von schema.org, meist eingebunden im Format JSON-LD.",
+  "fakten": [
+    "Für Besucher unsichtbar, für Suchmaschinen und KI lesbar",
+    "Typische Typen: LocalBusiness, Product, Event, FAQPage",
+    "Kann zu erweiterten Suchergebnissen (Rich Snippets) führen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Beispiel aus dem Betrieb",
+      "html": "<p>Ein Friseursalon nennt auf seiner Website Adresse, Telefonnummer und Öffnungszeiten als normalen Text. Menschen verstehen das sofort, für Maschinen ist es nur eine Zeichenfolge. Mit Schema-Markup vom Typ „HairSalon“, einer Unterart von LocalBusiness, wird im Quelltext festgehalten: Das ist der Name, das die Straße, das die Postleitzahl, und dienstags bis freitags ist von 8 bis 18 Uhr geöffnet.</p><p>Suchmaschinen und KI-Systeme können diese Angaben dann zuverlässig auslesen und mit anderen Quellen abgleichen, etwa dem <a href=\"/glossar/google-unternehmensprofil/\">Google-Unternehmensprofil</a>.</p>"
+    },
+    {
+      "h2": "Warum strukturierte Daten für KMU sinnvoll sind",
+      "html": "<p>Strukturierte Daten verringern Missverständnisse über Ihren Betrieb. Sie sind eine gute Grundlage für <a href=\"/glossar/local-seo/\">Local SEO</a> und für <a href=\"/glossar/geo/\">GEO</a>, weil KI-Antworten auf eindeutige Fakten angewiesen sind. Unter Umständen zeigt Google zusätzlich ein <a href=\"/glossar/rich-snippet/\">Rich Snippet</a> an.</p><p>Wichtig: Die Angaben im Code müssen mit dem sichtbaren Inhalt übereinstimmen. Wie Sie vorgehen, zeigt der Ratgeber <a href=\"/wissen/strukturierte-daten/\">strukturierte Daten</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich Programmierkenntnisse für Schema-Markup?",
+      "a": "Für einfache Fälle nicht unbedingt. Viele Systeme und Erweiterungen erzeugen Grundangaben wie Firmenname und Adresse automatisch. Für saubere, vollständige Daten, etwa mit Öffnungszeiten, Leistungen oder Veranstaltungen, ist etwas technisches Wissen hilfreich. Prüfen lässt sich das Ergebnis mit dem kostenlosen Test für Rich-Suchergebnisse von Google oder dem Validator von schema.org."
+    },
+    {
+      "q": "Verbessert Schema-Markup automatisch mein Ranking?",
+      "a": "Nein, strukturierte Daten sind kein direkter Rankingfaktor. Sie helfen Suchmaschinen, Ihre Inhalte richtig einzuordnen, und können die Darstellung in den Ergebnissen verbessern. Das kann mehr Klicks bringen. Ein Garant für bessere Platzierungen sind sie aber nicht. Gute Inhalte und eine solide Website bleiben die Grundlage, das Markup ist eine sinnvolle Ergänzung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/strukturierte-daten/",
+    "/glossar/rich-snippet/",
+    "/glossar/local-seo/",
+    "/wissen/faq-fuer-ki-suchen/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

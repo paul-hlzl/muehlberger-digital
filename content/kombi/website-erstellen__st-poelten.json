@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/website-erstellen/st-poelten/",
+  "title": "Website erstellen lassen in St. Pölten für Gründer",
+  "description": "Website erstellen lassen in St. Pölten: für Gründerinnen und neue Betriebe in der Landeshauptstadt, mit Impressum, Datenschutz und klarem Preis.",
+  "h1": "Website erstellen lassen in St. Pölten",
+  "kicker": "Website · St. Pölten und Bezirk St. Pölten-Land",
+  "lead": "In der Landeshauptstadt St. Pölten und im umliegenden Bezirk gründen laufend Menschen neue Betriebe, vom Beratungsunternehmen bis zum Nachhilfeinstitut. Für sie ist die erste Website oft ein Schritt ins Unbekannte. Mühlberger Digital vermittelt Starter-Websites ab 2.500 € mit allem, was rechtlich dazugehört, und erklärt dabei jeden Schritt.",
+  "fakten": [
+    "Landeshauptstadt mit Behörden, Fachhochschule und vielen Dienstleistern",
+    "Für Gründer: Pflichtangaben wie Impressum und Datenschutz sind dabei",
+    "Briefing vorab spart Zeit und Geld",
+    "Kostenloses Erstgespräch, 30 Minuten, abends möglich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die erste Website: was Gründer wissen sollten",
+      "html": "<p>Wer gerade ein Gewerbe angemeldet hat, hat viele Baustellen gleichzeitig. Die Website soll schnell stehen, nicht zu viel kosten und trotzdem professionell wirken. Das ist machbar, wenn man sich am Anfang auf das Wesentliche konzentriert und nicht alles auf einmal will.</p><p>Wichtig: Eine Website ist kein Ersatz für ein klares Angebot. Wer noch nicht weiß, wen er ansprechen will, sollte das vor dem Start klären. Genau dabei hilft das Erstgespräch.</p>"
+    },
+    {
+      "h2": "Vorbereitung in fünf Punkten",
+      "html": "<ol><li>Wer ist meine wichtigste Zielgruppe?</li><li>Welche zwei, drei Leistungen sollen im Vordergrund stehen?</li><li>Was soll ein Besucher tun: anrufen, schreiben, Termin buchen?</li><li>Welche Fotos und Texte habe ich schon, welche fehlen?</li><li>Wer kümmert sich nach dem Start um Änderungen?</li></ol><p>Eine ausführliche Vorlage bietet der Ratgeber <a href=\"/wissen/website-briefing/\">Website-Briefing</a>.</p>"
+    },
+    {
+      "h2": "Pflichtangaben von Anfang an richtig",
+      "html": "<p>Impressum und Datenschutzerklärung gehören zu jeder geschäftlichen Website. Bei der Starter-Website sind beide enthalten, abgestimmt auf die übliche Ausstattung. Was ein Impressum enthalten muss, erklärt der Ratgeber <a href=\"/wissen/impressum-pflicht/\">Impressum-Pflicht</a>. Für Fragen rund um die Gründung selbst sind das <a href=\"https://www.usp.gv.at/\">Unternehmensserviceportal</a> und die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> gute Anlaufstellen. Im Einzelfall entscheidet aber Ihre rechtliche Beratung.</p>"
+    },
+    {
+      "h2": "Typische Gründungen und ihr Auftritt",
+      "html": "<ul><li>Eine <strong>Unternehmensberaterin</strong> braucht Schwerpunkte, Vorgehen und eine Seite über sich. Mehr bei <a href=\"/branchen/unternehmensberater/\">Unternehmensberatern</a>.</li><li>Ein <strong>Nachhilfeinstitut</strong> braucht Fächer, Preise, Zeiten und eine einfache Anmeldung für Eltern.</li><li>Ein <strong>mobiler Handwerksdienst</strong> braucht eine kurze Seite mit Einsatzgebiet und Telefonnummer, die vom Handy aus funktioniert.</li></ul><p>Mehr zur Leistung unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, regionale Infos auf <a href=\"/regionen/st-poelten/\">St. Pölten</a> und <a href=\"/regionen/bezirk-st-poelten-land/\">Bezirk St. Pölten-Land</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll ich vor der Gründung oder danach eine Website machen lassen?",
+      "a": "Die Domain sollten Sie früh sichern, sobald der Name feststeht. Die Website selbst kann parallel zur Gründung entstehen, damit sie zum Start bereit ist. Das Impressum braucht allerdings die endgültigen Angaben, etwa Firmenwortlaut und Gewerbe. Deshalb geht sie meist erst online, wenn die Anmeldung erledigt ist."
+    },
+    {
+      "q": "Was kostet mich die Website nach dem Start laufend?",
+      "a": "Bei der Starter-Website ist das Hosting enthalten. Darüber hinaus fallen Kosten an, wenn Sie Änderungen beauftragen, weitere Seiten möchten oder Zusatzprodukte wie einen Chatbot nutzen. Wie sich laufende Kosten generell zusammensetzen, erklärt der Ratgeber zu den laufenden Website-Kosten. Das schriftliche Angebot listet alles vorab auf."
+    },
+    {
+      "q": "Kann ich meine Website später selbst erweitern?",
+      "a": "Ja, in vereinbartem Umfang. Bei der Umsetzung wird festgelegt, welche Bereiche Sie selbst ändern können, etwa Texte, Bilder oder Termine. Größere Erweiterungen wie zusätzliche Seiten oder neue Funktionen übernimmt Pipeline AI Solutions zu einem vorher genannten Preis. So bleibt die Seite technisch sauber, auch wenn Ihr Betrieb wächst."
+    },
+    {
+      "q": "Brauche ich als Gründer gleich eine E-Mail-Adresse mit eigener Domain?",
+      "a": "Empfehlenswert ist es. Eine Adresse wie office@ihrbetrieb.at wirkt bei Angeboten und Rechnungen deutlich seriöser als eine kostenlose Freemail-Adresse. Außerdem bleibt sie Ihnen erhalten, auch wenn Sie später den E-Mail-Anbieter wechseln. Domain und E-Mail lassen sich gemeinsam mit der Website einrichten, sodass zum Start alles zusammenpasst."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/st-poelten/",
+    "/regionen/bezirk-st-poelten-land/",
+    "/wissen/website-briefing/",
+    "/wissen/impressum-pflicht/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

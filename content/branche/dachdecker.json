@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/dachdecker/",
+  "title": "Digitale Lösungen für Dachdecker & Spengler nach Unwetter",
+  "description": "Sturmschaden, Hagel, verstopfte Dachrinne: Wie Dachdecker und Spengler Anfragewellen nach Unwettern bewältigen und Schäden sauber dokumentieren.",
+  "h1": "Digitale Lösungen für Dachdecker & Spengler",
+  "kicker": "Branche · Dach, Spenglerei",
+  "lead": "Dachdecker und Spengler erleben Nachfrage in Wellen: Nach einem Sturm oder Hagel läutet das Telefon ununterbrochen, dazwischen ist es planbarer. Digitale Helfer lohnen sich hier vor allem für zwei Dinge: Anfragen nach Unwettern geordnet aufnehmen und Schäden so dokumentieren, dass Kunden und Versicherungen damit arbeiten können.",
+  "fakten": [
+    "Nach Unwettern Anrufe automatisch aufnehmen und nach Dringlichkeit ordnen",
+    "Schadensfotos vom Kunden vorab – ohne dass jemand selbst aufs Dach steigt",
+    "Saisonale Themen wie Dachrinnenreinigung im Herbst gezielt anbieten",
+    "KI-Telefonassistent und WhatsApp-Bot: Preis auf Anfrage"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Nach dem Sturm: hundert Anrufe, ein Team",
+      "html": "<p>Wenn in der Nacht ein Gewitter mit Sturmböen durchzieht, rufen am nächsten Morgen viele Hausbesitzer gleichzeitig an. Ziegel verrutscht, Blech aufgebogen, Wasser im Dachboden. Wer da allein im Büro sitzt, schafft nicht einmal das Abheben, geschweige denn eine sinnvolle Reihenfolge.</p><p>Ein <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistent</a> nimmt in solchen Spitzen jeden Anruf an, fragt Adresse, Art des Schadens und ob Wasser eindringt, und legt eine geordnete Liste an. Akute Fälle mit offenem Dach landen oben, kosmetische Schäden weiter unten. So entscheiden Sie selbst, wohin die Partie zuerst fährt, statt nach der Reihenfolge der Anrufe.</p>"
+    },
+    {
+      "h2": "Schäden dokumentieren, bevor jemand aufs Dach muss",
+      "html": "<p>Kunden sehen ihr Dach meistens nur von unten. Trotzdem lassen sich mit Fotos aus dem Garten, vom Dachboden oder vom Nachbargrundstück viele Schäden vorab einschätzen. Ein <a href=\"/leistungen/whatsapp-bot/\">WhatsApp-Bot</a> kann gezielt darum bitten:</p><ul><li>ein Foto der betroffenen Dachfläche von unten,</li><li>ein Foto vom Dachboden, falls Wasser eingedrungen ist,</li><li>Datum und Uhrzeit des Unwetters, so gut der Kunde es weiß.</li></ul><p>Solche Unterlagen helfen auch dem Kunden gegenüber seiner Versicherung. Was eine Versicherung genau verlangt, ist von Fall zu Fall verschieden; darauf sollte die Website nur allgemein hinweisen und keine Zusagen machen.</p>"
+    },
+    {
+      "h2": "Die ruhige Zeit nützen: Wartung und Dachrinne",
+      "html": "<p>Zwischen den Wellen liegt planbare Arbeit, die viele Kunden vergessen. Laub in der Dachrinne im Herbst, Kontrolle der Schneefänger vor dem Winter, Blechanschlüsse am Kamin, Flachdachabdichtung bei älteren Garagen. Eine eigene Seite „Dachcheck und Wartung“ mit einfacher Terminanfrage bringt Aufträge in die ruhigeren Wochen.</p><p>Bestandskunden lassen sich zusätzlich per E-Mail an Wartung erinnern. Das funktioniert, wenn Sie die Kontakte geordnet haben; wie man das ohne großes Programm schafft, beschreibt der Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a>.</p>"
+    },
+    {
+      "h2": "Online gefunden werden – mit Einsatzgebiet",
+      "html": "<p>Wer nach einem Hagel „Dachdecker“ sucht, will jemanden aus der Umgebung. Deshalb sollte Ihre Website klar sagen, in welchen Bezirken und Gemeinden Sie arbeiten, und das Google-Unternehmensprofil muss aktuell sein. Wie das funktioniert, beschreibt der Ratgeber zu <a href=\"/wissen/lokales-seo/\">lokalem SEO</a>.</p><p>Ein Thema für Spengler im Besonderen: Viele Leistungen wie Kaminverblechung, Gaupen oder Stehfalzdach haben eigene Suchbegriffe. Eine kurze Unterseite pro Bereich mit Fotos eigener Arbeiten hilft hier mehr als eine lange Liste auf der Startseite.</p>"
+    },
+    {
+      "h2": "Dachsanierung: Die große Entscheidung erklären",
+      "html": "<p>Neben Reparaturen gibt es die großen Aufträge: komplette Neueindeckung, Dämmung, Tausch alter Faserzementplatten gegen Ziegel oder Blech. Hausbesitzer überlegen so eine Entscheidung oft monatelang und lesen dazu viel im Internet. Wer auf seiner Website erklärt, wie eine Sanierung abläuft, wie lange das Haus offen ist und was bei schlechtem Wetter passiert, wird in dieser Phase gefunden.</p><p>Zeigen Sie dazu Vorher-Nachher-Bilder eigener Dächer aus der Region und beschreiben Sie, welche Materialien Sie wofür empfehlen. Ein ehrlicher Absatz, wann eine Reparatur statt einer Sanierung reicht, schafft mehr Vertrauen als jede Werbung.</p>"
+    },
+    {
+      "h2": "Was Sie nicht brauchen – und wie Sie starten",
+      "html": "<p>Wenn Ihr Betrieb vor allem für Baumeister und Bauträger im Neubau arbeitet, ist eine Unwetter-Lösung überflüssig. Dann reicht eine solide Website mit Referenzen. Der Telefonassistent lohnt sich dort, wo Privatkunden mit Reparaturen den Großteil ausmachen.</p><p>Einen ersten Eindruck, wie gut Ihr Betrieb online gefunden wird, gibt der <a href=\"https://www.pipeline-solutions.at/seo-check/\">kostenlose SEO-Test von Pipeline</a>. Danach geht es im <a href=\"/erstgespraech/\">Erstgespräch</a> darum, welche Lösung zu Ihrer Auftragslage passt, mit klarem Preis vorab.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was passiert, wenn nach einem Unwetter mehr Anrufe kommen, als wir schaffen?",
+      "a": "Ein KI-Telefonassistent nimmt jeden Anruf an, auch wenn mehrere gleichzeitig eingehen. Er fragt die wichtigsten Punkte ab, etwa Adresse, Art des Schadens und ob Wasser eindringt, und sagt dem Anrufer ehrlich, dass sich der Betrieb meldet. Sie bekommen eine geordnete Liste und entscheiden über die Reihenfolge. Was er sagen darf und was nicht, legen wir vorher gemeinsam fest."
+    },
+    {
+      "q": "Können Kunden Schäden selbst fotografieren, ohne aufs Dach zu steigen?",
+      "a": "Ja, und das sollten sie auch, denn auf ein beschädigtes Dach zu steigen ist gefährlich. Fotos vom Boden aus, aus einem Dachfenster oder vom Dachboden zeigen oft schon, ob Ziegel fehlen oder Wasser eindringt. Ein WhatsApp-Bot kann Kunden genau durch diese Fotos führen und ausdrücklich darauf hinweisen, nicht selbst aufs Dach zu gehen."
+    },
+    {
+      "q": "Helfen die Fotos auch bei der Versicherung?",
+      "a": "Fotos mit Datum und eine kurze Beschreibung des Schadens sind für Kunden eine gute Grundlage im Gespräch mit ihrer Versicherung. Welche Unterlagen eine Versicherung konkret verlangt, ist aber je nach Vertrag verschieden. Ihre Website sollte deshalb nur allgemein empfehlen, Schäden zu dokumentieren, und keine Zusagen zur Kostenübernahme machen. Im Zweifel klärt das der Kunde direkt mit seiner Versicherung."
+    },
+    {
+      "q": "Lohnt sich für einen kleinen Spenglerbetrieb überhaupt eine eigene Website?",
+      "a": "In den meisten Fällen ja, weil Kunden vor einem Auftrag am Dach sehen wollen, dass es den Betrieb wirklich gibt und wer dahintersteht. Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Hosting, Impressum und Datenschutz. Sie muss nicht groß sein, aber Einsatzgebiet, Leistungen, echte Fotos und Kontakt sollten stimmen."
+    }
+  ],
+  "verwandt": ["/leistungen/ki-telefonassistent/", "/leistungen/whatsapp-bot/", "/wissen/lokales-seo/", "/wissen/online-ruf/", "/branchen/zimmerei/"],
+  "checks": ["seo-check", "chatbot-test"]
+}

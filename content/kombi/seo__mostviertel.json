@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/mostviertel/",
+  "title": "SEO im Mostviertel: Zulieferer, Produzenten, Gastgeber",
+  "description": "SEO für Betriebe im Mostviertel: wie Zulieferer Firmenkunden erreichen, Mostproduzenten ihre Herkunft nutzen und Gastgeber Gäste in der Region gewinnen.",
+  "h1": "Suchmaschinenoptimierung (SEO) im Mostviertel",
+  "kicker": "SEO · Mostviertel",
+  "lead": "Im Mostviertel arbeiten viele Betriebe für andere Betriebe: Zulieferer, Metallverarbeiter, Transporteure. Daneben gibt es Mostproduzenten, Hofläden und Gastgeber. SEO im Mostviertel heißt deshalb oft, nicht Privatkunden in der Nähe anzusprechen, sondern Einkäufer, die nach Fachbegriffen suchen, und gleichzeitig die Herkunft der Region sichtbar zu machen.",
+  "fakten": [
+    "Das Mostviertel im Südwesten Niederösterreichs ist für Most und Birnbäume bekannt",
+    "Viele Betriebe sind Zulieferer und arbeiten für Firmenkunden",
+    "Firmenkunden suchen nach Verfahren und Fachbegriffen, nicht nach Ort",
+    "SEO und aktive Kundensuche ergänzen sich im B2B-Bereich"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Viele Mostviertler Betriebe verkaufen an andere Betriebe",
+      "html": "<p>Ein Zulieferer für Metallteile, ein Betrieb für Lohnfertigung oder ein Transportunternehmen hat selten Privatkunden. Die Anfragen kommen von Einkäufern, Technikern und Projektleitern, die oft gar nicht wissen, dass es den passenden Betrieb im Mostviertel gibt.</p><p>Diese Menschen suchen nicht nach „in der Nähe“, sondern nach konkreten Verfahren, Materialien und Leistungen. Wie man dafür eine <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> aufbaut, erklärt die Leistungsseite.</p>"
+    },
+    {
+      "h2": "Wie Einkäufer suchen",
+      "html": "<ul><li>Mit Fachbegriffen wie Verfahren, Werkstoff oder Norm</li><li>Mit Angaben zu Mengen, Toleranzen oder Lieferzeiten</li><li>Mit dem Ziel, einen verlässlichen Partner für länger zu finden</li></ul><p>Eine Website für Firmenkunden braucht deshalb eigene Seiten pro Leistung, Angaben zu Kapazitäten und Maschinen, Referenzbranchen ohne vertrauliche Details und eine feste Ansprechperson. Wie man Firmenkunden findet, erklärt der Ratgeber <a href=\"/wissen/b2b-kunden-finden/\">B2B-Kunden finden</a>.</p>"
+    },
+    {
+      "h2": "Most, Birne, Hofladen: Produkte mit Herkunft",
+      "html": "<p>Für Mostproduzenten und Hofläden ist die Herkunft ein starkes Argument. Wer Most, Säfte oder Edelbrände aus dem Mostviertel anbietet, sollte Sorten, Herstellung und Verkaufszeiten auf eigenen Seiten zeigen. Auch ein Mostheuriger profitiert von aktuellen Öffnungszeiten im Google-Profil. Zur Birnbaumblüte im Frühling suchen außerdem viele Ausflügler nach Zielen in der Region, wer dann aktuelle Informationen bietet, wird eher besucht. Ideen für landwirtschaftliche Betriebe auf der Branchenseite <a href=\"/branchen/landwirtschaft/\">Landwirtschaft</a>.</p>"
+    },
+    {
+      "h2": "SEO und aktive Kundensuche ergänzen sich",
+      "html": "<p>Bei Firmenkunden reicht es oft nicht, nur gefunden zu werden. Ergänzend kann es sinnvoll sein, passende Betriebe gezielt anzusprechen. <a href=\"https://sightup.at/\">SightUp</a> findet Firmen in der Nähe, bewertet sie und schreibt die erste Nachricht vor, verschickt aber nichts automatisch. Mehr dazu auf der Seite <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>.</p><p>Auch Einkäufer lassen sich Anbieter inzwischen von KI-Assistenten vorschlagen. Wie Ihr Betrieb dort genannt wird, beschreibt <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>. Mehr zur Region auf der Seite <a href=\"/regionen/mostviertel/\">Mostviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie funktioniert SEO für Zulieferer und Industriebetriebe?",
+      "a": "Statt auf lokale Suchen zielt SEO hier auf Fachbegriffe, die Einkäufer und Techniker verwenden. Jede Kernleistung braucht eine eigene Seite mit klarer Beschreibung, technischen Angaben und Ansprechperson. Referenzen nach Branche, ohne vertrauliche Details, schaffen Vertrauen. Die Zahl der Suchanfragen ist oft klein, dafür ist jede einzelne Anfrage meist sehr wertvoll."
+    },
+    {
+      "q": "Soll ich als Zulieferer überhaupt in Google Maps sichtbar sein?",
+      "a": "Ja, ein Google-Unternehmensprofil schadet nie und hilft, wenn jemand Ihren Firmennamen sucht oder sich vor einem Besuch orientiert. Für die Gewinnung neuer Firmenkunden ist es aber weniger entscheidend als bei Privatkunden. Wichtiger sind gute Leistungsseiten und Ihre Bekanntheit in der Branche, etwa durch Fachbeiträge, Messen und Verbände."
+    },
+    {
+      "q": "Wie kann ich die Herkunft Mostviertel online nutzen?",
+      "a": "Indem Sie sie bei Produkten nennen, für die sie zählt: Most, Säfte, Edelbrände oder andere regionale Lebensmittel. Erklären Sie, was Ihre Produkte aus der Region auszeichnet, etwa Sorten, Streuobstwiesen oder Handarbeit, sofern es zutrifft. Für Zulieferer ist die Herkunft eher ein Nebenthema, hier zählen Qualität, Verlässlichkeit und Nähe zu den Kunden."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/mostviertel/",
+    "/leistungen/neukundengewinnung-b2b/",
+    "/branchen/metallbau/",
+    "/leistungen/website-erstellen/mostviertel/"
+  ],
+  "checks": [
+    "seo-check",
+    "neukunden-finden"
+  ]
+}

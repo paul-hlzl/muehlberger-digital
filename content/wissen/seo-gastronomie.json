@@ -1,0 +1,79 @@
+{
+  "pfad": "/wissen/seo-gastronomie/",
+  "title": "SEO für Gastronomie und Tourismus: So geht es",
+  "description": "SEO für Gastronomie und Tourismus: wie Wirtshaus, Café, Heuriger oder Pension mit Speisekarte, Öffnungszeiten und Google-Profil besser gefunden werden.",
+  "h1": "SEO für Gastronomie und Tourismus",
+  "kicker": "Ratgeber · SEO",
+  "lead": "Gastronomie- und Tourismusbetriebe werden vor allem über das Google-Unternehmensprofil, aktuelle Öffnungszeiten, eine lesbare Speisekarte als Text und gute Bewertungen gefunden. Die eigene Website ergänzt das mit Stimmung, Fotos, Reservierung und den Fragen, die Gäste vor dem Besuch haben, auch auf Englisch, wenn viele internationale Gäste kommen.",
+  "fakten": [
+    "Viele Gäste entscheiden direkt im Google-Profil, ohne die Website zu öffnen",
+    "Falsche Öffnungszeiten kosten Vertrauen und führen zu schlechten Bewertungen",
+    "Speisekarte als Text statt nur als PDF oder Foto",
+    "Saisonzeiten, Ruhetage und Betriebsurlaub frühzeitig überall eintragen",
+    "Eigene Buchungswege sparen Vermittlungsgebühren von Plattformen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Gäste heute suchen",
+      "html": "<p>Gäste suchen spontan und oft unterwegs: „Wirtshaus offen Sonntag“, „Frühstück Krems“, „Heuriger ausg’steckt heute“. Die Entscheidung fällt häufig in Sekunden, anhand von Fotos, Sternen und der Frage, ob jetzt offen ist. Andere planen länger, etwa eine Hochzeit, eine Firmenfeier oder einen Urlaub, und vergleichen mehrere Betriebe in Ruhe.</p> <p>Für spontane Gäste ist das <strong>Google-Unternehmensprofil</strong> das Schaufenster. Für planende Gäste ist die <strong>Website</strong> der Ort, an dem sie Details, Preise, Räume und Kontaktmöglichkeiten finden. Beides sollte zusammenpassen.</p>"
+    },
+    {
+      "h2": "Das Google-Profil als Schaufenster",
+      "html": "<ul> <li><strong>Öffnungszeiten:</strong> regulär, an Feiertagen und in der Saison. Nichts ärgert Gäste mehr als eine verschlossene Tür.</li> <li><strong>Fotos:</strong> Gaststube, Garten, Speisen, Außenansicht. Lieber echte, helle Bilder als gestellte Werbefotos.</li> <li><strong>Speisekarte und Menülink:</strong> verlinkt auf die Website.</li> <li><strong>Eigenschaften:</strong> Terrasse, barrierefrei, Hunde willkommen, vegetarische Gerichte, Kartenzahlung.</li> <li><strong>Bewertungen beantworten:</strong> freundlich, auch auf Kritik. Wie das gelingt, steht unter <a href=\"/wissen/auf-bewertungen-antworten/\">Richtig auf Bewertungen antworten</a>.</li> </ul>"
+    },
+    {
+      "h2": "Speisekarte und Angebot als Text",
+      "html": "<p>Viele Betriebe laden ihre Speisekarte als PDF oder Foto hoch. Für Gäste am Handy ist das mühsam, und Suchmaschinen sowie KI-Suchen können den Inhalt schlechter auslesen. Eine Speisekarte als normaler Text auf der Website wird gefunden, wenn jemand nach „Wildgerichte“, „Mehlspeisen“ oder „glutenfrei“ sucht.</p> <p>Das muss nicht jede Woche komplett neu sein. Bewährt hat sich eine feste Karte als Text und ein kurzer, aktueller Bereich für Tagesgerichte oder saisonale Spezialitäten wie Spargel, Kürbis oder Ganslessen. Mehr dazu im Ratgeber <a href=\"/wissen/digitale-speisekarte/\">Die digitale Speisekarte</a>.</p>"
+    },
+    {
+      "h2": "Saison, Ruhetage und Veranstaltungen",
+      "html": "<p>Gastronomie und Tourismus leben von Rhythmen: Saisonbetrieb, Ausg’steckt-Zeiten beim Heurigen, Betriebsurlaub, Feste. Diese Zeiten müssen überall gleich und rechtzeitig stehen: auf der Website, im Google-Profil und auf Plattformen.</p> <ul> <li>Tragen Sie Sonderöffnungszeiten im Google-Profil ein, sobald sie feststehen.</li> <li>Legen Sie für wiederkehrende Veranstaltungen eigene Seiten oder Einträge an, etwa für ein Ganslessen oder einen Adventmarkt.</li> <li>Kennzeichnen Sie die Nebensaison klar, statt die Seite einfach unverändert zu lassen.</li> </ul> <p>Ideen für ruhigere Monate finden Sie unter <a href=\"/wissen/saisonbetrieb-digital/\">Digital durch die Nebensaison</a>.</p>"
+    },
+    {
+      "h2": "Website für Urlaubsgäste und Feiern",
+      "html": "<p>Für Pensionen, Ferienwohnungen und Gasthöfe mit Zimmern ist die eigene Website mehr als eine Visitenkarte. Hier können Gäste direkt anfragen oder buchen, ohne dass eine Plattform eine Vermittlungsgebühr einbehält. Dafür braucht es klare Zimmerbeschreibungen, Fotos, Lage, Anreise und eine einfache Anfrage oder Buchung.</p> <p>Für Feiern und Veranstaltungen gilt Ähnliches: Eine eigene Seite „Feiern bei uns“ mit Räumen, Platzanzahl, Beispielmenüs und Kontakt wird von Menschen gefunden, die nach „Hochzeitslocation“ oder „Weihnachtsfeier Gasthaus“ suchen. Wenn viele Gäste aus dem Ausland kommen, lohnt sich zumindest eine englische Version der wichtigsten Seiten.</p>"
+    },
+    {
+      "h2": "Plattformen sinnvoll nutzen",
+      "html": "<p>Buchungs-, Reservierungs- und Bewertungsplattformen bringen Reichweite, die ein kleiner Betrieb allein kaum erreicht. Gleichzeitig kosten sie Gebühren und machen abhängig. Ein ausgewogener Weg:</p> <ul> <li>Plattformen für Reichweite nutzen, aber überall auf die eigene Website verweisen, wo es erlaubt ist.</li> <li>Stammgäste und Wiederkehrer auf die direkte Buchung oder Reservierung hinweisen.</li> <li>Daten auf allen Plattformen gleich halten: Name, Adresse, Telefon, Öffnungszeiten.</li> </ul> <p>Für Restaurants mit vielen Anfragen kann eine <a href=\"/wissen/online-reservierung/\">Online-Reservierung</a> Telefonzeit sparen. Und wiederkehrende Fragen zu Parkplätzen, Hunden oder Allergenen kann auch ein Chatbot auf der Website beantworten.</p>"
+    },
+    {
+      "h2": "Erste Schritte für Ihren Betrieb",
+      "html": "<ol> <li>Google-Profil prüfen: Öffnungszeiten, Fotos, Speisekarte, Eigenschaften.</li> <li>Speisekarte als Text auf die Website bringen.</li> <li>Saison- und Sonderzeiten für die nächsten Monate eintragen.</li> <li>Eine Seite für Feiern oder Zimmer anlegen, falls Sie das anbieten.</li> <li>Auf alle offenen Bewertungen antworten.</li> </ol> <p>Wie Ihr Betrieb in Google und in KI-Suchen dasteht, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> innerhalb von 24 Stunden. Weitere branchentypische Ideen gibt es etwa auf der Seite für <a href=\"/branchen/restaurant/\">Restaurants</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist für ein Restaurant wichtiger: Website oder Google-Profil?",
+      "a": "Für spontane Gäste ist das Google-Unternehmensprofil meist wichtiger, weil sie dort Öffnungszeiten, Fotos und Bewertungen sehen und oft direkt anrufen oder losfahren. Die Website bleibt trotzdem wichtig: für die Speisekarte als Text, für Feiern, Gutscheine, Reservierungen und für alle, die genauer planen. Am besten funktionieren beide gemeinsam, mit identischen Angaben und gegenseitiger Verlinkung."
+    },
+    {
+      "q": "Reicht die Speisekarte als PDF auf der Website?",
+      "a": "Als Zusatz zum Ausdrucken ist ein PDF in Ordnung, als einzige Version aber nicht ideal. Am Handy ist ein PDF umständlich zu lesen, und Suchmaschinen sowie KI-Suchen erfassen den Inhalt schlechter als normalen Text. Besser ist die Karte direkt als Text auf der Seite, ergänzt um einen kurzen Bereich für Tagesgerichte oder saisonale Spezialitäten."
+    },
+    {
+      "q": "Brauche ich als Gastronomiebetrieb eine englische Website?",
+      "a": "Das hängt von Ihren Gästen ab. In Tourismusregionen, an Radwegen oder in der Nähe bekannter Ausflugsziele kommen oft viele Gäste aus dem Ausland, dann lohnt sich zumindest eine englische Version von Startseite, Speisekarte, Öffnungszeiten und Anfahrt. Ein Wirtshaus mit überwiegend Stammgästen aus der Umgebung braucht das meist nicht. Ein gepflegtes Google-Profil hilft internationalen Gästen ohnehin."
+    },
+    {
+      "q": "Wie gehe ich mit schlechten Bewertungen in der Gastronomie um?",
+      "a": "Antworten Sie sachlich, freundlich und zeitnah. Bedanken Sie sich für die Rückmeldung, gehen Sie konkret auf den Kritikpunkt ein und bieten Sie gegebenenfalls ein Gespräch an. Rechtfertigen oder Streiten wirkt auf andere Leser schlecht. Viele Gäste lesen gerade die Antworten auf Kritik, um einzuschätzen, wie ein Betrieb mit Problemen umgeht."
+    },
+    {
+      "q": "Wie bekomme ich mehr Direktbuchungen statt Plattformbuchungen?",
+      "a": "Machen Sie die direkte Buchung so einfach wie die Plattform: klare Zimmerbeschreibungen, aktuelle Verfügbarkeit oder ein kurzes Anfrageformular, transparente Preise und schnelle Antworten. Weisen Sie Stammgäste beim Aufenthalt und in der Bestätigung auf den direkten Weg hin. Plattformen bleiben für neue Gäste nützlich, die eigene Website sollte aber verlinkt und im Google-Profil gut sichtbar sein."
+    }
+  ],
+  "verwandt": [
+    "/wissen/digitale-speisekarte/",
+    "/wissen/online-reservierung/",
+    "/wissen/website-fuer-tourismus/",
+    "/branchen/restaurant/",
+    "/wissen/lokales-seo/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

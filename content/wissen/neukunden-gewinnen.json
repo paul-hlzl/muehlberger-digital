@@ -1,0 +1,74 @@
+{
+  "pfad": "/wissen/neukunden-gewinnen/",
+  "title": "Neukunden gewinnen als kleiner Betrieb: Ein Leitfaden",
+  "description": "Neukunden gewinnen als kleiner Betrieb: gefunden werden, empfohlen werden, aktiv ansprechen – mit Unterschieden bei Privat- und Firmenkunden und einem 90-Tage-Plan.",
+  "h1": "Neukunden gewinnen als kleiner Betrieb",
+  "kicker": "Ratgeber · Vertrieb",
+  "lead": "Als kleiner Betrieb gewinnen Sie Neukunden am verlässlichsten über drei Wege zugleich: gefunden werden (Google, Website, KI-Suchen), empfohlen werden (zufriedene Kunden und Partnerbetriebe) und aktiv ansprechen (passende Firmen oder Zielgruppen gezielt kontaktieren). Welcher Weg im Vordergrund steht, hängt vor allem davon ab, ob Sie an Privatkunden oder an Unternehmen verkaufen.",
+  "fakten": [
+    "Zuerst festlegen, wer ein guter Neukunde ist – nicht jeder Auftrag passt",
+    "Gefunden werden: Google-Unternehmensprofil, Website, Bewertungen, KI-Suchen",
+    "Empfohlen werden: aktiv um Empfehlungen bitten, Partnerbetriebe pflegen",
+    "Aktiv ansprechen vor allem bei Firmenkunden, unter Beachtung der rechtlichen Regeln",
+    "Viele Neukunden gehen nicht beim Gewinnen verloren, sondern bei langsamer Reaktion"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zuerst klären: Wer ist ein guter Neukunde?",
+      "html": "<p>Mehr Kunden sind nicht automatisch besser. Ein Betrieb mit drei Mitarbeitern braucht Aufträge, die zur eigenen Größe, Region und Stärke passen. Bevor Sie Zeit in Werbung stecken, beschreiben Sie in wenigen Sätzen, wer Ihr idealer Kunde ist:</p><ul><li>Welche Art von Auftrag bringt Ihnen am meisten Freude und Ertrag?</li><li>In welchem Umkreis wollen Sie arbeiten?</li><li>Welche Auftragsgröße ist sinnvoll, welche zu klein oder zu groß?</li><li>Welche Kunden waren in der Vergangenheit besonders angenehm, und was hatten sie gemeinsam?</li></ul><p>Ein Elektriker, der feststellt, dass Photovoltaik-Projekte bei Einfamilienhäusern im eigenen Bezirk am besten laufen, kann seine ganze Neukundengewinnung darauf ausrichten statt auf „alles mit Strom“.</p>"
+    },
+    {
+      "h2": "Weg 1: Gefunden werden",
+      "html": "<p>Viele Menschen suchen einen Betrieb, wenn sie ein konkretes Problem haben. Dann zählt, ob Sie bei Google, in Karten-Apps und zunehmend auch in KI-Suchen wie ChatGPT auftauchen. Die wichtigsten Bausteine:</p><ul><li>ein vollständiges, gepflegtes Google-Unternehmensprofil mit Fotos und aktuellen Öffnungszeiten</li><li>eine Website, die klar sagt, was Sie anbieten, wo und für wen</li><li>regelmäßige, echte Bewertungen zufriedener Kunden</li><li>einheitliche Firmendaten überall im Netz</li></ul><p>Wie Sie in Ihrer Region gefunden werden, erklärt der Ratgeber <a href=\"/wissen/lokales-seo/\">Lokales SEO</a>. Ob KI-Suchen Ihren Betrieb bereits nennen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit einem Bericht innerhalb von 24 Stunden.</p>"
+    },
+    {
+      "h2": "Weg 2: Empfohlen werden",
+      "html": "<p>Empfehlungen sind für kleine Betriebe oft die wertvollste Quelle neuer Kunden, weil das Vertrauen schon mitgeliefert wird. Trotzdem überlassen viele sie dem Zufall. Bitten Sie zufriedene Kunden aktiv darum, wenn der Moment passt, etwa bei der Übergabe einer gelungenen Arbeit.</p><p>Genauso wichtig sind Partnerbetriebe: Ein Maler, der eng mit einem Bodenleger zusammenarbeitet, bekommt Aufträge, die dieser nicht selbst erledigt, und umgekehrt. Wie Sie Empfehlungen gezielt aufbauen, lesen Sie im Ratgeber <a href=\"/wissen/empfehlungsmarketing/\">Empfehlungsmarketing gezielt nutzen</a>.</p>"
+    },
+    {
+      "h2": "Weg 3: Aktiv ansprechen",
+      "html": "<p>Warten allein reicht nicht immer, besonders wenn Sie an Unternehmen verkaufen. Dann lohnt es sich, gezielt passende Firmen in der Umgebung zu suchen und persönlich anzusprechen: mit einem Besuch, einem Brief oder über Netzwerke. Wie Sie dabei vorgehen, beschreibt <a href=\"/wissen/b2b-kunden-finden/\">B2B-Kunden in der Region finden</a>.</p><p>Beachten Sie die rechtlichen Grenzen. Werbeanrufe und Werbe-E-Mails ohne vorherige Einwilligung sind in Österreich grundsätzlich nicht erlaubt, auch gegenüber Unternehmen. Einen Überblick gibt der Ratgeber <a href=\"/wissen/kaltakquise-regeln/\">Kaltakquise per E-Mail und Telefon: Regeln in Österreich</a>.</p>"
+    },
+    {
+      "h2": "Privatkunden oder Firmenkunden: der Unterschied",
+      "html": "<table><thead><tr><th>Frage</th><th>Privatkunden</th><th>Firmenkunden</th></tr></thead><tbody><tr><td>Wie suchen sie?</td><td>Meist bei konkretem Bedarf über Google, Karten-Apps und Empfehlungen</td><td>Oft über Netzwerke, bestehende Kontakte und gezielte Recherche</td></tr><tr><td>Was überzeugt?</td><td>Bewertungen, Fotos, Erreichbarkeit, Sympathie</td><td>Referenzen, Verlässlichkeit, klare Abläufe und Preise</td></tr><tr><td>Wichtigster Weg</td><td>Gefunden und empfohlen werden</td><td>Empfohlen werden und aktiv ansprechen</td></tr><tr><td>Typische Dauer bis zum Auftrag</td><td>Eher kurz</td><td>Eher länger, mehrere Kontakte nötig</td></tr></tbody></table><p>Viele Betriebe haben beide Gruppen. Dann lohnt es sich, die Wege bewusst zu trennen, statt beide mit derselben Botschaft anzusprechen.</p>"
+    },
+    {
+      "h2": "Anfragen nicht verlieren",
+      "html": "<p>Ein oft übersehener Punkt: Viele potenzielle Neukunden gehen nicht verloren, weil sie Sie nicht finden, sondern weil niemand rechtzeitig zurückruft oder das Angebot nie nachgefasst wird. Prüfen Sie ehrlich:</p><ul><li>Wie schnell beantworten Sie Anfragen per Telefon, E-Mail und Formular?</li><li>Was passiert mit Anrufen, während Sie auf der Baustelle sind?</li><li>Wie viele Angebote bleiben ohne Rückmeldung liegen?</li></ul><p>Oft bringt eine bessere Reaktion mehr als zusätzliche Werbung. Praktische Tipps dazu finden Sie unter <a href=\"/wissen/angebot-nachfassen/\">Angebote richtig nachfassen</a>.</p>"
+    },
+    {
+      "h2": "Ein 90-Tage-Plan für den Start",
+      "html": "<ol><li><strong>Erster Monat – Grundlagen:</strong> idealen Kunden beschreiben, Google-Profil und Website prüfen und aktualisieren, Reaktionszeiten auf Anfragen verbessern.</li><li><strong>Zweiter Monat – Empfehlungen:</strong> zufriedene Kunden um Bewertungen und Weiterempfehlung bitten, zwei bis drei mögliche Partnerbetriebe ansprechen.</li><li><strong>Dritter Monat – aktive Ansprache und Auswertung:</strong> eine Liste passender Firmen oder Zielgruppen erstellen, die ersten persönlich kontaktieren und notieren, woher neue Kunden tatsächlich kamen.</li></ol><p>Danach wissen Sie, welcher Weg für Ihren Betrieb am besten funktioniert. Wenn Sie Firmenkunden suchen, hilft SightUp: Es findet passende Unternehmen in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor, verschickt aber nichts automatisch. Welche Bausteine für Sie sinnvoll sind, besprechen wir gern im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist der schnellste Weg zu neuen Kunden für einen kleinen Betrieb?",
+      "a": "Oft ist es nicht zusätzliche Werbung, sondern das bessere Nutzen bestehender Chancen: Anfragen schneller beantworten, offene Angebote nachfassen und zufriedene Kunden aktiv um Empfehlungen und Bewertungen bitten. Parallel lohnt sich ein vollständiges Google-Unternehmensprofil. Diese Schritte kosten wenig und wirken meist schneller als neue Kanäle, die erst aufgebaut werden müssen."
+    },
+    {
+      "q": "Lohnt sich bezahlte Werbung für kleine Betriebe?",
+      "a": "Das kann sich lohnen, etwa um für bestimmte Leistungen in der Region kurzfristig sichtbar zu werden. Bezahlte Werbung sollte aber erst kommen, wenn die Grundlagen stimmen: eine Website, die Anfragen ermöglicht, ein gepflegtes Google-Profil und eine rasche Reaktion auf Anfragen. Sonst bezahlen Sie für Besucher, die dann nicht anfragen. Testen Sie mit kleinem Budget."
+    },
+    {
+      "q": "Wie gewinne ich Firmenkunden in meiner Region?",
+      "a": "Beschreiben Sie zuerst genau, welche Firmen zu Ihnen passen, und erstellen Sie eine Liste solcher Betriebe im Umkreis. Sprechen Sie sie persönlich an, etwa per Besuch oder Brief, und nutzen Sie regionale Netzwerke und Empfehlungen. Werbeanrufe und Werbe-E-Mails ohne Einwilligung sind in Österreich grundsätzlich unzulässig. Werkzeuge wie SightUp helfen bei der Suche und beim Formulieren."
+    },
+    {
+      "q": "Woran erkenne ich, welcher Weg zur Neukundengewinnung funktioniert?",
+      "a": "Fragen Sie jeden neuen Kunden, wie er auf Sie aufmerksam geworden ist, und notieren Sie die Antwort, etwa im CRM oder in einer einfachen Liste. Nach einigen Monaten sehen Sie, ob Google, Empfehlungen, Social Media oder die aktive Ansprache die meisten passenden Aufträge bringt. Diese Information ist wertvoller als jede allgemeine Empfehlung."
+    }
+  ],
+  "verwandt": [
+    "/wissen/empfehlungsmarketing/",
+    "/wissen/b2b-kunden-finden/",
+    "/wissen/lokales-seo/",
+    "/leistungen/neukundengewinnung-b2b/",
+    "/gratis-check/neukunden-finden/"
+  ],
+  "checks": [
+    "neukunden-finden",
+    "ki-sichtbarkeit"
+  ]
+}

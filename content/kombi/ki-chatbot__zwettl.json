@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/zwettl/",
+  "title": "KI-Chatbot für Betriebe im Bezirk Zwettl",
+  "description": "Im Bezirk Zwettl kennt man sich, viele rufen einfach an. Wann ein KI-Chatbot trotzdem sinnvoll ist und wie Mühlberger Digital aus Ottenschlag ihn live zeigt.",
+  "h1": "KI-Chatbot für die Website in Zwettl",
+  "kicker": "KI-Chatbot · Bezirk Zwettl",
+  "lead": "Im Bezirk Zwettl kennt man sich, und viele Kunden rufen einfach an. Ein KI-Chatbot lohnt sich hier vor allem für Betriebe, die auch Gäste, Zugezogene oder Kunden von außerhalb erreichen wollen. Mühlberger Digital sitzt in Ottenschlag, mitten im Bezirk, und zeigt Ihnen Pipebot direkt mit Ihrer eigenen Website. Kosten: 19 € im Monat nach 30 Gratis-Tagen.",
+  "fakten": [
+    "Heimatbezirk von Mühlberger Digital, Sitz in Ottenschlag",
+    "Erstgespräch vor Ort, am Telefon oder per Video, Mo–Fr 18:00–21:30 Uhr",
+    "Ehrliche Einschätzung, ob sich ein Chatbot für Ihren Betrieb lohnt",
+    "Pipebot: 19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Beratung aus dem eigenen Bezirk",
+      "html": "<p>Mühlberger Digital hat seinen Sitz in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a> im <a href=\"/regionen/bezirk-zwettl/\">Bezirk Zwettl</a>. Für Betriebe hier heißt das: Jonas Mühlberger kommt auf Wunsch persönlich vorbei und zeigt den Chatbot live mit Ihrer eigenen Website, nicht mit einer Musterseite.</p><p>Das kostenlose Erstgespräch dauert etwa 30 Minuten und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt, also nach Ihrem Arbeitstag.</p>"
+    },
+    {
+      "h2": "Braucht ein Betrieb, den alle kennen, einen Chatbot?",
+      "html": "<p>Ehrlich gesagt: oft nicht. Wenn Ihre Kundschaft aus Stammkunden besteht, die Sie anrufen oder vorbeikommen, bringt ein Chatbot wenig. „Was Sie nicht brauchen, empfehlen wir nicht“ gilt auch hier.</p><p>Anders sieht es aus, wenn Sie auch Menschen erreichen wollen, die Sie noch nicht kennen: Urlaubsgäste im Waldviertel, Familien, die neu in den Bezirk ziehen, Firmenkunden von außerhalb oder die Kinder Ihrer Stammkunden, die zuerst im Internet suchen. Diese Gruppen schreiben lieber, als anzurufen.</p>"
+    },
+    {
+      "h2": "Drei Beispiele aus dem Bezirk",
+      "html": "<ul><li><strong>Bäckerei mit mehreren Standorten:</strong> „Habt ihr am Feiertag offen?“, „Kann ich eine Torte für Samstag bestellen?“</li><li><strong>Tischlerei:</strong> „Wie lange dauert eine Küche vom Planen bis zum Einbau?“, „Kommen Sie auch nach Krems?“ Siehe <a href=\"/branchen/tischler/\">Tischler</a>.</li><li><strong>Ferienhaus:</strong> „Ist ein Hund erlaubt?“, „Gibt es eine Ladestation für das E-Auto?“</li></ul>"
+    },
+    {
+      "h2": "Was Sie zum Termin mitbringen",
+      "html": "<p>Für das Erstgespräch reichen drei Dinge: die Adresse Ihrer Website, eine Liste der zehn Fragen, die Sie am häufigsten hören, und Ihre Regeln für Öffnungszeiten und Feiertage. Damit lässt sich in einer halben Stunde gut einschätzen, ob ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> passt.</p><p>Wer sich vorher allgemein informieren will, findet im Ratgeber <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a> einen guten Überblick. Einen Termin vereinbaren Sie über die Seite zum <a href=\"/erstgespraech/\">Erstgespräch</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kommt Jonas Mühlberger auch persönlich in meinen Betrieb?",
+      "a": "Ja. Im Bezirk Zwettl und im übrigen Waldviertel sind persönliche Termine der Schwerpunkt, der Sitz von Mühlberger Digital ist in Ottenschlag. Das Erstgespräch ist kostenlos, dauert etwa 30 Minuten und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt. Wer lieber telefoniert oder einen Video-Call nutzt, kann das genauso tun. Kontakt: +43 677 6219 2776."
+    },
+    {
+      "q": "Was, wenn ich noch gar keine Website habe?",
+      "a": "Dann kommt zuerst die Website, denn Pipebot antwortet mit den Inhalten Ihrer Seite. Eine Starter-Website mit bis zu fünf Seiten gibt es ab 2.500 € einmalig ohne Umsatzsteuer, inklusive Kontaktformular, Impressum, Datenschutz und Hosting. Viele Fragen, die der Bot später beantwortet, lassen sich dabei gleich mitplanen. Den Chatbot können Sie danach jederzeit ergänzen."
+    },
+    {
+      "q": "Woran merke ich, ob der Chatbot im Alltag etwas bringt?",
+      "a": "Am einfachsten in den ersten 30 Tagen, die gratis sind. Achten Sie darauf, ob weniger Routineanrufe kommen und ob Kunden im Gespräch erwähnen, dass sie die Antwort schon online gefunden haben. Wenn sich nichts ändert, kündigen Sie einfach, denn Pipebot ist monatlich kündbar. Ihre Eindrücke können Sie jederzeit mit Jonas Mühlberger besprechen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-zwettl/",
+    "/regionen/ottenschlag/",
+    "/branchen/tischler/",
+    "/erstgespraech/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

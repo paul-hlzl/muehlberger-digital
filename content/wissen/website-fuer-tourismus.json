@@ -1,0 +1,70 @@
+{
+  "pfad": "/wissen/website-fuer-tourismus/",
+  "title": "Die Website im Tourismus: Was Gäste wirklich suchen",
+  "description": "Die Website im Tourismus: was Hotels, Pensionen und Ferienwohnungen brauchen, um Gäste zu überzeugen, Direktbuchungen zu fördern und gefunden zu werden.",
+  "h1": "Die Website im Tourismus",
+  "kicker": "Ratgeber · Tourismus",
+  "lead": "Eine gute Website im Tourismus beantwortet die Fragen, die sich Gäste vor einer Buchung stellen: Wie sieht es aus, was kostet es, ist zu meinem Termin frei, und was kann ich in der Umgebung tun? Sie ist die Bühne für Ihre Unterkunft oder Ihren Betrieb und die Grundlage für Direktbuchungen ohne Umweg über Plattformen.",
+  "fakten": [
+    "Bilder entscheiden im Tourismus oft vor dem ersten gelesenen Wort",
+    "Verfügbarkeit und Preise sollten mit wenigen Klicks sichtbar sein",
+    "Direktbuchungen über die eigene Website stärken die Unabhängigkeit",
+    "Die Umgebung ist Teil des Angebots: Ausflüge, Wege, Veranstaltungen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Gäste auf einer Tourismus-Website suchen",
+      "html": "<p>Wer eine Unterkunft oder ein Ausflugsziel sucht, will sich ein Bild machen, im wörtlichen Sinn. Dann kommen die praktischen Fragen. Eine gute Website im Tourismus beantwortet sie in dieser Reihenfolge:</p><ol><li><strong>Wie sieht es aus?</strong> Zimmer, Ausblick, Frühstück, Garten, Umgebung.</li><li><strong>Was kostet es?</strong> Preise pro Nacht, Saisonzeiten, was inklusive ist.</li><li><strong>Ist frei?</strong> Verfügbarkeit oder zumindest eine einfache Anfrage.</li><li><strong>Was gibt es in der Nähe?</strong> Wandern, Radfahren, Wein, Kultur, Gastronomie.</li><li><strong>Wie komme ich hin?</strong> Anfahrt, Parken, Bahn, Abholung.</li></ol><p>Fehlt eine dieser Antworten, buchen viele Gäste lieber dort, wo sie alles auf einen Blick finden.</p>"
+    },
+    {
+      "h2": "Bilder, die verkaufen",
+      "html": "<p>Im Tourismus sind Fotos das wichtigste Verkaufsargument. Investieren Sie hier lieber etwas mehr:</p><ul><li>helle, ehrliche Fotos aller Zimmertypen</li><li>der Ausblick, das Frühstück, der Garten, die Terrasse</li><li>Bilder zu verschiedenen Jahreszeiten, wenn Sie ganzjährig geöffnet haben</li><li>Menschen, die den Ort genießen, mit deren Zustimmung</li></ul><p>Zeigen Sie die Wirklichkeit, nicht ein Idealbild. Gäste, die vor Ort etwas anderes vorfinden als auf den Fotos, schreiben das in ihre Bewertung. Vorsicht bei KI-generierten Bildern: Für Zimmer und Ausblick sind sie irreführend. Mehr dazu im Ratgeber <a href=\"/wissen/ki-bilder-website/\">KI-Bilder auf der Website</a>.</p>"
+    },
+    {
+      "h2": "Direktbuchung über die eigene Website",
+      "html": "<p>Buchungsplattformen bringen Reichweite, behalten aber eine Provision und den direkten Kontakt zum Gast. Viele Gastgeber versuchen deshalb, einen Teil der Buchungen direkt über die eigene Website zu bekommen. Das gelingt eher, wenn:</p><ul><li>Verfügbarkeit und Preise auf der Website leicht zu finden sind</li><li>die Buchung oder Anfrage am Handy in wenigen Schritten klappt</li><li>es einen Grund gibt, direkt zu buchen, etwa ein kleines Extra oder flexible Bedingungen</li><li>schnell und persönlich auf Anfragen geantwortet wird</li></ul><p>Eine Ferienwohnung braucht dafür nicht zwingend ein großes Buchungssystem. Oft reicht ein Belegungskalender und ein gutes Anfrageformular. Ein Hotel mit vielen Zimmern profitiert dagegen von einem System, das mit den Plattformen abgeglichen wird, damit nichts doppelt gebucht wird.</p>"
+    },
+    {
+      "h2": "Die Umgebung als Teil des Angebots",
+      "html": "<p>Gäste buchen selten nur ein Zimmer, sie buchen einen Aufenthalt. Seiten über die Umgebung sind deshalb doppelt wertvoll: Sie helfen bei der Entscheidung und sie werden gefunden, wenn jemand nach Ausflügen in der Region sucht.</p><p>Schreiben Sie aus eigener Erfahrung: Welche Wanderung empfehlen Sie Familien, welches Gasthaus für einen Regentag, welcher Radweg beginnt vor der Tür? Eine Pension im Kamptal, die ihre drei Lieblingsrouten mit eigenen Fotos beschreibt, hat Inhalte, die keine Plattform bietet. Erfinden Sie aber keine Angebote und prüfen Sie Öffnungszeiten von Ausflugszielen regelmäßig. Hinweise für Veranstaltungen stehen im Ratgeber <a href=\"/wissen/veranstaltungen-bewerben/\">Veranstaltungen online bewerben</a>.</p>"
+    },
+    {
+      "h2": "Gefunden werden: Google, Karten und KI-Suchen",
+      "html": "<p>Viele Gäste suchen zuerst in Google Maps oder fragen inzwischen ChatGPT und ähnliche Dienste nach Empfehlungen. Damit Sie dort auftauchen:</p><ul><li>Pflegen Sie Ihr Google-Unternehmensprofil mit Fotos, Ausstattung und aktuellen Öffnungszeiten.</li><li>Bitten Sie zufriedene Gäste um Bewertungen und antworten Sie darauf.</li><li>Beschreiben Sie auf der Website klar, was Sie besonders macht: ruhige Lage, Familienfreundlichkeit, Hunde willkommen, Radgarage.</li><li>Beantworten Sie häufige Fragen auf einer eigenen Seite.</li></ul><p>Wie oft KI-Suchen Ihren Betrieb nennen, prüft der Gratis-Check von <a href=\"https://hittaro.com/check\">Hittaro</a> mit Bericht innerhalb von 24 Stunden. Der Hintergrund dazu steht im Ratgeber <a href=\"/wissen/was-ist-geo/\">Was ist GEO?</a></p>"
+    },
+    {
+      "h2": "Erreichbar sein, wenn Gäste planen",
+      "html": "<p>Gäste planen oft abends oder am Wochenende, also genau dann, wenn Gastgeber mit dem Betrieb beschäftigt sind. Wer am nächsten Morgen antwortet, hat die Buchung womöglich schon verloren. Hilfreich sind:</p><ul><li>eine FAQ-Seite mit den häufigsten Fragen: Haustiere, Check-in, Parken, Stornierung</li><li>ein Chatbot, der diese Fragen rund um die Uhr beantwortet</li><li>eine automatische Bestätigung nach jeder Anfrage</li></ul><p>Pipebot beantwortet Fragen nur mit den Inhalten Ihrer Website, im Design Ihrer Seite, und verbindet bei Unsicherheit mit Ihnen. Er kostet 19 € pro Monat, die ersten 30 Tage sind gratis. Wie er auf Ihre Inhalte reagiert, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Checkliste für Ihre Tourismus-Website",
+      "html": "<ul><li>Startseite mit dem schönsten, ehrlichsten Bild und einem klaren Satz, was Sie bieten</li><li>Zimmer oder Wohnungen mit Fotos, Ausstattung und Preisen</li><li>Verfügbarkeit oder einfache Anfrage, am Handy getestet</li><li>Umgebung, Ausflüge und Anreise</li><li>häufige Fragen und Hausregeln</li><li>Bewertungen oder Gästestimmen mit Zustimmung</li><li>Impressum, Datenschutz, Stornobedingungen</li><li>falls passend: zweite Sprache für die wichtigsten Seiten</li></ul><p>Ob sich eine Übersetzung lohnt, klärt der Ratgeber <a href=\"/wissen/mehrsprachige-website/\">Mehrsprachige Website</a>. Branchenspezifische Hinweise finden Sie auf den Seiten für <a href=\"/branchen/hotel/\">Hotels</a> und <a href=\"/branchen/ferienwohnung/\">Ferienwohnungen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was muss auf eine Website für eine Ferienwohnung?",
+      "a": "Wichtig sind ehrliche Fotos aller Räume und des Ausblicks, eine Beschreibung der Ausstattung, Preise mit Saisonzeiten, ein Belegungskalender oder ein einfaches Anfrageformular, Anfahrt und Hinweise zur Umgebung. Dazu kommen Hausregeln, Stornobedingungen, Impressum und Datenschutzerklärung. Testen Sie alles am Handy, denn viele Gäste planen dort und erwarten, in wenigen Schritten anfragen zu können."
+    },
+    {
+      "q": "Brauche ich eine eigene Website, wenn ich auf Buchungsplattformen gelistet bin?",
+      "a": "Eine eigene Website ist sinnvoll, auch wenn Sie über Plattformen buchbar sind. Sie ermöglicht Direktbuchungen ohne Provision, gibt Ihnen Platz für Ihre Geschichte und die Umgebung und macht Sie unabhängiger von Änderungen der Plattformen. Viele Gäste schauen außerdem nach dem Fund auf einer Plattform auf die eigene Website, um sich ein vollständigeres Bild zu machen."
+    },
+    {
+      "q": "Wie bekomme ich mehr Direktbuchungen über meine Website?",
+      "a": "Machen Sie Verfügbarkeit und Preise leicht auffindbar, gestalten Sie die Buchung oder Anfrage am Handy einfach und antworten Sie schnell und persönlich. Ein Anreiz für die direkte Buchung, etwa ein kleines Extra oder flexiblere Bedingungen, kann helfen. Wichtig sind auch gepflegte Bewertungen und ein vollständiges Google-Unternehmensprofil, damit Gäste Sie überhaupt direkt finden."
+    },
+    {
+      "q": "Lohnt sich ein Chatbot für einen kleinen Tourismusbetrieb?",
+      "a": "Ein Chatbot lohnt sich, wenn Gäste immer wieder dieselben Fragen stellen, etwa zu Check-in, Haustieren, Parken oder Frühstückszeiten, und Sie nicht ständig erreichbar sind. Er antwortet rund um die Uhr auf Basis Ihrer Website-Inhalte. Pipebot kostet 19 € pro Monat, ist monatlich kündbar und lässt sich die ersten 30 Tage gratis testen."
+    }
+  ],
+  "verwandt": [
+    "/branchen/hotel/",
+    "/branchen/ferienwohnung/",
+    "/wissen/mehrsprachige-website/",
+    "/wissen/saisonbetrieb-digital/",
+    "/gratis-check/ki-sichtbarkeit/"
+  ],
+  "checks": ["ki-sichtbarkeit", "chatbot-test"]
+}

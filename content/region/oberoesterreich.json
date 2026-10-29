@@ -1,0 +1,61 @@
+{
+  "pfad": "/regionen/oberoesterreich/",
+  "title": "Digitalagentur Oberösterreich: Pipeline vor Ort",
+  "description": "In Oberösterreich sitzt Pipeline AI Solutions selbst. Wie Mühlberger Digital vom Waldviertel aus Betriebe in OÖ berät und wann der direkte Weg passt.",
+  "h1": "Digitalagentur in Oberösterreich – hier ist unser Technikpartner zuhause",
+  "kicker": "Region · Bundesland",
+  "lead": "Oberösterreich ist das Kerngebiet von Pipeline AI Solutions, dem technischen Partner von Mühlberger Digital, mit Sitz in Kleinzell im Mühlkreis. Betriebe in Oberösterreich können sich direkt an Pipeline wenden oder sich von Mühlberger Digital beraten lassen, vor allem im Mühlviertel nahe dem Waldviertel.",
+  "fakten": [
+    "Pipeline AI Solutions sitzt in Kleinzell im Mühlkreis, Mühlviertel",
+    "Landeshauptstadt Linz, vier Viertel: Mühl-, Inn-, Hausruck- und Traunviertel",
+    "Mühlberger Digital berät aus dem benachbarten Waldviertel",
+    "Kostenloses Erstgespräch, Mo–Fr 18:00–21:30 Uhr"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Oberösterreich ist Pipeline-Land",
+      "html": "<p>Die Lösungen, die Mühlberger Digital vermittelt, werden von <a href=\"https://www.pipeline-solutions.at/\">Pipeline AI Solutions</a> gebaut, einem Team um Paul Hölzl und Ben Braunsperger mit Sitz in Kleinzell im Mühlkreis. Oberösterreich ist damit das Kerngebiet von Pipeline selbst. Viele oberösterreichische Betriebe wenden sich direkt dorthin, und das ist auch gut so.</p><p>Alles zum Angebot von Pipeline für Oberösterreich finden Sie auf der Seite <a href=\"https://www.pipeline-solutions.at/at/oberoesterreich/\">Pipeline AI Solutions in Oberösterreich</a>.</p>"
+    },
+    {
+      "h2": "Wann Mühlberger Digital für oberösterreichische Betriebe passt",
+      "html": "<p>Das Mühlviertel grenzt an das <a href=\"/regionen/waldviertel/\">Waldviertel</a>, und die Landschaft mit Granit, Wald und kleinen Orten ist ähnlich. Für Betriebe in dieser Grenzregion ist Jonas Mühlberger aus Ottenschlag oft der naheliegende Ansprechpartner. Auch wer schon einmal mit ihm gesprochen hat, etwa über Bekannte oder das Partnerprogramm, kann bei ihm bleiben.</p><p>Wichtig: Es entsteht kein Preisunterschied und kein Umweg. Die Umsetzung läuft so oder so über Pipeline, der Vertrag ebenfalls. Mühlberger Digital übernimmt Beratung und Begleitung.</p>"
+    },
+    {
+      "h2": "Was Betriebe in Oberösterreich typischerweise brauchen",
+      "html": "<p>Oberösterreich ist ein starkes Industrie- und Gewerbeland, rund um Linz ebenso wie im Inn-, Hausruck- und Traunviertel. Typische Situationen:</p><ul><li>Ein Zulieferbetrieb will neue Firmenkunden in der Umgebung finden. SightUp sucht passende Unternehmen, bewertet sie und schreibt eine erste Nachricht vor, verschickt aber nichts automatisch.</li><li>Ein Handwerksbetrieb im Mühlviertel braucht eine moderne Website mit Referenzfotos, damit Bauherren aus dem Zentralraum ihn finden. Die Starter-Website gibt es ab 2.500 € einmalig.</li><li>Ein Dienstleister mit vielen Telefonaten möchte Anrufe nicht verpassen. Ein KI-Telefonassistent nimmt Anliegen entgegen, der Preis richtet sich nach Bedarf.</li></ul>"
+    },
+    {
+      "h2": "So läuft die Beratung in Oberösterreich ab",
+      "html": "<p>Im Mühlviertel sind persönliche Termine nach Absprache möglich, im übrigen Oberösterreich meist per Video-Call. Das <a href=\"/erstgespraech/\">Erstgespräch</a> dauert etwa 30 Minuten, kostet nichts und findet Montag bis Freitag zwischen 18:00 und 21:30 Uhr statt. Danach bekommen Sie ein schriftliches Angebot mit klaren Preisen. Wie die einzelnen Schritte aussehen, steht unter <a href=\"/ablauf/\">Ablauf</a>.</p>"
+    },
+    {
+      "h2": "Warum lokale Sichtbarkeit auch im Industrieland zählt",
+      "html": "<p>Auch Betriebe, die hauptsächlich an andere Unternehmen verkaufen, werden online geprüft. Einkäufer, Bauherren und Bewerber schauen sich die Website an, bevor sie anrufen. Eine veraltete Seite kostet Vertrauen, eine klare Seite mit Leistungen, Referenzen und Kontakt schafft es. Der kostenlose <a href=\"/gratis-check/website-entwurf/\">Startseiten-Entwurf</a> zeigt in wenigen Minuten, wie Ihr Auftritt neu aussehen könnte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Soll ich mich in Oberösterreich an Pipeline oder an Mühlberger Digital wenden?",
+      "a": "Beides ist möglich, und das Ergebnis ist dasselbe, denn umgesetzt wird immer von Pipeline AI Solutions. Wenn Sie in Oberösterreich sitzen und direkt mit dem Technikteam sprechen möchten, wenden Sie sich an Pipeline. Wenn Sie im Mühlviertel nahe dem Waldviertel sind oder Jonas Mühlberger bereits kennen, begleitet er Sie gerne durch Beratung und Projekt."
+    },
+    {
+      "q": "Kostet es mehr, wenn ich über Mühlberger Digital gehe?",
+      "a": "Nein. Die Richtpreise sind dieselben, etwa ab 2.500 € einmalig für die Starter-Website oder 19 € pro Monat für den Chatbot Pipebot. Mühlberger Digital berät und vermittelt, Vertrag und Umsetzung laufen über Pipeline AI Solutions. Sie bekommen in jedem Fall ein schriftliches Angebot mit klaren Preisen, bevor etwas beauftragt wird."
+    },
+    {
+      "q": "Gibt es persönliche Termine in Oberösterreich?",
+      "a": "Im Mühlviertel, vor allem nahe der Grenze zum Waldviertel, sind persönliche Termine nach Absprache möglich. Für das restliche Oberösterreich ist ein Video-Call meist praktischer, oder Sie wenden sich direkt an Pipeline AI Solutions. Die Lösungen werden in jedem Fall live mit Ihren eigenen Daten gezeigt, damit Sie sehen, was Sie bekommen."
+    }
+  ],
+  "verwandt": [
+    "/regionen/waldviertel/",
+    "/regionen/bezirk-zwettl/",
+    "/ueber-jonas-muehlberger/",
+    "/erstgespraech/",
+    "/regionen/bezirk-amstetten/"
+  ],
+  "checks": [
+    "website-entwurf",
+    "neukunden-finden"
+  ]
+}

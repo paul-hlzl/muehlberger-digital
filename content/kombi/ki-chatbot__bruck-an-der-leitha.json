@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/bruck-an-der-leitha/",
+  "title": "KI-Chatbot für Betriebe in Bruck an der Leitha",
+  "description": "Wenn der Chef am Steuer oder in der Grube steht: Wie Pipebot Betrieben in Bruck an der Leitha Fragen auf der Website beantwortet, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Bruck an der Leitha",
+  "kicker": "KI-Chatbot · Bezirk Bruck an der Leitha",
+  "lead": "Für Betriebe in Bruck an der Leitha, deren Inhaber selbst auf der Straße, in der Werkstatt oder auf Montage ist, beantwortet ein KI-Chatbot die Fragen, die sonst unbeantwortet am Handy landen. Pipebot nutzt nur Ihre Website-Inhalte, arbeitet rund um die Uhr und kostet nach 30 Gratis-Tagen 19 € im Monat.",
+  "fakten": [
+    "Für Betriebe, die tagsüber selten ans Telefon können",
+    "Kundschaft im Grenzraum zu Burgenland und Wiener Umland kommt aus mehreren Richtungen",
+    "Der Bot antwortet nur mit Ihren Inhalten und verbindet bei Unklarheit mit Ihnen",
+    "19 € im Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wenn niemand ans Telefon kann",
+      "html": "<p>Der <a href=\"/regionen/bezirk-bruck-an-der-leitha/\">Bezirk Bruck an der Leitha</a> liegt im Osten Niederösterreichs, zwischen Leithagebirge, Burgenland und dem Umland von Wien. Viele Betriebe hier sind klein und viel unterwegs: Transport, Montage, Werkstatt.</p><p>Ein Umzugsunternehmen mit zwei Lkw hat ein typisches Problem: Der Chef fährt selbst. Wer anruft und niemanden erreicht, probiert es oft gleich beim nächsten Anbieter. Ein Chatbot auf der Website gibt in dieser Zeit wenigstens die wichtigsten Antworten.</p>"
+    },
+    {
+      "h2": "Drei Situationen aus dem Alltag",
+      "html": "<ul><li><strong>Umzugsfirma:</strong> „Übernehmen Sie auch Umzüge ins Nordburgenland?“ und „Bekomme ich Kartons von Ihnen?“ Beides lässt sich vorab beantworten, wenn es auf der Website steht.</li><li><strong>Kfz-Werkstatt:</strong> „Machen Sie das Pickerl auch für Wohnmobile?“ oder „Kann ich das Auto am Abend abstellen?“ Fragen, die sonst mitten in einer Reparatur ankommen. Mehr dazu auf der Seite für <a href=\"/branchen/kfz-werkstatt/\">Kfz-Werkstätten</a>.</li><li><strong>Montagebetrieb für Sonnenschutz:</strong> „Wie läuft das ab, von der Beratung bis zur Montage?“ Der Bot erklärt den Ablauf, den Sie beschrieben haben.</li></ul>"
+    },
+    {
+      "h2": "Was der Bot dafür auf Ihrer Website braucht",
+      "html": "<p>Pipebot ist nur so gut wie die Inhalte, auf die er zugreifen kann. Bevor Sie starten, sollten auf Ihrer Website zumindest diese Punkte klar stehen:</p><ul><li>Einsatzgebiet, auch über die Bundesländergrenze hinweg</li><li>Leistungen und was Sie ausdrücklich nicht machen</li><li>Ablauf einer Anfrage und wie man Sie am besten erreicht</li></ul><p>Wie Sie diese Inhalte schnell zusammenstellen, beschreibt der Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Inhalte für den Chatbot</a>.</p>"
+    },
+    {
+      "h2": "Wann sich ein Chatbot hier nicht lohnt",
+      "html": "<p>Wenn kaum jemand Ihre Website besucht und fast alle Aufträge über Stammkunden kommen, bringt ein Chatbot wenig. Dann ist ein gepflegtes <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil</a> meist der bessere erste Schritt.</p><p>Kommen dagegen regelmäßig Anfragen über die Website, rechnet sich ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> schnell: 19 € im Monat, monatlich kündbar. Probieren Sie es vorher im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a> aus.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ersetzt der Chatbot meine Telefonnummer auf der Website?",
+      "a": "Nein, er ergänzt sie. Ihre Telefonnummer und E-Mail-Adresse bleiben sichtbar, denn manche Kunden wollen einfach anrufen. Der Chatbot übernimmt die wiederkehrenden Fragen, etwa zu Einsatzgebiet, Ablauf oder Öffnungszeiten. Ist er sich unsicher, verbindet er mit Ihnen. So kommen weniger Routineanrufe herein, und die Anrufe, die bleiben, sind meist konkrete Aufträge."
+    },
+    {
+      "q": "Muss ich für den Chatbot technisch etwas können?",
+      "a": "Nein. Die technische Umsetzung übernimmt Pipeline AI Solutions, Mühlberger Digital begleitet Sie bei Beratung und Vermittlung. Ihre Aufgabe ist vor allem inhaltlich: Sie sorgen dafür, dass die wichtigsten Informationen auf Ihrer Website stehen, und prüfen, ob die Antworten des Bots zu Ihrem Betrieb passen. Der Chatbot erscheint im Design Ihrer bestehenden Website."
+    },
+    {
+      "q": "Antwortet der Bot auch nachts und am Wochenende?",
+      "a": "Ja, Pipebot ist rund um die Uhr erreichbar, auch an Sonn- und Feiertagen. Gerade bei Betrieben, deren Inhaber tagsüber unterwegs sind, kommen viele Fragen am Abend oder am Wochenende. Der Bot beantwortet sie sofort mit Ihren Inhalten. Was er nicht sicher weiß, gibt er an Sie weiter, damit Sie sich am nächsten Arbeitstag melden können."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-bruck-an-der-leitha/",
+    "/branchen/transportunternehmen/",
+    "/branchen/kfz-werkstatt/",
+    "/wissen/chatbot-inhalte/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

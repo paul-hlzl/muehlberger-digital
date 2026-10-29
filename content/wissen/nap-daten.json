@@ -1,0 +1,78 @@
+{
+  "pfad": "/wissen/nap-daten/",
+  "title": "Name, Adresse, Telefon: Firmendaten einheitlich halten",
+  "description": "Warum Name, Adresse und Telefonnummer überall gleich stehen sollten, wo Abweichungen entstehen und wie Sie Ihre Firmendaten Schritt für Schritt aufräumen.",
+  "h1": "Name, Adresse, Telefon: Einheitliche Firmendaten",
+  "kicker": "Ratgeber · Lokales SEO",
+  "lead": "Einheitliche Firmendaten bedeuten, dass Firmenname, Adresse und Telefonnummer, kurz NAP, auf Website, Google-Profil, Verzeichnissen und sozialen Netzwerken exakt gleich lauten. Das macht es Suchmaschinen und KI-Suchen leicht, alle Angaben eindeutig Ihrem Betrieb zuzuordnen, und Kunden landen nicht bei einer alten Nummer.",
+  "fakten": [
+    "NAP steht für Name, Address, Phone, also Name, Adresse, Telefon",
+    "Abweichungen entstehen oft durch Übersiedlung, neue Nummern oder alte Einträge",
+    "Legen Sie einmal eine verbindliche Schreibweise fest und verwenden Sie nur diese",
+    "Website, Google-Profil, Verzeichnisse und Social Media gehören in eine Liste",
+    "Öffnungszeiten und Website-Adresse sollten ebenso einheitlich sein"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was NAP-Daten sind",
+      "html": "<p><a href=\"/glossar/nap-daten/\">NAP-Daten</a> sind die drei Grundangaben, an denen ein Betrieb im Netz erkannt wird: der <strong>Name</strong>, die <strong>Adresse</strong> und die <strong>Telefonnummer</strong>. In der Praxis gehören meist noch die Website-Adresse, die E-Mail und die Öffnungszeiten dazu.</p> <p>Diese Daten stehen an vielen Stellen: auf Ihrer Website, im Google-Unternehmensprofil, bei Herold, im Firmenverzeichnis der WKO, auf Facebook, auf Plattformen Ihrer Branche, auf der Gemeindeseite und auf Websites von Partnern. Je mehr dieser Stellen dasselbe sagen, desto sicherer ist für Suchmaschinen, dass es sich um denselben Betrieb handelt.</p>"
+    },
+    {
+      "h2": "Warum einheitliche Daten so wichtig sind",
+      "html": "<ul> <li><strong>Vertrauen bei Suchmaschinen:</strong> Google gleicht Angaben aus vielen Quellen ab. Widersprüche können dazu führen, dass Ihr Betrieb bei lokalen Suchen schwächer erscheint.</li> <li><strong>Richtige Antworten in KI-Suchen:</strong> ChatGPT, Gemini und andere setzen Antworten aus verschiedenen Quellen zusammen. Steht irgendwo eine alte Adresse, kann genau die in einer Antwort landen.</li> <li><strong>Kunden erreichen Sie wirklich:</strong> Eine falsche Nummer in einem Verzeichnis kostet Anrufe, ohne dass Sie es merken.</li> <li><strong>Weniger Verwechslung:</strong> Gerade bei häufigen Familiennamen oder ähnlichen Firmen in der Region verhindern klare Daten, dass Bewertungen oder Anfragen beim falschen Betrieb landen.</li> </ul>"
+    },
+    {
+      "h2": "Wo Abweichungen typischerweise entstehen",
+      "html": "<p>Kaum ein Betrieb hat absichtlich verschiedene Daten im Netz. Die Unterschiede schleichen sich über die Jahre ein:</p> <ul> <li><strong>Übersiedlung:</strong> Die neue Adresse steht auf der Website, alte Verzeichnisse zeigen noch die frühere.</li> <li><strong>Neue Telefonnummer:</strong> Vom Festnetz auf Handy umgestellt, aber nur teilweise geändert.</li> <li><strong>Namensvarianten:</strong> „Tischlerei Muster“, „Muster GmbH“, „Tischlerei Muster Johann“ und „Muster Möbel“ für denselben Betrieb.</li> <li><strong>Schreibweisen:</strong> „Hauptstraße 5“ und „Hauptstr. 5“ sind für Menschen gleich, für Maschinen nicht immer.</li> <li><strong>Automatisch erstellte Einträge:</strong> Verzeichnisse übernehmen Daten aus anderen Quellen, auch veraltete.</li> <li><strong>Betriebsübergabe:</strong> Der Sohn übernimmt, die Firma heißt anders, alte Einträge bleiben stehen.</li> </ul>"
+    },
+    {
+      "h2": "Schritt 1: Die verbindliche Schreibweise festlegen",
+      "html": "<p>Bevor Sie irgendetwas ändern, schreiben Sie auf, wie Ihre Daten künftig überall lauten sollen. Diese „Stammkarte“ ist die Vorlage für alle Einträge.</p> <ul> <li><strong>Name:</strong> so, wie Kunden Sie kennen, und passend zum Firmenbuch oder Gewerbe. Keine Suchbegriffe anhängen wie „Muster – Tischler Zwettl günstig“.</li> <li><strong>Adresse:</strong> eine Schreibweise, ausgeschrieben oder abgekürzt, aber immer gleich.</li> <li><strong>Telefon:</strong> eine Hauptnummer im selben Format, etwa +43 und ohne führende Null.</li> <li><strong>Website:</strong> immer dieselbe Startadresse, mit https.</li> <li><strong>Öffnungszeiten:</strong> einheitlich, inklusive Mittagspause und Ruhetag.</li> </ul>"
+    },
+    {
+      "h2": "Schritt 2: Bestehende Einträge finden und korrigieren",
+      "html": "<ol> <li>Suchen Sie bei Google nach Ihrem Firmennamen, Ihrer Telefonnummer und Ihrer alten Adresse.</li> <li>Notieren Sie jeden Treffer in einer Tabelle: Plattform, Link, welche Daten falsch sind, Zugangsdaten.</li> <li>Beginnen Sie mit den wichtigsten Stellen: Website, Google-Unternehmensprofil, Herold, WKO Firmen A–Z, Bing Places, Apple Business Connect, Facebook.</li> <li>Bestätigen Sie fremde Einträge, wo möglich, und korrigieren Sie sie.</li> <li>Bitten Sie Partner, Lieferanten oder Vereine, die Sie verlinken, um eine Aktualisierung.</li> </ol> <p>Welche Verzeichnisse in Österreich wichtig sind, finden Sie im Ratgeber <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnisse in Österreich</a>.</p>"
+    },
+    {
+      "h2": "Schritt 3: Die Website als Referenz stärken",
+      "html": "<p>Ihre eigene Website sollte die verlässlichste Quelle sein. Dafür hilft:</p> <ul> <li>NAP-Daten im Fußbereich jeder Seite, gleich wie im Google-Profil.</li> <li>Eine Kontaktseite mit Karte, Anfahrt und Öffnungszeiten.</li> <li>Ein vollständiges <a href=\"/wissen/impressum-pflicht/\">Impressum</a> mit den offiziellen Daten.</li> <li><a href=\"/wissen/strukturierte-daten/\">Strukturierte Daten</a>, die Name, Adresse, Telefon und Öffnungszeiten maschinenlesbar wiederholen.</li> </ul> <p>Wenn Website und Google-Profil übereinstimmen und auf diese Weise ausgezeichnet sind, haben Suchmaschinen eine klare Referenz, an der sie andere Quellen messen.</p>"
+    },
+    {
+      "h2": "Pflege nach Änderungen",
+      "html": "<p>Die Arbeit ist mit dem ersten Aufräumen nicht vorbei. Sobald sich etwas ändert, sollte die Tabelle wieder zum Einsatz kommen. Typische Anlässe sind eine Übersiedlung, eine neue Telefonnummer, geänderte Öffnungszeiten, eine neue Rechtsform oder eine Betriebsübergabe.</p> <p>Ein kurzer Blick einmal im Jahr lohnt sich auch ohne Anlass. Ob Google und KI-Suchen Ihre Firmendaten derzeit richtig nennen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit einem Bericht innerhalb von 24 Stunden. Beim Aufräumen von Profil und Einträgen unterstützt die Leistung <a href=\"/leistungen/google-unternehmensprofil/\">Google-Unternehmensprofil einrichten &amp; pflegen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was bedeutet NAP bei der Suchmaschinenoptimierung?",
+      "a": "NAP steht für Name, Address, Phone, also Firmenname, Adresse und Telefonnummer. Bei der lokalen Suchmaschinenoptimierung bezeichnet es die Grundangaben, an denen ein Betrieb im Netz erkannt wird. Stimmen diese Daten auf Website, Google-Unternehmensprofil, Verzeichnissen und sozialen Netzwerken überein, können Suchmaschinen und KI-Suchen alle Informationen sicher demselben Betrieb zuordnen."
+    },
+    {
+      "q": "Muss die Schreibweise wirklich überall identisch sein?",
+      "a": "Kleine Unterschiede wie „Straße“ und „Str.“ erkennen Suchmaschinen meist richtig. Trotzdem ist eine einheitliche Schreibweise der sicherste Weg, weil Sie damit Verwechslungen ausschließen und die Pflege vereinfachen. Wirklich problematisch sind abweichende Namen, alte Adressen und falsche Telefonnummern. Diese sollten Sie in jedem Fall korrigieren, weil sie Kunden in die Irre führen."
+    },
+    {
+      "q": "Was mache ich mit Einträgen, die ich nicht selbst angelegt habe?",
+      "a": "Viele Verzeichnisse erstellen Einträge automatisch aus anderen Quellen. Meist können Sie einen solchen Eintrag als Inhaber bestätigen, etwa per Telefon, E-Mail oder Post, und danach selbst bearbeiten. Wenn das nicht geht, nutzen Sie die Funktion für Änderungsvorschläge oder schreiben Sie dem Betreiber. Notieren Sie, wo Sie Zugänge haben, damit spätere Änderungen schneller gehen."
+    },
+    {
+      "q": "Welche Daten gehören neben Name, Adresse und Telefon noch dazu?",
+      "a": "Neben den drei Grundangaben sollten auch Website-Adresse, E-Mail, Öffnungszeiten, Kategorie oder Branche und das Einzugsgebiet überall gleich sein. Bei Betrieben mit Saison oder Ruhetagen kommen Sonderöffnungszeiten dazu. Je vollständiger und einheitlicher diese Angaben sind, desto besser können Google, Kartendienste und KI-Suchen Ihren Betrieb beschreiben."
+    },
+    {
+      "q": "Wie lange dauert es, bis korrigierte Daten bei Google ankommen?",
+      "a": "Änderungen im Google-Unternehmensprofil sind oft nach kurzer Zeit sichtbar, manchmal prüft Google sie vorher. Korrekturen in anderen Verzeichnissen und auf fremden Websites brauchen länger, bis Suchmaschinen die Seiten neu besuchen. KI-Suchen können veraltete Angaben noch eine Weile wiedergeben. Deshalb lohnt es sich, nach einigen Wochen erneut zu prüfen, ob die alten Daten verschwunden sind."
+    }
+  ],
+  "verwandt": [
+    "/glossar/nap-daten/",
+    "/wissen/branchenverzeichnisse/",
+    "/wissen/lokales-seo/",
+    "/wissen/google-unternehmensprofil-optimieren/",
+    "/leistungen/google-unternehmensprofil/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

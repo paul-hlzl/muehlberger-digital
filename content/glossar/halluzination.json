@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/halluzination/",
+  "title": "KI-Halluzination: Wenn die KI Fakten erfindet",
+  "description": "Halluzination einfach erklärt: Warum KI-Modelle manchmal überzeugend falsche Antworten geben und wie kleine Betriebe sich im Alltag davor schützen können.",
+  "h1": "Halluzination bei KI",
+  "kicker": "Glossar · KI",
+  "lead": "Eine Halluzination ist eine Antwort eines KI-Sprachmodells, die überzeugend klingt, aber sachlich falsch oder frei erfunden ist, etwa ein nicht existierendes Gesetz oder eine falsche Telefonnummer. Sie entsteht, weil das Modell wahrscheinliche Formulierungen erzeugt, nicht geprüfte Fakten.",
+  "fakten": [
+    "Tritt bei allen gängigen Sprachmodellen auf",
+    "Besonders riskant bei Zahlen, Quellen, Recht und Namen",
+    "Gegenmittel: eigene Quellen, klare Grenzen, menschliche Kontrolle"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie Halluzinationen im Alltag auffallen",
+      "html": "<p>Ein Immobilienmakler lässt eine KI einen Text über Nebenkosten beim Wohnungskauf schreiben. Das Ergebnis liest sich flüssig, nennt aber einen Prozentsatz und eine Rechtsgrundlage, die so nicht stimmen. Erst beim Gegenlesen fällt das auf. Ähnlich kann ein Chatbot ohne klare Grenzen Öffnungszeiten erfinden, die nie auf der Website standen.</p><p>Das Modell lügt dabei nicht absichtlich. Es setzt Texte nach Wahrscheinlichkeit zusammen und kann zwischen „klingt richtig“ und „ist richtig“ nicht zuverlässig unterscheiden.</p>"
+    },
+    {
+      "h2": "Warum KMU Halluzinationen ernst nehmen sollten",
+      "html": "<p>Falsche Auskünfte an Kunden können Ärger, Kosten oder Haftungsfragen auslösen. Wer KI nutzt, sollte deshalb festlegen, welche Texte vor Versand geprüft werden, und Chatbots auf eigene Inhalte beschränken, etwa per <a href=\"/glossar/rag/\">RAG</a>. Ein guter <a href=\"/glossar/chatbot/\">Chatbot</a> gibt lieber zu, dass er etwas nicht weiß, und verbindet mit dem Team.</p><p>Mehr zu den Grenzen der Technik erklärt der Ratgeber <a href=\"/wissen/ki-grenzen/\">Grenzen von KI</a>, typische Stolpersteine bei Bots zeigt <a href=\"/wissen/chatbot-fehler/\">Chatbot-Fehler</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann man Halluzinationen ganz verhindern?",
+      "a": "Vollständig nicht, aber man kann sie stark reduzieren. Hilfreich sind klare Anweisungen, die KI nur auf geprüfte Unterlagen zugreifen zu lassen und sie zu verpflichten, bei fehlenden Informationen nachzufragen oder an Menschen zu übergeben. Für wichtige Texte wie Angebote, Verträge oder rechtliche Hinweise bleibt die Kontrolle durch eine Person unverzichtbar."
+    },
+    {
+      "q": "Woran erkenne ich eine Halluzination?",
+      "a": "Achten Sie besonders auf konkrete Zahlen, Paragraphen, Studien, Namen und Quellenangaben. Wirkt eine Angabe sehr genau, ohne dass Sie sie kennen, prüfen Sie sie an einer verlässlichen Stelle. Fragen Sie die KI nach der Quelle und kontrollieren Sie, ob diese existiert. Misstrauisch sollten Sie auch werden, wenn die Antwort zu perfekt zur Frage passt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/ki-grenzen/",
+    "/glossar/rag/",
+    "/wissen/chatbot-fehler/",
+    "/glossar/large-language-model/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

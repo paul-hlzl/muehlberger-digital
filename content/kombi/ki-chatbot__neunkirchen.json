@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/neunkirchen/",
+  "title": "KI-Chatbot für Handwerk mit Notdienst in Neunkirchen",
+  "description": "Rohrbruch am Sonntag, Heizung aus am Abend: Wie ein KI-Chatbot Handwerksbetrieben in Neunkirchen hilft, Notfälle von Routinefragen zu trennen.",
+  "h1": "KI-Chatbot für die Website in Neunkirchen",
+  "kicker": "KI-Chatbot · Bezirk Neunkirchen",
+  "lead": "Für Handwerksbetriebe im Bezirk Neunkirchen mit Notdienst ist ein KI-Chatbot vor allem ein Sortierer: Er beantwortet Routinefragen selbst und zeigt in echten Notfällen sofort den richtigen Weg zur Notdienstnummer. Pipebot nutzt nur Ihre Website-Inhalte, läuft rund um die Uhr und kostet 19 € im Monat.",
+  "fakten": [
+    "Industrieviertel mit vielen Handwerks- und Gewerbebetrieben",
+    "Der Bezirk reicht bis zu Rax und Schneeberg, Anfahrten können weit sein",
+    "Der Bot trennt Routinefragen von Notfällen, ersetzt aber keine Notrufnummer",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Notfall oder Routine? Die Frage am späten Abend",
+      "html": "<p>Der <a href=\"/regionen/bezirk-neunkirchen/\">Bezirk Neunkirchen</a> im Industrieviertel reicht von den Städten im Tal bis hinauf zu Rax und Schneeberg. Handwerksbetriebe mit Notdienst fahren entsprechend weit, und nach Feierabend läutet das Telefon für alles Mögliche.</p><p>Ein Teil davon ist echter Notfall, ein großer Teil nicht: die Frage nach dem nächsten Wartungstermin oder ob Sie eine bestimmte Therme betreuen. Ein Chatbot nimmt diese Fragen ab, damit das Notdiensthandy für die echten Fälle frei bleibt.</p>"
+    },
+    {
+      "h2": "Der Bot ersetzt keine Notdienstnummer",
+      "html": "<p>Das Wichtigste vorweg: In einem Notfall soll niemand chatten. Ihre Notdienstnummer gehört gut sichtbar auf die Website. Beschreiben Sie dort auch, was als Notfall gilt, etwa Rohrbruch, Heizungsausfall im Winter oder ausgelaufenes Wasser.</p><p>Pipebot gibt genau diese Regeln weiter. Schreibt jemand „Bei mir rinnt Wasser aus der Decke“, verweist der Bot auf die Notdienstnummer, statt einen Termin für nächste Woche vorzuschlagen. Mehr zum Notdienst im Handwerk auf der Seite für <a href=\"/branchen/installateur/\">Installateure</a>.</p>"
+    },
+    {
+      "h2": "Was nach Feierabend sonst ankommt",
+      "html": "<ul><li>Bis wann sollte ich die Thermenwartung vor dem Winter ausmachen?</li><li>Kommen Sie auch in die Gemeinden am Semmering oder nach Puchberg?</li><li>Was kostet ein Notdiensteinsatz am Wochenende?</li><li>Kann ich für einen Badumbau einen Besichtigungstermin bekommen?</li></ul><p>Ein Rauchfangkehrerbetrieb hört Ähnliches zu Kehrterminen und Überprüfungen, siehe <a href=\"/branchen/rauchfangkehrer/\">Rauchfangkehrer</a>. Der Bot beantwortet, was auf der Website steht, und gibt alles andere an Sie weiter.</p>"
+    },
+    {
+      "h2": "Chatbot oder Telefonassistent?",
+      "html": "<p>Viele Notdienstanfragen kommen per Telefon, nicht über die Website. Für Anrufe gibt es den <a href=\"/leistungen/ki-telefonassistent/\">KI-Telefonassistenten</a>, der über Pipeline angeboten wird, Preis auf Anfrage. Der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> deckt die Website ab und kostet 19 € im Monat.</p><p>Welche Lösung zuerst sinnvoll ist, hängt davon ab, wo Ihre Anfragen herkommen. Das lässt sich im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot einen Notdiensteinsatz auslösen?",
+      "a": "Nein. Pipebot beantwortet Fragen mit Ihren Website-Inhalten, er alarmiert niemanden. In einem Notfall verweist er auf Ihre Notdienstnummer, wenn sie auf der Website steht. Deshalb ist es wichtig, die Nummer und die Regeln für Notfälle klar zu veröffentlichen. Der Bot ist für die vielen Routinefragen da, nicht für die Fälle, in denen jede Minute zählt."
+    },
+    {
+      "q": "Ist ein KI-Telefonassistent für den Notdienst nicht die bessere Wahl?",
+      "a": "Das kommt darauf an, wo Ihre Anfragen ankommen. Wenn fast alle Kunden anrufen, entlastet ein Telefonassistent mehr. Wenn viele zuerst auf die Website schauen, ist der Chatbot der günstigere Einstieg. Beides lässt sich kombinieren. Der Chatbot kostet 19 € im Monat, der Telefonassistent wird über Pipeline angeboten, der Preis richtet sich nach Ihrem Bedarf und ist auf Anfrage."
+    },
+    {
+      "q": "Darf der Bot Preise für Notdiensteinsätze nennen?",
+      "a": "Ja, wenn Sie diese Preise auf Ihrer Website veröffentlichen, etwa eine Anfahrtspauschale oder Zuschläge für Nacht und Wochenende. Pipebot gibt sie dann wörtlich weiter. Viele Kunden schätzen diese Offenheit, weil sie vorher wissen, womit sie rechnen müssen. Stehen keine Preise auf der Seite, sagt der Bot das ehrlich und verweist an Sie."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-neunkirchen/",
+    "/branchen/installateur/",
+    "/leistungen/ki-telefonassistent/",
+    "/wissen/erreichbarkeit/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

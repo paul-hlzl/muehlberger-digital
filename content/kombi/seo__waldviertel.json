@@ -1,0 +1,57 @@
+{
+  "pfad": "/leistungen/seo/waldviertel/",
+  "title": "SEO im Waldviertel: regional verwurzelt, online gefunden",
+  "description": "SEO für Betriebe im Waldviertel: wie regionale Herkunft zum Suchbegriff wird und Sie Kundschaft vor Ort, Gäste und Käufer in ganz Österreich erreichen.",
+  "h1": "Suchmaschinenoptimierung (SEO) im Waldviertel",
+  "kicker": "SEO · Waldviertel",
+  "lead": "„Waldviertler“ ist für viele Menschen ein Qualitätsversprechen und wird deshalb auch aktiv gesucht, etwa bei Mohn, Karpfen oder Erdäpfeln. SEO im Waldviertel nutzt diese Herkunft, um Kundschaft weit über die Region hinaus zu erreichen, und sorgt gleichzeitig dafür, dass Betriebe in einer dünn besiedelten Gegend vor Ort gefunden werden.",
+  "fakten": [
+    "Das Waldviertel ist der nordwestliche Teil Niederösterreichs, ländlich und dünn besiedelt",
+    "Regionale Produkte werden oft mit „Waldviertler“ gesucht",
+    "Drei Märkte: vor Ort, Gäste, ganz Österreich",
+    "Mühlberger Digital sitzt selbst im Waldviertel, in Ottenschlag"
+  ],
+  "abschnitte": [
+    {
+      "h2": "„Waldviertler“ ist ein Suchbegriff",
+      "html": "<p>Wer Waldviertler Mohn, Karpfen oder Erdäpfel sucht, will Herkunft und Qualität. Für Produzenten und Direktvermarkter ist das ein Vorteil, den viele online noch nicht nutzen. Eine Website, die Herkunft, Herstellung und Bestellmöglichkeit klar zeigt, wird von Menschen in ganz Österreich gefunden.</p><p>Wie man regionale Produkte online verkauft, erklärt der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">regionale Produkte online</a>. Die Grundlagen der <a href=\"/leistungen/seo/\">Suchmaschinenoptimierung</a> finden Sie auf der Leistungsseite.</p>"
+    },
+    {
+      "h2": "Drei Märkte, drei Strategien",
+      "html": "<ol><li><strong>Kundschaft vor Ort:</strong> Handwerk, Praxen und Nahversorger werden in der Kartensuche gefunden. Hier zählen Google-Profil, Einzugsgebiet und Bewertungen.</li><li><strong>Gäste:</strong> Ferienwohnungen, Gasthäuser und Ausflugsziele werden von Menschen gesucht, die die Region noch nicht kennen. Hier zählen Fotos, Anreise und aktuelle Informationen.</li><li><strong>Ganz Österreich:</strong> Produzenten und Onlinehändler erreichen Käufer weit weg. Hier zählen Produktseiten, Herkunft und Versand.</li></ol><p>Viele Betriebe bedienen zwei dieser Märkte. Wichtig ist, sie auf der Website sauber zu trennen.</p>"
+    },
+    {
+      "h2": "Beispiele aus der Region",
+      "html": "<p>Ein <strong>Mohnbauer</strong> mit Hofladen kann vor Ort Laufkundschaft gewinnen und online Bestellungen aus Wien. Eine <strong>Teichwirtschaft</strong> mit Karpfen hat eine klare Saison, die Inhalte müssen rechtzeitig vorher online sein. Eine <strong>Ferienwohnung</strong> braucht Fotos, Lage und Anreise, ein <strong>Tischler</strong> eigene Seiten für seine wichtigsten Leistungen.</p><p>Mehr zur Digitalisierung in der Region im Ratgeber <a href=\"/wissen/digitalisierung-waldviertel/\">Digitalisierung im Waldviertel</a>.</p>"
+    },
+    {
+      "h2": "Warum wir hier persönlich beraten",
+      "html": "<p>Mühlberger Digital sitzt in <a href=\"/regionen/ottenschlag/\">Ottenschlag</a>, mitten im Waldviertel. Erstgespräche führen wir deshalb gern im Betrieb, abends unter der Woche. Wer Gäste oder Käufer von auswärts erreichen will, sollte auch prüfen, wie KI-Assistenten die Region und den eigenen Betrieb darstellen. Mehr dazu bei <a href=\"/leistungen/geo-ki-sichtbarkeit/\">GEO und KI-Sichtbarkeit</a>, den Stand misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a>.</p><p>Mehr zur Region auf der Seite <a href=\"/regionen/waldviertel/\">Waldviertel</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie nutze ich die Herkunft „Waldviertel“ in der Suche?",
+      "a": "Indem Sie sie dort nennen, wo sie für Ihr Produkt oder Ihre Leistung zählt: in Produktbeschreibungen, auf der Startseite und in der Geschichte Ihres Betriebs. Zeigen Sie, was die Herkunft ausmacht, etwa Anbau, Verarbeitung oder Handwerk. Übertreiben Sie dabei nicht. Glaubwürdige, konkrete Angaben überzeugen Menschen und Suchmaschinen mehr als häufige Wiederholungen."
+    },
+    {
+      "q": "Lohnt sich SEO in einer so dünn besiedelten Gegend?",
+      "a": "Für Betriebe, die Kundschaft von außerhalb erreichen wollen, oft sogar besonders: Gäste und Käufer aus anderen Regionen finden Sie praktisch nur online. Für Handwerk mit regionalem Einzugsgebiet reicht häufig eine solide Grundausstattung aus Google-Profil, übersichtlicher Website und Bewertungen. Im Erstgespräch klären wir, welcher Aufwand für Sie angemessen ist."
+    },
+    {
+      "q": "Kann ich meine Produkte online verkaufen und trotzdem lokal bleiben?",
+      "a": "Ja, beides ergänzt sich gut. Viele Direktvermarkter verkaufen im Hofladen an die Nachbarschaft und verschicken zusätzlich an Kunden in anderen Bundesländern. Die Website sollte beide Wege klar zeigen: Öffnungszeiten und Anfahrt für den Hofladen, Bestellung und Versand für Kunden von weiter weg. Wichtig ist, dass Versand und Verpackung zu Ihren Produkten passen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/seo/",
+    "/regionen/waldviertel/",
+    "/regionen/ottenschlag/",
+    "/branchen/hofladen/",
+    "/leistungen/website-erstellen/waldviertel/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

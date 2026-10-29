@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/serp/",
+  "title": "SERP: Die Suchergebnisseite einfach erklärt",
+  "description": "SERP einfach erklärt: Woraus die Google-Ergebnisseite besteht, von Anzeigen über Karten bis KI-Übersicht, und was das für Ihren Betrieb heißt.",
+  "h1": "SERP – Search Engine Results Page",
+  "kicker": "Glossar · SEO",
+  "lead": "SERP (Search Engine Results Page) ist die Ergebnisseite, die eine Suchmaschine nach einer Suchanfrage anzeigt. Bei Google besteht sie heute aus mehreren Bereichen, etwa Anzeigen, Kartenergebnissen, KI-Übersicht und den klassischen organischen Treffern.",
+  "fakten": [
+    "Organische Treffer sind unbezahlt, Anzeigen sind gekennzeichnet",
+    "Bei lokalen Suchen erscheint oft ein Kartenblock mit Betrieben",
+    "Aufbau ändert sich je nach Suchanfrage und Gerät"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wie eine Ergebnisseite aufgebaut ist",
+      "html": "<p>Sucht jemand „Installateur Notdienst Amstetten“, sieht er oft zuerst gekennzeichnete Anzeigen, dann einen Kartenblock mit einigen Betrieben samt Bewertungen und danach die normalen Website-Ergebnisse. Bei Fragen wie „Warum tropft mein Wasserhahn?“ erscheint dagegen eher eine <a href=\"/glossar/ki-uebersicht/\">KI-Übersicht</a>, ähnliche Fragen oder Videos.</p><p>Jedes organische Ergebnis besteht aus <a href=\"/glossar/title-tag/\">Title-Tag</a>, Adresse und Beschreibung, manchmal ergänzt durch ein <a href=\"/glossar/rich-snippet/\">Rich Snippet</a>.</p>"
+    },
+    {
+      "h2": "Warum KMU die SERP verstehen sollten",
+      "html": "<p>Platz 1 bei den Website-Ergebnissen ist nicht mehr automatisch ganz oben auf dem Bildschirm. Für lokale Betriebe ist der Kartenblock oft wichtiger, für Ratgeberthemen die KI-Übersicht. Wer weiß, was bei seinen wichtigsten Suchbegriffen tatsächlich angezeigt wird, kann gezielter investieren.</p><p>Ob bezahlte Anzeigen oder organische Sichtbarkeit besser passen, erklärt der Vergleich <a href=\"/vergleiche/seo-oder-google-ads/\">SEO oder Google Ads</a>. Die Grundlagen der Anzeigen beschreibt <a href=\"/wissen/google-ads-grundlagen/\">Google-Ads-Grundlagen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum sehe ich andere Ergebnisse als meine Kunden?",
+      "a": "Google passt Ergebnisse an Standort, Gerät, Sprache und teilweise an frühere Suchen an. Wer im Nachbarort sucht, sieht deshalb einen anderen Kartenblock. Um ein neutraleres Bild zu bekommen, können Sie im privaten Browserfenster suchen oder Werkzeuge nutzen, die Platzierungen für bestimmte Orte messen. Ihre eigene Suche ist nur eine Stichprobe."
+    },
+    {
+      "q": "Was bedeutet organisches Suchergebnis?",
+      "a": "Organisch heißt, dass das Ergebnis nicht bezahlt ist, sondern aufgrund seiner Relevanz für die Suchanfrage angezeigt wird. Anzeigen sind dagegen als „Gesponsert“ gekennzeichnet und kosten pro Klick. Organische Sichtbarkeit erarbeitet man durch gute Inhalte, saubere Technik und Vertrauenssignale, also durch Suchmaschinenoptimierung. Sie hält meist länger an als eine Werbekampagne."
+    }
+  ],
+  "verwandt": [
+    "/vergleiche/seo-oder-google-ads/",
+    "/glossar/seo/",
+    "/glossar/ki-uebersicht/",
+    "/wissen/seo-grundlagen/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

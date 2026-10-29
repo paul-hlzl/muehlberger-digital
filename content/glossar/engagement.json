@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/engagement/",
+  "title": "Engagement auf Social Media einfach erklärt",
+  "description": "Engagement einfach erklärt: Was Likes, Kommentare und geteilte Beiträge über Ihre Social-Media-Arbeit aussagen und wie Sie mehr echte Reaktionen bekommen.",
+  "h1": "Engagement – Reaktionen auf Ihre Beiträge",
+  "kicker": "Glossar · Social Media",
+  "lead": "Engagement bezeichnet in sozialen Netzwerken alle Reaktionen auf einen Beitrag, also Likes, Kommentare, geteilte Beiträge, Speicherungen und Klicks. Die Engagement-Rate setzt diese Reaktionen ins Verhältnis zur Zahl der erreichten Personen oder Follower.",
+  "fakten": [
+    "Kommentare und Teilen wiegen meist mehr als ein Like",
+    "Plattformen zeigen Beiträge mit viel Engagement mehr Menschen",
+    "Wenige echte Reaktionen sind mehr wert als gekaufte Follower"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Engagement am Beispiel eines Betriebs",
+      "html": "<p>Ein Bio-Bauernhof postet ein Foto von neuen Kälbern und fragt: „Wie sollen die beiden heißen?“. Der Beitrag bekommt viele Kommentare mit Namensvorschlägen und wird geteilt. Ein Beitrag mit dem Text „Unsere Öffnungszeiten“ erreicht dagegen kaum Reaktionen. Die Plattform zeigt daraufhin den Kälber-Beitrag mehr Menschen, auch solchen, die dem Hof noch nicht folgen.</p><p>Auf LinkedIn wirkt Engagement ähnlich: Ein Beitrag, den Kunden kommentieren, erreicht auch deren Kontakte.</p>"
+    },
+    {
+      "h2": "Warum Engagement für KMU zählt",
+      "html": "<p>Reichweite allein bringt wenig, wenn niemand reagiert. Engagement zeigt, ob Ihre Inhalte die richtigen Menschen ansprechen, und erhöht die Chance, dass Beiträge weiter verbreitet werden. Für kleine Betriebe zählen dabei vor allem Reaktionen aus der Region und von möglichen Kunden.</p><p>Echte Einblicke, Fragen an die Community und Antworten auf Kommentare helfen mehr als perfekte Werbefotos. Ideen liefern der Ratgeber <a href=\"/wissen/instagram-unternehmen/\">Instagram für Unternehmen</a> und <a href=\"/wissen/linkedin-kmu/\">LinkedIn für KMU</a>; für regelmäßige Beiträge hilft ein <a href=\"/glossar/redaktionsplan/\">Redaktionsplan</a>. Den Kanalvergleich zeigt <a href=\"/vergleiche/instagram-oder-linkedin/\">Instagram oder LinkedIn</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine gute Engagement-Rate?",
+      "a": "Eine allgemeingültige Zahl gibt es nicht. Sie hängt von Plattform, Branche, Größe des Profils und Art des Beitrags ab. Kleine Profile mit treuer Gemeinschaft haben oft höhere Werte als große Konten. Vergleichen Sie am besten Ihre eigenen Beiträge miteinander: Welche Themen und Formate bekommen mehr Reaktionen? Davon machen Sie künftig mehr."
+    },
+    {
+      "q": "Soll ich Likes oder Follower kaufen, um mehr Engagement zu bekommen?",
+      "a": "Davon ist abzuraten. Gekaufte Likes und Follower stammen meist von Konten, die nie Kunden werden, verfälschen Ihre Auswertungen und können von den Plattformen erkannt und bestraft werden. Echte Reaktionen von Menschen aus Ihrer Region sind viel wertvoller. Investieren Sie die Zeit lieber in gute Beiträge und Antworten auf Kommentare."
+    }
+  ],
+  "verwandt": [
+    "/wissen/social-media-kleine-betriebe/",
+    "/glossar/redaktionsplan/",
+    "/vergleiche/instagram-oder-linkedin/",
+    "/produkte/pipeflow/"
+  ],
+  "checks": [
+    "social-media-test"
+  ]
+}

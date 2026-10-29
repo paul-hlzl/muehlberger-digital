@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/google-ki-uebersichten/",
+  "title": "Google-KI-Übersichten: Was sie für Ihren Betrieb heißen",
+  "description": "Google-KI-Übersichten erklärt: wann sie erscheinen, wie sie Klicks verändern und wie Ihr Betrieb als Quelle genannt werden kann, ohne Tricks und Versprechen.",
+  "h1": "Google-KI-Übersichten und Ihr Betrieb",
+  "kicker": "Ratgeber · KI-Sichtbarkeit",
+  "lead": "Google-KI-Übersichten sind von KI geschriebene Zusammenfassungen, die über den normalen Suchergebnissen erscheinen und Quellen verlinken. Für Betriebe heißt das: Bei Informationsfragen klicken weniger Menschen auf Websites, wer aber als Quelle genannt wird, gewinnt Vertrauen. Mit klaren, gut strukturierten Antworten auf Ihrer Website steigt die Chance, dort aufzutauchen.",
+  "fakten": [
+    "KI-Übersichten erscheinen vor allem bei Fragen, weniger bei reinen Firmensuchen",
+    "Sie verlinken Quellen, aus denen die Zusammenfassung stammt",
+    "Bei lokalen Suchen bleiben Karte und Unternehmensprofile meist sehr wichtig",
+    "Eine eigene Anmeldung für KI-Übersichten gibt es nicht, es zählt gutes SEO"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was KI-Übersichten sind",
+      "html": "<p>Wenn Sie bei Google eine Frage stellen, etwa „Wie lange dauert eine Badsanierung?“, erscheint oft ganz oben ein Kasten mit einer zusammengefassten Antwort. Diese <a href=\"/glossar/ki-uebersicht/\">KI-Übersicht</a> schreibt Google mit seinem Sprachmodell aus mehreren Websites zusammen. Neben oder unter dem Text stehen Links zu den Quellen.</p> <p>Darunter folgen weiterhin die bekannten Ergebnisse: Anzeigen, Karte mit Unternehmen, normale Links. Die KI-Übersicht ersetzt diese nicht, sie schiebt sich aber an die prominenteste Stelle. Google erweitert die Funktion laufend, etwa mit einem eigenen KI-Modus für längere Gespräche.</p>"
+    },
+    {
+      "h2": "Wann KI-Übersichten erscheinen",
+      "html": "<p>Nicht jede Suche bekommt eine KI-Übersicht. Grob lässt sich unterscheiden:</p> <ul> <li><strong>Häufig:</strong> Wissens- und Ratgeberfragen wie „Was kostet eine Wärmepumpe ungefähr?“ oder „Welche Fliesen eignen sich für eine Dusche?“</li> <li><strong>Seltener:</strong> klare Firmensuchen wie „Tischlerei Muster Zwettl“ oder Suchen mit Kaufabsicht vor Ort wie „Installateur in der Nähe“. Dort dominieren meist Karte und Unternehmensprofile.</li> <li><strong>Gemischt:</strong> Fragen mit Ortsbezug und Beratungsbedarf, etwa „Worauf achten bei Dachsanierung im Waldviertel?“</li> </ul> <p>Für einen kleinen Betrieb heißt das: Ihre Ratgeber- und Leistungsseiten können in KI-Übersichten als Quelle erscheinen, für die direkte Suche nach Ihnen bleibt das <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil</a> zentral.</p>"
+    },
+    {
+      "h2": "Was sich für Klicks und Anfragen ändert",
+      "html": "<p>Wenn die Antwort schon oben steht, klicken weniger Menschen auf die Websites darunter. Das betrifft vor allem Seiten, die einfache Fragen beantworten. Für Betriebe ist das weniger dramatisch, als es klingt, denn die wertvollen Besucher sind die, die einen Auftrag vergeben wollen, und die brauchen mehr als eine Kurzantwort.</p> <p>Gleichzeitig hat die Nennung als Quelle einen Wert: Wer bei „Wie lange dauert eine Badsanierung?“ als Quelle neben der Antwort steht, wirkt kompetent, auch wenn nicht jeder klickt. Achten Sie in Ihrer Statistik deshalb weniger auf reine Besucherzahlen und mehr auf Anfragen. Hilfe dazu gibt <a href=\"/wissen/website-statistik-lesen/\">Website-Statistik richtig lesen</a>.</p>"
+    },
+    {
+      "h2": "Wie Ihre Seite als Quelle infrage kommt",
+      "html": "<p>Google wählt Quellen für KI-Übersichten aus seinem normalen Index. Eine Seite, die bei Google gut auffindbar ist, hat deshalb die besten Voraussetzungen. Darüber hinaus helfen:</p> <ul> <li><strong>Direkte Antworten am Anfang</strong> eines Abschnitts, in zwei, drei Sätzen.</li> <li><strong>Klare Zwischenüberschriften</strong>, die als Frage formuliert sein können.</li> <li><strong>Konkrete Angaben</strong>: Dauer, Ablauf, Kostenfaktoren, Voraussetzungen. Keine allgemeinen Floskeln.</li> <li><strong>Erfahrung zeigen</strong>: „In Altbauten im Waldviertel stoßen wir oft auf …“ ist etwas, das nur ein echter Betrieb schreiben kann.</li> <li><strong>Aktualität</strong>: Veraltete Angaben werden seltener übernommen.</li> </ul>"
+    },
+    {
+      "h2": "Typische Situationen aus dem Betriebsalltag",
+      "html": "<ul> <li><strong>Ein Dachdecker</strong> beantwortet auf seiner Website die Frage „Wann ist eine Dachsanierung nötig?“ mit Anzeichen, Ablauf und Kostenfaktoren. Die Seite kann bei passenden Fragen als Quelle erscheinen und bringt Besucher, die bereits konkret planen.</li> <li><strong>Ein Heuriger</strong> wird bei „Heuriger mit Spielplatz in der Nähe“ eher über die Karte und das Unternehmensprofil gefunden. Hier zählt ein vollständiges Profil mit Eigenschaften und Fotos.</li> <li><strong>Eine Steuerberaterin</strong> erklärt in einem Ratgeber die Grundlagen der Kleinunternehmerregelung. Als Quelle genannt zu werden, stärkt ihren Ruf, auch wenn nicht jeder Leser klickt.</li> </ul>"
+    },
+    {
+      "h2": "Steuerung und Grenzen",
+      "html": "<p>Eine eigene Anmeldung für KI-Übersichten gibt es nicht, und niemand kann eine Nennung garantieren. Über technische Angaben wie „nosnippet“ können Sie einschränken, dass Google Textauszüge Ihrer Seite verwendet. Das gilt aber auch für normale Suchergebnisse und ist für die meisten Betriebe nicht sinnvoll.</p> <p>Fehler in KI-Übersichten kommen vor. Wenn Google falsche Angaben über Ihren Betrieb macht, korrigieren Sie zuerst die Quellen: Website, Unternehmensprofil, Verzeichnisse. Über die Feedback-Funktion an der Übersicht können Sie Fehler zusätzlich melden.</p>"
+    },
+    {
+      "h2": "Ihre nächsten Schritte",
+      "html": "<ol> <li>Prüfen Sie, bei welchen Fragen Ihrer Kunden KI-Übersichten erscheinen und wer dort als Quelle steht.</li> <li>Bauen Sie für die drei wichtigsten Fragen eine klare Antwort auf Ihrer Website.</li> <li>Halten Sie Ihr Unternehmensprofil vollständig und aktuell.</li> <li>Messen Sie Anfragen statt nur Klicks.</li> </ol> <p>Ob Google und KI-Suchen Ihren Betrieb nennen, zeigt der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden. Die Grundlagen der technischen Auffindbarkeit prüft der <a href=\"/gratis-check/seo-check/\">Gratis-SEO-Check</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sind Google-KI-Übersichten?",
+      "a": "Google-KI-Übersichten sind automatisch erstellte Zusammenfassungen, die bei vielen Suchanfragen über den normalen Ergebnissen erscheinen. Google erzeugt sie mit einem Sprachmodell aus mehreren Websites und verlinkt diese als Quellen. Sie sollen eine Frage direkt beantworten. Darunter folgen weiterhin Anzeigen, Kartenergebnisse mit Unternehmensprofilen und die gewohnten Links zu Websites."
+    },
+    {
+      "q": "Kann ich meinen Betrieb in KI-Übersichten eintragen lassen?",
+      "a": "Nein, eine Anmeldung oder einen bezahlten Platz gibt es nicht. Google wählt Quellen selbst aus seinem Suchindex. Die besten Voraussetzungen haben Seiten, die bei Google gut auffindbar sind, eine Frage am Anfang direkt und konkret beantworten, klar gegliedert sind und erkennbar aus echter Erfahrung geschrieben wurden. Eine Nennung kann trotzdem niemand garantieren."
+    },
+    {
+      "q": "Bekomme ich durch KI-Übersichten weniger Besucher?",
+      "a": "Bei einfachen Wissensfragen klicken oft weniger Menschen auf Websites, weil die Antwort schon oben steht. Für Betriebe sind aber vor allem Besucher wertvoll, die einen konkreten Auftrag vergeben möchten, und die brauchen meist mehr Informationen und einen Kontakt. Beobachten Sie deshalb nicht nur Besucherzahlen, sondern vor allem, ob die Zahl der Anfragen stabil bleibt."
+    },
+    {
+      "q": "Was tue ich, wenn eine KI-Übersicht Falsches über meinen Betrieb sagt?",
+      "a": "Prüfen Sie zuerst, woher die falsche Angabe stammen könnte: von Ihrer Website, Ihrem Unternehmensprofil, einem Verzeichnis oder einer fremden Seite. Korrigieren Sie die Quelle und halten Sie Ihre Firmendaten überall einheitlich. Zusätzlich können Sie über die Feedback-Funktion direkt an der Übersicht einen Fehler melden. Nach einiger Zeit sollte die richtige Angabe übernommen werden."
+    }
+  ],
+  "verwandt": [
+    "/glossar/ki-uebersicht/",
+    "/wissen/was-ist-geo/",
+    "/wissen/ki-suche-trends/",
+    "/leistungen/geo-ki-sichtbarkeit/",
+    "/leistungen/seo/"
+  ],
+  "checks": [
+    "ki-sichtbarkeit",
+    "seo-check"
+  ]
+}

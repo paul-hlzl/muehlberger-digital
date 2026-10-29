@@ -1,0 +1,77 @@
+{
+  "pfad": "/leistungen/individuelle-software/",
+  "title": "Individuelle Software & Web-Apps für KMU",
+  "description": "Individuelle Software für KMU: wann eine eigene Web-App besser passt als Standardsoftware, wie KI eingebunden wird und wie Sie klein und sicher starten.",
+  "h1": "Individuelle Software und Web-Apps für kleine und mittlere Betriebe",
+  "kicker": "Leistung · Software",
+  "lead": "Individuelle Software lohnt sich für KMU dann, wenn Standardprogramme Ihre Abläufe nur mit Umwegen abbilden und Ihr Team deshalb täglich Daten doppelt eingibt, Listen abgleicht oder nachfragt. Eine eigene Web-App bildet genau Ihren Ablauf ab, auf Wunsch mit KI-Funktionen. Wir starten bewusst klein, zeigen Zwischenstände mit Ihren eigenen Daten und nennen den Preis nach dem kostenlosen Erstgespräch schriftlich.",
+  "fakten": [
+    "Web-Apps, interne Werkzeuge, Kundenportale und Schnittstellen zwischen Programmen",
+    "KI-Integration mit Claude oder OpenAI, etwa zum Auswerten von Texten und Dokumenten",
+    "Erst prüfen, ob Standardsoftware reicht, dann entscheiden",
+    "Preis auf Anfrage nach dem kostenlosen Erstgespräch, schriftliches Angebot",
+    "Umsetzung durch Pipeline AI Solutions, Beratung durch Mühlberger Digital"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wann individuelle Software für KMU sinnvoll ist",
+      "html": "<p>Die meisten Betriebe kommen lange gut mit Standardprogrammen und Tabellen aus. Individuelle Software wird interessant, wenn sich Umwege häufen. Typische Warnsignale:</p>\n<ul>\n<li><strong>Dieselben Daten an mehreren Stellen</strong>: Ein Auftrag wird im E-Mail-Postfach, in einer Excel-Liste und im Rechnungsprogramm getrennt erfasst.</li>\n<li><strong>Eine Person als Engpass</strong>: Nur die Chefin weiß, wie die große Tabelle funktioniert. Ist sie im Urlaub, steht vieles.</li>\n<li><strong>Standardsoftware passt fast, aber nicht ganz</strong>, und für den Rest gibt es Zettel, Notizen und Rückfragen.</li>\n<li><strong>Kunden fragen immer wieder nach dem Stand</strong>, weil sie keinen Einblick haben.</li>\n</ul>\n<p>Wenn mehrere dieser Punkte zutreffen, lohnt ein genauer Blick. Bevor wir etwas entwickeln, prüfen wir aber, ob es nicht eine fertige Lösung gibt, die günstiger ist. Was Sie nicht brauchen, empfehlen wir nicht.</p>"
+    },
+    {
+      "h2": "Was eine Web-App leisten kann",
+      "html": "<p>Eine <a href=\"/glossar/web-app/\">Web-App</a> ist eine Anwendung, die im Browser läuft, am Computer im Büro genauso wie am Handy unterwegs. Es muss nichts installiert werden, und alle arbeiten immer mit dem aktuellen Stand. Beispiele aus dem Alltag kleiner Betriebe, als typische Situationen beschrieben:</p>\n<ul>\n<li><strong>Auftragsübersicht für einen Handwerksbetrieb</strong>: Anfrage, Besichtigung, Angebot, Auftrag, Rechnung, alles an einem Ort, mit klaren Zuständigkeiten.</li>\n<li><strong>Kundenportal für ein Planungsbüro</strong>: Kundinnen und Kunden sehen den Projektstand und laden Unterlagen hoch, statt sie per E-Mail zu schicken.</li>\n<li><strong>Verwaltung für einen Verein</strong>: Mitglieder, Beiträge, Termine und Hallenbelegung in einer gemeinsamen Anwendung statt in mehreren Listen.</li>\n<li><strong>Verbindung zwischen Programmen</strong>: Daten aus dem Webformular landen automatisch in der Kundenverwaltung und im Kalender. Eine Schnittstelle, auf Englisch <a href=\"/glossar/api/\">API</a>, macht das möglich.</li>\n</ul>\n<p>Wer vor allem eine einfache Kundenverwaltung sucht, findet im Ratgeber <a href=\"/wissen/crm-kleine-betriebe/\">CRM für kleine Betriebe</a> zuerst einen Überblick über fertige Lösungen.</p>"
+    },
+    {
+      "h2": "KI in Ihre Software einbinden",
+      "html": "<p>Viele Abläufe in kleinen Betrieben bestehen aus Lesen, Sortieren und Zusammenfassen. Hier kann künstliche Intelligenz helfen, eingebunden in Ihre eigene Software. Umgesetzt wird das mit den Sprachmodellen von Anbietern wie Claude oder OpenAI.</p>\n<ul>\n<li>Eingehende Anfragen werden gelesen, nach Thema eingeordnet und der richtigen Person zugewiesen.</li>\n<li>Aus Notizen einer Besichtigung entsteht ein Entwurf für das Angebot, den ein Mensch prüft und anpasst.</li>\n<li>Mitarbeiter stellen Fragen an die eigenen Unterlagen, etwa Handbücher oder interne Richtlinien, und bekommen Antworten mit Quelle.</li>\n</ul>\n<p>Wichtig ist dabei: KI macht Fehler. Gute Software sieht deshalb vor, dass ein Mensch wichtige Ergebnisse prüft, bevor sie an Kunden gehen. Welche Daten an welchen Dienst übertragen werden, klären wir vorab mit Ihnen. Wie Automatisierungen grundsätzlich funktionieren, beschreibt die Leistung <a href=\"/leistungen/ki-automatisierung/\">KI und Prozessautomatisierung</a>. Beispiele finden Sie auch unter <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "So entsteht Ihre Software: klein starten, dann ausbauen",
+      "html": "<ol>\n<li><strong>Kostenloses Erstgespräch</strong> (rund 30 Minuten, vor Ort, telefonisch oder per Video): Wo verlieren Sie heute Zeit, was soll anders werden?</li>\n<li><strong>Ablauf aufzeichnen</strong>: Wir gehen mit den Menschen durch, die täglich damit arbeiten, Schritt für Schritt.</li>\n<li><strong>Fertige Lösung prüfen</strong>: Gibt es ein Programm, das passt? Dann sagen wir Ihnen das.</li>\n<li><strong>Erste Version festlegen</strong>: Der kleinste Umfang, der im Alltag schon hilft.</li>\n<li><strong>Schriftliches Angebot</strong> mit klarem Preis.</li>\n<li><strong>Entwicklung mit Zwischenständen</strong>: Sie sehen und testen früh, mit Ihren eigenen Daten statt Beispielen.</li>\n<li><strong>Einführung und Ausbau</strong>: Erst wenn die erste Version im Alltag läuft, kommen weitere Funktionen dazu.</li>\n</ol>\n<p>Wenn Sie noch nicht wissen, wo Sie überhaupt ansetzen sollen, ist die <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a> der bessere erste Schritt.</p>"
+    },
+    {
+      "h2": "Was individuelle Software kostet",
+      "html": "<p>Individuelle Software ist immer ein <strong>Projekt mit Preis auf Anfrage</strong>. Nach dem kostenlosen Erstgespräch und der Klärung des Ablaufs bekommen Sie ein schriftliches Angebot. Alle Richtpreise sind unverbindlich und ohne Umsatzsteuer.</p>\n<p>Den Aufwand bestimmen vor allem die Anzahl der Abläufe, Benutzerrollen und Rechte, Anbindungen an bestehende Programme, KI-Funktionen sowie die Frage, wie viele Daten aus alten Listen übernommen werden müssen. Dazu kommen laufende Kosten für Betrieb, Wartung und gegebenenfalls Nutzungsgebühren der KI-Dienste.</p>\n<p>Zur ehrlichen Rechnung gehört auch die Gegenseite: Wie viele Stunden pro Woche kostet der heutige Umweg? Erst wenn das klar ist, lässt sich sagen, ob sich die Investition lohnt. Einen Überblick über alle Produkte und Leistungen gibt die Seite <a href=\"https://www.pipeline-solutions.at/leistungen/\">Leistungen von Pipeline AI Solutions</a>.</p>"
+    },
+    {
+      "h2": "Typische Fehler bei Softwareprojekten",
+      "html": "<ul>\n<li><strong>Den heutigen Umweg nachbauen</strong>: Statt die Excel-Liste eins zu eins zu digitalisieren, lohnt sich ein Blick, ob der Ablauf selbst einfacher geht.</li>\n<li><strong>Ohne die Nutzer planen</strong>: Wer täglich damit arbeitet, weiß am besten, wo es hakt. Beziehen Sie diese Menschen von Anfang an ein.</li>\n<li><strong>Alles in Version eins</strong>: Je größer der erste Umfang, desto länger dauert es, bis die Software überhaupt hilft.</li>\n<li><strong>Datenschutz am Schluss</strong>: Wer welche Daten sehen darf und wo sie gespeichert werden, gehört in die Planung, nicht in die Nacharbeit.</li>\n<li><strong>Keine Zuständigkeit im Betrieb</strong>: Jemand muss die Software intern betreuen, Fragen sammeln und Wünsche bündeln.</li>\n</ul>\n<p>Erzählen Sie uns im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, wo es bei Ihnen hakt. Wir sagen Ihnen ehrlich, ob eine eigene Lösung nötig ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann lohnt sich individuelle Software statt eines Standardprogramms?",
+      "a": "Individuelle Software lohnt sich, wenn Standardprogramme Ihre Abläufe nur mit Umwegen abbilden, Daten mehrfach eingegeben werden oder wichtige Informationen in Tabellen stecken, die nur eine Person versteht. Wenn ein fertiges Programm Ihren Bedarf weitgehend abdeckt, ist es meist günstiger und schneller eingeführt. Das prüfen wir deshalb immer zuerst, bevor wir eine eigene Lösung empfehlen."
+    },
+    {
+      "q": "Was kostet individuelle Software für ein KMU?",
+      "a": "Den Preis nennen wir nach dem kostenlosen Erstgespräch und der gemeinsamen Klärung des Ablaufs in einem schriftlichen Angebot. Er hängt von der Zahl der Abläufe, Benutzerrollen, Anbindungen an bestehende Programme und möglichen KI-Funktionen ab. Laufende Kosten für Betrieb, Wartung und KI-Dienste kommen dazu. Wir starten bewusst mit einer kleinen ersten Version, damit der Einstieg überschaubar bleibt."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen einer Web-App und einer Website?",
+      "a": "Eine Website informiert vor allem: Besucher lesen, schauen und nehmen Kontakt auf. Eine Web-App ist ein Werkzeug, mit dem man arbeitet: Daten eingeben, bearbeiten, freigeben, auswerten. Beide laufen im Browser und brauchen keine Installation. Eine Web-App hat meist Benutzerkonten mit unterschiedlichen Rechten, etwa für Büro, Außendienst und Geschäftsführung."
+    },
+    {
+      "q": "Kann die Software mit unseren bestehenden Programmen verbunden werden?",
+      "a": "Oft ja. Viele Programme bieten eine Schnittstelle, über die Daten automatisch ausgetauscht werden können, etwa mit Buchhaltung, Kalender, E-Mail oder Kundenverwaltung. Ob das bei Ihren Programmen möglich ist und mit welchem Aufwand, prüfen wir vor dem Angebot. Fehlt eine Schnittstelle, suchen wir einen praktikablen Weg, zum Beispiel über regelmäßige Datenexporte."
+    },
+    {
+      "q": "Wie sicher ist KI in eigener Software?",
+      "a": "Das hängt davon ab, welche Daten verarbeitet werden und bei welchem Dienst. Wir klären vorab mit Ihnen, welche Informationen an einen KI-Dienst wie Claude oder OpenAI gehen dürfen und welche nicht. Wichtige Ergebnisse sollten immer von einem Menschen geprüft werden, weil KI Fehler machen kann. Für rechtliche Fragen zum Datenschutz im Einzelfall ist die Datenschutzbehörde eine gute Anlaufstelle."
+    },
+    {
+      "q": "Was passiert, wenn wir später neue Funktionen brauchen?",
+      "a": "Genau dafür ist der schrittweise Aufbau gedacht. Die erste Version deckt den wichtigsten Ablauf ab, Wünsche aus dem Alltag werden gesammelt und in weiteren Schritten umgesetzt. Jede Erweiterung wird vorher besprochen und mit einem eigenen Preis angeboten. So investieren Sie nur in Funktionen, die Ihr Team tatsächlich braucht, und nicht in Vermutungen."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/leistungen/app-entwicklung/",
+    "/leistungen/digitalisierungsberatung/",
+    "/glossar/web-app/",
+    "/wissen/ki-projekt-starten/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

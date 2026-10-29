@@ -1,0 +1,75 @@
+{
+  "pfad": "/wissen/cookie-banner/",
+  "title": "Cookie-Banner: Wann er nötig ist und wann nicht",
+  "description": "Wann eine Website einen Cookie-Banner braucht, welche Cookies ohne Einwilligung erlaubt sind und wie Sie den Banner oft ganz vermeiden können.",
+  "h1": "Cookie-Banner: Wann ist er nötig?",
+  "kicker": "Ratgeber · Datenschutz",
+  "lead": "Einen Cookie-Banner brauchen Sie nur, wenn Ihre Website Cookies oder ähnliche Technologien einsetzt, die für den Betrieb nicht unbedingt nötig sind, etwa für Statistik, Werbung oder eingebettete Inhalte von Drittanbietern. Wer ausschließlich technisch notwendige Cookies verwendet, kommt in der Regel ohne Einwilligungsabfrage aus, muss in der Datenschutzerklärung aber trotzdem darüber informieren.",
+  "fakten": [
+    "Einwilligung ist nötig für alles, was nicht unbedingt für die gewünschte Funktion gebraucht wird",
+    "Rechtliche Grundlage in Österreich: Telekommunikationsgesetz (TKG 2021) und DSGVO",
+    "Ablehnen muss so einfach sein wie Zustimmen, nichts darf vorab angehakt sein",
+    "Vor der Zustimmung dürfen nicht notwendige Dienste nicht laden",
+    "Viele kleine Websites kommen mit lokalen Lösungen ganz ohne Banner aus"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Grundregel in einem Absatz",
+      "html": "<p>Wer Informationen auf dem Gerät des Besuchers speichert oder von dort ausliest, braucht dafür grundsätzlich dessen Einwilligung. Das ergibt sich in Österreich aus dem Telekommunikationsgesetz, das eine EU-Richtlinie umsetzt. Ausgenommen ist, was unbedingt erforderlich ist, damit ein vom Besucher ausdrücklich gewünschter Dienst funktioniert. Werden dabei personenbezogene Daten verarbeitet, gilt zusätzlich die DSGVO.</p><p>Wichtig: Die Regel betrifft nicht nur klassische <a href=\"/glossar/cookie/\">Cookies</a>, sondern auch ähnliche Techniken wie Local Storage, Pixel oder Fingerprinting. Entscheidend ist der Zweck, nicht der technische Name.</p>"
+    },
+    {
+      "h2": "Was als notwendig gilt und was nicht",
+      "html": "<p>Die Unterscheidung ist der Kern der Frage, ob Sie einen Banner brauchen.</p><p><strong>In der Regel ohne Einwilligung zulässig:</strong></p><ul><li>Warenkorb-Cookies in einem Onlineshop</li><li>Login-Sitzungen für einen Kundenbereich</li><li>Sicherheits-Cookies, etwa gegen Missbrauch von Formularen</li><li>Das Speichern der Cookie-Entscheidung selbst</li></ul><p><strong>In der Regel nur mit Einwilligung:</strong></p><ul><li>Statistik- und Analysewerkzeuge, die Cookies setzen oder Profile bilden</li><li>Werbe- und Remarketing-Pixel, etwa von Social-Media-Plattformen</li><li>Eingebettete Videos, Karten oder Social-Media-Feeds, die beim Laden Daten an Dritte senden</li></ul>"
+    },
+    {
+      "h2": "Typische Auslöser auf Websites kleiner Betriebe",
+      "html": "<p>Viele Betriebe sind überrascht, dass ihre Seite überhaupt Einwilligungen braucht. Meistens steckt einer dieser Bausteine dahinter:</p><ul><li>Ein Statistik-Tool, das vor Jahren eingebaut und nie wieder angesehen wurde</li><li>Ein eingebettetes YouTube-Video auf der Startseite</li><li>Eine Google-Karte bei der Anfahrtsbeschreibung</li><li>Ein Instagram-Feed, der die letzten Beiträge anzeigt</li><li>Ein Werbe-Pixel, das für eine einzelne Kampagne eingebaut wurde</li><li>Ein Chat-Widget eines externen Anbieters</li></ul><p>Extern geladene Schriften setzen zwar meist keine Cookies, übertragen aber IP-Adressen an Dritte. Dazu mehr im Ratgeber <a href=\"/wissen/google-fonts-lokal/\">Google Fonts lokal einbinden</a>.</p>"
+    },
+    {
+      "h2": "Wenn ein Banner nötig ist: so muss er gestaltet sein",
+      "html": "<p>Brauchen Sie einen Banner, muss er eine echte Wahl ermöglichen. Als Orientierung gilt:</p><ul><li>„Ablehnen“ ist auf der ersten Ebene genauso einfach erreichbar wie „Akzeptieren“.</li><li>Keine vorab angehakten Kästchen für nicht notwendige Zwecke.</li><li>Statistik, Werbung und externe Inhalte laden erst nach der Zustimmung.</li><li>Die Zwecke sind verständlich beschrieben, nicht nur mit Anbieternamen.</li><li>Besucher können ihre Entscheidung jederzeit ändern, etwa über einen Link im Fußbereich.</li><li>Die Website bleibt auch nach dem Ablehnen nutzbar.</li></ul><p>Gestaltungstricks wie ein grell leuchtender Zustimmungs-Button und ein kaum sichtbarer Ablehnen-Link sind problematisch. Im Zweifel orientieren Sie sich an den Informationen der <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>.</p>"
+    },
+    {
+      "h2": "Der elegantere Weg: den Banner überflüssig machen",
+      "html": "<p>Für viele kleine Websites ist die beste Lösung, auf einwilligungspflichtige Dienste zu verzichten oder sie datensparsam zu ersetzen:</p><ul><li><strong>Statistik ohne Cookies:</strong> Es gibt Werkzeuge, die Besucher zählen, ohne auf dem Gerät etwas zu speichern. Mehr dazu unter <a href=\"/wissen/besucheranalyse-ohne-cookies/\">Besucher zählen ohne Cookie-Banner</a>.</li><li><strong>Videos mit Zwei-Klick-Lösung:</strong> Statt des eingebetteten Players erscheint ein Vorschaubild, das Video lädt erst beim Klick, nach einem kurzen Hinweis.</li><li><strong>Karte als Bild mit Link:</strong> Ein Kartenausschnitt als Bild und ein Link „Route planen“ reichen meist völlig aus.</li><li><strong>Social-Media-Links statt Feeds:</strong> Ein Link auf Ihr Profil lädt nichts im Hintergrund.</li></ul><p>Das Ergebnis ist eine schnellere Seite, die Besucher nicht als Erstes mit einem Fenster begrüßt.</p>"
+    },
+    {
+      "h2": "So prüfen Sie Ihre eigene Website",
+      "html": "<p>Sie können selbst einen ersten Eindruck gewinnen. Öffnen Sie Ihre Website in einem privaten Browserfenster, ohne etwas anzuklicken. In den Entwicklerwerkzeugen des Browsers finden Sie unter „Anwendung“ bzw. „Speicher“ die gesetzten Cookies und unter „Netzwerk“ die Verbindungen zu fremden Servern.</p><p>Tauchen dort vor jeder Zustimmung Adressen von Analyse-, Werbe- oder Videodiensten auf, sollten Sie handeln. Zwei typische Situationen: Ein Heuriger zeigt seinen Instagram-Feed auf der Startseite, der bereits beim Laden Daten an die Plattform sendet. Eine Steuerberatungskanzlei nutzt eine Statistik, die vor der Einwilligung startet. Beides lässt sich mit den oben beschriebenen Alternativen lösen.</p>"
+    },
+    {
+      "h2": "Unterstützung bei der Umstellung",
+      "html": "<p>Die Umstellung auf eine Seite ohne oder mit sauberem Banner ist meist eine überschaubare technische Aufgabe. Im Rahmen von <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a> lässt sich das gemeinsam mit anderen Verbesserungen erledigen, und die <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a> wird gleich mit angepasst.</p><p>Einen schnellen Eindruck vom Zustand Ihrer Seite liefert der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline AI Solutions</a>. Beachten Sie: Dieser Ratgeber ist eine allgemeine Orientierung. Ob Ihre konkrete Lösung den Vorgaben entspricht, klären Sie mit der Datenschutzbehörde, der WKO oder einer Anwältin bzw. einem Anwalt.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich einen Cookie-Banner, wenn ich nur notwendige Cookies verwende?",
+      "a": "In der Regel nein. Für Cookies, die unbedingt nötig sind, damit eine gewünschte Funktion wie der Warenkorb oder ein Login funktioniert, ist keine Einwilligung erforderlich. Sie müssen aber in der Datenschutzerklärung beschreiben, welche Cookies das sind und wozu sie dienen. Ein reiner Informationsbanner ohne Wahlmöglichkeit ist dann nicht nötig. Prüfen Sie trotzdem genau, ob wirklich alles notwendig ist."
+    },
+    {
+      "q": "Reicht ein Hinweis „Diese Website verwendet Cookies“ mit OK-Button?",
+      "a": "Nein, wenn einwilligungspflichtige Dienste im Spiel sind. Eine wirksame Einwilligung setzt voraus, dass Besucher wählen können und vorher verständlich erfahren, wofür ihre Daten genutzt werden. Ein Banner, der nur „OK“ anbietet, während Statistik oder Werbung bereits laufen, erfüllt das nicht. Entweder Sie bieten eine echte Wahl mit gleichwertigem Ablehnen an, oder Sie verzichten auf die einwilligungspflichtigen Dienste."
+    },
+    {
+      "q": "Braucht ein eingebettetes YouTube-Video eine Einwilligung?",
+      "a": "Ein normal eingebettetes YouTube-Video stellt bereits beim Laden der Seite eine Verbindung zu Servern von Google her und kann Daten übertragen. Deshalb wird es in der Regel erst nach Einwilligung geladen. Auch der sogenannte erweiterte Datenschutzmodus vermeidet nicht jede Datenübertragung. Eine verbreitete Lösung ist ein Vorschaubild mit Hinweis, das den Player erst nach einem Klick nachlädt."
+    },
+    {
+      "q": "Welche Cookie-Banner-Lösung ist die beste?",
+      "a": "Die beste Lösung ist oft, keinen Banner zu brauchen, weil die Website ohne einwilligungspflichtige Dienste auskommt. Ist ein Banner nötig, sollte das Werkzeug Dienste wirklich bis zur Zustimmung blockieren, eine gleichwertige Ablehnung anbieten, die Entscheidung speichern und eine spätere Änderung erlauben. Welche Software das am besten leistet, hängt von Ihrem System ab. Testen Sie nach dem Einbau, ob tatsächlich nichts vorab lädt."
+    }
+  ],
+  "verwandt": [
+    "/wissen/besucheranalyse-ohne-cookies/",
+    "/wissen/analytics-alternativen/",
+    "/wissen/google-fonts-lokal/",
+    "/glossar/cookie/",
+    "/wissen/datenschutzerklaerung/",
+    "/leistungen/website-wartung-hosting/"
+  ],
+  "checks": [
+    "seo-check",
+    "website-entwurf"
+  ]
+}

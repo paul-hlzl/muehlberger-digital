@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/leadgenerierung/",
+  "title": "Leadgenerierung: Neue Interessenten gewinnen",
+  "description": "Leadgenerierung einfach erklärt: Wie kleine Betriebe gezielt neue Interessenten gewinnen, online wie offline, und welche Wege sich für Dienstleister bewähren.",
+  "h1": "Leadgenerierung",
+  "kicker": "Glossar · Vertrieb",
+  "lead": "Leadgenerierung ist die gezielte Gewinnung von Interessenten, die zu Ihrem Angebot passen und deren Kontaktdaten Sie erhalten, damit daraus Gespräche und Aufträge werden. Sie kann über Website, Suchmaschinen, Empfehlungen, Messen oder direkte Ansprache erfolgen.",
+  "fakten": [
+    "Zwei Richtungen: Kunden kommen zu Ihnen oder Sie gehen auf Kunden zu",
+    "Website, Google-Profil und Empfehlungen sind oft die besten Quellen",
+    "Erfolg misst sich an passenden Anfragen, nicht an Kontaktmengen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wege der Leadgenerierung in der Praxis",
+      "html": "<p>Ein IT-Dienstleister für Arztpraxen und Kanzleien nutzt mehrere Wege: Auf seiner Website gibt es einen Ratgeber zur Datensicherung mit Anfrageformular, im Google-Unternehmensprofil sammelt er Bewertungen, und zufriedene Kunden empfehlen ihn weiter. Zusätzlich sucht er gezielt nach Praxen in der Region, die noch keinen IT-Betreuer haben, und schreibt sie persönlich an.</p><p>Die ersten Wege sind <a href=\"/glossar/inbound-marketing/\">Inbound-Marketing</a>, der letzte ist aktive Ansprache. Bei dieser gelten in Österreich strenge Regeln, siehe <a href=\"/glossar/kaltakquise/\">Kaltakquise</a>.</p>"
+    },
+    {
+      "h2": "Warum Leadgenerierung für KMU zählt",
+      "html": "<p>Viele kleine Betriebe leben von Empfehlungen, bis diese einmal ausbleiben. Wer zusätzlich eigene Wege zu neuen Kunden aufbaut, ist unabhängiger und kann Auftragslücken schneller schließen. Wichtig ist, nur so viele Leads zu erzeugen, wie Sie auch betreuen können.</p><p>Einen Überblick gibt der Ratgeber <a href=\"/wissen/neukunden-gewinnen/\">Neukunden gewinnen</a>, speziell für Firmenkunden <a href=\"/wissen/b2b-kunden-finden/\">B2B-Kunden finden</a>. Unterstützung beschreibt <a href=\"/leistungen/neukundengewinnung-b2b/\">Neukundengewinnung B2B</a>; mit dem <a href=\"/gratis-check/neukunden-finden/\">Gratis-Check Neukunden finden</a> sehen Sie, welche Firmen in Ihrer Nähe passen.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Welcher Weg der Leadgenerierung ist für kleine Betriebe am besten?",
+      "a": "Das hängt von Branche und Kunden ab. Für Betriebe mit Privatkunden in der Region sind Website, Google-Unternehmensprofil und Bewertungen meist am wirkungsvollsten. Wer an Firmen verkauft, ergänzt das oft durch gezielte, persönliche Ansprache und Netzwerke. Testen Sie zwei, drei Wege, messen Sie, woher Anfragen kommen, und bauen Sie den erfolgreichsten aus."
+    },
+    {
+      "q": "Kann ich Leads einfach kaufen?",
+      "a": "Es gibt Anbieter, die Kontaktdaten oder Anfragen verkaufen. Gekaufte Adresslisten sind aber oft veraltet, und ihre Nutzung für Werbung kann in Österreich rechtlich heikel sein, vor allem bei E-Mails und Anrufen. Anfragen über Vermittlungsportale sind meist rechtlich unproblematisch, aber teuer und umkämpft. Selbst aufgebaute Kanäle sind langfristig fast immer die bessere Grundlage."
+    }
+  ],
+  "verwandt": [
+    "/wissen/neukunden-gewinnen/",
+    "/glossar/lead/",
+    "/glossar/inbound-marketing/",
+    "/leistungen/neukundengewinnung-b2b/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

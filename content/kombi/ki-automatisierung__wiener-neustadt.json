@@ -1,0 +1,60 @@
+{
+  "pfad": "/leistungen/ki-automatisierung/wiener-neustadt/",
+  "title": "KI-Automatisierung in Wiener Neustadt mit Schnittstellen",
+  "description": "Prozessautomatisierung mit KI in Wiener Neustadt: KI an bestehende Software anbinden, Daten zwischen Systemen übertragen, mit einem Pilotprojekt starten.",
+  "h1": "KI & Prozessautomatisierung in Wiener Neustadt",
+  "kicker": "KI-Automatisierung · Wiener Neustadt",
+  "lead": "Wiener Neustadt ist Technologie- und Industriestandort im Süden Niederösterreichs, viele KMU hier arbeiten bereits mit Warenwirtschaft, Buchhaltung und Branchensoftware. KI-Automatisierung bringt dort am meisten, wenn sie über Schnittstellen an diese Systeme angebunden wird, statt als weitere Insellösung daneben zu stehen.",
+  "fakten": [
+    "Schwerpunkt: KI über Schnittstellen (APIs) an bestehende Software anbinden",
+    "Integration von Claude oder OpenAI in eigene Abläufe möglich",
+    "Mit einem klar messbaren Pilotprojekt starten",
+    "Für Wiener Neustadt-Stadt und den Bezirk Wiener Neustadt-Land"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Technologie- und Industriestandort im Süden",
+      "html": "<p>Wiener Neustadt ist die zweitgrößte Stadt Niederösterreichs, mit Fachhochschule, Gewerbe, Industrie und vielen technischen Dienstleistern. Im Umland, im <a href=\"/regionen/bezirk-wiener-neustadt-land/\">Bezirk Wiener Neustadt-Land</a>, kommen Handwerk, Handel und Landwirtschaft dazu. Mehr über die Stadt lesen Sie auf der Seite <a href=\"/regionen/wiener-neustadt/\">Wiener Neustadt</a>.</p>"
+    },
+    {
+      "h2": "Wenn die Software schon da ist: Schnittstellen statt Insellösungen",
+      "html": "<p>Viele Betriebe haben bereits ein ERP, eine Warenwirtschaft oder ein Ticketsystem. Eine zusätzliche KI-Anwendung, in die Daten händisch kopiert werden, bringt wenig. Sinnvoll ist eine Automatisierung, die über eine <a href=\"/glossar/api/\">Schnittstelle (API)</a> direkt mit diesen Systemen spricht: Daten werden gelesen, von der KI bearbeitet und an der richtigen Stelle wieder eingetragen.</p><p>Pipeline AI Solutions setzt auch individuelle Integrationen mit Claude oder OpenAI um. Was bei der Wahl des Modells zählt, beschreibt der Vergleich <a href=\"/vergleiche/chatgpt-oder-claude/\">ChatGPT oder Claude</a>.</p>"
+    },
+    {
+      "h2": "Beispiele aus Fertigung, Handel und Technik",
+      "html": "<ul><li><strong>Fertigung:</strong> Reklamationen per E-Mail werden gelesen, dem Auftrag zugeordnet und als Vorgang im System angelegt.</li><li><strong>Handel:</strong> Produktbeschreibungen für neue Artikel entstehen aus Datenblättern und landen direkt in der Warenwirtschaft.</li><li><strong>Technischer Service:</strong> Servicetickets werden zusammengefasst, kategorisiert und mit ähnlichen früheren Fällen verknüpft.</li></ul><p>Weitere Beispiele zeigt die Seite <a href=\"https://www.pipeline-solutions.at/automatisierungen/\">Automatisierungen von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "Pilot statt Großprojekt",
+      "html": "<p>Statt den ganzen Betrieb auf einmal umzubauen, empfiehlt sich ein Pilot: ein Ablauf, eine Kennzahl, ein klarer Zeitraum. Erst wenn der Nutzen messbar ist, wird ausgebaut. Wie das grundsätzlich abläuft, steht auf der Seite <a href=\"/leistungen/ki-automatisierung/\">KI & Prozessautomatisierung</a>. Mühlberger Digital begleitet Sie dabei als Ansprechpartner, vom kostenlosen Erstgespräch bis zum schriftlichen Angebot.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was ist eine Schnittstelle und brauchen wir eine?",
+      "a": "Eine Schnittstelle, oft API genannt, ist ein definierter Weg, über den zwei Programme Daten austauschen. Viele moderne Programme bieten eine solche Schnittstelle an. Für eine Automatisierung ist sie ideal, weil Daten ohne Kopieren fließen. Fehlt sie, gibt es oft Alternativen wie Exporte oder E-Mail-Benachrichtigungen. Im Erstgespräch prüfen wir, was Ihre Software kann."
+    },
+    {
+      "q": "Können wir Claude oder OpenAI in unsere eigene Software einbauen?",
+      "a": "Ja, das ist ein typisches individuelles Projekt von Pipeline AI Solutions. Dabei wird festgelegt, welche Daten an das Sprachmodell gehen, wie Ergebnisse geprüft werden und wo sie gespeichert werden. Welches Modell besser passt, hängt von Aufgabe, Datenschutzanforderungen und laufenden Kosten ab. Der Preis steht nach dem Erstgespräch im Angebot."
+    },
+    {
+      "q": "Wie messen wir, ob sich die Automatisierung bezahlt macht?",
+      "a": "Am einfachsten, indem Sie vor dem Start festhalten, wie lange ein Vorgang heute dauert und wie oft er vorkommt. Nach einigen Wochen Pilotbetrieb vergleichen Sie. Dazu kommen weichere Faktoren wie weniger Fehler oder schnellere Antworten. Wir sagen zu, was wir tun, und die Ergebnisse sehen Sie an Ihren eigenen Zahlen."
+    },
+    {
+      "q": "Wie sicher sind unsere Daten bei einer Anbindung an KI-Dienste?",
+      "a": "Das hängt vom Dienst, vom Vertrag und von der Konfiguration ab. Im Projekt wird festgelegt, welche Daten das eigene System verlassen, welche Anbieter genutzt werden und ob Daten für Training ausgeschlossen sind. Eine Orientierung gibt der Ratgeber zu KI und Datenschutz. Für verbindliche Fragen wenden Sie sich bitte an die Datenschutzbehörde."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-automatisierung/",
+    "/regionen/wiener-neustadt/",
+    "/regionen/bezirk-wiener-neustadt-land/",
+    "/glossar/api/",
+    "/leistungen/individuelle-software/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pfad": "/glossar/nap-daten/",
+  "title": "NAP-Daten: Name, Adresse und Telefon erklärt",
+  "description": "NAP-Daten einfach erklärt: Warum Name, Adresse und Telefonnummer Ihres Betriebs überall gleich lauten sollten und wie Sie Abweichungen finden und beheben.",
+  "h1": "NAP-Daten",
+  "kicker": "Glossar · Lokale Suche",
+  "lead": "NAP-Daten sind die Grunddaten eines Betriebs: Name (Name), Adresse (Address) und Telefonnummer (Phone). Für die lokale Suche ist wichtig, dass sie auf Website, Google-Unternehmensprofil und in Verzeichnissen überall gleich lauten.",
+  "fakten": [
+    "NAP steht für Name, Address, Phone",
+    "Einheitliche Schreibweise stärkt das Vertrauen von Google und KI",
+    "Häufige Fehler: alte Nummern, abweichende Firmennamen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wo Abweichungen entstehen",
+      "html": "<p>Ein Malerbetrieb ist vor einigen Jahren innerhalb des Ortes übersiedelt und hat eine neue Festnetznummer bekommen. Auf der Website stimmt alles, im Firmenverzeichnis steht aber noch die alte Adresse, ein Branchenportal führt nur die Handynummer, und bei Google heißt der Betrieb „Malerei Huber“, im Impressum „Huber Malerei und Anstrich GmbH“.</p><p>Für Menschen ist das halb so schlimm, Suchmaschinen und KI-Systeme sind aber unsicher, ob es sich um denselben Betrieb handelt. Das kann die Sichtbarkeit bei lokalen Suchen schwächen.</p>"
+    },
+    {
+      "h2": "Warum einheitliche Daten für KMU zählen",
+      "html": "<p>Einheitliche NAP-Daten sind eine einfache, aber wirksame Grundlage für <a href=\"/glossar/local-seo/\">Local SEO</a> und für <a href=\"/glossar/geo/\">GEO</a>. Sie verhindern, dass Kunden zur falschen Adresse fahren oder eine tote Nummer wählen. Legen Sie eine verbindliche Schreibweise fest und verwenden Sie diese überall.</p><p>Wie Sie Einträge finden und korrigieren, zeigt der Ratgeber <a href=\"/wissen/nap-daten/\">NAP-Daten vereinheitlichen</a>. Seriöse Verzeichnisse nennt <a href=\"/wissen/branchenverzeichnisse/\">Branchenverzeichnisse</a>; technisch helfen zusätzlich strukturierte Daten (<a href=\"/glossar/schema-markup/\">Schema-Markup</a>).</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie finde ich falsche Einträge meines Betriebs?",
+      "a": "Suchen Sie bei Google nach Ihrem Firmennamen, Ihrer alten Adresse und alten Telefonnummern. So stoßen Sie auf Verzeichnisse, Portale und Bewertungsseiten mit veralteten Angaben. Notieren Sie die Fundstellen in einer Liste und korrigieren Sie die Einträge nach und nach, meist über ein Kontaktformular oder einen eigenen Zugang. Beginnen Sie mit den bekanntesten Plattformen."
+    },
+    {
+      "q": "Muss die Schreibweise wirklich bis ins Detail gleich sein?",
+      "a": "Kleine Unterschiede wie „Str.“ statt „Straße“ erkennen Suchmaschinen in der Regel. Wichtiger ist, dass keine widersprüchlichen Angaben existieren, etwa zwei verschiedene Adressen oder Telefonnummern. Trotzdem lohnt es sich, eine Standard-Schreibweise festzulegen und konsequent zu nutzen. Das vermeidet Verwirrung und erleichtert die Pflege, wenn sich einmal etwas ändert."
+    }
+  ],
+  "verwandt": [
+    "/wissen/nap-daten/",
+    "/glossar/local-seo/",
+    "/glossar/google-unternehmensprofil/",
+    "/wissen/branchenverzeichnisse/"
+  ],
+  "checks": [
+    "seo-check",
+    "ki-sichtbarkeit"
+  ]
+}

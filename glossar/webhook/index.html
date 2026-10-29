@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="de-AT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Webhook einfach erklärt: Automatische Benachrichtigung</title>
+<meta name="description" content="Webhook einfach erklärt: Wie ein Programm ein anderes sofort über ein Ereignis informiert und warum das Automatisierung möglich macht.">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<link rel="canonical" href="https://muehlberger-digital.at/glossar/webhook/">
+<meta name="theme-color" content="#f5f5f7">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="de_AT">
+<meta property="og:site_name" content="Mühlberger Digital">
+<meta property="og:title" content="Webhook einfach erklärt: Automatische Benachrichtigung">
+<meta property="og:description" content="Webhook einfach erklärt: Wie ein Programm ein anderes sofort über ein Ereignis informiert und warum das Automatisierung möglich macht.">
+<meta property="og:url" content="https://muehlberger-digital.at/glossar/webhook/">
+<meta property="og:image" content="https://muehlberger-digital.at/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/img/md-zeichen.png" type="image/png">
+<link rel="preload" href="/fonts/Aspekta-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/site.css">
+<link rel="stylesheet" href="/seo.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://muehlberger-digital.at/glossar/webhook/#page","url":"https://muehlberger-digital.at/glossar/webhook/","name":"Webhook einfach erklärt: Automatische Benachrichtigung","description":"Webhook einfach erklärt: Wie ein Programm ein anderes sofort über ein Ereignis informiert und warum das Automatisierung möglich macht.","inLanguage":"de-AT","isPartOf":{"@id":"https://muehlberger-digital.at/#website"},"about":{"@id":"https://muehlberger-digital.at/#org"},"dateModified":"2026-10-29","breadcrumb":{"@id":"https://muehlberger-digital.at/glossar/webhook/#crumbs"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":"https://muehlberger-digital.at/"},{"@type":"ListItem","position":2,"name":"Glossar","item":"https://muehlberger-digital.at/glossar/"},{"@type":"ListItem","position":3,"name":"Webhook","item":"https://muehlberger-digital.at/glossar/webhook/"}],"@id":"https://muehlberger-digital.at/glossar/webhook/#crumbs"},{"@type":"FAQPage","@id":"https://muehlberger-digital.at/glossar/webhook/#faq","mainEntity":[{"@type":"Question","name":"Muss ich Webhooks selbst einrichten?","acceptedAnswer":{"@type":"Answer","text":"Bei vielen Werkzeugen ist das mit wenigen Klicks erledigt: Sie kopieren eine Empfangsadresse aus dem Automatisierungswerkzeug und tragen sie im Shop oder Formulardienst ein. Für individuelle Abläufe, sensible Daten oder Verbindungen zu älterer Software braucht es meist technische Unterstützung. Wichtig ist in jedem Fall ein Test mit Beispieldaten, bevor echte Kunden betroffen sind."}},{"@type":"Question","name":"Sind Webhooks sicher?","acceptedAnswer":{"@type":"Answer","text":"Sie sind sicher, wenn die Empfangsadresse geheim bleibt, die Verbindung über HTTPS läuft und der Empfänger prüft, ob die Nachricht wirklich vom erwarteten Absender stammt. Viele Dienste signieren ihre Webhooks dafür. Geben Sie Webhook-Adressen nicht weiter und deaktivieren Sie ungenutzte Verbindungen, damit niemand gefälschte Ereignisse einschleusen kann."}}]},{"@type":"DefinedTerm","@id":"https://muehlberger-digital.at/glossar/webhook/#term","name":"Webhook","description":"Ein Webhook ist eine automatische Benachrichtigung, die ein Programm an eine festgelegte Internetadresse schickt, sobald ein bestimmtes Ereignis eintritt, etwa eine neue Bestellung oder ein ausgefülltes Formular. Das empfangende Programm kann dann sofort reagieren.","inDefinedTermSet":{"@type":"DefinedTermSet","name":"Glossar von Mühlberger Digital","url":"https://muehlberger-digital.at/glossar/"}},{"@type":"ProfessionalService","@id":"https://muehlberger-digital.at/#org","name":"Mühlberger Digital","url":"https://muehlberger-digital.at/","logo":"https://muehlberger-digital.at/img/md-zeichen.png","image":"https://muehlberger-digital.at/img/og.jpg","telephone":"+43 677 6219 2776","email":"office@muehlberger-digital.at","address":{"@type":"PostalAddress","streetAddress":"Neuhof 26","postalCode":"3631","addressLocality":"Ottenschlag","addressRegion":"Niederösterreich","addressCountry":"AT"},"founder":{"@type":"Person","@id":"https://muehlberger-digital.at/ueber-jonas-muehlberger/#person","name":"Jonas Mühlberger"},"areaServed":[{"@type":"Country","name":"Österreich"},{"@type":"Country","name":"Deutschland"},{"@type":"Country","name":"Schweiz"}],"sameAs":["https://www.instagram.com/muehlberger.digital/"],"knowsAbout":["Webdesign","Suchmaschinenoptimierung","Generative Engine Optimization","KI-Chatbots","Prozessautomatisierung","App-Entwicklung"]},{"@type":"WebSite","@id":"https://muehlberger-digital.at/#website","url":"https://muehlberger-digital.at/","name":"Mühlberger Digital","inLanguage":"de-AT","publisher":{"@id":"https://muehlberger-digital.at/#org"}}]}</script>
+</head>
+<body class="sp">
+<header class="nav solid" id="nav">
+  <div class="bar">
+    <a class="brand" href="/" aria-label="Mühlberger Digital – Startseite"><img class="m" src="/img/md-zeichen.png" alt="" width="36" height="36"><img class="w" src="/img/md-schrift.png" alt="Mühlberger Digital" width="124" height="24"></a>
+    <nav class="menu" aria-label="Hauptnavigation">
+      <a href="/leistungen/">Leistungen</a><a href="/branchen/">Branchen</a><a href="/regionen/">Regionen</a><a href="/wissen/">Wissen</a>Preise
+    </nav>
+    <div class="right">
+      <a class="btn light tel" href="tel:+4367762192776">+43 677 6219 2776</a>
+      <a class="btn" href="/#termin"><span class="t"><span>Erstgespräch</span><span>Erstgespräch</span></span></a>
+      <button class="burger" id="burger" aria-label="Menü öffnen" aria-expanded="false"><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+<div class="mmenu" id="mmenu">
+  <nav>
+    <a class="big" href="/leistungen/">Leistungen</a><a class="big" href="/branchen/">Branchen</a><a class="big" href="/regionen/">Regionen</a><a class="big" href="/wissen/">Wissen</a><a class="big" href="/gratis-check/">Gratis-Checks</a>Preise
+  </nav>
+  <div class="mm-foot"><a class="btn lg" href="/#termin">Erstgespräch buchen</a><a class="btn lg light" href="tel:+4367762192776">+43 677 6219 2776</a></div>
+</div>
+<main id="start">
+<section class="sp-hero">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="Brotkrumen"><ol><li><a href="/">Start</a></li><li><a href="/glossar/">Glossar</a></li><li aria-current="page">Webhook</li></ol></nav>
+    <span class="eyebrow">Glossar · Technik</span>
+    <h1>Webhook</h1>
+    <p class="lead">Ein Webhook ist eine automatische Benachrichtigung, die ein Programm an eine festgelegte Internetadresse schickt, sobald ein bestimmtes Ereignis eintritt, etwa eine neue Bestellung oder ein ausgefülltes Formular. Das empfangende Programm kann dann sofort reagieren.</p>
+    <div class="ctas"><a class="btn lg" href="/#termin"><span class="t"><span>Kostenloses Erstgespräch</span><span>Kostenloses Erstgespräch</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a><a class="btn lg light" href="https://www.pipeline-solutions.at/gratis-test/" target="_blank" rel="noopener"><span class="t"><span>Gratis-Test starten</span><span>Gratis-Test starten</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a></div>
+    <p class="meta">Aktualisiert Oktober 2026 · Mühlberger Digital, Ottenschlag · Umsetzung mit Pipeline AI Solutions</p>
+  </div>
+</section>
+<div class="wrap sp-grid">
+  <article class="sp-body">
+    <aside class="glance" aria-label="Auf einen Blick"><b>Auf einen Blick</b><ul><li><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 8.5l3 3 6-7"/></svg><span>Das Ereignis meldet sich selbst, niemand muss ständig nachfragen</span></li><li><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 8.5l3 3 6-7"/></svg><span>Häufig der Auslöser für automatisierte Workflows</span></li><li><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 8.5l3 3 6-7"/></svg><span>Die Empfangsadresse sollte geschützt und geheim bleiben</span></li></ul></aside>
+    
+    <section class="ab"><h2 id="a1">Ein Webhook im Alltag</h2><p>Ein Hofladen verkauft Kistl mit Gemüse über einen kleinen <a href="/glossar/onlineshop/">Onlineshop</a>. Bei jeder Bestellung schickt der Shop einen Webhook an ein Automatisierungswerkzeug. Dieses trägt die Bestellung in die Packliste für Freitag ein, schickt dem Kunden eine Abholzeit und informiert die Bäuerin per Nachricht.</p><p>Der Unterschied zur <a href="/glossar/api/">API</a>: Bei einer API fragt ein Programm aktiv nach Daten. Beim Webhook meldet sich das andere Programm von selbst, sobald etwas passiert. Das ist schneller und spart unnötige Abfragen.</p></section>
+<section class="ab"><h2 id="a2">Warum Webhooks für KMU nützlich sind</h2><p>Webhooks sind der Startschuss vieler <a href="/glossar/workflow/">Workflows</a>. Ohne sie müsste jemand regelmäßig nachsehen, ob es Neuigkeiten gibt. Für kleine Betriebe heißt das: schnellere Reaktion auf Kunden und weniger händische Kontrolle. Viele Shop-, Formular- und Zahlungsdienste bieten Webhooks standardmäßig an.</p><p>Wie daraus ganze Abläufe werden, zeigt der Eintrag <a href="/glossar/automatisierung/">Automatisierung</a>. Praktische Beispiele bietet <a href="/wissen/automatisierung-beispiele/">Automatisierung: Beispiele</a>, die Umsetzung beschreibt <a href="/leistungen/ki-automatisierung/">KI-Automatisierung</a>.</p></section><div class="ck big"><span class="ck-ic"><img src="/img/i-pipeline.png" alt="" width="40" height="40" loading="lazy"></span><div class="ck-t"><small>Gratis · Pipeline AI Solutions</small><b>Startseiten-Entwurf</b><p>Adresse Ihrer Website eingeben und in wenigen Minuten einen neuen Entwurf Ihrer Startseite sehen.</p><div class="ck-a"><a class="btn " href="https://www.pipeline-solutions.at/gratis-test/" target="_blank" rel="noopener"><span class="t"><span>Gratis-Test starten</span><span>Gratis-Test starten</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a></div></div></div>
+    
+    <section class="ab faqs" id="faq"><h2>Häufige Fragen</h2><details open><summary>Muss ich Webhooks selbst einrichten?</summary><p>Bei vielen Werkzeugen ist das mit wenigen Klicks erledigt: Sie kopieren eine Empfangsadresse aus dem Automatisierungswerkzeug und tragen sie im Shop oder Formulardienst ein. Für individuelle Abläufe, sensible Daten oder Verbindungen zu älterer Software braucht es meist technische Unterstützung. Wichtig ist in jedem Fall ein Test mit Beispieldaten, bevor echte Kunden betroffen sind.</p></details><details><summary>Sind Webhooks sicher?</summary><p>Sie sind sicher, wenn die Empfangsadresse geheim bleibt, die Verbindung über HTTPS läuft und der Empfänger prüft, ob die Nachricht wirklich vom erwarteten Absender stammt. Viele Dienste signieren ihre Webhooks dafür. Geben Sie Webhook-Adressen nicht weiter und deaktivieren Sie ungenutzte Verbindungen, damit niemand gefälschte Ereignisse einschleusen kann.</p></details></section>
+  </article>
+  <aside class="sp-side">
+    <div class="side-card dark">
+      <img class="sc-av" src="/img/jonas-polo-foto.webp" alt="Jonas Mühlberger" width="64" height="64" loading="lazy">
+      <b>Persönlich beraten lassen</b>
+      <p>Jonas Mühlberger zeigt Ihnen im kostenlosen Erstgespräch, was sich für Ihren Betrieb lohnt – und was nicht.</p>
+      <a class="btn white" href="/#termin"><span class="t"><span>Erstgespräch buchen</span><span>Erstgespräch buchen</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a>
+      <a class="sc-tel" href="tel:+4367762192776">+43 677 6219 2776</a>
+      <small>Mo–Fr 18:00–21:30 Uhr · vor Ort, Telefon oder Video</small>
+    </div>
+    <div class="side-card">
+      <b>Gratis testen</b>
+      <ul class="side-checks"></ul>
+    </div>
+    <div class="side-card pl">
+      <a href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener"><img src="/img/pipeline-logo-dunkel.png" alt="Pipeline AI Solutions" width="180" height="35" loading="lazy"></a>
+      <p>Umsetzung, Vertrag und Betreuung durch Pipeline AI Solutions aus Oberösterreich.</p>
+    </div>
+  </aside>
+</div>
+<section class="wrap related"><h2>Passend dazu</h2><div class="rgrid"><a class="rc" href="/glossar/api/"><small>Glossar · Technik</small><b>API – Programmierschnittstelle</b><span>API einfach erklärt: Wie Programmierschnittstellen Software miteinander verbinden, etwa Website, Kalender und Buchhaltung, und was das Betrieben bringt.</span><i><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></i></a><a class="rc" href="/glossar/workflow/"><small>Glossar · Prozesse</small><b>Workflow – der Arbeitsablauf</b><span>Workflow einfach erklärt: Was ein Arbeitsablauf aus Auslöser, Schritten und Ergebnis ist, wie man ihn beschreibt und wie kleine Betriebe ihn digital abbilden.</span><i><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></i></a><a class="rc" href="/wissen/automatisierung-beispiele/"><small>Ratgeber · Automatisierung</small><b>Automatisierung: Beispiele aus kleinen Betrieben</b><span>Automatisierung in kleinen Betrieben: konkrete Beispiele für Anfragen, Termine, Büro, Buchhaltung, Marketing und Vertrieb – und wie Sie Ihr eigenes finden.</span><i><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></i></a><a class="rc" href="/leistungen/ki-automatisierung/"><small>Leistung · Automatisierung</small><b>KI &amp; Prozessautomatisierung</b><span>Prozessautomatisierung mit KI nimmt Ihnen wiederkehrende Büroarbeit ab: Anfragen, Angebote, Belege, Daten. Wo sie sich lohnt und wie Sie klein anfangen.</span><i><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></i></a></div></section>
+
+<section class="cta-end sp-end">
+  <div class="wrap">
+    <span class="eyebrow">Kostenlos &amp; unverbindlich</span>
+    <h2>Reden wir über Ihren Betrieb.</h2>
+    <p>30 Minuten, vor Ort im Waldviertel, am Telefon oder per Video-Call. Sie bekommen eine ehrliche Einschätzung und auf Wunsch ein schriftliches Angebot.</p>
+    <div class="acts"><a class="btn lg" href="/#termin"><span class="t"><span>Erstgespräch buchen</span><span>Erstgespräch buchen</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a><a class="btn lg light" href="/gratis-check/"><span class="t"><span>Erst gratis testen</span><span>Erst gratis testen</span></span><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><path d="M2 8h12M9 3l5 5-5 5"/></svg></a></div>
+  </div>
+</section>
+</main>
+<footer>
+  <div class="wrap lock">
+    <span class="eyebrow">Gemeinsam für Ihr Unternehmen</span>
+    <div class="lock-row">
+      <a class="lk pl" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener"><img src="/img/pipeline-logo-weiss.png" alt="Pipeline AI Solutions" loading="lazy"></a>
+      <div class="cross" aria-hidden="true">×</div>
+      <a class="lk md" href="/"><img class="z" src="/img/md-zeichen.png" alt="" loading="lazy"><img class="w" src="/img/md-schrift-weiss.png" alt="Mühlberger Digital" loading="lazy"></a>
+    </div>
+    <p class="sub">Beratung aus dem Waldviertel, Entwicklung aus Oberösterreich – Websites, Apps und KI aus einer Hand.</p>
+  </div>
+  <div class="wrap">
+    <div class="fcols">
+      <div><h4>Leistungen</h4><ul><li><a href="/leistungen/website-erstellen/">Website erstellen</a></li><li><a href="/leistungen/ki-chatbot/">KI-Chatbot</a></li><li><a href="/leistungen/seo/">SEO</a></li><li><a href="/leistungen/geo-ki-sichtbarkeit/">KI-Sichtbarkeit (GEO)</a></li><li><a href="/leistungen/ki-automatisierung/">Automatisierung</a></li><li><a href="/leistungen/">Alle Leistungen</a></li></ul></div>
+      <div><h4>Entdecken</h4><ul><li><a href="/gratis-check/">Gratis-Checks</a></li><li><a href="/branchen/">Branchen</a></li><li><a href="/regionen/">Regionen</a></li><li><a href="/wissen/">Wissen &amp; Ratgeber</a></li><li><a href="/glossar/">Glossar</a></li><li><a href="/vergleiche/">Vergleiche</a></li></ul></div>
+      <div><h4>Kontakt</h4><ul><li><a href="tel:+4367762192776">+43 677 6219 2776</a></li><li><a href="mailto:office@muehlberger-digital.at">office@muehlberger-digital.at</a></li><li><a href="/impressum.html">Impressum</a></li><li><a href="/impressum.html#datenschutz">Datenschutz</a></li></ul></div>
+      <div class="news"><h4>Produkte aus der Partnerschaft</h4><ul class="fprod"></ul></div>
+    </div>
+    <div class="fbase"><span>© 2026 Mühlberger Digital · Neuhof 26, 3631 Ottenschlag</span><a class="powered" href="https://www.pipeline-solutions.at/" target="_blank" rel="noopener"><img src="/img/pipeline-p.png" alt="" loading="lazy">Powered by <b>Pipeline AI Solutions</b></a><span><a href="/seitenuebersicht/">Seitenübersicht</a> · <a href="/impressum.html">Impressum</a> · <a href="/impressum.html#datenschutz">Datenschutz</a></span></div>
+  </div>
+</footer>
+<script>
+(function(){var b=document.getElementById("burger"),m=document.getElementById("mmenu");if(!b)return;b.addEventListener("click",function(){var on=!m.classList.contains("on");m.classList.toggle("on",on);b.classList.toggle("on",on);b.setAttribute("aria-expanded",on);document.body.style.overflow=on?"hidden":"";});})();
+</script>
+</body>
+</html>

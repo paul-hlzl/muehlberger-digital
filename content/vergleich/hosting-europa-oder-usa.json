@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/hosting-europa-oder-usa/",
+  "title": "Hosting in Europa oder in den USA? Ein Vergleich",
+  "description": "Website und Daten in Europa oder in den USA hosten? Datenschutz, Ladezeit, Auswahl und Abhängigkeit im fairen Vergleich – mit Empfehlung für KMU.",
+  "h1": "Hosting in Europa oder in den USA?",
+  "kicker": "Vergleich · Datenschutz",
+  "lead": "Hosting in Europa ist für die meisten österreichischen Betriebe die einfachere Wahl, weil Daten im Geltungsbereich der DSGVO bleiben und die Ladezeiten für heimische Besucher kurz sind. Große US-Anbieter bieten viele Funktionen und oft auch Rechenzentren in Europa, unterliegen aber weiterhin US-Recht. Wer mit sensiblen Kundendaten arbeitet, fährt mit einem europäischen Anbieter meist entspannter.",
+  "fakten": [
+    "Europäisches Hosting: Daten im Geltungsbereich der DSGVO, kurze Wege",
+    "US-Anbieter: große Auswahl an Funktionen, oft mit EU-Rechenzentren",
+    "US-Unternehmen unterliegen US-Recht, auch bei Servern in Europa",
+    "noteit speichert in Frankfurt"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Warum der Standort überhaupt eine Rolle spielt",
+      "html": "<p>Beim <a href=\"/glossar/hosting/\">Hosting</a> liegen Ihre Website, Ihre Formulardaten und oft auch E-Mails oder Kundendaten auf einem Server. Wo dieser Server steht und welchem Recht der Anbieter unterliegt, entscheidet mit darüber, wer im Zweifel Zugriff verlangen kann und welche Pflichten Sie gegenüber Ihren Kunden haben.</p><p>Für österreichische Betriebe gilt die Datenschutz-Grundverordnung (DSGVO). Werden personenbezogene Daten außerhalb der EU verarbeitet, braucht es zusätzliche Voraussetzungen. Einen allgemeinen Überblick gibt <a href=\"/wissen/hosting-in-europa/\">Hosting in Europa</a>.</p>"
+    },
+    {
+      "h2": "Was für Hosting in Europa spricht",
+      "html": "<ul><li><strong>Einfacherer Datenschutz:</strong> Daten bleiben im Geltungsbereich der DSGVO, die Datenschutzerklärung wird übersichtlicher.</li><li><strong>Kurze Wege:</strong> Server in der Nähe bedeuten in der Regel schnelle Ladezeiten für Besucher aus Österreich.</li><li><strong>Vertrauen:</strong> Viele Kunden, besonders in Praxen und Kanzleien, fragen gezielt nach dem Speicherort.</li><li><strong>Erreichbarer Support</strong> in derselben Zeitzone, oft auch auf Deutsch.</li></ul><p>Typische Situation: Eine Psychotherapiepraxis mit Kontaktformular. Hier geht es um besonders schützenswerte Anfragen, und ein europäischer Anbieter macht die Sache deutlich einfacher.</p>"
+    },
+    {
+      "h2": "Was für US-Anbieter spricht",
+      "html": "<ul><li><strong>Funktionsvielfalt:</strong> Große Cloud-Plattformen bieten sehr viele Dienste aus einer Hand.</li><li><strong>Weltweite Reichweite:</strong> Gut für Projekte mit Besuchern auf mehreren Kontinenten.</li><li><strong>EU-Rechenzentren:</strong> Viele US-Anbieter lassen Daten auf Wunsch in Europa speichern.</li></ul><p>Wichtig: Auch bei Servern in Europa bleibt ein US-Unternehmen an US-Recht gebunden. Der US CLOUD Act erlaubt US-Behörden unter bestimmten Voraussetzungen, Daten von US-Anbietern anzufordern, auch wenn diese im Ausland gespeichert sind. Seit 2023 gibt es zudem einen Angemessenheitsbeschluss der EU für zertifizierte US-Unternehmen (EU-US Data Privacy Framework); ob er dauerhaft Bestand hat, wird kritisch diskutiert.</p>"
+    },
+    {
+      "h2": "Europa und USA im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Hosting in Europa</th><th>Hosting bei US-Anbietern</th></tr></thead><tbody><tr><td>Rechtsrahmen</td><td>DSGVO</td><td>DSGVO plus US-Recht</td></tr><tr><td>Datenschutzerklärung</td><td>meist übersichtlicher</td><td>zusätzliche Angaben zu Drittlandübermittlung</td></tr><tr><td>Ladezeit für Österreich</td><td>meist kurz</td><td>kurz bei EU-Rechenzentrum</td></tr><tr><td>Funktionsumfang</td><td>solide, je nach Anbieter</td><td>sehr groß bei großen Plattformen</td></tr><tr><td>Support</td><td>oft deutschsprachig, gleiche Zeitzone</td><td>häufig englischsprachig</td></tr><tr><td>Geeignet für</td><td>Websites, Formulare, sensible Daten</td><td>internationale Projekte, spezielle Dienste</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Nicht nur der Server zählt",
+      "html": "<p>Selbst wenn die Website in Europa liegt, können eingebundene Dienste Daten in die USA schicken: Schriften, Karten, Videos, Statistik-Werkzeuge oder Chat-Fenster. Ein klassisches Beispiel ist die Einbindung von Google Fonts direkt von Google-Servern – siehe <a href=\"/wissen/google-fonts-lokal/\">Google Fonts lokal einbinden</a>.</p><p>Gleiches gilt für Werkzeuge rund um die Website: Newsletter-Programme, Online-Terminbuchung, Formular-Dienste oder KI-Assistenten verarbeiten oft genau die Daten, um die es beim Datenschutz geht. Eine kurze Liste aller Dienste mit Anbieter und Speicherort schafft Überblick und hilft beim Schreiben der Datenschutzerklärung.</p><p>Prüfen Sie daher alle Bausteine, nicht nur das Hosting. Das ist eine allgemeine Orientierung; im Einzelfall hilft die <a href=\"https://www.dsb.gv.at/\">österreichische Datenschutzbehörde</a>, die WKO oder Ihre Rechtsberatung. Was in die Datenschutzerklärung gehört, beschreibt <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a>.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Firmenwebsite mit Kontaktformular:</strong> Hosting in Europa.</li><li><strong>Praxen, Kanzleien, Beratung mit sensiblen Daten:</strong> europäische Anbieter für Website, E-Mail und Werkzeuge.</li><li><strong>Internationales Projekt mit besonderen Anforderungen:</strong> US-Plattform mit EU-Rechenzentrum kann passen, mit sorgfältiger Prüfung.</li></ul><p>Bei den Produkten von Pipeline wird auf den Speicherort geachtet: noteit speichert zum Beispiel in Frankfurt. Hosting und Wartung Ihrer Website übernimmt auf Wunsch <a href=\"/leistungen/website-wartung-hosting/\">Website-Wartung und Hosting</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich als österreichischer Betrieb Daten in den USA speichern?",
+      "a": "Grundsätzlich ist das unter bestimmten Voraussetzungen möglich, etwa wenn der Anbieter unter dem EU-US Data Privacy Framework zertifiziert ist oder andere anerkannte Garantien bestehen. Sie müssen das aber prüfen, dokumentieren und in Ihrer Datenschutzerklärung angeben. Das ist eine allgemeine Orientierung, keine Rechtsberatung. Klären Sie Ihren Fall im Einzelnen mit der Datenschutzbehörde, der WKO oder Ihrer Rechtsberatung."
+    },
+    {
+      "q": "Reicht ein US-Anbieter mit Rechenzentrum in Europa?",
+      "a": "Ein Rechenzentrum in Europa verbessert die Lage, löst aber nicht alle Fragen. US-Unternehmen unterliegen weiterhin US-Recht, das Behörden unter bestimmten Voraussetzungen Zugriff auf Daten ermöglicht, auch wenn diese im Ausland liegen. Für eine einfache Firmenwebsite ist das oft vertretbar, bei sensiblen Daten wie Gesundheitsinformationen ist ein europäischer Anbieter meist die ruhigere Wahl."
+    },
+    {
+      "q": "Ist Hosting in Europa teurer?",
+      "a": "Nicht grundsätzlich. Für typische Firmenwebsites gibt es europäische Anbieter in allen Preisklassen. Unterschiede entstehen eher durch Leistung, Support und Zusatzdienste als durch den Standort. Bei der Starter-Website über Mühlberger Digital ist Hosting enthalten; die genauen Bedingungen stehen im schriftlichen Angebot. Für größere Projekte wird das passende Hosting nach dem Erstgespräch gemeinsam festgelegt."
+    },
+    {
+      "q": "Woran erkenne ich, wo meine Website gehostet ist?",
+      "a": "Am einfachsten fragen Sie Ihren Dienstleister oder sehen in den Vertragsunterlagen Ihres Hosting-Anbieters nach. Dort steht, wo die Rechenzentren liegen. Achten Sie zusätzlich auf eingebundene Dienste wie Schriften, Karten, Videos oder Statistik-Werkzeuge, die eigene Server nutzen. Ein kurzer technischer Check zeigt, welche Verbindungen beim Aufruf Ihrer Website zu welchen Anbietern aufgebaut werden."
+    }
+  ],
+  "verwandt": [
+    "/wissen/hosting-in-europa/",
+    "/leistungen/website-wartung-hosting/",
+    "/wissen/ki-und-datenschutz/",
+    "/glossar/hosting/",
+    "/glossar/dsgvo/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

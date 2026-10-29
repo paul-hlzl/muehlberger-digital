@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/gaenserndorf/",
+  "title": "KI-Chatbot für Hofläden und Betriebe in Gänserndorf",
+  "description": "Saisonware, wechselnde Öffnungszeiten, viele Fragen: Wie ein KI-Chatbot Hofläden und Betrieben im Bezirk Gänserndorf und im Marchfeld hilft.",
+  "h1": "KI-Chatbot für die Website in Gänserndorf",
+  "kicker": "KI-Chatbot · Bezirk Gänserndorf",
+  "lead": "Im Bezirk Gänserndorf mit dem Marchfeld drehen sich viele Kundenfragen um die Saison: Gibt es schon Spargel, hat der Hofladen heute offen, kann man größere Mengen vorbestellen? Ein KI-Chatbot wie Pipebot beantwortet das auf Ihrer Website rund um die Uhr, solange Ihre Seite aktuell ist. Kosten: 19 € pro Monat nach einem kostenlosen Testzeitraum von 30 Tagen.",
+  "fakten": [
+    "Marchfeld: bekannt für Gemüsebau und viele Direktvermarkter",
+    "Der Bot ist genau so aktuell wie Ihre Website",
+    "Viele Kunden pendeln nach Wien und informieren sich am Abend",
+    "Pipebot: 19 € im Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Saison schreibt die Fragen",
+      "html": "<p>Das Marchfeld im <a href=\"/regionen/bezirk-gaenserndorf/\">Bezirk Gänserndorf</a> ist für seinen Gemüsebau bekannt. Wer ab Hof verkauft, kennt das Muster: Kaum beginnt die Saison, wollen alle gleichzeitig wissen, was es gibt und wann man kommen kann.</p><p>Dazu kommt, dass viele Menschen im Bezirk nach Wien pendeln. Sie planen ihren Einkauf am Abend oder am Wochenende, also genau dann, wenn am Hof niemand Zeit fürs Telefon hat.</p>"
+    },
+    {
+      "h2": "Ein Hofladen im Hochbetrieb",
+      "html": "<p>Ein Familienbetrieb mit Hofladen bekommt in der Saison immer wieder dieselben Fragen:</p><ul><li>Was ist gerade erhältlich, und was kommt als Nächstes?</li><li>Haben Sie auch an Feiertagen offen?</li><li>Kann ich für ein Fest größere Mengen vorbestellen?</li><li>Kann ich mit Karte zahlen?</li></ul><p>Pipebot beantwortet sie mit dem, was auf Ihrer Website steht, und verbindet bei Unsicherheit mit Ihnen. Weitere Ideen für Direktvermarkter finden Sie auf der Seite für <a href=\"/branchen/hofladen/\">Hofläden</a>.</p>"
+    },
+    {
+      "h2": "Aktuell bleiben, ohne viel Aufwand",
+      "html": "<p>Der wichtigste Punkt: Der Bot weiß nur, was auf Ihrer Website steht. Bewährt hat sich ein kurzer Abschnitt „Gerade erhältlich“, den Sie mit wenigen Worten anpassen, sobald sich das Angebot ändert. Dazu gehören feste Regeln für Feiertage und Saisonende.</p><p>Wie man saisonale Angebote online gut zeigt, beschreibt der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">regionale Produkte online verkaufen</a>.</p>"
+    },
+    {
+      "h2": "Auch für Gärtnereien und Gewerbe im Bezirk",
+      "html": "<p>Nicht nur Hofläden profitieren. Eine Gärtnerei wird nach Pflanzzeiten und Lieferung gefragt, ein Handwerksbetrieb nach Einsatzgebiet und Wartezeit. Das Prinzip ist gleich: Häufige Fragen einmal gut beantworten und auf die Website stellen, der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> erledigt den Rest.</p><p>Ob sich das für Ihren Betrieb lohnt, zeigt der <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a> mit Ihrer eigenen Website.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kann der Chatbot Bestellungen für Gemüsekisten annehmen?",
+      "a": "Pipebot beantwortet Fragen, er ist kein Bestellsystem. Er kann erklären, wie Ihre Vorbestellung funktioniert, und auf ein Formular oder Ihre Telefonnummer verweisen, wenn das auf der Website steht. Wer regelmäßig Kisten verschickt oder zur Abholung anbietet, ist mit einem kleinen Onlineshop besser bedient. Das lässt sich im Erstgespräch mit Mühlberger Digital klären."
+    },
+    {
+      "q": "Was passiert, wenn auf meiner Website eine veraltete Öffnungszeit steht?",
+      "a": "Dann gibt der Bot die veraltete Öffnungszeit weiter, denn er antwortet nur mit Ihren Inhalten. Deshalb lohnt es sich, Öffnungszeiten und Saisoninfos an einer einzigen, gut sichtbaren Stelle der Website zu pflegen. Wer das ohnehin für Google und für die eigenen Kunden macht, hat mit dem Chatbot keinen zusätzlichen Aufwand."
+    },
+    {
+      "q": "Kann der Bot sagen, welches Gemüse gerade erhältlich ist?",
+      "a": "Ja, sofern Sie es auf Ihrer Website angeben. Ein kurzer Abschnitt mit dem aktuellen Angebot reicht. Pipebot greift darauf zurück und antwortet in ganzen Sätzen, zum Beispiel mit dem Hinweis, dass Spargel gerade da ist und die Erdäpfel bald folgen. Steht nichts dazu auf der Seite, verweist der Bot ehrlich an Sie, statt zu raten."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-gaenserndorf/",
+    "/branchen/hofladen/",
+    "/wissen/saisonbetrieb-digital/",
+    "/regionen/weinviertel/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/nachhilfe/",
+  "title": "Nachhilfe und Lernstudios: Eltern online gut abholen",
+  "description": "Für Nachhilfe-Institute und Lernstudios: Ansturm vor Schularbeiten und Nachprüfungen auffangen, Seiten nach Fach und Schulstufe aufbauen und Lehrkräfte koordinieren.",
+  "h1": "Digitale Lösungen für Nachhilfe und Lernstudios",
+  "kicker": "Branche · Nachhilfe & Lernen",
+  "lead": "Nachhilfe-Institute und Lernstudios erleben Nachfrage in Wellen: vor Schularbeiten, nach dem Halbjahreszeugnis und im Sommer vor Nachprüfungen. Digital hilft vor allem, in diesen Spitzen schnell zu antworten, Eltern über Seiten nach Fach und Schulstufe abzuholen und die Einsätze vieler Lehrkräfte mit wenig Aufwand zu koordinieren.",
+  "fakten": [
+    "Nachfrage kommt in Wellen: vor Schularbeiten, nach Zeugnissen, im Sommer",
+    "Eltern suchen nach Fach, Schulstufe und Schultyp, nicht nach Institutsnamen",
+    "Pipebot beantwortet Fragen zu Probestunde und Preisen auch abends",
+    "Lehrkräfte kostenlos auf zusage.at suchen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Nachfrage in Wellen: Schularbeiten, Zeugnis, Nachprüfung",
+      "html": "<p>Drei Wochen vor einer Mathematik-Schularbeit schreiben plötzlich viele Eltern gleichzeitig. Im Februar nach dem Halbjahreszeugnis kommt die nächste Welle, und im Sommer melden sich Familien, deren Kind eine Nachprüfung vor Schulbeginn hat. Wer in diesen Wochen nicht innerhalb eines Tages antwortet, verliert die Anfrage an das nächste Institut.</p><p>Bereiten Sie sich deshalb auf die Spitzen vor: Sommerkurse rechtzeitig auf die Website stellen, freie Kapazitäten aktuell halten und Routinefragen automatisch beantworten lassen. Mehr zum Umgang mit Saisonspitzen im Ratgeber <a href=\"/wissen/saisonbetrieb-digital/\">Saisonbetrieb digital</a>.</p>"
+    },
+    {
+      "h2": "Fach, Schulstufe, Schultyp: so suchen Eltern",
+      "html": "<p>Eltern suchen selten nach Ihrem Institutsnamen. Sie tippen „Nachhilfe Mathematik 3. Klasse Gymnasium“, „Englisch Matura Vorbereitung“ oder „Lernbetreuung Volksschule“. Eine Website, die nur „Wir bieten Nachhilfe in allen Fächern“ sagt, wird für diese Suchen kaum gefunden.</p><p>Besser sind eigene Seiten für Ihre wichtigsten Kombinationen, etwa Mathematik Unterstufe, Maturavorbereitung oder Deutsch für Volksschulkinder, jeweils mit Ablauf, Gruppengröße und Preis. Wie Sie solche Seiten anlegen, ohne dass sie sich gegenseitig kopieren, erklärt der Ratgeber <a href=\"/wissen/lokale-landingpages/\">Lokale Landingpages</a>. Wie Ihre Website derzeit bei Google dasteht, zeigt der <a href=\"https://www.pipeline-solutions.at/seo-check/\">SEO-Test von Pipeline</a>.</p>"
+    },
+    {
+      "h2": "Probestunde und Preise klar beschreiben",
+      "html": "<p>Vor der Anmeldung haben Eltern immer dieselben Fragen: Gibt es eine Probestunde? Einzel- oder Gruppenunterricht? Was kostet eine Einheit, und gibt es Blöcke? Wie kurzfristig kann man absagen?</p><p>Wenn diese Antworten auf der Website stehen, kann sie auch ein Chatbot nutzen. Pipebot antwortet rund um die Uhr nur mit Ihren Inhalten und verbindet bei Unsicherheit mit Ihnen. Das ist praktisch, weil viele Eltern abends nach der Hausübung schreiben. Pipebot kostet 19 € pro Monat, die ersten 30 Tage gratis. Ob er mit Ihren Texten gut zurechtkommt, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    },
+    {
+      "h2": "Viele Lehrkräfte, wechselnde Zeiten: Einsätze koordinieren",
+      "html": "<p>Viele Lernstudios arbeiten mit Studierenden und Lehrkräften auf Teilzeitbasis, deren Verfügbarkeit sich mit jedem Semester ändert. Die Zuordnung „Wer kann Physik am Dienstag um 16 Uhr?“ läuft oft über Tabellen und Gruppenchats.</p><p>Hier hilft eine einfache Automatisierung: Lehrkräfte tragen Verfügbarkeiten in ein Formular ein, neue Anfragen werden mit Fach und Zeit abgeglichen, und das Büro bekommt passende Vorschläge. Wie so etwas ohne Programmierkenntnisse funktioniert, beschreibt der Ratgeber <a href=\"/wissen/automatisierung-ohne-programmieren/\">Automatisierung ohne Programmieren</a>. Neue Lehrkräfte finden Sie über eine kostenlose Ausschreibung auf <a href=\"https://zusage.at/\">zusage.at</a>.</p>"
+    },
+    {
+      "h2": "Online-Nachhilfe und Datenschutz bei Kindern",
+      "html": "<p>Nachhilfe per Video ist für Familien am Land oder für Maturanten mit vollem Kalender praktisch. Auf der Website sollte stehen, welche Programme verwendet werden, wie man teilnimmt und ob Einheiten aufgezeichnet werden. Bei Minderjährigen ist besondere Sorgfalt nötig: Aufzeichnungen nur mit Zustimmung der Eltern, Fotos von Kindern nur mit Einwilligung.</p><p>Was in die Datenschutzerklärung gehört, beschreibt der Ratgeber <a href=\"/wissen/datenschutzerklaerung/\">Datenschutzerklärung</a>. Bei Detailfragen ist die Datenschutzbehörde die offizielle Anlaufstelle.</p>"
+    },
+    {
+      "h2": "Der nächste Schritt",
+      "html": "<p>Eine Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig, inklusive Kontaktformular, Impressum, Datenschutz und Hosting. Wenn Sie viele Fächer und Schulstufen abdecken, lohnt sich meist ein größeres Projekt mit eigenen Fachseiten. Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> klären wir, was davon für Ihr Institut sinnvoll ist.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wann sollte ein Nachhilfe-Institut Sommerkurse online stellen?",
+      "a": "So früh wie möglich, idealerweise sobald die Termine feststehen. Familien, deren Kind eine Nachprüfung vor Schulbeginn hat, suchen oft schon kurz nach der Zeugnisverteilung. Wenn dann Kursdaten, Preise und Anmeldung auf der Website stehen, melden sie sich direkt an. Wichtig ist, freie Plätze laufend zu aktualisieren, damit niemand für einen vollen Kurs anfragt."
+    },
+    {
+      "q": "Braucht ein Lernstudio eigene Seiten für jedes Fach?",
+      "a": "Für die wichtigsten Fächer und Schulstufen ja, weil Eltern genau danach suchen. Eine Seite für Mathematik Unterstufe oder Maturavorbereitung Englisch wird besser gefunden als eine allgemeine Liste aller Fächer. Jede Seite sollte aber eigene Inhalte haben, etwa Ablauf, typische Themen und Gruppengröße, statt denselben Text mit getauschtem Fachnamen."
+    },
+    {
+      "q": "Darf ich Online-Nachhilfestunden aufzeichnen?",
+      "a": "Bei Minderjährigen nur mit Zustimmung der Eltern, und auch dann nur, wenn es einen guten Grund gibt, etwa zum Wiederholen. Informieren Sie vorab, wofür die Aufzeichnung genutzt wird und wann sie gelöscht wird. Wir geben dazu nur allgemeine Orientierung. Im Einzelfall hilft die Datenschutzbehörde oder ein Anwalt weiter."
+    },
+    {
+      "q": "Kann ein Chatbot Eltern bei der Auswahl der Nachhilfe helfen?",
+      "a": "Ein Chatbot kann Fragen zu Probestunde, Preisen, Gruppengrößen, Absageregeln und Kurszeiten beantworten, wenn diese Infos auf Ihrer Website stehen. Pipebot nutzt nur Ihre Inhalte und verbindet bei Unsicherheit mit Ihnen. Die Einschätzung, welche Förderung ein Kind braucht, gehört dagegen ins persönliche Gespräch mit Eltern und Lehrkraft."
+    }
+  ],
+  "verwandt": ["/branchen/fahrschule/", "/wissen/saisonbetrieb-digital/", "/leistungen/ki-chatbot/", "/wissen/lokale-landingpages/", "/produkte/zusage/"],
+  "checks": ["seo-check", "chatbot-test"]
+}

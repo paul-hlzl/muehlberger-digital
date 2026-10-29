@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/amstetten/",
+  "title": "KI-Chatbot für Websites im Raum Amstetten",
+  "description": "Kunden aus Mostviertel und Oberösterreich fragen zuerst: Kommen Sie auch zu uns? Wie Pipebot das in Amstetten beantwortet, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Amstetten",
+  "kicker": "KI-Chatbot · Bezirk Amstetten",
+  "lead": "Ein KI-Chatbot lohnt sich für Betriebe in Amstetten vor allem dann, wenn viele Anfragen mit denselben Vorfragen beginnen: Kommen Sie auch zu uns? Was brauchen Sie von mir für ein Angebot? Pipebot beantwortet solche Fragen rund um die Uhr mit den Inhalten Ihrer Website und kostet 19 € im Monat, die ersten 30 Tage sind gratis.",
+  "fakten": [
+    "Pipebot antwortet nur mit Inhalten, die auf Ihrer Website stehen",
+    "Hilfreich für Betriebe mit Kunden beiderseits der Landesgrenze zu Oberösterreich",
+    "19 € pro Monat, monatlich kündbar, erste 30 Tage gratis",
+    "Beratung durch Mühlberger Digital, Umsetzung durch Pipeline AI Solutions"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Ein Einzugsgebiet, das an der Enns nicht aufhört",
+      "html": "<p>Amstetten liegt im Westen Niederösterreichs, an der Westbahn und nahe der Grenze zu Oberösterreich. Viele Betriebe im <a href=\"/regionen/bezirk-amstetten/\">Bezirk Amstetten</a> arbeiten deshalb für Kundinnen und Kunden aus zwei Bundesländern. Daraus entsteht eine Frage, die fast jede Anfrage begleitet: „Kommen Sie auch zu uns?“</p><p>Steht Ihr Einsatzgebiet klar auf der Website, beantwortet ein <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> diese Frage sofort, auch am Sonntagabend. Wer nicht ins Gebiet passt, weiß es gleich, und Ihr Telefon bleibt frei für die Anrufe, die wirklich zu Ihnen passen.</p>"
+    },
+    {
+      "h2": "Typische Vorfragen bei Handwerk und Fachhandel",
+      "html": "<p>Nehmen wir einen Heizungsbetrieb mit vier Mitarbeitern, der Wartungen und Kesseltausch anbietet. Bevor jemand einen Termin will, kommen fast immer dieselben Fragen:</p><ul><li>Welche Gemeinden fahren Sie an, und wird die Anfahrt extra verrechnet?</li><li>Welche Angaben brauchen Sie für ein Angebot, etwa Baujahr und Art der Heizung?</li><li>Wie läuft eine Wartung ab, und wie lange dauert sie ungefähr?</li></ul><p>Ein Küchenstudio hört dagegen eher: „Brauche ich für die Planung einen Termin?“ oder „Kann ich mit meinen Maßen einfach vorbeikommen?“ Beides lässt sich mit einem Absatz auf der Website und einem Chatbot daneben gut abdecken.</p>"
+    },
+    {
+      "h2": "Was Pipebot bewusst nicht übernimmt",
+      "html": "<p>Pipebot antwortet ausschließlich mit Inhalten, die Sie freigegeben haben. Eine Ferndiagnose für die Heizung oder einen verbindlichen Preis gibt er nicht, wenn diese Informationen nicht auf Ihrer Seite stehen. Ist sich der Bot unsicher, verbindet er mit Ihrem Team, statt zu raten.</p><p>Das ist Absicht: Ein Bot, der Dinge erfindet, schadet mehr, als er nützt. Welche Fehler bei der Einführung häufig passieren, lesen Sie im Ratgeber <a href=\"/wissen/chatbot-fehler/\">Chatbot-Fehler vermeiden</a>.</p>"
+    },
+    {
+      "h2": "Beratung aus Niederösterreich, Umsetzung aus Oberösterreich",
+      "html": "<p>Mühlberger Digital aus Ottenschlag berät und vermittelt, die technische Umsetzung übernimmt <a href=\"https://www.pipeline-solutions.at/at/oberoesterreich/\">Pipeline AI Solutions in Oberösterreich</a>. Für Betriebe an der Landesgrenze heißt das: Ansprechpartner auf beiden Seiten, ein schriftliches Angebot und klare Preise vorab.</p><p>Pipebot kostet 19 € im Monat, ist monatlich kündbar, und die ersten 30 Tage sind gratis. Am schnellsten sehen Sie mit dem <a href=\"/gratis-check/chatbot-test/\">Chatbot-Test</a>, wie der Bot mit Ihren eigenen Inhalten antwortet.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Weiß der Chatbot, ob eine bestimmte Gemeinde in meinem Einsatzgebiet liegt?",
+      "a": "Ja, wenn Ihre Website das hergibt. Nennen Sie dort die Gemeinden, einen Umkreis oder die Bezirke, in denen Sie arbeiten. Pipebot greift genau auf diese Angaben zurück. Fehlt die Information, sagt er das ehrlich und verbindet mit Ihrem Team, statt eine Vermutung zu äußern. Für Betriebe nahe der Landesgrenze lohnt es sich, beide Bundesländer ausdrücklich zu erwähnen."
+    },
+    {
+      "q": "Kann der Bot Preise für Installationen oder Küchen nennen?",
+      "a": "Nur die Preise, die Sie selbst veröffentlichen. Steht auf Ihrer Website etwa ein Richtpreis für eine Heizungswartung, gibt Pipebot ihn weiter. Für individuelle Projekte wie einen Kesseltausch oder eine Küchenplanung ist es besser, auf ein Angebot nach Besichtigung zu verweisen. Der Bot erklärt dann, welche Angaben Sie dafür brauchen, und gibt die Anfrage an Ihr Team weiter."
+    },
+    {
+      "q": "Wer ist mein Ansprechpartner, Mühlberger Digital oder Pipeline?",
+      "a": "Für Beratung, Erstgespräch und Fragen zum Angebot ist Jonas Mühlberger da, telefonisch unter +43 677 6219 2776 oder per E-Mail an office@muehlberger-digital.at. Vertragspartner und technischer Umsetzer ist Pipeline AI Solutions. Sie müssen sich also nicht selbst um die Technik kümmern und haben trotzdem eine feste Ansprechperson in Niederösterreich."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-amstetten/",
+    "/produkte/pipebot/",
+    "/branchen/installateur/",
+    "/regionen/oberoesterreich/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

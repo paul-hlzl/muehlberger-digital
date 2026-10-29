@@ -27,15 +27,18 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
+  "@id": "https://muehlberger-digital.at/#org",
   "name": "Mühlberger Digital",
   "url": "https://muehlberger-digital.at/",
   "logo": "https://muehlberger-digital.at/img/md-zeichen.png",
+  "image": "https://muehlberger-digital.at/img/og.jpg",
   "description": "Beratung und Vermittlung von Websites, Apps und KI-Lösungen. Umsetzung durch Pipeline AI Solutions.",
-  "founder": { "@type": "Person", "name": "Jonas Mühlberger" },
+  "founder": { "@type": "Person", "@id": "https://muehlberger-digital.at/ueber-jonas-muehlberger/#person", "name": "Jonas Mühlberger" },
   "telephone": "+43 677 6219 2776",
   "email": "office@muehlberger-digital.at",
-  "address": { "@type": "PostalAddress", "addressLocality": "Ottenschlag", "postalCode": "3631", "addressCountry": "AT" },
+  "address": { "@type": "PostalAddress", "streetAddress": "Neuhof 26", "addressLocality": "Ottenschlag", "postalCode": "3631", "addressRegion": "Niederösterreich", "addressCountry": "AT" },
   "areaServed": ["AT", "DE", "CH"],
+  "knowsAbout": ["Webdesign", "Suchmaschinenoptimierung", "Generative Engine Optimization", "KI-Chatbots", "Prozessautomatisierung", "App-Entwicklung"],
   "sameAs": ["https://www.instagram.com/muehlberger.digital/"]
 }
 </script>
@@ -380,8 +383,8 @@
   </div>
   <div class="wrap">
     <div class="fcols">
-      <div><h4>Seiten</h4><ul><li><a href="#projekte">Projekte</a></li><li><a href="#leistungen">Leistungen</a></li><li><a href="#muehlberger-digital">Über uns</a></li><li><a href="#preise">Preise</a></li></ul></div>
-      <div><h4>Produkte</h4><ul><li><a href="https://pipebot.at/" target="_blank" rel="noopener">Pipebot</a></li><li><a href="https://noteit.at/" target="_blank" rel="noopener">noteit</a></li><li><a href="https://sightup.at/" target="_blank" rel="noopener">SightUp</a></li><li><a href="https://pipeflow.at/" target="_blank" rel="noopener">Pipeflow</a></li><li><a href="https://hittaro.com/" target="_blank" rel="noopener">Hittaro</a></li></ul></div>
+      <div><h4>Seiten</h4><ul><li><a href="/leistungen/">Leistungen</a></li><li><a href="/gratis-check/">Gratis-Checks</a></li><li><a href="/branchen/">Branchen</a></li><li><a href="/regionen/">Regionen</a></li><li><a href="/wissen/">Wissen &amp; Ratgeber</a></li><li><a href="/seitenuebersicht/">Alle Seiten</a></li></ul></div>
+      <div><h4>Produkte</h4><ul><li><a href="https://pipebot.at/" target="_blank" rel="noopener">Pipebot</a></li><li><a href="https://noteit.at/" target="_blank" rel="noopener">noteit</a></li><li><a href="https://sightup.at/" target="_blank" rel="noopener">SightUp</a></li><li><a href="https://pipeflow.at/" target="_blank" rel="noopener">Pipeflow</a></li><li><a href="https://hittaro.com/" target="_blank" rel="noopener">Hittaro</a></li><li><a href="https://zusage.at/" target="_blank" rel="noopener">zusage.at</a></li></ul></div>
       <div><h4>Kontakt</h4><ul><li><a href="tel:+4367762192776">+43 677 6219 2776</a></li><li><a href="mailto:office@muehlberger-digital.at">office@muehlberger-digital.at</a></li><li><a href="impressum.html">Impressum</a></li><li><a href="impressum.html#datenschutz">Datenschutz</a></li></ul></div>
       <div class="news">
         <h4>Lieber zurückgerufen werden?</h4>
@@ -736,9 +739,10 @@ function zusammenfassung() {
 }
 $("#mode").addEventListener("change", zusammenfassung);
 
+// Spätestens nach 8 Sekunden aufgeben, damit niemand minutenlang auf "Wird gesendet" wartet
 async function senden(daten) {
   try {
-    const r = await fetch(FORM.endpoint, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify(daten) });
+    const r = await fetch(FORM.endpoint, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify(daten), signal: AbortSignal.timeout(8000) });
     const j = await r.json().catch(() => ({}));
     return r.ok && String(j.success) === "true";
   } catch { return false; }

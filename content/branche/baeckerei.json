@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/baeckerei/",
+  "title": "Digitale Lösungen für Bäckereien: Vorbestellung & Lehrlinge",
+  "description": "Striezel zu Allerheiligen, Gebäck für Firmen, Filial-Öffnungszeiten und Lehrlinge für die Backstube: Wie Bäckereien digital entlastet werden.",
+  "h1": "Digitale Lösungen für Bäckereien",
+  "kicker": "Branche · Bäckerei",
+  "lead": "Bäckereien arbeiten, wenn andere schlafen, und verkaufen, wenn andere frühstücken. Für Telefonate und E-Mails bleibt wenig Zeit. Digital lohnen sich vor allem Vorbestellungen für Feiertage und Firmen, stets richtige Öffnungszeiten für jede Filiale und ein Auftritt, der junge Leute für die Backstube interessiert.",
+  "fakten": [
+    "Feiertagsgebäck wie Striezel, Pinze oder Kletzenbrot online vorbestellen lassen",
+    "Öffnungszeiten jeder Filiale einzeln und aktuell auf Google pflegen",
+    "Lehrlinge und Fachkräfte über zusage.at kostenlos ansprechen",
+    "Firmenkunden für Gebäck und Jause gezielt mit SightUp finden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Feiertage: Wenn alle gleichzeitig dasselbe wollen",
+      "html": "<p>Allerheiligenstriezel, Osterpinze, Weihnachtsstollen, Kletzenbrot: An einigen Tagen im Jahr wollen sehr viele Kunden dasselbe Gebäck, und ohne Vorbestellung stimmt entweder die Menge nicht, oder die Kunden gehen leer aus. Zettellisten an der Theke funktionieren, aber jede Filiale führt ihre eigene.</p><p>Eine einfache Vorbestellung über die Website, mit Abholfiliale, Abholtag und Menge, sammelt alles an einer Stelle. Die Backstube sieht am Vortag, wie viel gebraucht wird. Wer auch gleich bezahlen lassen will, kann einen kleinen <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop</a> nutzen. Das lohnt sich aber erst bei größeren Mengen.</p>"
+    },
+    {
+      "h2": "Filialen und Öffnungszeiten: kleine Fehler, großer Ärger",
+      "html": "<p>Mehrere Filialen bedeuten mehrere Öffnungszeiten, Sonntagsdienste, Betriebsurlaub einzelner Standorte und Feiertagsregelungen. Steht bei Google für die Filiale im Nachbarort noch die alte Sonntagsöffnung, stehen Kunden vor verschlossener Tür und ärgern sich über den ganzen Betrieb.</p><ul><li>Für jede Filiale ein eigenes Google-Unternehmensprofil mit eigenen Zeiten.</li><li>Auf der Website eine Filialübersicht mit Adresse, Zeiten und Karte.</li><li>Feiertagszeiten rechtzeitig als Sonderöffnungszeiten eintragen.</li></ul><p>Klingt banal, ist aber für viele Bäckereien der wichtigste digitale Hebel überhaupt.</p>"
+    },
+    {
+      "h2": "Lehrlinge für die Backstube finden",
+      "html": "<p>Die Arbeitszeiten in der Backstube schrecken viele junge Leute ab, bevor sie überhaupt wissen, was der Beruf bietet: frühes Ende am Tag, handwerkliche Arbeit, sichtbares Ergebnis. Genau das muss eine Bäckerei zeigen.</p><p>Eine Karriereseite mit Fotos aus der Backstube, einem kurzen Text eines Lehrlings und ehrlichen Angaben zu Arbeitszeiten wirkt mehr als eine Stellenanzeige. Stellen können Sie kostenlos auf <a href=\"https://zusage.at/\">zusage.at</a> ausschreiben, mehr dazu auf der Seite zu <a href=\"/produkte/zusage/\">zusage.at</a>. Wie man sich als Arbeitgeber zeigt, beschreibt der Ratgeber <a href=\"/wissen/arbeitgebermarke/\">Arbeitgebermarke</a>.</p>"
+    },
+    {
+      "h2": "Firmenkunden: Gebäck für Büro, Baustelle und Kantine",
+      "html": "<p>Ein Betrieb mit zwanzig Mitarbeitern, der jeden Freitag Gebäck für die Besprechung bestellt, ein Kindergarten mit täglichem Brot, ein Seminarhotel mit Frühstücksgebäck: Firmenkunden bringen planbare Mengen und sind für viele Bäckereien wertvoll.</p><p>Solche Kunden findet man über gezielte Ansprache. <a href=\"https://sightup.at/\">SightUp</a> sucht passende Firmen in Ihrer Umgebung, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor. Verschickt wird nichts automatisch. Das Gratis-Paket umfasst drei Suchen pro Monat.</p><p>Bevor Sie Firmen ansprechen, sollten Liefermöglichkeit und Mindestmenge geklärt sein. Ein kurzes Firmenangebot auf der Website, etwa „Gebäckkörbe für Besprechungen, Lieferung im Ort ab einer bestimmten Menge“, gibt interessierten Betrieben etwas Konkretes in die Hand.</p>"
+    },
+    {
+      "h2": "Regionalität erzählen, ohne zu übertreiben",
+      "html": "<p>Viele Bäckereien backen mit Mehl aus der Region, mit Natursauerteig oder nach alten Familienrezepten. Das ist ein echtes Argument gegenüber dem Aufbackregal im Supermarkt, wenn es stimmt und konkret erzählt wird.</p><p>Schreiben Sie nur, was Sie belegen können, und lieber konkret als allgemein: woher das Mehl kommt, wie lange der Teig ruht, welches Brot es nur am Samstag gibt. Ideen, wie man regionale Produkte online zeigt, sammelt der Ratgeber <a href=\"/wissen/regionale-produkte-online/\">regionale Produkte online</a>.</p>"
+    },
+    {
+      "h2": "Was eine Bäckerei nicht braucht",
+      "html": "<p>Einen Chatbot oder Telefonassistenten braucht eine Bäckerei selten. Auch eine aufwendige Social-Media-Strategie ist kein Muss. Wichtiger sind stimmende Öffnungszeiten, eine einfache Vorbestellung und ein guter Auftritt für Bewerber.</p><p>Wer wissen will, wie die eigene Website gefunden wird, startet mit dem <a href=\"/gratis-check/seo-check/\">kostenlosen SEO-Check</a>. Im Erstgespräch klären wir den Rest.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie organisiere ich Vorbestellungen für Feiertage am besten?",
+      "a": "Mit einem einfachen Formular auf der Website, in dem Kunden Gebäck, Menge, Abholfiliale und Abholtag wählen. Alle Bestellungen landen an einer Stelle, und die Backstube sieht rechtzeitig, wie viel gebraucht wird. Eine klare Frist, bis wann bestellt werden kann, verhindert Überraschungen. Zettel in den Filialen können parallel bleiben, sollten aber in dieselbe Liste übertragen werden."
+    },
+    {
+      "q": "Braucht jede Filiale ein eigenes Google-Profil?",
+      "a": "Ja, wenn Kunden die Filialen getrennt aufsuchen. Jede Filiale hat eigene Öffnungszeiten, eine eigene Adresse und eigene Bewertungen. Mit einem eigenen Profil findet ein Kunde im Nachbarort genau die Filiale in seiner Nähe mit den richtigen Zeiten. Wichtig ist, dass alle Profile gepflegt werden, besonders bei Feiertagen und Betriebsurlaub."
+    },
+    {
+      "q": "Wie finde ich Lehrlinge für die Backstube?",
+      "a": "Indem Sie zeigen, wie der Beruf wirklich ist, mit Fotos aus der Backstube und ehrlichen Angaben zu Arbeitszeiten, auch den Vorteilen wie dem frühen Feierabend. Ein kurzer Text von einem aktuellen Lehrling wirkt oft stärker als jede Anzeige. Stellen können Sie kostenlos auf zusage.at ausschreiben. Ergänzend helfen Schnuppertage und Kontakte zu Schulen in der Region."
+    },
+    {
+      "q": "Was kostet eine Website für eine Bäckerei?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Hosting, Kontaktformular, Impressum und Datenschutz. Für eine Bäckerei könnten das Startseite, Sortiment, Filialen, Karriere und Kontakt sein. Eine Vorbestellung mit Abholfiliale oder ein Onlineshop für Feiertagsgebäck werden als Erweiterung nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/mitarbeiter-finden-online/", "/produkte/zusage/", "/wissen/regionale-produkte-online/", "/wissen/arbeitgebermarke/", "/branchen/cafe/"],
+  "checks": ["seo-check", "neukunden-finden"]
+}

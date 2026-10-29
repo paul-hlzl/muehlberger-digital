@@ -1,0 +1,42 @@
+{
+  "pfad": "/glossar/dns/",
+  "title": "DNS einfach erklärt: Das Telefonbuch des Internets",
+  "description": "Was ist DNS? Wie das Domain Name System Ihre Domain mit Website und E-Mail verbindet, welche Einträge es gibt und warum Fehler teuer werden können.",
+  "h1": "DNS – Domain Name System",
+  "kicker": "Glossar · Technik",
+  "lead": "DNS (Domain Name System) ist das System, das eine Domain wie tischlerei-gruber.at in die technische Adresse eines Servers übersetzt. Ohne DNS wüsste kein Browser und kein Mailprogramm, wohin es sich verbinden soll.",
+  "fakten": [
+    "Übersetzt Namen in IP-Adressen, ähnlich einem Telefonbuch",
+    "Wichtige Einträge: A/AAAA (Website), MX (E-Mail), TXT (Nachweise)",
+    "Änderungen brauchen oft einige Stunden, bis sie überall gelten"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was DNS-Einträge im Betrieb steuern",
+      "html": "<p>Ein Elektrotechniker zieht mit seiner Website zu einem neuen <a href=\"/glossar/hosting/\">Hosting</a>-Anbieter um, die E-Mails sollen aber beim bisherigen Anbieter bleiben. Dafür wird im DNS seiner <a href=\"/glossar/domain/\">Domain</a> nur der A-Eintrag auf den neuen Server geändert, der MX-Eintrag für die Post bleibt gleich. Kunden merken vom Umzug nichts.</p><p>Über TXT-Einträge wird außerdem nachgewiesen, wer E-Mails im Namen der Domain verschicken darf (SPF, DKIM, DMARC). Fehlen sie, landen Angebote leichter im Spam-Ordner des Kunden.</p>"
+    },
+    {
+      "h2": "Warum DNS für KMU relevant ist",
+      "html": "<p>Die meisten Betriebe sehen ihr DNS nie, bis etwas nicht funktioniert. Ein falsch gesetzter Eintrag kann Website oder E-Mail für Stunden lahmlegen. Notieren Sie deshalb, bei welchem Anbieter Ihr DNS verwaltet wird und wer Zugriff hat.</p><p>Bei einem Relaunch oder Anbieterwechsel gehört die DNS-Umstellung auf jede Checkliste, siehe <a href=\"/wissen/website-relaunch-checkliste/\">Relaunch-Checkliste</a>. Wer eigene Adressen nutzt, findet im Ratgeber <a href=\"/wissen/e-mail-mit-eigener-domain/\">E-Mail mit eigener Domain</a> die passenden Schritte.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Warum dauert eine DNS-Änderung so lange?",
+      "a": "DNS-Daten werden weltweit zwischengespeichert, damit nicht bei jedem Aufruf neu nachgefragt werden muss. Wie lange, bestimmt ein Wert namens TTL (Time to Live). Bis alle Zwischenspeicher den neuen Eintrag übernommen haben, sehen manche Besucher noch die alte Version. Meist ist das nach einigen Stunden erledigt, in seltenen Fällen kann es bis zu einem Tag dauern."
+    },
+    {
+      "q": "Muss ich mich als Betrieb selbst um das DNS kümmern?",
+      "a": "Nein, in der Regel übernimmt das Ihr Webdienstleister oder Hosting-Anbieter. Sie sollten aber wissen, wo Ihr DNS verwaltet wird, und die Zugangsdaten sicher aufbewahren. So können Sie bei einem Anbieterwechsel oder einem Problem schnell reagieren, ohne auf eine einzelne Person angewiesen zu sein."
+    }
+  ],
+  "verwandt": [
+    "/glossar/domain/",
+    "/glossar/hosting/",
+    "/wissen/e-mail-mit-eigener-domain/",
+    "/leistungen/website-wartung-hosting/"
+  ],
+  "checks": [
+    "seo-check"
+  ]
+}

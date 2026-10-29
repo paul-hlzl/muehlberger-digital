@@ -1,0 +1,60 @@
+{
+  "pfad": "/branchen/catering/",
+  "title": "Digitale Lösungen für Catering: Anfragen & Angebote",
+  "description": "Personenanzahl, Location, Allergien, Budget: Wie Caterer Anfragen vollständig erfassen, Angebote schneller schicken und gezielt Firmenkunden gewinnen.",
+  "h1": "Digitale Lösungen für Catering",
+  "kicker": "Branche · Catering, Partyservice",
+  "lead": "Im Catering entscheidet oft die Geschwindigkeit: Wer zuerst ein passendes Angebot schickt, bekommt den Auftrag. Gleichzeitig ist jede Anfrage anders, mit Personenanzahl, Ort, Ablauf, Allergien und Budget. Ein gutes Anfrageformular, vorbereitete Angebote, automatische Protokolle von Vorgesprächen und gezielte Ansprache von Firmen bringen hier am meisten.",
+  "fakten": [
+    "Anfrageformular mit allen Eckdaten verhindert drei Runden Rückfragen",
+    "Angebotsentwürfe aus Ihren Standardmenüs automatisch vorbereiten",
+    "Video-Vorgespräche mit noteit protokollieren, ohne Bot im Call, Speicherung in Frankfurt",
+    "Firmenkunden für Weihnachtsfeiern und Seminare mit SightUp finden"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Jede Anfrage ist anders, aber die Fragen sind immer gleich",
+      "html": "<p>„Wir feiern im Juni, ca. 80 Leute, bitte um ein Angebot.“ Damit beginnt eine Kette von Rückfragen: Wo genau? Gibt es eine Küche vor Ort? Buffet oder serviert? Vegetarisch, vegan, Allergien? Mit Personal und Geschirr? Bis alles geklärt ist, hat der Kunde vielleicht schon zugesagt, woanders.</p><p>Ein Anfrageformular, das diese Punkte auf einmal und verständlich abfragt, beschleunigt alles. Wichtig ist das richtige Maß: Datum, Personenanzahl, Ort, Anlass und Stil als Pflicht, der Rest optional. Wie man aus vielen Kontakten die passenden filtert, beschreibt der Ratgeber zur <a href=\"/wissen/anfragen-qualitaet/\">Qualität von Anfragen</a>.</p>"
+    },
+    {
+      "h2": "Angebote schneller schicken",
+      "html": "<p>Die meisten Caterer haben Standardmenüs, Buffetvarianten und Preise pro Person, die sie für jedes Angebot neu zusammenstellen. Eine Automatisierung kann aus den Angaben im Formular einen Angebotsentwurf mit Ihren eigenen Bausteinen vorbereiten: Menüvorschlag, Personal, Geschirr, Anfahrt. Sie prüfen, passen an und schicken.</p><p>Die Software erfindet dabei keine Preise und keine Gerichte, sondern verwendet nur, was Sie hinterlegt haben. Wie das funktioniert, beschreibt der Ratgeber <a href=\"/wissen/angebote-automatisieren/\">Angebote automatisieren</a>. Lohnend ist das vor allem bei vielen ähnlichen Anfragen pro Woche.</p>"
+    },
+    {
+      "h2": "Vorgespräche: Wer hat welchen Wunsch geäußert?",
+      "html": "<p>Bei Hochzeiten und größeren Firmenfeiern gibt es meist ein oder mehrere Vorgespräche, oft per Video, weil das Brautpaar oder die Assistentin der Geschäftsführung wenig Zeit hat. Danach soll jeder Wunsch im Angebot stehen: der Vater ist Vegetarier, der Kuchen kommt von der Tante, das Dessert erst nach der Rede.</p><p><a href=\"https://noteit.at/\">noteit</a> erstellt etwa zwei Minuten nach dem Gespräch ein fertiges Protokoll, ohne Bot im Call, mit Speicherung in Frankfurt. Starter ist kostenlos mit drei Stunden pro Monat, Pro kostet 14 € pro Monat. Mehr dazu unter <a href=\"/leistungen/meeting-protokolle-ki/\">Meeting-Protokolle mit KI</a>.</p>"
+    },
+    {
+      "h2": "Nachfassen: Das Angebot, auf das niemand antwortet",
+      "html": "<p>Ein Teil der Angebote bleibt unbeantwortet, nicht weil der Kunde abgesagt hat, sondern weil die Entscheidung noch offen ist. Eine freundliche Nachfrage nach einer Woche, mit einem konkreten Angebot wie einer Verkostung, kann den Ausschlag geben. Wie man das gut formuliert, steht unter <a href=\"/wissen/angebot-nachfassen/\">Angebot nachfassen</a>.</p><p>Automatisiert ist das einfach: Das System erinnert Sie oder schickt eine vorbereitete Nachricht, die Sie freigeben.</p>"
+    },
+    {
+      "h2": "Firmenkunden: planbare Aufträge über das ganze Jahr",
+      "html": "<p>Firmen bestellen Catering für Weihnachtsfeiern, Seminare, Eröffnungen, Sommerfeste und Besprechungen. Wer einmal zufrieden war, bestellt oft wieder. Solche Kunden findet man über gezielte Ansprache, nicht über Google allein.</p><p><a href=\"https://sightup.at/\">SightUp</a> sucht passende Firmen in Ihrer Umgebung, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht vor, die Sie selbst schicken. Das Gratis-Paket umfasst drei Suchen pro Monat. Hintergründe dazu im Ratgeber <a href=\"/wissen/b2b-kunden-finden/\">B2B-Kunden finden</a>.</p>"
+    },
+    {
+      "h2": "Wann sich das für einen Caterer nicht lohnt",
+      "html": "<p>Ein kleiner Partyservice mit wenigen Aufträgen im Monat braucht keine Angebotsautomatisierung. Da reichen ein gutes Formular und eine ordentliche Vorlage. Auch einen Chatbot brauchen die wenigsten Caterer, weil Kunden ohnehin ein persönliches Gespräch wollen.</p><p>Im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a> schauen wir, wie viele Anfragen Sie haben und wo die meiste Zeit verloren geht.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Was sollte ein Catering-Anfrageformular abfragen?",
+      "a": "Pflicht sollten Datum, ungefähre Personenanzahl, Ort, Anlass und gewünschter Stil sein, etwa Buffet, serviertes Menü oder Fingerfood. Optional sind Budget, Allergien und Ernährungsformen, Personal, Geschirr und Getränke. Mehr Pflichtfelder schrecken ab. Mit diesen Angaben können Sie in den meisten Fällen sofort einen ersten Vorschlag schicken, statt drei Runden Rückfragen zu drehen."
+    },
+    {
+      "q": "Kann KI Catering-Angebote selbstständig schreiben?",
+      "a": "Sie kann Entwürfe vorbereiten, aus Ihren Standardmenüs, Preisen pro Person und Zusatzleistungen. Sie prüfen den Entwurf, passen ihn an und schicken ihn ab. Ohne Ihre hinterlegten Bausteine funktioniert das nicht, und nichts sollte ohne Ihre Kontrolle hinausgehen. Die Umsetzung ist ein individuelles Projekt von Pipeline AI Solutions, der Preis wird nach dem Erstgespräch schriftlich angeboten."
+    },
+    {
+      "q": "Funktioniert noteit auch bei Vorgesprächen vor Ort?",
+      "a": "noteit ist für Online-Gespräche gebaut, also Teams, Zoom, Google Meet, Webex und ähnliche Dienste. Dort liefert es etwa zwei Minuten nach dem Gespräch ein Protokoll, ohne Bot im Call. Für ein Treffen in der Location ist es nicht gedacht. Viele Vorgespräche mit Firmen und Brautpaaren finden aber ohnehin per Video statt. Sieben Tage lassen sich kostenlos testen."
+    },
+    {
+      "q": "Was kostet eine Website für ein Catering-Unternehmen?",
+      "a": "Die Starter-Website mit bis zu fünf Seiten kostet ab 2.500 € einmalig ohne USt. inklusive Hosting, Impressum, Datenschutz und Kontaktformular. Typisch wären Startseite, Angebot und Menüs, Firmenfeiern, Hochzeiten und Anfrage. Ein erweitertes Anfrageformular oder eine Angebotsautomatisierung werden als individuelles Projekt nach dem Erstgespräch schriftlich angeboten."
+    }
+  ],
+  "verwandt": ["/wissen/angebote-automatisieren/", "/wissen/angebot-nachfassen/", "/leistungen/meeting-protokolle-ki/", "/wissen/b2b-kunden-finden/", "/produkte/sightup/", "/branchen/fleischerei/"],
+  "checks": ["neukunden-finden"]
+}

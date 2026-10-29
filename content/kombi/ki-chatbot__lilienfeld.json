@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/ki-chatbot/lilienfeld/",
+  "title": "KI-Chatbot für Ausflugsbetriebe im Bezirk Lilienfeld",
+  "description": "Offen bei Regen, Leihgeräte vorhanden, Weg frei? Wie ein KI-Chatbot Betrieben im Bezirk Lilienfeld die Fragen der Ausflügler beantwortet, um 19 € im Monat.",
+  "h1": "KI-Chatbot für die Website in Lilienfeld",
+  "kicker": "KI-Chatbot · Bezirk Lilienfeld",
+  "lead": "Im Bezirk Lilienfeld, in den Voralpen rund um das Traisental, hängen viele Gästefragen an Wetter und Saison: Ist heute offen, geht es auch bei Schnee, gibt es etwas zu leihen? Ein KI-Chatbot beantwortet das auf Ihrer Website, wenn die Informationen dort aktuell sind. Pipebot kostet 19 € im Monat, 30 Tage sind gratis.",
+  "fakten": [
+    "Voralpenbezirk mit Ausflugsgästen aus St. Pölten, Wien und Umgebung",
+    "Viele Fragen hängen an Wetter, Saison und Öffnungszeiten",
+    "Der Bot kennt nur, was auf Ihrer Website steht, keine Wetterdaten",
+    "19 € pro Monat, monatlich kündbar, 30 Tage gratis"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Wetter und Saison bestimmen die Fragen",
+      "html": "<p>Der <a href=\"/regionen/bezirk-lilienfeld/\">Bezirk Lilienfeld</a> liegt in den Voralpen und zieht Wanderer, Radfahrer und Wintersportler an, viele davon aus St. Pölten und Wien. Ihre Fragen sind meist kurz und hängen am Wetter: „Haben Sie bei Regen offen?“ oder „Kann man im Winter zu Ihnen hinauf?“</p><p>Wer nicht sofort eine Antwort findet, plant um. Ein Chatbot hält diese Gäste, wenn Ihre Website die nötigen Infos hat.</p>"
+    },
+    {
+      "h2": "Ein aktueller Hinweis spart viele Anrufe",
+      "html": "<p>Ein Gasthaus am Berg hat eine einfache Regel: Bei Gewitterwarnung schließt der Gastgarten, die Stube bleibt offen. Steht genau dieser Satz auf der Website, gibt Pipebot ihn an alle weiter, die fragen. Das spart an unsicheren Tagen viele Anrufe.</p><p>Ähnlich bei einem Verleih für E-Bikes oder Schneeschuhe:</p><ul><li>Welche Größen gibt es, und muss ich vorher reservieren?</li><li>Bis wann muss ich das Gerät zurückbringen?</li><li>Was passiert bei Schlechtwetter mit meiner Reservierung?</li></ul>"
+    },
+    {
+      "h2": "Wenn der Bot keine Antwort weiß",
+      "html": "<p>Pipebot erfindet nichts. Steht eine Information nicht auf Ihrer Website, sagt er das und verbindet mit Ihnen. Das ist besser als eine geratene Antwort, wenn es um Wege, Öffnungszeiten oder Ausrüstung geht.</p><p>Welche Inhalte ein Chatbot braucht, um gute Antworten zu geben, beschreibt der Ratgeber <a href=\"/wissen/chatbot-inhalte/\">Inhalte für den Chatbot</a>.</p>"
+    },
+    {
+      "h2": "Für wen sich das im Bezirk eher nicht lohnt",
+      "html": "<p>Ein Betrieb mit kaum Website-Besuchern und fast nur Stammgästen braucht keinen Chatbot. Dann ist es wichtiger, überhaupt gefunden zu werden, etwa mit einem gepflegten Google-Profil. Wie das geht, erklärt der Ratgeber <a href=\"/wissen/google-unternehmensprofil-optimieren/\">Google-Unternehmensprofil optimieren</a>.</p><p>Für alle anderen ist der <a href=\"/leistungen/ki-chatbot/\">KI-Chatbot</a> eine günstige Entlastung. Ausprobieren können Sie ihn im <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Weiß der Chatbot, wie das Wetter am Berg ist?",
+      "a": "Nein. Pipebot greift nur auf die Inhalte Ihrer Website zu, nicht auf Wetterdienste oder Webcams. Er kann aber Ihre Regeln für schlechtes Wetter weitergeben, etwa wann der Gastgarten schließt oder ab wann der Verleih pausiert. Für die aktuelle Wetterlage verweisen Sie auf Ihrer Website am besten auf eine offizielle Quelle, die der Bot dann nennen kann."
+    },
+    {
+      "q": "Wie oft muss ich die Website aktualisieren, damit der Bot stimmt?",
+      "a": "So oft, wie sich Ihre Informationen ändern. Feste Regeln wie Ruhetage, Saisonzeiten und Schlechtwetter-Regelungen schreiben Sie einmal. Nur echte Ausnahmen, etwa eine Schließung wegen eines Festes, brauchen einen kurzen Hinweis. Wer diese Ausnahmen ohnehin auf der Website und im Google-Profil pflegt, hat mit dem Chatbot keinen zusätzlichen Aufwand."
+    },
+    {
+      "q": "Kann der Chatbot Leihgeräte für mich reservieren?",
+      "a": "Nein, Pipebot nimmt keine Reservierungen vor. Er erklärt aber, wie man bei Ihnen reserviert, was es zu leihen gibt und was man mitbringen sollte, sofern das auf Ihrer Website steht. Bei konkreten Wünschen verbindet er mit Ihnen. Wer viele Reservierungen hat, kann zusätzlich eine Online-Buchung nutzen, auf die der Bot dann verweist."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/ki-chatbot/",
+    "/regionen/bezirk-lilienfeld/",
+    "/regionen/mostviertel/",
+    "/wissen/chatbot-inhalte/",
+    "/wissen/saisonbetrieb-digital/"
+  ],
+  "checks": [
+    "chatbot-test"
+  ]
+}

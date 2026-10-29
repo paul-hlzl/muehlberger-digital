@@ -1,0 +1,73 @@
+{
+  "pfad": "/wissen/chatbot-inhalte/",
+  "title": "Mit welchen Inhalten ein Chatbot antwortet",
+  "description": "Mit welchen Inhalten ein KI-Chatbot antwortet, wie er sie findet und wie Sie Website, FAQ und Unterlagen vorbereiten, damit die Antworten stimmen.",
+  "h1": "Mit welchen Inhalten ein Chatbot antwortet",
+  "kicker": "Ratgeber · Chatbot",
+  "lead": "Ein guter Website-Chatbot antwortet mit den Inhalten, die Sie ihm geben: Texte Ihrer Website, häufige Fragen, Preis- und Leistungsinfos, eventuell weitere Dokumente. Technisch sucht er bei jeder Frage zuerst die passenden Stellen in diesen Inhalten und formuliert daraus eine Antwort. Was dort nicht steht, sollte er nicht erfinden, sondern an Ihr Team übergeben.",
+  "fakten": [
+    "Antworten kommen aus Ihren Inhalten, nicht aus dem allgemeinen Internet",
+    "Das Verfahren heißt RAG: erst suchen, dann formulieren",
+    "Veraltete oder widersprüchliche Seiten führen zu falschen Antworten",
+    "Gute Chatbot-Inhalte helfen auch Google und KI-Suchen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "So kommt der Chatbot zu seiner Antwort",
+      "html": "<p>Ein KI-Chatbot besteht vereinfacht aus zwei Teilen: einem Sprachmodell, das Text verstehen und formulieren kann, und einer Wissensbasis mit Ihren Inhalten. Stellt jemand eine Frage, läuft das in drei Schritten ab:</p><ol> <li><strong>Suchen:</strong> Der Bot sucht in Ihren Inhalten die Abschnitte, die zur Frage passen.</li><li><strong>Formulieren:</strong> Das Sprachmodell schreibt aus diesen Abschnitten eine verständliche Antwort.</li><li><strong>Grenzen prüfen:</strong> Findet er nichts Passendes, sagt ein gut eingestellter Bot das offen und bietet Kontakt an.</li></ol> <p>Dieses Verfahren heißt <a href=\"/glossar/rag/\">RAG</a> (Retrieval Augmented Generation). Der Vorteil: Die Antworten beruhen auf Ihren Angaben statt auf dem allgemeinen Wissen des Modells. Das senkt das Risiko erfundener Antworten, sogenannter <a href=\"/glossar/halluzination/\">Halluzinationen</a>, deutlich.</p>"
+    },
+    {
+      "h2": "Welche Inhalte sich eignen",
+      "html": "<ul><li><strong>Leistungsseiten:</strong> Was Sie anbieten, für wen, in welchem Gebiet.</li><li><strong>Häufige Fragen:</strong> idealerweise als eigene FAQ-Seite mit vollständigen Antworten.</li><li><strong>Preise oder Preisrahmen:</strong> Auch „ab“-Preise oder Erklärungen, wovon der Preis abhängt, helfen.</li><li><strong>Organisatorisches:</strong> Öffnungszeiten, Anfahrt, Parken, Zahlungsarten, Storno, Ablauf eines Termins.</li><li><strong>Über den Betrieb:</strong> Team, Erfahrung, Arbeitsweise.</li><li><strong>Kontaktwege:</strong> Telefon, E-Mail, Rückrufzeiten, Notdienst.</li></ul> <p>Je klarer ein Text eine Frage beantwortet, desto besser kann der Bot ihn verwenden. Ein Satz wie „Wir fahren im ganzen Bezirk Zwettl und in angrenzende Gemeinden“ ist für den Bot wertvoller als „Wir sind für Sie in der Region da“.</p>"
+    },
+    {
+      "h2": "Welche Inhalte nicht hineingehören",
+      "html": "<ul><li><strong>Veraltetes:</strong> alte Preislisten, abgelaufene Aktionen, frühere Öffnungszeiten. Der Bot kann nicht wissen, was nicht mehr gilt.</li><li><strong>Widersprüchliches:</strong> Steht auf einer Seite „Montag Ruhetag“ und auf einer anderen „täglich geöffnet“, wählt der Bot womöglich die falsche.</li><li><strong>Vertrauliches:</strong> interne Kalkulationen, Kundendaten, Verträge. Was der Bot weiß, kann er im Prinzip auch sagen.</li><li><strong>Rechtlich Heikles:</strong> verbindliche Zusagen, die nur ein Mensch geben sollte.</li></ul> <p>Typische Situation: Ein Hofladen hat noch eine Seite zur Spargelsaison aus dem Vorjahr online. Im Herbst fragt jemand nach Spargel, und der Bot antwortet mit den alten Abholzeiten. Die Lösung ist einfach: Saisonseiten aktualisieren oder offline nehmen.</p>"
+    },
+    {
+      "h2": "Inhalte vorbereiten: eine Checkliste",
+      "html": "<ol><li>Die zehn häufigsten Kundenfragen sammeln, etwa aus Telefon, E-Mails und Gesprächen.</li><li>Prüfen, ob jede davon auf der Website beantwortet wird.</li><li>Fehlende Antworten ergänzen, am besten auf einer FAQ-Seite oder der passenden Leistungsseite.</li><li>Veraltete Seiten und PDFs entfernen oder aktualisieren.</li><li>Widersprüche zwischen Seiten auflösen.</li><li>Festlegen, wie der Bot Kontakt anbietet, wenn er keine Antwort hat.</li></ol> <p>Diese Arbeit ist meist der größte Teil der Vorbereitung. Hilfe beim Schreiben bietet der Ratgeber <a href=\"/wissen/website-texte-schreiben/\">Website-Texte schreiben</a>.</p>"
+    },
+    {
+      "h2": "Wenn der Bot keine Antwort findet",
+      "html": "<p>Kein Bot weiß alles, und das ist in Ordnung. Entscheidend ist, was dann passiert. Ein guter Bot sagt ehrlich, dass er die Frage nicht beantworten kann, und bietet einen Weg zu Ihrem Team an: Telefonnummer, E-Mail oder Rückrufwunsch mit den wichtigsten Angaben.</p><p>So arbeitet auch <a href=\"/produkte/pipebot/\">Pipebot</a>: Er antwortet nur mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit Ihrem Team. Die Fragen, die der Bot nicht beantworten konnte, sind für Sie besonders wertvoll. Sie zeigen genau, welche Informationen auf der Website noch fehlen.</p>"
+    },
+    {
+      "h2": "Aktuell halten und doppelt profitieren",
+      "html": "<p>Inhalte sind keine einmalige Aufgabe. Nehmen Sie sich vor jeder Saison, bei Preisänderungen und bei neuen Leistungen fünf Minuten, um die betroffenen Seiten zu prüfen. Wird die Website aktualisiert, sollte auch der Bot die neuen Inhalte übernehmen. Fragen Sie den Anbieter, wie das abläuft.</p><p>Der Aufwand lohnt sich doppelt: Klare, vollständige Antworten auf häufige Fragen helfen nicht nur Ihrem Chatbot, sondern auch Google und KI-Suchen wie ChatGPT oder Gemini, Ihren Betrieb richtig zu beschreiben. Wie Sie solche Antworten aufbauen, erklärt <a href=\"/wissen/faq-fuer-ki-suchen/\">FAQ für KI-Suchen</a>. Ob Ihre Website für einen Chatbot reicht, zeigt der <a href=\"https://pipebot.at/#gratis-check\">Gratis-Check von Pipebot</a>, und wie oft KI-Suchen Ihren Betrieb nennen, misst der <a href=\"https://hittaro.com/check\">Gratis-Check von Hittaro</a> mit Bericht innerhalb von 24 Stunden.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Antwortet ein KI-Chatbot auch mit Wissen aus dem Internet?",
+      "a": "Das hängt von der Einstellung ab. Allgemeine KI-Assistenten nutzen ihr Trainingswissen und teils eine Internetsuche. Ein Website-Chatbot für Betriebe sollte dagegen auf Ihre eigenen Inhalte beschränkt sein, damit er keine falschen oder fremden Angaben macht. Pipebot antwortet zum Beispiel nur mit den Inhalten Ihrer Website und verbindet bei Unsicherheit mit Ihrem Team."
+    },
+    {
+      "q": "Kann ein Chatbot auch PDFs und Dokumente lesen?",
+      "a": "Viele Chatbot-Lösungen können zusätzliche Dokumente wie Preislisten, Broschüren oder Hausordnungen als Wissensquelle nutzen. Wichtig ist, dass diese Unterlagen aktuell sind und keine vertraulichen Informationen enthalten. Ob und wie das bei einem bestimmten Anbieter möglich ist, sollten Sie vor dem Start klären, ebenso wie Änderungen später übernommen werden."
+    },
+    {
+      "q": "Was passiert, wenn meine Website-Inhalte falsch sind?",
+      "a": "Dann gibt der Chatbot die falschen Angaben weiter, weil er nicht beurteilen kann, was stimmt. Deshalb ist die Prüfung der Website vor dem Start so wichtig. Lesen Sie in den ersten Wochen die Gesprächsverläufe durch: Falsche Antworten weisen fast immer auf veraltete oder widersprüchliche Stellen auf der Website hin, die Sie dann korrigieren."
+    },
+    {
+      "q": "Wie viele Inhalte braucht ein Chatbot mindestens?",
+      "a": "Eine feste Mindestmenge gibt es nicht. Entscheidend ist, dass die häufigsten Fragen Ihrer Kunden beantwortet werden: Leistungen, Einsatzgebiet, Preise oder Preisrahmen, Öffnungszeiten, Ablauf und Kontakt. Eine kleine Website mit fünf gut geschriebenen Seiten und einer FAQ kann dafür reichen. Ob es bei Ihnen genügt, zeigt ein Gratis-Check vorab."
+    },
+    {
+      "q": "Muss ich für den Chatbot extra Texte schreiben?",
+      "a": "Meist nicht für den Chatbot allein, sondern für die Website. Fehlen dort Antworten auf häufige Fragen, ergänzen Sie diese am besten als FAQ oder auf den passenden Seiten. Davon profitieren Besucher, die selbst lesen, der Chatbot und auch Suchmaschinen. Eigene, versteckte Texte nur für den Bot sind selten nötig und schwerer aktuell zu halten."
+    }
+  ],
+  "verwandt": [
+    "/glossar/rag/",
+    "/wissen/faq-fuer-ki-suchen/",
+    "/produkte/pipebot/",
+    "/wissen/chatbot-fehler/",
+    "/wissen/website-texte-schreiben/"
+  ],
+  "checks": [
+    "chatbot-test",
+    "ki-sichtbarkeit"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pfad": "/leistungen/website-erstellen/waidhofen-an-der-ybbs/",
+  "title": "Website erstellen lassen in Waidhofen an der Ybbs",
+  "description": "Website erstellen lassen in Waidhofen an der Ybbs: für Geschäfte und Lokale im Stadtzentrum, mit Öffnungszeiten, Sortiment und Online-Gutscheinen.",
+  "h1": "Website erstellen lassen in Waidhofen an der Ybbs",
+  "kicker": "Website · Waidhofen an der Ybbs",
+  "lead": "Waidhofen an der Ybbs ist eine kleine Statutarstadt im Ybbstal, deren Zentrum von Geschäften, Cafés und Dienstleistern lebt. Für diese Betriebe muss eine Website vor allem Lust auf einen Besuch machen und praktische Fragen klären. Mühlberger Digital vermittelt solche Websites ab 2.500 €, auf Wunsch mit der Möglichkeit, Gutscheine online zu verkaufen.",
+  "fakten": [
+    "Statutarstadt im Mostviertel mit Geschäften und Lokalen im Zentrum",
+    "Die Website soll Menschen in die Stadt holen, nicht ersetzen",
+    "Gutscheine online verkaufen: auch für kleine Geschäfte machbar",
+    "Starter-Website ab 2.500 € einmalig inklusive Hosting"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Die Website als Schaufenster vor dem Besuch",
+      "html": "<p>Wer überlegt, für einen Einkauf oder einen Kaffee in die Stadt zu fahren, schaut vorher kurz nach: Hat das Geschäft heute offen? Führt es, was ich suche? Gibt es in der Nähe einen Parkplatz? Eine Website, die das in Sekunden beantwortet, ist für den Handel in einer kleineren Stadt das, was früher das Schaufenster beim Vorbeigehen war.</p>"
+    },
+    {
+      "h2": "Was auf die Startseite gehört",
+      "html": "<p>Für Geschäfte und Lokale ist die Startseite oft die einzige Seite, die gelesen wird. Ganz oben sollten stehen:</p><ol><li>Was Sie anbieten, in einem Satz</li><li>Öffnungszeiten von heute und der Woche</li><li>Adresse mit Link zur Karte und Hinweis zum Parken</li><li>Ein Foto vom Geschäft oder Lokal, wie es wirklich aussieht</li></ol><p>Weitere Tipps zum Aufbau gibt der Ratgeber <a href=\"/wissen/startseite-aufbauen/\">Startseite aufbauen</a>.</p>"
+    },
+    {
+      "h2": "Sortiment zeigen, ohne einen Shop zu bauen",
+      "html": "<p>Ein Fachgeschäft für Haushaltswaren, ein Optiker oder eine Modeboutique muss nicht jedes Produkt online stellen. Oft reichen Kategorien mit einigen Beispielbildern und der Hinweis „Weitere Modelle bei uns im Geschäft“. Das lädt zum Besuch ein, statt den Online-Handel zu kopieren. Anregungen auf der Seite für den <a href=\"/branchen/einzelhandel/\">Einzelhandel</a>.</p><p>Ein Café zeigt dagegen besser Karte, Kuchenauswahl und vielleicht ein Frühstücksangebot am Wochenende.</p>"
+    },
+    {
+      "h2": "Gutscheine als Brücke zwischen online und vor Ort",
+      "html": "<p>Gutscheine sind ein gutes Beispiel, wie ein kleines Geschäft online verkaufen kann, ohne ein ganzes Sortiment zu pflegen. Kunden kaufen am Abend, verschenken und die Beschenkten kommen in den Laden. Wie das funktioniert und was es kostet, erklärt der Ratgeber <a href=\"/wissen/gutscheine-online/\">Gutscheine online verkaufen</a>.</p><p>Die Starter-Website beginnt bei 2.500 €, ein Gutscheinverkauf wird im Angebot extra ausgewiesen. Mehr unter <a href=\"/leistungen/website-erstellen/\">Website erstellen lassen</a>, regionale Infos auf <a href=\"/regionen/waidhofen-an-der-ybbs/\">Waidhofen an der Ybbs</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Brauche ich als kleines Geschäft wirklich eine eigene Website?",
+      "a": "Wenn Kunden Sie vorher online suchen, ja. Ein Google-Profil zeigt Adresse und Öffnungszeiten, aber kaum, was Sie besonders macht. Eine einfache Website mit Sortiment, Fotos und Ihrer Geschichte gibt Menschen einen Grund, gerade zu Ihnen zu kommen. Wer hauptsächlich Laufkundschaft hat und kaum gesucht wird, kann mit einem gut gepflegten Profil vorerst auskommen."
+    },
+    {
+      "q": "Wie aktuell müssen Sortimentsbilder sein?",
+      "a": "Sie sollten zeigen, was Sie grundsätzlich führen, nicht jedes einzelne Stück. Ein Wechsel ein- bis zweimal im Jahr, etwa zur neuen Saison, reicht in der Regel. Wichtig ist, dass keine Marken oder Produkte gezeigt werden, die Sie gar nicht mehr anbieten. Sonst kommen Kunden mit falschen Erwartungen ins Geschäft und sind enttäuscht."
+    },
+    {
+      "q": "Kann ich auf der Website auf Aktionen in der Stadt hinweisen?",
+      "a": "Ja, ein kleiner Bereich für Neuigkeiten eignet sich dafür gut, etwa für verlängerte Öffnungszeiten an Einkaufsabenden oder für Feste im Zentrum. Diesen Bereich können Sie selbst pflegen. Wichtig ist, alte Hinweise rechtzeitig wieder zu entfernen, damit die Seite nicht veraltet wirkt. Eine Meldung mit Datum hilft Besuchern bei der Einordnung."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/website-erstellen/",
+    "/regionen/waidhofen-an-der-ybbs/",
+    "/regionen/mostviertel/",
+    "/branchen/einzelhandel/",
+    "/wissen/gutscheine-online/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}

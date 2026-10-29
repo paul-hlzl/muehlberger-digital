@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/kaltakquise-oder-inbound/",
+  "title": "Kaltakquise oder Inbound-Marketing? Der Vergleich",
+  "description": "Kaltakquise oder Inbound-Marketing für neue Kunden? Tempo, Aufwand, Rechtsrahmen in Österreich und Wirkung fair verglichen – mit Empfehlung für KMU.",
+  "h1": "Kaltakquise oder Inbound-Marketing?",
+  "kicker": "Vergleich · Neukunden",
+  "lead": "Bei der Kaltakquise gehen Sie aktiv auf mögliche Kunden zu – das bringt schneller Gespräche, kostet aber Zeit und unterliegt in Österreich strengen Regeln. Inbound-Marketing sorgt dafür, dass Kunden Sie selbst finden, etwa über Website, Google und Social Media; das dauert länger, wirkt aber dauerhaft. Für Betriebe mit Geschäftskunden ist meist eine Mischung am wirksamsten.",
+  "fakten": [
+    "Kaltakquise: aktiv, gezielt, schnelle Rückmeldung – aber rechtlich eng geregelt",
+    "Inbound: Kunden kommen von selbst, dafür braucht es Zeit und gute Inhalte",
+    "Werbe-E-Mails und Werbeanrufe ohne Einwilligung sind in Österreich grundsätzlich unzulässig",
+    "SightUp findet passende Firmenkunden und schreibt die erste Nachricht vor"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Richtungen der Kundengewinnung",
+      "html": "<p><strong>Kaltakquise</strong> heißt: Sie sprechen Menschen oder Firmen an, die Sie noch nicht kennen und die nicht nach Ihnen gefragt haben – per Brief, persönlichem Besuch, auf Messen oder, wo erlaubt, per Telefon oder Nachricht. Mehr im <a href=\"/glossar/kaltakquise/\">Glossar: Kaltakquise</a>.</p><p><strong>Inbound-Marketing</strong> dreht die Richtung um: Sie veröffentlichen hilfreiche Inhalte, werden bei Google und in KI-Suchen gefunden und bekommen Anfragen von Menschen, die bereits Interesse haben. Mehr im <a href=\"/glossar/inbound-marketing/\">Glossar: Inbound-Marketing</a>.</p>"
+    },
+    {
+      "h2": "Was für Kaltakquise spricht",
+      "html": "<ul><li><strong>Tempo:</strong> Sie müssen nicht warten, bis jemand Sie findet.</li><li><strong>Zielgenau:</strong> Sie wählen selbst, mit welchen Firmen Sie arbeiten möchten.</li><li><strong>Direktes Feedback:</strong> Sie erfahren schnell, ob Ihr Angebot ankommt.</li></ul><p>Typische Situation: Ein Metallbaubetrieb hat freie Kapazitäten in der Werkstatt und möchte gezielt Landmaschinenhändler und Gewerbebetriebe im Umkreis ansprechen, die regelmäßig Sonderanfertigungen brauchen könnten.</p><p>Die Kehrseite: viel Ablehnung, hoher Zeitaufwand und ein enger rechtlicher Rahmen. Wer trotzdem aktiv ansprechen will, sollte gut vorbereitet sein: Warum passt gerade diese Firma, welches konkrete Problem können Sie lösen, und was ist der nächste kleine Schritt, etwa ein kurzes Kennenlernen? Eine persönliche, gut recherchierte Ansprache wird deutlich seltener abgelehnt als ein allgemeines Werbeschreiben.</p>"
+    },
+    {
+      "h2": "Was für Inbound-Marketing spricht",
+      "html": "<ul><li><strong>Bessere Anfragen:</strong> Wer sich meldet, hat sich schon informiert und ein echtes Anliegen.</li><li><strong>Nachhaltig:</strong> Ein guter Ratgeber auf Ihrer Website bringt über lange Zeit Besucher.</li><li><strong>Vertrauen:</strong> Sie zeigen Fachwissen, statt es nur zu behaupten.</li><li><strong>Kein Rechtsrisiko</strong> durch unerwünschte Kontaktaufnahme.</li></ul><p>Die Kehrseite: Es braucht Geduld und regelmäßige Arbeit an Website, Google-Profil und Social Media. Wie man die Qualität von Anfragen verbessert, beschreibt <a href=\"/wissen/anfragen-qualitaet/\">Bessere Anfragen bekommen</a>.</p>"
+    },
+    {
+      "h2": "Kaltakquise und Inbound im Vergleich",
+      "html": "<table><thead><tr><th>Kriterium</th><th>Kaltakquise</th><th>Inbound-Marketing</th></tr></thead><tbody><tr><td>Richtung</td><td>Sie gehen auf Kunden zu</td><td>Kunden kommen zu Ihnen</td></tr><tr><td>Erste Ergebnisse</td><td>schnell</td><td>nach Wochen bis Monaten</td></tr><tr><td>Aufwand</td><td>laufend, pro Kontakt</td><td>anfangs hoch, dann wiederkehrend</td></tr><tr><td>Qualität der Kontakte</td><td>gemischt</td><td>meist hoch, Interesse vorhanden</td></tr><tr><td>Rechtlicher Rahmen</td><td>eng, Einwilligung oft nötig</td><td>unkritisch bei eigenen Inhalten</td></tr><tr><td>Ideal für</td><td>Geschäftskunden, klar abgegrenzte Zielgruppe</td><td>Privat- und Geschäftskunden mit Suchbedarf</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Der rechtliche Rahmen in Österreich",
+      "html": "<p>In Österreich sind Werbeanrufe und Werbe-E-Mails ohne vorherige Einwilligung grundsätzlich unzulässig – und zwar in vielen Fällen auch gegenüber Unternehmen, nicht nur gegenüber Privatpersonen. Briefe, persönliche Gespräche auf Messen oder Empfehlungen sind dagegen in der Regel unproblematisch.</p><p>Das ist eine allgemeine Orientierung, keine Rechtsberatung. Einen Überblick gibt der Ratgeber <a href=\"/wissen/kaltakquise-regeln/\">Regeln für Kaltakquise</a>; im Einzelfall fragen Sie die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a> oder Ihre Rechtsberatung.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung: gezielt ansprechen, dauerhaft gefunden werden",
+      "html": "<ul><li><strong>Geschäftskunden, kleiner, klar definierter Markt:</strong> sorgfältige, rechtskonforme Direktansprache plus starke Website.</li><li><strong>Privatkunden:</strong> vor allem Inbound, also Website, Google-Profil, Bewertungen und Social Media.</li><li><strong>Wenig Zeit für Recherche:</strong> Unterstützung bei der Auswahl passender Firmen.</li></ul><p>Hier hilft <a href=\"/produkte/sightup/\">SightUp</a>: Es findet passende Firmenkunden in Ihrer Nähe, bewertet sie von 0 bis 100 und schreibt die erste Nachricht vor. Verschickt wird nichts automatisch – Sie entscheiden, ob, wie und auf welchem erlaubten Weg Sie Kontakt aufnehmen. Das Gratis-Paket umfasst 3 Suchen pro Monat, danach gibt es Start um 19 €, Pro um 50 € und Business um 150 € pro Monat. Mehr unter <a href=\"https://sightup.at/\">sightup.at</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist Kaltakquise per E-Mail in Österreich erlaubt?",
+      "a": "Werbe-E-Mails ohne vorherige Einwilligung sind in Österreich grundsätzlich unzulässig, und das gilt in vielen Fällen auch gegenüber Unternehmen. Es gibt eng begrenzte Ausnahmen, etwa bei bestehenden Kundenbeziehungen. Das ist eine allgemeine Orientierung und keine Rechtsberatung. Bevor Sie E-Mails an unbekannte Firmen schicken, klären Sie die Rechtslage im Einzelfall mit der WKO oder Ihrer Rechtsberatung."
+    },
+    {
+      "q": "Wie lange dauert es, bis Inbound-Marketing wirkt?",
+      "a": "Inbound-Marketing braucht meist einige Monate, bis Anfragen regelmäßig kommen. Lokale Maßnahmen wie ein gepflegtes Google-Unternehmensprofil und eine klare Website wirken oft schneller als umfangreiche Ratgeberinhalte. Wichtig ist, dranzubleiben: Jeder gute Beitrag und jede Bewertung zahlt auf die Sichtbarkeit ein. Wer nach zwei Wochen aufhört, sieht kaum Ergebnisse."
+    },
+    {
+      "q": "Verschickt SightUp Nachrichten automatisch?",
+      "a": "Nein. SightUp findet passende Firmenkunden in der Nähe, bewertet sie von 0 bis 100 und schreibt eine erste Nachricht als Vorschlag. Verschickt wird nichts automatisch. Sie prüfen jeden Vorschlag, passen ihn an und entscheiden selbst, ob und auf welchem rechtlich zulässigen Weg Sie Kontakt aufnehmen. So bleibt die Verantwortung bei Ihnen und der Ton persönlich."
+    },
+    {
+      "q": "Was ist für einen kleinen Betrieb besser?",
+      "a": "Für die meisten kleinen Betriebe ist Inbound die Grundlage: eine gute Website, ein gepflegtes Google-Profil und zufriedene Kunden, die Bewertungen schreiben. Wer Geschäftskunden in einem überschaubaren Markt sucht, ergänzt das sinnvoll mit gezielter, rechtskonformer Direktansprache. Entscheidend ist, dass beides zusammenpasst: Wer angesprochen wird, schaut fast immer zuerst auf die Website."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/neukundengewinnung-b2b/",
+    "/wissen/b2b-kunden-finden/",
+    "/wissen/kaltakquise-regeln/",
+    "/produkte/sightup/",
+    "/gratis-check/neukunden-finden/"
+  ],
+  "checks": [
+    "neukunden-finden"
+  ]
+}

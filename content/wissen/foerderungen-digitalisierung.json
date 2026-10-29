@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/foerderungen-digitalisierung/",
+  "title": "Förderungen für Digitalisierung in Österreich",
+  "description": "Förderungen für Digitalisierung in Österreich: Welche Arten es gibt, wo Sie aktuelle Programme finden, wie ein Antrag abläuft und welche Fehler Sie vermeiden.",
+  "h1": "Förderungen für Digitalisierung in Österreich",
+  "kicker": "Ratgeber · Digitalisierung",
+  "lead": "In Österreich gibt es Förderungen für Digitalisierung auf Bundesebene, von den Bundesländern und teils über die Wirtschaftskammer, etwa für Beratung, Investitionen in Software oder Weiterbildung. Die Programme ändern sich häufig, deshalb sollten Sie sich vor jedem Projekt bei der Wirtschaftskammer über aktuelle Angebote informieren. Die wichtigste Regel: Bei vielen Programmen muss der Antrag gestellt werden, bevor Sie einen Auftrag vergeben oder mit dem Projekt beginnen.",
+  "fakten": [
+    "Förderungen kommen vom Bund, von den Ländern und über die Wirtschaftskammer",
+    "Häufig gefördert: Beratung, Investitionen, Weiterbildung, Innovation",
+    "Bei vielen Programmen gilt: Antrag vor Projektbeginn, sonst keine Förderung",
+    "Programme, Bedingungen und Fristen ändern sich laufend, aktuelle Infos bei der WKO",
+    "Ein Projekt sollte sich auch ohne Förderung lohnen, die Förderung ist ein Zuschuss, kein Grund"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Welche Arten von Förderungen es gibt",
+      "html": "<p>Förderungen für Digitalisierung lassen sich grob in vier Gruppen teilen. Welche davon zu Ihrem Vorhaben passt, hängt von Größe des Betriebs, Branche, Standort und Art des Projekts ab.</p><ul><li><strong>Beratungsförderungen:</strong> Ein Teil der Kosten für eine Digitalisierungs- oder Strategieberatung wird übernommen. Oft ein guter Einstieg, weil am Ende ein Plan steht.</li><li><strong>Investitionsförderungen:</strong> Zuschüsse oder günstige Finanzierungen für Software, Hardware oder Umsetzungsprojekte.</li><li><strong>Weiterbildungsförderungen:</strong> Unterstützung für Schulungen von Mitarbeitern, etwa zu neuen Programmen oder KI-Werkzeugen.</li><li><strong>Innovations- und Forschungsförderungen:</strong> für neue Produkte, Verfahren oder Entwicklungen, eher bei größeren und technischen Vorhaben.</li></ul><p>Daneben gibt es steuerliche Instrumente, die Investitionen begünstigen können. Ob diese für Sie greifen, klären Sie mit Ihrer Steuerberatung.</p>"
+    },
+    {
+      "h2": "Wo Sie aktuelle Programme finden",
+      "html": "<p>Die erste Anlaufstelle für kleine und mittlere Unternehmen ist die <a href=\"https://www.wko.at/\">Wirtschaftskammer</a>. Sie bietet in den Bundesländern eine Förderberatung an, kennt die aktuellen Programme von Bund und Land und hilft bei der Frage, was zu Ihrem Vorhaben passt.</p><p>Auf Bundesebene vergeben unter anderem die Austria Wirtschaftsservice (aws) und die Forschungsförderungsgesellschaft (FFG) Förderungen. Die Bundesländer haben eigene Wirtschaftsförderungen, die Bundesprogramme ergänzen. Allgemeine Informationen für Unternehmen bündelt außerdem das <a href=\"https://www.usp.gv.at/\">Unternehmensserviceportal</a> des Bundes.</p><p>Verlassen Sie sich nicht auf Förderinfos aus älteren Artikeln oder Werbung. Programme laufen aus, Budgets werden ausgeschöpft, Bedingungen ändern sich. Auch hier nennen wir bewusst keine Beträge oder Fristen, weil diese schnell veralten.</p>"
+    },
+    {
+      "h2": "So läuft ein Förderantrag typischerweise ab",
+      "html": "<ol><li><strong>Vorhaben beschreiben:</strong> Was soll digitalisiert werden, welches Problem wird gelöst, was ist das Ziel?</li><li><strong>Förderberatung nutzen:</strong> bei der Wirtschaftskammer oder der Förderstelle klären, welches Programm passt.</li><li><strong>Angebote einholen:</strong> Viele Programme verlangen Kostenvoranschläge, teils von mehreren Anbietern.</li><li><strong>Antrag stellen</strong>, bevor Aufträge vergeben werden, wenn das Programm das verlangt.</li><li><strong>Zusage abwarten</strong>, dann umsetzen.</li><li><strong>Abrechnen:</strong> Rechnungen, Zahlungsnachweise und oft einen kurzen Bericht einreichen.</li></ol><p>Ein Beispiel: Ein Tischler plant eine neue Website mit Online-Terminanfrage und eine digitale Auftragsabwicklung. Er klärt zuerst mit der Förderberatung, welche Teile förderfähig sein könnten, holt danach Angebote ein und unterschreibt erst nach Antragstellung. So geht der Anspruch nicht durch einen voreiligen Auftrag verloren.</p>"
+    },
+    {
+      "h2": "Häufige Fehler, die eine Förderung kosten",
+      "html": "<ul><li><strong>Zu früh beauftragt:</strong> Der häufigste und ärgerlichste Fehler. Bei vielen Programmen gilt ein bereits begonnenes Projekt nicht mehr als förderfähig.</li><li><strong>Unklare Ziele:</strong> „Digitalisierung“ ist kein Projekt. Förderstellen wollen wissen, was sich konkret verbessert.</li><li><strong>Fehlende Unterlagen:</strong> Angebote, Firmendaten oder Nachweise nicht vollständig.</li><li><strong>Nicht förderfähige Kosten eingeplant:</strong> Laufende Kosten wie Abos oder eigene Arbeitszeit sind oft ausgenommen.</li><li><strong>Abrechnung vergessen:</strong> Ohne fristgerechte Abrechnung kein Geld, auch nach einer Zusage.</li><li><strong>Projekt nur wegen der Förderung:</strong> Wenn sich ein Vorhaben ohne Zuschuss nicht lohnt, lohnt es sich meist auch mit Zuschuss nicht.</li></ul>"
+    },
+    {
+      "h2": "Was oft gefördert wird, und was eher nicht",
+      "html": "<p>Allgemein, ohne Gewähr für einzelne Programme: Beratung, Konzeption, Einführung neuer Software, IT-Sicherheit, Schulungen und Umsetzungsprojekte mit klarem Digitalisierungsbezug haben in vielen Programmen gute Chancen. Reine Ersatzanschaffungen, laufende Betriebskosten oder Marketingmaßnahmen ohne Digitalisierungsbezug sind seltener förderfähig.</p><p>Für Projekte rund um KI, Automatisierung oder neue Websites lohnt sich die Nachfrage, weil diese Themen in Förderprogrammen immer wieder vorkommen. Ob Ihr konkretes Vorhaben dazugehört, kann nur die jeweilige Förderstelle verbindlich sagen.</p>"
+    },
+    {
+      "h2": "Wie wir Sie dabei unterstützen",
+      "html": "<p>Wir sind keine Förderstelle und machen keine Förderberatung. Was wir tun: Wir klären im <a href=\"/erstgespraech/\">kostenlosen Erstgespräch</a>, welche digitale Lösung zu Ihrem Betrieb passt, und erstellen ein klares, schriftliches Angebot, das Sie für Ihren Förderantrag verwenden können. Mit der Umsetzung beginnen wir erst, wenn Sie grünes Licht geben, also auch erst nach Ihrer Antragstellung, wenn das Programm das verlangt.</p><p>Unsere <a href=\"/preise/\">Richtpreise</a> geben einen ersten Rahmen, mehr zum Vorgehen finden Sie unter <a href=\"/leistungen/digitalisierungsberatung/\">Digitalisierungsberatung</a> und im Beitrag <a href=\"/wissen/digitalisierung-wo-anfangen/\">Digitalisierung im Betrieb: Wo anfangen?</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wo finde ich aktuelle Förderungen für Digitalisierung in Österreich?",
+      "a": "Erste Anlaufstelle ist die Förderberatung der Wirtschaftskammer in Ihrem Bundesland. Sie kennt die aktuellen Programme von Bund und Land und hilft bei der Auswahl. Auf Bundesebene vergeben unter anderem die aws und die FFG Förderungen, dazu kommen Programme der Länder. Weil sich Bedingungen und Budgets laufend ändern, sollten Sie vor jedem Projekt neu nachfragen."
+    },
+    {
+      "q": "Muss ich den Förderantrag vor dem Projektstart stellen?",
+      "a": "Bei vielen Förderprogrammen ja. Wer einen Auftrag unterschreibt oder mit der Umsetzung beginnt, bevor der Antrag eingereicht ist, verliert häufig den Anspruch. Die genauen Regeln stehen in den Richtlinien des jeweiligen Programms. Klären Sie das vor jeder Auftragsvergabe mit der Förderstelle oder der Wirtschaftskammer und holen Sie bis dahin nur unverbindliche Angebote ein."
+    },
+    {
+      "q": "Wird eine neue Website gefördert?",
+      "a": "Das hängt vom jeweiligen Programm ab. Manche Förderungen unterstützen Digitalisierungsprojekte, zu denen auch Websites mit neuen Funktionen wie Online-Buchung oder Shop gehören können, andere schließen reine Websites aus. Eine verbindliche Auskunft gibt nur die Förderstelle. Wir liefern Ihnen gern ein schriftliches Angebot, mit dem Sie die Förderfähigkeit prüfen lassen können."
+    },
+    {
+      "q": "Hilft Mühlberger Digital beim Förderantrag?",
+      "a": "Wir sind keine Förderberatung und stellen keine Anträge. Wir helfen aber dabei, Ihr Vorhaben klar zu beschreiben, und liefern ein schriftliches Angebot mit Leistungsumfang und Preis, das Sie für den Antrag verwenden können. Mit der Umsetzung beginnen wir erst nach Ihrer Freigabe, damit ein förderrelevanter Projektstart nicht versehentlich zu früh liegt."
+    }
+  ],
+  "verwandt": ["/wissen/digitalisierung-wo-anfangen/", "/leistungen/digitalisierungsberatung/", "/preise/", "/wissen/ki-kosten/", "/erstgespraech/"],
+  "checks": ["seo-check"]
+}

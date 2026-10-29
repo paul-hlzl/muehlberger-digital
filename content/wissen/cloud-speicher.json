@@ -1,0 +1,61 @@
+{
+  "pfad": "/wissen/cloud-speicher/",
+  "title": "Cloud-Speicher und Datenschutz im Betrieb",
+  "description": "Cloud-Speicher und Datenschutz: Was Betriebe bei Serverstandort, Auftragsverarbeitung, Verschlüsselung und Zugriffsrechten beachten sollten – verständlich erklärt.",
+  "h1": "Cloud-Speicher und Datenschutz",
+  "kicker": "Ratgeber · Datenschutz",
+  "lead": "Cloud-Speicher dürfen Betriebe auch für Kundendaten nutzen, wenn ein paar Voraussetzungen erfüllt sind: ein Vertrag zur Auftragsverarbeitung mit dem Anbieter, ein nachvollziehbarer Serverstandort, idealerweise in der EU, sichere Zugänge mit Zwei-Faktor-Anmeldung und klare Regeln, wer worauf zugreifen darf. Ein Backup ersetzt der Cloud-Speicher allein meist nicht, und bei besonders sensiblen Daten lohnt sich zusätzliche Verschlüsselung.",
+  "fakten": [
+    "Speichert ein Anbieter Kundendaten für Sie, braucht es meist einen Vertrag zur Auftragsverarbeitung",
+    "Serverstandort in der EU vereinfacht die Datenschutzfragen deutlich",
+    "Zwei-Faktor-Anmeldung und Rechte pro Ordner sind Pflichtprogramm",
+    "Synchronisierte Ordner sind kein Backup: Gelöschtes verschwindet überall",
+    "Für Gesundheits- und andere sensible Daten gelten strengere Anforderungen"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Was Cloud-Speicher im Betrieb leisten",
+      "html": "<p>Ein Cloud-Speicher legt Ihre Dateien auf Servern eines Anbieters ab, statt nur auf dem eigenen Computer. Sie können von überall darauf zugreifen, mit dem Team gemeinsam an Dokumenten arbeiten und sind bei einem defekten Laptop nicht gleich alle Daten los.</p><p>Typische Einsätze sind gemeinsame Ordner für Angebote und Projekte, Fotos von Baustellen, die Monteure direkt vom Handy hochladen, oder der Austausch mit der Steuerberatung. Gleichzeitig liegen dort oft personenbezogene Daten: Kundenadressen, Verträge, Lebensläufe von Bewerbern. Deshalb ist Datenschutz bei Cloud-Speichern kein Randthema.</p>"
+    },
+    {
+      "h2": "Datenschutz: Die wichtigsten Punkte",
+      "html": "<p>Als allgemeine Orientierung, ohne Ersatz für eine Beratung im Einzelfall:</p><ul><li><strong>Auftragsverarbeitung:</strong> Wenn ein Anbieter personenbezogene Daten in Ihrem Auftrag speichert, braucht es in der Regel einen Vertrag zur Auftragsverarbeitung. Seriöse Anbieter stellen ihn bereit, oft in den Kontoeinstellungen.</li><li><strong>Serverstandort:</strong> Liegen die Daten in der EU, gelten dieselben Datenschutzregeln wie für Sie. Bei Anbietern außerhalb der EU braucht es zusätzliche Grundlagen für die Übermittlung.</li><li><strong>Transparenz:</strong> Nennen Sie in Ihrer Datenschutzerklärung, welche Dienstleister Daten verarbeiten.</li><li><strong>Datensparsamkeit:</strong> Nur speichern, was nötig ist, und Altes regelmäßig löschen.</li><li><strong>Verzeichnis:</strong> Die Cloud gehört in Ihr Verzeichnis der Verarbeitungstätigkeiten.</li></ul><p>Für Übermittlungen in die USA gibt es seit 2023 einen Angemessenheitsbeschluss für zertifizierte Unternehmen, die Rechtslage war aber in der Vergangenheit mehrfach im Fluss. Viele Betriebe wählen deshalb bewusst Anbieter mit Speicherung in der EU. Mehr dazu unter <a href=\"/vergleiche/hosting-europa-oder-usa/\">Hosting in Europa oder in den USA</a>. Im Einzelfall hilft die <a href=\"https://www.dsb.gv.at/\">Datenschutzbehörde</a>.</p>"
+    },
+    {
+      "h2": "Den richtigen Anbieter auswählen",
+      "html": "<p>Neben großen internationalen Diensten gibt es europäische Anbieter und Lösungen, die Sie selbst oder über einen Dienstleister betreiben. Prüfen Sie bei der Auswahl:</p><ul><li>Wo stehen die Server, und lässt sich der Speicherort festlegen?</li><li>Gibt es einen Vertrag zur Auftragsverarbeitung?</li><li>Wie werden Daten verschlüsselt, bei der Übertragung und auf den Servern?</li><li>Gibt es Zwei-Faktor-Anmeldung und Rechte pro Ordner und Person?</li><li>Bleiben gelöschte Dateien eine Zeit lang wiederherstellbar, gibt es Versionen?</li><li>Wie kommen Sie bei einem Wechsel an alle Daten?</li><li>Funktioniert die App auf allen Geräten im Betrieb, auch am Handy?</li></ul><p>Ein Beispiel: Eine Physiotherapiepraxis will Befunde nicht mehr nur ausgedruckt ablegen. Weil es sich um Gesundheitsdaten handelt, wählt sie einen Anbieter mit Speicherung in der EU, aktiviert Zwei-Faktor-Anmeldung für alle und legt die Befunde in einem Ordner ab, auf den nur die Therapeutinnen zugreifen.</p>"
+    },
+    {
+      "h2": "Sicher einrichten: Zugänge und Rechte",
+      "html": "<p>Die meisten Datenpannen mit Cloud-Speichern entstehen nicht beim Anbieter, sondern durch falsche Einstellungen im Betrieb:</p><ul><li><strong>Zwei-Faktor-Anmeldung</strong> für alle Konten verpflichtend machen</li><li><strong>Ordnerstruktur nach Berechtigung:</strong> Lohnunterlagen sieht nicht jeder</li><li><strong>Freigabelinks</strong> mit Ablaufdatum und Passwort statt dauerhaft öffentlicher Links</li><li><strong>Regelmäßig prüfen,</strong> welche Freigaben noch aktiv sind</li><li><strong>Eigene Konten</strong> für jede Person, keine geteilten Logins</li><li><strong>Austritte:</strong> Zugriff am letzten Tag entfernen, Dateien an das Team übertragen</li><li><strong>Private Konten</strong> nicht für Firmendaten nutzen</li></ul><p>Passwörter für die Cloud gehören in einen <a href=\"/wissen/passwort-manager/\">Passwort-Manager</a>, nicht in eine Datei in der Cloud selbst.</p>"
+    },
+    {
+      "h2": "Cloud ist nicht gleich Backup",
+      "html": "<p>Ein häufiges Missverständnis: „Unsere Daten sind in der Cloud, also gesichert.“ Synchronisierte Ordner spiegeln jede Änderung, auch versehentliches Löschen oder eine Verschlüsselung durch Schadsoftware. Was am Laptop zerstört wird, ist kurz darauf auch in der Cloud zerstört.</p><p>Schutz bieten Versionierung und Papierkorb mit ausreichender Aufbewahrungszeit, besser noch ein zusätzliches Backup an einem getrennten Ort. Testen Sie gelegentlich, ob Sie eine ältere Version wirklich zurückholen können. Wie ein sinnvolles Backup-Konzept aussieht, steht im Beitrag <a href=\"/wissen/it-sicherheit/\">IT-Sicherheit für kleine Betriebe</a>, für die Website gilt Ähnliches, siehe <a href=\"/wissen/website-backup/\">Backups für die Website</a>.</p>"
+    },
+    {
+      "h2": "Checkliste für Ihren Cloud-Speicher",
+      "html": "<ul><li>Vertrag zur Auftragsverarbeitung abgeschlossen bzw. akzeptiert</li><li>Serverstandort bekannt und dokumentiert</li><li>Anbieter in der Datenschutzerklärung genannt</li><li>Zwei-Faktor-Anmeldung für alle aktiv</li><li>Rechte nach Ordnern vergeben und zuletzt geprüft am …</li><li>Öffentliche Freigaben regelmäßig kontrolliert</li><li>Zusätzliches Backup vorhanden, Wiederherstellung getestet</li><li>Regel für Austritte und für private Geräte festgelegt</li></ul><p>Wenn Sie Werkzeuge mit KI einsetzen, etwa für Gesprächsnotizen, gelten dieselben Fragen. <a href=\"https://noteit.at/\">noteit</a> speichert zum Beispiel in Frankfurt, also in der EU. Grundsätzliches dazu im Beitrag <a href=\"/wissen/ki-und-datenschutz/\">KI im Betrieb und Datenschutz</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Darf ich Kundendaten in einem Cloud-Speicher ablegen?",
+      "a": "Grundsätzlich ja, wenn die Voraussetzungen stimmen. Dazu gehören in der Regel ein Vertrag zur Auftragsverarbeitung mit dem Anbieter, eine geeignete Grundlage bei Speicherung außerhalb der EU, sichere Zugänge, passende Zugriffsrechte und die Nennung in der Datenschutzerklärung. Für besonders sensible Daten wie Gesundheitsdaten gelten strengere Anforderungen. Im Einzelfall hilft die Datenschutzbehörde."
+    },
+    {
+      "q": "Muss der Cloud-Speicher in Europa stehen?",
+      "a": "Nicht zwingend, aber es vereinfacht vieles. Bei Speicherung in der EU gelten dieselben Datenschutzregeln wie für Ihren Betrieb. Für Übermittlungen in Länder außerhalb der EU braucht es eine zusätzliche rechtliche Grundlage, etwa einen Angemessenheitsbeschluss oder Standardvertragsklauseln. Viele Betriebe wählen deshalb bewusst Anbieter, die Daten in der EU speichern."
+    },
+    {
+      "q": "Ist ein Cloud-Speicher ein Backup?",
+      "a": "Nur eingeschränkt. Synchronisierte Ordner übernehmen jede Änderung, also auch versehentliches Löschen oder eine Verschlüsselung durch Schadsoftware. Versionierung und Papierkorb helfen, ersetzen aber kein eigenständiges Backup an einem getrennten Ort. Sichern Sie wichtige Daten zusätzlich und testen Sie regelmäßig, ob die Wiederherstellung funktioniert."
+    },
+    {
+      "q": "Was ist ein Vertrag zur Auftragsverarbeitung?",
+      "a": "Ein Vertrag zur Auftragsverarbeitung regelt, wie ein Dienstleister personenbezogene Daten in Ihrem Auftrag verarbeitet: wofür, wie geschützt, ob Subunternehmer beteiligt sind und was nach Vertragsende passiert. Die DSGVO verlangt ihn, wenn ein externer Anbieter solche Daten für Sie speichert oder verarbeitet. Bei Cloud-Diensten wird er meist online in den Kontoeinstellungen abgeschlossen."
+    }
+  ],
+  "verwandt": ["/wissen/hosting-in-europa/", "/vergleiche/hosting-europa-oder-usa/", "/wissen/it-sicherheit/", "/wissen/papierloses-buero/", "/glossar/dsgvo/"],
+  "checks": ["seo-check"]
+}

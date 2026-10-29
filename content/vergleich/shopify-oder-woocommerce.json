@@ -1,0 +1,68 @@
+{
+  "pfad": "/vergleiche/shopify-oder-woocommerce/",
+  "title": "Shopify oder WooCommerce? Onlineshop-Systeme im Test",
+  "description": "Shopify oder WooCommerce für Ihren Onlineshop? Aufwand, laufende Kosten, Freiheit und Wartung neutral verglichen – mit klarer Empfehlung je Situation.",
+  "h1": "Shopify oder WooCommerce?",
+  "kicker": "Vergleich · Onlineshop",
+  "lead": "Shopify ist eine gehostete Komplettlösung: Sie zahlen ein Abo, der Anbieter kümmert sich um Technik, Sicherheit und Server. WooCommerce ist eine kostenlose Shop-Erweiterung für WordPress, die Ihnen volle Kontrolle gibt, aber eigenes Hosting und regelmäßige Wartung verlangt. Wer wenig Technik will, ist bei Shopify gut aufgehoben; wer flexibel bleiben und bereits WordPress nutzen will, eher bei WooCommerce.",
+  "fakten": [
+    "Shopify: Abo-Modell, Hosting und Updates inklusive",
+    "WooCommerce: kostenlos als Software, Hosting und Wartung selbst organisieren",
+    "Bei beiden kosten viele Zusatzfunktionen extra",
+    "Onlineshop über Pipeline AI Solutions: Preis nach dem Erstgespräch"
+  ],
+  "abschnitte": [
+    {
+      "h2": "Zwei Systeme mit unterschiedlicher Philosophie",
+      "html": "<p><strong>Shopify</strong> ist ein Software-as-a-Service-Angebot, also gemietete Software im Internet: Sie mieten den Shop, gestalten ihn über Vorlagen und erweitern ihn über einen App-Marktplatz. Server, Sicherheit und Updates sind Sache des Anbieters.</p><p><strong>WooCommerce</strong> ist ein Open-Source-Plugin, das WordPress zum Shop macht. Die Software ist kostenlos, läuft aber auf Ihrem eigenen Hosting. Für Updates, Backups und Sicherheit sind Sie oder Ihr Dienstleister verantwortlich. Für die WordPress-Grundlage gilt deshalb vieles aus dem Vergleich <a href=\"/vergleiche/wordpress-oder-individuell/\">WordPress oder individuelle Website</a>.</p>"
+    },
+    {
+      "h2": "Was für Shopify spricht",
+      "html": "<ul><li><strong>Schneller Start:</strong> Produkte anlegen, Zahlungsarten aktivieren, losverkaufen.</li><li><strong>Wenig Technik:</strong> Kein eigenes Hosting, keine Plugin-Updates.</li><li><strong>Stabil bei Ansturm:</strong> Die Infrastruktur des Anbieters ist auf viele Besucher ausgelegt.</li><li><strong>Viele Apps:</strong> Für Versand, Marketing oder Bewertungen gibt es fertige Erweiterungen.</li></ul><p>Typische Situation: Eine Konditorei, die Torten zum Abholen online verkauft und keinerlei Lust auf Technik hat. Sie will einfach, dass es funktioniert.</p>"
+    },
+    {
+      "h2": "Was für WooCommerce spricht",
+      "html": "<ul><li><strong>Volle Kontrolle:</strong> Daten, Hosting und Code liegen bei Ihnen. Sie können den Anbieter wechseln.</li><li><strong>Nahtlos mit WordPress:</strong> Wer bereits eine WordPress-Website hat, ergänzt einfach den Shop.</li><li><strong>Freie Anpassung:</strong> Besondere Abläufe wie Produkt-Konfiguratoren lassen sich individuell umsetzen.</li><li><strong>Hosting in Europa:</strong> Sie wählen selbst, wo der Shop läuft – siehe <a href=\"/vergleiche/hosting-europa-oder-usa/\">Hosting in Europa oder den USA</a>.</li></ul><p>Typische Situation: Eine Tischlerei mit WordPress-Website, die Schneidbretter in verschiedenen Holzarten und Größen anbietet und dafür eine eigene Auswahllogik braucht.</p>"
+    },
+    {
+      "h2": "Shopify und WooCommerce im Vergleich",
+      "html": "<p>Preise und Tarife beider Systeme ändern sich regelmäßig. Die Tabelle beschreibt daher grundsätzliche Unterschiede; konkrete Kosten prüfen Sie direkt beim Anbieter.</p><table><thead><tr><th>Kriterium</th><th>Shopify</th><th>WooCommerce</th></tr></thead><tbody><tr><td>Modell</td><td>gehostetes Abo</td><td>kostenloses Plugin für WordPress</td></tr><tr><td>Hosting</td><td>beim Anbieter inklusive</td><td>selbst wählen und bezahlen</td></tr><tr><td>Updates und Sicherheit</td><td>Sache des Anbieters</td><td>Ihre Aufgabe oder die Ihres Dienstleisters</td></tr><tr><td>Erweiterungen</td><td>App-Marktplatz, oft mit Monatsgebühr</td><td>Plugins, teils kostenlos, teils kostenpflichtig</td></tr><tr><td>Anpassbarkeit</td><td>innerhalb der Plattform-Regeln</td><td>sehr hoch</td></tr><tr><td>Anbieterwechsel</td><td>Daten exportierbar, Shop wird neu aufgebaut</td><td>Umzug mit Daten und Code möglich</td></tr><tr><td>Ideal für</td><td>Händler ohne Technikwunsch</td><td>WordPress-Nutzer, besondere Anforderungen</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Was bei beiden gleich bleibt",
+      "html": "<p>Egal welches System: Die rechtlichen und organisatorischen Hausaufgaben bleiben bei Ihnen. Dazu gehören AGB, Widerrufsbelehrung, Impressum, Datenschutz und passende Zahlungsarten. Orientierung geben die Ratgeber <a href=\"/wissen/agb-onlineshop/\">AGB im Onlineshop</a> und <a href=\"/wissen/zahlungsarten-onlineshop/\">Zahlungsarten im Onlineshop</a>. Im Einzelfall hilft die WKO weiter.</p><p>Auch Fotos, Produkttexte und Versand müssen Sie selbst organisieren. Ein Shop verkauft nicht von allein – er braucht Besucher, etwa über Google, Social Media oder einen Newsletter.</p><p>Planen Sie außerdem die Zeit nach dem Start ein: Wer beantwortet Fragen zu Lieferzeiten und Bestellungen, wer verpackt, wer hält Lagerstände und Preise aktuell? Diese Arbeit ist bei Shopify und WooCommerce gleich groß. Gerade in kleinen Betrieben entscheidet sie mehr über den Erfolg des Shops als die Wahl der Software. Ein klarer Wochenablauf, etwa fixe Versandtage, hilft dabei.</p>"
+    },
+    {
+      "h2": "Unsere Empfehlung je Situation",
+      "html": "<ul><li><strong>Wenig Zeit, kein Interesse an Technik, Standardprodukte:</strong> Shopify.</li><li><strong>Bestehende WordPress-Website, besondere Produkte, Wunsch nach Kontrolle:</strong> WooCommerce mit Wartungsvertrag.</li><li><strong>Nur wenige Produkte, kaum Online-Verkäufe erwartet:</strong> Prüfen Sie zuerst den Vergleich <a href=\"/vergleiche/eigener-shop-oder-marktplatz/\">Eigener Shop oder Marktplatz</a>.</li></ul><p>Pipeline AI Solutions setzt Onlineshops um, der Preis wird nach dem Erstgespräch angeboten. Mehr unter <a href=\"/leistungen/onlineshop-erstellen/\">Onlineshop erstellen lassen</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Ist WooCommerce wirklich kostenlos?",
+      "a": "Die Software selbst ist kostenlos. Für einen funktionierenden Shop fallen aber trotzdem Kosten an: Hosting, Domain, oft ein kostenpflichtiges Theme, Erweiterungen für Versand oder Zahlungen und die laufende Wartung. Dazu kommen Gebühren der Zahlungsanbieter. Rechnen Sie deshalb alle Posten über ein bis zwei Jahre zusammen, bevor Sie WooCommerce mit einem Shopify-Abo vergleichen."
+    },
+    {
+      "q": "Kann ich später von Shopify zu WooCommerce wechseln oder umgekehrt?",
+      "a": "Ja, ein Wechsel ist möglich. Produkte, Kundendaten und Bestellungen lassen sich in der Regel exportieren und übernehmen. Das Design und viele Erweiterungen müssen aber neu eingerichtet werden, und Webadressen ändern sich oft, was für Google sauber umgeleitet werden muss. Ein Wechsel ist also ein eigenes kleines Projekt und sollte gut geplant werden."
+    },
+    {
+      "q": "Welches System ist besser für Google?",
+      "a": "Beide Systeme können bei Google gut gefunden werden. Wichtiger als die Plattform sind gute Produkttexte, eigene Fotos, schnelle Ladezeiten, eine klare Struktur und hilfreiche Inhalte rund um Ihre Produkte. WooCommerce erlaubt mehr technische Feinarbeit, Shopify nimmt Ihnen dafür einiges ab. Entscheiden Sie also nach Aufwand und Anforderungen, nicht nach Suchmaschinen-Gerüchten."
+    },
+    {
+      "q": "Brauche ich für einen Onlineshop einen Dienstleister?",
+      "a": "Nicht zwingend. Einen einfachen Shopify-Shop richten viele Händler selbst ein. Bei WooCommerce, besonderen Produkten, Anbindungen an Warenwirtschaft oder Buchhaltung oder wenig eigener Zeit lohnt sich Unterstützung. Ein Dienstleister kann auch nur die Grundeinrichtung übernehmen, während Sie Produkte selbst pflegen. Im Erstgespräch klären wir, welcher Weg für Sie sinnvoll ist."
+    }
+  ],
+  "verwandt": [
+    "/leistungen/onlineshop-erstellen/",
+    "/wissen/onlineshop-kosten/",
+    "/wissen/onlineshop-starten/",
+    "/vergleiche/eigener-shop-oder-marktplatz/",
+    "/glossar/payment-provider/"
+  ],
+  "checks": [
+    "website-entwurf"
+  ]
+}
