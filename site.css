@@ -766,3 +766,14 @@ a.ml:hover { box-shadow: 0 20px 40px -24px rgba(31,99,239,.35), 0 0 0 1px rgba(3
 @media (max-width: 991px) {
   .mq { -webkit-mask-image: none; mask-image: none; }
 }
+
+/* Mehr entdecken: Links auf die Unterseiten */
+.discover { padding: 110px 0 120px; background: var(--off); border-radius: var(--r-xl) var(--r-xl) 0 0; }
+.dgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 36px; }
+.dgrid h3 { font: 700 20px/1.2 var(--display); letter-spacing: -.02em; margin-bottom: 16px; }
+.dgrid ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.dgrid a { color: var(--text); transition: color .2s; }
+.dgrid a:hover { color: var(--blue); }
+.dgrid li:last-child a { font-weight: 600; color: var(--ink); }
+@media (max-width: 991px) { .dgrid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .discover { padding: 80px 0; } .dgrid { grid-template-columns: 1fr; gap: 28px; } }
